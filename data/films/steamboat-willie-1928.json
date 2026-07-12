@@ -1,0 +1,48 @@
+{
+  "id": "steamboat-willie-1928",
+  "title": "Steamboat Willie",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Published 1928; the 95-year US copyright term expired and the film entered the public domain on January 1, 2024 — the most publicized Public Domain Day entry in history.", "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2024", "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"}
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "The synchronized 1928 soundtrack is part of the published 1928 work and expired with it. Modern re-recordings are separately protected.", "source": "Duke CSPD analysis", "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"}
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Original 1928 short; no separate underlying work.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "registration", "note": "Disney holds live, actively enforced trademarks in Mickey Mouse names and imagery as brand identifiers. You may use the 1928 FILM and its specific character version creatively, but using Mickey as a logo, brand, or product identifier invites a trademark action. Later Mickey designs (gloves, color, modern proportions) remain copyrighted.", "source": "USPTO records / Disney enforcement history", "url": "https://tsdr.uspto.gov/"}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Disney's cleaned-up masters are separately protected; use archival scans.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/steamboat-willie-mickey", "label": "Internet Archive (archival scan)", "quality": "SD"}
+  ],
+  "editorial": "The 1928 short that built the Disney empire entered the public domain on January 1, 2024, after decades of copyright-term extensions nicknamed the 'Mickey Mouse Protection Act'. The film — including its synchronized whistling soundtrack — is free.\n\nMickey the BRAND is not. Disney's trademarks live on and are enforced: you can adapt the 1928 film and its scrappy, black-and-white Mickey creatively, but you cannot use Mickey as a logo, on packaging, or in ways that imply Disney origin. And only the 1928 design is free — the modern Mickey remains copyrighted. This is the clearest case on the internet of copyright and trademark pointing in opposite directions.",
+  "faq": [
+    ["Can I make and monetize a video using Steamboat Willie?", "Yes — the 1928 film is public domain, including its soundtrack. Use archival scans, keep to the 1928 character design, and never present Mickey as your brand identifier."],
+    ["Why did horror games and films start using Mickey in 2024?", "Because the 1928 version's copyright expired — the same reason Winnie-the-Pooh horror appeared after 2022. Trademark law still polices branding, not creative reuse."]
+  ]
+}

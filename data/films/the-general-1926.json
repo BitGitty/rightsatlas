@@ -1,0 +1,48 @@
+{
+  "id": "the-general-1926",
+  "title": "The General",
+  "year": 1926,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Published 1926; the 95-year US term expired January 1, 2022. (The film had also famously lapsed earlier via non-renewal — either way, it is unambiguously free.)", "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2022", "url": "https://web.law.duke.edu/cspd/publicdomainday/2022/"}
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {"type": "research_note", "note": "Silent film — every score you'll hear on a modern copy is a separately protected recording or composition. The images are free; the audio track on your copy is not.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Based on William Pittenger's 1863 memoir of the Great Locomotive Chase — long public domain.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Modern 4K restorations (Cohen/Kino) carry new protectable elements.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/The_General_Buster_Keaton", "label": "Internet Archive", "quality": "SD/HD varies"}
+  ],
+  "editorial": "Buster Keaton's Civil War locomotive chase — routinely voted among the greatest films ever made — is free in every layer that matters: the images by term expiry, the underlying memoir by age, the title by common usage. It is the ideal public-domain film for creators learning the craft of re-editing, scoring, and restoration.\n\nThe single caution is universal to silent film: the music on any copy you download is a modern, protected recording. Strip the audio and score it yourself.",
+  "faq": [
+    ["Is The General completely free to use?", "The film and story are, yes. Replace the audio — every modern score recording is separately protected."],
+    ["Which copy should I use?", "Archival scans (like the Internet Archive copies) rather than branded 4K restorations, which add new protected elements."]
+  ]
+}

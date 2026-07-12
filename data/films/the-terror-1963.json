@@ -1,0 +1,49 @@
+{
+  "id": "the-terror-1963",
+  "title": "The Terror",
+  "year": 1963,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "notice_failure", "note": "Corman's Boris Karloff / Jack Nicholson quickie was released without effective copyright and is a decades-long fixture of the US public domain. Primary evidence scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/The_Terror_(1963_film)"},
+        {"type": "hosting", "note": "Long-standing Internet Archive hosting.", "source": "Internet Archive", "url": "https://archive.org/details/TheTerror"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Ronald Stein score; separate registration status not verified here.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay (Leo Gordon / Jack Hill); no underlying work.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Modern restorations/colorizations separately protected.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/TheTerror", "label": "Internet Archive (h.264)", "quality": "480p+"}
+  ],
+  "editorial": "Shot in leftover days on leftover sets with a young Jack Nicholson opposite Boris Karloff, The Terror is the film Corman made because the castle set from The Raven was still standing. It fell straight into the public domain and has anchored horror compilations ever since — and its footage famously appears inside another PD favorite, Targets (which is NOT free).\n\nOriginal story, no marks, archival prints everywhere. Standard-era cautions apply: unverified score chain, protected modern restorations.",
+  "faq": [
+    ["Can I use The Terror in my videos?", "Yes, from archival prints, with low risk; the score's separate status is unverified so audio claims are possible."],
+    ["Is Targets (1968) also public domain because it uses this footage?", "No. Targets is a separately copyrighted film that merely licensed footage from The Terror."]
+  ]
+}

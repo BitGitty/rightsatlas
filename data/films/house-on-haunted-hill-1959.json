@@ -1,0 +1,48 @@
+{
+  "id": "house-on-haunted-hill-1959",
+  "title": "House on Haunted Hill",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "renewal_absence", "note": "William Castle's 1959 Vincent Price vehicle was not renewed and has circulated as US public domain for decades across archives and budget labels. Primary renewal-search scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/House_on_Haunted_Hill"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Von Dexter score; separate registration status not verified here.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay by Robb White; no underlying novel or play.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks; the 1999 remake is separately protected.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Modern HD restorations and colorized versions carry new protectable elements.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/house_on_haunted_hill_ipod", "label": "Internet Archive", "quality": "480p"}
+  ],
+  "editorial": "William Castle's gimmick masterpiece — the one he screened with a plastic skeleton flying over the audience — lapsed into the public domain and became one of the most re-released horror films of all time. Vincent Price hosting a haunted-house party with a murder mystery inside: the formula still works.\n\nOriginal screenplay, no franchise marks, and the usual two cautions of its era: an unverified score chain, and modern restorations that are separately protected.",
+  "faq": [
+    ["Can I upload or reuse House on Haunted Hill?", "Archival prints carry low risk; the 1999 remake and modern restorations are protected and must be avoided as sources."],
+    ["Why are so many Vincent Price films public domain?", "Independent producers of the era frequently missed renewal deadlines — 28 years after release, someone had to remember to file. Many didn't."]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "dementia-13-1963",
+  "title": "Dementia 13",
+  "year": 1963,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "renewal_absence", "note": "Roger Corman production released 1963; no renewal registration is known and the film has circulated as US public domain for decades. Primary renewal-search scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/Dementia_13"},
+        {"type": "hosting", "note": "Multiple long-standing Internet Archive copies.", "source": "Internet Archive", "url": "https://archive.org/details/TERRORDEMENTIA13"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Ronald Stein score; separate registration status not verified here.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay by Francis Ford Coppola; no pre-existing underlying work.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks; the 2017 remake is separately protected.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "The 2021 'Director's Cut' restoration (Vestron/Lionsgate) contains new protectable elements.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/TERRORDEMENTIA13", "label": "Internet Archive (DVD rip, film is title 4)", "quality": "480p"},
+    {"url": "https://archive.org/details/Dementia13_201411", "label": "Internet Archive (single file)", "quality": "480p"}
+  ],
+  "editorial": "Francis Ford Coppola's real directing debut — shot in nine days in Ireland on Roger Corman's leftover budget — was never renewed, and spent the home-video era as a drive-in staple of public-domain horror boxes. Nine years later the same director made The Godfather.\n\nIts layers are unusually clean for a 1963 film: original Coppola screenplay, purpose-written score with no known separate chain, no franchise marks. The modern trap is the 2021 Director's Cut restoration, which is a new protected master — stick to archival prints.",
+  "faq": [
+    ["Can I upload or reuse Dementia 13?", "Risk is comparatively low on archival prints. Avoid the 2021 Director's Cut master, and keep this page's evidence for any dispute."],
+    ["Is this really Coppola's first film?", "It's his first mainstream feature as writer-director — which is why the film matters beyond its budget."]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cabinet-of-dr-caligari-1920",
+  "title": "The Cabinet of Dr. Caligari",
+  "year": 1920,
+  "country": "DE",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Published 1920; the full US term expired long ago, and expiry cannot be undone by the URAA. Public domain in the US regardless of German origin.", "source": "Cornell Copyright Term chart", "url": "https://guides.library.cornell.edu/copyright/publicdomain"}
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {"type": "research_note", "note": "Silent film — modern score recordings on circulating copies are separately protected.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Original screenplay (Mayer/Janowitz), 1920 — expired.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "The 2014 4K restoration (Murnau Foundation) is separately protected — use archival prints.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/TheCabinetOfDrCaligari1920", "label": "Internet Archive", "quality": "SD"}
+  ],
+  "editorial": "The film that invented the horror movie — painted shadows, tilted sets, a somnambulist killer and the first great twist ending — has been free in the US for generations. Every layer of the original is expired: images, screenplay, design.\n\nAs with all silents, the audio on your copy is the only trap: modern recordings are protected. The other trap is sourcing from the gorgeous 2014 restoration, which carries fresh rights. Archival prints plus your own score is the clean path.",
+  "faq": [
+    ["Can I use Caligari's imagery in my own work?", "Yes — the film's expressionist imagery is public domain and has influenced a century of design. Archival prints only; replace the audio."],
+    ["Is German Expressionism itself protected?", "Styles are never copyrightable — only specific expressions. The style is free; a specific modern restoration is not."]
+  ]
+}

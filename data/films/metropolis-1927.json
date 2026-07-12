@@ -1,0 +1,48 @@
+{
+  "id": "metropolis-1927",
+  "title": "Metropolis",
+  "year": 1927,
+  "country": "DE",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Published 1927; the 95-year US term expired and Metropolis entered the US public domain on January 1, 2023 (its earlier URAA restoration ended on the same expiry schedule).", "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2023", "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"}
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {"type": "research_note", "note": "Gottfried Huppertz's 1927 score is public domain as a composition, but modern recordings of it (and all newer scores, e.g. Moroder's 1984 version) are separately protected. The audio on the copy you download is the risk.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Thea von Harbou's novel and screenplay predate the film (1925-26) and their US terms have likewise expired.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known blocking marks; 'Metropolis' as a word is widely used.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "'The Complete Metropolis' (2010), incorporating footage rediscovered in Buenos Aires, is a restored edition with its own protected elements — use pre-2010 archival prints for reuse.", "source": "Kino Lorber release notes", "url": "https://www.kinolorber.com/film/view/id/1023"}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/MetropolisFritzLang1927", "label": "Internet Archive (archival print)", "quality": "SD/HD varies"}
+  ],
+  "editorial": "The most influential science-fiction film ever made had one of the strangest rights journeys: German origin, a US copyright lost and then RESTORED by the URAA treaty in 1996 — and then finally extinguished for good by simple old age on January 1, 2023. Even restored foreign copyrights die on the 95-year schedule.\n\nFor creators the trap is the version: the celebrated 'Complete Metropolis' reconstruction from the Buenos Aires reels is a modern restored edition with its own rights. Archival prints of the classic cut are the free source, and as with all silents, whatever music is attached to your copy is probably a protected modern recording.",
+  "faq": [
+    ["Wasn't Metropolis restored by that treaty? How is it free?", "The URAA restored its US copyright in 1996, but restoration doesn't extend the clock — the 95-year term from 1927 still expired on January 1, 2023."],
+    ["Can I use the Complete Metropolis (2010) footage?", "Treat the 2010 reconstruction as protected. Use earlier archival prints of the classic cut."]
+  ]
+}

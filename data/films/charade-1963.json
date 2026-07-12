@@ -1,0 +1,49 @@
+{
+  "id": "charade-1963",
+  "title": "Charade",
+  "year": 1963,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "notice_failure", "note": "Universal's release prints carried a defective copyright notice (omitting the required elements), placing the photoplay in the US public domain on publication in 1963 under the 1909 Act. This is one of the most-cited notice-failure cases in film-copyright literature.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/Charade_(1963_film)#Copyright_status"},
+        {"type": "hosting", "note": "Hosted openly for two decades on the Internet Archive and included in countless budget releases without challenge to the print itself.", "source": "Internet Archive", "url": "https://archive.org/details/Charade_1963"}
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "registration", "note": "Henry Mancini's score (including the title song 'Charade', lyrics by Johnny Mercer) was separately registered and renewed as a musical work — the MUSIC remains under copyright even though the film print is free. Claims on the audio track are legitimate.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Based on the story 'The Unsuspecting Wife' by Peter Stone and Marc Behm (published in Redbook, 1961). The underlying story's registration and renewal chain is separate from the film — under Stewart v. Abend, exploiting a derivative film can infringe a still-protected underlying story. No renewal search result is on file here.", "source": "Stewart v. Abend, 495 U.S. 207 (1990)", "url": "https://supreme.justia.com/cases/federal/us/495/207/"}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No active franchise marks known on the title or characters.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "The Criterion Collection and Universal HD masters are modern transfers; use archival copies instead.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/Charade_1963", "label": "Internet Archive", "quality": "varies"}
+  ],
+  "editorial": "Charade is the textbook example of why a one-click public-domain answer fails. The film — Cary Grant, Audrey Hepburn, Paris, one of the best thrillers of the 1960s — fell into the US public domain the day it was released, because Universal printed a defective copyright notice on it.\n\nBut Henry Mancini's score never fell with it. The music was registered and renewed separately and remains protected, which is why 'public domain' uploads of Charade still receive legitimate audio claims. And under the Supreme Court's Stewart v. Abend rule, the still-separate rights in the underlying magazine story add another layer of risk for commercial reuse. Free film, protected music, uncertain story — three different answers inside one movie.",
+  "faq": [
+    ["Can I use Charade footage in my videos?", "The images are public domain in the US, but the Mancini score is not — mute or replace the audio for reuse, and keep this page's evidence for any dispute over the picture itself."],
+    ["Why do PD lists always include Charade?", "Because the print genuinely is public domain — the defective notice story is real. The lists just rarely mention that the music and underlying story carry separate rights."]
+  ]
+}
