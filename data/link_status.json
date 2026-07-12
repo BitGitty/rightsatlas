@@ -1,0 +1,81 @@
+{
+ "checked": "2026-07-12",
+ "items": {
+  "TheCabinetOfDrCaligari1920": {
+   "ok": false,
+   "film": "cabinet-of-dr-caligari-1920"
+  },
+  "CarnivalofSouls": {
+   "ok": true,
+   "film": "carnival-of-souls-1962"
+  },
+  "Charade_1963": {
+   "ok": false,
+   "film": "charade-1963"
+  },
+  "TERRORDEMENTIA13": {
+   "ok": true,
+   "film": "dementia-13-1963"
+  },
+  "Dementia13_201411": {
+   "ok": true,
+   "film": "dementia-13-1963"
+  },
+  "his_girl_friday": {
+   "ok": true,
+   "film": "his-girl-friday-1940"
+  },
+  "house_on_haunted_hill_ipod": {
+   "ok": true,
+   "film": "house-on-haunted-hill-1959"
+  },
+  "TheLastManOnEarthHD": {
+   "ok": true,
+   "film": "last-man-on-earth-1964"
+  },
+  "TheLastManOnEarth_72": {
+   "ok": true,
+   "film": "last-man-on-earth-1964"
+  },
+  "TheLittleShopOfHorrors": {
+   "ok": true,
+   "film": "little-shop-of-horrors-1960"
+  },
+  "McLintock": {
+   "ok": false,
+   "film": "mclintock-1963"
+  },
+  "MetropolisFritzLang1927": {
+   "ok": false,
+   "film": "metropolis-1927"
+  },
+  "night_of_the_living_dead_dvd": {
+   "ok": true,
+   "film": "night-of-the-living-dead-1968"
+  },
+  "Night.Of.The.Living.Dead_1080p": {
+   "ok": true,
+   "film": "night-of-the-living-dead-1968"
+  },
+  "Nosferatu_201410": {
+   "ok": false,
+   "film": "nosferatu-1922"
+  },
+  "Plan_9_from_Outer_Space_1959": {
+   "ok": false,
+   "film": "plan-9-from-outer-space-1957"
+  },
+  "steamboat-willie-mickey": {
+   "ok": true,
+   "film": "steamboat-willie-1928"
+  },
+  "The_General_Buster_Keaton": {
+   "ok": true,
+   "film": "the-general-1926"
+  },
+  "TheTerror": {
+   "ok": true,
+   "film": "the-terror-1963"
+  }
+ }
+}
