@@ -210,6 +210,10 @@ def build():
     (OUT / "assets").mkdir(parents=True)
     for a in (ROOT / "assets").iterdir():
         shutil.copy(a, OUT / "assets" / a.name)
+    static = ROOT / "static"
+    if static.exists():
+        for a in static.iterdir():
+            shutil.copy(a, OUT / a.name)
 
     (OUT / "index.html").write_text(index_page(films), encoding="utf-8")
     (OUT / "films").mkdir()
