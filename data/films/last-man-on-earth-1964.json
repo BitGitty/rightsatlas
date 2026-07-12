@@ -1,0 +1,49 @@
+{
+  "id": "last-man-on-earth-1964",
+  "title": "The Last Man on Earth",
+  "year": 1964,
+  "country": "US/IT",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "renewal_absence", "note": "US release (American International Pictures, 1964); no renewal registration is known and the film has been treated as US public domain for decades across hosting platforms and budget labels. A US/Italian co-production origin means a URAA restoration argument is at least conceivable — we flag rather than dismiss it, and hold at 'likely'.", "source": "Internet Archive", "url": "https://archive.org/details/TheLastManOnEarthHD"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Paul Sawtell / Bert Shefter score; separate registration status not verified here.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "registration", "note": "Based on Richard Matheson's novel 'I Am Legend' (1954), which was registered and renewed and remains under copyright, with an actively exploited franchise (The Omega Man 1971, I Am Legend 2007). Under Stewart v. Abend, commercial exploitation of a derivative film during the underlying work's term can infringe the novel's rights.", "source": "Stewart v. Abend, 495 U.S. 207 (1990)", "url": "https://supreme.justia.com/cases/federal/us/495/207/"}
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "'I Am Legend' is an active studio franchise; avoid franchise naming in titles or branding.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Modern HD remasters and colorized versions carry new protectable elements.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/TheLastManOnEarthHD", "label": "Internet Archive (HD)", "quality": "720p+"},
+    {"url": "https://archive.org/details/TheLastManOnEarth_72", "label": "Internet Archive (alternate transfer)", "quality": "480p"}
+  ],
+  "editorial": "The first adaptation of I Am Legend — the Vincent Price picture that George Romero openly admitted inspired Night of the Living Dead — sits in an honesty gap most public-domain lists skip over. The film print itself has circulated as public domain for sixty years without renewal or challenge. But the NOVEL under it never lapsed: Richard Matheson's estate and the studios still actively license I Am Legend, and the Supreme Court's Stewart v. Abend decision says a still-protected underlying story can reach through a lapsed film.\n\nIn practice the film is hosted everywhere and enforcement against it is unheard of. But 'nobody has been sued' is a risk assessment, not a rights clearance — and that difference is exactly what this site exists to show.",
+  "faq": [
+    ["Everyone says this film is public domain — is that wrong?", "The print's US public-domain treatment is real and longstanding. What the lists omit is the still-copyrighted underlying novel, which creates residual legal risk for commercial reuse under Stewart v. Abend."],
+    ["Can I watch it free?", "Yes — archival copies are openly hosted (links above), and watching is the lowest-risk activity."]
+  ]
+}

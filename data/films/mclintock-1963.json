@@ -1,0 +1,48 @@
+{
+  "id": "mclintock-1963",
+  "title": "McLintock!",
+  "year": 1963,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "renewal_absence", "note": "Batjac (the Wayne family company) failed to renew the film's copyright in 1991, a lapse that was litigated around home-video rights in the 1990s and is unusually well documented for a color star vehicle. Primary renewal-search scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/McLintock!#Copyright_status"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Frank De Vol score plus the song 'Love in the Country'; separate registration status not verified here.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay by James Edward Grant (loosely riffing on The Taming of the Shrew, which is Shakespeare and free).", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Paramount's restored HD releases carry new protectable elements; archival prints are the free source.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/McLintock", "label": "Internet Archive", "quality": "480p+"}
+  ],
+  "editorial": "A John Wayne–Maureen O'Hara comedy in color from a major star's own company — and it still fell out of copyright, because in 1991 somebody at Batjac missed the renewal deadline. McLintock! became the highest-profile proof that renewal failure wasn't just a B-movie problem, and the family spent years fighting cut-rate VHS releases they couldn't stop.\n\nFor creators: the print circulates freely, the screenplay is original, and the risks are the era's usual pair — an unverified music chain and protected modern restorations.",
+  "faq": [
+    ["How did a John Wayne movie end up public domain?", "The same way as everyone else's: the 28-year renewal deadline (1991 for this film) was missed. Star power didn't file paperwork."],
+    ["Can I use McLintock! footage?", "Yes, from archival prints; prefer replacing the audio where the score is prominent, since the music chain is unverified."]
+  ]
+}

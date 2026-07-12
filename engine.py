@@ -1,0 +1,122 @@
+"""RightsAtlas rules engine.
+
+Red-team hard rules implemented here:
+- NO binary verdicts: five-tier status per rights LAYER
+  (print / score / story / trademark / restorations)
+- URAA gate: foreign works published in the renewal era are treated as
+  "likely restored" unless evidence says otherwise (Golan v. Holder)
+- Pre-cutoff rule is COMPUTED from the clock so the site can never be stale
+  on January 1 (works published before currentYear-95 are US public domain)
+- "verified_pd" claims REQUIRE evidence entries — build fails otherwise
+"""
+
+from datetime import date
+
+STATUSES = {
+    "verified_pd": ("Verified public domain", "ok"),
+    "likely_pd": ("Likely public domain", "prob"),
+    "partially_protected": ("Partially protected", "warn"),
+    "likely_restored": ("Likely restored (URAA)", "warn"),
+    "not_pd": ("Not public domain", "no"),
+    "undetermined": ("Undetermined", "unk"),
+}
+
+LAYERS = [
+    ("print", "Film print (photoplay)"),
+    ("score", "Music score"),
+    ("story", "Underlying story / screenplay"),
+    ("trademark", "Character trademarks"),
+    ("restorations", "Restorations / re-releases"),
+]
+
+FRANCHISE_TRADEMARK_FLAGS = (
+    "tarzan", "sherlock", "mickey", "zorro", "conan", "popeye",
+    "buck rogers", "dracula", "frankenstein",
+)
+
+
+def pd_cutoff_year(today: date | None = None) -> int:
+    """Last publication year now in US public domain by term expiry.
+    Works published before (currentYear - 95) i.e. year <= currentYear - 96."""
+    t = today or date.today()
+    return t.year - 96
+
+
+def next_pd_class_year(today: date | None = None) -> int:
+    return pd_cutoff_year(today) + 1
+
+
+def validate(film: dict) -> list:
+    """Return list of provenance errors (build fails if any)."""
+    errors = []
+    for key, _ in LAYERS:
+        layer = film["layers"].get(key)
+        if not layer:
+            errors.append(f"{film['id']}: missing layer '{key}'")
+            continue
+        if layer["status"] not in STATUSES:
+            errors.append(f"{film['id']}: bad status '{layer['status']}' on {key}")
+        if layer["status"] == "verified_pd" and not layer.get("evidence"):
+            errors.append(f"{film['id']}: verified_pd on '{key}' WITHOUT evidence")
+    return errors
+
+
+def apply_auto_rules(film: dict, today: date | None = None) -> dict:
+    """Rules may only make claims MORE cautious, never more optimistic."""
+    cutoff = pd_cutoff_year(today)
+    year = film["year"]
+    country = (film.get("country") or "US").upper()
+    print_layer = film["layers"]["print"]
+    notes = film.setdefault("auto_notes", [])
+
+    if year <= cutoff:
+        notes.append(
+            f"Published {year}: US copyright term (95 years) has expired for "
+            f"works published through {cutoff} — the film print is public "
+            f"domain in the US by term expiry, regardless of country of origin.")
+    elif country not in ("US", "USA") and print_layer["status"] in ("verified_pd", "likely_pd"):
+        if not any(e.get("type") == "uraa_analysis" for e in print_layer.get("evidence", [])):
+            print_layer["status"] = "likely_restored"
+            notes.append(
+                "URAA gate: non-US work in the renewal era without a documented "
+                "URAA analysis — status downgraded to 'likely restored' "
+                "(Uruguay Round Agreements Act; Golan v. Holder, 565 U.S. 302).")
+
+    hay = (film["title"] + " " + film.get("editorial", "")).lower()
+    tm = film["layers"]["trademark"]
+    if tm["status"] in ("verified_pd", "likely_pd") and any(f in hay for f in FRANCHISE_TRADEMARK_FLAGS):
+        tm["status"] = "undetermined"
+        notes.append(
+            "Franchise-character trademark flag: copyright expiry does not "
+            "extinguish trademark rights (see Edgar Rice Burroughs v. Dynamite; "
+            "Conan Doyle Estate v. Netflix). Check marks before branded use.")
+    return film
+
+
+def guidance(film: dict) -> dict:
+    """Plain-English 'what can you actually do' summary from the layers."""
+    s = {k: film["layers"][k]["status"] for k, _ in LAYERS}
+    watch_ok = s["print"] in ("verified_pd", "likely_pd")
+    reuse_layers = [s["print"], s["score"], s["story"]]
+    if all(x == "verified_pd" for x in reuse_layers):
+        reuse = ("green", "Strong public-domain case across print, score and story "
+                          "— reuse and monetization carry the lowest risk profile.")
+    elif any(x in ("not_pd", "likely_restored") for x in reuse_layers):
+        reuse = ("red", "One or more rights layers appears protected or restored — "
+                        "reusing this film commercially is risky without licensing "
+                        "or specific legal advice.")
+    elif any(x in ("partially_protected", "undetermined") for x in reuse_layers):
+        reuse = ("amber", "The film print may be free, but at least one layer "
+                          "(music, story, or restoration) is unresolved — expect "
+                          "Content ID claims; keep evidence handy and consider "
+                          "removing or replacing the score.")
+    else:
+        reuse = ("amber", "Public-domain case is probable but not fully verified — "
+                          "keep this page's evidence for any dispute.")
+    return {
+        "watch": ("green" if watch_ok else "amber",
+                  "Watching via the linked archival copies is generally the "
+                  "lowest-risk activity." if watch_ok else
+                  "Status unclear — the linked copies may not be authorized."),
+        "reuse": reuse,
+    }

@@ -1,0 +1,48 @@
+{
+  "id": "nosferatu-1922",
+  "title": "Nosferatu",
+  "year": 1922,
+  "country": "DE",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Published 1922; even for foreign works, the URAA could not restore what the full US term has outlived — any 95-year term from 1922 expired long ago. Nosferatu is public domain in the US by expiry, regardless of its German origin.", "source": "Cornell Copyright Term chart", "url": "https://guides.library.cornell.edu/copyright/publicdomain"}
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {"type": "research_note", "note": "Hans Erdmann's 1922 score is public domain as a composition, but virtually every RECORDING you can obtain is a modern performance with its own copyright, and many circulating prints carry newly composed scores. Treat the audio on any copy you download as protected unless proven otherwise.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "term_expiry", "note": "Unauthorized adaptation of Bram Stoker's Dracula (1897) — the novel has been public domain for decades (and the Stoker estate's 1925 lawsuit famously ordered all prints of Nosferatu destroyed; the film survived through illicit copies).", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/Nosferatu"}
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "The 2024 Eggers remake is an active studio property; avoid marketing that implies affiliation with it.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "The F.W. Murnau Foundation's tinted restorations are separately protected in various jurisdictions; archival scans are the free source.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/Nosferatu_201410", "label": "Internet Archive", "quality": "SD"}
+  ],
+  "editorial": "A court ordered every print of Nosferatu burned in 1925 — Bram Stoker's widow sued the unauthorized Dracula adaptation and won. The film survived through bootleg copies, outlived the novel's copyright, outlived its own, and became the most influential vampire film ever made. Today both the film and the novel it stole from are public domain in the US.\n\nThe living rights are all in the audio and the restorations: nearly every available copy carries a modern score recording or a foundation restoration. The images are free; the sound on your particular copy probably isn't.",
+  "faq": [
+    ["Is Nosferatu public domain even though it's German?", "Yes. The URAA restored many foreign works that failed US formalities, but it cannot restore a work whose entire 95-year US term has expired — 1922 is safely out."],
+    ["Can I use the music from a Nosferatu Blu-ray?", "Almost certainly not — modern recordings and newly composed scores are protected. Use the images and add your own audio."]
+  ]
+}

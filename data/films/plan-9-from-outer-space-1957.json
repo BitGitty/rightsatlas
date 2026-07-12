@@ -1,0 +1,48 @@
+{
+  "id": "plan-9-from-outer-space-1957",
+  "title": "Plan 9 from Outer Space",
+  "year": 1957,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "renewal_absence", "note": "Ed Wood's 1957 film (released 1959) was never renewed; it has been a public-domain staple for decades and appears in essentially every PD catalog. Primary renewal-search scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Soundtrack assembled from library cues; individual cues can carry separate registrations.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay by Edward D. Wood Jr.; no underlying work.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Modern colorized versions and HD restorations carry new protectable elements.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/Plan_9_from_Outer_Space_1959", "label": "Internet Archive", "quality": "480p"}
+  ],
+  "editorial": "'The worst movie ever made' survived precisely because nobody thought it worth renewing. Plan 9's lapsed copyright made it free for late-night TV, midnight screenings, and the mockery-driven cult that turned Ed Wood into a legend — the public domain is why you know this movie exists.\n\nThe layers are simple: original (if barely coherent) screenplay, no franchise marks, library-music soundtrack whose cues are the only meaningful claim risk. Colorized and restored versions are separately protected — archival prints are the safe source.",
+  "faq": [
+    ["Can I use Plan 9 clips in videos?", "Yes, with archival prints the risk is low; the main claim vector is library music cues on the audio track."],
+    ["Is the colorized version free too?", "No — colorization adds new protectable authorship. Use the original black-and-white prints."]
+  ]
+}

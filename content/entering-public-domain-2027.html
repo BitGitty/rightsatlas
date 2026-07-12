@@ -1,0 +1,51 @@
+Entering the public domain on January 1, 2027 — the Class of 1931
+<article class="dossier">
+<h1>Entering the US public domain on January 1, 2027</h1>
+<p class="meta">Works published in 1931 complete their 95-year US copyright term at the end
+of 2026. On January 1, 2027 they become free for everyone — and this page becomes a set of
+full evidence dossiers that day.</p>
+
+<div class="callout">
+<p><strong id="countdown">Counting down…</strong> until the Class of 1931 is free.</p>
+</div>
+
+<h2>The headliners of 1931</h2>
+<p><strong>Dracula</strong> (Tod Browning; Bela Lugosi's vampire — though Universal's
+trademark posture around the character will matter, as with Mickey in 2024).
+<strong>Frankenstein</strong> (James Whale; Karloff's monster — note the iconic flat-head
+makeup design raises its own questions). <strong>City Lights</strong> (Chaplin).
+<strong>M</strong> (Fritz Lang's serial-killer masterpiece — German, but expiry beats
+restoration, as our <a href="../film/metropolis-1927/">Metropolis dossier</a> explains).
+<strong>The Public Enemy</strong> (Cagney). <strong>Little Caesar</strong>.
+<strong>Cimarron</strong> (Best Picture winner). Plus every other film, book, song
+composition, and artwork first published in 1931.</p>
+
+<h2>What "entering the public domain" actually means</h2>
+<p>The 1931 film prints become free to copy, share, adapt, and monetize in the US. As
+always, layers matter: later remakes and restorations stay protected, franchise trademarks
+(Universal's monsters!) survive expiry, and modern score recordings on the copies you
+download carry their own rights. Our dossiers will map each layer with evidence, the day
+it happens.</p>
+
+<h2>For journalists and researchers</h2>
+<p>We are preparing a verified, machine-readable dataset of the 1931 film class — status,
+evidence, and where each film can be watched — available ahead of Public Domain Day for
+anyone covering it. Contact us via the address on the About page.</p>
+
+<script>
+(function () {
+  var el = document.getElementById("countdown");
+  var target = new Date(new Date().getFullYear() + 1, 0, 1);
+  if (new Date().getMonth() === 0 && new Date().getDate() === 1)
+    target = new Date(new Date().getFullYear(), 0, 1);
+  function tick() {
+    var ms = target - new Date();
+    if (ms <= 0) { el.textContent = "The Class of 1931 is public domain now."; return; }
+    var d = Math.floor(ms / 864e5), h = Math.floor(ms % 864e5 / 36e5);
+    el.textContent = d + " days, " + h + " hours";
+    setTimeout(tick, 60000);
+  }
+  tick();
+})();
+</script>
+</article>

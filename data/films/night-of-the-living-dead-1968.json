@@ -1,0 +1,52 @@
+{
+  "id": "night-of-the-living-dead-1968",
+  "title": "Night of the Living Dead",
+  "year": 1968,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "youtube_recap": "Feuba87v1mw",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "notice_failure", "note": "Theatrical prints were distributed in 1968 without a copyright notice after the title was changed from 'Night of the Flesh Eaters' — under the 1909 Act, publication without notice placed the work in the public domain.", "source": "Library of Congress National Film Registry essay", "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/night_living_dead.pdf"},
+        {"type": "secondary", "note": "The film's public-domain status is acknowledged across decades of scholarship and by its own creators in interviews; it is among the most-hosted feature films on the Internet Archive.", "source": "Internet Archive", "url": "https://archive.org/details/night_of_the_living_dead_dvd"}
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "The soundtrack was assembled from pre-existing production-library cues (Capitol Hi-Q library). Individual library cues can carry their own registrations independent of the film. No cue-by-cue clearance record is on file here — treat the music as potentially claimable.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay by John Russo and George A. Romero — no separately published underlying novel or play predates the film. The screenplay entered publication with the film's noticeless release.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {"type": "research_note", "note": "Various 'Living Dead' marks and sequels exist and the phrase has been contested between the original creators' companies. Avoid using 'Living Dead' as branding for products or a channel name.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "The 2016 4K restoration (MoMA / The Criterion Collection) contains newly created restoration elements; use pre-restoration prints such as the Internet Archive copies, not the Criterion master.", "source": "Criterion release notes", "url": "https://www.criterion.com/films/28969-night-of-the-living-dead"}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/night_of_the_living_dead_dvd", "label": "Internet Archive (DVD transfer)", "quality": "480p"},
+    {"url": "https://archive.org/details/Night.Of.The.Living.Dead_1080p", "label": "Internet Archive (HD scan)", "quality": "1080p"}
+  ],
+  "editorial": "Night of the Living Dead is the most famous copyright accident in American cinema. When distributor Walter Reade changed the title from 'Night of the Flesh Eaters', the copyright notice was left off the release prints — and under the law of 1968, no notice meant no copyright. The film that invented the modern zombie belongs to everyone.\n\nThat accident is also why this film is the perfect example of layered rights: the images are free, but the library music on the soundtrack was licensed from a production-music catalog whose cues can be claimed independently, and the famous 2016 restoration added newly protected work. Which copy you use, and what you do with the audio, changes your risk completely.",
+  "faq": [
+    ["Can I upload Night of the Living Dead to YouTube?", "The film print is public domain in the US, and thousands of uploads exist. Expect possible Content ID claims against the library music or against restored masters — dispute with the notice-failure evidence on this page, and avoid the 2016 Criterion restoration as a source."],
+    ["Why is it public domain when it's so famous?", "Fame has nothing to do with it: prints were published without the then-required copyright notice in 1968. Under the 1909 Copyright Act, that placed the film in the public domain immediately."],
+    ["Is the 2016 4K version also free?", "No. Restorations can add new protectable elements. Use the original prints, like the Internet Archive copies linked above."]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "carnival-of-souls-1962",
+  "title": "Carnival of Souls",
+  "year": 1962,
+  "country": "US",
+  "last_verified": "2026-07-12",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "youtube_recap": "T_Zoqzyov74",
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "notice_failure", "note": "Distributor Herts-Lion released the film in 1962 with a defective/omitted copyright notice; the status is widely documented in retrospectives and acknowledged in home-video liner notes. We have not yet attached a primary renewal-search scan, so we hold this at 'likely' rather than 'verified'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls#Release"},
+        {"type": "hosting", "note": "Openly hosted on the Internet Archive for many years.", "source": "Internet Archive", "url": "https://archive.org/details/CarnivalofSouls"}
+      ]
+    },
+    "score": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Gene Moore's organ score was created for the film and published with it; no separate registration or renewal is known. Modern re-recordings are separately protected.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Original screenplay by John Clifford; no pre-existing underlying work.", "source": null, "url": null}
+      ]
+    },
+    "trademark": {
+      "status": "likely_pd",
+      "evidence": [
+        {"type": "research_note", "note": "No known active marks. The 1998 remake is a separate protected work.", "source": null, "url": null}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "The Criterion 4K restoration contains new protectable elements — use archival prints.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/CarnivalofSouls", "label": "Internet Archive (h.264)", "quality": "480p+"}
+  ],
+  "editorial": "Made for around $33,000 by industrial filmmakers from Lawrence, Kansas, Carnival of Souls slipped into the public domain through its distributor's paperwork failure — and that accident saved it. Free late-night TV airings through the 1970s and 80s built the cult that made it immortal, and its influence runs through Romero, Lynch, and fifty years of 'she was dead all along' endings.\n\nUnlike many PD-list regulars, almost all of its layers point the same way: original story, purpose-written organ score, no franchise marks. The main modern trap is sourcing: the beautiful Criterion restoration is NOT free — use the archival prints.",
+  "faq": [
+    ["Can I upload or reuse Carnival of Souls?", "Risk is comparatively low: the print, original story, and organ score all appear unprotected. Use archival prints (linked above), never the Criterion restoration master."],
+    ["Is the 1998 remake also public domain?", "No — it's a separate, fully copyrighted work."]
+  ]
+}
