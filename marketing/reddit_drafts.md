@@ -1,7 +1,19 @@
 # Reddit launch drafts — paste from YOUR account
-*Rules: post the r/publicdomain one first; wait 3-4 days; then r/classicfilm.
-Reply personally to every comment within a few hours. Never post both the
-same day, and never copy-paste replies.*
+
+## EXACTLY WHAT TO DO (step by step)
+
+**TODAY (Day 1):**
+1. Go to https://www.reddit.com/r/publicdomain/submit
+2. Copy the TITLE line of "Post 1" below → paste into Reddit's Title box
+3. Copy the BODY of "Post 1" → paste into the Text box
+4. Click Post. Done for today.
+5. Over the next hours: reply to every comment in your own words.
+
+**3–4 DAYS LATER (e.g. Wednesday):**
+1. Go to https://www.reddit.com/r/classicfilm/submit
+2. Same thing with "Post 2" below (title → Title box, body → Text box). Post.
+
+That's all. Never post both the same day; never copy-paste replies to comments.
 
 ---
 
