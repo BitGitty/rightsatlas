@@ -3,13 +3,15 @@
   "title": "Metropolis",
   "year": 1927,
   "country": "DE",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-07-13",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
-        {"type": "term_expiry", "note": "Published 1927; the 95-year US term expired and Metropolis entered the US public domain on January 1, 2023 (its earlier URAA restoration ended on the same expiry schedule).", "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2023", "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"}
+        {"type": "term_expiry", "note": "Published 1927; the 95-year US term expired and Metropolis entered the US public domain on January 1, 2023 (its earlier URAA restoration ended on the same expiry schedule).", "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2023", "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"},
+        {"type": "uraa_analysis", "note": "Metropolis is the textbook URAA film: its lapsed US copyright was RESTORED in 1996 by the Uruguay Round Agreements Act (17 U.S.C. §104A) — the restoration fight reached the Supreme Court in Golan v. Holder — but even a restored term is capped at 95 years from publication, so it still expired at the end of 2022.", "source": "17 U.S.C. §104A; Golan v. Holder, 565 U.S. 302 (2012)", "url": "https://www.law.cornell.edu/uscode/text/17/104A"},
+        {"type": "research_note", "note": "OUTSIDE THE US the answer flips: under German law (§65 UrhG) a film's term runs 70 years after the death of the last-surviving of the director, screenwriter, dialogue author and composer. Fritz Lang died in 1976 — Metropolis remains protected in Germany and most of the EU until January 1, 2047.", "source": "§65 UrhG (German Copyright Act)", "url": "https://www.gesetze-im-internet.de/urhg/__65.html"}
       ]
     },
     "score": {
@@ -21,7 +23,7 @@
     "story": {
       "status": "verified_pd",
       "evidence": [
-        {"type": "term_expiry", "note": "Thea von Harbou's novel and screenplay predate the film (1925-26) and their US terms have likewise expired.", "source": null, "url": null}
+        {"type": "term_expiry", "note": "Thea von Harbou's source novel was published in 1925 and entered the US public domain on January 1, 2021 — the full text is free to read on Project Gutenberg. (Von Harbou died in 1954, so the novel is public domain across the EU as well since 2025.)", "source": "Project Gutenberg #73727", "url": "https://www.gutenberg.org/ebooks/73727"}
       ]
     },
     "trademark": {
@@ -33,16 +35,18 @@
     "restorations": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "'The Complete Metropolis' (2010), incorporating footage rediscovered in Buenos Aires, is a restored edition with its own protected elements — use pre-2010 archival prints for reuse.", "source": "Kino Lorber release notes", "url": "https://www.kinolorber.com/film/view/id/1023"}
+        {"type": "research_note", "note": "'The Complete Metropolis' (2010), rebuilt around the 16mm negative rediscovered in Buenos Aires in 2008, is a restored edition claimed by the Murnau-Stiftung with its own protected elements and a newly recorded score. The 1984 Moroder version (colorized, pop soundtrack) is separately protected too. Use pre-2010 archival prints for reuse.", "source": null, "url": null}
       ]
     }
   },
   "watch": [
-    {"url": "https://archive.org/details/MetropolisFritzLang1927", "label": "Internet Archive (archival print)", "quality": "SD/HD varies"}
+    {"url": "https://archive.org/details/metropolis-1927-english-titles", "label": "Internet Archive — classic cut, English intertitles (community upload; verify print provenance before commercial reuse)", "quality": "SD/HD varies"}
   ],
-  "editorial": "The most influential science-fiction film ever made had one of the strangest rights journeys: German origin, a US copyright lost and then RESTORED by the URAA treaty in 1996 — and then finally extinguished for good by simple old age on January 1, 2023. Even restored foreign copyrights die on the 95-year schedule.\n\nFor creators the trap is the version: the celebrated 'Complete Metropolis' reconstruction from the Buenos Aires reels is a modern restored edition with its own rights. Archival prints of the classic cut are the free source, and as with all silents, whatever music is attached to your copy is probably a protected modern recording.",
+  "editorial": "The most influential science-fiction film ever made is the perfect proof that a one-word public-domain answer is worthless — because Metropolis gives a different answer in every layer and every country.\n\nIn the United States: public domain since January 1, 2023 — and it got there the hard way. Metropolis is the poster child of the URAA, the 1996 treaty law that RESTORED lapsed US copyrights in foreign works (the constitutional fight over that restoration went all the way to the Supreme Court in Golan v. Holder). Even restored, the term was capped at 95 years from publication, and in 2023 it ran out for good.\n\nIn Germany, where it was made: protected until January 1, 2047. German film terms run 70 years from the death of the last-surviving key creator, and director Fritz Lang lived until 1976. Same film, opposite answers, depending on where you're standing.\n\nAnd the copy on your hard drive is probably neither: the celebrated 'Complete Metropolis' reconstruction from the Buenos Aires reels is a modern restored edition with its own rights, and whatever music is attached to your copy is almost certainly a protected modern recording. Meanwhile Thea von Harbou's 1925 source novel has been free in the US since 2021 — full text on Project Gutenberg. Five layers, four different answers, one masterpiece.",
   "faq": [
+    ["Is Metropolis (1927) public domain?", "In the US, yes — since January 1, 2023. In Germany and most of the EU, no — it is protected until January 1, 2047, because the term runs 70 years from director Fritz Lang's death (1976). Where you publish determines your answer."],
     ["Wasn't Metropolis restored by that treaty? How is it free?", "The URAA restored its US copyright in 1996, but restoration doesn't extend the clock — the 95-year term from 1927 still expired on January 1, 2023."],
-    ["Can I use the Complete Metropolis (2010) footage?", "Treat the 2010 reconstruction as protected. Use earlier archival prints of the classic cut."]
+    ["Can I use the Complete Metropolis (2010) footage?", "Treat the 2010 reconstruction as protected. Use earlier archival prints of the classic cut."],
+    ["What about the novel the film is based on?", "Thea von Harbou's 1925 novel entered the US public domain in 2021 (EU: 2025). The full text is free on Project Gutenberg (#73727)."]
   ]
 }
