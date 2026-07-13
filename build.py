@@ -59,7 +59,9 @@ def page(title, desc, body, extra_head=""):
 <footer>
   <p class="disclaimer">{DISCLAIMER}</p>
   <p>© {YEAR} RightsAtlas · research last reviewed dates shown per page ·
-     <a href="{BASE}methodology/">how verdicts work</a></p>
+     <a href="{BASE}methodology/">how verdicts work</a> ·
+     <a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
+        rel="nofollow">💡 suggest a film</a></p>
 </footer>
 </body>
 </html>"""
