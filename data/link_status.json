@@ -45,8 +45,8 @@
    "ok": false,
    "film": "mclintock-1963"
   },
-  "MetropolisFritzLang1927": {
-   "ok": false,
+  "metropolis-1927-english-titles": {
+   "ok": true,
    "film": "metropolis-1927"
   },
   "night_of_the_living_dead_dvd": {
