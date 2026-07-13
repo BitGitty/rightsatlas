@@ -1,0 +1,49 @@
+{
+  "id": "the-shadow-returns-1946",
+  "title": "The Shadow Returns",
+  "year": 1946,
+  "country": "US",
+  "last_verified": "2026-07-14",
+  "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {"type": "renewal_check", "note": "Monogram Pictures released The Shadow Returns in 1946. Under the pre-1978 rules a copyright had to be actively renewed in its 28th year (here ~1973–74); no renewal was filed for this film, so the FILM PRINT fell into the US public domain. The Internet Archive carries it under a Public Domain Mark 1.0, and it has circulated for decades on public-domain DVD labels.", "source": "Internet Archive (Public Domain Mark 1.0)", "url": "https://archive.org/details/TheShadowReturns-1946"}
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {"type": "research_note", "note": "Edward J. Kay's 1946 Monogram score travels with the public-domain film. But any modern re-recording, or a replacement score added to a restored release, is a separately protected sound recording — the audio on a newer transfer is a common hidden claim.", "source": null, "url": null}
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {"type": "research_note", "note": "The film's own 1946 screenplay is part of the public-domain print. BUT the character it dramatizes — Lamont Cranston / The Shadow — comes from Street & Smith's pulp franchise created by Walter B. Gibson in 1931. Story elements original to this film are free; anything drawn from the still-owned Shadow franchise is not.", "source": "The Shadow (Street & Smith / Walter B. Gibson, 1931)", "url": "https://en.wikipedia.org/wiki/The_Shadow"}
+      ]
+    },
+    "trademark": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "THE SHADOW is a live, actively exploited property owned by Condé Nast (through its Street & Smith subsidiary, acquired 1959). Condé Nast licensed new Shadow novels to James Patterson in 2020. Using 'The Shadow' name, logo, or the character as a brand invites a trademark/character-rights claim regardless of the 1946 film's public-domain print — this is the layer that bites uploaders.", "source": "Condé Nast / Street & Smith; Patterson revival (Deadline, 2020)", "url": "https://deadline.com/2020/07/james-patterson-conde-nast-reviving-crime-fighter-the-shadow-new-book-series-1202987269/"}
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {"type": "research_note", "note": "Any remastered or restored edition (cleaned-up transfer, new score, added titles) is a separately protected work. A YouTube Content ID strike on a 'public domain' Shadow film usually traces to a specific restored transfer or to the franchise rights-holder — not to the bare 1946 print. Source an unrestored public-domain print and avoid Shadow branding.", "source": null, "url": null}
+      ]
+    }
+  },
+  "watch": [
+    {"url": "https://archive.org/details/TheShadowReturns-1946", "label": "Internet Archive — public-domain print (Public Domain Mark 1.0)", "quality": "SD"}
+  ],
+  "editorial": "The Shadow Returns is the film that answers a real creator's real question — a redditor told us they trusted Google and the Internet Archive, uploaded this 'public domain' film, and got a copyright strike from a major studio anyway. Here's how that happens, layer by layer.\n\nThe 1946 Monogram FILM PRINT is genuinely public domain: Monogram never renewed the copyright, and it's marked Public Domain on the Internet Archive. So the footage itself is free to use.\n\nBut 'The Shadow' is not a film — it's a FRANCHISE. The character, the name, and the brand are owned by Condé Nast (inherited from pulp publisher Street & Smith), and they actively exploit it — new Shadow novels were licensed to James Patterson as recently as 2020. That live ownership is what turns a 'public domain' upload into a strike: the rights-holder (or a distributor of a specific restored transfer) can claim the character or the remaster even when the bare 1946 print is free.\n\nThe lesson for creators: 'the film is public domain' and 'you can safely upload this and monetize it' are two different sentences. The print, the score on your particular copy, the character, and the trademark each have their own answer. Use an unrestored PD print, don't lean on Shadow branding, and check the layer that actually claims you — the franchise, not the film.",
+  "faq": [
+    ["Is The Shadow Returns (1946) public domain?", "The 1946 Monogram film print is public domain — Monogram didn't renew the copyright, and the Internet Archive carries it under a Public Domain Mark. But the character 'The Shadow' is a live, owned franchise (Condé Nast), so the film being free does not make the character free."],
+    ["Then why did someone get a copyright strike on it?", "Almost always one of two things: (1) they uploaded a restored/remastered transfer that a distributor claims, not the bare public-domain print; or (2) the claim targets the Shadow character/brand, which is still owned. A public-domain print plus a live character equals a real strike risk."],
+    ["Can I use footage from the 1946 film?", "The unrestored public-domain print's footage is usable. Avoid modern restored transfers, replace or verify any music, and don't build a product around the 'The Shadow' name or logo — that's the trademark layer, and it's protected."]
+  ]
+}
