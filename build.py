@@ -51,6 +51,8 @@ def page(title, desc, body, extra_head=""):
     <a href="{BASE}entering-public-domain-{NEXT_CLASS + 96}/">Class of {NEXT_CLASS + 96}</a>
     <a href="{BASE}methodology/">Methodology</a>
     <a href="{BASE}about/">About</a>
+    <a class="nav-cta" href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
+       rel="nofollow">💡 Suggest</a>
   </nav>
 </header>
 <main>
@@ -61,7 +63,7 @@ def page(title, desc, body, extra_head=""):
   <p>© {YEAR} RightsAtlas · research last reviewed dates shown per page ·
      <a href="{BASE}methodology/">how verdicts work</a> ·
      <a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
-        rel="nofollow">💡 suggest a film</a></p>
+        rel="nofollow">💡 Suggest a film or improvement</a></p>
 </footer>
 </body>
 </html>"""
@@ -172,12 +174,20 @@ No green checkmarks without proof.</p>
 <h2>January 1, {NEXT_CLASS + 96}: the next public domain class</h2>
 <p>Every film published in {NEXT_CLASS} enters the US public domain on
 January 1, {NEXT_CLASS + 96}. <a href="{BASE}entering-public-domain-{NEXT_CLASS + 96}/">See what's coming →</a></p>
+</section>
+<section class="suggest">
+<h2>Missing a film? Spotted something wrong?</h2>
+<p>RightsAtlas grows from the community. Suggest a film to research, flag a broken
+link or error, or pitch a feature — it goes straight to our research queue.</p>
+<a class="suggest-btn" href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
+   rel="nofollow">💡 Suggest a film or improvement</a>
 </section>"""
     extra = (f'<script src="{BASE}assets/fuse.min.js"></script>'
              f'<script src="{BASE}assets/search.js" defer></script>')
     return page("RightsAtlas — evidence-backed public domain checker for films",
                 "Layered US copyright status for classic films with primary-source "
-                "evidence, renewal records, and free legal watch links.", body, extra)
+                "evidence, renewal records, and free legal watch links. Suggest a film "
+                "or improvement — the research queue is community-driven.", body, extra)
 
 
 def films_index(films):

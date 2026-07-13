@@ -49,6 +49,12 @@ p.ev.none{font-size:.9rem;color:var(--mut);font-style:italic}
 .hint,.meta{color:var(--mut);font-size:.95rem}
 ul.notes,ul.watch{margin:10px 0 10px 22px}
 .callout{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:30px 0}
+.nav-cta{color:var(--brand)!important;font-weight:700}
+.suggest{background:var(--card);border:1px dashed var(--line);border-radius:12px;padding:24px 22px;margin:30px 0;text-align:center}
+.suggest h2{margin-top:0}
+.suggest-btn{display:inline-block;margin-top:8px;background:var(--brand);color:#fff;text-decoration:none;
+font-weight:700;padding:11px 22px;border-radius:999px}
+.suggest-btn:hover{opacity:.9}
 .embed iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:12px}
 footer{border-top:1px solid var(--line);margin-top:40px;padding:20px;text-align:center;
 color:var(--mut);font-size:.88rem}
