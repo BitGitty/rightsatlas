@@ -1,0 +1,26 @@
+name: Film suggestion
+description: Suggest a film (or edge case) for RightsAtlas to research
+title: "[Film] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: film
+    attributes:
+      label: Film title and year
+      placeholder: "e.g. Gorgo (1961)"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this one interesting?
+      placeholder: "Disputed status? A strike story? A restoration mess? Anything helps."
+    validations:
+      required: false
+  - type: textarea
+    id: links
+    attributes:
+      label: Links you already found (optional)
+      placeholder: "Renewal records, articles, court cases, archive copies…"
+    validations:
+      required: false
