@@ -186,9 +186,28 @@ def films_index(films):
                  f'<td>{f["year"]}</td><td>{e(f.get("country", "US"))}</td>'
                  f'<td>{status_badge(p)}</td></tr>')
     body = f"""<h1>All researched films</h1>
-<table class="listing">
-<tr><th>Title</th><th>Year</th><th>Origin</th><th>Film print status</th></tr>
-{rows}</table>"""
+<p class="sorthint">Click a column heading to sort.</p>
+<table class="listing" id="filmtable">
+<tr><th data-s="text">Title ↕</th><th data-s="num">Year ↕</th><th data-s="text">Origin ↕</th><th data-s="text">Film print status ↕</th></tr>
+{rows}</table>
+<script>
+(function() {{
+  var t = document.getElementById('filmtable'), asc = {{}};
+  t.rows[0].querySelectorAll('th').forEach(function(th, i) {{
+    th.style.cursor = 'pointer';
+    th.onclick = function() {{
+      asc[i] = !asc[i];
+      var rows = Array.prototype.slice.call(t.rows, 1);
+      rows.sort(function(a, b) {{
+        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
+        if (th.dataset.s === 'num') {{ x = +x; y = +y; return asc[i] ? x - y : y - x; }}
+        return asc[i] ? x.localeCompare(y) : y.localeCompare(x);
+      }});
+      rows.forEach(function(r) {{ t.appendChild(r); }});
+    }};
+  }});
+}})();
+</script>"""
     return page("All films — RightsAtlas", "Every film researched by RightsAtlas.", body)
 
 
