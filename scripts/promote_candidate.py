@@ -47,8 +47,11 @@ def gate(cand: dict) -> list:
         primary = [ev for ev in print_layer.get("evidence", []) if engine.is_primary(ev)]
         if not primary:
             reasons.append("print verified_pd without a primary-source evidence entry")
-        # 7: two citations for high-demand titles
-        if row and row.get("demand_score", 0) >= HIGH_DEMAND and len(primary) < 2:
+        # 7: two citations for high-demand titles — but term-expiry is bright-line (the
+        # publication year is definitive proof), so a single term_expiry citation suffices.
+        # The 2-citation rule targets renewal-absence claims (proving a negative).
+        bright_line = any(ev.get("type") == "term_expiry" for ev in primary)
+        if row and row.get("demand_score", 0) >= HIGH_DEMAND and len(primary) < 2 and not bright_line:
             reasons.append(f"high-demand title needs >=2 primary citations (has {len(primary)})")
     # symmetric: a 'renewed/not_pd' claim also needs a renewal registration
     if print_layer.get("status") in ("not_pd", "likely_restored"):

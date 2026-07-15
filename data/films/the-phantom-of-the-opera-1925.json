@@ -1,0 +1,66 @@
+{
+  "id": "the-phantom-of-the-opera-1925",
+  "title": "The Phantom of the Opera",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [],
+      "note": "The Phantom of the Opera survives as a widely licensed franchise character across later films and stage works; copyright expiry on this print does not resolve any character-trademark rights, which are undetermined here. Check marks before branded use."
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Phantom of the Opera” (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Phantom+of+the+Opera"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ThePhantomoftheOpera",
+      "label": "Internet Archive — The Phantom of the Opera (1925), full film"
+    }
+  ],
+  "editorial": "The Phantom of the Opera is a 1925 American silent horror film directed by Rupert Julian for Universal Pictures, starring Lon Chaney as the disfigured Phantom in the self-devised makeup whose unmasking became a landmark screen shock; it is adapted from Gaston Leroux's novel. Most widely circulating prints derive from Universal's 1929 reissue. Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations and reissue scores may carry their own separate rights.",
+  "faq": []
+}

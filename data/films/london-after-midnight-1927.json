@@ -1,0 +1,61 @@
+{
+  "id": "london-after-midnight-1927",
+  "title": "London After Midnight",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [],
+      "note": "The Man in the Beaver Hat and Browning's imagery persist as recognizable horror iconography; any character-trademark rights are undetermined here and separate from copyright."
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “London After Midnight” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=London+After+Midnight"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "London After Midnight is a 1927 American silent mystery-horror directed by Tod Browning for MGM and starring Lon Chaney in a celebrated dual role, including the sharp-toothed 'Man in the Beaver Hat.' It is one of the most sought-after lost films: the last known print is believed to have been destroyed in the 1965 MGM vault fire, and no complete copy is known to survive — only production stills and a 2002 photographic reconstruction exist. Published in 1927, the film print's US copyright term has expired, placing it in the public domain by term expiry, but there is no known film to watch.",
+  "faq": []
+}

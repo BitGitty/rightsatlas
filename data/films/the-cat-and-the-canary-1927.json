@@ -1,0 +1,65 @@
+{
+  "id": "the-cat-and-the-canary-1927",
+  "title": "The Cat and the Canary",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Cat and the Canary” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Cat+and+the+Canary"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Cat_and_the_Canary",
+      "label": "Internet Archive — The Cat and the Canary (1927), full film"
+    }
+  ],
+  "editorial": "The Cat and the Canary is a 1927 American silent mystery-comedy directed by Paul Leni for Universal Pictures, an Expressionist-styled 'old dark house' thriller adapted from John Willard's stage play that shaped the horror-comedy template for decades after. Published in 1927, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. The underlying Willard play and any later restorations may carry their own separate rights.",
+  "faq": []
+}

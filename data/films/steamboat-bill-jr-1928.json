@@ -1,0 +1,65 @@
+{
+  "id": "steamboat-bill-jr-1928",
+  "title": "Steamboat Bill, Jr.",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Steamboat Bill, Jr.” (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Steamboat+Bill,+Jr."
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/SteamboatBillJr",
+      "label": "Internet Archive — Steamboat Bill, Jr. (1928), full film"
+    }
+  ],
+  "editorial": "Steamboat Bill, Jr. is a 1928 American silent comedy directed by Charles Reisner and starring Buster Keaton, released through United Artists, and home to the celebrated stunt in which a house facade falls around Keaton, who is spared by an open window. Published in 1928, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
+  "faq": []
+}

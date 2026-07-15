@@ -1,0 +1,66 @@
+{
+  "id": "the-hunchback-of-notre-dame-1923",
+  "title": "The Hunchback of Notre Dame",
+  "year": 1923,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1923; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [],
+      "note": "Hugo's characters trace to a public-domain novel, but later branded uses of Quasimodo and the title may implicate trademark rights independent of copyright; those are undetermined here. Check marks before branded use."
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1950,
+      1951,
+      1952
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Hunchback of Notre Dame” (renewals ~1950, 1951, 1952)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Hunchback+of+Notre+Dame"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Hunchback_of_Notre_Dame",
+      "label": "Internet Archive — The Hunchback of Notre Dame (1923), full film"
+    }
+  ],
+  "editorial": "The Hunchback of Notre Dame is a 1923 American silent drama directed by Wallace Worsley for Universal Pictures, a lavish 'Super Jewel' production built around Lon Chaney's celebrated performance and makeup as Quasimodo, adapted from Victor Hugo's novel. Published in 1923, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
+  "faq": []
+}

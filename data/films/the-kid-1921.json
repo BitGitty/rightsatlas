@@ -1,0 +1,65 @@
+{
+  "id": "the-kid-1921",
+  "title": "The Kid",
+  "year": 1921,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1921; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1948,
+      1949,
+      1950
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Kid” (renewals ~1948, 1949, 1950)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Kid"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Brzdac1921",
+      "label": "Internet Archive — The Kid (1921), full film"
+    }
+  ],
+  "editorial": "The Kid is a 1921 American silent comedy-drama written, directed by, produced by and starring Charlie Chaplin, his first feature-length film as a director, distributed by First National. Chaplin's Tramp raises an abandoned boy (Jackie Coogan) in a story that fused slapstick with sentiment in a way then novel for a comedy feature. Published in 1921, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Note that Chaplin's re-edited 1971 reissue, with a musical score he then composed, carries its own separate and later rights.",
+  "faq": []
+}
