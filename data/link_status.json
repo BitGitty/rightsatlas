@@ -29,6 +29,14 @@
    "ok": true,
    "film": "detour-1945"
   },
+  "silent-girl-shy": {
+   "ok": true,
+   "film": "girl-shy-1924"
+  },
+  "go-west-1925-by-buster-keaton": {
+   "ok": true,
+   "film": "go-west-1925"
+  },
   "his_girl_friday": {
    "ok": true,
    "film": "his-girl-friday-1940"
@@ -36,6 +44,10 @@
   "house_on_haunted_hill_ipod": {
    "ok": true,
    "film": "house-on-haunted-hill-1959"
+  },
+  "Intolerance": {
+   "ok": true,
+   "film": "intolerance-1916"
   },
   "TheLastManOnEarthHD": {
    "ok": true,
@@ -77,17 +89,41 @@
    "ok": false,
    "film": "plan-9-from-outer-space-1957"
   },
+  "safety-last-1923-by-fred-c.-newmeyer-and-sam-taylor": {
+   "ok": true,
+   "film": "safety-last-1923"
+  },
   "seven-chances-1925-by-buster-keaton": {
    "ok": true,
    "film": "seven-chances-1925"
+  },
+  "sherlockjr1924_201909": {
+   "ok": true,
+   "film": "sherlock-jr-1924"
+  },
+  "SteamboatBillJr": {
+   "ok": true,
+   "film": "steamboat-bill-jr-1928"
   },
   "steamboat-willie-mickey": {
    "ok": true,
    "film": "steamboat-willie-1928"
   },
+  "sunrise_1927": {
+   "ok": true,
+   "film": "sunrise-1927"
+  },
   "TheCameraman": {
    "ok": true,
    "film": "the-cameraman-1928"
+  },
+  "The_Cat_and_the_Canary": {
+   "ok": true,
+   "film": "the-cat-and-the-canary-1927"
+  },
+  "the-circus-charlie-chaplin": {
+   "ok": true,
+   "film": "the-circus-1928"
   },
   "the-freshman-1925-by-fred-c.-newmeyer": {
    "ok": true,
@@ -96,6 +132,26 @@
   "The_General_Buster_Keaton": {
    "ok": true,
    "film": "the-general-1926"
+  },
+  "the-gold-rush-film-1925": {
+   "ok": true,
+   "film": "the-gold-rush-1925"
+  },
+  "The_Hunchback_of_Notre_Dame": {
+   "ok": true,
+   "film": "the-hunchback-of-notre-dame-1923"
+  },
+  "Brzdac1921": {
+   "ok": true,
+   "film": "the-kid-1921"
+  },
+  "the-navigator-1924": {
+   "ok": true,
+   "film": "the-navigator-1924"
+  },
+  "ThePhantomoftheOpera": {
+   "ok": true,
+   "film": "the-phantom-of-the-opera-1925"
   },
   "TheShadowReturns-1946": {
    "ok": true,
