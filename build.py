@@ -264,6 +264,13 @@ def build():
             print("  -", err)
         sys.exit(1)
 
+    # T-02 phase 1 (v4): warn (do not fail) on likely_pd print layers still in data/films.
+    # Phase 3 flips this to a hard error once all films are migrated to evidenced statuses.
+    likely = [f["id"] for f in films if f["layers"]["print"]["status"] == "likely_pd"]
+    if likely:
+        print(f"T-02 WARNING: {len(likely)} film(s) still have a likely_pd print layer "
+              f"(migrate to evidenced verified_pd or downgrade): {', '.join(likely)}")
+
     if OUT.exists():
         shutil.rmtree(OUT)
     (OUT / "assets").mkdir(parents=True)
