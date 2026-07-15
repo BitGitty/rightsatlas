@@ -10,7 +10,16 @@ Red-team hard rules implemented here:
 - "verified_pd" claims REQUIRE evidence entries — build fails otherwise
 """
 
+import re
 from datetime import date
+
+
+def film_id(title: str, year: int) -> str:
+    """Canonical dossier/queue slug — the single source of id truth (v4 §3.2).
+    'The General', 1926 -> 'the-general-1926'."""
+    slug = re.sub(r"[^a-z0-9]+", "-", str(title).lower()).strip("-")
+    return f"{slug}-{year}"
+
 
 STATUSES = {
     "verified_pd": ("Verified public domain", "ok"),
