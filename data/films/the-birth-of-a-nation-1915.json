@@ -1,0 +1,76 @@
+{
+  "id": "the-birth-of-a-nation-1915",
+  "title": "The Birth of a Nation",
+  "year": 1915,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1915; the 95-year US copyright term has long expired (works published through 1930 are public domain), so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "note",
+          "note": "No franchise-character trademark identified; general publicity/likeness considerations are out of scope for the print's copyright status."
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1942,
+      1943,
+      1944
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Birth of a Nation” (renewals ~1942, 1943, 1944)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Birth+of+a+Nation"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/dw_griffith_birth_of_a_nation",
+      "label": "Internet Archive",
+      "quality": "full film"
+    }
+  ],
+  "editorial": "The Birth of a Nation (1915), directed by D.W. Griffith, is in the US public domain by copyright-term expiry. RightsAtlas records copyright status only. For context, the film is both a technical landmark in early narrative filmmaking and one of the most notorious works in cinema history for its racist depiction of Black Americans and its glorification of the Ku Klux Klan; its inclusion here is a neutral statement of copyright status, not an endorsement.",
+  "faq": [
+    [
+      "Is The Birth of a Nation public domain?",
+      "Yes — the 1915 film print is public domain in the US by copyright-term expiry. As with any old film, verify the specific copy you use (some restorations or re-scored reissues can carry separate rights)."
+    ]
+  ]
+}
