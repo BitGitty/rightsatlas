@@ -1,0 +1,65 @@
+{
+  "id": "the-cameraman-1928",
+  "title": "The Cameraman",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-07-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Cameraman” (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Cameraman"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheCameraman",
+      "label": "Internet Archive — The Cameraman (1928), full film"
+    }
+  ],
+  "editorial": "The Cameraman is a 1928 American silent comedy starring Buster Keaton as an aspiring newsreel photographer, directed by Edward Sedgwick and Keaton's first film under his MGM contract. Published in 1928, the film print's 95-year US copyright term has run, placing the photoplay in the US public domain by term expiry. Later MGM restorations may carry separate rights.",
+  "faq": []
+}

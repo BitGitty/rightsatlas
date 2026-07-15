@@ -1,0 +1,65 @@
+{
+  "id": "broken-blossoms-1919",
+  "title": "Broken Blossoms",
+  "year": 1919,
+  "country": "US",
+  "last_verified": "2026-07-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1919; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1946,
+      1947,
+      1948
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Broken Blossoms” (renewals ~1946, 1947, 1948)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Broken+Blossoms"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/broken-blossoms",
+      "label": "Internet Archive — Broken Blossoms (1919), full film"
+    }
+  ],
+  "editorial": "Broken Blossoms, or The Yellow Man and the Girl, is a 1919 American silent drama produced and directed by D. W. Griffith and released through United Artists, starring Lillian Gish and Richard Barthelmess in a tragedy set in London's Limehouse district. Published in 1919, the film print's 95-year US copyright term has run, so the photoplay is in the US public domain by term expiry. The music, any later restorations, and the underlying story are assessed on their own layers.",
+  "faq": []
+}

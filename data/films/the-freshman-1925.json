@@ -1,0 +1,65 @@
+{
+  "id": "the-freshman-1925",
+  "title": "The Freshman",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-07-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Freshman” (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Freshman"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-freshman-1925-by-fred-c.-newmeyer",
+      "label": "Internet Archive — The Freshman (1925), full film"
+    }
+  ],
+  "editorial": "The Freshman is a 1925 American silent comedy starring Harold Lloyd as an eager college newcomer, directed by Fred C. Newmeyer and Sam Taylor, and one of Lloyd's biggest box-office successes. Published in 1925, the film print's 95-year US copyright term has expired, so the photoplay is in the US public domain by term expiry. The score and later restorations are left undetermined.",
+  "faq": []
+}
