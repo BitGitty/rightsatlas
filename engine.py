@@ -38,6 +38,21 @@ LAYERS = [
     ("restorations", "Restorations / re-releases"),
 ]
 
+# Public-facing labels (v4 §"Public status labels"): keep the 5-tier internal enums,
+# but show visitors only Clear / Unclear / Active — never a bare "likely_pd".
+PUBLIC_LABELS = {
+    "verified_pd": ("Clear", "ok"),
+    "likely_pd": ("Unclear", "prob"),
+    "undetermined": ("Unclear", "unk"),
+    "partially_protected": ("Active rights", "warn"),
+    "likely_restored": ("Active rights", "warn"),
+    "not_pd": ("Active rights", "no"),
+}
+
+
+def public_label(status: str) -> tuple:
+    return PUBLIC_LABELS.get(status, ("Unclear", "unk"))
+
 FRANCHISE_TRADEMARK_FLAGS = (
     "tarzan", "sherlock", "mickey", "zorro", "conan", "popeye",
     "buck rogers", "dracula", "frankenstein",
@@ -70,6 +85,19 @@ def pd_cutoff_year(today: date | None = None) -> int:
 
 def next_pd_class_year(today: date | None = None) -> int:
     return pd_cutoff_year(today) + 1
+
+
+# v4 §6.3 names. NB: v4's own §8 T-08 expected values are internally inconsistent with its
+# formula; these use the copyright-correct semantics (a work from year Y enters US PD on
+# Jan 1 of Y+96): as of 2026, works through 1930 are PD and 1931 is the upcoming class.
+def pd_term_expired_through_year(today: date | None = None) -> int:
+    """Newest publication year already PD by 95-year term as of `today` (year - 96)."""
+    return pd_cutoff_year(today)
+
+
+def pd_entering_class_year(today: date | None = None) -> int:
+    """Publication year of the class entering US PD on the next Jan 1 (year - 95)."""
+    return next_pd_class_year(today)
 
 
 def validate(film: dict) -> list:

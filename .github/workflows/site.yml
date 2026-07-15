@@ -37,6 +37,8 @@ jobs:
           BASE_URL: /rightsatlas/
           SITE_ORIGIN: https://${{ github.repository_owner }}.github.io
         run: python build.py
+      - name: Acceptance tests (evidence gates, cutoff, no-leak)
+        run: python tests/test_acceptance.py
       - uses: actions/upload-pages-artifact@v3
         with: { path: site }
   deploy:

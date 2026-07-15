@@ -71,8 +71,9 @@ def page(title, desc, body, extra_head=""):
 
 
 def status_badge(status):
-    label, cls = engine.STATUSES[status]
-    return f'<span class="badge {cls}">{e(label)}</span>'
+    # public UI shows Clear/Unclear/Active; the precise internal status is the tooltip
+    label, cls = engine.public_label(status)
+    return f'<span class="badge {cls}" title="{e(engine.STATUSES[status][0])}">{e(label)}</span>'
 
 
 def evidence_list(evidence):
@@ -126,6 +127,16 @@ def film_page(f):
 <p class="meta">Country of origin: {e(f.get("country", "US"))} · Last verified:
 {e(f.get("last_verified", "—"))} · Researched by {e(f.get("byline", "RightsAtlas"))}</p>
 
+<div class="verdict {engine.public_label(f["layers"]["print"]["status"])[1]}">
+  <span class="vhead">Film print:</span> <strong>{e(engine.public_label(f["layers"]["print"]["status"])[0])}</strong>
+  <span class="vsub">— this verdict covers the film print only, not the layers below.</span>
+</div>
+
+<div class="risk">⚠️ <strong>Planning to upload or monetize?</strong> A public-domain film print does
+<em>not</em> clear the <a href="#layers">music score, story, or restorations</a> — and the score is
+the single most common cause of YouTube Content ID claims. Check every layer, not just the print.{
+'  <br><strong>Pre-1972 sound recordings</strong> can be protected under US state law and the Music Modernization Act until 2067 or later — the print being public domain does not free the recorded music.' if f["year"] < 1972 else ''}</div>
+
 <div class="guidance">
   <div class="g {g["watch"][0]}"><strong>Watching:</strong> {e(g["watch"][1])}</div>
   <div class="g {g["reuse"][0]}"><strong>Reusing / monetizing:</strong> {e(g["reuse"][1])}</div>
@@ -134,7 +145,7 @@ def film_page(f):
 <p class="packet"><a href="{BASE}packets/{e(f["id"])}.md" rel="nofollow" download>📄 Download the print-layer research packet (Markdown)</a>
 <span class="packet-note">— citations you can attach to a dispute. Not legal advice; print layer only.</span></p>
 
-<h2>Rights, layer by layer</h2>
+<h2 id="layers">Rights, layer by layer</h2>
 <p class="hint">A film is not one copyright — it is several. Each layer below
 can be free or protected independently. This is why one-click “public domain”
 answers are wrong so often.</p>
@@ -205,7 +216,10 @@ def films_index(films):
         rows += (f'<tr><td><a href="{BASE}film/{f["id"]}/">{e(f["title"])}</a></td>'
                  f'<td>{f["year"]}</td><td>{e(f.get("country", "US"))}</td>'
                  f'<td>{status_badge(p)}</td></tr>')
+    decades = sorted({(f["year"] // 10) * 10 for f in films})
+    dec_links = " · ".join(f'<a href="{BASE}films/{d}s/">{d}s</a>' for d in decades)
     body = f"""<h1>All researched films</h1>
+<p class="decnav">Browse by decade: {dec_links}</p>
 <p class="sorthint">Click a column heading to sort.</p>
 <table class="listing" id="filmtable">
 <tr><th data-s="text">Title ↕</th><th data-s="num">Year ↕</th><th data-s="text">Origin ↕</th><th data-s="text">Film print status ↕</th></tr>
@@ -229,6 +243,25 @@ def films_index(films):
 }})();
 </script>"""
     return page("All films — RightsAtlas", "Every film researched by RightsAtlas.", body)
+
+
+def decade_hub(decade, films):
+    fs = sorted(films, key=lambda x: x["title"])
+    cards = ""
+    for f in fs:
+        pl, cls = engine.public_label(f["layers"]["print"]["status"])
+        cards += (f'<a class="card {cls}" href="{BASE}film/{f["id"]}/">'
+                  f'<strong>{e(f["title"])}</strong><span>{f["year"]} · {e(pl)}</span></a>')
+    body = f"""<h1>{decade}s films and US public domain</h1>
+<p>Evidence-backed US copyright status for {len(fs)} researched film{'s' if len(fs)!=1 else ''}
+from the {decade}s — each with primary-source citations, layer-by-layer verdicts, and free
+archival watch links. “Clear” means the film print is public domain in the US; always check
+the music and story layers before reuse.</p>
+<div class="grid">{cards}</div>
+<p class="backlink"><a href="{BASE}films/">← all researched films</a></p>"""
+    return page(f"{decade}s Public Domain Films — US Copyright Status · RightsAtlas",
+                f"Which {decade}s films are public domain in the US? Layer-by-layer, "
+                f"evidence-backed copyright status with renewal records and watch links.", body)
 
 
 def queue_page(backlog):
@@ -337,6 +370,14 @@ def build():
     (OUT / "queue" / "index.html").write_text(queue_page(backlog), encoding="utf-8")
     (OUT / "films").mkdir()
     (OUT / "films" / "index.html").write_text(films_index(films), encoding="utf-8")
+    # SEO decade hubs (indexed): /films/1930s/ etc.
+    decades = {}
+    for f in films:
+        decades.setdefault((f["year"] // 10) * 10, []).append(f)
+    for dec, fs in decades.items():
+        d = OUT / "films" / f"{dec}s"
+        d.mkdir(parents=True)
+        (d / "index.html").write_text(decade_hub(dec, fs), encoding="utf-8")
     for f in films:
         d = OUT / "film" / f["id"]
         d.mkdir(parents=True)
@@ -370,7 +411,9 @@ def build():
                   + [{"id": r["id"], "title": r["title"], "year": r["year"], "kind": "queue"} for r in backlog])
     (OUT / "assets" / "index.json").write_text(json.dumps(search_idx), encoding="utf-8")
 
-    urls = [f"{BASE}"] + [f"{BASE}film/{f['id']}/" for f in films]
+    urls = ([f"{BASE}", f"{BASE}films/"]
+            + [f"{BASE}films/{d}s/" for d in sorted(decades)]
+            + [f"{BASE}film/{f['id']}/" for f in films])
     host = os.environ.get("SITE_ORIGIN", "https://example.org")
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
