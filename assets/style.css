@@ -88,3 +88,8 @@ padding:12px 16px;border-radius:10px;border:1px solid var(--line);background:var
 .risk{margin:0 0 16px;padding:12px 16px;border-radius:10px;font-size:.92rem;line-height:1.5;
 background:color-mix(in srgb,var(--warn) 12%,var(--card));border:1px solid var(--warn)}
 .risk a{color:var(--brand);font-weight:600}
+
+/* "why unclear" caveat — reconciles narrative with the conservative label */
+.whyunclear{margin:0 0 14px;padding:11px 15px;border-radius:10px;font-size:.9rem;line-height:1.5;
+color:var(--mut);background:var(--card);border:1px dashed var(--line)}
+.whyunclear b{color:var(--fg)}

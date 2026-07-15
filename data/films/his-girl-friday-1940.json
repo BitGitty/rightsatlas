@@ -9,41 +9,81 @@
     "print": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "renewal_absence", "note": "Columbia failed to renew the film's copyright in 1968; its public-domain status is among the best-documented of the studio era and it is a fixture of every PD film list. Primary CCE renewal-search scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/His_Girl_Friday#Public_domain_status"},
-        {"type": "hosting", "note": "Long-standing Internet Archive hosting and countless budget releases.", "source": "Internet Archive", "url": "https://archive.org/details/his_girl_friday"}
+        {
+          "type": "renewal_absence",
+          "note": "Columbia failed to renew the film's copyright in 1968; its public-domain status is among the best-documented of the studio era and it is a fixture of every PD film list. Primary CCE renewal-search scan not yet attached — held at 'likely'.",
+          "source": "Wikipedia summary with sources",
+          "url": "https://en.wikipedia.org/wiki/His_Girl_Friday#Public_domain_status"
+        },
+        {
+          "type": "hosting",
+          "note": "Long-standing Internet Archive hosting and countless budget releases.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/his_girl_friday"
+        }
       ]
     },
     "score": {
       "status": "undetermined",
       "evidence": [
-        {"type": "research_note", "note": "Studio score (Sidney Cutner, uncredited); separate registration status not verified here. Studio-era cues are less commonly claimed than pop songs, but not risk-free.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Studio score (Sidney Cutner, uncredited); separate registration status not verified here. Studio-era cues are less commonly claimed than pop songs, but not risk-free.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "story": {
       "status": "verified_pd",
       "evidence": [
-        {"type": "term_expiry", "note": "Based on the play 'The Front Page' by Ben Hecht and Charles MacArthur, first published/produced in 1928 — the play's US copyright term (95 years) expired, placing it in the public domain on January 1, 2024. The Stewart v. Abend trap that once applied to this film has since dissolved by expiry.", "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2024", "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"}
+        {
+          "type": "term_expiry",
+          "note": "Based on the play 'The Front Page' by Ben Hecht and Charles MacArthur, first published/produced in 1928 — the play's US copyright term (95 years) expired, placing it in the public domain on January 1, 2024. The Stewart v. Abend trap that once applied to this film has since dissolved by expiry.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
       ]
     },
     "trademark": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "research_note", "note": "No known active marks on title or characters.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "No known active marks on title or characters.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "restorations": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "The Criterion 4K restoration (2017) contains new protectable elements — use archival prints.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "The Criterion 4K restoration (2017) contains new protectable elements — use archival prints.",
+          "source": null,
+          "url": null
+        }
       ]
     }
   },
   "watch": [
-    {"url": "https://archive.org/details/his_girl_friday", "label": "Internet Archive (h.264)", "quality": "480p+"}
+    {
+      "url": "https://archive.org/details/his_girl_friday",
+      "label": "Internet Archive (h.264)",
+      "quality": "480p+"
+    }
   ],
-  "editorial": "The fastest-talking comedy in Hollywood history is also a story about copyright layers healing over time. Columbia forgot to renew the film in 1968, making the picture public domain — but for decades the underlying play, The Front Page (1928), remained protected, meaning the film sat in the classic Stewart v. Abend trap: free print, protected story.\n\nThen January 1, 2024 arrived, the play's 95-year term expired, and the trap dissolved. His Girl Friday today is one of the rare studio-era films where print AND story are both free — a status that got stronger with time, which is exactly why verdicts need dates on them.",
+  "editorial": "The fastest-talking comedy in Hollywood history is also a story about copyright layers healing over time. Columbia forgot to renew the film in 1968 — which is widely read as putting the picture in the public domain — but for decades the underlying play, The Front Page (1928), remained protected, meaning the film sat in the classic Stewart v. Abend trap: free print, protected story.\n\nThen January 1, 2024 arrived, the play's 95-year term expired, and the trap dissolved. His Girl Friday today is one of the rare studio-era films where print and story are both widely treated as free — a status that got stronger with time, which is exactly why verdicts need dates on them.",
   "faq": [
-    ["Can I upload or reuse His Girl Friday?", "The print is public domain and the underlying play joined it in 2024. Use archival prints (not the Criterion master); the studio score's status is unverified, so keep evidence handy for audio claims."],
-    ["Why do you show a date on every verdict?", "Because status changes: this film's underlying play was protected until January 1, 2024, then expired. A 2023 answer and a 2026 answer are different — dates keep verdicts honest."]
+    [
+      "Can I upload or reuse His Girl Friday?",
+      "The print is widely treated as public domain (Columbia's 1968 non-renewal), but RightsAtlas hasn't attached a primary CCE renewal-search scan yet — so the print verdict stays Unclear until that evidence is on the dossier. The underlying play, The Front Page, entered the public domain in 2024. The studio score's status is unverified, so keep evidence handy for audio claims."
+    ],
+    [
+      "Why do you show a date on every verdict?",
+      "Because status changes: this film's underlying play was protected until January 1, 2024, then expired. A 2023 answer and a 2026 answer are different — dates keep verdicts honest."
+    ]
   ]
 }

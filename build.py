@@ -131,6 +131,7 @@ def film_page(f):
   <span class="vhead">Film print:</span> <strong>{e(engine.public_label(f["layers"]["print"]["status"])[0])}</strong>
   <span class="vsub">— this verdict covers the film print only, not the layers below.</span>
 </div>
+{'<p class="whyunclear">Why <b>Unclear</b>, not Clear? This film is widely treated as public domain, but we have not yet attached a primary renewal-search citation — so the verdict stays Unclear until that evidence is on this page. The background and notes below describe the widely-understood status; the label above is the conservative, evidence-gated verdict.</p>' if f["layers"]["print"]["status"] in ("likely_pd", "undetermined") else ''}
 
 <div class="risk">⚠️ <strong>Planning to upload or monetize?</strong> A public-domain film print does
 <em>not</em> clear the <a href="#layers">music score, story, or restorations</a> — and the score is
@@ -252,16 +253,17 @@ def decade_hub(decade, films):
         pl, cls = engine.public_label(f["layers"]["print"]["status"])
         cards += (f'<a class="card {cls}" href="{BASE}film/{f["id"]}/">'
                   f'<strong>{e(f["title"])}</strong><span>{f["year"]} · {e(pl)}</span></a>')
-    body = f"""<h1>{decade}s films and US public domain</h1>
+    body = f"""<h1>{decade}s films — US copyright status</h1>
 <p>Evidence-backed US copyright status for {len(fs)} researched film{'s' if len(fs)!=1 else ''}
-from the {decade}s — each with primary-source citations, layer-by-layer verdicts, and free
-archival watch links. “Clear” means the film print is public domain in the US; always check
-the music and story layers before reuse.</p>
+from the {decade}s — each with primary-source citations and layer-by-layer verdicts. This is a
+research list, <strong>not</strong> a public-domain list: “Clear” means the film print is public
+domain in the US, “Unclear” means researched-but-not-yet-evidenced, “Active rights” means
+protected. Always check the music and story layers before reuse.</p>
 <div class="grid">{cards}</div>
 <p class="backlink"><a href="{BASE}films/">← all researched films</a></p>"""
-    return page(f"{decade}s Public Domain Films — US Copyright Status · RightsAtlas",
-                f"Which {decade}s films are public domain in the US? Layer-by-layer, "
-                f"evidence-backed copyright status with renewal records and watch links.", body)
+    return page(f"{decade}s Films — US Copyright Status · RightsAtlas",
+                f"US copyright status of {decade}s films — layer-by-layer, evidence-backed, "
+                f"with renewal records and watch links. A research list, not a PD list.", body)
 
 
 def queue_page(backlog):
