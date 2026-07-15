@@ -43,6 +43,23 @@ FRANCHISE_TRADEMARK_FLAGS = (
     "buck rogers", "dracula", "frankenstein",
 )
 
+# Symmetric evidence bar (v4 §2.1): a legal conclusion — in EITHER direction — needs a
+# primary source. Search-result URLs and Wikipedia are not primary.
+PRIMARY_PD_EVIDENCE = {
+    "renewal_absence_search", "registration", "cce_entry",
+    "copyright_gov_record", "term_expiry", "notice_failure_doc",
+}
+PRIMARY_RENEWED_EVIDENCE = {"renewal_registration", "cce_renewal_entry", "copyright_gov_record"}
+_NON_PRIMARY_URL_HINTS = ("/search", "?q=", "wikipedia.org", "infodigi")
+
+
+def is_primary(ev: dict) -> bool:
+    """True if this evidence entry is a citable primary source (not a search/wiki link)."""
+    url = (ev.get("url") or "").lower()
+    if any(h in url for h in _NON_PRIMARY_URL_HINTS):
+        return False
+    return ev.get("type") in (PRIMARY_PD_EVIDENCE | PRIMARY_RENEWED_EVIDENCE)
+
 
 def pd_cutoff_year(today: date | None = None) -> int:
     """Last publication year now in US public domain by term expiry.
