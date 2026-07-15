@@ -9,40 +9,75 @@
     "print": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "notice_failure", "note": "Roger Corman's 1960 original (famously shot in about two days) was released without effective copyright protection and has circulated as US public domain for decades. Primary evidence scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"}
+        {
+          "type": "notice_failure",
+          "note": "Roger Corman's 1960 original (famously shot in about two days) was released without effective copyright protection and has circulated as US public domain for decades. Primary evidence scan not yet attached — held at 'likely'.",
+          "source": "Wikipedia summary with sources",
+          "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
+        }
       ]
     },
     "score": {
       "status": "undetermined",
       "evidence": [
-        {"type": "research_note", "note": "Fred Katz score (partly reused across Corman films); separate registration status not verified here.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Fred Katz score (partly reused across Corman films); separate registration status not verified here.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "story": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "research_note", "note": "Original screenplay by Charles B. Griffith. IMPORTANT: the 1982 stage musical and 1986 film are separate, fully protected derivative works — their songs, book, and characters' musical treatment are NOT free.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Original screenplay by Charles B. Griffith. IMPORTANT: the 1982 stage musical and 1986 film are separate, fully protected derivative works — their songs, book, and characters' musical treatment are NOT free.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": [
-        {"type": "research_note", "note": "'Little Shop of Horrors' is actively exploited as a licensed musical property; avoid using the title as branding for products or shows.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "'Little Shop of Horrors' is actively exploited as a licensed musical property; avoid using the title as branding for products or shows.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "restorations": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "Colorized versions and modern restorations are separately protected.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Colorized versions and modern restorations are separately protected.",
+          "source": null,
+          "url": null
+        }
       ]
     }
   },
   "watch": [
-    {"url": "https://archive.org/details/TheLittleShopOfHorrors", "label": "Internet Archive", "quality": "480p"}
+    {
+      "url": "https://archive.org/details/TheLittleShopOfHorrors",
+      "label": "Internet Archive",
+      "quality": "480p"
+    }
   ],
   "editorial": "Corman's two-day wonder about a man-eating plant is public domain — which is exactly how it became famous enough to spawn a Broadway musical and a beloved 1986 movie. Here's the layer trap in reverse: the original is free, but everything the franchise became afterward is locked. Audrey II's songs belong to Menken and Ashman's estates and licensors, not to you.\n\nUse the 1960 film freely from archival prints; never borrow anything from the musical or the 1986 film, and be careful using the title as branding, since the musical is an actively licensed property.",
   "faq": [
-    ["Can I use the songs from Little Shop of Horrors?", "No — the songs belong to the 1982 musical and 1986 film, which are fully protected. Only the 1960 original is public domain."],
-    ["Can I reuse the 1960 film?", "Yes, from archival prints, with the usual caution about unverified library score cues."]
+    [
+      "Can I use the songs from Little Shop of Horrors?",
+      "No — the songs belong to the 1982 musical and 1986 film, which are fully protected. Only the 1960 original film is widely treated as public domain, and even that stays Unclear until we attach a primary renewal-search citation."
+    ],
+    [
+      "Can I reuse the 1960 film?",
+      "The 1960 film is widely treated as public domain via non-renewal, but its print verdict stays Unclear until we attach a primary renewal-search citation. If you rely on it, use archival prints (not a restored master) and keep the evidence; the library score cues are unverified."
+    ]
   ]
 }

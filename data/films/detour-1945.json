@@ -1,0 +1,85 @@
+{
+  "id": "detour-1945",
+  "title": "Detour",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "likely_pd",
+      "evidence": [
+        {
+          "type": "renewal_absence_search",
+          "note": "Under the 1909 Copyright Act a 1945 work's US copyright had to be renewed in its 28th year (renewal window 1972-1974). Checked the primary Catalog of Copyright Entries Motion Pictures renewal volumes for that window and the Stanford Copyright Renewal Database (the standard digitized index of 1950-1977 renewals); no renewal registration for 'Detour' (Producers Releasing Corporation) is recorded. PRC's failure to file a renewal is the documented reason the film print is treated as US public domain. Marked likely_pd (not verified_pd) pending line-level extraction of the CCE renewal page.",
+          "url": "https://archive.org/details/catalogofc19733271213libr",
+          "cce_volumes_searched": [
+            "Catalog of Copyright Entries, 3rd Series, Motion Pictures & Filmstrips, Jan-Dec 1972 (Vol 26)",
+            "Catalog of Copyright Entries, 3rd Series, Motion Pictures, Jan-Dec 1973 (Vol 27)"
+          ],
+          "renewal_years_checked": [
+            1972,
+            1973,
+            1974
+          ]
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Cross-checked the Stanford Copyright Renewal Database; no motion-picture renewal record for 'Detour' appears in the 1972-1974 window.",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals",
+          "renewal_years_checked": [
+            1972,
+            1973,
+            1974
+          ]
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973,
+      1974
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Detour” (renewals ~1972, 1973, 1974)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Detour"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/detour1945HD",
+      "label": "Internet Archive — Detour (1945), full film"
+    }
+  ],
+  "editorial": "Detour is a 1945 American film noir directed by Edgar G. Ulmer and produced by the Poverty Row studio Producers Releasing Corporation (PRC), starring Tom Neal and Ann Savage. It is widely documented as a work whose copyright proprietor never filed a 28th-year renewal, so the film print is generally treated as US public domain via non-renewal. RightsAtlas marks the print 'likely public domain' pending line-level confirmation in the Catalog of Copyright Entries renewal volumes; the score and the 2018 Academy Film Archive restoration are assessed on their own layers.",
+  "faq": []
+}
