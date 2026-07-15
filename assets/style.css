@@ -61,3 +61,18 @@ color:var(--mut);font-size:.88rem}
 .disclaimer{max-width:720px;margin:0 auto 8px}
 @media(max-width:640px){table.layers,table.layers tr,table.layers th,table.layers td{display:block;width:100%}
 table.layers th{border-bottom:0;padding-bottom:0}}
+
+/* M3: coverage line, backlog toggle, sectioned search, /queue/ page */
+.coverage{color:var(--mut);font-size:.95rem;margin:10px auto;max-width:560px}
+.coverage strong{color:var(--fg)}
+.coverage a{color:var(--brand);font-weight:600}
+.cov-note{display:block;font-size:.82rem;color:var(--mut)}
+.inclq{display:block;max-width:560px;margin:6px auto 0;font-size:.85rem;color:var(--mut);text-align:left;cursor:pointer}
+.inclq input{vertical-align:middle;margin-right:6px}
+.res-head{max-width:560px;margin:12px auto 4px;font-size:.72rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--mut)}
+.res-head.q{color:var(--warn)}
+#results a.res.queue{color:var(--mut);border-style:dashed}
+.q-tag{float:right;font-size:.72rem;color:var(--warn);font-weight:600}
+table.queue .unr{color:var(--mut);font-size:.85rem}
+#qmore{display:block;margin:16px auto;padding:10px 22px;background:var(--card);border:1px solid var(--line);border-radius:8px;color:var(--fg);font-weight:600;cursor:pointer}
+#qmore:hover{border-color:var(--brand)}

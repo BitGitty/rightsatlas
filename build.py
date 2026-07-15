@@ -155,7 +155,7 @@ answers are wrong so often.</p>
     return page(f'Is {f["title"]} ({f["year"]}) public domain? — RightsAtlas', desc, body)
 
 
-def index_page(films):
+def index_page(films, backlog_count):
     cards = ""
     for f in sorted(films, key=lambda x: x["title"]):
         g = engine.guidance(f)
@@ -167,7 +167,11 @@ def index_page(films):
 <p>Evidence-backed public-domain research for creators — every verdict shows
 its receipts: renewal records, case law, and working archival links.
 No green checkmarks without proof.</p>
+<p class="coverage"><strong>{len(films)} fully-researched dossiers</strong> ·
+<a href="{BASE}queue/">{backlog_count} titles in the research backlog</a>
+<span class="cov-note">(backlog = not yet researched — not a public-domain list)</span></p>
 <input id="q" type="search" placeholder="Search a film title…" autocomplete="off">
+<label class="inclq"><input type="checkbox" id="inclq"> also search the unresearched backlog</label>
 <div id="results"></div>
 </section>
 <section>
@@ -227,6 +231,47 @@ def films_index(films):
     return page("All films — RightsAtlas", "Every film researched by RightsAtlas.", body)
 
 
+def queue_page(backlog):
+    # public backlog view: Title / Year / Status only — NO archetype, demand, or renewal_truth.
+    rows = ""
+    for r in sorted(backlog, key=lambda x: (x["year"], x["title"])):
+        rows += (f'<tr id="{e(r["id"])}"><td>{e(r["title"])}</td>'
+                 f'<td>{r["year"]}</td><td class="unr">not researched</td></tr>')
+    body = f"""<h1>Research backlog — <em>not</em> a public-domain list</h1>
+<p class="hint">These are titles queued for future research. <strong>A row here means
+nothing about a film's copyright status</strong> — we have not verified it. Only the
+<a href="{BASE}films/">researched dossiers</a> carry evidence-backed conclusions.
+Want one prioritised? <a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml" rel="nofollow">Suggest it →</a></p>
+<table class="listing queue" id="queuetable">
+<tr><th>Title</th><th>Year</th><th>Status</th></tr>
+{rows}</table>
+<button id="qmore" type="button">Show more</button>
+<script>
+(function() {{
+  var rows = Array.prototype.slice.call(document.querySelectorAll('#queuetable tr')).slice(1);
+  var shown = 0, STEP = 50, btn = document.getElementById('qmore');
+  function render() {{
+    rows.forEach(function(r, i) {{ r.style.display = i < shown ? '' : 'none'; }});
+    btn.style.display = shown >= rows.length ? 'none' : '';
+    btn.textContent = 'Show more (' + (rows.length - shown) + ' left)';
+  }}
+  function more() {{ shown = Math.min(shown + STEP, rows.length); render(); }}
+  btn.addEventListener('click', more);
+  more();
+  // if the URL targets a specific row, reveal up to it and scroll
+  if (location.hash) {{
+    var idx = rows.findIndex(function(r) {{ return '#' + r.id === location.hash; }});
+    if (idx >= 0) {{ shown = Math.min(rows.length, Math.max(shown, idx + 1)); render();
+      var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }}
+  }}
+}})();
+</script>"""
+    return page("Research backlog — RightsAtlas",
+                "Titles queued for future copyright research. Not a public-domain list — "
+                "no conclusions here, only researched dossiers carry verdicts.", body,
+                extra_head='<meta name="robots" content="noindex">')
+
+
 def corrections_page(corrections):
     if corrections:
         rows = ""
@@ -271,6 +316,12 @@ def build():
         print(f"T-02 WARNING: {len(likely)} film(s) still have a likely_pd print layer "
               f"(migrate to evidenced verified_pd or downgrade): {', '.join(likely)}")
 
+    # research backlog = queue rows not yet promoted to a verified dossier (M3, v4 §4.2)
+    verified_ids = {f["id"] for f in films}
+    queue_file = ROOT / "data" / "queues" / "research_queue_500.json"
+    queue = json.loads(queue_file.read_text(encoding="utf-8")) if queue_file.exists() else []
+    backlog = [r for r in queue if r["id"] not in verified_ids]
+
     if OUT.exists():
         shutil.rmtree(OUT)
     (OUT / "assets").mkdir(parents=True)
@@ -281,7 +332,9 @@ def build():
         for a in static.iterdir():
             shutil.copy(a, OUT / a.name)
 
-    (OUT / "index.html").write_text(index_page(films), encoding="utf-8")
+    (OUT / "index.html").write_text(index_page(films, len(backlog)), encoding="utf-8")
+    (OUT / "queue").mkdir()
+    (OUT / "queue" / "index.html").write_text(queue_page(backlog), encoding="utf-8")
     (OUT / "films").mkdir()
     (OUT / "films" / "index.html").write_text(films_index(films), encoding="utf-8")
     for f in films:
@@ -312,7 +365,9 @@ def build():
     (OUT / "corrections").mkdir(parents=True, exist_ok=True)
     (OUT / "corrections" / "index.html").write_text(corrections_page(corrections), encoding="utf-8")
 
-    search_idx = [{"id": f["id"], "title": f["title"], "year": f["year"]} for f in films]
+    # unified search index: verified dossiers + backlog rows (kind tags the section)
+    search_idx = ([{"id": f["id"], "title": f["title"], "year": f["year"], "kind": "verified"} for f in films]
+                  + [{"id": r["id"], "title": r["title"], "year": r["year"], "kind": "queue"} for r in backlog])
     (OUT / "assets" / "index.json").write_text(json.dumps(search_idx), encoding="utf-8")
 
     urls = [f"{BASE}"] + [f"{BASE}film/{f['id']}/" for f in films]
