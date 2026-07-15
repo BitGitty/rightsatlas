@@ -1,6 +1,10 @@
 {
  "checked": "2026-07-15",
  "items": {
+  "broken-blossoms": {
+   "ok": true,
+   "film": "broken-blossoms-1919"
+  },
   "TheCabinetOfDrCaligari1920": {
    "ok": false,
    "film": "cabinet-of-dr-caligari-1920"
@@ -61,13 +65,29 @@
    "ok": false,
    "film": "nosferatu-1922"
   },
+  "our-hospitality-1923-by-buster-keaton-and-john-g.-blystone": {
+   "ok": true,
+   "film": "our-hospitality-1923"
+  },
   "Plan_9_from_Outer_Space_1959": {
    "ok": false,
    "film": "plan-9-from-outer-space-1957"
   },
+  "seven-chances-1925-by-buster-keaton": {
+   "ok": true,
+   "film": "seven-chances-1925"
+  },
   "steamboat-willie-mickey": {
    "ok": true,
    "film": "steamboat-willie-1928"
+  },
+  "TheCameraman": {
+   "ok": true,
+   "film": "the-cameraman-1928"
+  },
+  "the-freshman-1925-by-fred-c.-newmeyer": {
+   "ok": true,
+   "film": "the-freshman-1925"
   },
   "The_General_Buster_Keaton": {
    "ok": true,
