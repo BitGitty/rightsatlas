@@ -1,0 +1,66 @@
+{
+  "id": "sherlock-jr-1924",
+  "title": "Sherlock Jr.",
+  "year": 1924,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1924; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [],
+      "note": "The 'Sherlock' here is Keaton's amateur-sleuth character, not Conan Doyle's detective, but the name trips a franchise-trademark flag; any character-trademark rights are undetermined here. Check marks before branded use."
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1951,
+      1952,
+      1953
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Sherlock Jr.” (renewals ~1951, 1952, 1953)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Sherlock+Jr."
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/sherlockjr1924_201909",
+      "label": "Internet Archive — Sherlock Jr. (1924), full film"
+    }
+  ],
+  "editorial": "Sherlock Jr. is a 1924 American silent comedy directed by and starring Buster Keaton for his own production company through Metro Pictures, in which a film projectionist dreams himself into the movie on screen; its in-camera effects and stunt set-pieces remain widely studied. Published in 1924, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
+  "faq": []
+}

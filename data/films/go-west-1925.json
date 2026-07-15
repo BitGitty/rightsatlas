@@ -1,0 +1,65 @@
+{
+  "id": "go-west-1925",
+  "title": "Go West",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Go West” (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Go+West"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/go-west-1925-by-buster-keaton",
+      "label": "Internet Archive — Go West (1925), full film"
+    }
+  ],
+  "editorial": "Go West is a 1925 American silent comedy directed by and starring Buster Keaton for Metro-Goldwyn, a gentler, character-driven picture in which a lonely drifter forms an unlikely bond with a cow named Brown Eyes (not to be confused with the 1940 Marx Brothers film of the same title). Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
+  "faq": []
+}

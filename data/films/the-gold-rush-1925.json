@@ -1,0 +1,65 @@
+{
+  "id": "the-gold-rush-1925",
+  "title": "The Gold Rush",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Gold Rush” (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Gold+Rush"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-gold-rush-film-1925",
+      "label": "Internet Archive — The Gold Rush (1925), silent version, full film"
+    }
+  ],
+  "editorial": "The Gold Rush is a 1925 American silent comedy written, directed by, produced by and starring Charlie Chaplin for United Artists, sending his Tramp to the Klondike and giving the screen its famous dancing-dinner-rolls and boiled-shoe sequences. Chaplin regarded it as the film he most wanted to be remembered by. Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Chaplin's 1942 sound reissue, adding his own narration and score, is a separate later work with its own rights; the linked copy is the silent 1925 version.",
+  "faq": []
+}

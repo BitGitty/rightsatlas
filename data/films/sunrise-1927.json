@@ -1,0 +1,65 @@
+{
+  "id": "sunrise-1927",
+  "title": "Sunrise",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Sunrise” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Sunrise"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/sunrise_1927",
+      "label": "Internet Archive — Sunrise: A Song of Two Humans (1927), full film"
+    }
+  ],
+  "editorial": "Sunrise: A Song of Two Humans is a 1927 American silent drama directed by F. W. Murnau for the Fox Film Corporation — a US studio production despite its German director — and a landmark of the medium, winning the one-time Academy Award for Unique and Artistic Production at the first Oscars. Published in 1927, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations and the Movietone sound-on-film score may carry their own separate rights.",
+  "faq": []
+}
