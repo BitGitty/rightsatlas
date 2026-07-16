@@ -1,0 +1,65 @@
+{
+  "id": "the-wishing-ring-1914",
+  "title": "The Wishing Ring",
+  "year": 1914,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1914; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1941,
+      1942,
+      1943
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Wishing Ring” (renewals ~1941, 1942, 1943)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Wishing+Ring"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-wishing-ring-an-idyll-of-old-england",
+      "label": "Internet Archive (full film)"
+    }
+  ],
+  "editorial": "The Wishing Ring: An Idyll of Old England is a 1914 American silent comedy-drama directed by Maurice Tourneur for the World Film Corporation and shot in Fort Lee, New Jersey, starring Vivian Martin. Though French-born Tourneur directed it, it is a US production; long thought lost, a print was later recovered and the film was added to the Library of Congress National Film Registry in 2012. As a 1914 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
+  "faq": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "the-last-warning-1928",
+  "title": "The Last Warning",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Last Warning” (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Last+Warning"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-last-warning-1928-by-paul-leni",
+      "label": "Internet Archive (full film)"
+    }
+  ],
+  "editorial": "The Last Warning is a 1928 American mystery-thriller directed by Paul Leni for Universal Pictures, starring Laura La Plante in a backstage whodunit staged on the recycled sets of Universal's Phantom of the Opera. Released as a part-talkie, it survives today only in its cut-down silent version and was Leni's final film before his death in 1929. As a 1928 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
+  "faq": []
+}
