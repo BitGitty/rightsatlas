@@ -1,0 +1,66 @@
+{
+  "id": "robin-hood-1922",
+  "title": "Robin Hood",
+  "year": 1922,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1922; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [],
+      "note": "Robin Hood is a public-domain folk legend, but 'Robin Hood'-branded franchises and logos may carry independent trademark rights. Undetermined here; check marks before branded use."
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Robin Hood” (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Robin+Hood"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/RobinHood1922_201406",
+      "label": "Internet Archive — Robin Hood (1922), full film"
+    }
+  ],
+  "editorial": "Robin Hood is a 1922 American silent adventure directed by Allan Dwan and produced by and starring Douglas Fairbanks, released through United Artists on a then-record budget with monumental castle sets. Copyrighted as 'Douglas Fairbanks in Robin Hood,' it was the first motion picture to have a Hollywood premiere and cemented Fairbanks's reputation for large-scale costume spectacle. Published in 1922, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}

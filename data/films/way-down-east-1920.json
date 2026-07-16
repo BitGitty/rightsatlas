@@ -1,0 +1,65 @@
+{
+  "id": "way-down-east-1920",
+  "title": "Way Down East",
+  "year": 1920,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1920; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1947,
+      1948,
+      1949
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Way Down East” (renewals ~1947, 1948, 1949)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Way+Down+East"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/WayDownEast_201312",
+      "label": "Internet Archive — Way Down East (1920), full film"
+    }
+  ],
+  "editorial": "Way Down East is a 1920 American silent melodrama produced and directed by D. W. Griffith and released through United Artists, starring Lillian Gish and Richard Barthelmess. Adapted from Lottie Blair Parker's stage play, it was one of the highest-grossing films of the silent era and is famous for its climactic ice-floe rescue. Published in 1920, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}
