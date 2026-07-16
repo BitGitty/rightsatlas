@@ -1,0 +1,65 @@
+{
+  "id": "the-black-pirate-1926",
+  "title": "The Black Pirate",
+  "year": 1926,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1926; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1953,
+      1954,
+      1955
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Black Pirate” (renewals ~1953, 1954, 1955)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Black+Pirate"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheBlackPirate1926DouglasFairbanksSRAndy",
+      "label": "Internet Archive — The Black Pirate (1926), full film"
+    }
+  ],
+  "editorial": "The Black Pirate is a 1926 American silent swashbuckler directed by Albert Parker and produced by and starring Douglas Fairbanks, released through United Artists. One of the first feature films shot entirely in two-color Technicolor, its pioneering use of color and athletic set pieces made it a landmark of silent-era spectacle. Published in 1926, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}

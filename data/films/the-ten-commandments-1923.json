@@ -1,0 +1,65 @@
+{
+  "id": "the-ten-commandments-1923",
+  "title": "The Ten Commandments",
+  "year": 1923,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1923; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1950,
+      1951,
+      1952
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Ten Commandments” (renewals ~1950, 1951, 1952)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Ten+Commandments"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ten-commandments-1923",
+      "label": "Internet Archive — The Ten Commandments (1923), full film"
+    }
+  ],
+  "editorial": "The Ten Commandments is a 1923 American silent religious epic produced and directed by Cecil B. DeMille for Famous Players-Lasky (Paramount), written by Jeanie Macpherson. Structured as a biblical prologue filmed partly in early two-color Technicolor, with a celebrated parting of the Red Sea, plus a modern morality tale, it was a major box-office success and the first of DeMille's biblical spectacles. Published in 1923, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}

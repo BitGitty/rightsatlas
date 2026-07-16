@@ -1,0 +1,65 @@
+{
+  "id": "blood-and-sand-1922",
+  "title": "Blood and Sand",
+  "year": 1922,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1922; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Blood and Sand” (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Blood+and+Sand"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee",
+      "label": "Internet Archive — Blood and Sand (1922), full film"
+    }
+  ],
+  "editorial": "Blood and Sand is a 1922 American silent drama directed by Fred Niblo and produced by Famous Players-Lasky (Paramount), starring Rudolph Valentino, Lila Lee and Nita Naldi. Adapted from Vicente Blasco Ibanez's Spanish novel about a doomed matador, it was one of the top-grossing films of 1922 and among Valentino's most successful vehicles. Published in 1922, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}

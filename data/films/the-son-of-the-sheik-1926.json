@@ -1,0 +1,65 @@
+{
+  "id": "the-son-of-the-sheik-1926",
+  "title": "The Son of the Sheik",
+  "year": 1926,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1926; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1953,
+      1954,
+      1955
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Son of the Sheik” (renewals ~1953, 1954, 1955)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Son+of+the+Sheik"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-son-of-the-sheik-1926",
+      "label": "Internet Archive — The Son of the Sheik (1926), full film"
+    }
+  ],
+  "editorial": "The Son of the Sheik is a 1926 American silent adventure romance directed by George Fitzmaurice for United Artists, starring Rudolph Valentino in a dual role opposite Vilma Banky. A sequel to 'The Sheik,' it was Valentino's final film, released just after his sudden death at 31, and was later selected for the National Film Registry. Published in 1926, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}

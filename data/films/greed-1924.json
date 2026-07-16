@@ -1,0 +1,65 @@
+{
+  "id": "greed-1924",
+  "title": "Greed",
+  "year": 1924,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1924; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1951,
+      1952,
+      1953
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Greed” (renewals ~1951, 1952, 1953)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Greed"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Greed1924VHS",
+      "label": "Internet Archive — Greed (1924), the surviving 1924 theatrical release version"
+    }
+  ],
+  "editorial": "Greed is a 1924 American silent drama written and directed by Erich von Stroheim for Metro-Goldwyn-Mayer, adapted from Frank Norris's novel 'McTeague.' Von Stroheim's original cut ran roughly eight hours before the studio drastically shortened it against his wishes; the surviving release version is nonetheless regarded as one of the greatest films ever made. Published in 1924, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}

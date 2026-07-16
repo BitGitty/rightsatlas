@@ -1,0 +1,66 @@
+{
+  "id": "the-mark-of-zorro-1920",
+  "title": "The Mark of Zorro",
+  "year": 1920,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1920; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [],
+      "note": "Zorro is a franchise character: expiry of this film's copyright does not extinguish trademark rights or rights in later Zorro works held by rights holders. Undetermined here; check marks before branded use."
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1947,
+      1948,
+      1949
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Mark of Zorro” (renewals ~1947, 1948, 1949)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Mark+of+Zorro"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/vidzo",
+      "label": "Internet Archive — The Mark of Zorro (1920), full film"
+    }
+  ],
+  "editorial": "The Mark of Zorro is a 1920 American silent swashbuckler directed by Fred Niblo and produced by and starring Douglas Fairbanks for his own company, released as the first feature through United Artists. Adapted from Johnston McCulley's 1919 story 'The Curse of Capistrano,' it established Fairbanks as the screen's premier action hero and launched the enduring masked-avenger archetype; it entered the National Film Registry in 2015. Published in 1920, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "faq": []
+}
