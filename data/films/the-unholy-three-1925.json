@@ -1,0 +1,65 @@
+{
+  "id": "the-unholy-three-1925",
+  "title": "The Unholy Three",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Unholy Three” (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Unholy+Three"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-unholy-three",
+      "label": "Internet Archive (full film)"
+    }
+  ],
+  "editorial": "The Unholy Three is a 1925 American silent crime melodrama directed by Tod Browning for Metro-Goldwyn-Mayer, starring Lon Chaney as a sideshow ventriloquist who leads a trio of circus grifters into a robbery-and-murder spree. It cemented the Browning-Chaney partnership and was successful enough that Chaney remade it as his only sound film in 1930 (a separate, later work with its own rights). As a 1925 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
+  "faq": []
+}

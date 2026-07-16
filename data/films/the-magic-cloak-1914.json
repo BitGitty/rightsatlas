@@ -1,0 +1,72 @@
+{
+  "id": "the-magic-cloak-1914",
+  "title": "The Magic Cloak",
+  "year": 1914,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1914; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 'Oz' name and characters are a longstanding franchise; copyright expiry of this 1914 film does not extinguish any separate trademark rights in Oz branding. Left undetermined pending a marks search.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1941,
+      1942,
+      1943
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Magic Cloak” (renewals ~1941, 1942, 1943)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Magic+Cloak"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Magic_Cloak_of_Oz_1914",
+      "label": "Internet Archive (full film)"
+    }
+  ],
+  "editorial": "The Magic Cloak of Oz is a 1914 American silent fantasy film directed by J. Farrell MacDonald and written and produced by L. Frank Baum for his Oz Film Manufacturing Company, adapting Baum's novel Queen Zixi of Ix. Distribution troubles delayed its release to 1917, and it survives only in truncated, re-edited form. As a 1914 US publication, the film print is public domain by expiry of the 95-year US copyright term; the Oz brand may carry separate trademark rights, so that layer is left undetermined.",
+  "faq": []
+}

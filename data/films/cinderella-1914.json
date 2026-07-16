@@ -1,0 +1,65 @@
+{
+  "id": "cinderella-1914",
+  "title": "Cinderella",
+  "year": 1914,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1914; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1941,
+      1942,
+      1943
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Cinderella” (renewals ~1941, 1942, 1943)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Cinderella"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Cinderella1914",
+      "label": "Internet Archive (full film)"
+    }
+  ],
+  "editorial": "Cinderella is a 1914 American silent fantasy film directed by James Kirkwood Sr. and released by the Famous Players Film Company, starring Mary Pickford in the title role opposite her then-husband Owen Moore as the Prince. An early feature adaptation of the Perrault fairy tale, it is notable for its trick photography and double-exposure effects. As a 1914 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
+  "faq": []
+}

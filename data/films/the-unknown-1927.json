@@ -1,0 +1,65 @@
+{
+  "id": "the-unknown-1927",
+  "title": "The Unknown",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-07-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Unknown” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Unknown"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-unknown-1927-full-length",
+      "label": "Internet Archive (full film)"
+    }
+  ],
+  "editorial": "The Unknown is a 1927 American silent horror film directed by Tod Browning for Metro-Goldwyn-Mayer, starring Lon Chaney as 'Alonzo the Armless,' a carnival knife-thrower, and a young Joan Crawford as the woman he loves. Widely regarded as the finest of the Browning-Chaney collaborations, it was thought lost until a print was recovered from the Cinematheque Francaise in 1968. As a 1927 US publication, the film print is in the public domain by expiry of the 95-year copyright term; score, story, and restoration layers are left undetermined pending their own evidence.",
+  "faq": []
+}
