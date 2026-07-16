@@ -17,6 +17,10 @@
    "ok": false,
    "film": "charade-1963"
   },
+  "Cinderella1914": {
+   "ok": true,
+   "film": "cinderella-1914"
+  },
   "TERRORDEMENTIA13": {
    "ok": true,
    "film": "dementia-13-1963"
@@ -85,6 +89,10 @@
    "ok": true,
    "film": "our-hospitality-1923"
   },
+  "OutsideTheLaw": {
+   "ok": true,
+   "film": "outside-the-law-1920"
+  },
   "Plan_9_from_Outer_Space_1959": {
    "ok": false,
    "film": "plan-9-from-outer-space-1957"
@@ -112,6 +120,10 @@
   "sunrise_1927": {
    "ok": true,
    "film": "sunrise-1927"
+  },
+  "Ace_of_Hearts_1921": {
+   "ok": true,
+   "film": "the-ace-of-hearts-1921"
   },
   "dw_griffith_birth_of_a_nation": {
    "ok": true,
@@ -149,9 +161,25 @@
    "ok": true,
    "film": "the-kid-1921"
   },
+  "the-last-warning-1928-by-paul-leni": {
+   "ok": true,
+   "film": "the-last-warning-1928"
+  },
+  "Magic_Cloak_of_Oz_1914": {
+   "ok": true,
+   "film": "the-magic-cloak-1914"
+  },
+  "the-monster-1925": {
+   "ok": true,
+   "film": "the-monster-1925"
+  },
   "the-navigator-1924": {
    "ok": true,
    "film": "the-navigator-1924"
+  },
+  "the-patchwork-girl-of-oz-1914": {
+   "ok": true,
+   "film": "the-patchwork-girl-of-oz-1914"
   },
   "ThePhantomoftheOpera": {
    "ok": true,
@@ -164,6 +192,18 @@
   "TheTerror": {
    "ok": true,
    "film": "the-terror-1963"
+  },
+  "the-unholy-three": {
+   "ok": true,
+   "film": "the-unholy-three-1925"
+  },
+  "the-unknown-1927-full-length": {
+   "ok": true,
+   "film": "the-unknown-1927"
+  },
+  "silent-the-wishing-ring-an-idyll-of-old-england": {
+   "ok": true,
+   "film": "the-wishing-ring-1914"
   }
  }
 }
