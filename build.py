@@ -181,6 +181,8 @@ def index_page(films, backlog_count):
   <span style="font-size:3rem;font-weight:800;line-height:1;color:#0d9488">{len(films)}</span>
   <span style="display:block;font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;opacity:.72">films fully researched</span>
 </div>
+<p id="ra-usage" style="text-align:center;margin:-.3rem 0 1.1rem;opacity:.75;font-size:.9rem;display:none">🔎 <strong id="ra-usecount">0</strong> research lookups and counting</p>
+<script>fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/stats",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas"}})}}).then(function(r){{return r.json()}}).then(function(n){{var el=document.getElementById("ra-usecount"),w=document.getElementById("ra-usage");if(el&&w&&Number(n)>0){{el.textContent=Number(n).toLocaleString();w.style.display="block";}}}}).catch(function(){{}});</script>
 <p>Evidence-backed public-domain research for creators — every verdict shows
 its receipts: renewal records, case law, and working archival links.
 No green checkmarks without proof.</p>
