@@ -66,6 +66,7 @@ def page(title, desc, body, extra_head=""):
      <a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
         rel="nofollow">💡 Suggest a film or improvement</a></p>
 </footer>
+<script>/* first-party analytics */(function(){{try{{fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/track_view",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null}}),keepalive:true}}).catch(function(){{}})}}catch(e){{}}}})();</script>
 </body>
 </html>"""
 
@@ -176,6 +177,10 @@ def index_page(films, backlog_count):
     body = f"""
 <section class="hero">
 <h1>Can you legally use that film?</h1>
+<div class="hero-stat" style="text-align:center;margin:.6rem 0 1rem">
+  <span style="font-size:3rem;font-weight:800;line-height:1;color:#0d9488">{len(films)}</span>
+  <span style="display:block;font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;opacity:.72">films fully researched</span>
+</div>
 <p>Evidence-backed public-domain research for creators — every verdict shows
 its receipts: renewal records, case law, and working archival links.
 No green checkmarks without proof.</p>
