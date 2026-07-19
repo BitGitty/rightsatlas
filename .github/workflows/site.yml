@@ -24,12 +24,14 @@ jobs:
         with: { python-version: "3.12" }
       - name: Link health check
         run: python scripts/linkcheck.py
-      - name: Commit link status (keepalive)
+      - name: Daily drip — release 1 pending dossier
+        run: python scripts/drip_publish.py
+      - name: Commit link status + daily drip (keepalive)
         run: |
           git config user.name "rightsatlas-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/link_status.json
-          git diff --cached --quiet || git commit -m "nightly link status"
+          git add data/link_status.json data/films data/pending data/drip_state.json
+          git diff --cached --quiet || git commit -m "nightly: link status + daily-drip release"
           git push
         continue-on-error: true
       - name: Build site
