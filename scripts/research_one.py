@@ -83,6 +83,12 @@ why a creator would want it, and the one rights trap that actually applies. Use 
 would write for any other film, no hedging filler.
 faq: 2 entries, each ["question","answer"], answering what a reuser actually asks.
 
+Never write that the film is "public domain in full", "completely free" or similar while
+any layer above is not verified_pd — the whole point of this site is that a film is not one
+copyright, and the QC gate rejects prose that contradicts your own layer table. Say what is
+free (usually the print) and name what is not. Do not hardcode a cutoff year as a permanent
+rule ("the line is 1930") — the line moves every January.
+
 Also set "last_verified" to {today} and drop the "_prefill" key."""
 
 

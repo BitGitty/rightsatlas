@@ -1,0 +1,109 @@
+{
+  "id": "street-angel-1928",
+  "title": "Street Angel",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. Frank Borzage; Fox Film Corporation, 1928; starring Janet Gaynor, Charles Farrell",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US publication April 9, 1928 by Fox Film Corporation. The 95-year statutory term (28+28 renewal maximum, extended by Sonny Bono Act) expired December 31, 2023; the film entered US public domain January 1, 2024. Bright-line: all works published 1928 or earlier are PD in the US as of 2026 regardless of renewal history.",
+          "source": "US Copyright Office â€” Copyright Duration FAQ",
+          "url": "https://www.copyright.gov/help/faq/faq-duration.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Fox released the film via the Movietone sound-on-film process with a synchronized orchestral score and sound effects, all originating in 1928. That original Movietone track shares the film's publication date and is PD by the same 95-year term.",
+          "source": "US Copyright Office â€” Copyright Duration FAQ",
+          "url": "https://www.copyright.gov/help/faq/faq-duration.html"
+        },
+        {
+          "type": "research_note",
+          "note": "MoMA's 2019 4K restoration and the UCLA Film & Television Archive 35mm restoration both incorporate new synchronized musical elements prepared for those restoration prints. Those newly created scores and recorded performances are independently copyrighted new works. Any copy sourced from the MoMA or UCLA distribution carries protected audio that cannot be used without clearance.",
+          "source": "Columbia University Women Film Pioneers Project â€” Fox Film Corporation restoration series announcement, February 2019",
+          "url": "https://wfpp.columbia.edu/2019/02/22/film-series-william-fox-presents-more-restorations-and-rediscoveries-from-the-fox-film-corporation-moma-march-1-26-2019"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is adapted from Monckton Hoffe's stage play 'Cristilinda' (working title 'Lady Cristilinda'), which had its New York premiere in December 1922 with Fay Bainter and Leslie Howard. Under the 95-year rule, the play entered US public domain January 1, 2018 (1922 + 95 = 2017, lapsed Dec 31, 2017). Hoffe (1880â€“1951) held no surviving US copyright interest; the source is freely adaptable.",
+          "source": "AFI Catalog of Feature Films â€” Street Angel (1928), entry 12457",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/12457"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "MoMA completed a 4K digital restoration in 2019 using surviving nitrate elements from the Fox archive, funded directly by Twentieth Century Fox (now Disney). The restoration premiered at a March 2019 MoMA screening series. UCLA Film & Television Archive holds a separately restored 35mm synchronized print, supported by AFI/NEA Film Preservation Program funding. Both are independently copyrighted works; distribution rights in those restoration versions rest with MoMA and UCLA respectively.",
+          "source": "MoMA calendar event 5236; Columbia University Women Film Pioneers Project announcement, February 2019",
+          "url": "https://www.moma.org/calendar/events/5236"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Street Angel' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Street+Angel"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/street-angel-1928",
+      "label": "Street Angel (1928) â€” Internet Archive",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/street-angel-fox-film-corporation-1928",
+      "label": "Street Angel (1928) â€” Fox Film Corporation print, Internet Archive",
+      "quality": "good"
+    }
+  ],
+  "editorial": "Street Angel (1928) is a Fox Film Corporation melodrama directed by Frank Borzage, starring Janet Gaynor and Charles Farrell, released April 9, 1928. The film follows Angelina, a destitute Neapolitan woman who flees arrest for solicitation, hides with a traveling circus, and falls in love with an itinerant painter named Gino â€” a performance for which Gaynor shared the first Academy Award for Best Actress (alongside her roles in Seventh Heaven and Sunrise). Fox released the film through its Movietone sound-on-film process, pairing it with a synchronized orchestral score and ambient effects rather than recorded dialogue, making it a transitional production between silent and sound eras. The underlying play, Monckton Hoffe's 'Cristilinda' (New York premiere December 1922), is also freely available: its 95-year term lapsed on January 1, 2018. The 1928 film itself entered US public domain on January 1, 2024.\n\nThe rights trap that actually applies: MoMA completed a 4K digital restoration in 2019, drawing on Fox's surviving nitrate holdings, with Twentieth Century Fox (now Disney) as a direct funder â€” and UCLA Film & Television Archive holds a separately restored 35mm synchronized print with AFI/NEA backing. Both restorations are new copyrighted works, independent of the expired 1928 copyright. A filmmaker sourcing footage from a Blu-ray, from a streaming platform carrying the MoMA restoration, or from a MoMA or UCLA screening print is copying a 2019 or later copyright, not the 1928 original. The clean path is to pull directly from the unrestored Archive.org copies, which derive from pre-restoration source elements and carry no new intellectual-property layer.",
+  "faq": [
+    [
+      "Can I use this film freely without clearing any rights?",
+      "The 1928 print is in US public domain as of January 1, 2024, so yes â€” with one exception. Do not source footage from Blu-ray releases or streaming versions based on MoMA's 2019 4K restoration or the UCLA 35mm print. Those restorations are independently copyrighted and require clearance from MoMA or UCLA. Pull from the unrestored Archive.org copies to stay clear."
+    ],
+    [
+      "Is the source story also free to use for new adaptations?",
+      "Yes. The film is based on Monckton Hoffe's 1922 New York stage play 'Cristilinda.' That play's 95-year US term expired December 31, 2017; it has been freely adaptable since January 1, 2018. The characters, plot, and setting of the original play can be used without permission or royalty."
+    ]
+  ]
+}
