@@ -4,3 +4,32 @@ data/candidates/
 
 data/research_status.log
 data/research_batch.log
+# --- added by backup_all_repos.py ---
+# credentials — never commit
+.env
+.env.*
+*token*.json
+*credential*.json
+*secret*
+*.key
+*.pem
+client_secret*.json
+# rendered media — regenerable, and far too large for a repo
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.zip
+*.rar
+*.7z
+# build/venv noise
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.pytest_cache/
