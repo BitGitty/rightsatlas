@@ -1,279 +1,370 @@
 {
- "checked": "2026-08-31",
+ "checked": "2026-09-01",
  "items": {
   "BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee": {
    "ok": true,
-   "film": "blood-and-sand-1922"
+   "film": "blood-and-sand-1922",
+   "kind": "watch"
   },
   "broken-blossoms": {
    "ok": true,
-   "film": "broken-blossoms-1919"
+   "film": "broken-blossoms-1919",
+   "kind": "watch"
   },
   "turner_video_634479": {
    "ok": true,
-   "film": "cabinet-of-dr-caligari-1920"
+   "film": "cabinet-of-dr-caligari-1920",
+   "kind": "watch"
   },
   "CarnivalofSouls": {
    "ok": true,
-   "film": "carnival-of-souls-1962"
+   "film": "carnival-of-souls-1962",
+   "kind": "evidence"
   },
   "turner_video_340": {
    "ok": true,
-   "film": "charade-1963"
+   "film": "charade-1963",
+   "kind": "watch"
+  },
+  "Charade_1963": {
+   "ok": false,
+   "film": "charade-1963",
+   "kind": "evidence"
   },
   "Cinderella1914": {
    "ok": true,
-   "film": "cinderella-1914"
+   "film": "cinderella-1914",
+   "kind": "watch"
   },
   "TERRORDEMENTIA13": {
    "ok": true,
-   "film": "dementia-13-1963"
+   "film": "dementia-13-1963",
+   "kind": "evidence"
   },
   "Dementia13_201411": {
    "ok": true,
-   "film": "dementia-13-1963"
+   "film": "dementia-13-1963",
+   "kind": "watch"
   },
   "detour1945HD": {
    "ok": true,
-   "film": "detour-1945"
+   "film": "detour-1945",
+   "kind": "watch"
+  },
+  "catalogofc19733271213libr": {
+   "ok": true,
+   "film": "detour-1945",
+   "kind": "evidence"
   },
   "FoolishWives1922_201704": {
    "ok": true,
-   "film": "foolish-wives-1922"
+   "film": "foolish-wives-1922",
+   "kind": "watch"
   },
   "silent-girl-shy": {
    "ok": true,
-   "film": "girl-shy-1924"
+   "film": "girl-shy-1924",
+   "kind": "watch"
   },
   "go-west-1925-by-buster-keaton": {
    "ok": true,
-   "film": "go-west-1925"
+   "film": "go-west-1925",
+   "kind": "watch"
   },
   "Greed1924VHS": {
    "ok": true,
-   "film": "greed-1924"
+   "film": "greed-1924",
+   "kind": "watch"
   },
   "his_girl_friday": {
    "ok": true,
-   "film": "his-girl-friday-1940"
+   "film": "his-girl-friday-1940",
+   "kind": "evidence"
   },
   "house_on_haunted_hill_ipod": {
    "ok": true,
-   "film": "house-on-haunted-hill-1959"
+   "film": "house-on-haunted-hill-1959",
+   "kind": "watch"
   },
   "Intolerance": {
    "ok": true,
-   "film": "intolerance-1916"
+   "film": "intolerance-1916",
+   "kind": "watch"
   },
   "TheLastManOnEarthHD": {
    "ok": true,
-   "film": "last-man-on-earth-1964"
+   "film": "last-man-on-earth-1964",
+   "kind": "evidence"
   },
   "TheLastManOnEarth_72": {
    "ok": true,
-   "film": "last-man-on-earth-1964"
+   "film": "last-man-on-earth-1964",
+   "kind": "watch"
   },
   "TheLittleShopOfHorrors": {
    "ok": true,
-   "film": "little-shop-of-horrors-1960"
+   "film": "little-shop-of-horrors-1960",
+   "kind": "watch"
   },
   "turner_video_47575": {
    "ok": true,
-   "film": "mclintock-1963"
+   "film": "mclintock-1963",
+   "kind": "watch"
   },
   "metropolis-1927-english-titles": {
    "ok": true,
-   "film": "metropolis-1927"
+   "film": "metropolis-1927",
+   "kind": "watch"
   },
   "night_of_the_living_dead_dvd": {
    "ok": true,
-   "film": "night-of-the-living-dead-1968"
+   "film": "night-of-the-living-dead-1968",
+   "kind": "evidence"
   },
   "Night.Of.The.Living.Dead_1080p": {
    "ok": true,
-   "film": "night-of-the-living-dead-1968"
+   "film": "night-of-the-living-dead-1968",
+   "kind": "watch"
   },
   "nosferatu-2000sdvd": {
    "ok": true,
-   "film": "nosferatu-1922"
+   "film": "nosferatu-1922",
+   "kind": "watch"
   },
   "OrphansOfTheStorm_201312": {
    "ok": true,
-   "film": "orphans-of-the-storm-1921"
+   "film": "orphans-of-the-storm-1921",
+   "kind": "watch"
   },
   "our-hospitality-1923-by-buster-keaton-and-john-g.-blystone": {
    "ok": true,
-   "film": "our-hospitality-1923"
+   "film": "our-hospitality-1923",
+   "kind": "watch"
   },
   "OutsideTheLaw": {
    "ok": true,
-   "film": "outside-the-law-1920"
+   "film": "outside-the-law-1920",
+   "kind": "watch"
   },
   "plan.-9.-from.-outer.-space.-1957": {
    "ok": true,
-   "film": "plan-9-from-outer-space-1957"
+   "film": "plan-9-from-outer-space-1957",
+   "kind": "watch"
   },
   "RobinHood1922_201406": {
    "ok": true,
-   "film": "robin-hood-1922"
+   "film": "robin-hood-1922",
+   "kind": "watch"
   },
   "safety-last-1923-by-fred-c.-newmeyer-and-sam-taylor": {
    "ok": true,
-   "film": "safety-last-1923"
+   "film": "safety-last-1923",
+   "kind": "watch"
   },
   "seven-chances-1925-by-buster-keaton": {
    "ok": true,
-   "film": "seven-chances-1925"
+   "film": "seven-chances-1925",
+   "kind": "watch"
   },
   "sherlockjr1924_201909": {
    "ok": true,
-   "film": "sherlock-jr-1924"
+   "film": "sherlock-jr-1924",
+   "kind": "watch"
   },
   "SteamboatBillJr": {
    "ok": true,
-   "film": "steamboat-bill-jr-1928"
+   "film": "steamboat-bill-jr-1928",
+   "kind": "watch"
   },
   "steamboat-willie-mickey": {
    "ok": true,
-   "film": "steamboat-willie-1928"
+   "film": "steamboat-willie-1928",
+   "kind": "watch"
   },
   "sunrise_1927": {
    "ok": true,
-   "film": "sunrise-1927"
+   "film": "sunrise-1927",
+   "kind": "watch"
   },
   "Ace_of_Hearts_1921": {
    "ok": true,
-   "film": "the-ace-of-hearts-1921"
+   "film": "the-ace-of-hearts-1921",
+   "kind": "watch"
   },
   "silent-the-big-parade": {
    "ok": true,
-   "film": "the-big-parade-1925"
+   "film": "the-big-parade-1925",
+   "kind": "watch"
   },
   "dw_griffith_birth_of_a_nation": {
    "ok": true,
-   "film": "the-birth-of-a-nation-1915"
+   "film": "the-birth-of-a-nation-1915",
+   "kind": "watch"
   },
   "TheBlackPirate1926DouglasFairbanksSRAndy": {
    "ok": true,
-   "film": "the-black-pirate-1926"
+   "film": "the-black-pirate-1926",
+   "kind": "watch"
   },
   "TheCameraman": {
    "ok": true,
-   "film": "the-cameraman-1928"
+   "film": "the-cameraman-1928",
+   "kind": "watch"
   },
   "The_Cat_and_the_Canary": {
    "ok": true,
-   "film": "the-cat-and-the-canary-1927"
+   "film": "the-cat-and-the-canary-1927",
+   "kind": "watch"
   },
   "the-circus-charlie-chaplin": {
    "ok": true,
-   "film": "the-circus-1928"
+   "film": "the-circus-1928",
+   "kind": "watch"
   },
   "the-cocoanuts": {
    "ok": true,
-   "film": "the-cocoanuts-1929"
+   "film": "the-cocoanuts-1929",
+   "kind": "watch"
+  },
+  "catalogofcopyrig3101213li": {
+   "ok": true,
+   "film": "the-cocoanuts-1929",
+   "kind": "evidence"
   },
   "The_Four_Horsemen_of_the_Apocalypse": {
    "ok": true,
-   "film": "the-four-horsemen-of-the-apocalypse-1921"
+   "film": "the-four-horsemen-of-the-apocalypse-1921",
+   "kind": "watch"
   },
   "the-freshman-1925-by-fred-c.-newmeyer": {
    "ok": true,
-   "film": "the-freshman-1925"
+   "film": "the-freshman-1925",
+   "kind": "watch"
   },
   "The_General_Buster_Keaton": {
    "ok": true,
-   "film": "the-general-1926"
+   "film": "the-general-1926",
+   "kind": "watch"
   },
   "the-gold-rush-film-1925": {
    "ok": true,
-   "film": "the-gold-rush-1925"
+   "film": "the-gold-rush-1925",
+   "kind": "watch"
   },
   "The_Hunchback_of_Notre_Dame": {
    "ok": true,
-   "film": "the-hunchback-of-notre-dame-1923"
+   "film": "the-hunchback-of-notre-dame-1923",
+   "kind": "watch"
   },
   "the-iron-horse-1924-by-john-ford": {
    "ok": true,
-   "film": "the-iron-horse-1924"
+   "film": "the-iron-horse-1924",
+   "kind": "watch"
   },
   "Brzdac1921": {
    "ok": true,
-   "film": "the-kid-1921"
+   "film": "the-kid-1921",
+   "kind": "watch"
   },
   "the-last-warning-1928-by-paul-leni": {
    "ok": true,
-   "film": "the-last-warning-1928"
+   "film": "the-last-warning-1928",
+   "kind": "watch"
   },
   "Magic_Cloak_of_Oz_1914": {
    "ok": true,
-   "film": "the-magic-cloak-1914"
+   "film": "the-magic-cloak-1914",
+   "kind": "watch"
   },
   "vidzo": {
    "ok": true,
-   "film": "the-mark-of-zorro-1920"
+   "film": "the-mark-of-zorro-1920",
+   "kind": "watch"
   },
   "the-monster-1925": {
    "ok": true,
-   "film": "the-monster-1925"
+   "film": "the-monster-1925",
+   "kind": "watch"
   },
   "the-navigator-1924": {
    "ok": true,
-   "film": "the-navigator-1924"
+   "film": "the-navigator-1924",
+   "kind": "watch"
   },
   "the-patchwork-girl-of-oz-1914": {
    "ok": true,
-   "film": "the-patchwork-girl-of-oz-1914"
+   "film": "the-patchwork-girl-of-oz-1914",
+   "kind": "watch"
   },
   "ThePhantomoftheOpera": {
    "ok": true,
-   "film": "the-phantom-of-the-opera-1925"
+   "film": "the-phantom-of-the-opera-1925",
+   "kind": "watch"
   },
   "TheShadowReturns-1946": {
    "ok": true,
-   "film": "the-shadow-returns-1946"
+   "film": "the-shadow-returns-1946",
+   "kind": "evidence"
   },
   "TheSheik": {
    "ok": true,
-   "film": "the-sheik-1921"
+   "film": "the-sheik-1921",
+   "kind": "watch"
   },
   "the-son-of-the-sheik-1926": {
    "ok": true,
-   "film": "the-son-of-the-sheik-1926"
+   "film": "the-son-of-the-sheik-1926",
+   "kind": "watch"
   },
   "ten-commandments-1923": {
    "ok": true,
-   "film": "the-ten-commandments-1923"
+   "film": "the-ten-commandments-1923",
+   "kind": "watch"
   },
   "TheTerror": {
    "ok": true,
-   "film": "the-terror-1963"
+   "film": "the-terror-1963",
+   "kind": "evidence"
   },
   "ThiefOfBagdad1924": {
    "ok": true,
-   "film": "the-thief-of-bagdad-1924"
+   "film": "the-thief-of-bagdad-1924",
+   "kind": "watch"
   },
   "the-unholy-three": {
    "ok": true,
-   "film": "the-unholy-three-1925"
+   "film": "the-unholy-three-1925",
+   "kind": "watch"
   },
   "the-unknown-1927-full-length": {
    "ok": true,
-   "film": "the-unknown-1927"
+   "film": "the-unknown-1927",
+   "kind": "watch"
   },
   "the-wind_1928": {
    "ok": true,
-   "film": "the-wind-1928"
+   "film": "the-wind-1928",
+   "kind": "watch"
   },
   "silent-the-wishing-ring-an-idyll-of-old-england": {
    "ok": true,
-   "film": "the-wishing-ring-1914"
+   "film": "the-wishing-ring-1914",
+   "kind": "watch"
   },
   "WayDownEast_201312": {
    "ok": true,
-   "film": "way-down-east-1920"
+   "film": "way-down-east-1920",
+   "kind": "watch"
   }
  },
- "repaired": [],
- "dropped": []
+ "repaired": [
+  {
+   "film": "charade-1963",
+   "was": "Charade_1963",
+   "now": "turner_video_341",
+   "kind": "evidence"
+  }
+ ],
+ "dropped": [],
+ "unrepaired_evidence": []
 }
