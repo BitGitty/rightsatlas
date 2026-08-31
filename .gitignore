@@ -2,3 +2,5 @@
 __pycache__/
 data/candidates/
 
+data/research_status.log
+data/research_batch.log
