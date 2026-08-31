@@ -3,7 +3,7 @@
 > ⚠️ **NOT legal advice.** This is a primary-source research packet describing **United States** copyright status only. It is not a clearance certificate and not a DMCA counter-notification. Verify independently before any platform dispute.
 
 **Scope:** Tier A — **film-print layer only**. Music, story, trademark, and restorations are NOT cleared by this packet.
-**Packet version:** `2026-07-12-38b7c15`  ·  **Generated:** 2026-07-15  ·  **Country:** US  ·  **Last verified:** 2026-07-12
+**Packet version:** `2026-07-12-5e3afa9`  ·  **Generated:** 2026-09-01  ·  **Country:** US  ·  **Last verified:** 2026-07-12
 
 ## ⚠️ Sound recordings (pre-1972)
 Sound recordings fixed before **15 Feb 1972** can be protected under state law / the Music Modernization Act until **2067 or later** — the film *print* being public domain does **not** free the music track. Assume the recorded score is a claim risk.
@@ -30,4 +30,4 @@ Sound recordings fixed before **15 Feb 1972** can be protected under state law /
 - [Internet Archive (h.264)](https://archive.org/details/his_girl_friday) · 480p+
 
 ---
-_Valid as of 2026-07-15. Copyright status can change — check the live dossier before relying on this in a dispute:_ https://bitgitty.github.io/rightsatlas/film/his-girl-friday-1940/
+_Valid as of 2026-09-01. Copyright status can change — check the live dossier before relying on this in a dispute:_ https://bitgitty.github.io/rightsatlas/film/his-girl-friday-1940/
