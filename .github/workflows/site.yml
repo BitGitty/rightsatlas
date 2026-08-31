@@ -34,6 +34,8 @@ jobs:
           git diff --cached --quiet || git commit -m "nightly: link status + daily-drip release"
           git push
         continue-on-error: true
+      - name: Research packets for every dossier (the drip adds new ones daily)
+        run: python scripts/export_evidence.py --all
       - name: Build site
         env:
           BASE_URL: /rightsatlas/
