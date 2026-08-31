@@ -1,0 +1,98 @@
+{
+  "id": "the-crowd-1928",
+  "title": "The Crowd",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Directed by King Vidor; produced by Metro-Goldwyn-Mayer (MGM), 1928",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published in the United States in 1928. Under US copyright law the bright-line rule treats all works published in 1930 or earlier as public domain by term expiry. Even if MGM renewed the copyright circa 1956, the maximum 95-year term (1928 + 95) expired on December 31, 2023, so the film is unambiguously public domain as of January 1, 2024.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain (chart)",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Crowd is a silent film; the 1928 photographic images and intertitles are public domain by term expiry. However, virtually every digital copy in circulation â€” including the TCM broadcast and the Internet Archive item TheCrowd1928 â€” carries a score composed by Carl Davis in 1981 for a TCM presentation of the film. Davis died in 2023; his score is protected under US copyright through at least 2076 (95 years from 1981 publication) and potentially under life+70 until 2093. Any copy that bundles the Davis score carries a protected audio track alongside the PD images.",
+          "source": "Internet Archive item metadata for TheCrowd1928 â€” description field confirming 'Carl Davis (R.I.P.) 1981 music score'",
+          "url": "https://archive.org/details/TheCrowd1928"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story is an original work conceived by King Vidor, with scenario and titles by John V.A. Weaver and King Vidor, written specifically for this 1928 MGM production. There is no pre-existing published novel, play, or story being adapted. As a US original work first fixed and published in the 1928 film, the story follows the film's copyright term and is public domain by term expiry.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain (chart)",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No confirmed modern restoration from Criterion, Kino, Flicker Alley, MoMA, or Photoplay could be verified through available sources. The most widely circulated digital copy (TheCrowd1928 on Internet Archive, uploaded December 2023) is described by its uploader as 'sourced from a TCM SD copy' with no named restoration credit, and the uploader explicitly noted the film 'lacks a decent physical home-video release besides a dated VHS/Laserdisc.' The film was inducted into the National Film Registry in 1989 (indicating LOC preservation), but preservation differs from a commercial restoration. Recommend manual check of Warner Bros. Discovery / Warner Archive and Kino Classics catalogs for any subsequent Blu-ray restoration release.",
+          "source": "Internet Archive item metadata for TheCrowd1928",
+          "url": "https://archive.org/details/TheCrowd1928"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Crowd' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Crowd"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheCrowd1928",
+      "label": "The Crowd (1928) â€” TCM SD source with Carl Davis 1981 score (verified via archive.org/metadata/TheCrowd1928)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "King Vidor's The Crowd (1928) is an MGM silent drama starring James Murray as John Sims, a Midwesterner who arrives in New York City certain he is destined for greatness, and is slowly ground down by urban anonymity. Eleanor Boardman plays his wife Mary. Vidor shot extensively on location in Manhattan â€” genuine 1928 crowd scenes on Times Square sidewalks, a Coney Island sequence, a Niagara Falls honeymoon â€” giving the film a documentary texture foreign to MGM's usual studio-bound productions. The studio was uneasy with the bleak ending and offered exhibitors an alternate upbeat cut; Vidor's preferred version closes ambiguously, with John laughing in a vaudeville audience, briefly indistinguishable from the crowd around him. The film's copyright term of 95 years expired on December 31, 2023, making it unambiguously public domain in the United States as of January 1, 2024.\n\nFor documentary makers and remix artists, the Manhattan location photography is the primary draw: 1928 street-level footage no contemporary production can replicate. The one rights trap that actually applies is the score. Carl Davis composed a new musical accompaniment in 1981 for TCM, and that score is present on almost every freely available digital copy â€” including the popular Internet Archive item and TCM broadcast versions. Davis died in 2023, and his score is protected through at least 2076. A creator who wants to reuse the footage without licensing complications must obtain a version without the Davis track, screen it silently, or lay in music whose rights they control.",
+  "faq": [
+    [
+      "The Crowd is listed as public domain â€” can I use it in my project without clearing rights?",
+      "The 1928 film images and intertitles are public domain in the US as of January 1, 2024, and no clearance is needed for those. The practical trap is the audio: the most widely circulated digital copies carry Carl Davis's 1981 score, composed for TCM, which remains under copyright through at least 2076. To stay fully clear, use a version without the Davis score or mute and rescore the film with music you control."
+    ],
+    [
+      "Who owns The Crowd now that its copyright has expired?",
+      "Nobody holds an exclusive copyright in the 1928 film any longer â€” the term expired. Warner Bros. Discovery (which inherited the pre-1986 MGM library through Turner Entertainment in 1996) can still distribute the film, but so can anyone else. What Warner Bros. Discovery may still control is any specific modern restoration or film-to-digital transfer they created, plus the Carl Davis score licensed for their broadcast â€” neither of which expires with the underlying film's copyright."
+    ]
+  ]
+}
