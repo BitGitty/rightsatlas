@@ -81,12 +81,12 @@ def gate(cand: dict) -> list:
     return reasons
 
 
-def promote(cand: dict, approver: str = "Bit Git") -> Path:
+def promote(cand: dict, approver: str = "Bit Git", dest_dir: Path = FILMS) -> Path:
     cand = dict(cand)
     cand.pop("_prefill", None)
     cand["last_verified"] = date.today().isoformat()
     cand.setdefault("byline", "Bit Git · RightsAtlas research (AI-assisted, human-reviewed)")
-    dest = FILMS / f"{cand['id']}.json"
+    dest = dest_dir / f"{cand['id']}.json"
     dest.write_text(json.dumps(cand, ensure_ascii=False, indent=2), encoding="utf-8")
     ev_count = sum(len(L.get("evidence", [])) for L in cand.get("layers", {}).values())
     with LOG.open("a", encoding="utf-8") as fh:

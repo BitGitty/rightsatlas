@@ -1,0 +1,100 @@
+{
+  "id": "animal-crackers-1930",
+  "title": "Animal Crackers",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Paramount Publix feature, US release August 1930. Its 95-year US copyright term expired December 31, 2025, so the photoplay entered the US public domain on January 1, 2026 by term. That is a bright line: the queue flags this title as renewal_absent_likely (the old 28-year renewal for a 1930 work fell due 1957-1958), but term expiry moots the renewal question entirely.",
+          "source": "US Copyright Office - Duration of Copyright",
+          "url": "https://www.copyright.gov/help/faq/faq-duration.html"
+        },
+        {
+          "type": "term_expiry",
+          "note": "Listed among the 1930-class works that entered the US public domain on Public Domain Day, January 1, 2026.",
+          "source": "Duke Center for the Study of the Public Domain - Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The songs (Bert Kalmar and Harry Ruby, including 'Hooray for Captain Spaulding') originate in the 1928 Broadway production. As 1928 US musical compositions their maximum 95-year US term expired end of 2023, so the underlying music was already in the US public domain on January 1, 2024, before the film itself. Historically the film was withdrawn from circulation from the late 1950s until 1974 precisely over these music rights, but those term clocks have now run out.",
+          "source": "US Copyright Office - Duration of Copyright",
+          "url": "https://www.copyright.gov/help/faq/faq-duration.html"
+        },
+        {
+          "type": "research_note",
+          "note": "The recorded soundtrack is integral to the motion picture. 17 U.S.C. 101 defines 'sound recordings' to exclude 'the sounds accompanying a motion picture or other audiovisual work', so the film's audio is part of the audiovisual work and shares the film's 1930 term (PD 2026). The Music Modernization Act's 100-year clock for pre-1972 sound recordings does not apply to a film's integral track.",
+          "source": "17 U.S.C. 101 - definition of 'sound recording'",
+          "url": "https://www.copyright.gov/title17/92chap1.html#101"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from the 1928 Broadway musical 'Animal Crackers', book by George S. Kaufman and Morrie Ryskind. As a 1928 US dramatic work its maximum 95-year US term expired end of 2023, placing the underlying story in the US public domain on January 1, 2024 - a year before the film. A US-authored source, so no URAA restoration question arises.",
+          "source": "US Copyright Office - Duration of Copyright",
+          "url": "https://www.copyright.gov/help/faq/faq-duration.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No franchise or title trademark is known to bar reuse of the 1930 film itself. Separately, the Marx Brothers' names and likenesses are protected by right of publicity and marks held by successors-in-interest (see the litigation over the Marx Brothers' publicity rights, Groucho Marx Productions v. Day and Night Co.). That is a branding and merchandising constraint distinct from the film's expired copyright; confirm current marks before any branded commercial use of the performers' personas.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The pre-1950 Paramount sound library, including Animal Crackers, is controlled by Universal (via EMKA/MCA), and modern restored transfers circulate on Blu-ray. A remaster carries a thin derivative copyright in the new transfer only, not in the 1930 film. Reuse an archival print rather than a studio disc rip to stay clear of the restoration copyright.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/animal-crackers-1930",
+      "label": "Internet Archive - full feature (~98 min)",
+      "quality": "SD, varies"
+    },
+    {
+      "url": "https://archive.org/details/animal-crackers_1930",
+      "label": "Internet Archive - feature_films copy",
+      "quality": "SD, varies"
+    }
+  ],
+  "editorial": "Animal Crackers is the Marx Brothers' second feature, Paramount's 1930 film of the 1928 Broadway hit by George S. Kaufman and Morrie Ryskind, with songs by Bert Kalmar and Harry Ruby. It gave Groucho his signature entrance number, 'Hooray for Captain Spaulding', and the loose plot - a stolen painting at a Long Island house party - exists mainly to hang the brothers' verbal and visual anarchy on. Shot in New York as the group moved from stage to screen, it is a foundational pre-Code comedy, and on January 1, 2026 its 95-year US copyright term expired, so the photoplay is now public domain in the United States by term, no renewal analysis required.\n\nThe irony is that music rights - the exact thing that is now clean - once buried this film: it was pulled from circulation from the late 1950s until a 1974 re-release. Today the 1928 Kalmar-Ruby songs and the Kaufman-Ryskind stage source have all run past their own US terms, and the integral 1930 soundtrack shares the film's expired copyright rather than the Music Modernization Act's longer sound-recording clock, so print, score, and story are all free. The traps that remain are not copyright: the Marx Brothers' names and likenesses carry right-of-publicity and trademark protection held by their successors, and any modern Universal restoration adds a thin derivative copyright in the new transfer. For reuse, pull an archival Internet Archive print rather than a studio Blu-ray rip, and keep branded 'Marx Brothers' merchandising separate from simply using the film.",
+  "faq": [
+    [
+      "Is Animal Crackers (1930) public domain in the US?",
+      "Yes. Its 95-year copyright term expired and the film entered the US public domain on January 1, 2026, so the photoplay is free to use in the United States regardless of the old renewal question. The 1928 stage source and the Kalmar-Ruby songs are likewise past their US terms."
+    ],
+    [
+      "Can I sell or monetize copies of the film?",
+      "The 1930 print, its soundtrack, and the underlying story are public domain in the US, so yes. Two cautions: do not rip a modern Universal restoration or Blu-ray remaster, whose new transfer carries a separate derivative copyright, and do not use the Marx Brothers' names or likenesses for branded merchandise without checking the publicity and trademark rights their successors hold - that is separate from the film's copyright."
+    ]
+  ],
+  "byline": "Bit Git · RightsAtlas research (AI-assisted, human-reviewed)"
+}
