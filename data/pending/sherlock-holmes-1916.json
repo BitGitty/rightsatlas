@@ -1,0 +1,110 @@
+{
+  "id": "sherlock-holmes-1916",
+  "title": "Sherlock Holmes",
+  "year": 1916,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "The sole filmed record of William Gillette's iconic stage Holmes, produced by Essanay in 1916, presumed lost for decades until a nitrate negative surfaced at the CinÃ©mathÃ¨que franÃ§aise in 2014.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Essanay Film Manufacturing Company released the film on May 15, 1916. Under the pre-1978 copyright regime the initial 28-year term would have expired by 1944 at the latest; Essanay had dissolved by 1918, leaving no entity to file a renewal. Independently, the pre-1930 bright-line rule places all US works published in 1930 or earlier in the public domain by term, full stop.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a silent film; Essanay produced no synchronized score in 1916, so the image track carries no original score copyright. The 2015 SFSFF theatrical restoration was presented with live accompaniment by the Donald Sosin Ensemble â€” a separately copyrightable musical performance. Any commissioned or recorded score attached to the restoration masters is a post-1978 work protected independently of the underlying footage. Community Archive.org uploads circulate without the Sosin accompaniment and are free of this complication.",
+          "source": "San Francisco Silent Film Festival â€” Sherlock Holmes (1916) film page",
+          "url": "https://silentfilm.org/sherlock-holmes/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The 1916 film adapts William Gillette's stage play 'Sherlock Holmes,' first commercially published in authorized text form by Doubleday in 1922 â€” within the pre-1930 bright line. The play itself was based on Conan Doyle's stories: 'A Scandal in Bohemia' (US book publication 1892), 'The Final Problem' (1894), and A Study in Scarlet (1887 UK, 1890 US). Every layer of source material predates 1928 and is public domain in the United States by term expiry.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Conan Doyle Estate Ltd has historically asserted rights over the Sherlock Holmes character name and persona beyond copyright, including assertions litigated through the Klinger v. Conan Doyle Estate Ltd. case (7th Cir. 2014), which addressed copyright only and found against the estate. Trademark registrations are a distinct matter: whether the estate or any other party holds active registered US trademarks on 'Sherlock Holmes' for entertainment goods that would constrain reuse of this PD film was not determinable from public copyright records alone. Search USPTO TESS before commercial use under the Holmes brand.",
+          "source": "US Copyright Office â€” Trademark and Copyright Distinctions",
+          "url": "https://www.copyright.gov/help/faq/faq-trademark.html"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The San Francisco Silent Film Festival completed a restoration of the recovered 35mm nitrate negative in 2014; the restored version premiered at SFSFF in May 2015. The restoration's digital masters and associated creative decisions constitute new copyrightable expression under post-1978 law, owned by SFSFF. The Donald Sosin Ensemble score performed at the 2015 premiere is an additional separately copyrighted work. Community uploads on Archive.org appear to derive from a lower-resolution duplicate or an unscored print rather than the SFSFF theatrical restoration.",
+          "source": "San Francisco Silent Film Festival â€” Sherlock Holmes (1916) film page",
+          "url": "https://silentfilm.org/sherlock-holmes/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1943,
+      1944,
+      1945
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Sherlock Holmes' (renewals ~1943, 1944, 1945)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Sherlock+Holmes"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/SherlockHolmes1916",
+      "label": "Sherlock Holmes (1916) â€” community upload, 1440Ã—1080, Public Domain Mark 1.0",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/sherlock-holmes-1916",
+      "label": "Sherlock Holmes (1916) â€” community upload, 544Ã—408, feature films collection",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The 1916 Essanay production is the only known filmed record of William Gillette performing the Holmes role he had made canonical across more than 1,300 stage appearances since 1899. Directed by Arthur Berthelet in Essanay's Chicago studios and released May 15, 1916, the seven-reel silent feature stars a 63-year-old Gillette opposite Edward Fielding as Watson and Ernest Maupain as Moriarty, adapting Gillette's own 1899 stage play â€” which Conan Doyle personally endorsed â€” and drawing on 'A Scandal in Bohemia,' 'The Final Problem,' and A Study in Scarlet. Every print was assumed destroyed until October 2014, when a nitrate negative bearing French-language intertitles surfaced at the CinÃ©mathÃ¨que franÃ§aise; the San Francisco Silent Film Festival restored it from the 35mm source and premiered the recovered film in 2015 with live accompaniment by the Donald Sosin Ensemble.\n\nFor a creator sourcing public-domain footage, the image track is clean: Essanay's 1916 copyright lapsed no later than 1944, Essanay itself had dissolved before any renewal could be filed, and both the underlying Doyle stories and Gillette's 1922 published play text fall squarely under the pre-1930 bright line. The operative rights trap is the 2015 SFSFF restoration. The restoration masters are a post-1978 copyrighted work owned by the San Francisco Silent Film Festival, and the Donald Sosin Ensemble's accompaniment adds a second protected layer. The community uploads on Archive.org (identifiers SherlockHolmes1916 and sherlock-holmes-1916) circulate without the Sosin score and are safe to reuse; anyone wanting the polished 2015 theatrical version should contact SFSFF before any commercial application.",
+  "faq": [
+    [
+      "Is the 1916 Sherlock Holmes film truly in the public domain despite the Conan Doyle estate's history of asserting rights?",
+      "Yes. Essanay released the film on May 15, 1916, and the 28-year initial copyright term expired no later than 1944. Essanay dissolved around 1918, leaving no successor to file a renewal, and no renewal record has been located. The estate's legal assertions â€” including the Klinger litigation decided by the 7th Circuit in 2014 â€” were copyright-based claims on Doyle's stories, not claims on this film's lapsed copyright. The pre-1930 bright-line rule makes this a settled call: the images are public domain in the United States."
+    ],
+    [
+      "Can I use the restored version available on the Internet Archive?",
+      "The community uploads (archive.org/details/SherlockHolmes1916 and archive.org/details/sherlock-holmes-1916) are public-domain copies of the footage and are free to use. The 2015 SFSFF theatrical restoration is a different matter: its digital restoration masters and the Donald Sosin Ensemble score are post-1978 copyrights owned by the San Francisco Silent Film Festival. If the version you are using credits SFSFF or carries the Sosin accompaniment, seek clearance from SFSFF before commercial use."
+    ]
+  ]
+}

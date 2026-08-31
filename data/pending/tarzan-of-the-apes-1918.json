@@ -1,0 +1,103 @@
+{
+  "id": "tarzan-of-the-apes-1918",
+  "title": "Tarzan of the Apes",
+  "year": 1918,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. Scott Sidney Â· Elmo Lincoln as Tarzan Â· National Film Corp. of America / First National Pictures, 1918",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US theatrical release January 27, 1918. Under 17 U.S.C. Â§ 304 the maximum copyright term for pre-1978 US works was 28 years renewable for 28 more (later extended). Every applicable term for a 1918 work â€” original term expiring 1946, renewal term expiring no later than 1974 under the pre-CTEA framework â€” has fully elapsed. Under the bright-line rule all works published in the United States in 1930 or earlier are public domain as of 2026.",
+          "source": "US Copyright Office â€” Duration of Copyright (Circular 15a)",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film: the original exhibition print carries no synchronized recorded score. The image track is public domain by term expiry. Any musical score added to a modern home-video or streaming release (including Archive.org copies) is an independent work whose copyright depends on when it was composed and recorded; such modern accompaniments are not in the public domain.",
+          "source": "US Copyright Office â€” Duration of Copyright (Circular 15a); general silent-film image/sound split doctrine",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Edgar Rice Burroughs' novel 'Tarzan of the Apes,' first published in All-Story Magazine in October 1912 and as a book by A. C. McClurg & Co. in June 1914. Both publication dates are pre-1930; the underlying literary work is public domain in the US by term expiry and carries no surviving copyright protection.",
+          "source": "US Copyright Office â€” Duration of Copyright (Circular 15a)",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Edgar Rice Burroughs, Inc. (ERB Inc.), the holding company Burroughs himself incorporated, actively holds and enforces trademark rights in the 'Tarzan' name and character across numerous commercial classes. Trademark protection is independent of copyright and does not expire with the film's copyright term; ERB Inc. continues to license and police the mark and is known to pursue infringers.",
+          "source": "Edgar Rice Burroughs, Inc. â€” official IP licensing entity for the Tarzan franchise",
+          "url": "https://www.edgarriceburroughs.com/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1945,
+      1946,
+      1947
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Tarzan of the Apes' (renewals ~1945, 1946, 1947)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Tarzan+of+the+Apes"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-tarzan-of-the-apes",
+      "label": "Tarzan of the Apes (1918) â€” Archive.org silent_films collection, dir. Scott Sidney",
+      "quality": "high"
+    },
+    {
+      "url": "https://archive.org/details/BillSpragueCollection-TarzanOfTheApes",
+      "label": "Tarzan of the Apes 1918 PUBLIC DOMAIN â€” Bill Sprague Collection, Elmo Lincoln print",
+      "quality": "medium"
+    }
+  ],
+  "editorial": "Produced by National Film Corporation of America and distributed by First National Pictures, Tarzan of the Apes opened January 27, 1918 at the Broadway Theatre in New York â€” the first Tarzan film ever made. Director Scott Sidney cast Elmo Lincoln as adult Tarzan and Gordon Griffith as the boy, adapting Edgar Rice Burroughs' 1912 novel only six years after its magazine debut. The film was a landmark commercial hit, reportedly the first American feature to gross $1 million in domestic rentals, launching a franchise that has never stopped. The print survives, though the commonly circulating cut runs about 61 minutes against an original length exceeding 100 minutes.\n\nFor creators the film print is a fully free resource, with one concrete trap. Published in 1918, every US copyright term has elapsed by decades; the underlying Burroughs novel (first published 1912) is equally clear. The trap is trademark: Edgar Rice Burroughs, Inc.â€”the company Burroughs himself founded to control the franchiseâ€”holds active, aggressively enforced trademark rights in the Tarzan name and character. Distributing or exhibiting the film requires no copyright license whatsoever. Attaching the Tarzan brand to commercial products, merchandise, or a titled project requires a separate trademark clearance from ERB Inc., and the company is known to pursue infringers regardless of the film's public-domain status.",
+  "faq": [
+    [
+      "Is the 1918 Tarzan of the Apes film in the public domain?",
+      "Yes, unambiguously. The film was released in the United States on January 27, 1918. The original 28-year US copyright term expired in 1946, and even if the copyright was renewed the second term would have expired no later than 1974. All works published in the US in 1930 or earlier are now in the public domain by term expiry â€” no renewal research is needed to confirm PD status for this film."
+    ],
+    [
+      "Can I use the Tarzan name and character in a commercial project based on this film?",
+      "Exhibiting or distributing the film itself is free. However, Edgar Rice Burroughs, Inc. holds active trademark rights over the 'Tarzan' name and character that survive the film's copyright expiry. Any commercial use of the Tarzan brand â€” titles, merchandise, sequels, branded content â€” requires a trademark license from ERB Inc. independent of the film's copyright status."
+    ]
+  ]
+}

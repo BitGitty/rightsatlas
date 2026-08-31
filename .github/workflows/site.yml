@@ -36,6 +36,8 @@ jobs:
         continue-on-error: true
       - name: Research packets for every dossier (the drip adds new ones daily)
         run: python scripts/export_evidence.py --all
+      - name: Public Domain Day dataset (class of 1931)
+        run: python scripts/class_export.py 1931
       - name: Build site
         env:
           BASE_URL: /rightsatlas/
