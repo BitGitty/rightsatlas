@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-01",
+ "checked": "2026-08-31",
  "items": {
   "BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee": {
    "ok": true,
@@ -9,16 +9,16 @@
    "ok": true,
    "film": "broken-blossoms-1919"
   },
-  "TheCabinetOfDrCaligari1920": {
-   "ok": false,
+  "turner_video_634479": {
+   "ok": true,
    "film": "cabinet-of-dr-caligari-1920"
   },
   "CarnivalofSouls": {
    "ok": true,
    "film": "carnival-of-souls-1962"
   },
-  "Charade_1963": {
-   "ok": false,
+  "turner_video_340": {
+   "ok": true,
    "film": "charade-1963"
   },
   "Cinderella1914": {
@@ -77,8 +77,8 @@
    "ok": true,
    "film": "little-shop-of-horrors-1960"
   },
-  "McLintock": {
-   "ok": false,
+  "turner_video_47575": {
+   "ok": true,
    "film": "mclintock-1963"
   },
   "metropolis-1927-english-titles": {
@@ -93,8 +93,8 @@
    "ok": true,
    "film": "night-of-the-living-dead-1968"
   },
-  "Nosferatu_201410": {
-   "ok": false,
+  "nosferatu-2000sdvd": {
+   "ok": true,
    "film": "nosferatu-1922"
   },
   "OrphansOfTheStorm_201312": {
@@ -109,8 +109,8 @@
    "ok": true,
    "film": "outside-the-law-1920"
   },
-  "Plan_9_from_Outer_Space_1959": {
-   "ok": false,
+  "plan.-9.-from.-outer.-space.-1957": {
+   "ok": true,
    "film": "plan-9-from-outer-space-1957"
   },
   "RobinHood1922_201406": {
@@ -168,6 +168,10 @@
   "the-circus-charlie-chaplin": {
    "ok": true,
    "film": "the-circus-1928"
+  },
+  "the-cocoanuts": {
+   "ok": true,
+   "film": "the-cocoanuts-1929"
   },
   "The_Four_Horsemen_of_the_Apocalypse": {
    "ok": true,
@@ -270,32 +274,6 @@
    "film": "way-down-east-1920"
   }
  },
- "repaired": [
-  {
-   "film": "cabinet-of-dr-caligari-1920",
-   "was": "TheCabinetOfDrCaligari1920",
-   "now": "turner_video_634479"
-  },
-  {
-   "film": "charade-1963",
-   "was": "Charade_1963",
-   "now": "turner_video_340"
-  },
-  {
-   "film": "mclintock-1963",
-   "was": "McLintock",
-   "now": "turner_video_47575"
-  },
-  {
-   "film": "nosferatu-1922",
-   "was": "Nosferatu_201410",
-   "now": "nosferatu-2000sdvd"
-  },
-  {
-   "film": "plan-9-from-outer-space-1957",
-   "was": "Plan_9_from_Outer_Space_1959",
-   "now": "plan.-9.-from.-outer.-space.-1957"
-  }
- ],
+ "repaired": [],
  "dropped": []
 }
