@@ -1,5 +1,5 @@
 {
- "checked": "2026-08-31",
+ "checked": "2026-09-01",
  "items": {
   "BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee": {
    "ok": true,
@@ -269,5 +269,33 @@
    "ok": true,
    "film": "way-down-east-1920"
   }
- }
+ },
+ "repaired": [
+  {
+   "film": "cabinet-of-dr-caligari-1920",
+   "was": "TheCabinetOfDrCaligari1920",
+   "now": "turner_video_634479"
+  },
+  {
+   "film": "charade-1963",
+   "was": "Charade_1963",
+   "now": "turner_video_340"
+  },
+  {
+   "film": "mclintock-1963",
+   "was": "McLintock",
+   "now": "turner_video_47575"
+  },
+  {
+   "film": "nosferatu-1922",
+   "was": "Nosferatu_201410",
+   "now": "nosferatu-2000sdvd"
+  },
+  {
+   "film": "plan-9-from-outer-space-1957",
+   "was": "Plan_9_from_Outer_Space_1959",
+   "now": "plan.-9.-from.-outer.-space.-1957"
+  }
+ ],
+ "dropped": []
 }
