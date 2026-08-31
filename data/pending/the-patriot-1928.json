@@ -1,0 +1,98 @@
+{
+  "id": "the-patriot-1928",
+  "title": "The Patriot",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Ernst Lubitsch, dir. | Paramount Famous Lasky Corp., 1928 | part-talkie; largely lost â€” ~2,500 of 10,000 feet survive",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film published 1928 by Paramount Famous Lasky Corp. The 95-year copyright term expired January 1, 2024, regardless of whether the original 28-year registration was renewed. Bright-line rule: all works published 1930 or earlier are PD in the US.",
+          "source": "Duke Law Center for the Study of the Public Domain â€” Public Domain Day 2024",
+          "url": "https://copyright.duke.edu/publicdomainday/2024/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Patriot is a part-talkie (synchronized score plus select spoken dialogue); the 1928 recorded soundtrack shares the film's term-expired copyright and is PD. However, the surviving material is fragmentary (~2,500 feet) and the only widely accessible moving-image remnant is the Archive.org trailer. Any musical score or sound design added by archivists or distributors to those fragments after 1928 carries its own independent copyright from the year of that addition. Reusers should verify whether the specific copy in hand carries original 1928 sound or a modern substitution.",
+          "source": "Wikipedia â€” The Patriot (1928 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Patriot_(1928_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Screenplay by Hanns KrÃ¤ly adapted from Ashley Dukes's Broadway play 'The Patriot' (performed January 1928, published 1928 by Boni & Liveright, New York), itself drawn from Alfred Neumann's German novel 'Der Patriot' (1925) and Dmitry Merezhkovsky's play 'Paul I' (1908). All source works published 1908â€“1928 are PD in the US under the same 1930-or-earlier bright-line rule.",
+          "source": "Duke Law Center for the Study of the Public Domain â€” Public Domain Day 2024",
+          "url": "https://copyright.duke.edu/publicdomainday/2024/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No commercial restoration by Criterion, Kino, Flicker Alley, MoMA, or Photoplay is known to exist. The UCLA Film and Television Archive holds approximately 2,500 feet of surviving footage; a single reel was located in Portugal. These are archival holdings, not a distributed restoration product. No restoration copyright layer identified.",
+          "source": "Wikipedia â€” The Patriot (1928 film): lost film and archival status",
+          "url": "https://en.wikipedia.org/wiki/The_Patriot_(1928_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Patriot' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Patriot"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ThePatriotTrailer",
+      "label": "The Patriot (1928) â€” surviving theatrical trailer (Paramount; the full feature is a lost film)",
+      "quality": "trailer-only"
+    }
+  ],
+  "editorial": "The Patriot (1928) was Ernst Lubitsch's last silent-era Paramount production and one of the most celebrated lost films in Hollywood history. Emil Jannings plays the erratic Tsar Paul I of Russia; Lewis Stone is Count Pahlen, the loyalist officer who ultimately orchestrates the Tsar's assassination. The film was Paramount Famous Lasky Corp.'s first feature with spoken dialogue â€” a part-talkie with synchronized score and select sound sequences recorded in 1928. Hanns KrÃ¤ly won the Academy Award for Best Writing (Adaptation) for a screenplay drawn from Ashley Dukes's 1928 Broadway play, which itself adapted Alfred Neumann's 1925 German novel 'Der Patriot.' Five Academy Award nominations followed, including Best Picture â€” making this the only Best Picture nominee for which no complete or near-complete copy has ever been found. Roughly 2,500 feet of the original 10,000-foot print survive at the UCLA Film and Television Archive, with one additional reel recovered in Portugal.\n\nFor creators, the underlying copyright on every surviving frame is fully cleared: all US works published in 1928 entered the public domain on January 1, 2024 under the 95-year rule, and no renewal search is required. The one live trap is the score. The original 1928 synchronized soundtrack shares the film's PD status, but any musical score or sound design layered onto the surviving fragments by archivists or distributors after 1928 is separately protected from the date of that work. The trailer on Internet Archive (identifier: ThePatriotTrailer) is the most freely accessible moving-image remnant; use of UCLA's archival holdings requires the archive's permission as an access matter, not a copyright one.",
+  "faq": [
+    [
+      "Is The Patriot (1928) in the public domain?",
+      "Yes, unconditionally. US copyright law draws a bright line at 1930: every American film published that year or earlier is public domain in full. The Patriot was released by Paramount in 1928, so its 95-year copyright term expired on January 1, 2024. Renewal status is irrelevant â€” even a timely-renewed 1928 film reached the end of its maximum 95-year term on that date."
+    ],
+    [
+      "Can I use the surviving trailer and fragments from Archive.org freely?",
+      "The underlying footage is PD â€” the copyright cleared January 1, 2024. The practical check is the sound layer: if the copy you are using carries a modern musical score or sound effects added after 1928, that audio is separately protected from the year of its creation. The Archive.org trailer (identifier: ThePatriotTrailer) preserves material sourced from Paramount's 1928 campaign. For fragments held by UCLA, clearance is an archival-access question for the institution, not a copyright question."
+    ]
+  ]
+}

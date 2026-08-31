@@ -1,9 +1,11 @@
 """Nightly link health: verify archive.org items still exist and are not dark.
 
+Covers watch links AND evidence citations — both can point at archive.org, and build.py
+renders whatever the dossier holds, so a link left dead here is a 404 on the public page.
 Self-healing: a dead item is replaced with a verified live copy of the SAME film when one
-can be found, and dropped otherwise — build.py renders whatever `watch` holds, so a link
-left dead here is a 404 on the public page. Writes data/link_status.json; exits 0 always
-(report and repair, never break the site).
+can be found. A dead watch link is dropped if irreplaceable; a dead citation is flagged for
+a human instead, never deleted. Writes data/link_status.json; exits 0 always (report and
+repair, never break the site).
 
   python scripts/linkcheck.py            # check, repair, write status
   python scripts/linkcheck.py --check    # self-check (no network)
@@ -83,32 +85,43 @@ def find_replacement(title: str, year: int):
 
 
 def sweep() -> dict:
-    status = {"checked": str(date.today()), "items": {}, "repaired": [], "dropped": []}
+    """Check every archive.org link a dossier carries — watch links AND evidence citations.
+
+    A rotted citation is worse than a rotted watch link: the whole site is the claim that
+    the evidence is real. Evidence is repaired or flagged, never deleted — dropping a
+    citation silently would weaken a published claim with nobody noticing.
+    """
+    status = {"checked": str(date.today()), "items": {},
+              "repaired": [], "dropped": [], "unrepaired_evidence": []}
     for p in sorted(FILMS.glob("*.json")):
         film = json.loads(p.read_text(encoding="utf-8"))
-        changed, kept = False, []
-        for w in film.get("watch", []):
-            m = re.search(r"archive\.org/details/([^/?#]+)", w["url"])
+        evidence = [ev for L in film.get("layers", {}).values() for ev in L.get("evidence", [])]
+        changed, dead_watch = False, []
+        for holder, is_watch in [(w, True) for w in film.get("watch", [])] + \
+                                [(ev, False) for ev in evidence]:
+            m = re.search(r"archive\.org/details/([^/?#]+)", holder.get("url") or "")
             if not m:
-                kept.append(w)
                 continue
             ident = m.group(1)
             ok = item_ok(ident)
-            status["items"][ident] = {"ok": ok, "film": film["id"]}
+            status["items"][ident] = {"ok": ok, "film": film["id"],
+                                      "kind": "watch" if is_watch else "evidence"}
             time.sleep(1)
             if ok:
-                kept.append(w)
                 continue
+            changed = True
             repl = find_replacement(film["title"], film["year"])
             if repl:
-                w["url"] = f"https://archive.org/details/{repl}"
-                kept.append(w)
-                status["repaired"].append({"film": film["id"], "was": ident, "now": repl})
-            else:
+                holder["url"] = f"https://archive.org/details/{repl}"
+                status["repaired"].append({"film": film["id"], "was": ident, "now": repl,
+                                           "kind": "watch" if is_watch else "evidence"})
+            elif is_watch:
+                dead_watch.append(holder)
                 status["dropped"].append({"film": film["id"], "was": ident})
-            changed = True
+            else:
+                status["unrepaired_evidence"].append({"film": film["id"], "was": ident})
         if changed:
-            film["watch"] = kept
+            film["watch"] = [w for w in film.get("watch", []) if w not in dead_watch]
             p.write_text(json.dumps(film, ensure_ascii=False, indent=2), encoding="utf-8")
     return status
 
@@ -133,4 +146,5 @@ if __name__ == "__main__":
     (ROOT / "data" / "link_status.json").write_text(json.dumps(st, indent=1), encoding="utf-8")
     bad = [k for k, v in st["items"].items() if not v["ok"]]
     print(f"link check: {len(st['items'])} items, {len(bad)} dead "
-          f"({len(st['repaired'])} repaired, {len(st['dropped'])} dropped): {bad}")
+          f"({len(st['repaired'])} repaired, {len(st['dropped'])} watch links dropped, "
+          f"{len(st['unrepaired_evidence'])} evidence links need a human): {bad}")
