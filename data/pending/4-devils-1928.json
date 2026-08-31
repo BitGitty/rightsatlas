@@ -1,0 +1,92 @@
+{
+  "id": "4-devils-1928",
+  "title": "4 Devils",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "F.W. Murnau, dir. | Fox Film Corporation, 1928",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1928 by Fox Film Corporation. Under US law the maximum copyright term for any pre-1978 work with notice and timely renewal is 95 years from publication (17 U.S.C. Â§ 304(b)), placing the expiry date at January 1, 2024. As of 2026-09-01 the print is irrevocably public domain by term, regardless of whether Fox renewed the registration in 1955â€“1956.",
+          "source": "US Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film: no recorded soundtrack was embedded in the 1928 print. Any musical score accompanying surviving footage on modern archival or streaming copies is a newly authored work protected by its own copyright term and must be treated separately. The image layer is PD; the score layer is not.",
+          "source": "17 U.S.C. Â§ 101 (definition of sound recording); Copyright Office Circular 56",
+          "url": "https://www.copyright.gov/circs/circ56.pdf"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay adapts Herman Bang's 1901 Danish novel 'De fire djÃ¦vle.' Bang died in 1912; the source novel is public domain in all major jurisdictions by author's life plus term. The US adaptation embodied in the 1928 film is itself PD by term: 1928 + 95 years = expiry January 1, 2024. No separate story copyright survives.",
+          "source": "US Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is largely lost. Surviving footage amounts to approximately nine minutes of fragments held at the Library of Congress and in Czech archive collections. No commercial restoration by Criterion, Kino Lorber, Flicker Alley, MoMA, or Photoplay Productions has been identified. The undetermined status reflects the absence of a known restoration, not a confirmed clearance.",
+          "source": "Library of Congress National Film Preservation Board â€” American Silent Feature Film Survival Study",
+          "url": "https://www.loc.gov/programs/national-film-preservation-board/film-study/silent-film/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search '4 Devils' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=4+Devils"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "F.W. Murnau's '4 Devils' (1928) was the director's second Fox production, released in the same year as 'Sunrise' transformed his American career. Shot partly on location with real circus performers and on elaborate Fox studio sets, it followed four orphan acrobats â€” the 'four devils' of the title â€” from childhood through a romance that fractures their troupe. Janet Gaynor and Charles Morton led the cast. The film was profitable on first release, and Fox briefly issued a part-talkie version in 1929, but almost no prints survived: studio fires and deliberate stock destruction wiped out nearly all copies, leaving roughly nine minutes of fragments split between the Library of Congress and Czech archive holdings.\n\nThe surviving footage and all associated production stills are free to reproduce and publish â€” the 1928 Fox copyright carried a maximum US term of 95 years, which expired January 1, 2024, and even a valid 1955â€“1956 renewal could not extend protection past that date. What is not free is any musical score layered onto modern archival copies: because the film is silent, any accompaniment was composed and recorded separately and carries its own copyright. A reuser must either strip the score, substitute a public-domain or self-authored one, or license it independently. No commercial restoration has been released, so there is no additional restoration-rights layer on the image fragments themselves.",
+  "faq": [
+    [
+      "Are the surviving fragments of '4 Devils' free to use?",
+      "Yes â€” the print is public domain. Fox published the film in 1928, and the 95-year maximum US copyright term expired on January 1, 2024, making renewal history irrelevant. You may reproduce, edit, or redistribute the surviving footage. The exception is any musical score on a modern copy: silent-film accompaniments are separately authored and separately protected. Use the footage without the score, or verify the score's rights before publishing."
+    ],
+    [
+      "Does the largely-lost status of the film create any special rights complications?",
+      "No. The film being mostly destroyed does not affect copyright status â€” term expiry applies to published works regardless of how many copies survive. The fragments held by the Library of Congress and Czech archives are public-domain material. Practical complications are logistical rather than legal: obtaining access to archival holdings typically requires contacting the archive directly, and any digitization fee an archive charges is an access fee, not a copyright license."
+    ]
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "lonesome-1928",
+  "title": "Lonesome",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. PÃ¡l FejÅ‘s Â· Universal Pictures Â· story by Mann Page",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1928 by Universal Pictures Corp.; the 95-year US copyright term ran through 31 Dec 2023 and the work entered the public domain on 1 Jan 2024. All works published through 1928 are within the unconditional US PD bright line.",
+          "source": "Duke University Center for the Study of the Public Domain â€” Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        },
+        {
+          "type": "term_expiry",
+          "note": "Wikimedia Commons explicitly confirms US PD status: 'published (or registered with the U.S. Copyright Office) before January 1, 1931.'",
+          "source": "Wikimedia Commons â€” File:Lonesome (1928).webm",
+          "url": "https://commons.wikimedia.org/wiki/File:Lonesome_(1928).webm"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Lonesome is a part-talkie: three dialogue sequences were spliced into the 1928 release after Universal pivoted to sound. Those original 1928 recorded elementsâ€”dialogue and any score baked into the period print, including the recurring Irving Berlin composition 'Always' (itself PD, published 1925)â€”share the film's PD status. However, the 2012 Criterion Collection Blu-ray/DVD restoration includes newly recorded or commissioned musical accompaniment; that recording is an independently copyrighted sound recording. Any reuse should draw from the original 1928 print audio, not a modern accompaniment track found on commercial or streaming copies.",
+          "source": "Wikipedia â€” Lonesome (1928 film)",
+          "url": "https://en.wikipedia.org/wiki/Lonesome_(1928_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original story credited to Mann Page, created as a three-page studio outline for Universal in 1928 and never independently published. As a studio-originated work bundled with the film, the story is co-extensive with the film's copyright; it entered the US public domain on 1 Jan 2024 together with the print.",
+          "source": "Wikipedia â€” Lonesome (1928 film), production section",
+          "url": "https://en.wikipedia.org/wiki/Lonesome_(1928_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Criterion Collection released Lonesome on Blu-ray and DVD in 2012 (spine #612), including an HD restoration of the hand-tinted color sequences. Criterion's restored master and any accompanying recorded score or packaging materials are independently copyrighted; the disc is not a free source.",
+          "source": "Criterion Collection â€” Lonesome (1928)",
+          "url": "https://www.criterion.com/films/28212-lonesome"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Lonesome' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Lonesome"
+      },
+      {
+        "label": "CCE Motion Pictures 1950â€“1959 cumulative volume (archive.org) â€” search full text for 'Lonesome'",
+        "url": "https://archive.org/details/Motionpict19591960librrich0008"
+      },
+      {
+        "label": "CCE Motion Pictures Janâ€“Dec 1956 full text (djvu) â€” search for 'Lonesome'",
+        "url": "https://archive.org/stream/catalogofcopyrig3101213li/catalogofcopyrig3101213li_djvu.txt"
+      },
+      {
+        "label": "CCE Motion Pictures Janâ€“Dec 1955 full text (djvu) â€” search for 'Lonesome'",
+        "url": "https://archive.org/stream/catalogofcopyrig391213lib/catalogofcopyrig391213lib_djvu.txt"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/1-lonsome-rec-20240211015943",
+      "label": "Lonesome (1928) â€” Internet Archive (opensource_movies collection)",
+      "quality": "~68 min MPEG4, ~1.9 GB; includes color-tinted sequences; in the IA opensource_movies collection indicating PD status; bundled with two other FejÅ‘s Universal films (Broadway, The Last Performance)."
+    },
+    {
+      "url": "https://archive.org/details/lonesome-1928",
+      "label": "Lonesome (1928) â€” Internet Archive",
+      "quality": "Standard definition; uploader posted a Fair Use notice, likely reflecting caution about the Criterion-derived print rather than a claim against the underlying 1928 film itself."
+    }
+  ],
+  "editorial": "PÃ¡l FejÅ‘s's Lonesome (Universal Pictures, 1928) follows two isolated working-class New Yorkersâ€”Jim (Glenn Tryon), a lathe operator, and Mary (Barbara Kent), a telephone switchboard operatorâ€”who meet and fall in love during a Fourth of July holiday at Coney Island, only to lose each other in the holiday crowds before discovering they are next-door neighbors. FejÅ‘s shot largely on location using a mobile camera, building the film around color tinting, superimposition, and rapid montage rather than conventional narrative continuity; three dialogue sequences were grafted on when Universal pivoted to sound, making Lonesome one of the first part-talkies. The Library of Congress selected it for the National Film Registry in 2010.\n\nThe 1928 print is free to reuse: the 95-year US copyright term expired on January 1, 2024, placing Lonesome in the same unconditional public domain category as all US works published through 1928, regardless of whether Universal filed a renewal in the 1950s. The rights trap that actually applies is the Criterion Collection's 2012 Blu-ray and DVD restoration (spine #612). Criterion's HD transfer, their reconstruction of the hand-tinted sequences, and any newly recorded musical accompaniment on the disc are independently copyrighted. A creator should source from the Internet Archive's copies of the pre-Criterion print and treat any modern audio accompaniment encountered on streaming platforms as protected until the specific license is confirmed.",
+  "faq": [
+    [
+      "Is the Lonesome (1928) print in the public domain?",
+      "Yes. The 95-year US copyright term for all 1928 publications expired on January 1, 2024, placing the original Universal print in the public domain unconditionally. The Criterion Collection's 2012 restoration master is a separate, independently copyrighted work and is not free to copy or rebroadcast."
+    ],
+    [
+      "Can I freely use the dialogue or music from this film?",
+      "The original 1928 recorded sound elementsâ€”three dialogue scenes and any score or music baked into the period print, including Irving Berlin's 'Always' (itself PD, published 1925)â€”are public domain along with the film. If you are working from a modern restoration copy sourced from Criterion or a streaming platform, the audio track may include a separately copyrighted recorded accompaniment. Source from the Internet Archive's original-print copies to stay clearly within public domain."
+    ]
+  ]
+}
