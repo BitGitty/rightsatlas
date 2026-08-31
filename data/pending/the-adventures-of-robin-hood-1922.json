@@ -1,0 +1,105 @@
+{
+  "id": "the-adventures-of-robin-hood-1922",
+  "title": "The Adventures of Robin Hood",
+  "year": 1922,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. Allan Dwan Â· Douglas Fairbanks Pictures / United Artists Â· 1922",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film published 1922. All US works published 1930 or earlier are in the public domain by term under the pre-1978 copyright scheme; no renewal determination is legally necessary.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film: the 1922 print carries no recorded musical score of its own. All commercially distributed copies (e.g., Kino Lorber home video editions) bundle a newly composed or arranged score and a separately fixed sound recording, both independently copyrighted. Public-domain status applies to the visual images only; the audio track on any modern release requires separate clearance.",
+          "source": "Kino Lorber catalog â€” Robin Hood (1922 silent film)",
+          "url": "https://www.kinolorber.com/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Robin Hood is medieval English folk legend documented in ballads no later than the 14thâ€“15th centuries (e.g., A Gest of Robyn Hode, c. 1450). The source material is anonymous traditional folklore with no identifiable original author; it has been in the public domain for centuries, well predating any US copyright system.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Robin Hood as a character derives from centuries-old public-domain folklore and is not inherently protectable as a trademark. No specific active federal trademark registration for 'Robin Hood' as a film franchise mark was confirmed in this research pass. Creators with commercial franchise plans should run a direct USPTO TESS search.",
+          "source": "USPTO Trademark Electronic Search System (TESS)",
+          "url": "https://tmsearch.uspto.gov/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Video (now Kino Lorber) released Robin Hood (1922) on home video formats beginning in the 1990s, including a DVD edition with a newly composed score. That release constitutes a copyrighted sound recording independent of the 1922 underlying film. Any original creative or technical authorship in the restoration transfer is separately protected; only the raw pre-restoration image content is free.",
+          "source": "Kino Lorber catalog â€” Robin Hood (1922)",
+          "url": "https://www.kinolorber.com/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Adventures of Robin Hood' (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Adventures+of+Robin+Hood"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/robin-hood-1922",
+      "label": "Robin Hood (1922) â€” Douglas Fairbanks, dir. Allan Dwan [community restoration, 480p, synthesized score based on original]",
+      "quality": "medium"
+    }
+  ],
+  "editorial": "The Adventures of Robin Hood (premiered August 18, 1922) was the most expensive American film produced to that date, with Douglas Fairbanks's own production company spending approximately $1.4 millionâ€”a substantial portion of it on an 80-acre castle set on the United Artists lot in Hollywood, then the largest standing set in film history. Director Allan Dwan built the film around Fairbanks's signature acrobatic physicality: the Earl of Huntingdon leaps from parapets, vaults up curtains, and slides down drawbridge chains in sequences that defined the swashbuckler genre for a generation. At roughly 170 minutes it is one of the longest American silent films ever made, and its scaleâ€”tournament pageants, pitched siege warfare, elaborate banquet halls packed with hundreds of extrasâ€”makes it a uniquely rich source of medieval visual material unavailable at this production quality anywhere else in the public domain.\n\nThe rights position is clean on the print and completely tangled on the audio. The 1922 US publication date clears the pre-1930 bright line without any need to check renewal records: this film is public domain in the United States, period. The practical trap is that every commercial copy in wide circulationâ€”including Kino Lorber's DVDâ€”arrives bundled with a newly composed or arranged musical score whose composer retains independent copyright in that recording. Using footage ripped from a commercial disc without stripping the audio infringes that score even though the images are free. The verified-safe path is the silent or openly licensed print on the Internet Archive; read the item-page license statement on the score before any commercial release.",
+  "faq": [
+    [
+      "Can I use footage from a Kino Lorber DVD of this film?",
+      "The visual content of the 1922 film is public domain, so the images themselves are free. The Kino Lorber release bundles a separately composed musical score and sound recording that are independently copyrighted. You may use the video trackâ€”muted or with your own audioâ€”without infringing. Using the disc's audio track in a commercial release requires clearance from the score's rightsholder."
+    ],
+    [
+      "This film has nearly the same title as the 1938 Errol Flynn pictureâ€”are they connected for rights purposes?",
+      "They are legally distinct works with no shared rights. The 1938 Warner Bros. The Adventures of Robin Hood is a separate copyrighted film and is not in the public domain. Only the 1922 Fairbanks film is free to use. Verify your source material carefully before publishing, since the near-identical titles cause frequent mislabeling on streaming platforms and download sites."
+    ]
+  ]
+}

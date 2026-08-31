@@ -1,0 +1,104 @@
+{
+  "id": "the-big-trail-1930",
+  "title": "The Big Trail",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Fox Film Corporation, 1930 Â· dir. Raoul Walsh Â· John Wayne's first starring role",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Fox Film Corporation published the film in 1930. Wikipedia (retrieved 2026-09) states the copyright was renewed under the 1909 Act, extending protection from the initial 28-year term. The Sonny Bono Copyright Term Extension Act (1998) capped total US protection for such works at 95 years from publication. The 95-year term expired 1 January 2026, placing the work fully in the public domain by term regardless of renewal status.",
+          "source": "US Copyright Act Â§304 â€” Duration of Copyright: Subsisting Copyrights; Cornell LII",
+          "url": "https://www.law.cornell.edu/uscode/text/17/304"
+        },
+        {
+          "type": "research_note",
+          "note": "Stanford Copyright Renewal DB search for 'The Big Trail' returned no records (possible digitization gap or technical issue). Wikipedia's article on the film states 'The film's copyright was renewed, so the film finally entered the public domain in 2026.' Either way, the 95-year term ceiling applies and the work is PD by term as of 2026-09-01.",
+          "source": "Wikipedia secondary source; Stanford Copyright Renewal DB search (inconclusive)",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+Trail"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The Big Trail is a 1930 sound film; no separately registered score exists. The synchronized sound track and musical underscoring were produced as an integral part of the Fox Film Corporation 1930 production and share its copyright term. That 95-year term expired 1 January 2026. Modern copies on streaming platforms may have newly recorded scores â€” verify the specific source before use.",
+          "source": "US Copyright Act Â§304; Duke CSPD guidance on sound-film scores",
+          "url": "https://www.law.cornell.edu/uscode/text/17/304"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film draws on Francis Parkman Jr.'s 'The California and Oregon Trail' (1849), which is unambiguously public domain. The story adaptation (Hal G. Evarts) and screenplay (Jack Peabody, Marie Boyle, Florence Postal, Fred Serser) were works made for hire created under the Fox Film Corporation 1930 production and share its copyright term, which expired 1 January 2026.",
+          "source": "US Copyright Act Â§304; publication date of Parkman source (1849, pre-dates any modern copyright)",
+          "url": "https://www.law.cornell.edu/uscode/text/17/304"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Two restoration efforts exist that likely carry separate copyright protection as derivative works: (1) MoMA's preservation in the early 1980s, led by Peter Williamson with engineer Karl Malkames constructing a custom-built printer to transfer the decomposing 70mm Grandeur nitrate negative to 35mm anamorphic master â€” a novel technical and creative act; (2) a Film Foundation-supported restoration released commercially on Blu-ray by 20th Century Fox Home Video in November 2012 (confirmed street date). Both constitute original creative labor on a new medium and are treated as separately protected works. Avoid sourcing from the Blu-ray or any MoMA-originated print.",
+          "source": "Home Media Magazine Blu-ray review; MoMA film calendar (event 10622); web search corroboration",
+          "url": "https://www.homemediamagazine.com/fox/big-trail-blu-ray-review"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Big Trail' (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+Trail"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-big-trail-1930",
+      "label": "The Big Trail (1930) â€” Internet Archive, PD Mark 1.0, 117 min, 1920Ã—920",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Big Trail (1930) is Raoul Walsh's sprawling pioneer western, famous on two counts: it launched John Wayne's starring career, casting the 22-year-old as Breck Coleman, a frontiersman guiding a wagon train from Missouri to Oregon while hunting down his friend's killers; and it was Fox Film Corporation's enormous bet on widescreen cinema, shot simultaneously in the experimental 70mm Grandeur process and in standard 35mm, plus four foreign-language 35mm editions â€” six versions in parallel production. Fox lost the bet when exhibitors refused to retool for Grandeur, and the format died with this film. The copyright, registered by Fox in 1930 and renewed under the 1909 Act, ran its full 95-year Sonny Bono-extended term and expired on 1 January 2026, making this one of the first major Hollywood productions to enter public domain by term rather than renewal lapse.\n\nThe live trap for reusers is the restoration layer. In the early 1980s, MoMA preservation chief Peter Williamson led the rescue of the decomposing 70mm nitrate camera negative; engineer Karl Malkames built a bespoke printer to transfer the image to 35mm anamorphic â€” a sufficiently original act of preservation craft to attract separate copyright protection. That work fed a Film Foundation-supported restoration released commercially on Blu-ray by 20th Century Fox Home Video in November 2012. Any footage pulled from that disc carries Fox's restoration copyright, not the underlying 1930 public domain film. The verified safe copy is the Internet Archive item at archive.org/details/the-big-trail-1930, which bears a Public Domain Mark 1.0 and was not sourced from the Blu-ray master.",
+  "faq": [
+    [
+      "Is The Big Trail actually in the public domain now, or was the copyright renewed?",
+      "Both facts are true: the copyright was renewed under the 1909 Act, but the Sonny Bono Copyright Term Extension Act capped US protection at 95 years from publication. That ceiling hit on 1 January 2026, placing the 1930 film in the public domain by term. The copy at archive.org/details/the-big-trail-1930 (PD Mark 1.0) is freely usable."
+    ],
+    [
+      "Can I use footage from the 2012 Fox Blu-ray of The Big Trail?",
+      "No â€” avoid it. The Blu-ray draws on the MoMA and Film Foundation restorations, which as original creative works in a new medium may carry their own copyright separate from the 1930 film. Use the Internet Archive copy instead, which derives from the public domain print, not from the protected restoration master."
+    ]
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "the-iron-mask-1929",
+  "title": "The Iron Mask",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Douglas Fairbanks Â· dir. Allan Dwan Â· United Artists, 1929",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released February 21, 1929. Under the 1909 Copyright Act the maximum term was 28 years initial plus a 28-year renewal, giving a hard ceiling of 56 years â€” expiring no later than 1985. Definitively public domain in the US by term.",
+          "source": "Cornell University Copyright Information Center â€” Copyright Term Chart (Hirtle)",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The original synchronized Vitaphone disc score recorded for the 1929 release is public domain by term alongside the film, having expired no later than 1985 under the 1909 Act ceiling.",
+          "source": "Cornell University Copyright Information Center â€” Copyright Term Chart (Hirtle)",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        },
+        {
+          "type": "research_note",
+          "note": "Kino Video's 1999 DVD restoration (produced with MoMA) could not clear the original Vitaphone score composition and substituted a newly commissioned score by Carl Davis. That score and its recording are protected 1999 works independent of the 1929 film's PD status. The Internet Archive print (identifier: TheIronMask) runs only 72 minutes versus the 95-minute original; its audio provenance should be independently confirmed before treating it as carrying the free 1929 Vitaphone score.",
+          "source": "Internet Archive â€” The Iron Mask (identifier: TheIronMask)",
+          "url": "https://archive.org/details/TheIronMask"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Alexandre Dumas pÃ¨re's Vicomte de Bragelonne (serialized 1847â€“1850) and draws on The Three Musketeers (1844). Both are 19th-century French works long expired worldwide. No copyrightable expression from a protected source is inherited.",
+          "source": "Project Gutenberg â€” Le Vicomte de Bragelonne (Dumas, 1848â€“1850), eBook #2759",
+          "url": "https://www.gutenberg.org/ebooks/2759"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "D'Artagnan and the Three Musketeers characters originate in 19th-century Dumas novels and are not inherently protectable as trademarks. No active USPTO registration for 'The Iron Mask' as a film-franchise mark was identified in this research, but no systematic TESS search was conducted. Reusers planning commercial use of the title should verify at the USPTO trademark portal before proceeding.",
+          "source": "USPTO Trademark Electronic Search System",
+          "url": "https://www.uspto.gov/trademarks"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Video released a DVD restoration in 1999, produced in cooperation with the Museum of Modern Art (MoMA). The restoration carries a newly commissioned score by Carl Davis because the original Vitaphone disc composition rights could not be cleared; it also includes deleted scenes and documentary supplements. The Carl Davis score (Â© 1999) and any unique editorial contributions of the restoration are separately protected works. The Iron Mask was added to the Library of Congress National Film Registry in 1996, confirming institutional preservation activity. No Criterion, Flicker Alley, or Photoplay restoration was identified.",
+          "source": "Library of Congress National Film Registry â€” complete listing",
+          "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Iron Mask' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Iron+Mask"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheIronMask",
+      "label": "The Iron Mask (1929) â€” Internet Archive (72-min truncated print, synchronized sound)",
+      "quality": "truncated â€” 72 min vs. 95-min original; audio provenance unconfirmed"
+    }
+  ],
+  "editorial": "The Iron Mask (1929) is the capstone of Douglas Fairbanks's silent-era swashbuckler career â€” a sequel to his own Three Musketeers (1921), directed by Allan Dwan and released by United Artists on February 21, 1929. Technically a part-talkie, it carries a complete synchronized Vitaphone disc score and two brief spoken-word sequences in which Fairbanks addresses the audience directly as a departing D'Artagnan. The film copyright expired no later than 1985 under the 1909 Act's 56-year ceiling, and the source material â€” Dumas's Vicomte de Bragelonne (1847â€“1850) and The Three Musketeers (1844) â€” has been in the public domain for well over a century. A creator can adapt the story, the characters, and footage from confirmed original prints without clearing any underlying rights.\n\nThe rights trap is the score on most circulating copies. Kino Video's 1999 DVD restoration, produced with MoMA, dropped the original Vitaphone disc composition because those rights could not be cleared and substituted a newly commissioned orchestral score by Carl Davis. That score is a fully protected 1999 work independent of the film's public-domain status. Anyone pulling footage from the Kino disc and keeping the Davis music is using protected material without a license. The Internet Archive copy (identifier: TheIronMask) is a 72-minute truncation â€” substantially shorter than the 95-minute original â€” and its audio source should be verified before assuming it carries the free 1929 Vitaphone material.",
+  "faq": [
+    [
+      "Can I use footage from The Iron Mask in my own film or video?",
+      "Yes for the footage itself â€” the 1929 film is definitively public domain in the US by term. The catch is audio: the Kino/MoMA DVD restoration carries a 1999 score by Carl Davis that is separately copyrighted. Use prints confirmed to carry the original 1929 Vitaphone score, or replace the audio entirely, to stay clear of that protection."
+    ],
+    [
+      "Is the Dumas source story free to adapt?",
+      "Completely. Alexandre Dumas's source novels â€” The Three Musketeers (1844) and Vicomte de Bragelonne (1847â€“1850) â€” are 19th-century works in the public domain worldwide. The characters, the Iron Mask plot, and all underlying story elements are freely adaptable without any licensing."
+    ]
+  ]
+}

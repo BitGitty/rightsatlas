@@ -1,0 +1,108 @@
+{
+  "id": "morocco-1930",
+  "title": "Morocco",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. Josef von Sternberg; Paramount Publix Corp., 1930; scr. Jules Furthman; starring Marlene Dietrich, Gary Cooper, Adolphe Menjou.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Paramount Publix Corp. registered the copyright as LP1793 on December 5, 1930. The 95-year US term (1930 + 95 = 2025) expired December 31, 2025; the film entered the public domain January 1, 2026. Duke CSPD and the Internet Archive both list Morocco among 1930 works newly public domain in 2026.",
+          "source": "Duke Center for the Study of the Public Domain â€” Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Searched the Catalog of Copyright Entries (Third Series, Parts 12â€“13, Motion Pictures) for 1957 (Vol. 11) and 1958 (Vol. 12) â€” the mandatory renewal window for a December 5, 1930 registration (LP1793). No renewal entry for Morocco was found in either volume. Note: Paramount's pre-1950 library was acquired by MCA/EMKA Ltd. in February 1958, mid-window; whether EMKA filed a renewal in the remaining months of 1958 is not confirmed by available CCE records.",
+          "source": "CCE Third Series Parts 12â€“13 Motion Pictures 1957 (Vol. 11), Internet Archive full text",
+          "url": "https://archive.org/stream/catalogofcopyrig3111213li/catalogofcopyrig3111213li_djvu.txt"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Morocco is a sound film; the original synchronized musical score and dialogue track recorded for the 1930 Paramount release share the film's copyright registration LP1793 and the same 95-year US term. The original 1930 soundtrack entered the public domain January 1, 2026 together with the print. Any newly transferred or remixed audio on the Criterion 2K restoration disc may constitute a separately protected sound recording and should not be sourced from that master.",
+          "source": "Duke Center for the Study of the Public Domain â€” Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay by Jules Furthman is part of the 1930 film's copyright (LP1793), PD as of January 1, 2026. The source â€” Benno Vigny's 1927 French novel 'Amy Jolly, Woman of Marrakesh' â€” is independently PD: even if the URAA (eff. January 1, 1996) restored a US copyright on the French work (the novel remained protected in France at the URAA date), the restored US term would run to at most 1927 + 95 = 2022, which expired January 1, 2023. Story is PD on all paths.",
+          "source": "Duke Center for the Study of the Public Domain â€” Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Criterion Collection produced a 2K digital restoration of Morocco, released in the 'Dietrich & von Sternberg in Hollywood' Blu-ray box set (Criterion spine #1329); the UK label Indicator released the same restored master. Criterion's restoration embodies new copyrightable authorship in the frame-by-frame cleanup, grading, and reconstruction of elements, separate from the PD underlying film. Universal Studios also released Morocco in 2011 on DVD under the Universal Vault Series (manufacture-on-demand from the EMKA library); the degree of restoration in that transfer is not confirmed.",
+          "source": "The Criterion Collection â€” Dietrich & von Sternberg in Hollywood (spine #1329)",
+          "url": "https://www.criterion.com/boxsets/1329-dietrich-von-sternberg-in-hollywood"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Morocco' (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Morocco"
+      },
+      {
+        "label": "CCE Motion Pictures 1957 (Vol. 11) â€” full text, search for Morocco",
+        "url": "https://archive.org/stream/catalogofcopyrig3111213li/catalogofcopyrig3111213li_djvu.txt"
+      },
+      {
+        "label": "CCE Motion Pictures 1958 (Vol. 12) â€” full text, search for Morocco",
+        "url": "https://archive.org/stream/catalogofcopyrig3121213li/catalogofcopyrig3121213li_djvu.txt"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/morocco-30-1538596735589",
+      "label": "Morocco (1930) â€” Internet Archive (full film, unrestored print)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "Morocco (1930) is a Paramount sound film directed by Josef von Sternberg â€” the first Hollywood picture to star Marlene Dietrich â€” with Gary Cooper as a French Foreign Legionnaire and Adolphe Menjou as a rich Moroccan suitor vying for cabaret singer Amy Jolly (Dietrich). Paramount Publix Corp. registered the copyright as LP1793 on December 5, 1930. The Catalog of Copyright Entries for motion pictures in 1957 and 1958, the mandatory renewal window for that registration, shows no renewal entry for Morocco; Paramount's pre-1950 library was sold to MCA/EMKA Ltd. in February 1958, mid-window, and it is unclear from available CCE records whether EMKA filed a timely renewal. Regardless, the 95-year US term (1930 + 95 = 2025) expired December 31, 2025, making the film definitively public domain as of January 1, 2026. The Library of Congress inducted it into the National Film Registry in 1992 as culturally and historically significant.\n\nThe live trap for reusers is the Criterion Collection's 2K digital restoration, issued in the 'Dietrich & von Sternberg in Hollywood' Blu-ray box set (spine #1329) and shared with UK label Indicator. That restored master carries its own copyright as a new creative work â€” a copy visibly sourced from it, with proprietary grain structure, color grading, and reconstructed frames, is not free to reproduce even though the underlying 1930 film is fully PD. The Internet Archive hosts an unrestored print (identifier morocco-30-1538596735589) that is genuinely free to use without restriction.",
+  "faq": [
+    [
+      "Is Morocco (1930) in the US public domain?",
+      "Yes, unconditionally as of January 1, 2026. Paramount Publix Corp. registered copyright LP1793 on December 5, 1930, and the 95-year US term (1930 + 95 = 2025) expired December 31, 2025. No renewal entry for Morocco appears in the Catalog of Copyright Entries for 1957 or 1958. A free copy is available from the Internet Archive at archive.org/details/morocco-30-1538596735589."
+    ],
+    [
+      "Can I use footage from the Criterion Blu-ray or Indicator disc of Morocco?",
+      "No. The Criterion Collection's 2K digital restoration is a separately copyrighted work, regardless of the 1930 film's public domain status. The UK Indicator release uses the same restored master and carries the same restriction. Use the unrestored Internet Archive print instead â€” it is the safe, attribution-free source for reuse."
+    ]
+  ]
+}
