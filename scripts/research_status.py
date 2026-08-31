@@ -4,7 +4,7 @@ recent growth, and backlog. Run by a daily task; also read by Claude each sessio
 """
 import json
 import subprocess
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -36,7 +36,11 @@ def main():
         backlog = len(json.loads(QUEUE.read_text(encoding="utf-8"))) if QUEUE.exists() else 0
     except Exception:
         backlog = "?"
-    added7 = git_recent_dossiers(7)
+    # the drip MOVES pending->films, which git records as a rename, not an add: counting
+    # only diff-filter=A reported 0 on days the pipeline had just released a dossier.
+    cutoff7 = (date.today() - timedelta(days=7)).isoformat()
+    added7 = max(git_recent_dossiers(7) or 0,
+                 sum(1 for e in log if e.get('date', '') >= cutoff7))
 
     print("=" * 46)
     print(f"RIGHTSATLAS RESEARCH STATUS — {datetime.now(timezone.utc):%Y-%m-%d}")
