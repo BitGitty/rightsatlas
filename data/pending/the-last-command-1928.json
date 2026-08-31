@@ -1,0 +1,103 @@
+{
+  "id": "the-last-command-1928",
+  "title": "The Last Command",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. Josef von Sternberg; Paramount Famous Lasky Corp.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published January 22, 1928 by Paramount Famous Lasky Corp. Copyright was registered and subsequently renewed by Paramount, but the 95-year maximum term under 17 U.S.C. Â§ 304(b) expired January 1, 2024. Unambiguously public domain as of that date.",
+          "source": "Cornell University Library Copyright Information Center â€” US works published 1924â€“1963 with renewal receive a maximum 95-year term from publication date",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film â€” the 1928 theatrical release carried no recorded musical score. Modern home video editions (Criterion Collection 2010 DVD; Kino Lorber distribution) include newly commissioned musical accompaniments that are independently copyrighted works, separate from the underlying PD film. Confirmed silent: Archive.org metadata for identifier the-last-command_202506 lists subject tag 'Silent'.",
+          "source": "Archive.org metadata for the-last-command_202506; standard US silent-film copyright analysis",
+          "url": "https://archive.org/metadata/the-last-command_202506"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original story 'The General' by Lajos BÃ­rÃ³ and Josef von Sternberg, written for and first published as part of this 1928 Paramount film; screenplay by John F. Goodrich. The literary contribution is integral to the film's copyright registration and shares the same 95-year term, which expired January 1, 2024. This is not an adaptation of a pre-existing literary work requiring separate term analysis.",
+          "source": "Cornell University Library Copyright Information Center; story credits confirmed via Archive.org metadata for the-last-command_1928 (creators: Lajos BÃ­rÃ³, John F. Goodrich, Josef von Sternberg)",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Criterion Collection released '3 Silent Classics by Josef von Sternberg' (spine 530) on DVD in 2010, containing The Last Command alongside Underworld (1927) and The Docks of New York (1928). This constitutes a modern restoration with a separately copyrighted video transfer and newly commissioned score. Kino Lorber has also distributed the film commercially. Archive.org search returns a copy labeled 'The Last Command (1928) [BLURAY-1080P][OPUS 2.0][X264]' (identifier: the-last-command-1928-bluray-1080p-opus-2.0-x264-retropeeps), confirming a protected restoration is in wide circulation.",
+          "source": "Criterion Collection, 2010 DVD release; Archive.org search results for 'The Last Command von Sternberg'",
+          "url": "https://www.criterion.com/films/530-3-silent-classics-by-josef-von-sternberg"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Last Command' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Last+Command"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-last-command_1928",
+      "label": "The Last Command (1928) â€” Archive.org official archiver upload (creator metadata confirms Jannings, von Sternberg, BÃ­rÃ³)",
+      "quality": "medium"
+    },
+    {
+      "url": "https://archive.org/details/the-last-command_202506",
+      "label": "The Last Command (1928) â€” Archive.org community upload, June 2025 (subject tag: Silent; date: 1928-01-22)",
+      "quality": "medium"
+    }
+  ],
+  "editorial": "The Last Command is a 1928 Paramount Famous Lasky Corp. silent film directed by Josef von Sternberg, in which Emil Jannings plays Grand Duke Sergius Alexander â€” a Russian Imperial general who survives the Bolshevik Revolution only to wash up as a destitute Hollywood extra, cast to re-enact the very battle that destroyed him. Jannings won the first Academy Award for Best Actor in part for this performance, and the film received a Best Original Story nomination at the inaugural 1929 ceremony. Paramount registered the copyright in 1928, based on an original story by Lajos BÃ­rÃ³ and von Sternberg with screenplay by John F. Goodrich, and duly renewed it â€” but the 95-year maximum term under 17 U.S.C. Â§ 304(b) ran out on January 1, 2024, placing the story, screenplay, and filmed images unambiguously in the public domain.\n\nThe one rights trap is the restoration layer. The Criterion Collection issued a DVD in 2010 ('3 Silent Classics by Josef von Sternberg,' spine 530) and Kino Lorber has distributed the film commercially as well; both releases carry a separately copyrighted video transfer and a newly commissioned musical score that did not expire with the underlying 1928 print. At least one 1080p Blu-ray rip sourced from these commercial releases is indexed on Archive.org and circulates widely â€” using it would mean reproducing the restoration's protected elements alongside the PD images. Creators should source from the Archive.org item uploaded by the official Archive.org archiver (identifier: the-last-command_1928), whose provenance predates the commercial restoration era.",
+  "faq": [
+    [
+      "The film's copyright expired in 2024 â€” can I use any copy I find online?",
+      "You can freely use the underlying 1928 film, but not every copy online is clean. The Criterion Collection's 2010 DVD ('3 Silent Classics by Josef von Sternberg,' spine 530) and Kino Lorber's commercial releases carry independently copyrighted video transfers and scores. At least one 1080p Blu-ray rip of those releases is indexed on Archive.org. Use the Archive.org item the-last-command_1928, uploaded by the official Archive.org archiver, rather than a rip sourced from a commercial Blu-ray."
+    ],
+    [
+      "Can I compose my own score and release this film commercially?",
+      "Yes. The 1928 silent images are public domain and you may compose, commission, or license any musical accompaniment and sync it to the film for commercial or noncommercial release. Your new score becomes your own copyrighted work. Do not copy or directly incorporate the score from the Criterion or Kino Lorber editions, which are independently copyrighted compositions."
+    ]
+  ]
+}

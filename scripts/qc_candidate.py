@@ -15,6 +15,11 @@ import engine  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 QUEUE = ROOT / "data" / "queues" / "research_queue_500.json"
 ADAPTED_HINTS = ("based on", "novel", "play", "story by", "adaptation", "adapted from")
+# The whole site exists to refute the one-word "yes". A dossier must never claim a film is
+# free outright while its own layer table says a layer is protected or unresolved.
+BLANKET_CLAIMS = (r"public domain in full", r"in the public domain in full",
+                  r"completely (?:free|public domain)", r"entirely (?:free|public domain)",
+                  r"free (?:to use )?in full", r"fully public domain")
 
 
 def qc(cand: dict) -> list:
@@ -36,6 +41,18 @@ def qc(cand: dict) -> list:
         has_ev = any(L.get("evidence") for L in cand.get("layers", {}).values())
         if not has_ev:
             fails.append("editorial asserts a legal conclusion but no layer has evidence")
+    # blanket "it's all free" claims, in prose, contradicting the candidate's own layers
+    # answers only — "Is it completely free?" is the question we exist to answer, not a claim
+    prose = " ".join([cand.get("editorial") or ""] +
+                     [str(pair[-1]) for pair in cand.get("faq", []) if pair]).lower()
+    unresolved = [k for k, L in cand.get("layers", {}).items()
+                  if L.get("status") != "verified_pd"]
+    if unresolved:
+        for pat in BLANKET_CLAIMS:
+            if re.search(pat, prose):
+                fails.append(f"prose claims the film is free outright ('{re.search(pat, prose).group(0)}') "
+                             f"but these layers are not verified_pd: {', '.join(sorted(unresolved))}")
+                break
     # registration-number sanity (loose format check when present)
     for k, layer in cand.get("layers", {}).items():
         for ev in layer.get("evidence", []):
@@ -64,6 +81,19 @@ def check() -> None:
     fails = qc(bad)
     assert any("likely_pd" in f for f in fails), "must flag likely_pd in candidate"
     assert any("legal conclusion" in f for f in fails), "must flag unevidenced conclusion"
+    # a blanket "it's all free" claim must lose to the candidate's own layer table
+    blanket = json.loads(json.dumps(good))
+    blanket["faq"] = [["Is it free?", "Yes — it is public domain in full."]]
+    assert any("free outright" in f for f in qc(blanket)), \
+        "must flag a blanket claim while the story layer is undetermined"
+    ok = json.loads(json.dumps(good))
+    ok["faq"] = [["Is it free?", "The print is, yes. Replace the audio on any modern copy."]]
+    assert qc(ok) == [], f"layer-accurate prose must pass, got {qc(ok)}"
+    # the phrase in a QUESTION is the thing readers ask — only the ANSWER is a claim
+    asked = json.loads(json.dumps(good))
+    asked["faq"] = [["Is it completely free to use?",
+                     "The print and story are. Replace the audio — modern scores are protected."]]
+    assert qc(asked) == [], f"a blanket phrase in the question must not trip, got {qc(asked)}"
     print("qc_candidate self-check passed")
 
 
