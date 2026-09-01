@@ -1,0 +1,103 @@
+{
+  "id": "the-docks-of-new-york-1928",
+  "title": "The Docks of New York",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Dir. Josef von Sternberg. Paramount Pictures, 1928. Silent. Screenplay by Jules Furthman from John Monk Saunders's story 'The Dock Walloper.' Stars George Bancroft, Betty Compson.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film published by Paramount Pictures in September 1928. The 95-year copyright term under the Sonny Bono Copyright Term Extension Act expired on January 1, 2024; all US-published works from 1928 or earlier are now in the public domain by expiry of that term, with no renewal required to confirm PD status as of 2026.",
+          "source": "Cornell University Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Docks of New York is a silent film; the original 1928 Paramount release carried no synchronized recorded soundtrack, so the bare print is free. However, every major home video release attaches a newly composed or arranged musical score â€” the Criterion Collection edition (spine #531, 'Three Silent Classics by Josef von Sternberg') and Kino Lorber releases each include separately copyrighted sound recordings. A copy sourced from those editions carries a protected score layer. Only copies drawn from the raw silent print without a modern score attached are fully unencumbered on this layer.",
+          "source": "Internet Archive item â€” The Docks of New York (1928), Public Domain Mark 1.0",
+          "url": "https://archive.org/details/the-docks-of-new-york_202506"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from 'The Dock Walloper,' an original story by John Monk Saunders written as source material for the film and published in 1928. As a US work published in 1928, its 95-year copyright term expired on January 1, 2024, placing it in the public domain on the same schedule as the film itself.",
+          "source": "Cornell University Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Criterion Collection released 'Three Silent Classics by Josef von Sternberg' (spine #531) including The Docks of New York with a new digital restoration and a separately copyrighted musical score; the restoration authorship and the score recording are protected independently of the underlying 1928 print. Kino Lorber and earlier Kino Video releases also constitute separate protected editions. The Library of Congress selected the film for the National Film Registry in 1999, noting ongoing active preservation. Modern restoration copyrights are distinct from, and do not revive, the expired original copyright.",
+          "source": "Library of Congress National Film Preservation Board â€” Complete National Film Registry Listing",
+          "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Docks of New York' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Docks+of+New+York"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-docks-of-new-york_202506",
+      "label": "The Docks of New York (1928) â€” 1080p MKV, Public Domain Mark 1.0, clean silent print",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/20211115_20211115_2301",
+      "label": "The Docks of New York (1928) â€” lower-resolution AVI with Portuguese intertitles (Docas de Nova York)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "Josef von Sternberg's final silent feature for Paramount stars George Bancroft as Bill Roberts, a coal stoker on a harbor barge who hauls Mae (Betty Compson) out of the Hudson River after she tries to drown herself, then impulsively marries her before the next tide carries him away. Cinematographer Harold Rosson packed every frame with harbor smoke, gaslight, and cramped waterfront interiors â€” a nocturnal world of dockworkers, transient sailors, and women with nowhere else to go. Jules Furthman adapted John Monk Saunders's original story 'The Dock Walloper'; the film premiered in New York on September 16, 1928, and the Library of Congress selected it for the National Film Registry in 1999 as culturally and aesthetically significant.\n\nThe 1928 Paramount print entered US public domain on January 1, 2024, when its 95-year copyright term expired, and the silent picture itself is freely reusable â€” the original release had no recorded soundtrack to complicate the picture track. The one live trap is sourcing from commercial restorations: the Criterion Collection edition (spine #531, 'Three Silent Classics by Josef von Sternberg') and Kino Lorber releases each pair a new digital restoration with a newly composed or arranged score, and both elements carry their own copyrights entirely separate from the underlying 1928 film. A creator who rips from those discs is not using the public-domain original â€” they are copying protected restoration work. The clean path is the unadorned archive.org uploads, which circulate the silent print without a modern recorded score attached.",
+  "faq": [
+    [
+      "Is the film itself free to use?",
+      "Yes. Paramount published The Docks of New York in September 1928, and its 95-year US copyright term expired on January 1, 2024. The original silent print is in the public domain and requires no license."
+    ],
+    [
+      "What about the score on the Criterion or Kino Lorber release?",
+      "The original film was silent; any music heard on a commercial disc is a newly composed or arranged work protected under its own copyright, entirely separate from the PD print. To stay unencumbered, source from an archive.org copy that carries no modern recorded score â€” do not rip from a Criterion or Kino disc."
+    ]
+  ]
+}
