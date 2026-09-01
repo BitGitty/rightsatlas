@@ -1,9 +1,13 @@
 {
-  "last_release": "2026-08-31",
+  "last_release": "2026-09-01",
   "log": [
     {
       "date": "2026-08-31",
       "film": "the-cocoanuts-1929"
+    },
+    {
+      "date": "2026-09-01",
+      "film": "the-adventures-of-robin-hood-1922"
     }
   ]
 }
