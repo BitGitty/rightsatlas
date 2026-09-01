@@ -191,6 +191,11 @@
    "film": "the-ace-of-hearts-1921",
    "kind": "watch"
   },
+  "robin-hood-1922": {
+   "ok": true,
+   "film": "the-adventures-of-robin-hood-1922",
+   "kind": "watch"
+  },
   "silent-the-big-parade": {
    "ok": true,
    "film": "the-big-parade-1925",
