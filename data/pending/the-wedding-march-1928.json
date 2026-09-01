@@ -1,0 +1,103 @@
+{
+  "id": "the-wedding-march-1928",
+  "title": "The Wedding March",
+  "year": 1928,
+  "country": "US",
+  "last_verified": "2026-09-01",
+  "byline": "Directed, written, and starring Erich von Stroheim; produced by Pat Powers; distributed by Paramount Pictures, 1928",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US theatrical release October 6, 1928. Works published in the United States before January 1, 1931 are in the public domain by term expiry; no renewal analysis is required.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The original 1928 synchronized Vitaphone score composed by J.S. Zamecnik (with theme 'Paradise' by Zamecnik and Harry D. Kerr) was published in 1928 and is PD by term alongside the print. However, the 2024 Vitaphone Soundtrack Project restoration mixed a new audio track from recovered Vitaphone discs, and Paramount's 1987 VHS release replaced Zamecnik's orchestral score with a newly commissioned pipe organ recording. Both of those modern audio works are separately protected sound recordings independent of the 1928 print's PD status.",
+          "source": "Internet Archive item page â€” Vitaphone Soundtrack Project restoration",
+          "url": "https://archive.org/details/the-wedding-march-1928-with-restored-synchronized-sound"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay is an original work by Erich von Stroheim (script completed 1926, published with the film's US release in 1928), not an adaptation of a prior literary work. Published in the United States in 1928; PD by term expiry on the same basis as the print.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Vitaphone Soundtrack Project produced a 2024 restoration incorporating recovered Vitaphone synchronized soundtrack discs and preserved Technicolor sequences; that restoration version carries a separately copyrighted audio mix. Paramount Pictures released the film on VHS in 1987 with a newly commissioned pipe organ score replacing Zamecnik's original orchestral soundtrack, itself a protected sound recording. Both are separately protected from the underlying PD print.",
+          "source": "Wikimedia Commons file page â€” 2024 Vitaphone Soundtrack Project restoration",
+          "url": "https://commons.wikimedia.org/wiki/File:%22The_Wedding_March%22_1928_Restored_SYNCHRONIZED_SOUND_Version_TECHNICOLOR_-_Erich_von_Stroheim.webm"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Wedding March' (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Wedding+March"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ErichVonStroheimsTheWeddingMarch1928",
+      "label": "The Wedding March (1928) â€” silent print, Internet Archive",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/the-wedding-march-1928-with-restored-synchronized-sound",
+      "label": "The Wedding March (1928) â€” 2024 Vitaphone synchronized-sound restoration (audio track separately protected)",
+      "quality": "high"
+    }
+  ],
+  "editorial": "The Wedding March is a 1928 American silent romantic drama directed by, written by, and starring Erich von Stroheim, produced by Pat Powers and distributed by Paramount Pictures. Set in pre-World War I Vienna, it follows an impoverished imperial officer (von Stroheim) coerced into an arranged marriage with a wealthy crippled heiress (ZaSu Pitts) while in love with a poor butcher's daughter (Fay Wray). Shot over most of 1926â€“1927 at enormous cost and then drastically recut by Paramount before release, the film was issued in two parts. Part I survives essentially intact; Part II, titled The Honeymoon, was destroyed in a fire at the CinÃ©mathÃ¨que FranÃ§aise on July 10, 1959, and is now considered lost.\n\nThe 1928 US print entered the public domain when its copyright term expired â€” works published in the United States before January 1, 1931 are unconditionally PD as of 2026, and the print layer is free to copy, screen, or remix without permission. The rights trap that actually applies is the score: the original 1928 Zamecnik orchestral score is equally PD by term, but two modern audio layers sit on top of it in most circulating copies. Paramount's 1987 VHS release substituted a new pipe organ recording for Zamecnik's score, and the widely available 2024 Vitaphone Soundtrack Project version carries a newly mixed audio track reconstructed from recovered Vitaphone discs. Either of those audio works is a protected sound recording independent of the underlying PD print â€” a reuser who sources from those specific distributions inherits an audio copyright and must either cut the sound or source the base silent print instead.",
+  "faq": [
+    [
+      "Is the image track of The Wedding March free to use?",
+      "Yes. The film was published in the United States in 1928, and all US works published before January 1, 1931 are in the public domain by term expiry. The image track is free to copy, screen, remix, and distribute without permission or payment. The score layer is a separate question â€” see below."
+    ],
+    [
+      "Can I use the 2024 Vitaphone restoration or the 1987 Paramount VHS version?",
+      "Not freely. The 2024 Vitaphone Soundtrack Project restoration attaches a newly mixed audio track that is a separately copyrighted sound recording, and the 1987 Paramount VHS replaced the original Zamecnik score with a new pipe organ recording that is also under copyright. For unrestricted use, source the silent print from the Internet Archive rather than either of those distributions."
+    ]
+  ]
+}
