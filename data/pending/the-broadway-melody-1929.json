@@ -1,0 +1,92 @@
+{
+  "id": "the-broadway-melody-1929",
+  "title": "The Broadway Melody",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-03",
+  "byline": "MGM, 1929 â€” dir. Harry Beaumont",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US work published February 1929 by Metro-Goldwyn-Mayer. Under the Sonny Bono Copyright Term Extension Act, the 95-year term from publication expired December 31, 2024; the work entered the public domain on January 1, 2025.",
+          "source": "Cornell University Library â€” Copyright Term and the Public Domain in the United States (chart)",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Sound film; the recorded soundtrack is part of the film's unified federal copyright (not a separately registered sound recording under the Music Modernization Act pre-1972 carve-out, which does not apply to tracks that are integral parts of a motion picture). The track shares the film's 1929 publication and January 1, 2025 PD entry. The underlying musical compositions â€” 'The Broadway Melody', 'You Were Meant for Me', 'The Wedding of the Painted Doll' â€” were written by Arthur Freed (lyrics) and Nacio Herb Brown (music) and published as part of the 1929 production; those compositions are likewise term-expired.",
+          "source": "Cornell University Library â€” Copyright Term and the Public Domain in the United States (chart)",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original story by Edmund Goulding; continuity by Sarah Y. Mason; dialogue by James Gleason and Norman Houston. Not an adaptation of any previously published literary or dramatic work â€” the narrative was conceived for the film. Story first fixed in the 1929 film; term expired January 1, 2025.",
+          "source": "Cornell University Library â€” Copyright Term and the Public Domain in the United States (chart)",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. (successor to Turner Entertainment, which acquired the pre-1986 MGM library in 1986) is the commercial custodian of this title and has released it through Warner Archive. Any digital restoration master produced by Warner technicians â€” involving frame stabilization, dirt/scratch removal, and audio remastering â€” constitutes a derivative work that may carry thin copyright protection on the new creative elements, even though the underlying 1929 film is public domain. Copying a raw PD-sourced print is lawful; copying Warner's restoration master is not.",
+          "source": "U.S. Copyright Office Circular 14 â€” Copyright in Derivative Works and Compilations",
+          "url": "https://www.copyright.gov/circs/circ14.pdf"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Broadway Melody' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Broadway+Melody"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Broadway Melody opened at Grauman's Chinese Theatre in February 1929 as MGM's first all-talking, all-singing musical â€” and became the second film in Academy Awards history to win Best Picture, at the ceremony held in April 1930. Directed by Harry Beaumont, it follows the Mahoney sisters (Bessie Love and Anita Page) navigating Broadway ambition and romantic rivalry alongside hoofer Eddie Kearns (Charles King). The songs â€” 'You Were Meant for Me' and the title number â€” were written by lyricist Arthur Freed and composer Nacio Herb Brown, both then under MGM contract; Freed later produced Singin' in the Rain (1952), which recycled several of these same compositions. MGM's copyright on the film passed to Turner Entertainment when Ted Turner acquired the pre-1986 library in 1986, and then to Time Warner in 1996; Warner Bros. Discovery now holds it as part of what is informally called the Turner library.\n\nFor a creator, the 1929 print and its integral soundtrack cleared the public-domain threshold on January 1, 2025, as did the underlying Freed-Brown compositions. The original screenplay is equally free â€” there is no prior literary source whose rights could survive the term expiry. The practical trap is the restoration layer: virtually every high-definition copy of this film in commercial circulation is a Warner Archive restoration master, not a raw PD scan. Warner's copyright on that master is thin but real; it covers the creative choices made in the restoration workflow, not the 1929 footage beneath it. A filmmaker needing a PD-clean copy should seek a print-derived transfer that predates Warner's restoration program, or commission a fresh scan from an archival print held at a public institution such as the Library of Congress or George Eastman Museum.",
+  "faq": [
+    [
+      "The Freed-Brown songs from this film appear in other productions too â€” are they public domain everywhere?",
+      "The underlying musical compositions ('You Were Meant for Me,' 'The Broadway Melody,' etc.) published in 1929 are public domain in the United States as of January 1, 2025. International status varies by country: many jurisdictions use a life-plus-70 term rather than a fixed publication term, so the compositions remain protected abroad until 70 years after the death of the last surviving author (Nacio Herb Brown died in 1964, Arthur Freed in 1973 â€” meaning life-plus-70 protection in those jurisdictions runs through 2043). Check the law of each territory separately before releasing internationally."
+    ],
+    [
+      "If Warner Bros. put this on a streaming service, does that reset the copyright clock?",
+      "No. Streaming or selling a public-domain film on a platform does not restore copyright in the underlying 1929 work. What Warner Bros. owns is its own restoration master â€” a derivative work â€” and only that specific master, not the film itself. You are free to copy, distribute, or adapt the 1929 film from a non-Warner PD source without their permission. You cannot, however, rip the Warner streaming version and redistribute it, because that copy is Warner's restoration master, not the original 1929 film."
+    ]
+  ]
+}
