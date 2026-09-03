@@ -1,0 +1,110 @@
+{
+  "id": "the-hollywood-revue-of-1929-1929",
+  "title": "The Hollywood Revue of 1929",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-04",
+  "byline": "Dir. Charles Reisner; prod. Irving Thalberg & Harry Rapf; Metro-Goldwyn-Mayer, 1929.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1929 by Metro-Goldwyn-Mayer; Loew's Inc. renewed the copyright in the mid-1950s. The 95-year maximum US copyright term under 17 U.S.C. Â§ 304(b) ran from 1929 through 2024; the film entered US public domain on January 1, 2025 regardless of renewal status.",
+          "source": "US Copyright Act, 17 U.S.C. Â§ 304(b); Duke Center for the Study of the Public Domain",
+          "url": "https://web.law.duke.edu/cspd/publicdomain/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Sound film: the original 1929 synchronized soundtrack is an integral part of the audiovisual work and shares the film's copyright status, entering US public domain January 1, 2025. Underlying musical compositions featured in the film â€” including 'Singin' in the Rain' (music: Nacio Herb Brown; lyrics: Arthur Freed), also published 1929 â€” are likewise PD by term expiry in the US. Modern transfer audio on the Warner Archive DVD and the Flicker Alley segment restoration are separately protected recordings.",
+          "source": "US Copyright Act, 17 U.S.C. Â§ 304(b)",
+          "url": "https://copyright.gov/title17/92chap3.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original screenplay by Al Boasberg and Robert E. Hopkins, written for this variety revue; no pre-existing literary work was adapted. As part of the 1929 MGM copyright, the script entered US public domain January 1, 2025 upon expiry of the 95-year maximum term.",
+          "source": "US Copyright Act, 17 U.S.C. Â§ 304(b)",
+          "url": "https://copyright.gov/title17/92chap3.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No franchise character trademarks specific to this film's creative content have been identified. The MGM 'Leo the Lion' logo and 'MGM' trade name visible in the title cards are active company trademarks of Amazon MGM Studios pertaining to studio identity, not to this film's individual content. No title or character marks unique to this revue were located.",
+          "source": "USPTO Trademark Electronic Search System",
+          "url": "https://tmsearch.uspto.gov/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Archive Collection manufactured-on-demand DVD (UPC 883316224854, released ca. 2009) represents a modern transfer of the full film under Warner Bros. copyright. Flicker Alley's 'Laurel & Hardy: Year Three â€” The Newly Restored 1929 Silents' Blu-ray contains a newly restored version of the Laurel & Hardy magic-act segment from this film. Both releases carry independent copyright in their restoration and transfer authorship, separate from the 1929 public-domain footage.",
+          "source": "Flicker Alley catalog; Warner Archive product listing",
+          "url": "https://www.flickeralley.com/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Hollywood Revue of 1929' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Hollywood+Revue+of+1929"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-hollywood-revue-of-1929_1929",
+      "label": "The Hollywood Revue of 1929 (1929) â€” Internet Archive",
+      "quality": "fair"
+    },
+    {
+      "url": "https://archive.org/details/the-hollywood-revue-1929",
+      "label": "The Hollywood Revue (1929) â€” Internet Archive (CC Public Domain Mark 1.0)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Hollywood Revue of 1929 is MGM's attempt to place its entire contract roster on screen in a single feature, produced by Irving Thalberg and Harry Rapf and directed by Charles Reisner. Emceed by Conrad Nagel and Jack Benny, the nearly two-hour revue assembles Joan Crawford, John Gilbert, Norma Shearer, Buster Keaton, Stan Laurel, Oliver Hardy, Lionel Barrymore, Marie Dressler, and more than a dozen other MGM stars in sketches, songs, and specialty acts â€” including the first filmed performance of 'Singin' in the Rain,' delivered by Cliff Edwards. The 1929 photographic print and its synchronized soundtrack entered US public domain on January 1, 2025, when the 95-year maximum copyright term expired.\n\nThe practical trap is source selection. Loew's Inc. renewed the copyright in the mid-1950s, keeping the film protected until December 31, 2024, so every pre-2025 commercial release was a licensed copy of protected material. The Warner Archive Collection manufactured-on-demand DVD (ca. 2009) and the Flicker Alley restoration of the Laurel & Hardy magic-act segment on its 'Year Three' Blu-ray both carry new copyright in their transfer and restoration authorship, independent of the underlying 1929 footage. A creator wanting the public-domain print should source from archive.org uploads â€” identifiers the-hollywood-revue-of-1929_1929 and the-hollywood-revue-1929 â€” rather than from rips of those home-video editions.",
+  "faq": [
+    [
+      "Is the 'Singin' in the Rain' performance in this film free to use?",
+      "The 1929 filmed performance by Cliff Edwards is part of the public-domain print and is free to use as video. The underlying musical composition â€” music by Nacio Herb Brown, lyrics by Arthur Freed, both published in 1929 â€” is also public domain in the US by term expiry. Modern orchestral arrangements, re-recordings, or synchronized scores added to any home-video release are separately protected and must be avoided."
+    ],
+    [
+      "Can I use the Warner Archive DVD as my source copy?",
+      "No. The Warner Archive Collection DVD's transfer work carries its own copyright, separate from the 1929 footage. Public-domain status applies to the original 1929 photographic print, not to modern-transfer editions of it. Use archive.org uploads (identifiers: the-hollywood-revue-of-1929_1929 or the-hollywood-revue-1929) as a cleaner source."
+    ]
+  ]
+}
