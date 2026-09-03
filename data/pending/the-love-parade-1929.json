@@ -1,0 +1,104 @@
+{
+  "id": "the-love-parade-1929",
+  "title": "The Love Parade",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-04",
+  "byline": "Directed by Ernst Lubitsch; produced by Paramount Famous Lasky Corporation",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US theatrical release November 19, 1929. The maximum US copyright term â€” 28-year initial term plus extensions capped at 95 years under the Sonny Bono Copyright Term Extension Act â€” expired January 1, 2025. The 1929 print is public domain regardless of whether Paramount filed a renewal in 1957.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The Love Parade is a sound film; its original recorded score (music by Victor Schertzinger, lyrics by Clifford Grey) was fixed as part of the 1929 production and shares the film's 1929 publication date. The 95-year maximum US term applied to the soundtrack as embodied in the film; all rights in that integrated recording expired January 1, 2025. Sheet music published separately in 1929â€“1930 may carry its own renewal history and is not covered by this finding, but the recorded track as part of the film is verified public domain.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The 1929 screenplay by Guy Bolton and Ernst Vajda, adapting the French play 'Le Prince Consort' by LÃ©on Xanrof and Jules Chancel (ca. 1919), was published as part of the film in 1929. The screenplay's US copyright expired January 1, 2025 under the 95-year maximum term. The underlying French source play, first published before 1924, is also public domain in the United States under the pre-1924 bright line regardless of URAA status.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Pictures (which holds the Paramount library) and The Film Foundation completed a 4K digital restoration of The Love Parade that premiered in the Berlinale Classics section of the 2024 Berlin International Film Festival. That restored master carries its own copyright distinct from the underlying 1929 film. The Criterion Eclipse Series 8 DVD release (2007) likewise represents a separately produced transfer with its own protected fixed expression. Neither the Universal 4K release nor the Criterion disc can be copied without a license from Universal.",
+          "source": "Berlinale 2024 Programme â€” The Love Parade (Liebesparade)",
+          "url": "https://www.berlinale.de/en/2024/programme/202409295.html"
+        },
+        {
+          "type": "research_note",
+          "note": "Universal Pictures markets the film commercially through its catalog under Universal Pictures at Home, confirming ongoing commercial control over the restored version.",
+          "source": "Universal Pictures at Home â€” The Love Parade",
+          "url": "https://www.universalpicturesathome.com/movies/the-love-parade"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Love Parade' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Love+Parade"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-love-parade-1929",
+      "label": "The Love Parade (1929) â€” Internet Archive, Public Domain Mark 1.0, complete film",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Love Parade is Ernst Lubitsch's first American sound film, released by Paramount Famous Lasky Corporation on November 19, 1929, starring Maurice Chevalier as the scandal-prone Count Alfred Renard and Jeanette MacDonald in her screen debut as Queen Louise of Sylvania. Nominated for six Academy Awards including Best Picture, it established the template for the Hollywood musical comedy and introduced the Lubitsch Touch to sound cinema. The underlying 1929 film â€” its nine original songs (music by Victor Schertzinger, lyrics by Clifford Grey), script, and photography â€” entered the US public domain on January 1, 2025, when the maximum 95-year US copyright term from its 1929 publication date ran out. The Internet Archive (identifier: the-love-parade-1929, Public Domain Mark 1.0) hosts an earlier transfer that is genuinely free to download and reuse.\n\nThe rights trap is Universal Pictures' 2024 4K restoration, produced with The Film Foundation and premiered at the Berlinale Classics section of the 74th Berlin International Film Festival. Universal holds the Paramount library and owns the copyright in that restored master independent of any rights in the 1929 film itself. The Criterion Eclipse Series 8 DVD (2007) similarly embodies a protected transfer. A creator who copies frames or audio from the Universal Blu-ray or a Criterion disc is reproducing a protected restoration, not the free underlying film. Source from the Archive.org upload for commercial reuse; approach Universal for any licensing of the 4K master.",
+  "faq": [
+    [
+      "Can I use footage from The Love Parade in my own video, film, or commercial project?",
+      "The 1929 film is US public domain â€” its maximum 95-year copyright term expired January 1, 2025. The Internet Archive upload (identifier: the-love-parade-1929, licensed Public Domain Mark 1.0) is the safest free source. Do not rip from the Universal Pictures Blu-ray or the Criterion Eclipse DVD; those specific restorations carry separate copyright in the restored picture and sound, even though the underlying 1929 film is free."
+    ],
+    [
+      "Does Universal Pictures still have rights to The Love Parade?",
+      "Universal owns the copyright in its 2024 4K restoration of the film, created with The Film Foundation, and in any earlier transfers it produced. Universal cannot stop someone from using the original 1929 footage drawn from a non-Universal source, but copying the restored picture or audio track from their release infringes the restoration copyright. Universal also markets the film commercially through its catalog, so it is the correct party to contact for any licensing of the 4K master or high-quality press materials."
+    ]
+  ]
+}
