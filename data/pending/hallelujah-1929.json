@@ -1,0 +1,104 @@
+{
+  "id": "hallelujah-1929",
+  "title": "Hallelujah!",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-05",
+  "byline": "King Vidor / MGM, 1929; story by King Vidor, distr. Metro-Goldwyn-Mayer",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US theatrical release August 20, 1929. The 95-year copyright term (17 U.S.C. Â§ 304) expired January 1, 2025, placing the print in the public domain in the United States regardless of whether the copyright was renewed during the 1956â€“1957 window.",
+          "source": "US Copyright Office, Duration of Copyright â€” Circular 15a",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Sound film: the synchronized recorded soundtrack â€” including Irving Berlin songs ('Waiting at the End of the Road', 'Swanee Shuffle') published as part of the 1929 picture and traditional spirituals arranged for the film â€” shares the film's 95-year term as a unified motion picture work. That term expired January 1, 2025. The synchronized film soundtrack is not assessed as a standalone sound recording under the Music Modernization Act; it travels with the film's copyright.",
+          "source": "US Copyright Office, Duration of Copyright â€” Circular 15a",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original story conceived by King Vidor from personal observation â€” not adapted from any prior published source work. Scenario by Wanda Tuchock, dialogue by Ransom Rideout, all work-for-hire contributions published as part of the 1929 MGM release. The 95-year term expired January 1, 2025; no adaptation chain requiring a separate underlying-work analysis.",
+          "source": "US Copyright Office, Duration of Copyright â€” Circular 15a",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        },
+        {
+          "type": "research_note",
+          "note": "Vidor's original authorship confirmed: he developed the concept from childhood observations of Black sharecropper communities in the South; no pre-existing novel, play, or song-cycle was the credited source.",
+          "source": "Wikipedia â€” Hallelujah (1929 film), Production section",
+          "url": "https://en.wikipedia.org/wiki/Hallelujah_(1929_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. (holder of the former Turner/MGM library) distributes the title commercially via the WB Archive Collection. No specifically labeled restoration by Criterion, Kino Lorber, Flicker Alley, MoMA, or Photoplay was confirmed in available sources. If a commercial copy derives from a modern restoration recording, that specific expression may carry independent protection on the restoration; the underlying public-domain print does not.",
+          "source": "Internet Archive item metadata; WB Archive Collection general reference",
+          "url": "https://archive.org/details/hallelujah_1929"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Hallelujah!' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Hallelujah!"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/hallelujah_1929",
+      "label": "Hallelujah! (1929) â€” Internet Archive (MP4, 640Ã—480, ~2.5 GB; uploaded December 2024)",
+      "quality": "SD scan, full feature, no subtitles"
+    }
+  ],
+  "editorial": "\"Hallelujah!\" (1929) is a King Vidor production released by MGM â€” one of the first major Hollywood sound films built around an entirely Black cast. Vidor personally financed a portion of the budget after MGM judged the commercial risk prohibitive, then shot partly on location in Tennessee and Arkansas, a logistical challenge for the era's early sound equipment. Daniel L. Haynes plays Zeke Johnson, a sharecropper whose religious conviction and lust for Nina Mae McKinney's dancer Chick spiral into violence; the screenplay was Vidor's own original conception, not adapted from any prior novel or play. Irving Berlin contributed songs including \"Waiting at the End of the Road,\" and the film earned Vidor a Best Director nomination at the 1929 Academy Awards before being selected for the National Film Registry in 2008. MGM's copyright on the 1929 release ran a 95-year term that expired January 1, 2025 â€” the print and its synchronized soundtrack are now public domain in the United States.\n\nFor a creator, the usable material is the 1929 print and original recorded soundtrack (including the Berlin songs as synchronized to the picture). The one rights trap that actually applies is sourcing: Warner Bros. inherited the MGM library and distributes the title commercially, and a copy derived from a modern remaster may carry independent protection on the restoration expression itself, even though the underlying film is free. The Internet Archive item (identifier hallelujah_1929, uploaded December 2024) is the most accessible route, but its chain of custody is not documented in its metadata. A cautious reuser should confirm their working copy does not trace to a labeled commercial restoration before treating all elements as unencumbered. Trademark and restoration status remain unconfirmed and should be investigated before any commercial release.",
+  "faq": [
+    [
+      "Can I use footage from Hallelujah! without a license?",
+      "The underlying 1929 print is in the public domain â€” MGM's copyright expired January 1, 2025. The caveat is your source: if you pull footage from a commercial DVD or streaming version derived from a modern restoration, that specific restoration expression may carry its own copyright. Use a source traceable to the public-domain print (such as the Internet Archive item) rather than a labeled commercial remaster, and you avoid that problem."
+    ],
+    [
+      "Are the Irving Berlin songs in Hallelujah! still protected?",
+      "Not as used in this film. Berlin's contributions â€” including 'Waiting at the End of the Road' â€” were published as part of the 1929 motion picture. The 95-year US copyright term on those 1929 publications expired January 1, 2025, so the compositions as embedded in this film are public domain. Separately released Berlin recordings or sheet music from other years have their own timelines and must be checked individually."
+    ]
+  ]
+}

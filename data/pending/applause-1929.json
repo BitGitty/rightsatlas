@@ -1,0 +1,92 @@
+{
+  "id": "applause-1929",
+  "title": "Applause",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-05",
+  "byline": "Rouben Mamoulian's 1929 Paramount debut, starring Helen Morgan; print and original soundtrack are free as of January 2025, but the UCLA/Kino restoration is not.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1929 by Paramount Famous Lasky Corporation; 95-year US copyright term expired January 1, 2025, placing the film unambiguously in the public domain.",
+          "source": "Duke University Center for the Study of the Public Domain â€” Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Applause is a sound film; its original 1929 recorded soundtrack is fixed within the motion picture itself and is not a separately fixed sound recording within the meaning of the 1972 Sound Recording Act. It shares the film's 1929 copyright term, which expired January 1, 2025. Any audio elements introduced in the UCLA Film & Television Archive restoration are part of that separately protected restoration and are not free.",
+          "source": "Duke University Center for the Study of the Public Domain â€” Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from Beth Brown's novel 'Applause', published 1928 by Horace Liveright (copyright registered A1053344, renewed 1955 as R155700). The 95-year copyright term on the 1928 novel expired January 1, 2024, placing the source text in the public domain irrespective of the renewal.",
+          "source": "U.S. Copyright Renewals, 1955 Julyâ€“December (Library of Congress Copyright Office, digitized by Project Gutenberg)",
+          "url": "https://www.gutenberg.org/cache/epub/11812/pg11812.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "UCLA Film & Television Archive restored the film with funding from Universal Pictures and the University of California. Kino Video released the restoration on DVD circa 2003 under license from Universal Studios, which controls the pre-1948 Paramount library. That restored version is a separately authored work and carries its own copyright protection independent of the underlying 1929 film.",
+          "source": "Slant Magazine â€” DVD Review: Rouben Mamoulian's Applause (Kino on Video)",
+          "url": "https://www.slantmagazine.com/dvd/applause-dvd/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Applause' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Applause"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Applause (1929) is Rouben Mamoulian's directorial debut, shot at Paramount's Astoria Studios in Queens, New York, with Helen Morgan as Kitty Darling, an aging burlesque performer trying to shield her convent-raised daughter from the backstage world that is destroying her. Adapted from Beth Brown's 1928 novel of the same name, it was one of the first talkies to liberate the camera from the fixed recording booth, using two Movietone channels recorded simultaneously so that dialogue and ambient sound could be layered separately â€” a technique that unsettled Paramount's own sound engineers but that film historians now cite as a foundational moment in sound-film grammar.\n\nThe 1929 print and its original recorded soundtrack entered the US public domain on January 1, 2025 when the 95-year copyright term expired. The rights trap for creators is the restoration chain: UCLA Film & Television Archive rebuilt the picture with funding from Universal Pictures (which controls the pre-1948 Paramount library), and Kino Video released that reconstruction on DVD circa 2003 under a Universal license. The Kino restoration is a separately copyrighted work. High-quality digital copies of Applause circulating online are predominantly sourced from this restoration, not from the bare public domain elements. Using the cleaned-up Kino transfer means using protected restoration authorship, not merely the free underlying film.",
+  "faq": [
+    [
+      "Can I use footage from Applause in my own project?",
+      "The original 1929 film and its embedded soundtrack are in the US public domain as of January 1, 2025 â€” you may use them freely. The restriction is on the source: the UCLA Film & Television Archive restoration, released on DVD by Kino Video under a Universal Pictures license, carries its own separate copyright. Most good-quality transfers in circulation derive from that restoration. If you cannot confirm a copy is independent of the Kino/Universal chain, treat it as a protected restoration version and seek a clear alternative source."
+    ],
+    [
+      "Does it matter whether Paramount renewed the copyright in 1956 or 1957?",
+      "No. Applause entered the public domain by term expiry â€” the 95-year statutory maximum ran from 1929 to January 1, 2025, after which no further copyright is possible. A renewal in 1956 or 1957 would have extended the term under the old 28-year renewal system, but even a fully renewed 1929 work reaches the end of its maximum term and becomes public domain. The renewal question is legally moot for this film."
+    ]
+  ]
+}
