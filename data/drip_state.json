@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-04",
+  "last_release": "2026-09-05",
   "log": [
     {
       "date": "2026-08-31",
@@ -20,6 +20,10 @@
     {
       "date": "2026-09-04",
       "film": "the-hollywood-revue-of-1929-1929"
+    },
+    {
+      "date": "2026-09-05",
+      "film": "the-docks-of-new-york-1928"
     }
   ]
 }
