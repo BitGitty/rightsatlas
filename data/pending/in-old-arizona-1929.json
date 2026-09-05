@@ -1,0 +1,110 @@
+{
+  "id": "in-old-arizona-1929",
+  "title": "In Old Arizona",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-06",
+  "byline": "Fox Film Corporation; dirs. Irving Cummings and Raoul Walsh; starring Warner Baxter, Edmund Lowe, Dorothy Burgess",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Fox Film Corporation released 'In Old Arizona' with a limited premiere on December 25, 1928 and wide release in January 1929. The copyright year is 1929 at the latest. Cornell University's copyright chart confirms that a 1929 US work with notice and renewal had a 95-year term expiring at year-end 2024, entering the public domain January 1, 2025. As of the verification date (2026-09-06) the print is unambiguously in the public domain by term, regardless of whether Fox ever renewed.",
+          "source": "Cornell University Library â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "This is a synchronized sound film (talkie). Under 17 U.S.C. Â§ 101 the statutory definition of 'sound recording' explicitly excludes 'the sounds accompanying a motion picture or other audiovisual work.' The dialogue and music track integrated into the film are therefore part of the audiovisual copyright, not a separately published sound recording, and share the film's term-expiry status. The film's term elapsed by January 1, 2025; the integral soundtrack is PD by the same term. Note: any newly composed score on a modern restoration release is a separate matter and may be protected.",
+          "source": "17 U.S.C. Â§ 101 â€” Definitions (exclusion of sounds accompanying a motion picture from the 'sound recording' definition)",
+          "url": "https://www.copyright.gov/title17/92chap1.html#101"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay derives from 'The Caballero's Way,' the short story by O. Henry (William Sydney Porter) that introduced the Cisco Kid character. The story was first collected in 'Heart of the West' (Doubleday, Page & Co., 1907). O. Henry died in 1910. Applying the 95-year rule, the 1907 publication's term expired January 1, 2003. The underlying source text has been in the public domain for over two decades.",
+          "source": "Cornell University Library â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Cisco Kid character name and persona have been the subject of competing trademark claims across decades of sequels, the 1950â€“1956 Ziv Television Programs series starring Duncan Renaldo, and subsequent revival attempts by multiple parties. Copyright expiry on the 1929 film and the 1907 O. Henry story does not extinguish any active entertainment trademark. Current registration status of 'The Cisco Kid' mark was not confirmed at the time of this research.",
+          "source": "USPTO TESS trademark database (not searched â€” requires manual verification)",
+          "url": "https://tmsearch.uspto.gov/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Academy Film Archive preserved 'In Old Arizona' in 2004. The HD versions currently in widest circulation online (including the Archive.org item 'in-old-arizona-1928-by-irving-cummings-and-raoul-walsh,' uploaded June 2024 from a 1080p Blu-ray source) appear to derive from post-2004 commercial-grade mastering rather than a pre-restoration print element. A restoration or preserved master involving meaningful authorial contribution generates a new copyright in that specific version, distinct from the underlying PD print. Reusers should confirm the provenance of any high-definition copy before commercial use.",
+          "source": "Internet Archive item metadata; Academy Film Archive preservation records",
+          "url": "https://archive.org/details/in-old-arizona-1928-by-irving-cummings-and-raoul-walsh"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'In Old Arizona' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=In+Old+Arizona"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/in-old-arizona-1928-by-irving-cummings-and-raoul-walsh",
+      "label": "In Old Arizona (1928) â€” Internet Archive, PD Mark 1.0, 1080p (Blu-ray-sourced; see restoration note)",
+      "quality": "high"
+    },
+    {
+      "url": "https://archive.org/details/in-old-arizona-1928-w",
+      "label": "In Old Arizona (1928) W â€” Internet Archive, alternate upload",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "'In Old Arizona' (Fox Film Corporation, 1928â€“1929) was the first feature-length Western and one of Hollywood's first major productions recorded entirely on outdoor locations in the sound era â€” shot across Bryce Canyon, Utah and the San Antonio area. Director Raoul Walsh lost an eye in a roadside accident during production; Irving Cummings finished the film. Warner Baxter's performance as the charming outlaw Cisco Kid, pitted against Edmund Lowe's dogged Sergeant Dunn, earned Baxter the Academy Award for Best Actor at the second Academy Awards in 1930 â€” the first such prize awarded for a sound Western role. The film's dialogue-heavy script and location photography made it an influential proof of concept that talkies could work outside a soundstage.\n\nThe underlying print is in the public domain by term: Fox's copyright, however it was handled at renewal time, had a 95-year ceiling that ran out on January 1, 2025 at the latest. The practical rights trap is the restoration layer. The Academy Film Archive preserved the film in 2004, and the HD copies now circulating â€” including the widely shared 1080p Blu-rayâ€“sourced Archive.org upload â€” appear to derive from that mastering rather than a raw pre-restoration element. Using such a copy commercially could expose a project to a claim on the restored version's separate copyright, even though the underlying 1929 print is free. Source a provenance-clear print, or verify your copy predates the restoration, before embedding this film in a commercial work. The Cisco Kid name carries a second independent risk: trademark claims tied to the 1950â€“1956 television series and later revival projects survive copyright expiry and must be cleared separately for any new production that markets itself under that character name.",
+  "faq": [
+    [
+      "Can I stream or monetize 'In Old Arizona' on YouTube or a paid platform?",
+      "The underlying 1929 Fox print is in the public domain â€” no license is required to use it. The risk is the source copy: the high-definition version most people find online traces to the Academy Film Archive's 2004 preservation, and that restored master may carry its own copyright. If you upload a copy derived from the HD/Blu-ray mastering, a rights claimant could assert the restoration copyright even though the original film is free. Use a copy with documented pre-restoration provenance, or accept the uncertainty and monitor for any Content ID or takedown claim."
+    ],
+    [
+      "The O. Henry story is old and the film is in the public domain â€” can I make a new Cisco Kid movie?",
+      "You can adapt 'The Caballero's Way' (1907) and draw on this 1929 film freely as source material â€” both are in the public domain. The separate issue is the 'Cisco Kid' name and persona as a brand. That character has been the subject of trademark filings connected to later productions and the 1950â€“1956 television franchise, and trademark rights are independent of copyright. A new production that markets itself as 'The Cisco Kid' should run a current USPTO trademark search and, if live marks exist, seek clearance before launching commercially."
+    ]
+  ]
+}

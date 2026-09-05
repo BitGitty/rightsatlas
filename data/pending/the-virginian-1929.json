@@ -1,0 +1,99 @@
+{
+  "id": "the-virginian-1929",
+  "title": "The Virginian",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-09-06",
+  "byline": "Victor Fleming's 1929 Paramount sound Western â€” Gary Cooper's first starring role â€” adapted from Owen Wister's 1902 novel and the 1904 stage play. The 1929 print and original recorded soundtrack are public domain by term; the UCLA Film & Television Archive restoration is not.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released November 9, 1929 by Paramount Pictures. Under the 95-year US copyright term the film entered the public domain on January 1, 2025. Renewal status is moot; the term has lapsed in full.",
+          "source": "Duke Law Center for the Study of the Public Domain â€” 2025 Public Domain Day",
+          "url": "https://copyright.law.duke.edu/public_domain/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The Virginian is a sound film; the recorded soundtrack was registered as part of the film and shares its 1929 copyright, which expired January 1, 2025. No separately published sheet-music edition has been identified. Any remastered audio track produced during the 1990s UCLA restoration is addressed separately under the restorations layer.",
+          "source": "Duke Law Center for the Study of the Public Domain â€” 2025 Public Domain Day",
+          "url": "https://copyright.law.duke.edu/public_domain/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Owen Wister's novel The Virginian: A Horseman of the Plains (published 1902) and the stage play co-written by Wister and Kirke La Shelle (first performed 1904). Both underlying works were published well before any threshold that could sustain US protection today and are public domain by term.",
+          "source": "Duke Law Center for the Study of the Public Domain â€” 2025 Public Domain Day",
+          "url": "https://copyright.law.duke.edu/public_domain/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No active USPTO registration on 'The Virginian' character or film title has been confirmed in this pass. The character originates in Wister's 1902 public-domain novel, but Universal Television's long-running series The Virginian (1962â€“1971) may have generated marks held by a successor. USPTO TESS was not searched; a reuser with commercial intent should verify.",
+          "source": "USPTO Trademark Electronic Search System",
+          "url": "https://www.uspto.gov/trademarks/search"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The UCLA Film & Television Archive preserved and restored The Virginian as part of its Paramount collection project. Surviving prints had deteriorated severely by the 1960s; Wikipedia's article on the film records that a restoration was completed in the 1990s. Any print or digital master derived from that restoration carries a modern copyright independent of the 1929 film's public-domain status. Commercial home video editions almost certainly originate from this restored element.",
+          "source": "UCLA Film & Television Archive â€” Paramount Collection",
+          "url": "https://www.cinema.ucla.edu/collections/paramount/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Virginian' (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Virginian"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Virginian (Paramount, 1929) is a sound Western directed by Victor Fleming from a screenplay by Edward E. Paramore Jr. and Howard Estabrook, adapting Owen Wister's 1902 novel and the 1904 Wisterâ€“La Shelle stage play. Gary Cooper, in his first starring Western and first sound film, plays the unnamed Virginian opposite Walter Huston as the villain Trampas; Richard Arlen and Mary Brian round out the leads. It was the third screen adaptation of Wister's story â€” silent versions appeared in 1914 and 1923 â€” and the first with spoken dialogue. The 1929 print, together with its original recorded soundtrack and both Wister source works, entered the public domain in the United States on January 1, 2025, ninety-five years after release. For a creator, that means raw footage, stills, and the dialogue itself are all free to quote, sample, re-edit, or redistribute without a licence.\n\nThe rights trap is the restoration, not the term. By the 1960s surviving exhibition prints had deteriorated badly in both picture and audio quality. In the 1990s the UCLA Film & Television Archive restored the film as part of its Paramount collection preservation programme, and any print or digital master derived from that work carries a modern copyright distinct from the 1929 film's status. Commercial home video editions almost certainly draw from the UCLA master. A creator who wants to use footage without restriction must verify that the specific copy in hand predates or is independent of that restoration â€” an unrestored archival duplicate struck from a pre-1990s element falls outside the restoration claim, but anything sourced from the UCLA master does not.",
+  "faq": [
+    [
+      "Is the 1929 Virginian in the public domain?",
+      "The 1929 Paramount print and its original recorded soundtrack entered the public domain in the United States on January 1, 2025, ninety-five years after release. The underlying Owen Wister novel (1902) and stage play (1904) are also long in the public domain. That status does not extend to the UCLA Film & Television Archive's 1990s restoration of the film, which carries its own modern copyright; commercial home video editions almost certainly derive from that restored element and are not free to use."
+    ],
+    [
+      "Can I use footage from a DVD, Blu-ray, or streaming copy of The Virginian?",
+      "Probably not freely. Commercial home video releases of this film almost certainly derive from the UCLA Film & Television Archive restoration rather than an unrestored archival print, and that restoration is separately copyrighted. To use footage without restriction you need to verify that the specific copy you are working from predates or is provably independent of the 1990s restoration. When the provenance is unclear, contact the UCLA Film & Television Archive directly before publishing."
+    ]
+  ]
+}
