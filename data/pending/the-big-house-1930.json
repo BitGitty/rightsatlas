@@ -1,0 +1,103 @@
+{
+  "id": "the-big-house-1930",
+  "title": "The Big House",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-09-07",
+  "byline": "Dir. George W. Hill. MGM, 1930. Chester Morris, Wallace Beery, Robert Montgomery, Leila Hyams. Screenplay by Frances Marion, Joseph Farnham, and Martin Flavin.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film published June 14, 1930; the maximum 95-year copyright term (28-year initial + renewal, extended by the CTEA) expired January 1, 2026. Duke Center for the Study of the Public Domain explicitly names The Big House among 1930 films entering the public domain on that date.",
+          "source": "Duke CSPD Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Sound film: the dialogue, music, and effects track were recorded as an integral part of the 1930 MGM production, not as a separable sound recording. As a unified cinematographic work, the original soundtrack shares the film's copyright status and expired January 1, 2026. Note: any newly recorded musical arrangement appearing on a specific commercial home-video release would be a separate work not covered by this expiry.",
+          "source": "Duke CSPD Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original screenplay by Frances Marion, Joseph Farnham, and Martin Flavin â€” not adapted from any prior novel, play, or published story. The script was created as a work for hire for MGM in 1930. Frances Marion received the Academy Award for the screenplay in 1931. Because there is no underlying source work with a separate copyright term, the story layer is governed solely by the film's 1930 publication date, and that term expired January 1, 2026.",
+          "source": "Internet Archive item metadata (arkiver upload) corroborated by Duke CSPD Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. Discovery (MGM library successor) distributes the film via Warner Archive and has issued it on DVD. No confirmed formal restoration by Criterion, Kino, Flicker Alley, MoMA, or Photoplay was found as of 2026-09-07. Duke CSPD notes that faithful reproductions of PD films do not generate new copyright under US doctrine (Bridgeman/Meshwerks line of cases), but creatively added elements â€” new color grading choices, new musical arrangements â€” can. Status remains undetermined pending identification of a specific named restoration.",
+          "source": "Duke CSPD Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search \"The Big House\" (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+House"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-big-house_1930",
+      "label": "The Big House (1930) â€” Internet Archive, arkiver digitization",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/the.big.house.1930",
+      "label": "The Big House (1930) â€” Internet Archive, community upload",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Big House opened in June 1930 as MGM's first major sound-era prison drama â€” a claustrophobic, pre-Code picture in which Chester Morris plays Kent Marlowe, a young drunk-driver thrown in with hardened convicts including Wallace Beery's brutal Morgan and Robert Montgomery's treacherous Putnam. Director George W. Hill and screenwriter Frances Marion (who won the Academy Award for the script) built the film around an overcrowded cell block stuffed with 3,000 men in a facility designed for 1,800, treating the prison itself as the antagonist. It was one of the top-grossing films of 1930 and established the genre conventions â€” the riot, the solitary cell, the snitch â€” that Hollywood would repeat for decades. The 95-year US copyright term on all 1930 publications expired on January 1, 2026, making the original print definitively public domain.\n\nThe main rights trap for reusers is the commercial home-video master. Warner Bros. Discovery, as the MGM library successor, distributes the film through Warner Archive. Even a faithful scan without creative additions typically carries studio terms-of-service restrictions, and distinguishing a non-copyrightable reproduction from a copyrightable restoration requires examining the specific release â€” a fight most reusers cannot afford. The Internet Archive copy uploaded by arkiver@archive.org is the lowest-risk source; it draws on a print with no attached studio restoration claim. Separately, the original 1930 soundtrack is PD along with the picture, but any newly recorded score layered onto a specific commercial edition is a new work and separately protected.",
+  "faq": [
+    [
+      "Is the entire film â€” picture and sound â€” free to use?",
+      "The original 1930 print and its integral soundtrack are both public domain; the copyright term expired January 1, 2026. What is not automatically free is the master on any specific commercial release. Warner Bros. Discovery distributes Warner Archive editions of this film, and their home-video versions may contain newly added elements or carry contractual restrictions regardless of the underlying PD status. Use the Internet Archive arkiver upload for the cleanest reuse path."
+    ],
+    [
+      "The screenplay won an Academy Award â€” is the script separately protected?",
+      "No. Frances Marion wrote the screenplay as an original work for MGM in 1930, not as an adaptation of any prior published source. Its copyright term ran with the 1930 film and expired January 1, 2026, the same day the print entered the public domain. There is no separate literary work underlying the film whose term could extend protection further."
+    ]
+  ]
+}
