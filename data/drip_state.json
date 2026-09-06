@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-05",
+  "last_release": "2026-09-06",
   "log": [
     {
       "date": "2026-08-31",
@@ -24,6 +24,10 @@
     {
       "date": "2026-09-05",
       "film": "the-docks-of-new-york-1928"
+    },
+    {
+      "date": "2026-09-06",
+      "film": "4-devils-1928"
     }
   ]
 }
