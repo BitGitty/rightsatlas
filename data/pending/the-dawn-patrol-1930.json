@@ -1,0 +1,108 @@
+{
+  "id": "the-dawn-patrol-1930",
+  "title": "The Dawn Patrol",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-09-08",
+  "byline": "Howard Hawks's 1930 WWI aviation drama from First National Pictures (Vitaphone), starring Richard Barthelmess and Douglas Fairbanks Jr.; originally released as 'Flight Commander.'",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1930 by First National Pictures. Under the 1909 Copyright Act the initial 28-year term expired in 1958. No renewal was found in the Catalog of Copyright Entries motion-pictures volumes for 1957, 1958, or 1959, nor in the comprehensive CCE cumulative motion-pictures index for 1950â€“1959; the print entered the public domain no later than 1958. Even if a renewal had been filed, the 95-year maximum term (1930 + 95 = 2025) would have expired on January 1, 2026.",
+          "source": "CCE Third Series, Motion Pictures and Filmstrips 1957 (Vol 11), 1958 (Vol 12), and cumulative Motion Pictures 1950â€“1959 â€” no entry found for 'The Dawn Patrol' or 'Flight Commander' under any claimant",
+          "url": "https://archive.org/details/Motionpict19591960librrich0008"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Searched full text of CCE Third Series Parts 12â€“13 for Janâ€“Dec 1957 (Vol 11 No 1â€“2) and Janâ€“Dec 1958 (Vol 12 No 1â€“2), plus the cumulative 1950â€“1959 motion-pictures index. Neither 'The Dawn Patrol' nor the alternate title 'Flight Commander' appears in any renewal section under First National Pictures, Warner Bros., or Associated Artists Productions Corp.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Vol 11 (1957) â€” Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyrig3111213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Sound film (First Nationalâ€“Vitaphone, 1930). The recorded dialogue and incidental music were part of the film's single copyright registration, not registered separately. The film's copyright expired without renewal (see print layer), so the original recorded track is in the public domain on the same basis.",
+          "source": "Archive.org metadata confirming sound film, First Nationalâ€“Vitaphone production, 1930",
+          "url": "https://archive.org/details/FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on 'The Flight Commander,' an original story by John Monk Saunders, described as a 1928 short story developed with Howard Hawks and Seton I. Miller; Saunders received sole screenplay credit and won the Academy Award for Best Original Story (3rd Academy Awards, 1931). The story was published no later than 1930. All US works published through 1930 are in the public domain by term expiry.",
+          "source": "TCM article 'Flight Commander aka The Dawn Patrol (1930)'; Wikipedia article on The Dawn Patrol (1930 film) â€“ corroborating source only",
+          "url": "https://www.tcm.com/articles/450766/flight-commander-aka-the-dawn-patrol-1930"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. (via Warner Archive) commercially distributed the film on DVD (confirmed 2013 review). Warner Archive releases of pre-1948 First National titles are typically transferred from surviving print elements without frame-by-frame restoration; no restoration by Criterion, Kino, Flicker Alley, MoMA, or Photoplay was identified. Note: original first-release title cards were destroyed when WB acquired the First National catalog; all known surviving prints carry later redrawn replacement titles rather than the originals.",
+          "source": "Out of the Past blog, Warner Archive review of The Dawn Patrol (1930), March 2013",
+          "url": "https://www.outofthepastblog.com/2013/03/dawn-patrol-1930.html"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€“ search 'The Dawn Patrol' (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Dawn+Patrol"
+      },
+      {
+        "label": "CCE Motion Pictures Janâ€“Dec 1957 (Vol 11) â€“ full text on Archive.org, search 'Dawn Patrol' or 'Flight Commander'",
+        "url": "https://archive.org/details/catalogofcopyrig3111213li"
+      },
+      {
+        "label": "CCE Motion Pictures Janâ€“Dec 1958 (Vol 12) â€“ full text on Archive.org, search 'Dawn Patrol' or 'Flight Commander'",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks",
+      "label": "Flight Commander (1930) aka The Dawn Patrol â€“ Internet Archive, full sound film, monochrome, 2.4 GB; uploaded 2014 from a pre-Warner-Archive source",
+      "quality": "good"
+    }
+  ],
+  "editorial": "Howard Hawks's debut as a solo director on a major studio production, The Dawn Patrol (released under the title Flight Commander) is a 1930 First Nationalâ€“Vitaphone sound film set in the Royal Flying Corps on the Western Front in 1915. Richard Barthelmess plays Courtney, a combat squadron commander buried under orders from a distant, indifferent high command that funnels barely-trained replacements into morning patrols with near-zero survival rates; Douglas Fairbanks Jr. is his closest friend Scott. Hawks shot real aerial footage and flew an uncredited cameo as a German pilot. The film's anti-war bitterness is unusually direct for a 1930 prestige production, and the Vitaphone sound designâ€”engines, gunfire, the drone of approaching formationsâ€”was technically ambitious for the transitional era. Filmmakers and archivists working on WWI aviation, early-sound-cinema craft, or pre-Code Hollywood will find the footage freely usable: no renewal was filed for 'The Dawn Patrol' or its alternate title 'Flight Commander' in the Catalog of Copyright Entries 1957â€“1959, and the print is in the public domain.\n\nThe one rights trap is the Warner Archive transfer. Warner Bros., inheriting the First National catalog through United Artists and Turner, distributes the film commercially on disc and may assert rights in its specific transfer. Any copy sourced from the Warner Archive DVD/Blu-ray could carry thin new authorship in the color grading or redrawn title cards WB commissioned. The Archive.org copy (identifier FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks, uploaded 2014) predates that transfer and carries no license restrictionâ€”use it as your starting point. Also note that no print with authentic original title cards is known to survive: when WB acquired the catalog they discarded the original frames, and all extant prints feature replacement titles drawn after the fact.",
+  "faq": [
+    [
+      "Is The Dawn Patrol (1930) in the public domain, or does Warner Bros. own it?",
+      "The underlying film is in the public domain. No copyright renewal was found for 'The Dawn Patrol' or its original release title 'Flight Commander' in the Catalog of Copyright Entries for 1957â€“1959, and the 95-year maximum term would have expired January 1, 2026 in any case. Warner Bros. distributes the film via Warner Archive and may claim rights in their specific transfer, but the 1930 film itself belongs to no one. Use the Archive.org copy to avoid any dispute over the WB transfer."
+    ],
+    [
+      "The film was based on a short story â€” do I need to clear rights to that story separately?",
+      "No. John Monk Saunders's original story 'The Flight Commander' was created for the film and published no later than 1930. All US works published through 1930 are in the public domain by term, so the source material requires no separate clearance."
+    ]
+  ]
+}

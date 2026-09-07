@@ -1,0 +1,103 @@
+{
+  "id": "the-lost-world-1925",
+  "title": "The Lost World",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-09-08",
+  "byline": "Dir. Harry O. Hoyt; prod. First National Pictures; special effects by Willis O'Brien; based on Arthur Conan Doyle's 1912 novel.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925 by First National Pictures in the US. Under the Sonny Bono Copyright Term Extension Act the maximum US copyright term for a 1925 work is 95 years; the film entered the public domain on January 1, 2021 regardless of any renewal filing. As of September 2026, all US works published through 1930 are past that ceiling.",
+          "source": "Duke Law Center for the Study of the Public Domain â€” Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1925 release was a silent film; no synchronized recorded score existed at the time of first publication. Every widely circulated copy carries a modern musical accompaniment added by the distributor. The 2017 Flicker Alley/Lobster Films 2K restoration includes a new orchestral score composed by Robert Israel, separately copyrighted upon release. Copies on Archive.org use other modern accompaniments whose individual protection status must be verified per copy before use.",
+          "source": "Flicker Alley â€” The Lost World Deluxe Blu-ray Edition product page",
+          "url": "https://flickeralley.com/products/85024400-the-lost-world-deluxe-bluray-edition"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Arthur Conan Doyle's novel The Lost World, first serialized in The Strand Magazine in 1912 and published in book form the same year. Under the 1909 Copyright Act the maximum US term was 28 years plus a 28-year renewal, totaling 56 years; even with a timely renewal the US copyright would have expired by 1968. Works whose US copyright expired by natural term expiry are not eligible for URAA restoration (URAA restores only works that lost US protection through formality failure or lack of national eligibility). Doyle died 7 July 1930; no surviving rights in this work.",
+          "source": "US Copyright Office â€” Circular 15a: Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Flicker Alley (distributor) and Lobster Films (restoration house) released a 2K restoration in 2017, incorporating approximately 10 minutes of newly discovered footage assembled from archives worldwide, plus a new orchestral score by Robert Israel. The restoration premiered at the San Francisco Silent Film Festival in June 2017 and was released on Blu-ray in September 2017. As a new creative work embodying editorial selection and original music, this restoration carries its own separate copyright and is not in the public domain.",
+          "source": "Flicker Alley â€” The Lost World Deluxe Blu-ray Edition",
+          "url": "https://flickeralley.com/products/85024400-the-lost-world-deluxe-bluray-edition"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Lost World' (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Lost+World"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheLostWorld1925",
+      "label": "The Lost World (1925) â€” Archive.org community upload, Public Domain Mark 1.0, multiple formats including HD MP4 (~1.6 GB); metadata-confirmed correct film",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/the-lost-world-1925",
+      "label": "The Lost World (1925) â€” Archive.org alternate upload; metadata-confirmed 1925 film; verify audio track provenance before use",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Lost World (1925) is First National Pictures' adaptation of Arthur Conan Doyle's 1912 adventure novel, directed by Harry O. Hoyt and starring Wallace Beery as the bellicose Professor Challenger and Bessie Love as his daughter's companion. Its enduring technical significance is Willis O'Brien's stop-motion dinosaur animationâ€”work that directly preceded King Kong (1933) and established the grammar of creature-effects cinema for decades. For creators, the film's print is freely usable: published in 1925, it hit the 95-year ceiling set by the Sonny Bono Copyright Term Extension Act and entered the US public domain on January 1, 2021, regardless of whether First National Pictures ever filed a renewal with the Copyright Office in 1952â€“53.\n\nThe one live trap is the score. No synchronized audio existed in 1925; every copy in circulation today carries a modern musical accompaniment. Flicker Alley's 2017 Blu-rayâ€”restored from archival sources worldwide by Lobster Films, with newly discovered footage and a new orchestral score by Robert Israelâ€”is itself a separately copyrighted work. Using that version without a license is infringement even though the images are free. Archive.org hosts pre-restoration copies under a Public Domain Mark, but the music layered onto each copy must be examined individually before a creator relies on it. Replacing or silencing the audio is the cleanest path to a fully unencumbered edit.",
+  "faq": [
+    [
+      "Can I use footage from The Lost World (1925) in my own film or online video?",
+      "The film's print entered the US public domain on January 1, 2021 by term expiryâ€”First National Pictures published it in 1925, and no copyright can extend past 95 years. The underlying images are free. However, every widely distributed copy carries a modern musical score added by whoever distributed it; the Flicker Alley 2017 restoration score (Robert Israel) is separately copyrighted, and other copies on Archive.org carry their own accompaniments of varying status. Either replace the audio entirely or verify the provenance of the music on the specific copy you use before publishing."
+    ],
+    [
+      "Does the Flicker Alley 2017 restoration re-copyright the film?",
+      "Noâ€”a restoration does not revive copyright in the underlying work, and the 1925 images remain public domain. What Flicker Alley and Lobster Films did create is a new copyrightable work: the restoration itself, reflecting editorial choices about newly discovered footage and Robert Israel's original score. Using the Flicker Alley Blu-ray without a license would infringe that restoration's copyright even though the source film is free. The Archive.org copies, which predate the Flicker Alley release, are the safer starting point."
+    ]
+  ]
+}
