@@ -191,6 +191,16 @@
    "film": "sunrise-1927",
    "kind": "watch"
   },
+  "silent-tarzan-of-the-apes": {
+   "ok": true,
+   "film": "tarzan-of-the-apes-1918",
+   "kind": "watch"
+  },
+  "BillSpragueCollection-TarzanOfTheApes": {
+   "ok": true,
+   "film": "tarzan-of-the-apes-1918",
+   "kind": "watch"
+  },
   "Ace_of_Hearts_1921": {
    "ok": true,
    "film": "the-ace-of-hearts-1921",
