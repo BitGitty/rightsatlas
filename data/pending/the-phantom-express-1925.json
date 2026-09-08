@@ -1,0 +1,85 @@
+{
+  "id": "the-phantom-express-1925",
+  "title": "The Phantom Express",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-09-09",
+  "byline": "Dir. John G. Adolfi | Banner Productions / Henry Ginsberg Distributing Co., 1925",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published November 1925 by Banner Productions (US). The 95-year US copyright term on all 1925 publications expired January 1, 2021; the print has been public domain since that date regardless of whether a renewal was filed in 1952â€“53.",
+          "source": "Internet Archive blog â€” 'January 1st brings public domain riches from 1925' (confirms class-year entry)",
+          "url": "https://blog.archive.org/2020/12/15/1925-public-domain-riches/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film; the original image track carries no embedded sound. Any musical accompaniment on a circulating copy is a separately authored work. A score newly composed after 1928 or newly recorded after 1972 retains its own copyright independent of the PD footage; the image and audio layers must be evaluated separately.",
+          "source": "US Copyright Office â€” Copyright Duration FAQ (covers sound recordings and musical compositions separately from motion pictures)",
+          "url": "https://www.copyright.gov/help/faq/faq-duration.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original screenplay by Tom J. Hopkins, written specifically for this 1925 Banner Productions production; Wikipedia and IMDB identify no prior source novel or play. As an original literary work published in 1925, its 95-year US copyright term co-expired with the print on January 1, 2021.",
+          "source": "Internet Archive blog â€” 'January 1st brings public domain riches from 1925' (class-year term expiry for 1925 US works)",
+          "url": "https://blog.archive.org/2020/12/15/1925-public-domain-riches/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": "Partial search of CCE Third Series Motion Pictures vol. 7 (Janâ€“Dec 1953, letters Aâ€“C) returned no renewal entry for The Phantom Express. Full CCE renewal sweep not completed; however, the 95-year term expiry on this 1925 US work makes the renewal outcome moot â€” the print is public domain regardless. See DIY links for exhaustive renewal verification.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Phantom Express' (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Phantom+Express"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Phantom Express is a 50-minute silent crime-railroad picture released in November 1925 by Banner Productions and distributed in the United States by Henry Ginsberg Distributing Company (and in the UK by Wardour Films). Director John G. Adolfi led a cast including Ethel Shannon, David Butler, and a young Frankie Darro through an original scenario written by Tom J. Hopkins â€” a devoted railroad engineer seizes the throttle of his company's fastest locomotive after his sweetheart's father is broken by a wreck, with criminal interference (George Siegmann as villain Rufus Hardy) threatening the run. The 95-year US copyright term on the 1925 print expired January 1, 2021, placing the footage definitively in the public domain whether or not Banner Productions ever filed a renewal in 1952â€“53.\n\nThe live rights trap for anyone using a circulating copy is the musical score layer. Silent prints are nearly always distributed with some accompaniment, and any score newly composed or performed for a modern release carries its own separate copyright, wholly independent of the PD image track. If the score was composed after 1928 or recorded after 1972, that audio layer is still protected. Reusers should either verify that a copy's accompaniment derives from pre-1929 sheet music performed before the sound-recording cutoff, commission a new live performance of period-appropriate public-domain music, or mute and replace the audio before distributing their version.",
+  "faq": [
+    [
+      "Is the footage of The Phantom Express free to use in the United States?",
+      "Yes â€” the image track is public domain. The 95-year US copyright term on this 1925 Banner Productions release expired January 1, 2021, and no renewal filed in 1952â€“53 could extend protection beyond that statutory ceiling. You may copy, re-edit, and redistribute the footage without US copyright clearance."
+    ],
+    [
+      "What about the music on the copy I downloaded?",
+      "That depends on when the score was composed and recorded, and it is separate from the film copyright. Any musical accompaniment added to a modern circulating print is its own protected work if it was composed after 1928 and recorded after 1972. If you cannot confirm the score's provenance, strip the audio and substitute a public-domain performance â€” such as a new live accompaniment drawn from pre-1929 sheet music â€” before publishing your version."
+    ]
+  ]
+}
