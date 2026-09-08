@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-07",
+  "last_release": "2026-09-08",
   "log": [
     {
       "date": "2026-08-31",
@@ -32,6 +32,10 @@
     {
       "date": "2026-09-07",
       "film": "tarzan-of-the-apes-1918"
+    },
+    {
+      "date": "2026-09-08",
+      "film": "the-lost-world-1925"
     }
   ]
 }
