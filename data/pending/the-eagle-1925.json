@@ -1,0 +1,104 @@
+{
+  "id": "the-eagle-1925",
+  "title": "The Eagle",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-09-10",
+  "byline": "Clarence Brown, dir. Â· Rudolph Valentino, Vilma BÃ¡nky Â· Art Finance Corp / United Artists, 1925",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Copyright LP22011 registered 16 November 1925 by Art Finance Corporation; released 8 November 1925 through United Artists. US works published 1930 or earlier are public domain by term â€” this film is five full years inside that bright line. No renewal could have extended protection past the 56-year maximum under the 1909 Act.",
+          "source": "Silent Era Progressive Silent Film List â€” cites LP22011 and lists 'Current rights holder: Public domain [USA]'",
+          "url": "https://www.silentera.com/PSFL/data/E/Eagle1925.html"
+        },
+        {
+          "type": "registration",
+          "note": "US copyright registration LP22011, registered 16 November 1925 by Art Finance Corporation. Claimant is the production entity, not United Artists (the distributor).",
+          "source": "Silent Era PSFL citing US Copyright Office record LP22011",
+          "url": "https://www.silentera.com/PSFL/data/E/Eagle1925.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Eagle is a silent film; the 1925 print carries no synchronized recorded score. All modern home-video and streaming copies layer a separately composed musical accompaniment that is independently copyrighted. Internet Archive item identifier 'TheEagle' explicitly notes the score is 'composed and copyrighted by Edward Rolf Boensnes' (2015). Kino Lorber's Blu-ray and DVD releases carry their own licensed scores. The 1925 image track is public domain; any music on a modern copy is not.",
+          "source": "Internet Archive metadata â€” item TheEagle (IA); Silent Era PSFL home-video note; Kino Lorber release",
+          "url": "https://archive.org/details/TheEagle"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Screenplay adapted from Aleksandr Pushkin's novel Dubrovsky, drafted c.1832â€“1833 and published posthumously in 1841. Pushkin died in 1837. A 19th-century Russian novel is public domain worldwide by any standard; no US copyright term could attach to a work of this vintage.",
+          "source": "Silent Era PSFL â€” story credit: 'novel Dubrovsky by Aleksandr Pushkin'; adaptation by Hans Kraly",
+          "url": "https://www.silentera.com/PSFL/data/E/Eagle1925.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent Era PSFL confirms home-video release on both DVD and Blu-ray Disc. Kino Lorber is the primary US home-video distributor for silent Valentino titles; their digital mastering for Blu-ray constitutes a protectable fixation whose copyright is independent of the 1925 print. The surviving 35mm original is held by Cohen Media Group (Raymond Rohauer collection); any digital restoration Cohen has made from that print carries its own separate copyright.",
+          "source": "Silent Era PSFL â€” 'Home video: Blu-ray Disc, DVD'; Cohen Media Group / Raymond Rohauer collection notation",
+          "url": "https://www.silentera.com/PSFL/data/E/Eagle1925.html"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Eagle' (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Eagle"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-eagle",
+      "label": "The Eagle (1925) â€” Rudolph Valentino, dir. Clarence Brown; silent, 72 min; AVI + MP4",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Eagle was Rudolph Valentino's penultimate film, released in November 1925 â€” nine months before his death at thirty-one. Produced by Art Finance Corporation (copyright LP22011) and distributed through United Artists, it adapts Aleksandr Pushkin's unfinished 1841 novel Dubrovsky into a Cossack swashbuckler set in Catherine the Great's Russia. Valentino plays Vladimir Dubrovsky, a cavalry officer who becomes the outlaw 'Black Eagle' to avenge his father's dispossession while romancing the daughter of the man who wronged him. The film was photographed by George Barnes, production-designed by William Cameron Menzies, and features a young Gary Cooper in an uncredited bit part as a masked Cossack.\n\nFor creators, the 1925 print is public domain in the US by term expiry â€” five years inside the pre-1930 bright line, with registration LP22011 confirmed and no renewal capable of surviving the 1909 Act's 56-year ceiling. The Pushkin source (1841) is equally free. The rights trap is the score: this is a silent film made for live musical accompaniment, so every modern copy adds a separately copyrighted recording. Kino Lorber's Blu-ray edition carries a licensed score and its own digital-fixation copyright; Cohen Media Group holds the 35mm Rohauer print and may produce inquiries even for legally free uses. A reuser who needs a score-free version must locate a raw silent print and verify the specific copy's accompaniment before incorporating any audio.",
+  "faq": [
+    [
+      "Can I edit or redistribute the 1925 film footage?",
+      "Yes â€” the underlying 1925 film (images, intertitles, performances) is public domain in the US by term expiry. Art Finance Corporation's copyright LP22011 lapsed long before any renewal could have extended it, and the pre-1930 bright line removes any ambiguity. You can cut, redistribute, or remix the footage freely. The one catch is audio: any musical score on the copy you source is a separately copyrighted work. Confirm the specific accompaniment's license â€” or strip the audio â€” before including it in your project."
+    ],
+    [
+      "Does Cohen Media Group's ownership of the Rohauer 35mm print affect my right to use the film?",
+      "No. Owning a physical film print does not confer copyright in the underlying work. Raymond Rohauer was notorious for asserting copyright claims on public-domain silent films, and courts generally rejected those claims for pre-1928 works. Cohen Media Group inherited that print collection; they hold property rights in the physical elements, not copyright in the 1925 film. Any genuine new digital restoration Cohen produces carries its own thin fixation copyright â€” but the 1925 footage remains free to use regardless of who owns the surviving print."
+    ]
+  ]
+}
