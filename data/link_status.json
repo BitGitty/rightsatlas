@@ -1,6 +1,16 @@
 {
  "checked": "2026-09-10",
  "items": {
+  "animal-crackers-1930": {
+   "ok": true,
+   "film": "animal-crackers-1930",
+   "kind": "watch"
+  },
+  "animal-crackers_1930": {
+   "ok": true,
+   "film": "animal-crackers-1930",
+   "kind": "watch"
+  },
   "BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee": {
    "ok": true,
    "film": "blood-and-sand-1922",
