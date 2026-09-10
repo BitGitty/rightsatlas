@@ -1,0 +1,98 @@
+{
+  "id": "the-jazz-singer-1927",
+  "title": "The Jazz Singer",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-09-11",
+  "byline": "Warner Bros., 1927. Dir. Alan Crosland; Al Jolson, May McAvoy. First feature with synchronized dialogue sequences via Vitaphone, landmark early talkie.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 6 October 1927 by Warner Bros. Pictures. Under US law the maximum term for a 1927 publication is 95 years (28-year initial term, renewed and later extended under the Sonny Bono CTEA). That term expired 31 December 2022; the film entered the US public domain on 1 January 2023.",
+          "source": "U.S. Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The Jazz Singer is a sound film whose Vitaphone synchronized recordings â€” Al Jolson's singing and the isolated spoken sequences â€” were created as an integral part of the 1927 production. For a sound film the recorded track normally shares the film's own copyright term. The original Vitaphone recordings therefore entered the US public domain on 1 January 2023 together with the print. The underlying compositions performed on screen (e.g., Irving Berlin's 'Blue Skies,' 1926; 'My Mammy,' 1920) have also expired by term. Note: any digitally remastered or re-processed audio on modern commercial editions is a separate, protected work and is not covered by this analysis.",
+          "source": "U.S. Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Screenplay adapted from Samson Raphaelson's short story 'The Day of Atonement,' first published 1922 in Everybody's Magazine, and from his 1925 Broadway play of the same title. Maximum US term for the 1922 story: 95 years, expired 31 December 2017 (PD from 1 January 2018). Maximum US term for the 1925 play: 95 years, expired 31 December 2020 (PD from 1 January 2021). Both source works were in the public domain before the film itself.",
+          "source": "U.S. Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Video and Warner Bros. Home Entertainment have released commercially restored editions of The Jazz Singer on DVD and Blu-ray. Kino Lorber is a named restoration house; its release carries its own restoration copyright independent of the underlying film's PD status. The Archive.org community upload (identifier: the-jazz-singer-1927_202301, uploaded January 2023, CC Public Domain Mark 1.0) predates current commercial restorations and is the recommended source; verify print quality before use. Any Blu-ray, streaming copy, or DVD sourced from Warner Bros. or Kino reflects protected restoration work and should not be used as a source.",
+          "source": "Internet Archive item metadata â€” the-jazz-singer-1927_202301",
+          "url": "https://archive.org/details/the-jazz-singer-1927_202301"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Jazz Singer' (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Jazz+Singer"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-jazz-singer-1927_202301",
+      "label": "The Jazz Singer (1927) â€” community upload, CC Public Domain Mark 1.0, uploaded January 2023",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Jazz Singer (Warner Bros., 6 October 1927) is the first feature-length film with synchronized dialogue sequences, produced via the Vitaphone disc process and starring Al Jolson as Jack Robin â€” born Jakie Rabinowitz â€” a cantor's son torn between his Jewish heritage and a career in popular entertainment. Directed by Alan Crosland, it is mostly a silent film punctuated by seven Vitaphone sound sequences; Jolson's ad-libbed 'Wait a minute, wait a minute, you ain't heard nothin' yet' marks the effective arrival of commercial sound cinema. The US print and its original Vitaphone recordings entered the public domain on 1 January 2023. Educators, documentarians, and archival remix artists can use the footage, Jolson's on-screen dialogue, and his synchronized musical performances freely â€” the story layer is equally clear, as both Raphaelson's 1922 source story and his 1925 play expired years before the film did. The live rights trap is not the film but the copy. Every commercial release â€” Kino Lorber's DVD and the Warner Bros. Blu-ray â€” embeds restoration or remastering work performed after the public-domain date, and that new creative work is separately protected. Creators must source from the Archive.org community upload (the-jazz-singer-1927_202301), not disc rips. A secondary hazard: Warner Bros. retains active trademark and commercial interests in the title, and uses that imply studio endorsement or theatrical sub-licensing may encounter friction independent of copyright.",
+  "faq": [
+    [
+      "Is the original soundtrack in the public domain along with the picture?",
+      "Yes. The Jazz Singer is a sound film, and its original Vitaphone recordings were created as part of the 1927 production, so they share the film's expired copyright term and entered the US public domain on 1 January 2023. The underlying songs performed on screen â€” including Irving Berlin's 'Blue Skies' (1926) and 'My Mammy' (1920) â€” have also expired by term. Any digitally remastered audio on a Kino or Warner Bros. commercial release is a separate protected work; source from Archive.org instead."
+    ],
+    [
+      "Can I use this film commercially â€” in a documentary, on a streaming service, or on merchandise?",
+      "The 1927 print is in the public domain and may be used commercially, but source only from the Archive.org copy (the-jazz-singer-1927_202301) rather than any commercial disc or platform whose copy reflects protected restoration work. Merchandise or marketing that prominently features Al Jolson's likeness may implicate post-mortem personality-rights statutes, which vary by US state and are entirely separate from copyright expiry."
+    ]
+  ]
+}
