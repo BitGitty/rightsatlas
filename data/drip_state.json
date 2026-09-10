@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-09",
+  "last_release": "2026-09-10",
   "log": [
     {
       "date": "2026-08-31",
@@ -40,6 +40,10 @@
     {
       "date": "2026-09-09",
       "film": "the-broadway-melody-1929"
+    },
+    {
+      "date": "2026-09-10",
+      "film": "animal-crackers-1930"
     }
   ]
 }
