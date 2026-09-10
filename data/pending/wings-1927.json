@@ -1,0 +1,103 @@
+{
+  "id": "wings-1927",
+  "title": "Wings",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-09-11",
+  "byline": "Dir. William A. Wellman; prod. Paramount Famous Lasky Corporation; story John Monk Saunders; stars Clara Bow, Charles Rogers, Richard Arlen",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original print published with a 1927 copyright notice by Paramount Famous Lasky Corporation. The CCE shows the first formal registration in January 1929 for the synchronized-sound re-release, but the film carried a 1927 copyright notice on the original version; Duke Law CSPD Public Domain Day 2023 explicitly confirms that the 95-year term measured from the 1927 notice expired December 31, 2022, and the print entered the US public domain on January 1, 2023.",
+          "source": "Duke Law Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wings is a silent film; the 1927 print carries no synchronized sound track. A re-release version with a synchronized musical score and sound effects was registered in the CCE on January 5, 1929; that version's 95-year term (1929+95=2024) expired January 1, 2025 and is now also PD by term. However, the widely distributed 1985 home-video restoration featured a newly composed organ score by Gaylord Carter, and the 2012 Paramount Blu-ray restoration includes a separately arranged scoreâ€”both are independently copyrighted recordings still under protection. Nearly every modern copy encountered will carry one of these post-1927 scores rather than the now-PD 1929 track, so the score layer remains partially protected in practice.",
+          "source": "Wikipedia â€“ Wings (1927 film); Duke Law CSPD 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story is an original work by John Monk Saunders, written directly for the film; it was never published as a standalone work prior to the film's release and has no pre-existing source text. Its copyright derives from the same 1927 copyright notice on the film. The 95-year term expired January 1, 2023 on the same basis as the print, confirmed by Duke Law CSPD Public Domain Day 2023.",
+          "source": "Duke Law Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Paramount Pictures completed a major restoration circa 2012, recovering a spare negative from their own vaults (the original camera negatives are lost) at an estimated cost of $700,000; this restoration was commercially released on Blu-ray and DVD and carries Paramount's own copyright in the restoration work. The Academy Film Archive, the Library of Congress, and Paramount also conducted a separate preservation project in 2002. High-definition copies circulating onlineâ€”including the 1080p Blu-ray rip at Archive.org identifier wings-1927-by-william-a.-wellmanâ€”almost certainly derive from the 2012 Paramount restoration rather than an unrestored original print.",
+          "source": "Duke Law CSPD Public Domain Day 2023; Wikipedia â€“ Wings (1927 film)",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€“ search 'Wings' (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Wings"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€“ browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/wings_1927",
+      "label": "Wings (1927) â€“ Paramount Pictures â€“ full feature, Internet Archive",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/wings-1927-by-william-a.-wellman",
+      "label": "Wings (1927) â€“ 1080p source, Internet Archive (likely derived from 2012 Paramount restoration)",
+      "quality": "high"
+    }
+  ],
+  "editorial": "Wings is the 1927 Paramount war epic directed by William A. Wellman, featuring Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, and Gary Cooper in a brief early appearance. Produced by Paramount Famous Lasky Corporation, it won the first Academy Award for Best Picture at the inaugural 1929 ceremony and remains the only fully silent film to hold that honor. Its aerial combat sequencesâ€”shot in open cockpits with cameras mounted on real aircraftâ€”were technically unprecedented in American cinema, and the dogfight footage is directly reusable for documentaries, historical montages, and tributes to early aviation or World War I screen history. The original 1927 print entered the US public domain on January 1, 2023, when the 95-year copyright term measured from the 1927 copyright notice expired.\n\nThe primary rights trap is the 2012 Paramount restoration. The original camera negatives were destroyed decades ago; Paramount spent an estimated $700,000 locating and restoring a spare negative from their own vaults, producing the Blu-ray and DVD release now treated as the definitive copy. That restoration is a separately copyrighted work, and high-definition transfers circulating online almost certainly derive from it rather than from an unrestored print. Additionally, any musical score accompanying a modern copyâ€”including the Gaylord Carter organ score on the 1985 home-video releaseâ€”is an independently copyrighted recording. The original 1927 print and its underlying story are free to use; the score and the modern restoration copy are not.",
+  "faq": [
+    [
+      "Is Wings (1927) in the public domain in the United States?",
+      "The original 1927 print is public domain in the US as of January 1, 2023â€”its 95-year copyright term, measured from the 1927 copyright notice affixed by Paramount Famous Lasky Corporation, expired on December 31, 2022. The 2012 Paramount restoration and any newly composed musical scores on modern copies are separately copyrighted and are not free to use without permission."
+    ],
+    [
+      "Can I use the 1080p Blu-ray version of Wings without clearing rights?",
+      "Almost certainly not without Paramount's permission. The HD Blu-ray originates from Paramount's 2012 restoration of a recovered spare negative, and that restoration work is protected by its own copyright distinct from the underlying film. The underlying footage is public domain, but the color-corrected, digitally cleaned Blu-ray transfer is Paramount's proprietary work. For unencumbered use, seek a copy traceable to a pre-restoration print source rather than a commercial Blu-ray rip."
+    ]
+  ]
+}
