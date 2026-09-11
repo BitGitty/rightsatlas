@@ -1,0 +1,113 @@
+{
+  "id": "the-paleface-1922",
+  "title": "The Paleface",
+  "year": 1922,
+  "country": "US",
+  "last_verified": "2026-09-12",
+  "byline": "Dir. Buster Keaton & Edward F. Cline; prod. Joseph M. Schenck; dist. First National Pictures, 1922, 21 min.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1922 in the US. The 28-year initial term expired in 1950; no renewal was filed. All US works published before 1928 are unambiguously in the public domain.",
+          "source": "U.S. Copyright Office â€” Circular 15a: Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Searched CCE Part 14A Renewal Registrations Janâ€“Dec 1949 (Vol 3) and Janâ€“Dec 1950 (Vol 4) â€” the two volumes that would capture a renewal of a 1922 publication. Neither 'The Paleface' nor 'Paleface' appears in either year's records.",
+          "source": "Catalog of Copyright Entries, Third Series, Part 14A Renewals 1950 â€” Library of Congress / archive.org",
+          "url": "https://archive.org/details/catalogofcopyri3414libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1922 release was silent; the print itself carries no synchronized score and is public domain by term expiry. Any musical score on a modern copy â€” including the Kino Lorber 2K restoration or the Cohen/Cineteca di Bologna restoration â€” is a separately copyrighted recording not covered by the 1922 term expiry.",
+          "source": "U.S. Copyright Office â€” Copyright in Derivative Works and Compilations (Circular 14)",
+          "url": "https://www.copyright.gov/circs/circ14.pdf"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay is an original work by Buster Keaton and Edward F. Cline written for the 1922 production; no prior published literary source has been identified in any reference consulted. It was published as part of the 1922 film and shares its term-expiry analysis.",
+          "source": "U.S. Copyright Office â€” Circular 15a: Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Lorber holds a 2K restoration included in 'Buster Keaton: The Shorts Collection (1917â€“1923)' on Blu-ray. Cohen Film Collection holds a separate restoration performed by Cineteca di Bologna at L'Immagine Ritrovata Laboratory. Both are independently copyrighted derivative works.",
+          "source": "Cohen Media Group â€” The Paleface product page",
+          "url": "https://cohenmedia.net/product/paleface"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Paleface' (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Paleface"
+      },
+      {
+        "label": "CCE Part 14A Renewal Registrations Janâ€“Dec 1949 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyri3314libr"
+      },
+      {
+        "label": "CCE Part 14A Renewal Registrations Janâ€“Dec 1950 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyri3414libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-paleface",
+      "label": "The Paleface (1922) â€” Buster Keaton; archive.org HD transfer",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/BusterKeatonsThePaleface",
+      "label": "The Paleface (1922) â€” Buster Keaton; Silent Hall of Fame upload",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Paleface is a 21-minute two-reel silent comedy released January 1922 by First National Pictures, produced by Joseph M. Schenck and directed by Buster Keaton and Edward F. Cline. Keaton plays a hapless butterfly collector who stumbles into a standoff between a Native American tribe and a gang of oil-land swindlers; the tribe condemns him to death, he fashions asbestos underwear to survive a burning-at-the-stake, and is adopted as 'Little Chief Paleface' before helping recover the tribe's stolen land deed. First National never renewed the copyright in 1949â€“1950, and no renewal entry appears in either year's CCE Part 14A records â€” the film has been circulating freely for decades and is a dependable mid-length short for compilations, silent-comedy retrospectives, and illustrative documentary clips.\n\nThe one practical trap is the restoration layer. Kino Lorber holds a 2K restoration in its Shorts Collection 1917â€“1923 Blu-ray, and Cohen Film Collection holds a separate restoration by Cineteca di Bologna at L'Immagine Ritrovata Laboratory â€” both are independently copyrighted derivative works. Archive.org hosts earlier unrestored transfers; use those, not the polished restoration releases. Any musical score found on a copy is also separately protected: the 1922 film was released silent, so no score is covered by the public-domain print.",
+  "faq": [
+    [
+      "Can I use footage from The Paleface (1922) in a documentary or online video?",
+      "Yes â€” the underlying silent print is public domain. First National Pictures did not file a copyright renewal in 1949â€“1950, so protection lapsed at the end of the 28-year initial term. Source your footage from an unrestored archive.org transfer rather than from the Kino Lorber or Cohen Film Collection restoration releases, which carry their own modern copyright."
+    ],
+    [
+      "Does the film come with usable music?",
+      "No. The 1922 release was silent with no synchronized score; nothing on the audio side is covered by the film's public-domain status. Any music you find on a particular copy â€” a restoration track, a user-composed accompaniment â€” is a separately copyrighted work. You must license music independently or compose your own."
+    ]
+  ]
+}
