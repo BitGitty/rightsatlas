@@ -1,0 +1,98 @@
+{
+  "id": "nanook-of-the-north-1922",
+  "title": "Nanook of the North",
+  "year": 1922,
+  "country": "US",
+  "last_verified": "2026-09-12",
+  "byline": "Dir. Robert J. Flaherty; prod. Revillon FrÃ¨res; dist. PathÃ© Exchange (US, 1922)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published in the United States on 11 June 1922 via PathÃ© Exchange. Under the 1909 Copyright Act the maximum protection was 28 years (initial term) plus a 28-year renewal, totalling 56 years. The renewal window for this 1922 film closed in 1950. Neither producer Revillon FrÃ¨res nor distributor PathÃ© Exchangeâ€”which underwent bankruptcy and reorganisation by the early 1930sâ€”filed a renewal. The copyright therefore expired and the original print entered the US public domain no later than 1950, decades before any subsequent statutory extension could apply.",
+          "source": "US Copyright Office Circular 15a: Duration of Copyright (authority on pre-1978 term limits)",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Nanook of the North is a silent film; the 1922 print contains no recorded musical track and no sound copyright exists in the original work. The visual content is freely usable. However, virtually every commercially distributed copy since the 1970s carries a separately composed and copyrighted musical accompaniment. Stanley Silverman composed a 1973 orchestral score for Films Inc./McGraw-Hill's educational release (LCCN 77701529, 1977 reissue). Gabriel Thibaudeau composed a new score for the 2014 Flicker Alley/Lobster Films Blu-ray restoration. Any copy of the film that includes one of theseâ€”or any other post-1922â€”score carries a separate, active copyright in that musical recording. A creator editing the mute 1922 picture may add their own music freely; lifting an existing accompaniment without clearance infringes that score's copyright independently of the film's public-domain status.",
+          "source": "Archive.org item nanookofthenorthreel2 metadata: Films Inc./McGraw-Hill version with 1973 Stanley Silverman score (LCCN 77701529, uploaded by associate-yvonne-wang@archive.org)",
+          "url": "https://archive.org/details/nanookofthenorthreel2"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Nanook of the North is an original observational documentary; Flaherty filmed actual Inuit life in the Ungava Peninsula region of northern Quebec (with staged elements) and did not adapt a pre-existing protected literary work. Flaherty's companion book 'My Eskimo Friends' (Doubleday, 1924) post-dates the film by two years and was not its narrative source. The editorial structure and content originate in the 1922 film itself, so the story copyright shares the film's 1922 US publication date and the same 28+28-year maximum term under the 1909 Act. It expired no later than 1978 (effectively in 1950 upon non-renewal of the initial term).",
+          "source": "US Copyright Office Circular 15a: Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "At least two commercially distributed modern restorations are in active circulation. (1) Flicker Alley / Lobster Films, 2014 Blu-ray: restored from the original nitrate negative held by Fondation PathÃ© (Paris), credited to Lobster Films, Groupama Gan Foundation for Cinema, and Fondation PathÃ©; includes a new orchestral score by Gabriel Thibaudeau; distributed in the US by Flicker Alley. The restored image-work and the commissioned score each carry independent copyright. (2) Criterion Collection Eclipse Series 33: Early Flaherty (Spine 33, 2011). Copying from either commercial release without authorisation infringes those restoration copyrights even though the underlying 1922 print is public domain. Users seeking only PD material should use a silent, non-restoration source such as archive.org/details/NanookOfTheNorth and verify the file carries no copyrighted accompaniment.",
+          "source": "Flicker Alley Blu-ray (2014); Criterion Collection Eclipse Series 33: Early Flaherty (2011)",
+          "url": "https://flickeralley.com/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Nanook of the North' (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Nanook+of+the+North"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/NanookOfTheNorth",
+      "label": "Nanouk l'Esquimau (Nanook of the North, 1922) â€” dir. Robert Flaherty â€” 720p MP4, Internet Archive (identifier verified)",
+      "quality": "good"
+    }
+  ],
+  "editorial": "Nanook of the North (1922) is Robert J. Flaherty's landmark observational documentary following Allakariallak and his family surviving in the Ungava Peninsula of northern Quebec. Financed by the French fur-trading firm Revillon FrÃ¨res and distributed in the United States by PathÃ© Exchangeâ€”premiering theatrically on 11 June 1922â€”it became one of the first feature-length nonfiction films to achieve wide commercial release. The original print is public domain in the US: neither Revillon FrÃ¨res nor PathÃ© Exchange, which entered bankruptcy proceedings by the early 1930s, renewed the copyright before the 1950 deadline. The visual content of the 1922 film has circulated without license ever since and may be freely recut, excerpted, or redistributed.\n\nThe practical rights trap is the score. Because this is a silent film, the original 1922 print contains no musicâ€”but virtually every commercially distributed copy carries a separately composed and copyrighted accompaniment. Stanley Silverman's 1973 orchestral arrangement appears on the Films Inc. educational version; Gabriel Thibaudeau's score accompanies the 2014 Flicker Alley Blu-ray, which was also restored from Fondation PathÃ©'s original nitrate negative and carries an additional copyright in the restored image-work itself. A creator using footage from Archive.org should confirm the file is a mute or intertitle-only copy and not a derivative of the Flicker Alley or Criterion Eclipse (2011) restorations before assuming the audio and picture are both free.",
+  "faq": [
+    [
+      "Can I upload or monetize Nanook of the North footage on YouTube or Vimeo?",
+      "The underlying 1922 picture is public domain in the US and you do not need permission to use it. The practical danger is the audio track. If your copy includes a musical scoreâ€”Stanley Silverman's 1973 arrangement, Gabriel Thibaudeau's 2014 Flicker Alley score, or any other post-1922 accompanimentâ€”that audio is separately copyrighted and can trigger a Content ID claim or takedown even though the film's images are free. Use a silent version or add your own music to avoid this problem. Also avoid copying directly from the Flicker Alley Blu-ray or Criterion Eclipse disc, as those restoration companies hold independent copyrights in their specific image-works."
+    ],
+    [
+      "Does Revillon FrÃ¨res or any estate still own rights to the original 1922 film?",
+      "No. Revillon FrÃ¨res, the French fur-trading firm that financed the production, ceased meaningful media operations long before the question arose, and the US copyright was never renewed before the 1950 deadline. No entityâ€”including Flaherty's estateâ€”holds copyright in the original 1922 print. What does survive are the copyrights of specific modern restorations (Flicker Alley 2014, Criterion Eclipse 2011) and any separately composed scores attached to distributed copies of the film. The bare 1922 footage is unowned from a US copyright standpoint."
+    ]
+  ]
+}
