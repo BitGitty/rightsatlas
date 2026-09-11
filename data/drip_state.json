@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-10",
+  "last_release": "2026-09-11",
   "log": [
     {
       "date": "2026-08-31",
@@ -44,6 +44,10 @@
     {
       "date": "2026-09-10",
       "film": "animal-crackers-1930"
+    },
+    {
+      "date": "2026-09-11",
+      "film": "the-jazz-singer-1927"
     }
   ]
 }
