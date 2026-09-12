@@ -1,0 +1,103 @@
+{
+  "id": "the-prisoner-of-zenda-1922",
+  "title": "The Prisoner of Zenda",
+  "year": 1922,
+  "country": "US",
+  "last_verified": "2026-09-13",
+  "byline": "Rex Ingram (dir.) Â· Metro Pictures Â· Lewis Stone, Alice Terry, Ramon Novarro",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film published 1922; falls below the pre-1923 bright line. All 1922 US publications entered the US public domain on January 1, 2018 regardless of whether a renewal was filed.",
+          "source": "Duke Center for the Study of the Public Domain â€” Public Domain Day 2018",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2018/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film with English intertitles; the 1922 release carried no recorded musical track. Modern copies with added accompaniment â€” including the MaxManLA/GCM Productions version on the Internet Archive ('THE PRISONER OF ZENDA 1922 WITH SYNCED SYMPHONIC MUSIC'), which adds a newly composed synchronized symphonic score, digital image enhancement, a new opening-credits sequence, and a new montage sequence â€” carry a separately protected modern sound recording. Use a score-free print and source or commission PD accompaniment independently.",
+          "source": "Archive.org item metadata",
+          "url": "https://archive.org/details/the-prisoner-of-zenda-1922-with-synced-symphonic-music"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapts Anthony Hope's novel 'The Prisoner of Zenda', first published in the US in 1894. Any US copyright on the source novel expired no later than 1922 (28-year initial term from 1894); the underlying story is fully public domain.",
+          "source": "Cornell University â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No restoration by Criterion, Kino Lorber, Flicker Alley, MoMA, or Photoplay confirmed as of 2026-09-13. An enhanced version with synchronized symphonic score, digital image processing, new title cards, and an added montage sequence ('A GCM Production of a MaxManLA Video') is hosted on the Internet Archive, but this is a private production rather than a named-studio restoration.",
+          "source": "Archive.org item metadata",
+          "url": "https://archive.org/details/the-prisoner-of-zenda-1922-with-synced-symphonic-music"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Prisoner of Zenda' (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Prisoner+of+Zenda"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ThePrisonerOfZenda",
+      "label": "The Prisoner of Zenda (1922) â€” Rex Ingram, silent, 113 min, English intertitles, full cast metadata",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/silent-the-prisoner-of-zenda",
+      "label": "The Prisoner of Zenda (1922) â€” silent, alternate clean upload, multiple formats",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "Rex Ingram's 1922 Metro Pictures production was one of Hollywood's prestige silent features: 113 minutes, Lewis Stone in the dual role of English gentleman Rudolf Rassendyll and his Ruritanian royal doppelgÃ¤nger King Rudolf V, Alice Terry as Princess Flavia, and a young Ramon Novarro in an early supporting part. Cinematographer John F. Seitz gave the film the visual ambition Ingram was known for, and the production drew directly from Anthony Hope's 1894 adventure novel â€” itself more than a century out of copyright. Multiple clean prints circulate on the Internet Archive under identifiers ThePrisonerOfZenda and silent-the-prisoner-of-zenda, both confirmed as the original Ingram cut.\n\nThe print is public domain: a 1922 US publication falls below the pre-1923 threshold and entered PD on January 1, 2018. The rights trap for reusers is the score. Because this is a silent film the original exhibition had no synchronized recorded track, which means every copy you encounter that has music carries a modern, separately protected sound recording. The most prominent example on the Internet Archive is a version by MaxManLA/GCM Productions that adds a newly composed symphonic score, new opening credits, digital image enhancement, and an added montage sequence â€” none of which are public domain. Download a score-free print (identifier: ThePrisonerOfZenda) and either screen it silent or pair it with demonstrably PD-era accompaniment.",
+  "faq": [
+    [
+      "Can I redistribute or edit footage from this film?",
+      "Yes â€” the 1922 print is public domain in the US, so you can cut, remix, colorize, or redistribute the footage. The only check is whether the copy you are working from has a modern musical score added. Any synchronized accompaniment composed or recorded after 1928 is a separate copyrighted work. Pull the score-free version from the Internet Archive (identifier: ThePrisonerOfZenda) to avoid that issue."
+    ],
+    [
+      "Is the story also free to adapt?",
+      "Yes. The film is based on Anthony Hope's novel 'The Prisoner of Zenda', first published in the US in 1894. That novel has been in the public domain for over a century. You can write a new screenplay, sequel, or adaptation drawing on the novel, on this 1922 film's specific visual interpretation, or both, without any story-layer rights clearance."
+    ]
+  ]
+}
