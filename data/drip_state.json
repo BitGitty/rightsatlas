@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-12",
+  "last_release": "2026-09-13",
   "log": [
     {
       "date": "2026-08-31",
@@ -52,6 +52,10 @@
     {
       "date": "2026-09-12",
       "film": "street-angel-1928"
+    },
+    {
+      "date": "2026-09-13",
+      "film": "the-dawn-patrol-1930"
     }
   ]
 }
