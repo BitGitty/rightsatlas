@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-13",
+  "last_release": "2026-09-14",
   "log": [
     {
       "date": "2026-08-31",
@@ -56,6 +56,10 @@
     {
       "date": "2026-09-13",
       "film": "the-dawn-patrol-1930"
+    },
+    {
+      "date": "2026-09-14",
+      "film": "the-phantom-express-1925"
     }
   ]
 }
