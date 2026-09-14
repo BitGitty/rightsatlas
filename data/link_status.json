@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-13",
+ "checked": "2026-09-14",
  "items": {
   "animal-crackers-1930": {
    "ok": true,
@@ -274,6 +274,21 @@
   "TheCrowd1928": {
    "ok": true,
    "film": "the-crowd-1928",
+   "kind": "evidence"
+  },
+  "FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks": {
+   "ok": true,
+   "film": "the-dawn-patrol-1930",
+   "kind": "evidence"
+  },
+  "Motionpict19591960librrich0008": {
+   "ok": true,
+   "film": "the-dawn-patrol-1930",
+   "kind": "evidence"
+  },
+  "catalogofcopyrig3111213li": {
+   "ok": true,
+   "film": "the-dawn-patrol-1930",
    "kind": "evidence"
   },
   "the-docks-of-new-york_202506": {
