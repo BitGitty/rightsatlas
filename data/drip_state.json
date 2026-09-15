@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-14",
+  "last_release": "2026-09-15",
   "log": [
     {
       "date": "2026-08-31",
@@ -60,6 +60,10 @@
     {
       "date": "2026-09-14",
       "film": "the-phantom-express-1925"
+    },
+    {
+      "date": "2026-09-15",
+      "film": "sherlock-holmes-1916"
     }
   ]
 }
