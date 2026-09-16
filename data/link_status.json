@@ -96,6 +96,16 @@
    "film": "house-on-haunted-hill-1959",
    "kind": "watch"
   },
+  "in-old-arizona-1928-by-irving-cummings-and-raoul-walsh": {
+   "ok": true,
+   "film": "in-old-arizona-1929",
+   "kind": "evidence"
+  },
+  "in-old-arizona-1928-w": {
+   "ok": true,
+   "film": "in-old-arizona-1929",
+   "kind": "watch"
+  },
   "Intolerance": {
    "ok": true,
    "film": "intolerance-1916",
