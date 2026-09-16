@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-15",
+ "checked": "2026-09-16",
  "items": {
   "animal-crackers-1930": {
    "ok": true,
@@ -179,6 +179,16 @@
   "seven-chances-1925-by-buster-keaton": {
    "ok": true,
    "film": "seven-chances-1925",
+   "kind": "watch"
+  },
+  "SherlockHolmes1916": {
+   "ok": true,
+   "film": "sherlock-holmes-1916",
+   "kind": "watch"
+  },
+  "sherlock-holmes-1916": {
+   "ok": true,
+   "film": "sherlock-holmes-1916",
    "kind": "watch"
   },
   "sherlockjr1924_201909": {
