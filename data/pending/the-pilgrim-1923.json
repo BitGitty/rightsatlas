@@ -1,0 +1,105 @@
+{
+  "id": "the-pilgrim-1923",
+  "title": "The Pilgrim",
+  "year": 1923,
+  "country": "US",
+  "last_verified": "2026-09-17",
+  "byline": "Written and directed by Charlie Chaplin; produced for First National Pictures",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film published February 26, 1923; the 95-year maximum copyright term under 17 U.S.C. Â§304(b) expired December 31, 2018; entered the public domain in the United States on January 1, 2019, regardless of whether the copyright was renewed in 1951.",
+          "source": "U.S. Copyright Act, 17 U.S.C. Â§304(b)",
+          "url": "https://copyright.gov/title17/92chap3.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Pilgrim is a silent film; the 1923 photographic print carries no synchronized sound and the print layer is unencumbered. However, Chaplin composed and recorded an orchestral score for this title in 1959 for his anthology The Chaplin Revue, recorded at Shepperton Studios, London. That 1959 sound recording is a distinct work with a US copyright term running to approximately 2054. Any commercial copy, streaming release, or digital restoration bearing this accompaniment carries a partially protected audio layer that is not covered by the expiry of the 1923 film copyright.",
+          "source": "Internet Archive item metadata; Criterion Channel listing for The Pilgrim",
+          "url": "https://archive.org/details/the-pilgrim-1923-directed-by-charlie-chaplin"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original screenplay written solely by Charlie Chaplin for this production; no identifiable underlying published source work was adapted. The screenplay as embedded in the 1923 film shares the same publication date and follows the same 95-year US term â€” expired January 1, 2019.",
+          "source": "U.S. Copyright Act, 17 U.S.C. Â§304(b)",
+          "url": "https://copyright.gov/title17/92chap3.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Roy Export SAS (Chaplin's Paris-based estate company) actively asserts rights over the Tramp character persona â€” the bowler hat, cane, toothbrush moustache, and associated visual identity. The official charliechaplin.com site and social-media posts of The Pilgrim footage carry Â©Roy Export S.A.S notices. Whether active US trademark registrations covering the Tramp character in commercial contexts are currently maintained was not confirmed in this review; users deploying the Tramp persona for merchandising, branding, or advertising should conduct a USPTO search before proceeding.",
+          "source": "charliechaplin.com â€” Roy Export SAS contact page",
+          "url": "https://www.charliechaplin.com/en/contacts/articles/130-Roy-Export-SAS"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 4K digital restoration was produced by Fondazione Cineteca di Bologna at L'Immagine Ritrovata Laboratory using elements supplied by Roy Export SAS, Paris; it is distributed via the Criterion Collection and Criterion Channel and carries Chaplin's 1959 protected score recording. An earlier DVD restoration, assembled from five surviving prints by Shepard and Eric Lange, was released by Flicker Alley (now out of print). Both restorations generate independent copyright in the restored embodiment and its audio, unaffected by the expiry of the 1923 print copyright.",
+          "source": "Criterion Channel â€” The Pilgrim listing",
+          "url": "https://www.criterionchannel.com/the-pilgrim"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1950,
+      1951,
+      1952
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search \"The Pilgrim\" (renewals ~1950, 1951, 1952)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Pilgrim"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-pilgrim-1923-directed-by-charlie-chaplin",
+      "label": "The Pilgrim (1923) â€” MPEG4 download, uploader ArchiveSphere (2024); metadata notes audio present, likely an added score track on this copy",
+      "quality": "sd"
+    }
+  ],
+  "editorial": "The Pilgrim (1923) was Chaplin's final film under his First National contract â€” a two-reel comedy in which the Tramp escapes prison, steals a minister's clothes from a riverbank, and is deposited by train in the small Texas town of Devil's Gulch, where the congregation assumes he is their new pastor. The centerpiece is a nearly six-minute pantomime sermon re-enacting David and Goliath that AndrÃ© Bazin singled out as among Chaplin's greatest acts of physical storytelling; the film was banned in several US states on release for its comic treatment of clergy. The 1923 print's 95-year US copyright term expired January 1, 2019, and unrestored prints are freely available from Internet Archive.\n\nThe practical rights trap is the score. Chaplin recorded a new orchestral accompaniment for this film in 1959 for his anthology The Chaplin Revue at Shepperton Studios, and that sound recording carries a US copyright term running to approximately 2054. The 4K Cineteca di Bologna restoration distributed through the Criterion Collection uses this protected recording and is not free to use; nor is the Flicker Alley DVD restoration assembled from five surviving prints. Roy Export SAS also asserts trademark-style protection over the Tramp character persona in commercial contexts. A creator wanting to use this film should source an unrestored print from Internet Archive, supply original or licensed music, and avoid the 1959 Chaplin accompaniment from any commercial release.",
+  "faq": [
+    [
+      "Roy Export S.A.S. displays a copyright notice on The Pilgrim footage online â€” does that mean it is still protected in the US?",
+      "Not for the 1923 print. The US copyright on a 1923 publication reached the 95-year statutory ceiling on December 31, 2018 and entered the public domain on January 1, 2019 regardless of renewal history. Roy Export SAS holds valid rights under French and other national laws, and their notices are effective outside the United States, but a lapsed US copyright cannot be revived by an estate claim. Verify the applicable national term before distributing internationally."
+    ],
+    [
+      "Can I use the Criterion or Flicker Alley version of The Pilgrim in my project?",
+      "No. Both are modern restorations that generate an independent copyright in the restored embodiment, and both carry a protected audio score â€” Chaplin's 1959 orchestral recording made for The Chaplin Revue, with a US term running to approximately 2054. Neither the restoration copyright nor the 1959 score recording is affected by the expiry of the 1923 film copyright. Source an unrestored print from Internet Archive and supply your own music or a score you have licensed."
+    ]
+  ]
+}
