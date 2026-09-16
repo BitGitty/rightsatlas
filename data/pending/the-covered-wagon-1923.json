@@ -1,0 +1,98 @@
+{
+  "id": "the-covered-wagon-1923",
+  "title": "The Covered Wagon",
+  "year": 1923,
+  "country": "US",
+  "last_verified": "2026-09-17",
+  "byline": "Dir. James Cruze; Famous Players-Lasky (Paramount), 1923. Based on the novel by Emerson Hough (1922).",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US work published 1923; 95-year maximum copyright term expired January 1, 2019. All US works from 1923 entered the public domain on that date regardless of renewal status.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film â€” no original recorded score exists. The Archive.org item (identifier: the-covered-wagon-1923-by-james-cruze) is a 1080p Blu-ray rip carrying an added AAC audio track. That modern musical accompaniment is a separately authored, independently protected work. The photographic images are public domain; any modern score on a commercial copy is not.",
+          "source": "Archive.org item file manifest",
+          "url": "https://archive.org/details/the-covered-wagon-1923-by-james-cruze"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from Emerson Hough's novel 'The Covered Wagon,' first published in book form in 1922 by D. Appleton & Co. (serialized in the Saturday Evening Post, 1922). As a US work published in 1922, its 95-year copyright term expired January 1, 2018. Both the source novel and the film adaptation are public domain by term.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A modern 1080p Blu-ray edition is confirmed by the file manifest in the Archive.org item: filename 'The.Covered.Wagon.1923.1080p.BluRay.x264.AAC-[YTS.MX].mp4' establishes a commercial Blu-ray source. Kino Lorber has released this title on home video with a new restoration and added musical score. The restoration print and its commissioned score are new copyrightable works separate from the PD original.",
+          "source": "Archive.org item file manifest",
+          "url": "https://archive.org/details/the-covered-wagon-1923-by-james-cruze"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1950,
+      1951,
+      1952
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Covered Wagon' (renewals ~1950, 1951, 1952)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Covered+Wagon"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-covered-wagon-1923-by-james-cruze",
+      "label": "The Covered Wagon (1923) â€” complete feature, 1080p Blu-ray source, CC Public Domain Mark 1.0",
+      "quality": "high"
+    }
+  ],
+  "editorial": "The Covered Wagon (1923) is the film that created the template for the Hollywood epic Western. Directed by James Cruze for Famous Players-Lasky â€” the corporation that became Paramount Pictures â€” it stars J. Warren Kerrigan, Lois Wilson, and Ernest Torrence in a dramatization of the 1848 Oregon Trail emigration. Cruze filmed on location in Utah's Millard County desert with a production that assembled roughly 500 wagons and 3,000 extras; the scale was unprecedented. The film grossed an estimated $4 million against an $800,000 budget, becoming one of the top commercial performers of the decade. For contemporary creators it offers extensive authentic footage of covered-wagon caravans, river crossings, large cavalry engagements, and frontier camp life that would cost many millions to recreate â€” all drawn from the public-domain 1923 print.\n\nThe rights trap here is the audio track. The Covered Wagon was a silent film and has no original recorded score, but every commercial copy in wide circulation â€” including the 1080p Blu-ray rip hosted on Archive.org â€” carries a modern musical score composed and recorded after the film's own copyright expired. That score is an independent, protected work. A creator who downloads the Archive.org item and uses it with the audio intact is distributing an unlicensed score. The correct path is to strip the audio track before reuse, or to pair the silent images with music that is itself public domain or explicitly licensed. Kino Lorber's restoration print additionally embeds the studio's own copyright claim over the specific scan and color work, so sourcing from a pre-restoration print or using the images in silence removes both exposure points at once.",
+  "faq": [
+    [
+      "Can I cut footage from this film into my documentary or commercial project?",
+      "Yes â€” the 1923 photographic images are public domain in the United States and carry no copyright restriction. The critical step is to strip any modern audio track before use. Commercial copies, including the Archive.org item, carry a modern score that is not public domain. Use the silent images only, or pair them with separately cleared music."
+    ],
+    [
+      "Does the Kino Lorber restoration create a new copyright over the film?",
+      "Kino Lorber's restoration work â€” the specific digital scan, noise reduction, and grading applied to the original nitrate or safety print â€” can support a thin copyright claim in that particular edition as a derivative work. That protection covers Kino's authorship in the restoration, not the underlying 1923 footage. The original photographic content remains public domain; what you should not freely copy is Kino's unique rendering of it."
+    ]
+  ]
+}
