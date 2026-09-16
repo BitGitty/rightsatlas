@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-15",
+  "last_release": "2026-09-16",
   "log": [
     {
       "date": "2026-08-31",
@@ -64,6 +64,10 @@
     {
       "date": "2026-09-15",
       "film": "sherlock-holmes-1916"
+    },
+    {
+      "date": "2026-09-16",
+      "film": "in-old-arizona-1929"
     }
   ]
 }
