@@ -141,6 +141,16 @@
    "film": "morocco-1930",
    "kind": "watch"
   },
+  "NanookOfTheNorth": {
+   "ok": true,
+   "film": "nanook-of-the-north-1922",
+   "kind": "watch"
+  },
+  "nanookofthenorthreel2": {
+   "ok": true,
+   "film": "nanook-of-the-north-1922",
+   "kind": "evidence"
+  },
   "night_of_the_living_dead_dvd": {
    "ok": true,
    "film": "night-of-the-living-dead-1968",
