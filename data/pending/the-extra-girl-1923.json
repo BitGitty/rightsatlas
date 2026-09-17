@@ -1,0 +1,98 @@
+{
+  "id": "the-extra-girl-1923",
+  "title": "The Extra Girl",
+  "year": 1923,
+  "country": "US",
+  "last_verified": "2026-09-18",
+  "byline": "Mack Sennett Productions Â· F. Richard Jones (dir.) Â· Mabel Normand Â· Associated Exhibitors, 1923",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US film, copyright registered November 9, 1923 by Mack Sennett/Associated Exhibitors. Maximum statutory termâ€”28-year initial term plus 67-year renewal extension under the Sonny Bono CTEAâ€”equals 95 years, expiring December 31, 2018. The 1923 print entered US public domain on January 1, 2019; as of 2026 the 1930-or-earlier bright line applies unconditionally.",
+          "source": "US Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film: the 1923 print has no original recorded soundtrack. Any musical score present on a modern transfer is a separately protected work. Kino International's DVD edition adds a newly composed score alongside new intertitles (Â© 2008 Kino International Corp.); Flicker Alley's Blu-ray release similarly packages a modern score. Those added scores are protected works independent of the underlying PD footage. The Internet Archive transfer (archived May 2013, identifier THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols) does not carry a licensing notice for an added score, but any audio on any modern copy should be evaluated before use.",
+          "source": "Kino Lorber EDU â€” Mabel Normand: The Extra Girl and The Gusher",
+          "url": "https://kinolorberedu.com/film/mabelnormandtheextragirlandthegusher"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original story conceived by Mack Sennett; screenplay by Bernard McConville. No adaptation from any prior published work has been identifiedâ€”this is an original scenario created for the 1923 production. First published with the film's release October 28, 1923. The same 95-year maximum term applies; the underlying story entered US public domain on January 1, 2019.",
+          "source": "US Copyright Office Circular 15a â€” Duration of Copyright",
+          "url": "https://copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino International DVD (c. 2008) bears 'New titles Â© 2008 Kino International Corp.' and includes a commissioned musical scoreâ€”both elements are protected independently of the 1923 footage and remain so through at least 2103. Flicker Alley has released a Blu-ray edition of Mack Sennett material that includes this film; that release carries its own protected restoration creative additions (score, intertitle design). Using footage sourced from either commercial release without licensing their specific creative contributions is infringement even though the underlying footage is public domain.",
+          "source": "Kino Lorber EDU â€” Mabel Normand: The Extra Girl and The Gusher",
+          "url": "https://kinolorberedu.com/film/mabelnormandtheextragirlandthegusher"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1950,
+      1951,
+      1952
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search \"The Extra Girl\" (renewals ~1950, 1951, 1952)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Extra+Girl"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols",
+      "label": "The Extra Girl (1923) â€” full film, Internet Archive (archived May 2013, pre-commercial-restoration transfer)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Extra Girl is a five-reel Mack Sennett silent comedy released by Associated Exhibitors on October 28, 1923â€”the last feature Mabel Normand completed with Sennett and the last major picture of her career. Directed by F. Richard Jones from an original screenplay by Bernard McConville, it casts Normand as Sue Graham, a small-town girl who wins a studio talent contest but is assigned to the wardrobe department rather than the camera, until a lion she accidentally unleashes on the backlot provides the film's signature set-piece. Copyright was registered November 9, 1923; even under the maximum possible statutory term (28-year initial plus 67-year CTEA extension = 95 years), the 1923 print expired December 31, 2018 and entered US public domain on January 1, 2019. The underlying footage and original story are free to stream, excerpt, remix, license, and sell.\n\nThe practical rights trap is layered onto modern copies, not onto the 1923 footage itself. Kino International's DVD edition carries new intertitles Â© 2008 Kino International Corp. and a commissioned musical score; Flicker Alley's Blu-ray release adds its own protected creative elements. Both editions are protected works-within-works through at least 2103. Producers who want to use this film without a license should source from the Internet Archive transfer (archived May 2013, identifier THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols), which predates the commercial restorations and carries no restoration copyright notice, then supply an original or public-domain score. Any audio track pulled from a Kino or Flicker Alley copy must be licensed separately from the footage.",
+  "faq": [
+    [
+      "Can I use the Kino DVD version of The Extra Girl in my documentary?",
+      "Not without a license for Kino's additions. The 1923 footage is public domain, but the Kino DVD includes new intertitles (Â© 2008 Kino International Corp.) and a commissioned musical score, both of which are protected independently of the film itself. Source your footage from the Internet Archive transfer instead and supply your own score or public-domain music."
+    ],
+    [
+      "Can I sell a VOD or physical release built around The Extra Girl?",
+      "Yes, using the underlying 1923 footage from a public-domain source such as the Internet Archive transfer. You cannot replicate the Kino or Flicker Alley editions because their intertitles, scores, and restoration creative choices are protected. Add your own title cards and score, and the print and story layers are clearâ€”though verify current right-of-publicity law in your target jurisdiction regarding Mabel Normand's likeness in commercial contexts."
+    ]
+  ]
+}
