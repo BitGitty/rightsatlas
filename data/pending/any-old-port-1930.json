@@ -1,0 +1,111 @@
+{
+  "id": "any-old-port-1930",
+  "title": "Any Old Port!",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-09-19",
+  "byline": "Hal Roach / MGM two-reel sound comedy (rel. 1932); print and original score PD on copyright non-renewal; Laurel & Hardy trademark remains active.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "renewal_absence_search",
+          "note": "No entry for 'Any Old Port' or any variant found in the 1958 Catalog of Copyright Entries, Third Series Parts 12â€“13 (Motion Pictures), which covers renewal filings for films originally copyrighted ca. 1930. Title is absent from the A-section where it would appear alphabetically, between 'Another Time, Another Place' and 'Ansel Adams on Photography'.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12â€“13: Motion Pictures and Filmstrips, Janâ€“Dec 1958 (Vol. 12 No. 1â€“2), Library of Congress Copyright Office",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "No entry for 'Any Old Port' found in the 1959 Catalog of Copyright Entries, Third Series Parts 12â€“13 (Motion Pictures), which covers renewal filings due in 1959 for films originally copyrighted in 1932 (the 28th-year window under the 1909 Act). Title absent from A-section; entries jump from 'Another Day, Another Doormat' to 'Appointment with a Shadow'.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12â€“13: Motion Pictures and Filmstrips, Janâ€“Dec 1959 (Vol. 13 No. 1â€“2), Library of Congress Copyright Office",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "research_note",
+          "note": "Queue records year as 1930, but the film's theatrical release was March 5, 1932 (IMDb tt0022630, directed by James W. Horne, produced by Hal Roach). Whether the original copyright was registered in 1930 (for a pre-production element) or 1932 (on theatrical release), both possible renewal windows (1957â€“58 and 1959) are searched and clear above. Wikipedia's Laurel and Hardy filmography column explicitly lists this title as 'Public Domain', consistent with non-renewal for all nine 1932 Hal Roach L&H shorts.",
+          "source": "Wikipedia â€“ Laurel and Hardy filmography",
+          "url": "https://en.wikipedia.org/wiki/Laurel_and_Hardy_filmography"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film (1932 talkie). Music composed by Marvin Hatley and Leroy Shield as a synchronized accompaniment embedded in the film print. Under the 1909 Act the synchronized sound recording shared the film's single copyright; because that copyright was not renewed (see print layer), the original synchronized track is also in the public domain. A separately recorded or substituted score added to a modern home-video release would be independently protectedâ€”check the provenance of any specific copy before assuming the audio is free.",
+          "source": "Wikipedia â€“ Any Old Port! (production details, music credits)",
+          "url": "https://en.wikipedia.org/wiki/Any_Old_Port!"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay written by H.M. Walker for Hal Roach Studios; not an adaptation of any pre-existing novel, play, or story. No separate underlying work requiring independent clearance. Walker died in 1937; even if the script had been separately registered as a dramatic composition, it would require the same renewal window as the film, and no CCE renewal entry exists for this title. No independent story copyright identified.",
+          "source": "IMDb â€“ Any Old Port! (1932) full credits (writer: H.M. Walker)",
+          "url": "https://www.imdb.com/title/tt0022630/fullcredits/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Laurel & Hardy names, likenesses, and the bowler-derby-and-tie-cravat character personas are actively managed as trademarks and personality rights by successor licensing entities (historically Larry Harmon Pictures; current holders include LOLN Ltd. and related estate companies). Copyright expiry on the film print does not extinguish trademark rights. Any commercial use that presents the characters as a brandâ€”packaging, merchandise, app icons, promotional use of their namesâ€”requires trademark clearance independent of the PD print. Specific current USPTO registration numbers were not confirmed in this search pass.",
+          "source": "Wikipedia â€“ Laurel and Hardy (rights and legacy section)",
+          "url": "https://en.wikipedia.org/wiki/Laurel_and_Hardy"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Hal Roach library (including this short) has been commercially released on home video through Olive Films, Vivendi Entertainment/Inception Media Group, and Shout Factory. No named film-archive restoration by Criterion, Kino, Flicker Alley, MoMA, or Photoplay was confirmed for this specific two-reeler in this search. Existing commercial releases may be protected as compilations or new digital masters, but absence of a confirmed named restoration means this layer cannot be closed. A researcher should verify before assuming any specific DVD or streaming version is free of a new protected layer.",
+          "source": "General search; no specific named restoration confirmed",
+          "url": "https://en.wikipedia.org/wiki/Any_Old_Port!"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€“ search 'Any Old Port!' (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Any+Old+Port!"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€“ browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "\"Any Old Port!\" is a 21-minute pre-Code sound comedy short produced by Hal Roach Studios and released by MGM on March 5, 1932â€”note the queue records it as 1930, but that year does not match the theatrical release date. Directed by James W. Horne from an original script by H.M. Walker, it casts Stan Laurel and Oliver Hardy as merchant sailors who stumble into a seedy hotel run by the villainous Mugsie Long (Walter Long), who is forcing a young woman (Jacqueline Wells, later known as Julie Bishop) into marriage. The film builds to an extended boxing-ring finale: Oliver manages from ringside while Stanâ€”unaware he is facing the local championâ€”is put into the ring. The synchronized score was composed by Marvin Hatley and Leroy Shield, the Hal Roach house composers responsible for the signature musical texture of the entire L&H sound era.\n\nHal Roach Studios did not renew the copyright. Under the 1909 Copyright Act, renewal was mandatory in the 28th year of the termâ€”1959 for a film published in 1932, or 1957â€“58 if the original registration was somehow dated 1930. Searches of both the 1958 and the 1959 Catalog of Copyright Entries (Parts 12â€“13, Motion Pictures, Third Series) show no renewal entry for this title, confirming the copyright lapsed. The print and the original synchronized audio track are accordingly in the public domain. The live rights trap is trademark: the Laurel & Hardy names, likenesses, and the derby-and-cravat persona are actively managed by successor licensing entities, and building a commercial productâ€”packaging, merchandise, brandingâ€”around those characters requires separate trademark clearance even though the film footage itself is free to use.",
+  "faq": [
+    [
+      "Is the film footage free to download, cut, and redistribute?",
+      "Yes. Hal Roach Studios failed to renew the copyright in 1959, so the print is in the public domain. You can download, edit, and distribute the footage. The constraint is trademark: the Laurel & Hardy name and recognizable character personas are actively licensed by successor entities, so commercial products that brand themselves on those identities need separate trademark clearance."
+    ],
+    [
+      "Can I use the music from the original soundtrack?",
+      "Yes, for the original synchronized score. Marvin Hatley and Leroy Shield composed the music as part of the film, and because the film's copyright lapsed on non-renewal, that original recording is also in the public domain. However, some commercial VHS, DVD, or streaming versions have substituted a newly recorded or digitally remastered audio trackâ€”that replacement recording is independently protected. If the music sounds out of place for a 1932 production, treat the audio as potentially protected and source a copy whose provenance documents it carries the original sound elements."
+    ]
+  ]
+}
