@@ -1,0 +1,103 @@
+{
+  "id": "male-and-female-1919",
+  "title": "Male and Female",
+  "year": 1919,
+  "country": "US",
+  "last_verified": "2026-09-20",
+  "byline": "Cecil B. DeMille's 1919 hit for Famous Playersâ€“Lasky/Artcraft, starring Gloria Swanson and Thomas Meighan; based on J.M. Barrie's The Admirable Crichton (1902).",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released 1919 by Famous Playersâ€“Lasky / Artcraft Pictures (US). Under the 1909 Copyright Act the maximum term was 56 years (28-year initial + 28-year renewal); even if renewed, copyright would have expired no later than 1975. All US works published in 1930 or earlier are in the public domain by term expiry. No renewal for this title has been located in Catalog of Copyright Entries motion-picture volumes covering the 1946â€“1948 window.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film â€” no fixed recorded score existed on the 1919 prints. Every currently circulating copy carries a separately composed and independently copyrighted accompaniment: the Kino International (1997) restoration bears a score composed and performed by Sydney Jill Lehman; the Internet Archive item 'MaleAndFemale' explicitly states 'Music composed and copyrighted by Edward Rolf Boensnes.' Those recordings are protected regardless of the underlying film print's public-domain status.",
+          "source": "Internet Archive item metadata â€” MaleAndFemale",
+          "url": "https://archive.org/details/MaleAndFemale"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Screenplay by Jeanie Macpherson adapts 'The Admirable Crichton,' a stage play by J.M. Barrie first performed 4 November 1902 at the Duke of York's Theatre, London, and first published in book form in 1914. Both the source play and the 1919 US screenplay adaptation were published before 1930 and are in the US public domain by term expiry.",
+          "source": "Cornell Copyright Information Center â€” Copyright Term and the Public Domain",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A scholarly restoration was completed in 1997 by Film Preservation Associates / David Shepard, mastered from the George Eastman Museum's 35mm print, with score by Sydney Jill Lehman; released on VHS and DVD by Kino International. Flicker Alley issued a DVD in 2017 from the same George Eastman Museum source print. These restoration transfers are independently copyrighted works. Separately, Alpha Video and Passport Video issued lower-grade DVD-Rs from 16mm reduction prints.",
+          "source": "Silent Era home video database â€” Male and Female",
+          "url": "https://www.silentera.com/video/maleAndFemaleHV.html"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1946,
+      1947,
+      1948
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Male and Female' (renewals ~1946, 1947, 1948)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Male+and+Female"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/MALEANDFEMALE1919GloriaSwansonThomasMeighanLilaLeeDir.ByCecilB.DeMille",
+      "label": "Male and Female (1919) â€” Gloria Swanson, Thomas Meighan, dir. Cecil B. DeMille; silent films collection, ~115 min (Internet Archive, uploaded 2013)",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/MaleAndFemale",
+      "label": "Male and Female (1919) â€” Gloria Swanson; with composed score by Edward Rolf Boensnes (Internet Archive, uploaded 2016)",
+      "quality": "good"
+    }
+  ],
+  "editorial": "Male and Female is a 1919 Cecil B. DeMille production from Famous Playersâ€“Lasky distributed through Artcraft/Paramount, starring Gloria Swanson as the imperious Lady Mary Lasenby and Thomas Meighan as her imperturbable butler Crichton. Adapted by screenwriter Jeanie Macpherson from J.M. Barrie's 1902 social comedy The Admirable Crichton â€” retitled because Paramount feared audiences would misread 'Admirable' as 'Admiral' and mispronounce 'Crichton' â€” the film wraps Barrie's class-inversion satire in DeMille spectacle: lavish Edwardian interiors, a famous Babylonian fantasy sequence, and the unashamed display of wealth that defined the studio's Artcraft prestige line. Shot by Alvin Wyckoff and edited by Anne Bauchens, it returned over $1.25 million on a $168,000 budget and established Swanson as a major star.\n\nThe 1919 film print is unambiguously in the US public domain â€” all US works published in 1930 or earlier have cleared the maximum copyright term, and no renewal for Famous Playersâ€“Lasky's 1919 release has been located in the Catalog of Copyright Entries motion-picture volumes. The practical rights trap is the score layer: virtually every watchable copy in circulation carries a separately copyrighted musical accompaniment. The Kino International restoration (1997, score by Sydney Jill Lehman) and the Flicker Alley DVD (2017, same George Eastman Museum source print) are independently protected. Internet Archive uploads also carry original music â€” the 'MaleAndFemale' item explicitly states its score is copyrighted to Edward Rolf Boensnes. A creator wanting to reuse footage cleanly must either work from a mute print or commission new accompaniment; they cannot lift audio from any currently available polished release.",
+  "faq": [
+    [
+      "Can I use footage from Male and Female in a new film or video?",
+      "The underlying 1919 film print is in the US public domain and you may use the images freely. The catch is audio: every polished copy you are likely to find carries a separately composed, separately copyrighted score. You must strip the audio track or source a mute print. The Kino and Flicker Alley restoration transfers are also copyrighted works, so buying a disc from those labels does not license you to reproduce their restoration master."
+    ],
+    [
+      "Does it matter whether Famous Playersâ€“Lasky renewed the copyright around 1947?",
+      "Not for current purposes. The maximum term under the 1909 Copyright Act was 56 years (28 initial + 28 renewal), which would have expired no later than 1975 even with a timely renewal. The work additionally falls within the pre-1927 bright line: for any work published that early, renewal records are of historical interest only and do not affect public-domain status today."
+    ]
+  ]
+}

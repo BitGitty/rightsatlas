@@ -1,0 +1,109 @@
+{
+  "id": "blind-husbands-1919",
+  "title": "Blind Husbands",
+  "year": 1919,
+  "country": "US",
+  "last_verified": "2026-09-20",
+  "byline": "Written and directed by Erich von Stroheim; produced by Universal Film Manufacturing Company (released December 7, 1919).",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published December 7, 1919 by Universal Film Manufacturing Company in the United States. The maximum US copyright term for a 1919 publication â€” 28 years initial plus 28-year renewal â€” expired no later than 1975. All US works published through 1927 are in the public domain under current law.",
+          "source": "US Copyright Office Circular 15a â€” Copyright Duration",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Blind Husbands was released as a silent film with no recorded musical track; no original score is at issue. However, the 2021 Austrian Film Museum 4K digital restoration commissioned a new musical score by composer Andreas Eduardo Frank, performed and recorded specifically for that version. Any copy derived from the AFM restoration carries that separately protected sound recording and composition. Pre-restoration copies on the Internet Archive (uploaded 2016) do not include this score.",
+          "source": "Austrian Film Museum â€” Blind Husbands preservation project",
+          "url": "https://www.filmmuseum.at/en/collections/film_collection/film_preservation/projects_since_2002/blind_husbands"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The underlying story 'The Pinnacle' was an original scenario written by Erich von Stroheim expressly for this film and was not published separately before the film's December 7, 1919 US release. As an original work first published in the United States in 1919, it falls under the same term-expiry analysis as the print; the maximum 56-year term expired no later than 1975.",
+          "source": "US Copyright Office Circular 15a â€” Copyright Duration",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Austrian Film Museum (Vienna) completed a 4K digital restoration of Blind Husbands in 2021, premiered October 3, 2021 at Vienna's Konzerthaus. The restoration incorporated new protected creative elements: digital reconstruction of von Stroheim's original tinting and toning color scheme from production documents, digital recreation of two lost intertitles, reintegration of 41 shots removed in Universal's 1924 re-cut, and a newly commissioned score by Andreas Eduardo Frank. These new contributions make the AFM restoration a protected derivative work.",
+          "source": "Austrian Film Museum â€” Blind Husbands preservation project",
+          "url": "https://www.filmmuseum.at/en/collections/film_collection/film_preservation/projects_since_2002/blind_husbands"
+        },
+        {
+          "type": "research_note",
+          "note": "MoMA hosted the US premiere of the Austrian Film Museum restoration in January 2022 as part of its 'To Save and Project' festival series.",
+          "source": "Boxoffice Pro â€” Die Verlorene, Blind Husbands Are Standouts at MOMA's To Save and Project 2022 Series",
+          "url": "https://www.boxofficepro.com/die-verlorene-blind-husbands-are-standouts-at-momas-to-save-and-project-2022-series/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1946,
+      1947,
+      1948
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Blind Husbands' (renewals ~1946, 1947, 1948)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Blind+Husbands"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/BlindHusbands1919",
+      "label": "Blind Husbands (1919) â€” Internet Archive (US release cut, uploaded 2016, predates AFM restoration)",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/blind-husbands-1919",
+      "label": "Blind Husbands (1919) â€” Internet Archive (German intertitles with English subtitles, includes footage absent from US release)",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "Blind Husbands is Erich von Stroheim's 1919 directorial debut for Universal Film Manufacturing Company, adapted from his own scenario 'The Pinnacle.' Von Stroheim plays a predatory Austrian military officer who systematically pursues an American surgeon's neglected wife during an alpine vacation â€” a voyeuristic premise he wrote, directed, and starred in on a $42,000 budget. Universal retitled it for the December 7, 1919 release, and the film earned back its cost many times over, establishing von Stroheim as a major Hollywood voice. The original negative was later shortened by Universal and then destroyed in the 1940s; for decades, only an abbreviated 1924 re-release print at MoMA circulated in the United States.\n\nThe visual print is public domain â€” published in the US in 1919, the maximum 56-year copyright term expired no later than 1975 â€” but the significant rights trap is the 2021 Austrian Film Museum 4K restoration, which premiered at Vienna's Konzerthaus on October 3, 2021. That version contains new protected creative work: digitally reconstructed tinting and toning from production documents, recreated intertitles, 41 reintegrated shots, and a freshly commissioned score by Andreas Eduardo Frank. Creators must source from the pre-restoration Internet Archive copies (identifiers BlindHusbands1919 or blind-husbands-1919, both uploaded 2016) and supply their own music; any copy traceable to the AFM restoration requires clearing the score and the restoration's creative additions.",
+  "faq": [
+    [
+      "Can I use Blind Husbands footage in my film, video essay, or commercial project?",
+      "Yes â€” the visual print is public domain in the United States, published in 1919. Source footage from the Internet Archive copies (identifiers BlindHusbands1919 or blind-husbands-1919), which were uploaded in 2016 before the 2021 Austrian Film Museum restoration. Do not lift footage from the AFM-restored version without separately licensing its commissioned score by Andreas Eduardo Frank and addressing the restoration's protected creative elements."
+    ],
+    [
+      "Is the 2021 Austrian Film Museum restoration of Blind Husbands free to use?",
+      "No. While the underlying film footage is public domain, the AFM restoration adds new protectable creative work â€” digital color reconstruction, recreated intertitles, and a commissioned musical composition performed and recorded for that version. Distributing or publicly screening the AFM restoration requires clearing those elements. The older, unrestored copies on the Internet Archive carry no such restrictions."
+    ]
+  ]
+}
