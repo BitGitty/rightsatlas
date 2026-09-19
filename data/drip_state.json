@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-18",
+  "last_release": "2026-09-19",
   "log": [
     {
       "date": "2026-08-31",
@@ -76,6 +76,10 @@
     {
       "date": "2026-09-18",
       "film": "the-virginian-1929"
+    },
+    {
+      "date": "2026-09-19",
+      "film": "any-old-port-1930"
     }
   ]
 }
