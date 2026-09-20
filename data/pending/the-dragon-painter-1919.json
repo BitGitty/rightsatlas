@@ -1,0 +1,98 @@
+{
+  "id": "the-dragon-painter-1919",
+  "title": "The Dragon Painter",
+  "year": 1919,
+  "country": "US",
+  "last_verified": "2026-09-21",
+  "byline": "Directed by William Worthington; produced by Haworth Pictures Corporation (Sessue Hayakawa); distributed by Robertson-Cole.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US silent film first released 28 September 1919 by Haworth Pictures Corporation. Published in 1919, well before the current US term-expiry threshold; copyright has expired without renewal being required for PD determination.",
+          "source": "Cornell University Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film: the 1919 photographic print carries no recorded soundtrack. The 2024 Milestone Films/Kino Lorber Blu-ray includes two newly commissioned scores by Mas Koga and Makia Matsumura â€” independently copyrighted sound recordings separate from the 1919 original. Any copy that includes a recorded score carries that score's separate copyright.",
+          "source": "Milestone Films â€” Dragon Painter product page",
+          "url": "https://milestonefilms.com/products/dragon-painter"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Screenplay by Richard Schayer adapted from Mary McNeil Fenollosa's novel 'The Dragon Painter', first published 1906. Published in the United States before the current US term-expiry threshold; copyright on the source novel has expired.",
+          "source": "Cornell University Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
+          "url": "https://copyright.cornell.edu/publicdomain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "1988 preservation restoration by the American Film Institute in collaboration with George Eastman House and MoMA. A new 4K digital restoration completed in 2023 by the San Francisco Silent Film Festival, Eye Filmmuseum, and George Eastman Museum. Released commercially on Blu-ray by Milestone Films and Kino Lorber in 2024. These restoration presentations are separately copyrightable works and are not free to copy.",
+          "source": "Milestone Films â€” Dragon Painter product page",
+          "url": "https://milestonefilms.com/products/dragon-painter"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1946,
+      1947,
+      1948
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Dragon Painter' (renewals ~1946, 1947, 1948)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Dragon+Painter"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-dragon-painter",
+      "label": "The Dragon Painter (1919) â€” Internet Archive (verified item)",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Dragon Painter is a 1919 American silent romantic drama directed by William Worthington and produced by Sessue Hayakawa through his own Haworth Pictures Corporation, with distribution by Robertson-Cole. Hayakawa plays Tatsu, a reclusive mountain painter who believes his lost love was transformed into a dragon; location photography in Yosemite Valley and at Coronado, California's Japanese Tea Garden gives the film an expansive visual scale rare at its budget level. The Library of Congress selected it for the National Film Registry in 2014 as culturally, historically, and aesthetically significant. It is among the earliest American features with an almost entirely Asian cast, and the print layer â€” the original 1919 footage itself â€” is free to use in the United States.\n\nThe practical rights trap is the restoration layer. The 2024 Milestone Films and Kino Lorber Blu-ray presents a 2023 4K digital restoration by the San Francisco Silent Film Festival, Eye Filmmuseum, and George Eastman Museum; that presentation is a separately copyrightable work. The Blu-ray also carries two newly commissioned scores by Mas Koga and Makia Matsumura, each an independent protected recording. Copying from the Blu-ray means taking Milestone's licensed restoration version and those scores, not the bare 1919 original. The Internet Archive item (identifier: silent-the-dragon-painter) predates the 2023 restoration and is the more practicable PD source, though its provenance traces to the 1988 AFI/George Eastman House/MoMA restoration; anyone building commercial work on this footage should confirm the specific digitization's provenance before relying on it.",
+  "faq": [
+    [
+      "Can I incorporate footage from The Dragon Painter in my own film or video?",
+      "The 1919 film is public domain in the United States by copyright term expiry, so using a PD source print is legally permitted. The issue is which copy you source from. The Milestone Films/Kino Lorber Blu-ray contains the 2023 4K restoration by the San Francisco Silent Film Festival, Eye Filmmuseum, and George Eastman Museum â€” that specific version carries its own copyright. Use the Internet Archive copy or another pre-restoration digitization and verify its provenance before building commercial work on it."
+    ],
+    [
+      "Is the music in available copies of The Dragon Painter free to use?",
+      "No. As a silent film, the 1919 original has no recorded score. Any musical accompaniment in a modern copy was added later and is protected separately. The Milestone/Kino Lorber Blu-ray includes two scores by Mas Koga and Makia Matsumura commissioned for the 2024 release, both under their own copyright. To use the film with free music you must either add your own, or source a copy with pre-1928 period accompaniment whose copyright status you have independently verified."
+    ]
+  ]
+}
