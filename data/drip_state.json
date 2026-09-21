@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-20",
+  "last_release": "2026-09-21",
   "log": [
     {
       "date": "2026-08-31",
@@ -84,6 +84,10 @@
     {
       "date": "2026-09-20",
       "film": "all-quiet-on-the-western-front-1930"
+    },
+    {
+      "date": "2026-09-21",
+      "film": "hallelujah-1929"
     }
   ]
 }
