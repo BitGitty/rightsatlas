@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-21",
+ "checked": "2026-09-22",
  "items": {
   "All.Quiet.on.the.Western.Front.1930_201605": {
    "ok": true,
@@ -105,6 +105,11 @@
    "ok": true,
    "film": "greed-1924",
    "kind": "watch"
+  },
+  "hallelujah_1929": {
+   "ok": true,
+   "film": "hallelujah-1929",
+   "kind": "evidence"
   },
   "his_girl_friday": {
    "ok": true,
