@@ -31,6 +31,16 @@
    "film": "any-old-port-1930",
    "kind": "evidence"
   },
+  "BlindHusbands1919": {
+   "ok": true,
+   "film": "blind-husbands-1919",
+   "kind": "watch"
+  },
+  "blind-husbands-1919": {
+   "ok": true,
+   "film": "blind-husbands-1919",
+   "kind": "watch"
+  },
   "BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee": {
    "ok": true,
    "film": "blood-and-sand-1922",
