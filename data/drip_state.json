@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-24",
+  "last_release": "2026-09-25",
   "log": [
     {
       "date": "2026-08-31",
@@ -100,6 +100,10 @@
     {
       "date": "2026-09-24",
       "film": "the-dragon-painter-1919"
+    },
+    {
+      "date": "2026-09-25",
+      "film": "the-paleface-1922"
     }
   ]
 }

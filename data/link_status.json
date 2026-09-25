@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-24",
+ "checked": "2026-09-25",
  "items": {
   "All.Quiet.on.the.Western.Front.1930_201605": {
    "ok": true,
@@ -369,6 +369,11 @@
   "20211115_20211115_2301": {
    "ok": true,
    "film": "the-docks-of-new-york-1928",
+   "kind": "watch"
+  },
+  "silent-the-dragon-painter": {
+   "ok": true,
+   "film": "the-dragon-painter-1919",
    "kind": "watch"
   },
   "The_Four_Horsemen_of_the_Apocalypse": {
