@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-25",
+ "checked": "2026-09-26",
  "items": {
   "All.Quiet.on.the.Western.Front.1930_201605": {
    "ok": true,
@@ -460,6 +460,21 @@
    "ok": true,
    "film": "the-navigator-1924",
    "kind": "watch"
+  },
+  "the-paleface": {
+   "ok": true,
+   "film": "the-paleface-1922",
+   "kind": "watch"
+  },
+  "BusterKeatonsThePaleface": {
+   "ok": true,
+   "film": "the-paleface-1922",
+   "kind": "watch"
+  },
+  "catalogofcopyri3414libr": {
+   "ok": true,
+   "film": "the-paleface-1922",
+   "kind": "evidence"
   },
   "the-patchwork-girl-of-oz-1914": {
    "ok": true,
