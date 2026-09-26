@@ -1,0 +1,103 @@
+{
+  "id": "camille-1921",
+  "title": "Camille",
+  "year": 1921,
+  "country": "US",
+  "last_verified": "2026-09-27",
+  "byline": "Silent drama; dir. Ray C. Smallwood; starring Alla Nazimova and Rudolph Valentino; Nazimova Productions / Metro Pictures Corp., released 26 September 1921.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "US work published 1921; maximum 95-year copyright term under the Sonny Bono Copyright Term Extension Act expired 2016, making the print public domain regardless of whether a renewal was filed in 1948â€“1949.",
+          "source": "U.S. Copyright Office â€” 17 U.S.C. Â§304",
+          "url": "https://copyright.gov/title17/92chap3.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film â€” no original synchronized sound recording exists. Copies on home video and streaming carry newly composed or recorded scores (the Kino DVD features a Donald Sosin score); each is an independent, fully protected work. The bare visual print is free; any attached audio track must be cleared separately.",
+          "source": "Archive.org item metadata; standard silent-film analysis",
+          "url": "https://archive.org/details/Camille1921"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from La Dame aux CamÃ©lias by Alexandre Dumas fils (novel published 1848, play staged 1852). US copyright on the source expired no later than 1880 under 19th-century law; characters, plot, and dialogue of the novel are in the public domain.",
+          "source": "Duke Law Center for the Study of the Public Domain",
+          "url": "https://copyright.duke.edu/publicdomain/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Lorber released a DVD edition with a newly commissioned score, but whether the underlying print transfer constitutes a protectable restoration under US law was not confirmed at time of research. No Criterion, Flicker Alley, MoMA, or Photoplay restoration was identified. Research the specific edition before licensing a copy sourced from a commercial release.",
+          "source": "Research as of 2026-09-27",
+          "url": "https://archive.org/details/Camille1921"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1948,
+      1949,
+      1950
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'Camille' (renewals ~1948, 1949, 1950)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Camille"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Camille1921",
+      "label": "\"Camille\" (1921) â€” Internet Archive; Alla Nazimova, Rudolph Valentino; dir. Smallwood; 18K views",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/1921Camille",
+      "label": "1921 Camille â€” Internet Archive; alternate upload of same film; 8K views",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "Camille (1921) is a Nazimova Productions picture released by Metro on 26 September 1921, directed by Ray C. Smallwood with an Art Deco visual scheme designed by Natasha Rambova. It stars Alla Nazimova as Marguerite Gautier opposite a pre-Sheik Rudolph Valentino as Armand â€” one of the few surviving records of Valentino in a supporting ensemble rather than a solo vehicle â€” and functions as both a document of 1920s avant-garde design and a study in gender-fluid costuming that contemporary directors and designers regularly mine for reference.\n\nThe rights trap is the score, not the image. Every commercial release of this film carries a newly commissioned or recorded musical accompaniment, and that audio is a fully protected separate copyright. The Kino DVD features a Donald Sosin score; sourcing footage from that disc without a sync license for Sosin's recording creates infringement even though every visual frame is free. The archive.org copies circulate without the Kino audio track; use those for production, or plan to mute and replace any audio from a commercial copy.",
+  "faq": [
+    [
+      "Can I use footage from the 1921 Camille freely in a film or commercial project?",
+      "The visual print is public domain in the US â€” its 95-year copyright term expired in 2016. You can use every frame without clearance. The catch is audio: if your copy has a musical score, that recording is a separate, protected work. Source a silent print from the Internet Archive or strip and replace the audio track before publishing."
+    ],
+    [
+      "Does adapting or sampling from La Dame aux CamÃ©lias require clearing rights to the Dumas novel?",
+      "No. Alexandre Dumas fils published the novel in 1848; it has been in the public domain for over a century and is freely adaptable anywhere in the world. The 1921 film is likewise free, so you can draw on either the novel or the film without rights clearance for the underlying story."
+    ]
+  ]
+}
