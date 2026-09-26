@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-25",
+  "last_release": "2026-09-26",
   "log": [
     {
       "date": "2026-08-31",
@@ -104,6 +104,10 @@
     {
       "date": "2026-09-25",
       "film": "the-paleface-1922"
+    },
+    {
+      "date": "2026-09-26",
+      "film": "the-covered-wagon-1923"
     }
   ]
 }
