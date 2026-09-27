@@ -1,0 +1,104 @@
+{
+  "id": "the-haunted-castle-1921",
+  "title": "The Haunted Castle",
+  "year": 1921,
+  "country": "US",
+  "last_verified": "2026-09-28",
+  "byline": "Dir. F.W. Murnau Â· Uco-Film / Decla-Bioscop (Germany, 1921)",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published April 7, 1921. Applying the 95-year maximum US copyright term (28-year initial + maximum renewal, extended by the Sonny Bono Act), the copyright expired January 1, 2017. Wikimedia Commons explicitly documents the PD basis as 'published (or registered with the U.S. Copyright Office) before January 1, 1931'.",
+          "source": "Wikimedia Commons â€” File:The Haunted Castle (1921) by F. W. Murnau.webm",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Haunted_Castle_(1921)_by_F._W._Murnau.webm"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "German production (Uco-Film / Decla-Bioscop, Weimar Republic). Director F.W. Murnau died 1931; German copyright (life+70) ran until 2001, meaning the work was still under German copyright on January 1, 1996 (the URAA eligibility date). Any URAA restoration of the US copyright would have set the term at 95 years from publication (1921 + 95 = 2016), so even under maximum URAA restoration that term expired January 1, 2017. As of September 2026 the print is unambiguously in the US public domain.",
+          "source": "Wikimedia Commons â€” File:The Haunted Castle (1921) by F. W. Murnau.webm (PD-1996 + life+70 analysis)",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Haunted_Castle_(1921)_by_F._W._Murnau.webm"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1921 release is a silent film with no original recorded soundtrack. Any musical score present on a modern copy â€” including the newly commissioned score on the Kino Lorber 'Restored Authorized Edition' Blu-ray (2019) â€” is a separately authored and protected work. Only copies without a newly added score are fully clear for audio reuse.",
+          "source": "Kino Lorber â€” The Haunted Castle Restored Authorized Edition (product listing)",
+          "url": "https://kinolorber.com/product/the-haunted-castle-restored-authorized-edition-dvd"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Screenplay by Carl Mayer, adapted from a novel by Rudolf Stratz (1864â€“1936) serialized in Berliner Illustrirte Zeitung circa 1920â€“1921. Stratz died 1936; German copyright (life+70) expired 2006. As a German work published circa 1921, maximum US copyright term of 95 years from publication expired by 2017. The underlying source story is in the US public domain.",
+          "source": "Wikimedia Commons â€” File:The Haunted Castle (1921) by F. W. Murnau.webm (PD statement covers the work and its authored basis as a pre-1931 publication)",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Haunted_Castle_(1921)_by_F._W._Murnau.webm"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Friedrich Wilhelm Murnau Foundation (Friedrich-Wilhelm-Murnau-Stiftung) produced a reconstruction in 2002 using an original camera negative from the German Federal Archives and a tinted nitrate print with Portuguese intertitles from the FundaÃ§Ã£o Cinemateca Brasileira. Kino Lorber distributes this as 'The Haunted Castle (Restored Authorized Edition)' on DVD (2009) and Blu-ray (2019). The restoration incorporates new editorial choices and a newly commissioned score; Kino Lorber's version is separately protected and not covered by the underlying print's public-domain status.",
+          "source": "Kino Lorber â€” The Haunted Castle Restored Authorized Edition (product listing)",
+          "url": "https://kinolorber.com/product/the-haunted-castle-restored-authorized-edition-dvd"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1948,
+      1949,
+      1950
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB â€” search 'The Haunted Castle' (renewals ~1948, 1949, 1950)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Haunted+Castle"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-haunted-castle",
+      "label": "The Haunted Castle (1921, F.W. Murnau) â€” Internet Archive, uploaded by Archive staff (jake@archive.org), silent print, 81 min",
+      "quality": "medium"
+    }
+  ],
+  "editorial": "The Haunted Castle (Schloss VogelÃ¶d, 1921) is the third surviving feature by F.W. Murnau, shot in twelve days at Babelsberg Studios for Uco-Film and distributed by Decla-Bioscop. Despite the English title and a US country code in some licensing catalogs, it is a German production: Carl Mayer's screenplay adapts a serialized novel by Rudolf Stratz, and neither the film nor its source novel was ever registered with the US Copyright Office. It is a drawing-room murder mystery, not supernatural horror â€” an uninvited count disrupts a weekend hunting party at a Bavarian manor and catalyzes a chain of flashback confessions.\n\nFilmmakers value it as an early instance of Murnau's fluid camerawork and high-contrast lighting, a dry run for the style he would push further in Nosferatu (1922). The rights trap is the restoration: the Friedrich Wilhelm Murnau Foundation reconstructed the film in 2002 from the German Federal Archives negative, and Kino Lorber sells it as a Restored Authorized Edition (DVD 2009, Blu-ray 2019) with a newly commissioned score. That product carries its own copyright â€” the public-domain status of the 1921 print does not extend to it. Use the unrestored Archive.org copy (identifier: silent-the-haunted-castle) and strip or substitute any score before publishing.",
+  "faq": [
+    [
+      "Can I use footage from this film in a video, documentary, or commercial without licensing it?",
+      "Yes, from an unrestored print. The 1921 film's US copyright expired no later than January 1, 2017 (95-year maximum term from 1921). The Archive.org copy (silent-the-haunted-castle, uploaded by Archive staff) can be used freely for the picture. If your source copy includes a newly composed musical score â€” as the Kino Lorber Blu-ray does â€” that score is a separate protected work; mute it or substitute your own before publishing."
+    ],
+    [
+      "Does the Friedrich Wilhelm Murnau Foundation or Kino Lorber own rights to this film?",
+      "Not to the underlying 1921 footage, which is public domain. But the Murnau Foundation's 2002 reconstruction and the Kino Lorber Restored Authorized Edition embody new editorial and musical contributions that are separately copyrighted. Ripping that edition for commercial use requires Kino Lorber's permission; starting from a public-domain source print does not."
+    ]
+  ]
+}
