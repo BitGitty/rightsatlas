@@ -3,23 +3,23 @@
   "title": "J'accuse!",
   "year": 1919,
   "country": "US",
-  "last_verified": "2026-09-27",
-  "byline": "Directed by Abel Gance; produced by PathÃ© FrÃ¨res, France. US release October 1921 via United Artists as I Accuse.",
+  "last_verified": "2026-09-28",
+  "byline": "Directed by Abel Gance; produced by Charles PathÃ© (PathÃ© FrÃ¨res, France); US theatrical release 1921 via United Artists",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "J'accuse! was first published in France in 1919 (a PathÃ© FrÃ¨res production). Under the maximum possible US copyright term â€” 28 years plus the 67-year extension enacted by the Sonny Bono CTEA â€” protection could run at most 95 years from the year of publication. 1919 + 95 = 2014, meaning any US copyright in this film expired no later than January 1, 2015. The US release as I Accuse through United Artists in October 1921 does not extend this: 1921 + 95 = 2016, still fully elapsed as of 2026. All terms have run.",
-          "source": "17 U.S.C. Â§ 304(b); Sonny Bono Copyright Term Extension Act, Pub. L. 105-298 (1998)",
-          "url": "https://copyright.gov/title17/92chap3.html"
+          "note": "French film, first US theatrical release 1921 (Charles PathÃ©/PathÃ© FrÃ¨res production, United Artists distribution). The maximum US copyright term for a 1919 publication is 75 years from original copyright date â€” a 28-year initial term plus a 47-year renewal term under 17 U.S.C. Â§ 304(b) as amended by the 1976 Copyright Act, giving a ceiling of 1919 + 75 = December 31, 1994. The 1998 Sonny Bono Copyright Term Extension Act added 20 years only to copyrights subsisting on October 27, 1998; a 1919 work's term had already lapsed in 1994 and could not be revived. The print has been in the US public domain since at least January 1, 1995.",
+          "source": "17 U.S.C. Â§Â§ 304(a)â€“(b); Cornell LII",
+          "url": "https://www.law.cornell.edu/uscode/text/17/304"
         },
         {
           "type": "uraa_analysis",
-          "note": "J'accuse! is a French production; France has been a Berne Convention member since 1887. Under 17 U.S.C. Â§ 104A (URAA, effective January 1, 1996), copyright could have been restored if the work entered US public domain due to formality failure â€” e.g., no US registration on the 1921 United Artists release, or failure to renew a registered copyright in the 1946â€“1949 window. However, even a fully restored URAA copyright receives only the remainder of the 95-year US copyright term measured from first publication. With first publication in 1919, that remainder expired January 1, 2015; reckoned from the 1921 US release date, January 1, 2017. Either calculation places the work firmly in the public domain as of 2026. URAA restoration provides no ongoing protection for a film of this vintage.",
-          "source": "17 U.S.C. Â§ 104A â€” Copyright in restored works (URAA)",
-          "url": "https://copyright.gov/title17/92chap1.html#104a"
+          "note": "French production by Charles PathÃ©/PathÃ© FrÃ¨res. Director Abel Gance died November 10, 1981; French copyright (life + 70 years + wartime extensions) was active on January 1, 1996, satisfying the URAA eligibility condition for source-country protection. However, 17 U.S.C. Â§ 104A restores only the 'remainder' of the US term the work would have had if never in the public domain. For a 1919 publication, the maximum US term (75 years) expired December 31, 1994 â€” before URAA's effective date of January 1, 1996. No positive remainder exists; URAA cannot restore this work.",
+          "source": "17 U.S.C. Â§ 104A(a)(1)(B); Golan v. Holder, 565 U.S. 302 (2012)",
+          "url": "https://www.law.cornell.edu/uscode/text/17/104A"
         }
       ]
     },
@@ -28,9 +28,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "J'accuse! (1919) is a silent film released without a fixed recorded score; the underlying silent print is in the public domain. The 2007/2008 Lobster Films restoration (distributed on DVD by Flicker Alley) includes a new orchestral score composed by Robert Israel, which is an independently copyrighted work. Copies of this film in widespread circulation â€” including many online streams â€” frequently carry that score or other modern accompaniments. Any copy embedding music should be treated as potentially incorporating a protected composition or sound recording until the source is confirmed.",
-          "source": "San Francisco Silent Film Festival â€” J'accuse screening notes (live score by Robert Israel on Mighty Wurlitzer noted)",
-          "url": "https://silentfilm.org/jaccuse/"
+          "note": "Silent film; no synchronized recorded score exists from 1919. Any original live-performance piano or orchestral cue sheets from 1919 are PD by term. The 2008 Lobster Films/Flicker Alley restoration commissioned a new orchestral score composed by Robert Israel, which carries its own copyright. Nearly all commercially available copies â€” the Flicker Alley DVD, theatrical DCP, and most streaming uploads â€” carry the Israel score, not a period accompaniment.",
+          "source": "Flicker Alley restoration documentation",
+          "url": "https://flickeralley.com/pages/j-accuse-dcp"
         }
       ]
     },
@@ -39,9 +39,9 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The story and screenplay were written by Abel Gance as an original work conceived for this film â€” no source novel, play, or prior published literary text has been identified as its basis. The story was first published as part of the 1919 film. All US copyright terms have expired on the same analysis as the print layer: 1919 + 95 years = expired January 1, 2015. Note: Abel Gance's 1938 remake J'accuse! is a separate copyright and is not at issue here.",
-          "source": "17 U.S.C. Â§ 304(b); CTEA",
-          "url": "https://copyright.gov/title17/92chap3.html"
+          "note": "Original screenplay by Abel Gance; not an adaptation of any prior published work. Gance was thematically influenced by Henri Barbusse's 1916 novel 'Le Feu' (Under Fire), but J'accuse! is an independent creation â€” no adaptation rights encumber it. Story was first fixed and published as part of the 1919 film. As a film element, its US copyright term followed the same 75-year ceiling as the print, expiring December 31, 1994.",
+          "source": "17 U.S.C. Â§Â§ 304(a)â€“(b); Cornell LII",
+          "url": "https://www.law.cornell.edu/uscode/text/17/304"
         }
       ]
     },
@@ -54,9 +54,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A major restoration was completed c. 2007â€“2008 by Lobster Films Studios (Paris) in collaboration with Nederlands Filmmuseum. Source materials were drawn from the Lobster Collection, Czech Film Archive, CinÃ©mathÃ¨que FranÃ§aise, and Nederlands Filmmuseum â€” six archival prints in total â€” with one reel of original camera negative and the only surviving tinted/toned print used as primary elements. The restoration was released as a two-disc DVD by Flicker Alley. Gartenberg Media Enterprises separately distributes a restoration version to institutions. The Lobster Films restoration and the Robert Israel orchestral score commissioned for it are independently copyrighted works and are not public domain.",
-          "source": "Gartenberg Media Enterprises â€” J'accuse distribution page; Lobster Films shop",
-          "url": "https://www.gartenbergmedia.com/dvd-distribution-and-sales/international-silent-classics/jaccuse-a-film-by-able-gance"
+          "note": "2008 restoration by Lobster Films (Paris) in collaboration with the Nederlands Filmmuseum, with additional materials from the CinÃ©mathÃ¨que FranÃ§aise and the Czech National Film Archive; released on DVD and DCP by Flicker Alley with a new orchestral score by Robert Israel. Source elements included the only known surviving tinted nitrate copy (Netherlands Filmmuseum) and a single reel of original camera negative. This restoration is independently protected. An earlier Turner Classic Movies DVD collaboration predates the 2008 version. Raw unrestored elements are accessible via the Internet Archive community collection.",
+          "source": "Flicker Alley DCP page; Lobster Films shop",
+          "url": "https://flickeralley.com/pages/j-accuse-dcp"
         }
       ]
     }
@@ -74,8 +74,8 @@
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=J'accuse!"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "Catalog of Copyright Entries: Motion Pictures 1940â€“1949 (archive.org) â€” OCR-searchable cumulative volume; a text search for 'accuse' returned no J'accuse renewal in this run, but verify by hand",
+        "url": "https://archive.org/details/motionpict19401949librrich"
       },
       {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
@@ -86,19 +86,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/j-accuse.-1919",
-      "label": "J'Accuse 1919 â€” Abel Gance; French silent film with English subtitles; Internet Archive Open Source Movies (confirmed identifier)",
-      "quality": "good"
+      "label": "J'Accuse 1919 (Abel Gance) â€” community upload with English subtitles over original French intertitles; unrestored original print, ~13 GB",
+      "quality": "medium"
     }
   ],
-  "editorial": "J'accuse! is Abel Gance's 1919 anti-war epic produced by PathÃ© FrÃ¨res, built around a love triangle between two men conscripted into World War I. Its climactic 'return of the dead' sequence â€” in which fallen soldiers rise from their graves to demand that the living justify the carnage â€” was filmed using actual French poilus on brief leave from the front; Gance later said most were dead within weeks of the shoot. D.W. Griffith attended a private New York screening in 1921, was deeply moved, and arranged US distribution through United Artists under the title I Accuse, with a happy ending grafted on to suit American audiences.\n\nThe 1919 silent print is in the US public domain: the full 95-year copyright term ran from 1919 and expired January 1, 2015, and even a hypothetical URAA restoration of a lapsed foreign copyright would have expired by the same date. The rights trap is the 2007/2008 Lobster Films restoration, assembled by the Nederlands Filmmuseum from six archival sources including a reel of original camera negative and the only surviving tinted print, then released by Flicker Alley on DVD. That restoration and its Robert Israel orchestral score carry independent copyrights. Creators must source an unrestored print â€” the Internet Archive copy at archive.org/details/j-accuse.-1919 is confirmed as such â€” rather than rip the Flicker Alley disc.",
+  "editorial": "J'accuse! (1919) is a French silent epic written and directed by Abel Gance, produced by Charles PathÃ© under the PathÃ© FrÃ¨res banner, and first released in France on April 25, 1919. The film follows poet Jean Diaz and his romantic rival FranÃ§ois as both are conscripted into WWI, culminating in Gance's celebrated 'Return of the Dead' sequence â€” fallen soldiers rise from their graves to judge whether France was worthy of their sacrifice, a scene Gance filmed using actual troops briefly recalled from the Verdun front. The US theatrical release came in 1921 through United Artists, with D.W. Griffith's support. Gance returned to the premise with a sound remake under the same title in 1938.\n\nFor a creator, the underlying 1919 print is in the US public domain without ambiguity: the maximum US copyright term for any 1919 publication is 75 years (28-year initial term plus 47-year renewal under the 1976 Act), expiring December 31, 1994. URAA restoration does not revive it â€” the 'remainder' URAA could restore is zero because the entire 75-year ceiling had already run out before URAA's effective date of January 1, 1996. The genuine trap is the 2008 Lobster Films and Flicker Alley restoration, built from the only surviving tinted nitrate copy at the Nederlands Filmmuseum and featuring a new orchestral score by Robert Israel. That restoration and score are separately protected. Virtually every commercially distributed copy â€” the Flicker Alley DVD, the theatrical DCP, and most streaming versions â€” is the Lobster Films restoration, not the raw 1919 print. Before using footage in a project, confirm your source is the unrestored archival material, not a downstream re-encode of the 2008 restoration.",
   "faq": [
     [
-      "Can I use this film in a commercial project or YouTube video?",
-      "The 1919 silent print is in the US public domain â€” all copyright terms expired by January 1, 2015 at the latest. The trap is which copy you use: the 2007/2008 Lobster Films restoration sold by Flicker Alley on DVD is independently copyrighted, and the Robert Israel score embedded in it is protected separately. Download the unrestored print from Internet Archive (archive.org/details/j-accuse.-1919) rather than sourcing from the commercial disc."
+      "Is the 1919 J'accuse! print free to use in the US?",
+      "The 1919 print is in the US public domain â€” the maximum 75-year copyright term (under the 1976 Copyright Act) expired December 31, 1994. However, the 2008 Lobster Films/Flicker Alley restoration with Robert Israel's orchestral score is separately protected. If your source is the Flicker Alley DVD, a theatrical DCP, or most streaming copies, you are working from a protected restoration, not the public domain source material."
     ],
     [
-      "Is the musical accompaniment on this film public domain?",
-      "The 1919 release was silent â€” there is no original sound track. The score most people encounter with modern copies is Robert Israel's orchestral composition written for the 2007 Lobster Films restoration; that piece is under copyright. To use the film with music, either present it silently, license a score separately, or commission your own accompaniment."
+      "Does the French origin of J'accuse! create a URAA copyright problem in the US?",
+      "No, not for a 1919 publication. URAA (17 U.S.C. Â§ 104A) restores foreign works only for the 'remainder' of the US copyright term. The maximum US term for a 1919 work was 75 years, expiring December 31, 1994 â€” before URAA's effective date of January 1, 1996. There is no remaining term to restore. URAA raises a genuine issue for foreign works published roughly 1923â€“1977, but not for this film."
     ]
   ]
 }
