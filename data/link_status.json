@@ -363,8 +363,13 @@
   },
   "catalogofcopyrig3111213li": {
    "ok": true,
-   "film": "the-dawn-patrol-1930",
+   "film": "the-divorcee-1930",
    "kind": "evidence"
+  },
+  "the-divorcee_1930": {
+   "ok": true,
+   "film": "the-divorcee-1930",
+   "kind": "watch"
   },
   "the-docks-of-new-york_202506": {
    "ok": true,
