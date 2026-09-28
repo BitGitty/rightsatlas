@@ -56,6 +56,16 @@
    "film": "cabinet-of-dr-caligari-1920",
    "kind": "watch"
   },
+  "Camille1921": {
+   "ok": true,
+   "film": "camille-1921",
+   "kind": "evidence"
+  },
+  "1921Camille": {
+   "ok": true,
+   "film": "camille-1921",
+   "kind": "watch"
+  },
   "CarnivalofSouls": {
    "ok": true,
    "film": "carnival-of-souls-1962",
