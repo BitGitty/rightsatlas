@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-09-29",
+  "last_release": "2026-09-30",
   "log": [
     {
       "date": "2026-08-31",
@@ -120,6 +120,10 @@
     {
       "date": "2026-09-29",
       "film": "the-haunted-castle-1921"
+    },
+    {
+      "date": "2026-09-30",
+      "film": "the-extra-girl-1923"
     }
   ]
 }
