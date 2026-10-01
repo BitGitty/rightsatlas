@@ -1,6 +1,11 @@
 {
  "checked": "2026-10-01",
  "items": {
+  "a-dogs-life-1918-directed-by-charlie-chaplin": {
+   "ok": true,
+   "film": "a-dog-s-life-1918",
+   "kind": "watch"
+  },
   "All.Quiet.on.the.Western.Front.1930_201605": {
    "ok": true,
    "film": "all-quiet-on-the-western-front-1930",
