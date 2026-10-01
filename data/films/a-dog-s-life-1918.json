@@ -3,17 +3,17 @@
   "title": "A Dog's Life",
   "year": 1918,
   "country": "US",
-  "last_verified": "2026-10-01",
-  "byline": "Dir. Charles Chaplin Â· First National Pictures, 1918",
+  "last_verified": "2026-10-02",
+  "byline": "Written, produced, and directed by Charlie Chaplin; distributed by First National Pictures (1918)",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "US work first published April 14, 1918, with copyright registered by Charles Chaplin. Under the 1909 Copyright Act the maximum term was 28 years (initial) + 28 years (renewal) = 56 years, placing absolute expiry no later than 1974 regardless of renewal. No URAA restoration applies to domestic US works.",
-          "source": "Duke Center for the Study of the Public Domain â€” Copyright Term and the Public Domain in the United States",
-          "url": "https://copyright.duke.edu/public-domain/"
+          "note": "Published 14 April 1918. Under US law the maximum copyright term for a pre-1978 work is 95 years from publication date (28-year initial + renewal, as extended by the CTEA). That term ran out in 2013 (1918 + 95). As of 2026 the print is in the public domain regardless of whether a renewal was ever filed.",
+          "source": "Cornell Copyright Term and the Public Domain in the United States â€” authoritative term chart",
+          "url": "https://copyright.cornell.edu/publicdomain"
         }
       ]
     },
@@ -22,8 +22,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The 1918 theatrical release had no fixed synchronized score; it was a silent film shown with varying live accompaniment. In 1959 Chaplin composed a new orchestral score (with Eric James as musical associate) for The Chaplin Revue, which covers this film. Roy Export Company S.A.S. holds that score copyright. Conductor Timothy Brock restored and adapted the score for live performance in 2003, commissioned by Roy Export S.A.S. Any copy carrying the 1959 Chaplin score contains a separately protected work.",
-          "source": "Timothy Brock â€” A Dog's Life score page",
+          "note": "The 1918 film is a silent picture; no synchronized score existed in 1918. Charlie Chaplin composed a new orchestral score in 1959 for a theatrical re-release. That 1959 score is a separate, still-protected work. Timothy Brock restored the Chaplin score for live performance (world premiere Bologna, Cinema Ritrovato 2003) and created a reduced-orchestra version in 2004. Both the 1959 Chaplin score and Brock's 2003 arrangement carry independent copyright. Virtually every commercially-circulating version of the film uses one of these protected sound elements.",
+          "source": "Timothy Brock â€” A Dog's Life score page (composer's own site confirming 1959 Chaplin authorship and 2003 Brock restoration)",
           "url": "https://www.timothybrock.com/scores/a-dogs-life"
         }
       ]
@@ -33,23 +33,30 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Original story written by Charles Chaplin, published solely as part of the film on April 14, 1918; no prior independent literary publication. Governed by the same 1909 Act term as the print: maximum 56-year term expired no later than 1974.",
-          "source": "Duke Center for the Study of the Public Domain â€” Copyright Term and the Public Domain in the United States",
-          "url": "https://copyright.duke.edu/public-domain/"
+          "note": "The screenplay is an original story by Charlie Chaplin with no identified prior literary source; it was published as part of the 1918 film. The same 95-year maximum US term applies (1918 + 95 = 2013). The story copyright has expired.",
+          "source": "Cornell Copyright Term and the Public Domain in the United States â€” authoritative term chart",
+          "url": "https://copyright.cornell.edu/publicdomain"
         }
       ]
     },
     "trademark": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "'CHARLIE CHAPLIN,' 'THE LITTLE TRAMP,' and related character images are active trademarks and service marks owned by Bubbles Incorporated S.A., a Chaplin estate company. Roy Export S.A.S. also holds marks. These rights survive copyright expiry and independently restrict commercial use of the Tramp character's likeness and Chaplin's name.",
+          "source": "Charlie Chaplin Official Website â€” Roy Export S.A.S. rights page",
+          "url": "https://www.charliechaplin.com/en/contacts/articles/130-Roy-Export-SAS"
+        }
+      ]
     },
     "restorations": {
       "status": "not_pd",
       "evidence": [
         {
           "type": "research_note",
-          "note": "2026 4K reconstruction by MoMA at Cineric laboratory, produced under the aegis of Association Chaplin and Roy Export Company Establishment. Rights credited to 'ROY EXPORT COMPANY ESTABLISHMENT'. This reconstruction constitutes new copyrightable authorship in the selection, assembly, and digital work; it is not a mere reproduction of the PD print.",
-          "source": "Il Cinema Ritrovato 2026 â€” A Dog's Life screening record",
+          "note": "A 4K restoration was produced by MoMA under the aegis of Association Chaplin and Roy Export S.A.S. from the 35mm A-negative held at MoMA, as part of the Cineteca di Bologna Chaplin Project (begun 1999). Restoration work carried out at Cineric laboratory. The restoration carries a Roy Export S.A.S. copyright notice and is not in the public domain.",
+          "source": "Il Cinema Ritrovato â€” A Dog's Life film page (Cineteca di Bologna festival)",
           "url": "https://ilcinemaritrovato.it/en/film/a-dogs-life/"
         }
       ]
@@ -80,19 +87,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/a-dogs-life-1918-directed-by-charlie-chaplin",
-      "label": "A Dog's Life (1918) â€” Internet Archive (uploaded Aug 2024; 1440Ã—1080 MPEG4; verify musical track provenance before broadcast or distribution use)",
-      "quality": "fair"
+      "label": "A Dog's Life (1918) â€” Charlie Chaplin; Internet Archive",
+      "quality": "good"
     }
   ],
-  "editorial": "Charlie Chaplin wrote, produced, and directed this three-reel silent comedy, released April 14, 1918, as the first film under his landmark $1 million contract with First National Pictures Inc. Chaplin registered the copyright in his own name that April; under the 1909 Copyright Act the initial 28-year term ran to 1946, and even a timely renewal could have extended protection only to 1974. Because no US law revives expired domestic copyrights, the silent print has been in the public domain since the mid-1970s. The story is also Chaplin's own original work with no underlying source to track.\n\nThe live rights trap is the score. The 1918 original was exhibited with varying live accompaniment and had no fixed synchronized track. In 1959 Chaplin composed a new orchestral score (with Eric James as musical associate) for The Chaplin Revue; conductor Timothy Brock later restored that score for live performance in 2003 under commission from Roy Export Company S.A.S., which holds the score copyright. A 2026 MoMA 4K reconstructionâ€”made at Cineric laboratory under Association Chaplin and Roy Export Company Establishmentâ€”adds a further layer of protected authorship in the restoration itself. Every commercial release through Criterion, MK2, or the official Chaplin channel carries one or both protected layers. The Archive.org copy uploaded in 2024 includes a musical track whose copyright status should be confirmed independently before any broadcast or distribution use.",
+  "editorial": "\"A Dog's Life\" was the first film Charlie Chaplin completed under his landmark $1 million contract with First National Pictures, signed in 1917. Released April 14, 1918, the 33-minute comedy was shot at Chaplin's own studio on Lillian Way, Los Angeles, and photographed by Roland Totheroh. Chaplin plays the Tramp alongside Edna Purviance as a dance-hall singer; the stray dog Scraps was played by a real dog the production acquired. The 1918 print entered the public domain no later than 2013, when the 95-year maximum US copyright term from its publication year ran out, and unscored copies circulate freely on the Internet Archive.\n\nThe live rights trap here is twofold and easy to walk into. First, Chaplin composed a synchronized orchestral score in 1959 for a theatrical re-release, and conductor Timothy Brock restored that score in 2003; every widely-distributed version of the film carries one of these protected sound elements, both controlled by Roy Export S.A.S. A creator who lifts footage from a scored copy is not working from public-domain material. Second, the Tramp characterâ€”costume, gait, and likenessâ€”is an active trademark held by Bubbles Incorporated S.A., a Chaplin estate entity separate from the copyright holder. Copyright expiry did not extinguish those marks. A documentary quoting silent footage is on firm ground; an advertisement or branded product featuring the Tramp is not.",
   "faq": [
     [
-      "Is the film footage itself free to use in the US?",
-      "The silent print is in the public domain by copyright term expiry â€” Chaplin registered the copyright in April 1918, and the 56-year maximum under the 1909 Act expired no later than 1974. Confirm that your source copy does not carry the 1959 Chaplin orchestral score (copyrighted by Roy Export Company S.A.S.) or originate from the 2026 MoMA restoration, both of which are separately protected."
+      "Can I freely use footage from this film?",
+      "The 1918 silent print is in the public domain; you can use it. The catch is sound: nearly every copy in wide distribution uses Chaplin's 1959 score or Brock's 2003 restoration of it, both still under copyright and controlled by Roy Export S.A.S. Download a mute (silent) copy from the Internet Archive and add your own music or silence."
     ],
     [
-      "Can I use the version on the Criterion Channel or other commercial streaming platforms?",
-      "No. Those versions use the 2026 MoMA 4K restoration and/or the 1959 Chaplin score, both under Roy Export Company copyright. Source your copy from an archive that can confirm it carries only a public-domain or royalty-free musical accompaniment, or license the score separately from Roy Export S.A.S."
+      "The film is public domain â€” does that mean the Tramp character is free to use commercially?",
+      "No. Copyright and trademark are separate bodies of law. Bubbles Incorporated S.A. holds active trademark and personality rights over the Little Tramp character and Chaplin's likeness. You can quote the film; you cannot use the Tramp as a brand mark, in advertising, or on merchandise without a license from the Chaplin estate."
     ]
   ]
 }
