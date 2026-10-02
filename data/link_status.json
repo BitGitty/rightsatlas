@@ -36,6 +36,16 @@
    "film": "any-old-port-1930",
    "kind": "evidence"
   },
+  "silent-ben-hur-a-tale-of-the-christ-1925": {
+   "ok": true,
+   "film": "ben-hur-1925",
+   "kind": "watch"
+  },
+  "ben-hur-a-tale-of-the-christ-1925": {
+   "ok": true,
+   "film": "ben-hur-1925",
+   "kind": "watch"
+  },
   "BlindHusbands1919": {
    "ok": true,
    "film": "blind-husbands-1919",
