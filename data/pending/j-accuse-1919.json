@@ -3,22 +3,22 @@
   "title": "J'accuse!",
   "year": 1919,
   "country": "US",
-  "last_verified": "2026-10-03",
-  "byline": "Abel Gance (dir.), PathÃ© FrÃ¨res, 1919",
+  "last_verified": "2026-10-04",
+  "byline": "Dir. Abel Gance; prod. PathÃ© FrÃ¨res (France, 1919). US theatrical release October 1921 as 'I Accuse' via United Artists.",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1919; the maximum US copyright term for pre-1978 works is 95 years from publication (28-year initial term + 67-year CTEA extension), placing any valid copyright no later than 2014. As of 2026 the print is irrevocably in the public domain by term expiry.",
-          "source": "Cornell University Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
-          "url": "https://copyright.cornell.edu/publicdomain"
+          "note": "First published France, April 1919. Any US copyright on a 1919 work carries a maximum 95-year term expiring January 1, 2015. Published before 1930, so firmly within the pre-1930 bright line for US public domain by term as of 2026.",
+          "source": "Duke Center for the Study of the Public Domain â€” Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
         },
         {
           "type": "uraa_analysis",
-          "note": "J'accuse! is a French production (PathÃ© FrÃ¨res, Paris). Abel Gance died 10 November 1981; French copyright runs life+70 years, expiring 2051, so the work was under French protection on 1 January 1996 (URAA eligibility date). URAA section 104A may therefore have restored any lapsed US copyright caused by non-renewal in 1946â€“1947. However, even a fully restored URAA term is capped at 95 years from the year of US publication (1919 + 95 = 2014). That term has expired; the print is in the US public domain regardless of whether URAA restoration occurred.",
-          "source": "U.S. Copyright Office Circular 38b â€” Highlights of Copyright Amendments Contained in the Uruguay Round Agreements Act",
+          "note": "J'accuse! is a French work (PathÃ©/Gance). France is a URAA-eligible WTO member. Abel Gance died November 10, 1981; the work was still protected under French law on January 1, 1996 (French term: 70 years pma, running to approximately 2051). Under 17 U.S.C. Â§ 104A, URAA would have restored US copyright effective January 1, 1996. However, the maximum restored term â€” the remainder of the 95-year US copyright term calculated from first publication in 1919 â€” expired January 1, 2015. The print is PD in the US by exhaustion of that URAA-restored term.",
+          "source": "U.S. Copyright Office Circular 38b â€” URAA and Copyright Restoration",
           "url": "https://www.copyright.gov/circs/circ38b.pdf"
         }
       ]
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "J'accuse! (1919) is a silent film with no original synchronized score. The 2007 Lobster Films / Nederlands Filmmuseum restoration was released commercially by Flicker Alley with a newly commissioned full symphonic score by composer Robert Israel. That score is an independent copyrighted work separate from the 1919 photographic images. Prints sourced from the Flicker Alley release carry Israel's protected score; unaccompanied prints or prints with non-Flicker-Alley accompaniment do not.",
+          "note": "J'accuse! (1919) is a silent film; no recorded score accompanies the original print, and that print is PD. Commercial and restoration releases uniformly add modern scores, each of which is an independently protected sound recording. The 2018 Flicker Alley release pairs the restored print with composer Robert Israel's newly commissioned symphonic score. That audio track is not cleared by the print's PD status.",
           "source": "Flicker Alley â€” J'Accuse: A Film by Abel Gance (product page)",
           "url": "https://flickeralley.com/products/41384318-jaccuse-a-film-by-abel-gance"
         }
@@ -39,9 +39,9 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The screenplay is an original work written by Abel Gance specifically for this film; no underlying literary source has been identified. As a work first embodied in the 1919 film, the same 95-year US copyright ceiling applies (expiry 2014). The story layer is coextensive with the print and is in the public domain by the same term expiry.",
-          "source": "Cornell University Copyright Information Center â€” Copyright Term and the Public Domain in the United States",
-          "url": "https://copyright.cornell.edu/publicdomain"
+          "note": "Original scenario written by Abel Gance; no prior novel, play, or other literary work underlies the film. The screenplay was created as part of the 1919 production and shares its publication date. Maximum 95-year US copyright term expired January 1, 2015.",
+          "source": "U.S. Copyright Office â€” Duration of Copyright (Circular 15a)",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
         }
       ]
     },
@@ -54,9 +54,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A major commercial restoration of the 1919 European release version was completed in 2007 by Lobster Films (Paris) in collaboration with Nederlands Filmmuseum, drawing on six source prints including one reel of Gance's original camera negative and the only surviving tinted-and-toned print. Released on DVD and DCP by Flicker Alley with the Robert Israel score. The restoration print embodies original creative editorial choices and carries its own copyright separate from the underlying 1919 images.",
-          "source": "Flicker Alley â€” J'Accuse DCP page",
-          "url": "https://flickeralley.com/pages/j-accuse-dcp"
+          "note": "A 2007 restoration by Nederlands Filmmuseum and Lobster Films assembled elements from six surviving prints; Flicker Alley released a reconstruction on November 20, 2018 with Robert Israel's new symphonic score. Both versions incorporate protected editorial decisions and/or new recorded-score elements that are not cleared by the underlying film's PD status.",
+          "source": "San Francisco Silent Film Festival â€” J'Accuse program notes",
+          "url": "https://silentfilm.org/jaccuse/"
         }
       ]
     }
@@ -70,12 +70,16 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB â€” search 'J'accuse!' (renewals ~1946, 1947, 1948)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=J'accuse!"
+        "label": "Stanford Copyright Renewal DB â€” search 'accuse' (renewals ~1946â€“1948)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=accuse"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "CCE Motion Pictures 1940â€“1949 (Project Gutenberg plain text) â€” search 'Accuse' for renewal entries",
+        "url": "https://www.gutenberg.org/ebooks/58237"
+      },
+      {
+        "label": "CCE Motion Pictures 1912â€“1939 (Project Gutenberg plain text) â€” check original US registration",
+        "url": "https://www.gutenberg.org/ebooks/51836"
       },
       {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
@@ -86,24 +90,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/silent-jaccuse",
-      "label": "J'accuse! (1919) â€” Archive.org upload, cast confirmed: Romuald JoubÃ©, SÃ©verin-Mars",
-      "quality": "medium"
-    },
-    {
-      "url": "https://archive.org/details/j-accuse.-1919",
-      "label": "J' Accuse 1919 â€” user upload with English subtitles, April 25 1919 release date confirmed",
-      "quality": "medium"
+      "label": "J'accuse! (1919) â€” Internet Archive (silent print, no modern score)",
+      "quality": "watchable"
     }
   ],
-  "editorial": "J'accuse! (1919) is a French silent anti-war epic written and directed by Abel Gance, produced by PathÃ© FrÃ¨res and first screened in Paris on 25 April 1919. Gance filmed portions of the picture on actual WWI battlefields and recruited real soldiers â€” many of whom perished at Verdun within weeks of shooting â€” for the celebrated 'return of the dead' finale, giving the film a documentary force unmatched in its era. PathÃ© Exchange Inc. handled US theatrical distribution. For a creator today, the 1919 photographic print is fully free in the United States: the maximum 95-year copyright term expired in 2014, and any URAA restoration of a lapsed US registration would have been subject to the same ceiling and expired by the same date.\n\nThe live rights trap is the 2007 commercial restoration by Lobster Films and Nederlands Filmmuseum, released on DVD and DCP by Flicker Alley with a newly commissioned symphonic score by Robert Israel. Both the restoration print (reflecting original editorial choices in combining six source elements) and Israel's score are independently copyrighted works. A creator who downloads a file derived from the Flicker Alley release is not working with a free work, even though the underlying 1919 images are public domain. Archive.org hosts multiple copies of the film; those not sourced from the Flicker Alley restoration are the appropriate starting point.",
+  "editorial": "J'accuse! is the 1919 French anti-war silent film written and directed by Abel Gance, produced by PathÃ© FrÃ¨res and starring Romuald JoubÃ© as pacifist poet Jean Diaz. Filmed partly within active military zones during the final year of World War I, its climactic 'return of the dead' sequence used actual French soldiers on leave from Verdun â€” many of whom were killed before the film reached screens. United Artists distributed a heavily re-edited American version titled 'I Accuse' in October 1921, excising Gance's antiwar message and grafting on a patriotic resolution. The original 1919 print was reassembled in 2007 by Nederlands Filmmuseum and Lobster Films from six archival copies.\n\nThe original print is in the US public domain: first published in France in 1919, any domestic US copyright term expired by January 1, 2015, and even accounting for URAA restoration (Gance died 1981; France protected the work well past January 1, 1996), the URAA-extended term ran to the same 95-year ceiling and is likewise exhausted. The practical rights trap is the score. J'accuse! is a silent film, which means every commercial copy on the market carries a modern soundtrack that is its own protected work. The 2018 Flicker Alley release uses Robert Israel's new symphonic score; that audio track cannot be reproduced. Reusers should pull from the unscored print on the Internet Archive and supply their own music or commission silence.",
   "faq": [
     [
-      "Can I freely copy or adapt footage from J'accuse! (1919)?",
-      "Yes, if you use a copy of the original 1919 print â€” the photographic images are in the public domain in the United States, the 95-year term having expired in 2014. If the copy you are using comes from the 2007 Flicker Alley/Lobster Films restoration, that specific print and Robert Israel's score are separately protected. Use an Archive.org upload that is not derived from the Flicker Alley release to stay in the clear."
+      "Can I use footage from the Flicker Alley Blu-ray in my documentary?",
+      "The visual content is public domain, but the Flicker Alley disc pairs it with Robert Israel's 2018 symphonic score, which is a protected sound recording. You can use the visuals only if you mute or replace the audio entirely. For a fully unencumbered source, use the unscored print at archive.org/details/silent-jaccuse."
     ],
     [
-      "Does URAA complicate the US public-domain status of this French film?",
-      "Potentially in theory, not in practice. Abel Gance died in 1981, so French copyright runs to 2051, and the film was still protected in France when URAA took effect in 1996. If the original US registration lapsed from non-renewal in 1946â€“1947, URAA section 104A may have restored that US copyright at the time. But even a restored URAA term is capped at 95 years from the 1919 publication date, placing its expiry in 2014. The URAA question is historically interesting but has no practical effect on reuse today."
+      "Is there an underlying novel or play I need to license?",
+      "No. Abel Gance wrote an original scenario; J'accuse! was not adapted from any pre-existing novel, play, or short story. There is no underlying literary work to clear. The screenplay and story expired under the same 95-year US copyright term as the film itself."
     ]
   ]
 }
