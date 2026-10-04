@@ -59,7 +59,8 @@ def gather() -> dict:
     week = (today - timedelta(days=7)).isoformat()
     return {
         "today": today.isoformat(),
-        "runs_today": [r for r in runs if r["date"] == today.isoformat()],
+        # latest record per title: a title blocked then fixed on a re-run counts as queued
+        "runs_today": list({r["id"]: r for r in runs if r["date"] == today.isoformat()}.values()),
         "queued_week": [r["id"] for r in runs if r["date"] >= week and r["result"] == "queued"],
         "mid_rebase": (ROOT / ".git" / "rebase-merge").exists() or (ROOT / ".git" / "rebase-apply").exists(),
         "unpushed": int(git("rev-list", "--count", "origin/main..HEAD") or 0),
