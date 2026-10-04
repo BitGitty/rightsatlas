@@ -1,11 +1,11 @@
 {
   "class": 1931,
   "us_public_domain_date": "2027-01-01",
-  "generated": "2026-09-01",
+  "generated": "2026-10-05",
   "source": "https://bitgitty.github.io/rightsatlas/entering-public-domain-2027/",
   "licence": "CC0 — use it, no attribution required (a link back is appreciated)",
   "caveat": "Term expiry frees the film print only. Score, underlying story, trademarks and modern restorations are separate layers.",
-  "count": 35,
+  "count": 33,
   "films": [
     {
       "id": "arrowsmith-1931",
@@ -66,18 +66,6 @@
       "uraa_note": "",
       "score_note": "Any score you hear on a modern copy is a separately protected recording. The images expiring does not free that audio.",
       "dossier_url": "https://bitgitty.github.io/rightsatlas/film/chickens-come-home-1931/"
-    },
-    {
-      "id": "cimarron-1931",
-      "title": "Cimarron",
-      "year": 1931,
-      "country": "US",
-      "us_public_domain_date": "2027-01-01",
-      "print_status": "protected_until_2027-01-01",
-      "trademark_watch": false,
-      "uraa_note": "",
-      "score_note": "Any score you hear on a modern copy is a separately protected recording. The images expiring does not free that audio.",
-      "dossier_url": "https://bitgitty.github.io/rightsatlas/film/cimarron-1931/"
     },
     {
       "id": "city-lights-1931",
@@ -150,18 +138,6 @@
       "uraa_note": "",
       "score_note": "Any score you hear on a modern copy is a separately protected recording. The images expiring does not free that audio.",
       "dossier_url": "https://bitgitty.github.io/rightsatlas/film/kept-husbands-1931/"
-    },
-    {
-      "id": "little-caesar-1931",
-      "title": "Little Caesar",
-      "year": 1931,
-      "country": "US",
-      "us_public_domain_date": "2027-01-01",
-      "print_status": "protected_until_2027-01-01",
-      "trademark_watch": false,
-      "uraa_note": "",
-      "score_note": "Any score you hear on a modern copy is a separately protected recording. The images expiring does not free that audio.",
-      "dossier_url": "https://bitgitty.github.io/rightsatlas/film/little-caesar-1931/"
     },
     {
       "id": "lonely-wives-1931",
