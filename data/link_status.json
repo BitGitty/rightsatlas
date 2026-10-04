@@ -251,7 +251,7 @@
    "film": "plan-9-from-outer-space-1957",
    "kind": "watch"
   },
-  "RobinHood1922_201406": {
+  "robin-hood-1922": {
    "ok": true,
    "film": "robin-hood-1922",
    "kind": "watch"
@@ -319,11 +319,6 @@
   "Ace_of_Hearts_1921": {
    "ok": true,
    "film": "the-ace-of-hearts-1921",
-   "kind": "watch"
-  },
-  "robin-hood-1922": {
-   "ok": true,
-   "film": "the-adventures-of-robin-hood-1922",
    "kind": "watch"
   },
   "silent-the-big-parade": {
