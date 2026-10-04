@@ -126,6 +126,11 @@
    "film": "detour-1945",
    "kind": "evidence"
   },
+  "faust-1926": {
+   "ok": true,
+   "film": "faust-1926",
+   "kind": "watch"
+  },
   "FoolishWives1922_201704": {
    "ok": true,
    "film": "foolish-wives-1922",
