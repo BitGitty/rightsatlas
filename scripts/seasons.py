@@ -42,7 +42,26 @@ def in_season(today: date | None = None, collections: list | None = None) -> lis
 
 def priority_ids(today: date | None = None, collections: list | None = None) -> set:
     """Film ids (published, pending or still to research) of every in-season collection."""
-    return {i for c in in_season(today, collections) for i in c.get("films", []) + c.get("research", [])}
+    return set(deadlines(today, collections))
+
+
+def deadlines(today: date | None = None, collections: list | None = None) -> dict:
+    """{film id: ISO date its earliest in-season holiday ends} - sort by it: nearest first."""
+    today = today or date.today()
+    out = {}
+    for c in in_season(today, collections):
+        end = _window(c, today)[1].isoformat()
+        for i in c.get("films", []) + c.get("research", []):
+            out[i] = min(out.get(i, end), end)
+    return out
+
+
+def published(c: dict, have: set) -> list:
+    """The collection's films that are live (research ids count once they are published)."""
+    return [i for i in dict.fromkeys(c.get("films", []) + c.get("research", [])) if i in have]
+
+
+MIN_FILMS = 3   # a collection page (and its home-page feature) appears from 3 live films
 
 
 def check() -> None:
@@ -57,6 +76,9 @@ def check() -> None:
     assert {c["slug"] for c in in_season(date(2026, 11, 20), cs)} == {"x"}, "Christmas lead time"
     assert {c["slug"] for c in in_season(date(2027, 1, 1), cs)} == {"n"}, "range wraps the year end"
     assert {c["slug"] for c in in_season(date(2026, 12, 20), cs)} == {"x", "n"}
+    dl = deadlines(date(2026, 10, 20), cs + [{**xm, "lead_days": 60}])
+    assert dl["a"] < dl["c"], "Halloween films come before Christmas films"
+    assert published({"films": ["a"], "research": ["b", "z"]}, {"a", "b"}) == ["a", "b"]
     print("seasons self-check passed")
 
 
