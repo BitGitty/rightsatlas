@@ -150,6 +150,9 @@ def check() -> None:
 
 
 def main() -> int:
+    # the 08:30 task redirects stdout to a file (cp1252 on Windows): a model-written reason
+    # with a character outside it would crash the report before Telegram is sent
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     if "--check" in sys.argv:
         check()
         return 0
