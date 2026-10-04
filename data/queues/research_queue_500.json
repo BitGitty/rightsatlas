@@ -2880,7 +2880,7 @@
     "promotable": true
   },
   {
-    "title": "Robin Hood",
+    "title": "The Adventures of Robin Hood",
     "year": 1938,
     "country": "US",
     "demand_score": 75,
@@ -3122,7 +3122,7 @@
   {
     "title": "Spione",
     "year": 1928,
-    "country": "US",
+    "country": "DE",
     "demand_score": 58,
     "difficulty": 1,
     "tier": "C",
@@ -4302,7 +4302,7 @@
   {
     "title": "J'accuse!",
     "year": 1919,
-    "country": "US",
+    "country": "FR",
     "demand_score": 55,
     "difficulty": 1,
     "tier": "C",
@@ -9060,7 +9060,7 @@
     "promotable": true
   },
   {
-    "title": "The Adventures of Robin Hood",
+    "title": "Robin Hood",
     "year": 1922,
     "country": "US",
     "demand_score": 60,
@@ -9068,7 +9068,7 @@
     "tier": "A",
     "archetype": "franchise_complex",
     "notes": "Fairbanks",
-    "id": "the-adventures-of-robin-hood-1922",
+    "id": "robin-hood-1922",
     "priority_score": 28,
     "queue_status": "queued",
     "coverage_state": "research_pending",
