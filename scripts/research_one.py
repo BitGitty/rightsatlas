@@ -9,6 +9,7 @@ promote gate before it can reach the pending pool.
   python scripts/research_one.py            # research the next queue title -> data/pending/
   python scripts/research_one.py -n 5       # top up the drip pool by 5
   python scripts/research_one.py --id the-crowd-1928
+  python scripts/research_one.py --refresh 2  # re-research 2 thin published dossiers in place
   python scripts/research_one.py --check    # self-check (no network, no LLM)
 
 Every candidate that passes the gates then goes to an independent fact-check (a second
@@ -21,9 +22,10 @@ import re
 import shutil
 import subprocess
 import tempfile
+import time
 import sys
 import urllib.request
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -33,12 +35,14 @@ import engine                                    # noqa: E402
 import cce_prefill                               # noqa: E402
 import qc_candidate                              # noqa: E402
 import promote_candidate                         # noqa: E402
+import seasons                                   # noqa: E402
 
 QUEUE = ROOT / "data" / "queues" / "research_queue_500.json"
 FILMS = ROOT / "data" / "films"
 PENDING = ROOT / "data" / "pending"
 CAND = ROOT / "data" / "candidates"
 RUNS = ROOT / "data" / "research_runs.jsonl"
+BUDGET_MIN = 100   # stop starting new titles after this; the 10:00 status must see a finished run
 MODEL = "sonnet"          # light reasoning over a fixed template — not an Opus job
 
 PROMPT = """You are researching one film for RightsAtlas, a US public-domain rights reference.
@@ -116,19 +120,49 @@ def _key(slug: str) -> str:
     return re.sub(r"[^a-z0-9]", "", slug.lower())
 
 
+def recently_blocked(days=14, times=2) -> set:
+    """Titles blocked `times`+ in `days`: skipped so two hard titles cannot stall the queue
+    (they sort to the top and would be retried, and fail, every single day)."""
+    if not RUNS.exists():
+        return set()
+    since, n = (date.today() - timedelta(days=days)).isoformat(), {}
+    for line in RUNS.read_text(encoding="utf-8").splitlines():
+        r = json.loads(line)
+        if r["date"] >= since and r["result"] == "blocked":
+            n[_key(r["id"])] = n.get(_key(r["id"]), 0) + 1
+    return {k for k, c in n.items() if c >= times}
+
+
 def next_rows(count=1, only_id=None):
-    """Queue rows worth researching next: unpublished, not already queued, bright-line first."""
+    """Queue rows worth researching next: unpublished, not already queued, not stuck;
+    in-season titles first, then bright-line US titles, then by demand."""
     rows = _load(QUEUE)
     if only_id:
         return [r for r in rows if r["id"] == only_id][:1]
-    done = {_key(p.stem) for p in [*FILMS.glob("*.json"), *PENDING.glob("*.json")]}
+    done = {_key(p.stem) for p in [*FILMS.glob("*.json"), *PENDING.glob("*.json")]} | recently_blocked()
+    season = {_key(i) for i in seasons.priority_ids()}
     cutoff = engine.pd_cutoff_year()
     todo = [r for r in rows if _key(r["id"]) not in done and r.get("renewal_truth") != "known_renewed"]
     # bright-line US titles first (term expiry is arithmetic, not research), then by demand
     todo.sort(key=lambda r: (
+        _key(r["id"]) not in season,
         not ((r.get("country") or "US").upper() in ("US", "USA") and r["year"] <= cutoff),
         -r.get("demand_score", 0)))
     return todo[:count]
+
+
+def thin_films(count=1) -> list:
+    """Published dossiers with 3+ layers never researched (60 of 103 on 2026-10-05: only the
+    print layer was done). In-season ones first, then the longest unverified."""
+    season = {_key(i) for i in seasons.priority_ids()}
+    skip = recently_blocked()
+    thin = []
+    for p in FILMS.glob("*.json"):
+        d = _load(p)
+        weak = sum(1 for L in d["layers"].values() if L.get("status") in ("undetermined", "likely_pd"))
+        if weak >= 3 and _key(d["id"]) not in skip:
+            thin.append(((_key(d["id"]) not in season, d.get("last_verified", ""), d["id"]), d))
+    return [d for _, d in sorted(thin, key=lambda t: t[0])][:count]
 
 
 REVIEW_PROMPT = """You are an independent fact-checker for RightsAtlas, a US public-domain rights reference.
@@ -196,8 +230,8 @@ def _json(out: str) -> dict:
     return json.loads(m.group(0))
 
 
-def ask_claude(row: dict) -> dict:
-    skeleton = cce_prefill.prefill(row["title"], row["year"], row.get("country", "US"))
+def ask_claude(row: dict, skeleton: dict | None = None) -> dict:
+    skeleton = skeleton or cce_prefill.prefill(row["title"], row["year"], row.get("country", "US"))
     return _json(_claude(PROMPT.format(row=json.dumps(row, ensure_ascii=False),
                                        skeleton=json.dumps(skeleton, ensure_ascii=False),
                                        today=date.today().isoformat(),
@@ -271,12 +305,22 @@ def log_run(rid: str, result: str, reasons: list) -> None:
                             "reasons": reasons}, ensure_ascii=False) + "\n")
 
 
-def research(row: dict):
-    print(f"researching {row['id']} ...")
+def _evidence(d: dict) -> int:
+    return sum(len(L.get("evidence", [])) for L in d.get("layers", {}).values())
+
+
+def research(row: dict, old: dict | None = None):
+    """Queue row -> fact-checked dossier in data/pending/. With `old` (a published thin
+    dossier) it is a refresh: same pipeline, result replaces data/films/<id>.json."""
+    print(f"{'refreshing' if old else 'researching'} {row['id']} ...")
     cand = None
-    try:  # one bad title must not sink the batch
-        # ponytail: a title that always fails is retried daily; skip-list it if that happens
-        cand, reasons = finish(ask_claude(row))
+    try:  # one bad title must not sink the batch; recently_blocked() skips repeat failures
+        skeleton = None
+        if old:
+            row = {**row, "refresh_note": "Already published, but most layers were never researched "
+                   "(status undetermined). Research every layer now; keep existing evidence that is correct."}
+            skeleton = {k: v for k, v in old.items() if not k.startswith("_")}
+        cand, reasons = finish(ask_claude(row, skeleton))
         for rnd in range(3):                     # fact-check; up to 2 revisions; 3rd fail blocks
             if reasons:
                 break
@@ -290,6 +334,11 @@ def research(row: dict):
             cand, reasons = finish(revise(cand, issues))
     except (subprocess.TimeoutExpired, ValueError) as e:  # JSONDecodeError is a ValueError
         reasons = [f"{type(e).__name__}: {str(e)[:200]}"]
+    if old and not reasons:
+        if old["layers"]["print"]["status"] == "verified_pd" and cand["layers"]["print"]["status"] != "verified_pd":
+            reasons = ["refresh would downgrade a verified print verdict"]
+        elif _evidence(cand) < _evidence(old):
+            reasons = [f"refresh has less evidence ({_evidence(cand)}) than the live page ({_evidence(old)})"]
     if reasons:
         if cand and cand.get("id"):
             CAND.mkdir(parents=True, exist_ok=True)
@@ -298,6 +347,11 @@ def research(row: dict):
         print(f"  BLOCKED {row['id']}: " + "; ".join(reasons))
         log_run(row["id"], "blocked", reasons)
         return None
+    if old:
+        dest = promote_candidate.promote(cand, dest_dir=FILMS)
+        print(f"  refreshed -> {dest.relative_to(ROOT)} (evidence {_evidence(old)} -> {_evidence(cand)})")
+        log_run(row["id"], "refreshed", [])
+        return dest
     PENDING.mkdir(parents=True, exist_ok=True)
     dest = promote_candidate.promote(cand, dest_dir=PENDING)
     print(f"  queued -> {dest.relative_to(ROOT)} ({len(cand['watch'])} watch links, fact-checked)")
@@ -340,6 +394,8 @@ def check() -> None:
         raise AssertionError("unparseable review must raise, not pass")
     except ValueError:
         pass
+    assert all(sum(1 for L in d["layers"].values() if L.get("status") in ("undetermined", "likely_pd")) >= 3
+               for d in thin_films(5)), "refresh lane must only pick thin dossiers"
     print(f"research_one self-check passed (next up: {', '.join(r['id'] for r in rows)})")
 
 
@@ -350,12 +406,22 @@ def main() -> int:
         return 0
     only = args[args.index("--id") + 1] if "--id" in args else None
     n = int(args[args.index("-n") + 1]) if "-n" in args else 1
-    rows = next_rows(n, only)
-    if not rows:
+    if "--refresh" in args:
+        jobs = [({"id": d["id"], "title": d["title"], "year": d["year"],
+                  "country": d.get("country", "US")}, d)
+                for d in thin_films(int(args[args.index("--refresh") + 1]))]
+    else:
+        jobs = [(r, None) for r in next_rows(n, only)]
+    if not jobs:
         print("nothing left to research")
         return 0
-    made = [research(r) for r in rows]
-    print(f"done: {sum(1 for m in made if m)}/{len(rows)} queued; "
+    start, made = time.time(), []
+    for row, old in jobs:
+        if made and time.time() - start > BUDGET_MIN * 60:
+            print(f"time budget ({BUDGET_MIN} min) used: {row['id']} left for the next run")
+            break
+        made.append(research(row, old))
+    print(f"done: {sum(1 for m in made if m)}/{len(jobs)} succeeded; "
           f"pending pool = {len(list(PENDING.glob('*.json')))}")
     return 0
 

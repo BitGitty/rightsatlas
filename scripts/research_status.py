@@ -3,11 +3,13 @@
 Checks what each step really produced, not that a task exited 0 (on 2026-10-04 the old
 version said "OK" while research had crashed and been re-researching the same 2 titles
 for days):
-  1. research ran today and queued NEW titles (data/research_runs.jsonl, written per title)
+  1. research ran today and queued NEW titles; the refresh lane upgraded thin pages
+     (data/research_runs.jsonl, written per title); 0 output for 2 days is a FAIL
   2. the local repo is not stuck mid-rebase and has nothing left unpushed
   3. the CI drip published within the last 2 days (origin/main, not the local copy)
   4. the newest published film page answers 200 on the live site
   5. the last CI build passed
+  6. from 1 Nov, next Public Domain Day's "entering-public-domain-YYYY" page exists
 Prints the report and sends it to Telegram (Aurora bot, "RightsAtlas" in the first line).
 
   python scripts/research_status.py            # report + Telegram
@@ -57,7 +59,17 @@ def gather() -> dict:
     except Exception:
         ci = None
     week = (today - timedelta(days=7)).isoformat()
+    two_days = (today - timedelta(days=1)).isoformat()
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import seasons
+    next_class = today.year + 1
     return {
+        "made_2d": [r["id"] for r in runs if r["date"] >= two_days and r["result"] in ("queued", "refreshed")],
+        "refreshed_1d": [r["id"] for r in runs if r["date"] >= two_days and r["result"] == "refreshed"],
+        "in_season": [c["slug"] for c in seasons.in_season(today)],
+        "class_page_missing": today.month >= 11 and not (
+            ROOT / "content" / f"entering-public-domain-{next_class}.html").exists(),
+        "next_class": next_class,
         "today": today.isoformat(),
         # latest record per title: a title blocked then fixed on a re-run counts as queued
         "runs_today": list({r["id"]: r for r in runs if r["date"] == today.isoformat()}.values()),
@@ -84,6 +96,8 @@ def evaluate(f: dict):
         fails.append("research did not run today (no run record)")
     elif not queued:
         warns.append(f"research ran but all {len(blocked)} title(s) were blocked")
+    if not f["made_2d"]:
+        fails.append("nothing researched or refreshed in 2 days (check logs/daily_research.log)")
     lines.append(f"Research today: {len(queued)} new" + (f" ({', '.join(queued)})" if queued else "")
                  + f", {len(blocked)} blocked")
     for b in blocked:
@@ -103,6 +117,12 @@ def evaluate(f: dict):
     if f["live_status"] != 200:
         fails.append(f"newest film page not live ({f['live_status']})")
     lines.append(f"Live films: {f['films']} · waiting to publish: {f['pending']}")
+    if f["refreshed_1d"]:
+        lines.append(f"Thin pages upgraded: {', '.join(f['refreshed_1d'])}")
+    if f["in_season"]:
+        lines.append(f"In season (prioritised): {', '.join(f['in_season'])}")
+    if f["class_page_missing"]:
+        warns.append(f"Public Domain Day page for {f['next_class']} not written yet")
     if f["pending"] < 5:
         warns.append(f"only {f['pending']} films waiting to publish")
     ci = f["ci"]
@@ -135,6 +155,8 @@ def send_telegram(text: str) -> str:
 
 def check() -> None:
     good = {"today": "2026-10-05", "runs_today": [{"id": "a", "result": "queued", "reasons": []}],
+            "made_2d": ["a"], "refreshed_1d": [], "in_season": [], "class_page_missing": False,
+            "next_class": 2027,
             "queued_week": ["a", "b"], "mid_rebase": False, "unpushed": 0,
             "last_release": datetime.now(timezone.utc).date().isoformat(), "last_film": "x",
             "live_status": 200, "films": 100, "pending": 20, "ci": {"status": "completed", "conclusion": "success"}}
@@ -146,6 +168,8 @@ def check() -> None:
     assert evaluate({**good, "last_release": "2026-01-01"})[0] == "FAIL", "stalled drip must FAIL"
     assert evaluate({**good, "ci": None})[0] == "WARN", "unknown build is never OK"
     assert evaluate({**good, "unpushed": 1})[0] == "FAIL", "an unpushed research commit must FAIL"
+    assert evaluate({**good, "made_2d": []})[0] == "FAIL", "2 days without output must FAIL"
+    assert evaluate({**good, "class_page_missing": True})[0] == "WARN", "missing class page must WARN"
     print("research_status self-check passed")
 
 
