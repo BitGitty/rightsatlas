@@ -10,6 +10,11 @@ promote gate before it can reach the pending pool.
   python scripts/research_one.py -n 5       # top up the drip pool by 5
   python scripts/research_one.py --id the-crowd-1928
   python scripts/research_one.py --check    # self-check (no network, no LLM)
+
+Every candidate that passes the gates then goes to an independent fact-check (a second
+`claude -p` that did not write it). Errors found -> one revision -> gates + fact-check again;
+still failing -> blocked, never published. Each title's outcome is appended to
+data/research_runs.jsonl, which research_status.py reads to prove the run happened.
 """
 import json
 import re
@@ -33,6 +38,7 @@ QUEUE = ROOT / "data" / "queues" / "research_queue_500.json"
 FILMS = ROOT / "data" / "films"
 PENDING = ROOT / "data" / "pending"
 CAND = ROOT / "data" / "candidates"
+RUNS = ROOT / "data" / "research_runs.jsonl"
 MODEL = "sonnet"          # light reasoning over a fixed template — not an Opus job
 
 PROMPT = """You are researching one film for RightsAtlas, a US public-domain rights reference.
@@ -120,11 +126,38 @@ def next_rows(count=1, only_id=None):
     return todo[:count]
 
 
-def ask_claude(row: dict) -> dict:
-    skeleton = cce_prefill.prefill(row["title"], row["year"], row.get("country", "US"))
-    prompt = PROMPT.format(row=json.dumps(row, ensure_ascii=False),
-                           skeleton=json.dumps(skeleton, ensure_ascii=False),
-                           today=date.today().isoformat(), cutoff=engine.pd_cutoff_year())
+REVIEW_PROMPT = """You are an independent fact-checker for RightsAtlas, a US public-domain rights reference.
+Another model wrote the dossier below. Your job is to catch what it got WRONG before it is published.
+Output is consumed by a script: return ONE JSON object and nothing else (no fence, no commentary).
+Do not write, move or promote any file.
+
+Check, using WebSearch/WebFetch for anything you are not certain of:
+- title, year, production country, director, studio, cast, release dates;
+- every factual claim in the evidence notes, editorial and faq: restorations (who made them, when,
+  which release), scores and recordings, source works and their dates, lawsuits, survival status
+  (a lost or partial film must not be presented as fully watchable);
+- that each cited source plausibly supports the claim it is attached to;
+- superlatives ("first", "only", "most expensive ever") - wrong ones are common.
+Do NOT re-judge the legal rule (95 years from publication; everything published in {cutoff} or
+earlier is public domain in the US by term) and do not nitpick style or wording.
+Report only problems you are confident are real factual errors. If unsure, leave it out.
+
+DOSSIER: {cand}
+
+Return {{"verdict": "pass" or "fail", "issues": [{{"where": "<field>", "problem": "<what is wrong>", "fix": "<what is right>"}}]}}
+"verdict" is "fail" exactly when "issues" is not empty."""
+
+REVISE_PROMPT = """You wrote this RightsAtlas dossier. An independent fact-checker found the problems
+below. Fix every one: correct the claim, or remove it if you cannot support the correction. Change
+nothing else, keep every key and the same JSON shape. Return ONE JSON object and nothing else.
+Do not write, move or promote any file.
+
+PROBLEMS: {issues}
+DOSSIER: {cand}"""
+
+
+def _claude(prompt: str) -> str:
+    """One headless claude -p call (web tools only, no file tools); returns its text result."""
     cli = shutil.which("claude") or "claude"      # Windows needs the resolved .cmd
     # Run OUTSIDE the repo: given repo access the researcher writes and "promotes" its own
     # draft instead of answering, skipping the verification this script exists to do.
@@ -145,13 +178,44 @@ def ask_claude(row: dict) -> dict:
             proc.communicate()
             raise
     try:                                          # unwrap the CLI result envelope
-        out = json.loads(out).get("result", out)
-    except json.JSONDecodeError:
-        pass
-    m = re.search(r"\{.*\}", out, re.S)
+        return json.loads(out).get("result", out)
+    except (json.JSONDecodeError, AttributeError):
+        return out
+
+
+def _json(out: str) -> dict:
+    m = re.search(r"\{.*\}", out or "", re.S)
     if not m:
-        raise ValueError(f"no JSON in researcher output: {out[:300]}")
+        raise ValueError(f"no JSON in model output: {(out or '')[:300]}")
     return json.loads(m.group(0))
+
+
+def ask_claude(row: dict) -> dict:
+    skeleton = cce_prefill.prefill(row["title"], row["year"], row.get("country", "US"))
+    return _json(_claude(PROMPT.format(row=json.dumps(row, ensure_ascii=False),
+                                       skeleton=json.dumps(skeleton, ensure_ascii=False),
+                                       today=date.today().isoformat(),
+                                       cutoff=engine.pd_cutoff_year())))
+
+
+def parse_review(out: str) -> list:
+    """Fact-check reply -> list of issue strings (empty = pass). Unparseable raises ValueError."""
+    r = _json(out)
+    issues = [f"{i.get('where', '?')}: {i.get('problem', '')} -> {i.get('fix', '')}"
+              for i in r.get("issues") or [] if isinstance(i, dict)]
+    if r.get("verdict") != "pass" and not issues:
+        issues = ["fact-check failed without listing issues"]
+    return issues
+
+
+def review(cand: dict) -> list:
+    return parse_review(_claude(REVIEW_PROMPT.format(
+        cand=json.dumps(cand, ensure_ascii=False), cutoff=engine.pd_cutoff_year())))
+
+
+def revise(cand: dict, issues: list) -> dict:
+    return _json(_claude(REVISE_PROMPT.format(issues=json.dumps(issues, ensure_ascii=False),
+                                              cand=json.dumps(cand, ensure_ascii=False))))
 
 
 def archive_ok(url: str) -> bool:
@@ -195,24 +259,39 @@ def finish(cand: dict, verify=True):
     return cand, reasons
 
 
+def log_run(rid: str, result: str, reasons: list) -> None:
+    with RUNS.open("a", encoding="utf-8") as f:
+        f.write(json.dumps({"date": date.today().isoformat(), "id": rid, "result": result,
+                            "reasons": reasons}, ensure_ascii=False) + "\n")
+
+
 def research(row: dict):
     print(f"researching {row['id']} ...")
-    try:
-        draft = ask_claude(row)
-    except (subprocess.TimeoutExpired, ValueError) as e:  # one bad title must not sink the batch
-        # ponytail: a title that always times out is retried daily; skip-list it if that happens
-        print(f"  BLOCKED {row['id']}: {type(e).__name__}: {str(e)[:200]}")
-        return None
-    cand, reasons = finish(draft)
+    cand = None
+    try:  # one bad title must not sink the batch
+        # ponytail: a title that always fails is retried daily; skip-list it if that happens
+        cand, reasons = finish(ask_claude(row))
+        if not reasons:
+            issues = review(cand)
+            if issues:
+                print(f"  fact-check: {len(issues)} issue(s), revising once")
+                cand, reasons = finish(revise(cand, issues))
+                if not reasons:
+                    reasons = [f"fact-check: {i}" for i in review(cand)]
+    except (subprocess.TimeoutExpired, ValueError) as e:  # JSONDecodeError is a ValueError
+        reasons = [f"{type(e).__name__}: {str(e)[:200]}"]
     if reasons:
-        CAND.mkdir(parents=True, exist_ok=True)
-        (CAND / f"{cand['id']}.json").write_text(
-            json.dumps(cand, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"  BLOCKED {cand['id']}: " + "; ".join(reasons))
+        if cand and cand.get("id"):
+            CAND.mkdir(parents=True, exist_ok=True)
+            (CAND / f"{cand['id']}.json").write_text(json.dumps(
+                {**cand, "_blocked": reasons}, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  BLOCKED {row['id']}: " + "; ".join(reasons))
+        log_run(row["id"], "blocked", reasons)
         return None
     PENDING.mkdir(parents=True, exist_ok=True)
     dest = promote_candidate.promote(cand, dest_dir=PENDING)
-    print(f"  queued -> {dest.relative_to(ROOT)} ({len(cand['watch'])} watch links)")
+    print(f"  queued -> {dest.relative_to(ROOT)} ({len(cand['watch'])} watch links, fact-checked)")
+    log_run(row["id"], "queued", [])
     return dest
 
 
@@ -241,6 +320,16 @@ def check() -> None:
     assert finish(searchy, verify=False)[1], "search-URL evidence must be blocked"
     assert not archive_ok("https://archive.org/search?query=foo"), "search URL is not a watch link"
     assert link_dead("https://copyright.duke.invalid/publicdomainday/2024/"), "invented domain must be dead"
+    # the fact-check verdict is parsed strictly: pass needs an explicit pass with no issues
+    assert parse_review('{"verdict": "pass", "issues": []}') == [], "clean review must pass"
+    assert parse_review('x {"verdict": "fail", "issues": [{"where": "year", "problem": "p", "fix": "f"}]} y') \
+        == ["year: p -> f"], "issues must be reported"
+    assert parse_review('{"verdict": "fail", "issues": []}'), "a bare fail must still block"
+    try:
+        parse_review("I could not check this film.")
+        raise AssertionError("unparseable review must raise, not pass")
+    except ValueError:
+        pass
     print(f"research_one self-check passed (next up: {', '.join(r['id'] for r in rows)})")
 
 

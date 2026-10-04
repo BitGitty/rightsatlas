@@ -1,68 +1,162 @@
-"""RightsAtlas research status — is auto-research working, and how many done?
-Prints a daily-report block: published dossiers, pending-drip pool, today's release,
-recent growth, and backlog. Run by a daily task; also read by Claude each session.
+"""RightsAtlas daily status — is the pipeline ACTUALLY working, end to end?
+
+Checks what each step really produced, not that a task exited 0 (on 2026-10-04 the old
+version said "OK" while research had crashed and been re-researching the same 2 titles
+for days):
+  1. research ran today and queued NEW titles (data/research_runs.jsonl, written per title)
+  2. the local repo is not stuck mid-rebase and has nothing left unpushed
+  3. the CI drip published within the last 2 days (origin/main, not the local copy)
+  4. the newest published film page answers 200 on the live site
+  5. the last CI build passed
+Prints the report and sends it to Telegram (Aurora bot, "RightsAtlas" in the first line).
+
+  python scripts/research_status.py            # report + Telegram
+  python scripts/research_status.py --no-send  # report only
+  python scripts/research_status.py --check    # self-check of the verdict logic (offline)
 """
 import json
 import subprocess
+import sys
+import urllib.parse
+import urllib.request
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-FILMS = ROOT / "data" / "films"
-PENDING = ROOT / "data" / "pending"
-STATE = ROOT / "data" / "drip_state.json"
-QUEUE = ROOT / "data" / "queues" / "research_queue_500.json"
+RUNS = ROOT / "data" / "research_runs.jsonl"
+SITE = "https://bitgitty.github.io/rightsatlas"
+ENV = Path("D:/Aurora/aurora-twin/.env")
 
 
-def git_recent_dossiers(days=7):
-    """How many dossier files were added to data/films in the last N days (git)."""
+def git(*args) -> str:
+    return subprocess.run(["git", "-C", str(ROOT), *args], capture_output=True, text=True,
+                          encoding="utf-8").stdout.strip()
+
+
+def http_status(url: str):
     try:
-        since = f"--since={days}.days.ago"
-        out = subprocess.run(["git", "-C", str(ROOT), "log", since, "--diff-filter=A",
-                              "--name-only", "--pretty=format:"], capture_output=True, text=True).stdout
-        return len({l for l in out.splitlines() if l.startswith("data/films/") and l.endswith(".json")})
+        with urllib.request.urlopen(url, timeout=30) as r:
+            return r.status
+    except urllib.error.HTTPError as e:
+        return e.code
     except Exception:
         return None
 
 
-def main():
-    published = len(list(FILMS.glob("*.json")))
-    pending = sorted(PENDING.glob("*.json"), key=lambda p: p.stat().st_mtime)
-    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
-    log = state.get("log", [])
-    today = date.today().isoformat()
-    dripped_today = state.get("last_release") == today
+def gather() -> dict:
+    today = date.today()
+    runs = [json.loads(l) for l in RUNS.read_text(encoding="utf-8").splitlines() if l.strip()] \
+        if RUNS.exists() else []
+    git("fetch", "-q")
+    drip = json.loads(git("show", "origin/main:data/drip_state.json") or "{}")
+    last = (drip.get("log") or [{}])[-1].get("film")
     try:
-        backlog = len(json.loads(QUEUE.read_text(encoding="utf-8"))) if QUEUE.exists() else 0
+        ci = json.loads(subprocess.run(
+            ["gh", "run", "list", "-R", "BitGitty/rightsatlas", "-L", "1", "--json", "conclusion,status"],
+            capture_output=True, text=True, timeout=60).stdout)[0]
     except Exception:
-        backlog = "?"
-    # the drip MOVES pending->films, which git records as a rename, not an add: counting
-    # only diff-filter=A reported 0 on days the pipeline had just released a dossier.
-    cutoff7 = (date.today() - timedelta(days=7)).isoformat()
-    added7 = max(git_recent_dossiers(7) or 0,
-                 sum(1 for e in log if e.get('date', '') >= cutoff7))
+        ci = None
+    week = (today - timedelta(days=7)).isoformat()
+    return {
+        "today": today.isoformat(),
+        "runs_today": [r for r in runs if r["date"] == today.isoformat()],
+        "queued_week": [r["id"] for r in runs if r["date"] >= week and r["result"] == "queued"],
+        "mid_rebase": (ROOT / ".git" / "rebase-merge").exists() or (ROOT / ".git" / "rebase-apply").exists(),
+        "unpushed": int(git("rev-list", "--count", "origin/main..HEAD") or 0),
+        "last_release": drip.get("last_release"),
+        "last_film": last,
+        "live_status": http_status(f"{SITE}/film/{last}/") if last else None,
+        "films": len([l for l in git("ls-tree", "--name-only", "origin/main", "data/films/").splitlines()
+                      if l.endswith(".json")]),
+        "pending": len([l for l in git("ls-tree", "--name-only", "origin/main", "data/pending/").splitlines()
+                        if l.endswith(".json")]),
+        "ci": ci,
+    }
 
-    print("=" * 46)
-    print(f"RIGHTSATLAS RESEARCH STATUS — {datetime.now(timezone.utc):%Y-%m-%d}")
-    print("=" * 46)
-    print(f"Published dossiers (live):   {published}")
-    print(f"Pending drip pool (waiting): {len(pending)}" +
-          (f"  next: {pending[0].stem}" if pending else "  (EMPTY — no new research queued)"))
-    print(f"Released today:              {'yes — ' + log[-1]['film'] if dripped_today and log else 'not yet'}")
-    print(f"Added last 7 days (git):     {added7 if added7 is not None else '?'}")
-    print(f"Research backlog (queue):    {backlog} titles catalogued, not yet researched")
-    if log:
-        print("Recent drip releases:")
-        for e in log[-5:]:
-            print(f"   {e['date']}  {e['film']}")
-    # verdict
-    if len(pending) == 0 and (added7 == 0):
-        print("\nVERDICT: auto-research is NOT producing new dossiers — pool empty + 0 added this week.")
-    elif len(pending) > 0:
-        print(f"\nVERDICT: OK — {len(pending)} researched dossiers queued; drip releases 1/day.")
-    else:
-        print("\nVERDICT: publishing from research batches; keep the pending pool fed to sustain 1/day.")
+
+def evaluate(f: dict):
+    """facts -> (verdict, lines). FAIL beats WARN beats OK; unknown is never OK."""
+    fails, warns, lines = [], [], []
+    queued = [r["id"] for r in f["runs_today"] if r["result"] == "queued"]
+    blocked = [r for r in f["runs_today"] if r["result"] == "blocked"]
+    if not f["runs_today"]:
+        fails.append("research did not run today (no run record)")
+    elif not queued:
+        warns.append(f"research ran but all {len(blocked)} title(s) were blocked")
+    lines.append(f"Research today: {len(queued)} new" + (f" ({', '.join(queued)})" if queued else "")
+                 + f", {len(blocked)} blocked")
+    for b in blocked:
+        lines.append(f"  blocked {b['id']}: {(b['reasons'] or ['?'])[0][:140]}")
+    dupes = sorted({i for i in f["queued_week"] if f["queued_week"].count(i) > 1})
+    if dupes:
+        fails.append(f"same title researched twice this week: {', '.join(dupes)}")
+    if f["mid_rebase"]:
+        fails.append("local repo stuck mid-rebase (next research run will fail)")
+    if f["unpushed"]:
+        warns.append(f"{f['unpushed']} research commit(s) not pushed")
+    utc_today = datetime.now(timezone.utc).date()
+    if not f["last_release"] or f["last_release"] < (utc_today - timedelta(days=2)).isoformat():
+        fails.append(f"site has not published since {f['last_release']}")
+    lines.append(f"Last published: {f['last_film']} ({f['last_release']}) — "
+                 + ("live" if f["live_status"] == 200 else f"NOT live ({f['live_status']})"))
+    if f["live_status"] != 200:
+        fails.append(f"newest film page not live ({f['live_status']})")
+    lines.append(f"Live films: {f['films']} · waiting to publish: {f['pending']}")
+    if f["pending"] < 5:
+        warns.append(f"only {f['pending']} films waiting to publish")
+    ci = f["ci"]
+    if ci is None:
+        warns.append("site build status unknown (gh unavailable)")
+    elif ci.get("status") == "completed" and ci.get("conclusion") != "success":
+        fails.append(f"last site build: {ci.get('conclusion')}")
+    verdict = "FAIL" if fails else "WARN" if warns else "OK"
+    return verdict, [f"FAIL: {x}" for x in fails] + [f"WARN: {x}" for x in warns] + lines
+
+
+def send_telegram(text: str) -> str:
+    env = {}
+    if ENV.exists():
+        for l in ENV.read_text(encoding="utf-8").splitlines():
+            if "=" in l and not l.lstrip().startswith("#"):
+                k, _, v = l.partition("=")
+                env[k.strip()] = v.strip().strip('"')
+    token, chat = env.get("AURORA_TELEGRAM_BOT_TOKEN"), env.get("AURORA_TELEGRAM_CHAT_ID")
+    if not (token and chat):
+        return "telegram: not sent (no bot credentials)"
+    try:
+        data = urllib.parse.urlencode({"chat_id": chat, "text": text}).encode()
+        with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data, timeout=30) as r:
+            return "telegram: sent" if json.load(r).get("ok") else "telegram: refused"
+    except Exception as e:
+        return f"telegram: failed ({type(e).__name__})"
+
+
+def check() -> None:
+    good = {"today": "2026-10-05", "runs_today": [{"id": "a", "result": "queued", "reasons": []}],
+            "queued_week": ["a", "b"], "mid_rebase": False, "unpushed": 0,
+            "last_release": datetime.now(timezone.utc).date().isoformat(), "last_film": "x",
+            "live_status": 200, "films": 100, "pending": 20, "ci": {"status": "completed", "conclusion": "success"}}
+    assert evaluate(good)[0] == "OK", evaluate(good)
+    assert evaluate({**good, "runs_today": []})[0] == "FAIL", "no research run must FAIL"
+    assert evaluate({**good, "queued_week": ["a", "a"]})[0] == "FAIL", "re-researching a title must FAIL"
+    assert evaluate({**good, "mid_rebase": True})[0] == "FAIL", "stuck rebase must FAIL"
+    assert evaluate({**good, "live_status": 404})[0] == "FAIL", "unpublished page must FAIL"
+    assert evaluate({**good, "last_release": "2026-01-01"})[0] == "FAIL", "stalled drip must FAIL"
+    assert evaluate({**good, "ci": None})[0] == "WARN", "unknown build is never OK"
+    print("research_status self-check passed")
+
+
+def main() -> int:
+    if "--check" in sys.argv:
+        check()
+        return 0
+    verdict, lines = evaluate(gather())
+    report = "\n".join([f"RightsAtlas daily — {verdict}"] + lines)
+    print(report)
+    if "--no-send" not in sys.argv:
+        print(send_telegram(report))
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
