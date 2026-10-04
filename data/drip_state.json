@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-03",
+  "last_release": "2026-10-04",
   "log": [
     {
       "date": "2026-08-31",
@@ -136,6 +136,10 @@
     {
       "date": "2026-10-03",
       "film": "a-dog-s-life-1918"
+    },
+    {
+      "date": "2026-10-04",
+      "film": "beyond-the-rocks-1922"
     }
   ]
 }
