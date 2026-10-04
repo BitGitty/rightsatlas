@@ -28,7 +28,8 @@ def release_one(today: str, pending: Path, films: Path, state: Path, priority=()
     st = json.loads(state.read_text(encoding="utf-8")) if state.exists() else {}
     if st.get("last_release") == today:
         return None                                   # already dripped today
-    pend = sorted(pending.glob("*.json"), key=lambda p: (p.stem not in priority, p.stat().st_mtime))
+    prio = priority if isinstance(priority, dict) else {i: "0" for i in priority}
+    pend = sorted(pending.glob("*.json"), key=lambda p: (prio.get(p.stem, "9999"), p.stat().st_mtime))
     if not pend:
         return None
     pick = pend[0]
@@ -43,7 +44,7 @@ def main() -> int:
     PENDING.mkdir(parents=True, exist_ok=True)
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     import seasons
-    released = release_one(date.today().isoformat(), PENDING, FILMS, STATE, seasons.priority_ids())
+    released = release_one(date.today().isoformat(), PENDING, FILMS, STATE, seasons.deadlines())
     n_left = len(list(PENDING.glob("*.json")))
     print(f"drip: released {released} -> data/films/ ({n_left} left)" if released
           else f"drip: nothing today (already dripped or pending empty; {n_left} pending)")

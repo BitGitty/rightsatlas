@@ -181,7 +181,8 @@ def index_page(films, backlog_count):
     seasonal = "".join(
         f'<section class="callout seasonal"><h2>{e(c["h1"])}</h2><p>{e(c["intro"][0])}</p>'
         f'<p><a href="{BASE}collections/{c["slug"]}/">See what\'s actually free →</a></p></section>'
-        for c in seasons.in_season())
+        for c in seasons.in_season()
+        if len(seasons.published(c, {f["id"] for f in films})) >= seasons.MIN_FILMS)
     cards = ""
     for f in sorted(films, key=lambda x: x["title"]):
         g = engine.guidance(f)
@@ -231,7 +232,7 @@ link or error, or pitch a feature — it goes straight to our research queue.</p
 
 
 def collection_page(c, by_id):
-    fs = sorted((by_id[i] for i in c["films"] if i in by_id), key=lambda f: (f["year"], f["title"]))
+    fs = sorted((by_id[i] for i in seasons.published(c, set(by_id))), key=lambda f: (f["year"], f["title"]))
     short = {"print": "Film print", "score": "Music", "story": "Story", "trademark": "Trademarks",
              "restorations": "Restorations"}
     head = "".join(f"<th>{short.get(k, lbl)}</th>" for k, lbl in engine.LAYERS)
@@ -253,7 +254,7 @@ def collection_page(c, by_id):
 def collections_index(collections, by_id):
     items = "".join(
         f'<li><a href="{BASE}collections/{c["slug"]}/">{e(c["h1"])}</a> '
-        f'({sum(1 for i in c["films"] if i in by_id)} films)</li>' for c in collections)
+        f'({len(seasons.published(c, set(by_id)))} films)</li>' for c in collections)
     body = f"""<h1>Collections</h1>
 <p>Classic films grouped by season and theme, each checked layer by layer.</p>
 <ul>{items}</ul>"""
@@ -436,8 +437,8 @@ def build():
         d.mkdir(parents=True)
         (d / "index.html").write_text(film_page(f), encoding="utf-8")
 
-    collections = seasons.load()
     by_id = {f["id"]: f for f in films}
+    collections = [c for c in seasons.load() if len(seasons.published(c, set(by_id))) >= seasons.MIN_FILMS]
     (OUT / "collections").mkdir()
     (OUT / "collections" / "index.html").write_text(collections_index(collections, by_id), encoding="utf-8")
     for c in collections:

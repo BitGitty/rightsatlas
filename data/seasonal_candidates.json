@@ -1,0 +1,558 @@
+{
+  "halloween": [
+    {
+      "title": "Nosferatu",
+      "year": 1922,
+      "country": "DE",
+      "fits": "Vampire Count Orlok preys on a young couple; the foundational vampire horror film.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term. Foreign (German) silent; RightsAtlas has already resolved and published it as PD."
+    },
+    {
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "country": "DE",
+      "fits": "A murderous somnambulist and a mad hypnotist terrorize a German town; the origin of horror's visual style.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term. Foreign (German); already published in our data as PD."
+    },
+    {
+      "title": "Häxan (Witchcraft Through the Ages)",
+      "year": 1922,
+      "country": "SE",
+      "fits": "Mock-documentary on witches, demons, and the Inquisition, staged as supernatural horror.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term. Foreign (Swedish/Danish); widely distributed in the US as PD."
+    },
+    {
+      "title": "The Phantom Carriage",
+      "year": 1921,
+      "country": "SE",
+      "fits": "Folk legend: the last person to die each year must drive Death's carriage collecting souls.",
+      "status": "queued:the-phantom-carriage-1921",
+      "pd_note": "Pre-1930, by term. Foreign (Swedish); verify URAA status before publishing, as with Nosferatu/Caligari."
+    },
+    {
+      "title": "The Golem",
+      "year": 1920,
+      "country": "DE",
+      "fits": "A rabbi animates a clay giant to protect the Prague ghetto; it turns on its creator.",
+      "status": "queued:the-golem-1920",
+      "pd_note": "Pre-1930, by term. Foreign (German); verify URAA status before publishing."
+    },
+    {
+      "title": "The Phantom of the Opera",
+      "year": 1925,
+      "country": "US",
+      "fits": "A disfigured composer haunts the Paris Opera House and terrorizes the woman he loves.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Cat and the Canary",
+      "year": 1927,
+      "country": "US",
+      "fits": "Heirs gather in a haunted mansion for a will-reading while a killer stalks the halls; the template for the 'old dark house' genre.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Haunted Castle",
+      "year": 1921,
+      "country": "US",
+      "fits": "Haunted-house mystery thriller.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Last Warning",
+      "year": 1928,
+      "country": "US",
+      "fits": "A theater is haunted by the ghost of an actor who died onstage years earlier.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Man Who Laughs",
+      "year": 1928,
+      "country": "US",
+      "fits": "A man disfigured into a permanent ghastly grin becomes a figure of gothic horror (visual inspiration for the Joker).",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Monster",
+      "year": 1925,
+      "country": "US",
+      "fits": "Lon Chaney as a mad doctor performing ghastly experiments in a sanitarium.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Unknown",
+      "year": 1927,
+      "country": "US",
+      "fits": "Tod Browning/Lon Chaney circus horror-thriller about an armless knife-thrower hiding a dark secret.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "London After Midnight",
+      "year": 1927,
+      "country": "US",
+      "fits": "Lon Chaney vampire-hypnotist mystery; the most famous lost horror film, but dossier-worthy as a landmark.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term. Note: no print survives; dossier would document a lost film."
+    },
+    {
+      "title": "King Kong",
+      "year": 1933,
+      "country": "US",
+      "fits": "A giant ape monster rampages through New York; the monster-movie archetype.",
+      "status": "published",
+      "pd_note": "Post-1930; RightsAtlas has already published this as PD (lapsed US copyright)."
+    },
+    {
+      "title": "House on Haunted Hill",
+      "year": 1959,
+      "country": "US",
+      "fits": "A millionaire invites guests to survive a night in a haunted house for cash.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD."
+    },
+    {
+      "title": "Carnival of Souls",
+      "year": 1962,
+      "country": "US",
+      "fits": "A woman drawn to an abandoned carnival pavilion is haunted by ghostly figures after a car accident.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD (lapsed copyright, no renewal)."
+    },
+    {
+      "title": "The Terror",
+      "year": 1963,
+      "country": "US",
+      "fits": "Corman gothic: a soldier is lured to a haunted castle by a ghostly woman.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD."
+    },
+    {
+      "title": "Plan 9 from Outer Space",
+      "year": 1957,
+      "country": "US",
+      "fits": "Aliens reanimate the dead as zombies to stop humanity; the quintessential cult monster movie.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD (no copyright notice)."
+    },
+    {
+      "title": "The Last Man on Earth",
+      "year": 1964,
+      "country": "US",
+      "fits": "The last human in Rome fights off a vampire-plague-infected population.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD."
+    },
+    {
+      "title": "The Little Shop of Horrors",
+      "year": 1960,
+      "country": "US",
+      "fits": "A florist's assistant raises a man-eating plant.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD."
+    },
+    {
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "country": "US",
+      "fits": "A flesh-eating zombie outbreak traps survivors in a farmhouse; the genre-defining zombie film.",
+      "status": "published",
+      "pd_note": "Post-1930; already published in our data as PD (no copyright notice on release prints)."
+    },
+    {
+      "title": "White Zombie",
+      "year": 1932,
+      "country": "US",
+      "fits": "Bela Lugosi as a voodoo master who zombifies a young bride; the first feature-length zombie film.",
+      "status": "queued:white-zombie-1932",
+      "pd_note": "Post-1930; widely and consistently documented as PD (no renewal)."
+    },
+    {
+      "title": "The Devil Bat",
+      "year": 1940,
+      "country": "US",
+      "fits": "Bela Lugosi as a mad perfumer who breeds giant killer bats for revenge.",
+      "status": "queued:the-devil-bat-1940",
+      "pd_note": "Post-1930; widely documented as PD (no renewal)."
+    },
+    {
+      "title": "The Old Dark House",
+      "year": 1932,
+      "country": "US",
+      "fits": "Stranded travelers take shelter with a sinister family in a decaying mansion during a storm.",
+      "status": "queued:the-old-dark-house-1932",
+      "pd_note": "Post-1930; documented as PD (Universal let the copyright lapse in 1957)."
+    },
+    {
+      "title": "Robot Monster",
+      "year": 1953,
+      "country": "US",
+      "fits": "An ape-suited, bubble-helmeted alien monster wipes out humanity.",
+      "status": "queued:robot-monster-1953",
+      "pd_note": "Post-1930; widely documented as PD."
+    }
+  ],
+  "thanksgiving": [
+    {
+      "title": "The Pilgrims",
+      "year": 1924,
+      "country": "US",
+      "fits": "Dramatized history of the Pilgrims' journey from England to Holland to the Mayflower voyage and the Plymouth Rock landing -- the Thanksgiving origin story.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term. Educational 'Chronicles of America' production (Yale University Press); documented as PD."
+    }
+  ],
+  "christmas": [
+    {
+      "title": "Scrooge",
+      "year": 1935,
+      "country": "GB",
+      "fits": "Seymour Hicks as Ebenezer Scrooge in the earliest sound adaptation of A Christmas Carol.",
+      "status": "missing",
+      "pd_note": "Post-1930; commonly cited/distributed as PD in the US (no renewal); verify before publishing."
+    },
+    {
+      "title": "Scrooge (A Christmas Carol)",
+      "year": 1951,
+      "country": "GB",
+      "fits": "Alastair Sim's Ebenezer Scrooge; widely regarded as the definitive film version of A Christmas Carol.",
+      "status": "missing",
+      "pd_note": "Post-1930; documented as PD in the US (copyright not renewed)."
+    },
+    {
+      "title": "Beyond Tomorrow",
+      "year": 1940,
+      "country": "US",
+      "fits": "The ghosts of three dead businessmen intervene in a Christmas Eve romance.",
+      "status": "missing",
+      "pd_note": "Post-1930; documented as PD."
+    },
+    {
+      "title": "The Great Rupert",
+      "year": 1950,
+      "country": "US",
+      "fits": "A down-on-their-luck family's Christmas is saved by a resourceful trained squirrel (and his hidden stash of cash).",
+      "status": "missing",
+      "pd_note": "Post-1930; documented as PD."
+    },
+    {
+      "title": "Christmas Comes But Once a Year",
+      "year": 1936,
+      "country": "US",
+      "fits": "Fleischer Color Classics cartoon: Grampy builds toys to save a poor family's Christmas.",
+      "status": "missing",
+      "pd_note": "Post-1930; documented as PD (Fleischer/Paramount Color Classics, no renewal)."
+    },
+    {
+      "title": "Santa Claus Conquers the Martians",
+      "year": 1964,
+      "country": "US",
+      "fits": "Martians kidnap Santa Claus to bring Christmas joy to their joyless children.",
+      "status": "queued:santa-claus-conquers-the-martians-1964",
+      "pd_note": "Post-1930; famously and consistently documented as PD (MST3K staple)."
+    },
+    {
+      "title": "The Night Before Christmas",
+      "year": 1905,
+      "country": "US",
+      "fits": "Edison short dramatizing Clement Clarke Moore's poem.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "A Christmas Carol",
+      "year": 1910,
+      "country": "US",
+      "fits": "Edison's early short adaptation of Dickens's novella.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Scrooge",
+      "year": 1913,
+      "country": "GB",
+      "fits": "Seymour Hicks's first screen Scrooge, in an early British silent adaptation.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "country": "US",
+      "fits": "An angel shows a despairing man what his town would have become without him, on Christmas Eve.",
+      "status": "queued:its-a-wonderful-life-1946",
+      "pd_note": "COMPLICATED SPECIAL CASE -- do not treat as simple PD. Lapsed into the public domain in 1974 (no renewal), aired constantly on TV through the 1980s, then Republic Pictures reasserted control in the 1990s via the underlying story and musical-score copyrights (Stewart v. Abend). Currently NOT freely usable; include only with this note, per instructions."
+    }
+  ],
+  "new-year": [
+    {
+      "title": "The Gold Rush",
+      "year": 1925,
+      "country": "US",
+      "fits": "Chaplin's prospector dreams of hosting a glamorous New Year's Eve dinner for the dance-hall girls who snubbed him; the 'Oceana Roll' dance is the film's most famous sequence.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term. Note: this covers the original 1925 silent cut, which lapsed into PD in 1953 for want of renewal. Chaplin's reedited 1942 reissue (added score/narration) is separately copyrighted and still protected -- do not conflate the two."
+    },
+    {
+      "title": "Sylvester (New Year's Eve)",
+      "year": 1923,
+      "country": "DE",
+      "fits": "A married couple's New Year's Eve is destroyed by a jealous mother-in-law, ending in suicide at midnight; a landmark German 'chamber-play' film built entirely around the holiday.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term, but a foreign silent -- verify URAA status before publishing. Largely a lost film: only an abridged German print and an English-language print survive, so a dossier would document a damaged/incomplete work."
+    }
+  ],
+  "valentines": [
+    {
+      "title": "Way Down East",
+      "year": 1920,
+      "country": "US",
+      "fits": "A betrayed country girl finds redemption and true love; Griffith/Gish melodrama and one of the era's defining romances.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Camille",
+      "year": 1921,
+      "country": "US",
+      "fits": "Rudolph Valentino and Alla Nazimova in the tragic romance of a courtesan and the man who loves her.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Four Horsemen of the Apocalypse",
+      "year": 1921,
+      "country": "US",
+      "fits": "Valentino's breakout role; a tragic wartime love story that made him a star.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Blood and Sand",
+      "year": 1922,
+      "country": "US",
+      "fits": "Valentino as a bullfighter torn between his loyal wife and a seductive femme fatale.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Beyond the Rocks",
+      "year": 1922,
+      "country": "US",
+      "fits": "Rudolph Valentino and Gloria Swanson, two of the era's biggest stars, in a romance between a young bride and the man she truly loves.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Eagle",
+      "year": 1925,
+      "country": "US",
+      "fits": "Valentino as a Russian officer-turned-outlaw who falls for the daughter of his enemy.",
+      "status": "pending",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Son of the Sheik",
+      "year": 1926,
+      "country": "US",
+      "fits": "Valentino's final film: a desert romance of mistaken identity and passion.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "It",
+      "year": 1927,
+      "country": "US",
+      "fits": "Clara Bow as a shopgirl who sets her sights on her wealthy boss; the film that defined the 'It Girl' and the flapper romantic comedy.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Sunrise",
+      "year": 1927,
+      "country": "US",
+      "fits": "A man plots to murder his wife for a city temptress, then rediscovers his love for her on an idyllic day in the city; a landmark silent romance.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Street Angel",
+      "year": 1928,
+      "country": "US",
+      "fits": "Janet Gaynor and Charles Farrell, the screen's top romantic team, as a fugitive woman and the painter who falls for her.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Crowd",
+      "year": 1928,
+      "country": "US",
+      "fits": "An ordinary couple's marriage survives hardship and heartbreak in the big city; an intimate, unglamorous love story.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Docks of New York",
+      "year": 1928,
+      "country": "US",
+      "fits": "A world-weary stoker falls for a woman he saves from drowning, in one restless night on the waterfront.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "A Woman of Paris",
+      "year": 1923,
+      "country": "US",
+      "fits": "A country girl's doomed romance with an unfaithful aristocrat, in Chaplin's only pure drama as director.",
+      "status": "pending",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "He Who Gets Slapped",
+      "year": 1924,
+      "country": "US",
+      "fits": "A heartbroken scientist becomes a circus clown and falls for a bareback rider; tragic unrequited love.",
+      "status": "pending",
+      "pd_note": "Pre-1930, by term. Note: a tragic/doomed romance rather than a warm one -- tonally dark for Valentine's."
+    },
+    {
+      "title": "The Prisoner of Zenda",
+      "year": 1922,
+      "country": "US",
+      "fits": "A commoner impersonates a kidnapped king and falls for the queen he's standing in for.",
+      "status": "pending",
+      "pd_note": "Pre-1930, by term. Note: swashbuckler first, romance second."
+    },
+    {
+      "title": "Girl Shy",
+      "year": 1924,
+      "country": "US",
+      "fits": "A stuttering, love-shy tailor's apprentice chases the woman he loves across the country to stop her wedding.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Seven Chances",
+      "year": 1925,
+      "country": "US",
+      "fits": "Buster Keaton must marry by 7pm to inherit a fortune, and is chased by an army of would-be brides.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term. Note: romantic comedy played for slapstick, not swoon."
+    },
+    {
+      "title": "Flesh and the Devil",
+      "year": 1926,
+      "country": "US",
+      "fits": "Greta Garbo and John Gilbert's steamy, scandalous love triangle that made them Hollywood's hottest onscreen couple.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Love",
+      "year": 1927,
+      "country": "US",
+      "fits": "Garbo and Gilbert again, in a silent adaptation of Anna Karenina focused on the love story.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "7th Heaven",
+      "year": 1927,
+      "country": "US",
+      "fits": "A Parisian sewer worker and a battered waif fall in love against the backdrop of WWI; the film that made Janet Gaynor and Charles Farrell a sensation.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    }
+  ],
+  "independence-day": [
+    {
+      "title": "America",
+      "year": 1924,
+      "country": "US",
+      "fits": "D.W. Griffith's American Revolution epic, following Paul Revere's ride and the fight for independence.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Janice Meredith",
+      "year": 1924,
+      "country": "US",
+      "fits": "A colonial girl falls for a Continental Army soldier during the American Revolution.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Old Ironsides",
+      "year": 1926,
+      "country": "US",
+      "fits": "Epic dramatization of the USS Constitution and the young US Navy's fight against the Barbary pirates.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "Abraham Lincoln",
+      "year": 1930,
+      "country": "US",
+      "fits": "D.W. Griffith's biography of Lincoln, from log cabin to Gettysburg to assassination; patriotic Americana.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Covered Wagon",
+      "year": 1923,
+      "country": "US",
+      "fits": "Pioneer wagon train crosses the Oregon Trail; the foundational Western epic of American westward expansion.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Iron Horse",
+      "year": 1924,
+      "country": "US",
+      "fits": "The building of the transcontinental railroad, framed as the fulfillment of a murdered pioneer's American dream.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Big Trail",
+      "year": 1930,
+      "country": "US",
+      "fits": "A wagon train's trek along the Oregon Trail; John Wayne's first starring role, shot in early widescreen.",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Virginian",
+      "year": 1929,
+      "country": "US",
+      "fits": "Cowboy code-of-honor classic that defined the American Western hero archetype ('When you call me that, smile').",
+      "status": "published",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Man Without a Country",
+      "year": 1925,
+      "country": "US",
+      "fits": "An army officer who renounces the United States spends his life regretting it; patriotic cautionary tale from the Edward Everett Hale story.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    },
+    {
+      "title": "The Yankee Clipper",
+      "year": 1927,
+      "country": "US",
+      "fits": "An American clipper ship races a British rival home across the Atlantic, staking national pride on the outcome.",
+      "status": "missing",
+      "pd_note": "Pre-1930, by term."
+    }
+  ]
+}

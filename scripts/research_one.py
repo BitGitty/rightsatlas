@@ -116,8 +116,9 @@ def _load(p):
 
 
 def _key(slug: str) -> str:
-    """Queue ids and dossier filenames slug apostrophes differently (jaccuse vs j-accuse)."""
-    return re.sub(r"[^a-z0-9]", "", slug.lower())
+    """Queue ids and dossier filenames slug apostrophes and leading articles differently
+    (jaccuse vs j-accuse, the-cabinet-of-dr-caligari vs cabinet-of-dr-caligari)."""
+    return re.sub(r"[^a-z0-9]", "", re.sub(r"^(the|a|an)-", "", slug.lower()))
 
 
 def recently_blocked(days=14, times=2) -> set:
@@ -140,12 +141,12 @@ def next_rows(count=1, only_id=None):
     if only_id:
         return [r for r in rows if r["id"] == only_id][:1]
     done = {_key(p.stem) for p in [*FILMS.glob("*.json"), *PENDING.glob("*.json")]} | recently_blocked()
-    season = {_key(i) for i in seasons.priority_ids()}
+    season = {_key(i): d for i, d in seasons.deadlines().items()}
     cutoff = engine.pd_cutoff_year()
     todo = [r for r in rows if _key(r["id"]) not in done and r.get("renewal_truth") != "known_renewed"]
-    # bright-line US titles first (term expiry is arithmetic, not research), then by demand
+    # nearest holiday first, then bright-line US titles (term expiry is arithmetic), then demand
     todo.sort(key=lambda r: (
-        _key(r["id"]) not in season,
+        season.get(_key(r["id"]), "9999"),
         not ((r.get("country") or "US").upper() in ("US", "USA") and r["year"] <= cutoff),
         -r.get("demand_score", 0)))
     return todo[:count]
@@ -360,12 +361,17 @@ def research(row: dict, old: dict | None = None):
 
 
 def check() -> None:
-    published = {p.stem for p in FILMS.glob("*.json")}
-    rows = next_rows(3)
-    assert rows and all(r["id"] not in published for r in rows), \
-        "selection must skip already-published titles"
+    done = {_key(p.stem) for p in [*FILMS.glob("*.json"), *PENDING.glob("*.json")]}
+    rows = next_rows(40)
+    assert rows and all(_key(r["id"]) not in done for r in rows), \
+        "selection must skip already-published or already-queued titles"
+    assert _key("jaccuse-1919") == _key("j-accuse-1919"), "slug variants must match"
+    assert _key("the-cabinet-of-dr-caligari-1920") == _key("cabinet-of-dr-caligari-1920"), "leading 'the'"
     cutoff = engine.pd_cutoff_year()
-    assert rows[0]["year"] <= cutoff, "bright-line titles must sort first"
+    season = {_key(i) for i in seasons.priority_ids()}
+    rest = [r for r in rows if _key(r["id"]) not in season]
+    assert all(_key(r["id"]) in season for r in rows[:len(rows) - len(rest)]), "in-season titles first"
+    assert not rest or rest[0]["year"] <= cutoff, "then bright-line titles"
     # a well-formed researched candidate passes both gates
     good = {"id": "fixture-1928", "title": "Fixture", "year": 1928, "country": "US",
             "editorial": "x", "watch": [], "faq": [],

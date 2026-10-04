@@ -12,13 +12,158 @@
       "Below is every horror and gothic film we have researched, layer by layer. \"Clear\" means a cited source shows that layer is free in the US. \"Unclear\" means it is not proven either way yet, so treat it as protected. Click a film for the evidence."
     ],
     "films": [
-      "nosferatu-1922", "cabinet-of-dr-caligari-1920", "faust-1926", "the-phantom-of-the-opera-1925",
-      "the-hunchback-of-notre-dame-1923", "the-cat-and-the-canary-1927", "the-unknown-1927",
-      "london-after-midnight-1927", "the-monster-1925", "the-man-who-laughs-1928", "the-last-warning-1928",
-      "night-of-the-living-dead-1968", "carnival-of-souls-1962", "house-on-haunted-hill-1959",
-      "little-shop-of-horrors-1960", "dementia-13-1963", "the-terror-1963", "last-man-on-earth-1964",
-      "plan-9-from-outer-space-1957", "king-kong-1933"
+      "nosferatu-1922",
+      "cabinet-of-dr-caligari-1920",
+      "faust-1926",
+      "the-phantom-of-the-opera-1925",
+      "the-hunchback-of-notre-dame-1923",
+      "the-cat-and-the-canary-1927",
+      "the-unknown-1927",
+      "london-after-midnight-1927",
+      "the-monster-1925",
+      "the-man-who-laughs-1928",
+      "the-last-warning-1928",
+      "night-of-the-living-dead-1968",
+      "carnival-of-souls-1962",
+      "house-on-haunted-hill-1959",
+      "little-shop-of-horrors-1960",
+      "dementia-13-1963",
+      "the-terror-1963",
+      "last-man-on-earth-1964",
+      "plan-9-from-outer-space-1957",
+      "king-kong-1933"
     ],
-    "research": []
+    "research": [
+      "haxan-1922",
+      "the-phantom-carriage-1921",
+      "the-golem-1920",
+      "white-zombie-1932",
+      "the-devil-bat-1940",
+      "the-old-dark-house-1932",
+      "robot-monster-1953"
+    ]
+  },
+  {
+    "slug": "christmas-classics",
+    "title": "Public domain Christmas films — what's actually free",
+    "h1": "Public domain Christmas films",
+    "description": "Which Christmas classics are really free to use? Film print, music, story, trademarks and restorations checked for each film, with cited sources.",
+    "from": "12-01",
+    "to": "12-25",
+    "lead_days": 60,
+    "intro": [
+      "Every December the same classic Christmas films get uploaded, screened and remixed. Some are genuinely free; some only look free. It's a Wonderful Life famously fell into the public domain and was pulled back out through its story and music rights.",
+      "Below, every Christmas film we have researched, layer by layer. \"Clear\" means a cited source shows that layer is free in the US; \"Unclear\" means not proven either way yet."
+    ],
+    "films": [],
+    "research": [
+      "scrooge-1935",
+      "scrooge-1951",
+      "beyond-tomorrow-1940",
+      "the-great-rupert-1950",
+      "christmas-comes-but-once-a-year-1936",
+      "santa-claus-conquers-the-martians-1964",
+      "the-night-before-christmas-1905",
+      "a-christmas-carol-1910",
+      "scrooge-1913",
+      "its-a-wonderful-life-1946"
+    ]
+  },
+  {
+    "slug": "thanksgiving",
+    "title": "Public domain Thanksgiving films — what's actually free",
+    "h1": "Public domain Thanksgiving films",
+    "description": "Public domain films for Thanksgiving, checked layer by layer with cited sources.",
+    "from": "11-01",
+    "to": "11-27",
+    "lead_days": 45,
+    "intro": [
+      "Thanksgiving has very few public-domain films, which makes the ones that exist worth checking carefully. Each film below is checked layer by layer."
+    ],
+    "films": [],
+    "research": [
+      "the-pilgrims-1924"
+    ]
+  },
+  {
+    "slug": "new-years-eve",
+    "title": "Public domain New Year's Eve films — what's actually free",
+    "h1": "Public domain New Year's Eve films",
+    "description": "Classic New Year's Eve films and their US public-domain status, layer by layer.",
+    "from": "12-26",
+    "to": "01-01",
+    "lead_days": 45,
+    "intro": [
+      "Classic films with famous New Year's Eve scenes, checked layer by layer."
+    ],
+    "films": [
+      "the-gold-rush-1925"
+    ],
+    "research": [
+      "sylvester-1923"
+    ]
+  },
+  {
+    "slug": "valentines-romance",
+    "title": "Public domain romance films for Valentine's Day — what's actually free",
+    "h1": "Public domain romance films for Valentine's Day",
+    "description": "Silent-era romance classics for Valentine's Day and what's actually free in each, layer by layer with cited sources.",
+    "from": "02-01",
+    "to": "02-14",
+    "lead_days": 60,
+    "intro": [
+      "The great silent romances are the easiest classics to use legally: most were published before 1931, so the film itself is free in the US. The music on the copy you find, and the restoration it came from, are a different story.",
+      "Below, every romance we have researched, layer by layer."
+    ],
+    "films": [
+      "way-down-east-1920",
+      "camille-1921",
+      "the-four-horsemen-of-the-apocalypse-1921",
+      "blood-and-sand-1922",
+      "beyond-the-rocks-1922",
+      "the-son-of-the-sheik-1926",
+      "sunrise-1927",
+      "street-angel-1928",
+      "the-crowd-1928",
+      "the-docks-of-new-york-1928",
+      "girl-shy-1924",
+      "seven-chances-1925"
+    ],
+    "research": [
+      "the-eagle-1925",
+      "it-1927",
+      "a-woman-of-paris-1923",
+      "he-who-gets-slapped-1924",
+      "the-prisoner-of-zenda-1922",
+      "flesh-and-the-devil-1926",
+      "love-1927",
+      "7th-heaven-1927"
+    ]
+  },
+  {
+    "slug": "independence-day-americana",
+    "title": "Public domain Americana films for the 4th of July — what's actually free",
+    "h1": "Public domain Americana films for the 4th of July",
+    "description": "Classic American history and frontier films for the 4th of July, with their US public-domain status layer by layer.",
+    "from": "06-20",
+    "to": "07-04",
+    "lead_days": 45,
+    "intro": [
+      "Westerns, frontier epics and Revolutionary War dramas from the silent era, each checked layer by layer."
+    ],
+    "films": [
+      "the-covered-wagon-1923",
+      "the-iron-horse-1924",
+      "the-big-trail-1930",
+      "the-virginian-1929"
+    ],
+    "research": [
+      "america-1924",
+      "janice-meredith-1924",
+      "old-ironsides-1926",
+      "abraham-lincoln-1930",
+      "the-man-without-a-country-1925",
+      "the-yankee-clipper-1927"
+    ]
   }
 ]
