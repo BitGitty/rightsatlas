@@ -132,11 +132,18 @@ def ask_claude(row: dict) -> dict:
     # prompt goes on stdin, not argv: Windows truncates a ~6KB command line and the
     # researcher then answers a half-prompt ("which film?") instead of failing loudly.
     with tempfile.TemporaryDirectory() as sandbox:
-        out = subprocess.run([cli, "-p", "--model", MODEL, "--output-format", "json",
-                              "--allowedTools", "WebSearch,WebFetch",
-                              "--disallowedTools", "Write,Edit,MultiEdit,NotebookEdit,Bash"],
-                             input=prompt, capture_output=True, text=True, encoding="utf-8",
-                             timeout=900, cwd=sandbox).stdout
+        proc = subprocess.Popen([cli, "-p", "--model", MODEL, "--output-format", "json",
+                                 "--allowedTools", "WebSearch,WebFetch",
+                                 "--disallowedTools", "Write,Edit,MultiEdit,NotebookEdit,Bash"],
+                                stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                                text=True, encoding="utf-8", cwd=sandbox)
+        try:
+            out = proc.communicate(prompt, timeout=1500)[0]   # foreign/URAA titles need >15 min
+        except subprocess.TimeoutExpired:
+            # killing claude.cmd alone orphans the claude.exe under it: kill the whole tree
+            subprocess.run(["taskkill", "/T", "/F", "/PID", str(proc.pid)], capture_output=True)
+            proc.communicate()
+            raise
     try:                                          # unwrap the CLI result envelope
         out = json.loads(out).get("result", out)
     except json.JSONDecodeError:
@@ -190,7 +197,13 @@ def finish(cand: dict, verify=True):
 
 def research(row: dict):
     print(f"researching {row['id']} ...")
-    cand, reasons = finish(ask_claude(row))
+    try:
+        draft = ask_claude(row)
+    except (subprocess.TimeoutExpired, ValueError) as e:  # one bad title must not sink the batch
+        # ponytail: a title that always times out is retried daily; skip-list it if that happens
+        print(f"  BLOCKED {row['id']}: {type(e).__name__}: {str(e)[:200]}")
+        return None
+    cand, reasons = finish(draft)
     if reasons:
         CAND.mkdir(parents=True, exist_ok=True)
         (CAND / f"{cand['id']}.json").write_text(
