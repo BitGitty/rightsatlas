@@ -41,7 +41,9 @@ Output is consumed by a script, not by a person. Return ONE JSON object and noth
 script verifies your links and runs the gates. Research and answer, nothing more.
 
 QUEUE ROW: {row}
-SKELETON (fill it in, keep the id/title/year/country exactly): {skeleton}
+SKELETON (fill it in, keep the id/title/year exactly): {skeleton}
+Set "country" to the PRODUCTION country as a 2-letter code (US, DE, FR, UK, SE...). The
+queue row's country is often a padded default of "US" and can be wrong (Spione is DE).
 
 Today is {today}. US term expiry: everything published in {cutoff} or earlier is public
 domain in the US by term, full stop — that is a bright line, not a judgement call.
@@ -58,7 +60,9 @@ Evidence rules (the gate enforces these, a violation wastes the run):
   cce_renewal_entry (renewed side). Anything else must use type "research_note".
 - A URL containing "/search", "?q=" or "wikipedia.org" does NOT count as primary. Cite the
   record or an authority page (copyright.gov, Duke CSPD, Library of Congress, a Stanford
-  renewal DB record page), not a search result.
+  renewal DB record page), not a search result. Every cited URL is fetched by the script;
+  a dead or invented address blocks the run. Duke CSPD Public Domain Day pages live at
+  https://web.law.duke.edu/cspd/publicdomainday/<year>/ (there is no copyright.duke.edu).
 - A non-US work claiming a PD print also needs an evidence entry of type "uraa_analysis".
 
 Layer guidance, applied honestly rather than by rote:
@@ -156,11 +160,31 @@ def archive_ok(url: str) -> bool:
         return False
 
 
+def link_dead(url: str) -> bool:
+    """Dead = the domain does not resolve or the page is 404/410. Bot walls (403/429) and
+    timeouts count as alive: the researcher invents addresses, it does not invent firewalls."""
+    try:
+        urllib.request.urlopen(urllib.request.Request(
+            url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/130.0"}),
+            timeout=30).close()
+        return False
+    except urllib.error.HTTPError as e:
+        return e.code in (404, 410)
+    except urllib.error.URLError as e:
+        return isinstance(e.reason, OSError) and "getaddrinfo" in str(e.reason)
+    except Exception:
+        return False
+
+
 def finish(cand: dict, verify=True):
     """Verify links, run both gates. Returns (candidate, blocking_reasons)."""
     cand.pop("_prefill", None)
     cand["watch"] = [w for w in cand.get("watch", []) if not verify or archive_ok(w.get("url"))]
     reasons = qc_candidate.qc(cand) + promote_candidate.gate(cand)
+    if verify:
+        cited = {ev["url"] for L in cand.get("layers", {}).values()
+                 for ev in L.get("evidence", []) if str(ev.get("url", "")).startswith("http")}
+        reasons += [f"dead evidence link {u}" for u in sorted(cited) if link_dead(u)]
     return cand, reasons
 
 
@@ -203,6 +227,7 @@ def check() -> None:
         {"type": "registration", "url": "https://x.org/search?q=a", "note": "n"}]
     assert finish(searchy, verify=False)[1], "search-URL evidence must be blocked"
     assert not archive_ok("https://archive.org/search?query=foo"), "search URL is not a watch link"
+    assert link_dead("https://copyright.duke.invalid/publicdomainday/2024/"), "invented domain must be dead"
     print(f"research_one self-check passed (next up: {', '.join(r['id'] for r in rows)})")
 
 
