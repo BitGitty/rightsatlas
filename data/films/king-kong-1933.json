@@ -3,45 +3,85 @@
   "title": "King Kong",
   "year": 1933,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-05",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
       "status": "not_pd",
       "evidence": [
-        {"type": "term_math", "note": "RKO's 1933 film was registered and renewed; its 95-year US term runs through the end of 2028 — King Kong enters the US public domain on January 1, 2029. Until then the film is fully protected (currently controlled via Warner Bros./Turner).", "source": "US term rules (Cornell chart)", "url": "https://guides.library.cornell.edu/copyright/publicdomain"}
+        {
+          "type": "term_math",
+          "note": "RKO's 1933 film was registered and renewed; its 95-year US term runs through the end of 2028 — King Kong enters the US public domain on January 1, 2029. Until then the film is fully protected (currently controlled via Warner Bros./Turner).",
+          "source": "US term rules (Cornell chart)",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
       ]
     },
     "score": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "Max Steiner's landmark score is protected with the film until the same 2029 expiry.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Max Steiner's landmark score is protected with the film until the same 2029 expiry.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "story": {
       "status": "partially_protected",
       "evidence": [
-        {"type": "court_ruling", "note": "In Universal City Studios v. Nintendo the courts found Universal held NO exclusive rights in the King Kong story and had asserted them in bad faith — so the Kong character and broad story are substantially unprotected. But that ruling decided Universal's lack of rights; it did NOT cleanly adjudicate that the 1932 Delos W. Lovelace novelization is itself public domain, and that specific question is disputed (LibriVox, which records only confirmed-PD texts, has not cleared it). Treat the broad character/story as substantially free, but the novelization as UNCERTAIN — not confirmed-free. The 1933 film's own expression stays protected until 2029.", "source": "Universal City Studios v. Nintendo, 746 F.2d 112 (2d Cir. 1984)", "url": "https://www.courtlistener.com/opinion/442981/universal-city-studios-inc-v-nintendo-co-ltd-nintendo-of-america/"}
+        {
+          "type": "court_ruling",
+          "note": "In the 1976 RKO/Universal litigation over the King Kong remake, Judge Manuel Real (C.D. Cal., ruling of 24 November 1976) held that the 1932 Delos W. Lovelace novelization and its Mystery magazine serialization were in the public domain because their copyrights were never renewed. The film's own original elements stayed protected, and a follow-up ruling (6 December 1976) assigned the rights in the King Kong name, character and story outside the films to Merian C. Cooper's estate. So the novel's text is free; the character and film-specific material are not simply free to use.",
+          "source": "AFI Catalog — King Kong (1976), production history",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/55860"
+        },
+        {
+          "type": "court_ruling",
+          "note": "In Universal City Studios v. Nintendo the courts found Universal held NO exclusive rights in the King Kong story and had asserted them in bad faith — so the Kong character and broad story are substantially unprotected. (The 1932 novelization's own public-domain status comes from the earlier 1976 ruling described above.) The 1933 film's own expression stays protected until 2029.",
+          "source": "Universal City Studios v. Nintendo, 746 F.2d 112 (2d Cir. 1984)",
+          "url": "https://www.courtlistener.com/opinion/442981/universal-city-studios-inc-v-nintendo-co-ltd-nintendo-of-america/"
+        }
       ]
     },
     "trademark": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "KING KONG trademarks are actively registered and exploited (Universal's theme-park attractions among others). Using Kong as a brand, product name, or logo invites trademark action regardless of any copyright analysis.", "source": "USPTO records", "url": "https://tsdr.uspto.gov/"}
+        {
+          "type": "research_note",
+          "note": "KING KONG trademarks are actively registered and exploited (Universal's theme-park attractions among others). Using Kong as a brand, product name, or logo invites trademark action regardless of any copyright analysis.",
+          "source": "USPTO records",
+          "url": "https://tsdr.uspto.gov/"
+        }
       ]
     },
     "restorations": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "All modern remasters and the remakes (1976, 2005, MonsterVerse) are separately protected works.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "All modern remasters and the remakes (1976, 2005, MonsterVerse) are separately protected works.",
+          "source": null,
+          "url": null
+        }
       ]
     }
   },
   "watch": [],
-  "editorial": "King Kong is the film every creator should study before trusting a one-word public-domain answer — because its layers went to war in federal court. In 1982, Universal sued Nintendo claiming Donkey Kong infringed King Kong. Nintendo dug into the chain of title and found the empire had no clothes: the courts ruled Universal held no exclusive rights in the Kong story and had known it, and Nintendo won. (A caution even here — and exactly the kind this site exists to flag: the case decided Universal's LACK of rights, not that the 1932 novelization is cleanly public domain. That book's own status is still debated, so lean on the broad public-domain story, not that single edition.)\n\nSo today: the broad STORY of Kong is substantially free (the character/plot chain is unprotected; the specific 1932 novelization is the disputed part); the 1933 FILM — every frame, every roar of Steiner's score — is protected until January 1, 2029; and the KING KONG name is a live trademark. Three layers, three different answers, one giant ape. Mark your calendar for 2029.",
+  "editorial": "King Kong is the film every creator should study before trusting a one-word public-domain answer — because its layers went to war in federal court. In 1982, Universal sued Nintendo claiming Donkey Kong infringed King Kong. Nintendo dug into the chain of title and found the empire had no clothes: the courts ruled Universal held no exclusive rights in the Kong story and had known it, and Nintendo won. (The novel's own public-domain status was settled earlier, in 1976, when a federal judge found its copyright had never been renewed; a follow-up ruling gave Merian C. Cooper's estate the rights in the Kong name and character outside the films.)\n\nSo today: the broad STORY of Kong is substantially free (the 1932 novel is public domain; the Kong name and character are claimed by the Cooper estate); the 1933 FILM — every frame, every roar of Steiner's score — is protected until January 1, 2029; and the KING KONG name is a live trademark. Three layers, three different answers, one giant ape. Mark your calendar for 2029.",
   "faq": [
-    ["When does King Kong (1933) enter the public domain?", "January 1, 2029 — 95 years after its 1933 publication. This page will update automatically when it happens."],
-    ["Is any part of King Kong free right now?", "The broad character and story are substantially unprotected — Universal v. Nintendo found no one held exclusive Kong story rights. (Caveat: whether the specific 1932 novelization is cleanly public domain is itself disputed, so rely on the general public-domain story rather than that single book.) The film's footage, images, and score are protected until 2029, and KING KONG trademarks remain active indefinitely."],
-    ["Didn't Universal lose a lawsuit about this?", "Yes — they sued Nintendo over Donkey Kong in 1982 and lost precisely because the Kong story's copyright chain had lapsed. The case is the classic proof that studios' rights claims deserve verification."]
+    [
+      "When does King Kong (1933) enter the public domain?",
+      "January 1, 2029 — 95 years after its 1933 publication. This page will update automatically when it happens."
+    ],
+    [
+      "Is any part of King Kong free right now?",
+      "The broad character and story are substantially unprotected — Universal v. Nintendo found no one held exclusive Kong story rights. (Caveat: whether the specific 1932 novelization is cleanly public domain is itself disputed, so rely on the general public-domain story rather than that single book.) The film's footage, images, and score are protected until 2029, and KING KONG trademarks remain active indefinitely."
+    ],
+    [
+      "Didn't Universal lose a lawsuit about this?",
+      "Yes — they sued Nintendo over Donkey Kong in 1982 and lost precisely because the Kong story's copyright chain had lapsed. The case is the classic proof that studios' rights claims deserve verification."
+    ]
   ]
 }
