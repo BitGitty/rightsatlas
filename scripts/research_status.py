@@ -10,6 +10,7 @@ for days):
   4. the newest published film page answers 200 on the live site
   5. the last CI build passed
   6. from 1 Nov, next Public Domain Day's "entering-public-domain-YYYY" page exists
+  7. promotion lanes are alive: TBTF Shorts, TBTF comments, hourly Reddit replies (WARN only)
 Prints the report and sends it to Telegram (Aurora bot, "RightsAtlas" in the first line).
 
   python scripts/research_status.py            # report + Telegram
@@ -84,7 +85,30 @@ def gather() -> dict:
         "pending": len([l for l in git("ls-tree", "--name-only", "origin/main", "data/pending/").splitlines()
                         if l.endswith(".json")]),
         "ci": ci,
+        "lanes": lanes(today),
     }
+
+
+SHORTS = Path("D:/viral-shorts-factory/extras/rightsatlas_shorts")
+REDDIT_LOG = Path("D:/rightsatlas-private/logs/reddit_watch.log")
+
+
+def lanes(today: date) -> dict:
+    """Last activity of each promotion lane (dates), read from their own ledgers/logs."""
+    def last(path, key, field="date"):
+        try:
+            rows = json.loads(path.read_text(encoding="utf-8")).get(key, [])
+            return max((r.get(field, "") for r in rows), default=None)
+        except Exception:
+            return None
+    try:
+        reddit = REDDIT_LOG.read_text(encoding="utf-8").strip().splitlines()[-1][:16]
+    except Exception:
+        reddit = None
+    return {"shorts": last(SHORTS / "ledger.json", "shorts", "made"),
+            "comments": last(SHORTS / "comments_ledger.json", "done"),
+            "comment_token": (Path("D:/viral-shorts-factory") / "token_tbtf_ssl.json").exists(),
+            "reddit": reddit}
 
 
 def evaluate(f: dict):
@@ -131,6 +155,18 @@ def evaluate(f: dict):
     elif ci.get("status") == "completed" and ci.get("conclusion") in ("failure", "timed_out", "startup_failure"):
         # "cancelled" is normal: a newer push supersedes a running deploy
         fails.append(f"last site build: {ci.get('conclusion')}")
+    ln, stale = f.get("lanes") or {}, (date.fromisoformat(f["today"]) - timedelta(days=2)).isoformat()
+    if ln:
+        lines.append(f"Promotion: Shorts last {ln.get('shorts') or 'never'} · comments last "
+                     f"{ln.get('comments') or 'never'} · Reddit check {ln.get('reddit') or 'never'}")
+        if not ln.get("shorts") or ln["shorts"] < stale:
+            warns.append("no TBTF Short made in 2 days (see rightsatlas_shorts/logs/shorts.log)")
+        if not ln.get("comment_token"):
+            warns.append("TBTF comments off: needs the owner's one-time passkey approval")
+        elif not ln.get("comments") or ln["comments"] < stale:
+            warns.append("no TBTF comments posted in 2 days")
+        if not ln.get("reddit") or ln["reddit"][:10] < stale:
+            warns.append("Reddit reply job has not run in 2 days")
     verdict = "FAIL" if fails else "WARN" if warns else "OK"
     return verdict, [f"FAIL: {x}" for x in fails] + [f"WARN: {x}" for x in warns] + lines
 
@@ -170,6 +206,9 @@ def check() -> None:
     assert evaluate({**good, "unpushed": 1})[0] == "FAIL", "an unpushed research commit must FAIL"
     assert evaluate({**good, "made_2d": []})[0] == "FAIL", "2 days without output must FAIL"
     assert evaluate({**good, "class_page_missing": True})[0] == "WARN", "missing class page must WARN"
+    lane_ok = {"shorts": "2026-10-05", "comments": "2026-10-05", "comment_token": True, "reddit": "2026-10-05 09:00"}
+    assert evaluate({**good, "lanes": lane_ok})[0] == "OK"
+    assert evaluate({**good, "lanes": {**lane_ok, "shorts": None}})[0] == "WARN", "a dead Shorts lane must WARN"
     print("research_status self-check passed")
 
 
