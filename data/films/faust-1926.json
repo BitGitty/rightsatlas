@@ -1,0 +1,111 @@
+{
+  "id": "faust-1926",
+  "title": "Faust",
+  "year": 1926,
+  "country": "DE",
+  "last_verified": "2026-10-04",
+  "byline": "Dir. F.W. Murnau; prod. Universum Film AG (UFA), Berlin",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1926; the maximum US copyright term of 95 years expired December 31, 2021, placing the film in the US public domain from January 1, 2022 regardless of whether a renewal was filed. Duke CSPD's 2022 Public Domain Day page explicitly lists this film among the 1926 works that entered the public domain that year.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2022",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2022/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "German production by UFA. URAA Section 104A restoration (17 U.S.C. § 104A) could only restore the remaining portion of the US term — in any scenario, that term was capped at 95 years from 1926 and expired December 31, 2021. No active URAA restoration remains. The archetype 'uraa_foreign' reflects the historical restoration period (ca. 1996–2021), which has now ended.",
+          "source": "17 U.S.C. § 104A — US Copyright Office",
+          "url": "https://www.copyright.gov/title17/92chap1.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Faust (1926) was a silent film with no recorded soundtrack; the images are public domain by term. Every commercial version today adds a recorded accompaniment: Kino Lorber's 2015 Blu-ray carries a piano score by Javier Pérez de Azpeitia (adapted from the original 1926 orchestral arrangement) and an ensemble score by the Mont Alto Motion Picture Orchestra, and Timothy Brock's 1995 orchestral score accompanies the US release version. Those recordings are protected. A live or newly recorded score of your own is yours.",
+          "source": "US Copyright Act — Subject Matter (§ 102)",
+          "url": "https://www.copyright.gov/title17/92chap1.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Goethe's Faust Part I (1808) and Part II (1832), both many decades in the public domain. The 1926 screenplay by Hans Kyser is itself a 1926 work whose US term — like the film — expired December 31, 2021. There is no underlying story layer that survives the film's own term expiry.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2022",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2022/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "'Faust' is a generic mythological and literary name used across centuries and thousands of works; no film-specific trademark is known. The characters Mephisto, Gretchen, and Faust as depicted in this film have not been identified as active trademark registrations. A search of USPTO TESS before a commercial project is advisable, as character-level marks from revival campaigns can appear unexpectedly.",
+          "source": "USPTO Trademark Electronic Search System",
+          "url": "https://tmsearch.uspto.gov/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The F. W. Murnau Foundation (Friedrich-Wilhelm-Murnau-Stiftung) restored the original German release version from 35mm elements. That restoration is the one on Kino Lorber's 2015 Blu-ray and Eureka's UK release, and on most streaming copies. Treat the restored version and its new material as protected; it is not the free source.",
+          "source": "Kino Lorber — catalog page for Faust (1926)",
+          "url": "https://www.kinolorber.com/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1953,
+      1954,
+      1955
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"Faust\" (renewals ~1953, 1954, 1955)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Faust"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/faust-1926",
+      "label": "Internet Archive (English subtitles; check the audio before reuse)",
+      "quality": "good"
+    }
+  ],
+  "editorial": "F.W. Murnau's Faust (1926) was the most expensive film UFA had made up to then: a German Expressionist epic with Emil Jannings as a leering, cape-spreading Mephisto, Gösta Ekman as the aging scholar Faust, and Camilla Horn as Gretchen. Shot at UFA's Neubabelsberg studios and released in Germany on October 14, 1926, it was the last film Murnau completed before departing for Hollywood. The aerial shot of Mephisto's cloak blotting out an entire village — achieved through model work and double exposure — directly inspired the \"Night on Bald Mountain\" sequence in Disney's Fantasia (1940). The photographic print entered the US public domain on January 1, 2022, ninety-five years from its 1926 publication, as confirmed by Duke CSPD's Public Domain Day 2022 listing.\n\nThe dominant rights trap is the restoration layer. The copy most creators will meet — on Kino Lorber's 2015 Blu-ray, on streaming services and on many archive uploads — is the F. W. Murnau Foundation's restoration, and it comes with modern recorded scores (a piano score by Javier Pérez de Azpeitia, an ensemble score by the Mont Alto Motion Picture Orchestra, and Timothy Brock's 1995 orchestral score on the US version). Those recordings are protected, and the restored version should be treated as protected too. To stay inside public-domain material, use a copy that traces back to an older, unrestored print and add your own audio. Goethe's text (1808/1832) and Hans Kyser's 1926 screenplay are long out of copyright, so new adaptations of the story carry no story-layer risk.",
+  "faq": [
+    [
+      "Can I use footage from Faust (1926) without a license?",
+      "The original 1926 film images are US public domain. The catch is which copy you use: the Murnau Foundation's restoration — the version on most Blu-rays, streaming platforms, and many archive uploads — carries its own copyright and protected recorded scores. To use footage freely, trace your copy to a pre-restoration print from an institutional archive, not from a commercial release or a community upload whose provenance is unclear."
+    ],
+    [
+      "Does Goethe's Faust being public domain mean I'm free to adapt the story?",
+      "Yes — the underlying legend and Goethe's 1808/1832 text are both long public domain, so writing a new Faust story or screenplay carries no story-rights obstacle. The 1926 Murnau film is also now public domain in the US, so you can draw on its specific visual approach and screenplay as well. The limits are the restoration print (not free) and any newly composed score on a modern copy (not free)."
+    ]
+  ]
+}
