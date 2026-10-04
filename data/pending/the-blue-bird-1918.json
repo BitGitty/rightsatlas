@@ -1,0 +1,121 @@
+{
+  "id": "the-blue-bird-1918",
+  "title": "The Blue Bird",
+  "year": 1918,
+  "country": "US",
+  "last_verified": "2026-10-05",
+  "byline": "Dir. Maurice Tourneur · Famous Players-Lasky / Paramount · 1918 · Silent fantasy, 6 reels",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Registered March 25, 1918 by Famous Players-Lasky Corporation [LP12216]; all US works published through 1930 are PD as of 2026 — maximum 95-year term (with renewal) expired 2013",
+          "source": "Silent Era Film Reference — The Blue Bird (1918)",
+          "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Full-text search of CCE 1945 Part 1 Group 3 Vol. 18 (motion pictures) found no renewal entry for 'Blue Bird' or 'The Blue Bird'",
+          "source": "Catalog of Copyright Entries, New Series, Part 1 Group 3, 1945 Vol. 18 — Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyrig181libr"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Full-text search of CCE 1946 Part 1 Group 3 Vol. 19 (dramatic compositions, motion pictures) found no renewal entry for 'Blue Bird' or 'The Blue Bird'",
+          "source": "Catalog of Copyright Entries, New Series, Part 1 Group 3, 1946 Vol. 19 — Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyrig191libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film — no fixed soundtrack exists. Any accompaniment score on a modern copy (newly recorded piano, orchestral, or electronic score) is independently copyrighted in the performer and/or composer and is not covered by the underlying film's PD status",
+          "source": "Silent Era Film Reference — The Blue Bird (1918)",
+          "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapts Maurice Maeterlinck's play 'L'Oiseau bleu' (1908); published before 1923, placing it within the US pre-1928 PD bright line; as of 2026 the story layer is PD under any applicable term calculation",
+          "source": "Silent Era Film Reference — The Blue Bird (1918)",
+          "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Maeterlinck was Belgian (d. 1949); Belgian copyright runs to 2019 (life+70), meaning the 1908 play was still protected in Belgium in 1996 when URAA took effect and could notionally have been restored in the US. However, even a restored US copyright on a 1908 work would have carried a maximum 95-year term expiring 2003; the story is definitively PD in the US as of 2026 under any scenario",
+          "source": "Silent Era Film Reference — The Blue Bird (1918)",
+          "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Film was reconstructed in 1990 by George Eastman Museum curators Paolo Cherchi Usai and Edward Stratmann. GEM holds 35mm nitrate positive, fine-grain preservation negative, and preservation positive. Museum of Modern Art also holds prints. GEM's reconstruction represents an institutional editorial effort whose rights are independent of the underlying film's PD status; copies sourced from GEM's preservation materials embed that interest",
+          "source": "Silent Era Film Reference — The Blue Bird (1918)",
+          "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1945,
+      1946,
+      1947
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"The Blue Bird\" (renewals ~1945, 1946, 1947)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Blue+Bird"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-blue-bird",
+      "label": "The Blue Bird (1918) — community upload, Silent Films collection, Internet Archive",
+      "quality": "community"
+    },
+    {
+      "url": "https://archive.org/details/the_blue_bird",
+      "label": "The Blue Bird (1918) — community upload, Internet Archive",
+      "quality": "community"
+    }
+  ],
+  "editorial": "Maurice Tourneur's The Blue Bird was produced by Famous Players-Lasky Corporation at Fort Lee, New Jersey and released through Paramount on March 31, 1918. The film adapts Maurice Maeterlinck's Belgian fantasy play, following two children guided by a fairy through spirit realms in search of the Blue Bird of Happiness; production designer Ben Carré and cinematographer John van den Broek created the elaborate dream settings. Famous Players-Lasky registered the copyright on March 25, 1918 (LP12216). In 2004 the Library of Congress added the film to the National Film Registry as culturally and historically significant.\n\nThe 1918 print is in the US public domain — Famous Players-Lasky's copyright was never renewed (no entry in the 1945 or 1946 Catalog of Copyright Entries), and the maximum possible term of 95 years expired in 2013. The practical rights trap is the 1990 reconstruction by George Eastman Museum curators Paolo Cherchi Usai and Edward Stratmann: GEM holds the authoritative preservation materials (35mm nitrate positive, fine-grain negative, preservation positive), and MoMA also holds prints. Any copy traceable to those institutional holdings may carry GEM's or MoMA's institutional rights. Community copies on Archive.org are freely streamable, but a reuser who needs provenance certainty should confirm the specific print's source before publication.",
+  "faq": [
+    [
+      "Is the footage of The Blue Bird (1918) free to use?",
+      "The underlying 1918 film is in the US public domain — Famous Players-Lasky's copyright expired no later than 1946 and was not renewed. Community copies on Archive.org (identifiers: silent-the-blue-bird, the_blue_bird) stream and download freely. Maeterlinck's 1908 source play is also PD. Be aware that any accompaniment score on a given copy may be independently protected, and the modern score or recording is not covered by the film's PD status."
+    ],
+    [
+      "Does the 1990 George Eastman Museum reconstruction affect my rights?",
+      "Yes, if your copy originates from GEM's preservation materials. GEM's 1990 reconstruction by curators Paolo Cherchi Usai and Edward Stratmann is an institutional editorial effort with its own rights. Copies derived from GEM's or MoMA's holdings may embed that interest. If you source from Archive.org community uploads, check the upload's stated provenance; if the uploader cannot trace the print, treat it as potentially sourced from an institutional restoration and seek a different copy or clearance."
+    ]
+  ]
+}
