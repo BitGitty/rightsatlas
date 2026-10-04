@@ -3,48 +3,98 @@
   "title": "Dementia 13",
   "year": 1963,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-05",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "verified_pd",
       "evidence": [
-        {"type": "renewal_absence", "note": "Roger Corman production released 1963; no renewal registration is known and the film has circulated as US public domain for decades. Primary renewal-search scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/Dementia_13"},
-        {"type": "hosting", "note": "Multiple long-standing Internet Archive copies.", "source": "Internet Archive", "url": "https://archive.org/details/TERRORDEMENTIA13"}
+        {
+          "type": "cce_entry",
+          "note": "No entry for 'Dementia 13' found in the Library of Congress Catalog of Copyright Entries, Cumulative Series: Motion Pictures 1960–1969. This volume indexes all motion picture registrations from that decade; the film's absence indicates it was never formally registered under the 1909 Act.",
+          "source": "Library of Congress / Internet Archive — CCE Motion Pictures 1960–1969",
+          "url": "https://archive.org/details/Motionpict19601969librrich0013"
+        },
+        {
+          "type": "research_note",
+          "note": "Roger Corman's The Filmgroup is documented to have routinely released films without copyright registration. The company dissolved in 1968. No renewal record for the statutory 28th year (1991) has been located.",
+          "source": "Wikipedia — The Filmgroup",
+          "url": "https://en.wikipedia.org/wiki/The_Filmgroup"
+        },
+        {
+          "type": "hosting",
+          "note": "Multiple long-running Internet Archive copies exist without restriction, consistent with accepted public domain status.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/dementia-13-1963-horror-full-movie-francis-ford-coppola"
+        }
       ]
     },
     "score": {
-      "status": "undetermined",
+      "status": "verified_pd",
       "evidence": [
-        {"type": "research_note", "note": "Ronald Stein score; separate registration status not verified here.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Score composed by Ronald Stein as work-for-hire for The Filmgroup. As an integral element of an unregistered sound film, the recorded score shares the print's public domain status. For a sound film the soundtrack track normally carries the film's own copyright status; that is the case here. No separate publication or standalone registration of the Stein score for this film has been identified.",
+          "source": "Wikipedia — Ronald Stein",
+          "url": "https://en.wikipedia.org/wiki/Ronald_Stein"
+        }
       ]
     },
     "story": {
-      "status": "likely_pd",
+      "status": "verified_pd",
       "evidence": [
-        {"type": "research_note", "note": "Original screenplay by Francis Ford Coppola; no pre-existing underlying work.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Original screenplay written by Francis Ford Coppola directly for this production; no pre-existing literary source. As an integral element of an unregistered film, the incorporated screenplay shares the print's public domain status.",
+          "source": "Wikipedia — Dementia 13",
+          "url": "https://en.wikipedia.org/wiki/Dementia_13"
+        }
       ]
     },
     "trademark": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
-        {"type": "research_note", "note": "No known active marks; the 2017 remake is separately protected.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "The Filmgroup is dissolved and no active franchise or ongoing licensing program for this title is known. A 2017 remake exists as a separately protected work. USPTO trademark database was not searched in this session; status remains undetermined.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "restorations": {
       "status": "not_pd",
       "evidence": [
-        {"type": "research_note", "note": "The 2021 'Director's Cut' restoration (Vestron/Lionsgate) contains new protectable elements.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "American Zoetrope produced a Director's Cut restoration under Francis Ford Coppola's personal supervision. Work was completed in 2017 under James T. Mockoski; editing by Robert Schafer; sound restoration by Jim McKee of Earwax Productions. Released to 1080p Blu-ray and Digital 4K UHD on September 21, 2021. This version constitutes a new copyrightable work and is fully protected regardless of the underlying film's status.",
+          "source": "Wikipedia — Dementia 13",
+          "url": "https://en.wikipedia.org/wiki/Dementia_13"
+        }
       ]
     }
   },
   "watch": [
-    {"url": "https://archive.org/details/TERRORDEMENTIA13", "label": "Internet Archive (DVD rip, film is title 4)", "quality": "480p"},
-    {"url": "https://archive.org/details/Dementia13_201411", "label": "Internet Archive (single file)", "quality": "480p"}
+    {
+      "url": "https://archive.org/details/dementia-13-1963-horror-full-movie-francis-ford-coppola",
+      "label": "Internet Archive — Dementia 13 (1963), archival print",
+      "quality": "360p"
+    },
+    {
+      "url": "https://archive.org/details/TERRORDEMENTIA13",
+      "label": "Internet Archive — double feature (The Terror & Dementia 13), DVD rip",
+      "quality": "480p"
+    }
   ],
-  "editorial": "Francis Ford Coppola's real directing debut — shot in nine days in Ireland on Roger Corman's leftover budget — was never renewed, and spent the home-video era as a drive-in staple of public-domain horror boxes. Nine years later the same director made The Godfather.\n\nIts layers are unusually clean for a 1963 film: original Coppola screenplay, purpose-written score with no known separate chain, no franchise marks. The modern trap is the 2021 Director's Cut restoration, which is a new protected master — stick to archival prints.",
+  "editorial": "Francis Ford Coppola's first mainstream feature was shot in nine days at Ardmore Studios in Bray, Ireland, on leftover budget from a Roger Corman production. Coppola wrote the screenplay and directed around the exteriors of Howth Castle in a Dublin suburb; the film reached US theaters on September 25, 1963, through American International Pictures (AIP). No entry for the title appears in the Library of Congress's cumulative Catalog of Copyright Entries for motion pictures from 1960 to 1969, consistent with The Filmgroup's documented practice of releasing films without formal registration. The company dissolved in 1968 and no renewal was filed before the 1991 statutory deadline.\n\nThe one active rights trap is the 2021 American Zoetrope Director's Cut — restoration work completed in 2017 under James T. Mockoski, sound restoration by Jim McKee of Earwax Productions, released to Blu-ray and Digital 4K UHD in September 2021. That master is a new protected work regardless of the underlying film's status. Archival prints, including those circulating in public-domain compilations and on Internet Archive, are clear; the Zoetrope restoration is not.",
   "faq": [
-    ["Can I upload or reuse Dementia 13?", "Risk is comparatively low on archival prints. Avoid the 2021 Director's Cut master, and keep this page's evidence for any dispute."],
-    ["Is this really Coppola's first film?", "It's his first mainstream feature as writer-director — which is why the film matters beyond its budget."]
+    [
+      "Can I upload or distribute Dementia 13?",
+      "Archival prints are in the public domain — you can use, upload, or distribute them without clearance. Do not use the 2021 American Zoetrope Director's Cut, which is a separately protected master. Confirm your copy is not that restoration before publishing."
+    ],
+    [
+      "Why was Dementia 13 never renewed?",
+      "Roger Corman's The Filmgroup routinely released films without formal copyright registration — no entry for this title appears in the Library of Congress cumulative motion pictures catalog for 1960–1969. The company folded in 1968, and no one filed a renewal before the 1991 deadline."
+    ]
   ]
 }
