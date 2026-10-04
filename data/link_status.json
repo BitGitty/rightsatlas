@@ -46,6 +46,11 @@
    "film": "ben-hur-1925",
    "kind": "watch"
   },
+  "silent-beyond-the-rocks": {
+   "ok": true,
+   "film": "beyond-the-rocks-1922",
+   "kind": "watch"
+  },
   "BlindHusbands1919": {
    "ok": true,
    "film": "blind-husbands-1919",
