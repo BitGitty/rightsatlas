@@ -4,14 +4,14 @@
   "year": 1925,
   "country": "US",
   "last_verified": "2026-09-09",
-  "byline": "Fred Niblo (dir.) Â· Bess Meredyth & Carey Wilson (screenplay) Â· Ramon Novarro, Francis X. Bushman Â· Loew's Inc. / MGM (1925)",
+  "byline": "Fred Niblo (dir.) · Bess Meredyth & Carey Wilson (screenplay) · Ramon Novarro, Francis X. Bushman · Loew's Inc. / MGM (1925)",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925 in the US; copyright held by Loew's Inc. (MGM). The 95-year maximum term under 17 U.S.C. Â§ 304 as extended by the Sonny Bono Copyright Term Extension Act (1998) expired January 1, 2021. Whether or not Loew's renewed in 1952â€“53, the full statutory term has run.",
+          "note": "Published 1925 in the US; copyright held by Loew's Inc. (MGM). The 95-year maximum term under 17 U.S.C. § 304 as extended by the Sonny Bono Copyright Term Extension Act (1998) expired January 1, 2021. Whether or not Loew's renewed in 1952–53, the full statutory term has run.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
           "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
         }
@@ -77,11 +77,11 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB â€“ search 'Ben-Hur' (renewals ~1952, 1953, 1954)",
+        "label": "Stanford Copyright Renewal DB – search 'Ben-Hur' (renewals ~1952, 1953, 1954)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Ben-Hur"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) â€“ browse the Motion Pictures renewal-year volume by hand",
+        "label": "Catalog of Copyright Entries (archive.org) – browse the Motion Pictures renewal-year volume by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
@@ -93,16 +93,16 @@
   "watch": [
     {
       "url": "https://archive.org/details/silent-ben-hur-a-tale-of-the-christ-1925",
-      "label": "Ben Hur, A Tale Of The Christ (1925) â€” Internet Archive silent_films collection; full feature, 2.7 GB MPEG4, publicly accessible",
+      "label": "Ben Hur, A Tale Of The Christ (1925) — Internet Archive silent_films collection; full feature, 2.7 GB MPEG4, publicly accessible",
       "quality": "high"
     },
     {
       "url": "https://archive.org/details/ben-hur-a-tale-of-the-christ-1925",
-      "label": "Ben Hur, A Tale Of The Christ (1925) â€” Internet Archive opensource_movies collection; Portuguese-subtitle version, publicly accessible",
+      "label": "Ben Hur, A Tale Of The Christ (1925) — Internet Archive opensource_movies collection; Portuguese-subtitle version, publicly accessible",
       "quality": "medium"
     }
   ],
-  "editorial": "Ben-Hur: A Tale of the Christ (1925) was the most expensive American silent film ever made â€” a production that cost Loew's Inc. (MGM's parent) roughly $4 million after a disastrous start in Rome under director Charles Brabin. Fred Niblo replaced Brabin mid-production, Ramon Novarro took the title role opposite Francis X. Bushman as the treacherous Messala, and the film finally reached American theaters in December 1925. The chariot race was filmed in a purpose-built Circus Maximus replica at Culver City, and early two-strip Technicolor sequences give the climax visual punch that survives in surviving prints. The Library of Congress selected it for the National Film Registry in 1997. The original copyright, held by Loew's Inc., expired January 1, 2021 when the 95-year US term ran out; the photographic print is in the public domain and free to exhibit, stream, edit, or incorporate.\n\nThe rights trap is not in the images but in the score. As a silent film, Ben-Hur (1925) has no original synchronized audio â€” the print itself carries no music rights. The most widely distributed version, however, comes from a Photoplay Productions restoration supervised by film historian Kevin Brownlow, with an orchestral score composed by Carl Davis in 1987; Warner Home Video released this restoration in 2005 bundled with the 1959 film. The Carl Davis score is a separately copyrighted musical composition and the recording a separately protected phonogram â€” neither inherits the print's public-domain status. A creator distributing or streaming the Warner restoration with its Carl Davis accompaniment must license that score. Using the raw public-domain print with an original or separately cleared score carries no such encumbrance.",
+  "editorial": "Ben-Hur: A Tale of the Christ (1925) was the most expensive American silent film ever made — a production that cost Loew's Inc. (MGM's parent) roughly $4 million after a disastrous start in Rome under director Charles Brabin. Fred Niblo replaced Brabin mid-production, Ramon Novarro took the title role opposite Francis X. Bushman as the treacherous Messala, and the film finally reached American theaters in December 1925. The chariot race was filmed in a purpose-built Circus Maximus replica at Culver City, and early two-strip Technicolor sequences give the climax visual punch that survives in surviving prints. The Library of Congress selected it for the National Film Registry in 1997. The original copyright, held by Loew's Inc., expired January 1, 2021 when the 95-year US term ran out; the photographic print is in the public domain and free to exhibit, stream, edit, or incorporate.\n\nThe rights trap is not in the images but in the score. As a silent film, Ben-Hur (1925) has no original synchronized audio — the print itself carries no music rights. The most widely distributed version, however, comes from a Photoplay Productions restoration supervised by film historian Kevin Brownlow, with an orchestral score composed by Carl Davis in 1987; Warner Home Video released this restoration in 2005 bundled with the 1959 film. The Carl Davis score is a separately copyrighted musical composition and the recording a separately protected phonogram — neither inherits the print's public-domain status. A creator distributing or streaming the Warner restoration with its Carl Davis accompaniment must license that score. Using the raw public-domain print with an original or separately cleared score carries no such encumbrance.",
   "faq": [
     [
       "Is the 1925 Ben-Hur print free to use?",
@@ -110,7 +110,7 @@
     ],
     [
       "Can I use the chariot race footage commercially without permission?",
-      "Yes â€” the footage itself is public domain. Source it from the raw print (e.g., via the Internet Archive) rather than the Warner Home Video restoration if you want to avoid the Carl Davis score copyright entanglement. Verify that the specific copy you use is not a proprietary restoration asserting new rights in the transfer. Also note that the 'Ben-Hur' title may carry active franchise trademark interests tied to the MGM / Warner Bros. Discovery library; consult trademark counsel before naming a commercial product after the film."
+      "Yes — the footage itself is public domain. Source it from the raw print (e.g., via the Internet Archive) rather than the Warner Home Video restoration if you want to avoid the Carl Davis score copyright entanglement. Verify that the specific copy you use is not a proprietary restoration asserting new rights in the transfer. Also note that the 'Ben-Hur' title may carry active franchise trademark interests tied to the MGM / Warner Bros. Discovery library; consult trademark counsel before naming a commercial product after the film."
     ]
   ]
 }
