@@ -197,7 +197,7 @@ PROBLEMS: {issues}
 DOSSIER: {cand}"""
 
 
-def _claude(prompt: str) -> str:
+def _claude(prompt: str, model: str = MODEL) -> str:
     """One headless claude -p call (web tools only, no file tools); returns its text result."""
     cli = shutil.which("claude") or "claude"      # Windows needs the resolved .cmd
     # Run OUTSIDE the repo: given repo access the researcher writes and "promotes" its own
@@ -206,7 +206,7 @@ def _claude(prompt: str) -> str:
     # prompt goes on stdin, not argv: Windows truncates a ~6KB command line and the
     # researcher then answers a half-prompt ("which film?") instead of failing loudly.
     with tempfile.TemporaryDirectory() as sandbox:
-        proc = subprocess.Popen([cli, "-p", "--model", MODEL, "--output-format", "json",
+        proc = subprocess.Popen([cli, "-p", "--model", model, "--output-format", "json",
                                  "--allowedTools", "WebSearch,WebFetch",
                                  "--disallowedTools", "Write,Edit,MultiEdit,NotebookEdit,Bash"],
                                 stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
