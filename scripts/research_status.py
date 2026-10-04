@@ -107,7 +107,8 @@ def evaluate(f: dict):
     ci = f["ci"]
     if ci is None:
         warns.append("site build status unknown (gh unavailable)")
-    elif ci.get("status") == "completed" and ci.get("conclusion") != "success":
+    elif ci.get("status") == "completed" and ci.get("conclusion") in ("failure", "timed_out", "startup_failure"):
+        # "cancelled" is normal: a newer push supersedes a running deploy
         fails.append(f"last site build: {ci.get('conclusion')}")
     verdict = "FAIL" if fails else "WARN" if warns else "OK"
     return verdict, [f"FAIL: {x}" for x in fails] + [f"WARN: {x}" for x in warns] + lines
