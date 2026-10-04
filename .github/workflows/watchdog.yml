@@ -1,0 +1,19 @@
+name: watchdog
+# Independent of the owner's PC: alerts on Telegram if research or publishing stopped.
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 13:00 Singapore, after the 06:10 research run and the nightly release
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/watchdog.py --check
+      - run: python scripts/watchdog.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

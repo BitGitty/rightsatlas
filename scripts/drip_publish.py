@@ -22,12 +22,13 @@ FILMS = ROOT / "data" / "films"
 STATE = ROOT / "data" / "drip_state.json"
 
 
-def release_one(today: str, pending: Path, films: Path, state: Path) -> str | None:
-    """Move the oldest pending dossier into films/, once per day. Returns its id or None."""
+def release_one(today: str, pending: Path, films: Path, state: Path, priority=()) -> str | None:
+    """Move one pending dossier into films/, once per day: an in-season one (`priority` ids)
+    first, else the oldest. Returns its id or None."""
     st = json.loads(state.read_text(encoding="utf-8")) if state.exists() else {}
     if st.get("last_release") == today:
         return None                                   # already dripped today
-    pend = sorted(pending.glob("*.json"), key=lambda p: p.stat().st_mtime)  # FIFO
+    pend = sorted(pending.glob("*.json"), key=lambda p: (p.stem not in priority, p.stat().st_mtime))
     if not pend:
         return None
     pick = pend[0]
@@ -40,7 +41,9 @@ def release_one(today: str, pending: Path, films: Path, state: Path) -> str | No
 
 def main() -> int:
     PENDING.mkdir(parents=True, exist_ok=True)
-    released = release_one(date.today().isoformat(), PENDING, FILMS, STATE)
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import seasons
+    released = release_one(date.today().isoformat(), PENDING, FILMS, STATE, seasons.priority_ids())
     n_left = len(list(PENDING.glob("*.json")))
     print(f"drip: released {released} -> data/films/ ({n_left} left)" if released
           else f"drip: nothing today (already dripped or pending empty; {n_left} pending)")
@@ -58,6 +61,9 @@ def demo():
         assert (films / "a-1920.json").exists()
         assert release_one("2026-07-19", pend, films, state) is None       # 1/day gate
         assert release_one("2026-07-20", pend, films, state) == "b-1921"   # next day, next film
+        (pend / "c-1922.json").write_text("{}"); time.sleep(0.02)
+        (pend / "x-1925.json").write_text("{}")
+        assert release_one("2026-07-21", pend, films, state, {"x-1925"}) == "x-1925"  # in season first
         print("OK drip demo: FIFO order + 1/day gate work")
 
 

@@ -13,6 +13,8 @@ from datetime import date
 from pathlib import Path
 
 import engine
+sys.path.insert(0, str(Path(__file__).resolve().parent / "scripts"))
+import seasons  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "site"
@@ -20,6 +22,12 @@ BASE = os.environ.get("BASE_URL", "/").rstrip("/") + "/"
 YEAR = date.today().year
 CUTOFF = engine.pd_cutoff_year()
 NEXT_CLASS = engine.next_pd_class_year()
+# Every "entering-public-domain-YYYY" page ever written stays built. The nav links next
+# January's class; until that page is written it falls back to the newest one, so the
+# Class-of page never 404s on Public Domain Day (it used to vanish on 1 January).
+CLASSES = sorted(int(p.stem.rsplit("-", 1)[1])
+                 for p in (ROOT / "content").glob("entering-public-domain-*.html"))
+CLASS_YEAR = NEXT_CLASS + 96 if (NEXT_CLASS + 96) in CLASSES or not CLASSES else CLASSES[-1]
 
 DISCLAIMER = (
     "RightsAtlas publishes research about the copyright status of works — "
@@ -48,7 +56,8 @@ def page(title, desc, body, extra_head=""):
   <a class="brand" href="{BASE}">Rights<span>Atlas</span></a>
   <nav>
     <a href="{BASE}films/">Films</a>
-    <a href="{BASE}entering-public-domain-{NEXT_CLASS + 96}/">Class of {NEXT_CLASS + 96}</a>
+    <a href="{BASE}entering-public-domain-{CLASS_YEAR}/">Class of {CLASS_YEAR}</a>
+    <a href="{BASE}collections/">Collections</a>
     <a href="{BASE}methodology/">Methodology</a>
     <a href="{BASE}corrections/">Corrections</a>
     <a href="{BASE}about/">About</a>
@@ -169,12 +178,16 @@ answers are wrong so often.</p>
 
 
 def index_page(films, backlog_count):
+    seasonal = "".join(
+        f'<section class="callout seasonal"><h2>{e(c["h1"])}</h2><p>{e(c["intro"][0])}</p>'
+        f'<p><a href="{BASE}collections/{c["slug"]}/">See what\'s actually free →</a></p></section>'
+        for c in seasons.in_season())
     cards = ""
     for f in sorted(films, key=lambda x: x["title"]):
         g = engine.guidance(f)
         cards += (f'<a class="card {g["reuse"][0]}" href="{BASE}film/{f["id"]}/">'
                   f'<strong>{e(f["title"])}</strong><span>{f["year"]}</span></a>')
-    body = f"""
+    body = f"""{seasonal}
 <section class="hero">
 <h1>Can you legally use that film?</h1>
 <div class="hero-stat" style="text-align:center;margin:.6rem 0 1rem">
@@ -200,7 +213,7 @@ No green checkmarks without proof.</p>
 <section class="callout">
 <h2>January 1, {NEXT_CLASS + 96}: the next public domain class</h2>
 <p>Every film published in {NEXT_CLASS} enters the US public domain on
-January 1, {NEXT_CLASS + 96}. <a href="{BASE}entering-public-domain-{NEXT_CLASS + 96}/">See what's coming →</a></p>
+January 1, {NEXT_CLASS + 96}. <a href="{BASE}entering-public-domain-{CLASS_YEAR}/">See what's coming →</a></p>
 </section>
 <section class="suggest">
 <h2>Missing a film? Spotted something wrong?</h2>
@@ -215,6 +228,37 @@ link or error, or pitch a feature — it goes straight to our research queue.</p
                 "Layered US copyright status for classic films with primary-source "
                 "evidence, renewal records, and free legal watch links. Suggest a film "
                 "or improvement — the research queue is community-driven.", body, extra)
+
+
+def collection_page(c, by_id):
+    fs = sorted((by_id[i] for i in c["films"] if i in by_id), key=lambda f: (f["year"], f["title"]))
+    short = {"print": "Film print", "score": "Music", "story": "Story", "trademark": "Trademarks",
+             "restorations": "Restorations"}
+    head = "".join(f"<th>{short.get(k, lbl)}</th>" for k, lbl in engine.LAYERS)
+    rows = "".join(
+        f'<tr><td><a href="{BASE}film/{f["id"]}/">{e(f["title"])}</a></td><td>{f["year"]}</td>'
+        + "".join(f'<td>{status_badge(f["layers"][k]["status"])}</td>' for k, _ in engine.LAYERS)
+        + "</tr>" for f in fs)
+    intro = "".join(f"<p>{e(x)}</p>" for x in c["intro"])
+    body = f"""<h1>{e(c["h1"])}</h1>
+{intro}
+<div class="tablewrap"><table class="listing">
+<tr><th>Film</th><th>Year</th>{head}</tr>
+{rows}</table></div>
+<p class="backlink">{len(fs)} films · <a href="{BASE}collections/">all collections</a> ·
+<a href="{BASE}films/">all researched films</a></p>"""
+    return page(f'{c["title"]} ({YEAR}) — RightsAtlas', c["description"], body)
+
+
+def collections_index(collections, by_id):
+    items = "".join(
+        f'<li><a href="{BASE}collections/{c["slug"]}/">{e(c["h1"])}</a> '
+        f'({sum(1 for i in c["films"] if i in by_id)} films)</li>' for c in collections)
+    body = f"""<h1>Collections</h1>
+<p>Classic films grouped by season and theme, each checked layer by layer.</p>
+<ul>{items}</ul>"""
+    return page("Collections — RightsAtlas", "Seasonal and themed collections of classic films "
+                "with their US public-domain status, layer by layer.", body)
 
 
 def films_index(films):
@@ -392,8 +436,16 @@ def build():
         d.mkdir(parents=True)
         (d / "index.html").write_text(film_page(f), encoding="utf-8")
 
+    collections = seasons.load()
+    by_id = {f["id"]: f for f in films}
+    (OUT / "collections").mkdir()
+    (OUT / "collections" / "index.html").write_text(collections_index(collections, by_id), encoding="utf-8")
+    for c in collections:
+        (OUT / "collections" / c["slug"]).mkdir()
+        (OUT / "collections" / c["slug"] / "index.html").write_text(collection_page(c, by_id), encoding="utf-8")
+
     extras = []
-    for extra in ("methodology", "about", f"entering-public-domain-{NEXT_CLASS + 96}"):
+    for extra in ("methodology", "about", *(f"entering-public-domain-{y}" for y in CLASSES)):
         src = ROOT / "content" / f"{extra}.html"
         if src.exists():
             extras.append(extra)
@@ -425,7 +477,8 @@ def build():
     urls = ([f"{BASE}", f"{BASE}films/"]
             + [f"{BASE}films/{d}s/" for d in sorted(decades)]
             + [f"{BASE}film/{f['id']}/" for f in films]
-            + [f"{BASE}{x}/" for x in extras + ["corrections"]])
+            + [f"{BASE}{x}/" for x in extras + ["corrections", "collections"]]
+            + [f"{BASE}collections/{c['slug']}/" for c in collections])
     # lower-case so sitemap URLs match the Search Console property (bitgitty.github.io) exactly
     host = os.environ.get("SITE_ORIGIN", "https://example.org").lower()
     (OUT / "sitemap.xml").write_text(

@@ -93,3 +93,6 @@ background:color-mix(in srgb,var(--warn) 12%,var(--card));border:1px solid var(-
 .whyunclear{margin:0 0 14px;padding:11px 15px;border-radius:10px;font-size:.9rem;line-height:1.5;
 color:var(--mut);background:var(--card);border:1px dashed var(--line)}
 .whyunclear b{color:var(--fg)}
+.tablewrap{overflow-x:auto}
+.callout.seasonal{border:2px solid #b45309;background:#fff7ed}
+.callout.seasonal h2{margin-top:0}

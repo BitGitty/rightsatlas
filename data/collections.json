@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "halloween-horror",
+    "title": "Public domain horror films for Halloween — what's actually free",
+    "h1": "Public domain horror films for Halloween",
+    "description": "Which classic horror films are really free to use this Halloween? Every layer checked: film print, music, story, trademarks and restorations, with cited sources.",
+    "from": "10-01",
+    "to": "10-31",
+    "lead_days": 60,
+    "intro": [
+      "Halloween is when public-domain horror gets used the most: watch parties, YouTube uploads, projections, remixes. But \"public domain\" usually describes only the film print. The music on the copy you downloaded, the restoration it came from, and the monster's trademark can each still be owned by someone.",
+      "Below is every horror and gothic film we have researched, layer by layer. \"Clear\" means a cited source shows that layer is free in the US. \"Unclear\" means it is not proven either way yet, so treat it as protected. Click a film for the evidence."
+    ],
+    "films": [
+      "nosferatu-1922", "cabinet-of-dr-caligari-1920", "faust-1926", "the-phantom-of-the-opera-1925",
+      "the-hunchback-of-notre-dame-1923", "the-cat-and-the-canary-1927", "the-unknown-1927",
+      "london-after-midnight-1927", "the-monster-1925", "the-man-who-laughs-1928", "the-last-warning-1928",
+      "night-of-the-living-dead-1968", "carnival-of-souls-1962", "house-on-haunted-hill-1959",
+      "little-shop-of-horrors-1960", "dementia-13-1963", "the-terror-1963", "last-man-on-earth-1964",
+      "plan-9-from-outer-space-1957", "king-kong-1933"
+    ],
+    "research": []
+  }
+]
