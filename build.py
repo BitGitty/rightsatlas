@@ -392,9 +392,11 @@ def build():
         d.mkdir(parents=True)
         (d / "index.html").write_text(film_page(f), encoding="utf-8")
 
+    extras = []
     for extra in ("methodology", "about", f"entering-public-domain-{NEXT_CLASS + 96}"):
         src = ROOT / "content" / f"{extra}.html"
         if src.exists():
+            extras.append(extra)
             d = OUT / extra
             d.mkdir(parents=True)
             title, _, rest = src.read_text(encoding="utf-8").partition("\n")
@@ -422,8 +424,10 @@ def build():
 
     urls = ([f"{BASE}", f"{BASE}films/"]
             + [f"{BASE}films/{d}s/" for d in sorted(decades)]
-            + [f"{BASE}film/{f['id']}/" for f in films])
-    host = os.environ.get("SITE_ORIGIN", "https://example.org")
+            + [f"{BASE}film/{f['id']}/" for f in films]
+            + [f"{BASE}{x}/" for x in extras + ["corrections"]])
+    # lower-case so sitemap URLs match the Search Console property (bitgitty.github.io) exactly
+    host = os.environ.get("SITE_ORIGIN", "https://example.org").lower()
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
