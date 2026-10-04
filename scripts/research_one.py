@@ -96,14 +96,19 @@ def _load(p):
     return json.loads(Path(p).read_text(encoding="utf-8"))
 
 
+def _key(slug: str) -> str:
+    """Queue ids and dossier filenames slug apostrophes differently (jaccuse vs j-accuse)."""
+    return re.sub(r"[^a-z0-9]", "", slug.lower())
+
+
 def next_rows(count=1, only_id=None):
     """Queue rows worth researching next: unpublished, not already queued, bright-line first."""
     rows = _load(QUEUE)
     if only_id:
         return [r for r in rows if r["id"] == only_id][:1]
-    done = {p.stem for p in FILMS.glob("*.json")} | {p.stem for p in PENDING.glob("*.json")}
+    done = {_key(p.stem) for p in [*FILMS.glob("*.json"), *PENDING.glob("*.json")]}
     cutoff = engine.pd_cutoff_year()
-    todo = [r for r in rows if r["id"] not in done and r.get("renewal_truth") != "known_renewed"]
+    todo = [r for r in rows if _key(r["id"]) not in done and r.get("renewal_truth") != "known_renewed"]
     # bright-line US titles first (term expiry is arithmetic, not research), then by demand
     todo.sort(key=lambda r: (
         not ((r.get("country") or "US").upper() in ("US", "USA") and r["year"] <= cutoff),
@@ -126,7 +131,7 @@ def ask_claude(row: dict) -> dict:
         out = subprocess.run([cli, "-p", "--model", MODEL, "--output-format", "json",
                               "--allowedTools", "WebSearch,WebFetch",
                               "--disallowedTools", "Write,Edit,MultiEdit,NotebookEdit,Bash"],
-                             input=prompt, capture_output=True, text=True,
+                             input=prompt, capture_output=True, text=True, encoding="utf-8",
                              timeout=900, cwd=sandbox).stdout
     try:                                          # unwrap the CLI result envelope
         out = json.loads(out).get("result", out)

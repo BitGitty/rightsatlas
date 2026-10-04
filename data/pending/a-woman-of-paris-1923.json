@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "US work published October 1, 1923. Under 17 U.S.C. Â§304(b) as amended by the Sonny Bono Copyright Term Extension Act, the 95-year term expired January 1, 2019. Film is in the US public domain regardless of whether the 1951 renewal was filed.",
+          "note": "US work published October 1, 1923. Under 17 U.S.C. §304(b) as amended by the Sonny Bono Copyright Term Extension Act, the 95-year term expired January 1, 2019. Film is in the US public domain regardless of whether the 1951 renewal was filed.",
           "source": "U.S. Copyright Office, Circular 15a: Duration of Copyright",
           "url": "https://www.copyright.gov/circs/circ15a.pdf"
         }
@@ -70,11 +70,11 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB â€” search \"A Woman of Paris\" (renewals ~1950, 1951, 1952)",
+        "label": "Stanford Copyright Renewal DB — search \"A Woman of Paris\" (renewals ~1950, 1951, 1952)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Woman+of+Paris"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
@@ -86,19 +86,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/a-woman-of-paris-a-drama-of-fate-1923-by-charlie-chaplin",
-      "label": "A Woman of Paris (1923) â€” Archive.org, Public Domain Mark 1.0, creator: Charlie Chaplin, uploaded Nov 2024",
+      "label": "A Woman of Paris (1923) — Archive.org, Public Domain Mark 1.0, creator: Charlie Chaplin, uploaded Nov 2024",
       "quality": "medium"
     }
   ],
-  "editorial": "Charlie Chaplin's A Woman of Paris opened October 1, 1923, distributed by United Artists â€” the studio Chaplin had co-founded four years earlier. He wrote, directed, and produced it through Charles Chaplin Productions and Regent, cast Edna Purviance as Marie St. Clair and Adolphe Menjou as the wealthy Parisian Pierre Revel, and kept himself to a walk-on as an uncredited train station porter. The original accompaniment score was composed by Louis F. Gottschalk and Fritz Stahlberg for the silent release. In 1976, Chaplin revisited the film, trimming roughly eight minutes and writing an entirely new score with Eric James; the Museum of Modern Art held the world premiere of that reissue on December 23, 1976, and that version became the one most audiences and home-video releases encountered thereafter.\n\nThe 1923 silent print is public domain in the United States as of January 1, 2019, when the 95-year copyright term ran out. The story requires no clearance â€” Chaplin wrote an original screenplay with no source material. The real trap for reusers is the score: virtually every print in wide circulation today derives from the 1976 Chaplin/Eric James reissue, and that musical track is separately copyrighted with a term running to approximately 2072. A filmmaker or distributor who builds on a print sourced from the 1976 version without clearing or replacing its audio is using protected material. The options are to license the estate's version, locate an older silent print with Gottschalk's accompaniment, or commission an original score.",
+  "editorial": "Charlie Chaplin's A Woman of Paris opened October 1, 1923, distributed by United Artists — the studio Chaplin had co-founded four years earlier. He wrote, directed, and produced it through Charles Chaplin Productions and Regent, cast Edna Purviance as Marie St. Clair and Adolphe Menjou as the wealthy Parisian Pierre Revel, and kept himself to a walk-on as an uncredited train station porter. The original accompaniment score was composed by Louis F. Gottschalk and Fritz Stahlberg for the silent release. In 1976, Chaplin revisited the film, trimming roughly eight minutes and writing an entirely new score with Eric James; the Museum of Modern Art held the world premiere of that reissue on December 23, 1976, and that version became the one most audiences and home-video releases encountered thereafter.\n\nThe 1923 silent print is public domain in the United States as of January 1, 2019, when the 95-year copyright term ran out. The story requires no clearance — Chaplin wrote an original screenplay with no source material. The real trap for reusers is the score: virtually every print in wide circulation today derives from the 1976 Chaplin/Eric James reissue, and that musical track is separately copyrighted with a term running to approximately 2072. A filmmaker or distributor who builds on a print sourced from the 1976 version without clearing or replacing its audio is using protected material. The options are to license the estate's version, locate an older silent print with Gottschalk's accompaniment, or commission an original score.",
   "faq": [
     [
       "Is the entire film free to use?",
-      "The 1923 silent print is in the US public domain as of January 1, 2019, and Chaplin's original screenplay is free as well â€” it was written in 1923 with no source material to clear. What is not free is the score on most available copies: Charlie Chaplin and Eric James composed a new musical track for the 1976 reissue, and that work is protected until approximately 2072. Confirm which print you have and whether it carries the 1976 score before publishing."
+      "The 1923 silent print is in the US public domain as of January 1, 2019, and Chaplin's original screenplay is free as well — it was written in 1923 with no source material to clear. What is not free is the score on most available copies: Charlie Chaplin and Eric James composed a new musical track for the 1976 reissue, and that work is protected until approximately 2072. Confirm which print you have and whether it carries the 1976 score before publishing."
     ],
     [
       "Does the Chaplin estate have any rights I need to worry about?",
-      "Yes, but narrowly. The estate (Roy Export Company, distributed through MK2) holds copyright in the 1976 reissue â€” the re-edited version with the Chaplin/Eric James score â€” and in any modern digital restoration derived from it. They do not hold copyright in the original 1923 silent print itself. They also maintain trademark rights on the Charlie Chaplin name and Tramp persona, but those marks do not restrict use of the 1923 print: Chaplin plays no meaningful character in this film."
+      "Yes, but narrowly. The estate (Roy Export Company, distributed through MK2) holds copyright in the 1976 reissue — the re-edited version with the Chaplin/Eric James score — and in any modern digital restoration derived from it. They do not hold copyright in the original 1923 silent print itself. They also maintain trademark rights on the Charlie Chaplin name and Tramp persona, but those marks do not restrict use of the 1923 print: Chaplin plays no meaningful character in this film."
     ]
   ]
 }

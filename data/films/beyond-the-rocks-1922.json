@@ -4,15 +4,15 @@
   "year": 1922,
   "country": "US",
   "last_verified": "2026-09-13",
-  "byline": "Gloria Swanson and Rudolph Valentino's only film together â€” a Famous Playersâ€“Lasky picture lost for over 75 years, rediscovered in a Dutch collector's estate in 2000 and restored in 2005.",
+  "byline": "Gloria Swanson and Rudolph Valentino's only film together — a Famous Players–Lasky picture lost for over 75 years, rediscovered in a Dutch collector's estate in 2000 and restored in 2005.",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "US theatrical release May 1922 by Famous Playersâ€“Lasky (Paramount). The statutory 95-year ceiling for pre-1978 US works places the copyright expiry no later than 1 January 2018; as of 2026 the bright-line cutoff is 1930, and 1922 is well inside it. The film was considered completely lost for over 75 years with no commercial presence, making any renewal filing in 1949â€“1950 functionally impossible to have occurred.",
-          "source": "U.S. Copyright Office â€” Duration of Copyright (Circular 15a)",
+          "note": "US theatrical release May 1922 by Famous Players–Lasky (Paramount). The statutory 95-year ceiling for pre-1978 US works places the copyright expiry no later than 1 January 2018; as of 2026 the bright-line cutoff is 1930, and 1922 is well inside it. The film was considered completely lost for over 75 years with no commercial presence, making any renewal filing in 1949–1950 functionally impossible to have occurred.",
+          "source": "U.S. Copyright Office — Duration of Copyright (Circular 15a)",
           "url": "https://www.copyright.gov/circs/circ15a.pdf"
         }
       ]
@@ -23,7 +23,7 @@
         {
           "type": "research_note",
           "note": "Silent film: no original synchronised recorded score exists on the 1922 print. The 2005 EYE Filmmuseum (formerly Nederlands Filmmuseum) restoration includes a newly composed score by Dutch musician Henny Vrienten (born 1948, died 25 April 2022). Vrienten's composition is a 21st-century protected work; rights vest in his estate and/or EYE Filmmuseum. Any copy sourced from the restoration carries this protected accompaniment. A user presenting their own live or recorded accompaniment to the silent print faces no score-layer claim.",
-          "source": "EYE Filmmuseum â€” In Memoriam: Henny Vrienten",
+          "source": "EYE Filmmuseum — In Memoriam: Henny Vrienten",
           "url": "https://www.eyefilm.nl/en/magazine/in-memoriam-henny-vrienten/699136"
         }
       ]
@@ -33,8 +33,8 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Adapted from 'Beyond the Rocks: A Love Story' (1906) by British author Elinor Glyn. Published in the United States in 1906 â€” the 95-year maximum term for pre-1978 published works means its copyright expired no later than 1 January 2002; confirmed public domain by Project Gutenberg listing (ebook #16692).",
-          "source": "Project Gutenberg eBook #16692 â€” Beyond the Rocks by Elinor Glyn",
+          "note": "Adapted from 'Beyond the Rocks: A Love Story' (1906) by British author Elinor Glyn. Published in the United States in 1906 — the 95-year maximum term for pre-1978 published works means its copyright expired no later than 1 January 2002; confirmed public domain by Project Gutenberg listing (ebook #16692).",
+          "source": "Project Gutenberg eBook #16692 — Beyond the Rocks by Elinor Glyn",
           "url": "https://www.gutenberg.org/ebooks/16692"
         }
       ]
@@ -48,8 +48,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The only widely circulating version of this film is the 2005 restoration by Nederlands Filmmuseum (now EYE Filmmuseum), executed with Haghefilm Conservation beginning 2003. It incorporates reconstructed English intertitles (sourced from an Academy of Motion Picture Arts and Sciences continuity script), colour tinting matched to the original, and the Henny Vrienten score. Milestone Film & Video holds exclusive US licensing rights to this restoration. The restoration's creative labour â€” tinting choices, intertitle design, colour grading â€” vests a new copyright in EYE Filmmuseum separate from the underlying 1922 film.",
-          "source": "Milestone Films â€” Beyond the Rocks product page",
+          "note": "The only widely circulating version of this film is the 2005 restoration by Nederlands Filmmuseum (now EYE Filmmuseum), executed with Haghefilm Conservation beginning 2003. It incorporates reconstructed English intertitles (sourced from an Academy of Motion Picture Arts and Sciences continuity script), colour tinting matched to the original, and the Henny Vrienten score. Milestone Film & Video holds exclusive US licensing rights to this restoration. The restoration's creative labour — tinting choices, intertitle design, colour grading — vests a new copyright in EYE Filmmuseum separate from the underlying 1922 film.",
+          "source": "Milestone Films — Beyond the Rocks product page",
           "url": "https://milestonefilms.com/products/beyond-the-rocks"
         }
       ]
@@ -64,11 +64,11 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB â€” search 'Beyond the Rocks' (renewals ~1949, 1950, 1951)",
+        "label": "Stanford Copyright Renewal DB — search 'Beyond the Rocks' (renewals ~1949, 1950, 1951)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Beyond+the+Rocks"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
@@ -80,11 +80,11 @@
   "watch": [
     {
       "url": "https://archive.org/details/silent-beyond-the-rocks",
-      "label": "Beyond the Rocks (1922) â€” Internet Archive, silent excerpt (approx. 23 min, no score)",
+      "label": "Beyond the Rocks (1922) — Internet Archive, silent excerpt (approx. 23 min, no score)",
       "quality": "low"
     }
   ],
-  "editorial": "Beyond the Rocks is a 1922 Famous Playersâ€“Lasky romantic drama directed by Sam Wood, starring Gloria Swanson and Rudolph Valentino in the only film they made together. It was adapted by screenwriter Jack Cunningham from Elinor Glyn's 1906 Edwardian society novel of the same name. Paramount had no surviving print after 1922; the film was assumed entirely lost until staff at the Nederlands Filmmuseum discovered nitrate reels in 2000 during an inventory of a collector's estate, then spent three years locating all surviving reels before completing the restoration in 2005 with Haghefilm Conservation. The restored film premiered at Cannes that year, with a new score by Dutch musician Henny Vrienten. For a creator, the 1922 silent print is in the public domain in the United States: as a domestic theatrical release from that year, its copyright expired by the statutory ceiling regardless of renewal, and the film's 75-year commercial absence makes a 1949â€“1950 renewal filing effectively inconceivable. The silent images â€” star performances, Sam Wood's direction, Alfred Gilks's cinematography â€” can be freely used, remixed, or redistributed.\n\nThe single practical trap is the restoration layer. Every commercially available copy â€” the Milestone Film & Video DVD (2006), the EYE Film Player stream, any modern theatrical print â€” is the 2005 EYE Filmmuseum restoration, which is separately protected by copyright vesting in EYE. That restoration also embeds Henny Vrienten's score, itself a protected 21st-century composition whose rights now belong to Vrienten's estate. Creators who need a clean public-domain copy should start from the silent excerpt on Internet Archive (identifier: silent-beyond-the-rocks), supply their own accompaniment, and avoid sourcing frames or audio from any Milestone-licensed edition.",
+  "editorial": "Beyond the Rocks is a 1922 Famous Players–Lasky romantic drama directed by Sam Wood, starring Gloria Swanson and Rudolph Valentino in the only film they made together. It was adapted by screenwriter Jack Cunningham from Elinor Glyn's 1906 Edwardian society novel of the same name. Paramount had no surviving print after 1922; the film was assumed entirely lost until staff at the Nederlands Filmmuseum discovered nitrate reels in 2000 during an inventory of a collector's estate, then spent three years locating all surviving reels before completing the restoration in 2005 with Haghefilm Conservation. The restored film premiered at Cannes that year, with a new score by Dutch musician Henny Vrienten. For a creator, the 1922 silent print is in the public domain in the United States: as a domestic theatrical release from that year, its copyright expired by the statutory ceiling regardless of renewal, and the film's 75-year commercial absence makes a 1949–1950 renewal filing effectively inconceivable. The silent images — star performances, Sam Wood's direction, Alfred Gilks's cinematography — can be freely used, remixed, or redistributed.\n\nThe single practical trap is the restoration layer. Every commercially available copy — the Milestone Film & Video DVD (2006), the EYE Film Player stream, any modern theatrical print — is the 2005 EYE Filmmuseum restoration, which is separately protected by copyright vesting in EYE. That restoration also embeds Henny Vrienten's score, itself a protected 21st-century composition whose rights now belong to Vrienten's estate. Creators who need a clean public-domain copy should start from the silent excerpt on Internet Archive (identifier: silent-beyond-the-rocks), supply their own accompaniment, and avoid sourcing frames or audio from any Milestone-licensed edition.",
   "faq": [
     [
       "Can I freely use footage from Beyond the Rocks in my film or video?",

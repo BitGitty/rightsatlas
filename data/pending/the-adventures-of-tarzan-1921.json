@@ -4,7 +4,7 @@
   "year": 1921,
   "country": "US",
   "last_verified": "2026-09-29",
-  "byline": "Dir. Robert F. Hill & Scott Sidney Â· Numa Pictures Corporation Â· 15-chapter silent serial starring Elmo Lincoln",
+  "byline": "Dir. Robert F. Hill & Scott Sidney · Numa Pictures Corporation · 15-chapter silent serial starring Elmo Lincoln",
   "layers": {
     "print": {
       "status": "verified_pd",
@@ -12,7 +12,7 @@
         {
           "type": "term_expiry",
           "note": "US serial first released December 1, 1921, distributed by Numa Pictures Corporation. All US copyright terms for works published in 1921 have fully expired; no renewal could extend them beyond the maximum 56-year term, which ran out no later than 1977.",
-          "source": "Archive.org item â€” confirmed 1921 Numa Pictures release",
+          "source": "Archive.org item — confirmed 1921 Numa Pictures release",
           "url": "https://archive.org/details/silent-the-adventures-of-tarzan"
         }
       ]
@@ -22,8 +22,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Silent film â€” no original synchronized score was recorded. The print itself is PD, but any newly composed or recorded music added to circulating copies (Archive.org uploads and the Film Detective 2022 Blu-ray) is a separately copyrighted work independent of the underlying footage.",
-          "source": "Archive.org item metadata â€” confirmed silent film, no original audio track",
+          "note": "Silent film — no original synchronized score was recorded. The print itself is PD, but any newly composed or recorded music added to circulating copies (Archive.org uploads and the Film Detective 2022 Blu-ray) is a separately copyrighted work independent of the underlying footage.",
+          "source": "Archive.org item metadata — confirmed silent film, no original audio track",
           "url": "https://archive.org/details/silent-the-adventures-of-tarzan"
         }
       ]
@@ -34,7 +34,7 @@
         {
           "type": "term_expiry",
           "note": "Screenplay adapts The Return of Tarzan (magazine serial 1913, book 1915, A.C. McClurg & Co.) and Tarzan and the Jewels of Opar (magazine serial 1916, book 1918, A.C. McClurg & Co.) by Edgar Rice Burroughs. Both source works were published before the current US public-domain threshold and their copyright terms have fully expired.",
-          "source": "ERBzine â€” Adventures of Tarzan filmography and bibliography entry citing Burroughs source novels",
+          "source": "ERBzine — Adventures of Tarzan filmography and bibliography entry citing Burroughs source novels",
           "url": "https://www.erbzine.com/mag5/0590.html"
         }
       ]
@@ -44,8 +44,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "TARZANÂ® is an active trademark of Edgar Rice Burroughs, Inc. (USPTO Reg. No. 5498007, filed February 2014), covering motion picture films, animated films, and video recordings. ERBI also holds LORD OF THE JUNGLEÂ® and TARZAN OF THE APESÂ® and actively enforces these marks against commercial projects drawing on PD Tarzan material.",
-          "source": "Justia Trademarks â€” TARZAN USPTO Reg. No. 5498007",
+          "note": "TARZAN® is an active trademark of Edgar Rice Burroughs, Inc. (USPTO Reg. No. 5498007, filed February 2014), covering motion picture films, animated films, and video recordings. ERBI also holds LORD OF THE JUNGLE® and TARZAN OF THE APES® and actively enforces these marks against commercial projects drawing on PD Tarzan material.",
+          "source": "Justia Trademarks — TARZAN USPTO Reg. No. 5498007",
           "url": "https://trademarks.justia.com/861/96/tarzan-86196785.html"
         }
       ]
@@ -56,7 +56,7 @@
         {
           "type": "research_note",
           "note": "The Film Detective released The Adventures of Tarzan (1921) on Blu-ray and DVD in August 2022 as part of its 'Tarzan Vault Collection,' transferred from original 35mm archival elements. That specific restoration and any newly recorded score on it are separately copyrighted; the underlying 1921 footage remains PD.",
-          "source": "Silentera.com â€” Film Detective 2022 Blu-ray edition listing",
+          "source": "Silentera.com — Film Detective 2022 Blu-ray edition listing",
           "url": "https://www.silentera.com/video/adventuresOfTarzanHV.html"
         }
       ]
@@ -71,11 +71,11 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB â€” search 'The Adventures of Tarzan' (renewals ~1948, 1949, 1950)",
+        "label": "Stanford Copyright Renewal DB — search 'The Adventures of Tarzan' (renewals ~1948, 1949, 1950)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Adventures+of+Tarzan"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) â€” browse the Motion Pictures renewal-year volume by hand",
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
@@ -87,24 +87,24 @@
   "watch": [
     {
       "url": "https://archive.org/details/silent-the-adventures-of-tarzan",
-      "label": "The Adventures of Tarzan (1921) â€” silent serial, Archive.org (Frank Whitson upload)",
+      "label": "The Adventures of Tarzan (1921) — silent serial, Archive.org (Frank Whitson upload)",
       "quality": "fair"
     },
     {
       "url": "https://archive.org/details/TheAdventuresOfTarzan1921USAedicinAmericana",
-      "label": "The Adventures of Tarzan (1921, US edition) â€” stretch-printed feature version, Archive.org",
+      "label": "The Adventures of Tarzan (1921, US edition) — stretch-printed feature version, Archive.org",
       "quality": "fair"
     }
   ],
-  "editorial": "The Adventures of Tarzan is a 15-chapter silent serial produced by Great Western Producing Company and distributed by Numa Pictures Corporation, with its first chapter released December 1, 1921. Elmo Lincoln, who originated the screen Tarzan in the 1918 Tarzan of the Apes, makes his third and final appearance in the role; the screenplay draws from two Burroughs novels, The Return of Tarzan (1913/1915) and Tarzan and the Jewels of Opar (1916/1918). The complete 15-chapter cut has not survived â€” what circulates descends from a 10-chapter 1928 re-release, with surviving elements held at the UCLA Film and Television Archive and the Niles Essanay Silent Film Archive. The Film Detective issued a transfer from 35mm archival elements in August 2022 as part of its Tarzan Vault Collection Blu-ray.\n\nFor a creator, the print and both Burroughs source novels are in the US public domain by term expiry. The live trap is the TARZANÂ® trademark (USPTO Reg. 5498007), which Edgar Rice Burroughs, Inc. actively enforces against commercial projects using the character's name and likeness regardless of copyright status â€” ERBI has a documented history of pursuing trademark claims even after Burroughs copyrights lapsed. A documentary or archival presentation screening the silent footage carries lower risk; any commercial product titled with or trading on the Tarzan brand requires trademark clearance from ERBI before release.",
+  "editorial": "The Adventures of Tarzan is a 15-chapter silent serial produced by Great Western Producing Company and distributed by Numa Pictures Corporation, with its first chapter released December 1, 1921. Elmo Lincoln, who originated the screen Tarzan in the 1918 Tarzan of the Apes, makes his third and final appearance in the role; the screenplay draws from two Burroughs novels, The Return of Tarzan (1913/1915) and Tarzan and the Jewels of Opar (1916/1918). The complete 15-chapter cut has not survived — what circulates descends from a 10-chapter 1928 re-release, with surviving elements held at the UCLA Film and Television Archive and the Niles Essanay Silent Film Archive. The Film Detective issued a transfer from 35mm archival elements in August 2022 as part of its Tarzan Vault Collection Blu-ray.\n\nFor a creator, the print and both Burroughs source novels are in the US public domain by term expiry. The live trap is the TARZAN® trademark (USPTO Reg. 5498007), which Edgar Rice Burroughs, Inc. actively enforces against commercial projects using the character's name and likeness regardless of copyright status — ERBI has a documented history of pursuing trademark claims even after Burroughs copyrights lapsed. A documentary or archival presentation screening the silent footage carries lower risk; any commercial product titled with or trading on the Tarzan brand requires trademark clearance from ERBI before release.",
   "faq": [
     [
       "Can I use this film in a commercial project?",
-      "The print is in the US public domain by term expiry, and so are the underlying Burroughs source novels. The operative constraint is trademark: TARZANÂ® (USPTO Reg. 5498007) is actively held by Edgar Rice Burroughs, Inc. and covers film and entertainment products. Using the Tarzan name or character commercially requires trademark clearance from ERBI even though the copyright has expired."
+      "The print is in the US public domain by term expiry, and so are the underlying Burroughs source novels. The operative constraint is trademark: TARZAN® (USPTO Reg. 5498007) is actively held by Edgar Rice Burroughs, Inc. and covers film and entertainment products. Using the Tarzan name or character commercially requires trademark clearance from ERBI even though the copyright has expired."
     ],
     [
       "Is the Film Detective Blu-ray safe to copy?",
-      "No. The Film Detective's 2022 restoration from 35mm archival elements is a new copyrighted work â€” their specific transfer and any newly recorded score are protected even though the underlying 1921 film is not. The Archive.org copies above provide PD-safe access to the underlying footage."
+      "No. The Film Detective's 2022 restoration from 35mm archival elements is a new copyrighted work — their specific transfer and any newly recorded score are protected even though the underlying 1921 film is not. The Archive.org copies above provide PD-safe access to the underlying footage."
     ]
   ]
 }
