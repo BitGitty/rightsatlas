@@ -841,13 +841,13 @@
   },
   {
     "title": "Little Caesar",
-    "year": 1931,
+    "year": 1930,
     "country": "US",
     "demand_score": 91,
     "difficulty": 3,
     "tier": "B",
     "archetype": "renewal_absence",
-    "notes": "1931 class; proto-gangster",
+    "notes": "1931 class; proto-gangster | copyright registered Dec 1930 (released Jan 1931): US public domain since 2026-01-01",
     "id": "little-caesar-1931",
     "priority_score": 67,
     "queue_status": "queued",
@@ -856,7 +856,7 @@
     "renewal_window_end": 1959,
     "priority_rank": 44,
     "provenance": "curated",
-    "renewal_truth": "renewal_absent_likely",
+    "renewal_truth": "term_expiry",
     "promotable": true
   },
   {
@@ -2861,13 +2861,13 @@
   },
   {
     "title": "Cimarron",
-    "year": 1931,
+    "year": 1930,
     "country": "US",
     "demand_score": 75,
     "difficulty": 3,
     "tier": "B",
     "archetype": "renewal_absence",
-    "notes": "1931 Best Picture",
+    "notes": "1931 Best Picture | copyright registered Dec 1930 (released Jan 1931): US public domain since 2026-01-01",
     "id": "cimarron-1931",
     "priority_score": 51,
     "queue_status": "queued",
@@ -2876,7 +2876,7 @@
     "renewal_window_end": 1959,
     "priority_rank": 145,
     "provenance": "curated",
-    "renewal_truth": "renewal_absent_likely",
+    "renewal_truth": "term_expiry",
     "promotable": true
   },
   {
