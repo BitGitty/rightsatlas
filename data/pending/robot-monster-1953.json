@@ -1,0 +1,98 @@
+{
+  "id": "robot-monster-1953",
+  "title": "Robot Monster",
+  "year": 1953,
+  "country": "US",
+  "last_verified": "2026-10-05",
+  "byline": "Copyright renewed 1981 (RE0000107158) by Medallion TV Enterprises, Inc.; rights transferred to Wade Williams Distribution, Inc. by 2005. Print not public domain — protected until approximately December 31, 2048.",
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "renewal_registration",
+          "note": "Renewal RE0000107158 filed 1981-11-06 by Medallion TV Enterprises, Inc., as renewal for original registration PA0000097629 (1953-06-17, Three Dimension Pictures, Inc.). Type of Work: Motion Pictures. Under the CTEA 95-year term, copyright extends to approximately December 31, 2048.",
+          "source": "U.S. Copyright Office Public Records System — detailed record voyager_7004632",
+          "url": "https://publicrecords.copyright.gov/detailed-record/voyager_7004632"
+        },
+        {
+          "type": "copyright_gov_record",
+          "note": "Assignment V2562P176 (executed 1990-07-03, recorded 1990-07-11): Medallion TV Enterprises, Inc. (Party 1) transferred rights — including 'Robot Monster: The Special Edition' — to Wade Williams (Party 2). Subsequent assignment V3519D168 (executed 2000-06-12, recorded 2005-01-11): Wade Williams 3rd (Party 1) transferred same rights to Wade Williams Distribution, Inc. (Party 2). Current rights holder is Wade Williams Distribution, Inc.",
+          "source": "U.S. Copyright Office Public Records System — detailed records voyager_1876942 and voyager_6136967",
+          "url": "https://publicrecords.copyright.gov/detailed-record/voyager_1876942"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. Elmer Bernstein composed the score (confirmed in Internet Archive item metadata, identifier robot-monster-1953). The recorded track is embedded in the motion picture and shares the film's renewed copyright status. Renewal RE0000107158 covers the entire motion picture as a single work. No evidence of separate publication or registration of the musical score.",
+          "source": "Internet Archive item metadata (robot-monster-1953) and U.S. Copyright Office renewal RE0000107158",
+          "url": "https://archive.org/details/robot-monster-1953"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay, not an adaptation of a prior published work (confirmed in Archive.org item description: an original premise about alien Ro-Man eliminating Earth's survivors). As an integral element of the renewed motion picture copyright RE0000107158 (Three Dimension Pictures, Inc. / Medallion TV Enterprises, Inc.), the underlying story is not separately available. No independent screenplay registration identified.",
+          "source": "U.S. Copyright Office Public Records System — renewal RE0000107158",
+          "url": "https://publicrecords.copyright.gov/detailed-record/voyager_7004632"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Assignment V2562P176 (recorded 1990-07-11, Medallion TV Enterprises → Wade Williams) includes an 'Additional title: Robot monster, the special edition,' indicating a special-edition release exists under Wade Williams' ownership. Specific restoration scope (e.g., 4K scan, new music recording) is unconfirmed from records examined.",
+          "source": "U.S. Copyright Office Public Records System — detailed record voyager_1876942",
+          "url": "https://publicrecords.copyright.gov/detailed-record/voyager_1876942"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1980,
+      1981,
+      1982
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"Robot Monster\" (renewals ~1980, 1981, 1982)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Robot+Monster"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Robot Monster (1953) is a 66-minute US science fiction film directed by Phil Tucker, produced by Three Dimension Pictures, Inc., with original copyright registration PA0000097629 dated June 17, 1953. Composer Elmer Bernstein wrote the score in one of his earliest Hollywood assignments. Ro-Man — a creature in a gorilla suit topped with a diving helmet, operating a 'Billion Bubble Machine' — became a recurring cult reference through Mystery Science Theater 3000 and internet meme culture, making the film a tempting asset for anyone sampling 1950s B-movie imagery.\n\nThe critical trap is the film's entrenched false public-domain reputation. Medallion TV Enterprises, Inc. filed renewal RE0000107158 on November 6, 1981 — within the statutory 28-year window — covering the original Three Dimension Pictures registration. Medallion transferred rights to Wade Williams (individually) on July 3, 1990 (V2562P176), and Williams later moved them into his corporate entity Wade Williams Distribution, Inc. via an instrument executed June 12, 2000 and recorded January 11, 2005 (V3519D168). The CPRS record is unambiguous: this is an actively managed copyright running to approximately December 31, 2048. Dozens of Archive.org uploads and budget DVD labels carry a 'public domain' tag, but none of those releases constitute legal abandonment.",
+  "faq": [
+    [
+      "Is Robot Monster in the public domain?",
+      "No. The copyright was timely renewed as RE0000107158 on November 6, 1981 by Medallion TV Enterprises, Inc., and rights are now held by Wade Williams Distribution, Inc. through a recorded assignment chain. The film is protected until approximately December 31, 2048 under the CTEA's 95-year term from the 1953 publication."
+    ],
+    [
+      "Why do so many sites and DVD labels call it public domain?",
+      "The film was widely copied before anyone checked the Copyright Office renewal records, and the renewal was filed in the film industry's pre-digital era. The Stanford Copyright Renewals Database (which is heavily used for quick checks) primarily covers books, not motion pictures. The U.S. Copyright Office Public Records System (CPRS) record RE0000107158 confirms the renewal was filed on time; the public-domain label on most copies is wrong."
+    ]
+  ]
+}
