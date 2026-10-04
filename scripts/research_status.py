@@ -93,7 +93,7 @@ def evaluate(f: dict):
     if f["mid_rebase"]:
         fails.append("local repo stuck mid-rebase (next research run will fail)")
     if f["unpushed"]:
-        warns.append(f"{f['unpushed']} research commit(s) not pushed")
+        fails.append(f"{f['unpushed']} research commit(s) never reached GitHub")
     utc_today = datetime.now(timezone.utc).date()
     if not f["last_release"] or f["last_release"] < (utc_today - timedelta(days=2)).isoformat():
         fails.append(f"site has not published since {f['last_release']}")
@@ -144,6 +144,7 @@ def check() -> None:
     assert evaluate({**good, "live_status": 404})[0] == "FAIL", "unpublished page must FAIL"
     assert evaluate({**good, "last_release": "2026-01-01"})[0] == "FAIL", "stalled drip must FAIL"
     assert evaluate({**good, "ci": None})[0] == "WARN", "unknown build is never OK"
+    assert evaluate({**good, "unpushed": 1})[0] == "FAIL", "an unpushed research commit must FAIL"
     print("research_status self-check passed")
 
 

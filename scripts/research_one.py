@@ -12,8 +12,8 @@ promote gate before it can reach the pending pool.
   python scripts/research_one.py --check    # self-check (no network, no LLM)
 
 Every candidate that passes the gates then goes to an independent fact-check (a second
-`claude -p` that did not write it). Errors found -> one revision -> gates + fact-check again;
-still failing -> blocked, never published. Each title's outcome is appended to
+`claude -p` that did not write it). Errors found -> revision -> gates + fact-check again, at
+most twice; still failing -> blocked, never published. Each title's outcome is appended to
 data/research_runs.jsonl, which research_status.py reads to prove the run happened.
 """
 import json
@@ -87,6 +87,11 @@ the form https://archive.org/details/<identifier>. VERIFY each identifier resolv
 the right film by fetching https://archive.org/metadata/<identifier> before you cite it.
 Never invent an identifier; an empty watch list is better than a wrong one.
 
+Every factual detail you write (dates, places, people, composers, archives, restorations,
+releases) must come from a page you actually fetched in this session. If you cannot confirm a
+detail, leave it out: an independent fact-checker reviews this dossier and any unsupported
+detail blocks it. A shorter dossier is better than a wrong one.
+
 editorial: two short paragraphs of specific, concrete prose about THIS film — what it is,
 why a creator would want it, and the one rights trap that actually applies. Use facts
 (names, dates, studio, what happened to the copyright). No stock phrases, no sentence you
@@ -148,8 +153,9 @@ Return {{"verdict": "pass" or "fail", "issues": [{{"where": "<field>", "problem"
 "verdict" is "fail" exactly when "issues" is not empty."""
 
 REVISE_PROMPT = """You wrote this RightsAtlas dossier. An independent fact-checker found the problems
-below. Fix every one: correct the claim, or remove it if you cannot support the correction. Change
-nothing else, keep every key and the same JSON shape. Return ONE JSON object and nothing else.
+below. Fix every one: correct the claim, or remove it if you cannot support the correction. While
+you are at it, remove any other detail you cannot confirm from a page you fetch now - the checker
+runs again. Keep every key and the same JSON shape. Return ONE JSON object and nothing else.
 Do not write, move or promote any file.
 
 PROBLEMS: {issues}
@@ -271,13 +277,17 @@ def research(row: dict):
     try:  # one bad title must not sink the batch
         # ponytail: a title that always fails is retried daily; skip-list it if that happens
         cand, reasons = finish(ask_claude(row))
-        if not reasons:
+        for rnd in range(3):                     # fact-check; up to 2 revisions; 3rd fail blocks
+            if reasons:
+                break
             issues = review(cand)
-            if issues:
-                print(f"  fact-check: {len(issues)} issue(s), revising once")
-                cand, reasons = finish(revise(cand, issues))
-                if not reasons:
-                    reasons = [f"fact-check: {i}" for i in review(cand)]
+            if not issues:
+                break
+            if rnd == 2:
+                reasons = [f"fact-check: {i}" for i in issues]
+                break
+            print(f"  fact-check round {rnd + 1}: {len(issues)} issue(s), revising")
+            cand, reasons = finish(revise(cand, issues))
     except (subprocess.TimeoutExpired, ValueError) as e:  # JSONDecodeError is a ValueError
         reasons = [f"{type(e).__name__}: {str(e)[:200]}"]
     if reasons:
