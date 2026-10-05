@@ -6,3 +6,5 @@
 {"date": "2026-10-05", "id": "dementia-13-1963", "result": "refreshed", "reasons": []}
 {"date": "2026-10-05", "id": "white-zombie-1932", "result": "blocked", "reasons": ["TimeoutExpired: Command '['C:\\\\Users\\\\Morning Star\\\\AppData\\\\Roaming\\\\npm\\\\claude.CMD', '-p', '--model', 'sonnet', '--output-format', 'json', '--allowedTools', 'WebSearch,WebFetch', '--disallowedTools', 'Write,Edit,M"]}
 {"date": "2026-10-05", "id": "robot-monster-1953", "result": "queued", "reasons": []}
+{"date": "2026-10-05", "id": "carnival-of-souls-1962", "result": "blocked", "reasons": ["print verified_pd without a primary-source evidence entry", "high-demand title needs >=2 primary citations (has 0)"]}
+{"date": "2026-10-05", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
