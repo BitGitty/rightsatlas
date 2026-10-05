@@ -1,0 +1,104 @@
+{
+  "id": "the-golem-1920",
+  "title": "The Golem",
+  "year": 1920,
+  "country": "DE",
+  "last_verified": "2026-10-05",
+  "byline": "Directed by Paul Wegener and Carl Boese; cinematography by Karl Freund and Guido Seeber; set design by Hans Poelzig; screenplay by Paul Wegener and Henrik Galeen",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published October 1920 in Germany. US copyright for pre-1978 published works runs 95 years from publication: 1920 + 95 = 2015. The print entered the US public domain on January 1, 2016.",
+          "source": "Duke Center for the Study of the Public Domain – Public Domain Day 2026 (confirms 1930 works enter PD in 2026 under the same 95-year rule; 1920 works entered PD correspondingly in 2016)",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Germany is a Berne Convention country. Under 17 U.S.C. § 104A (URAA, effective January 1, 1996), copyright in this film was restored in the US because it remained under German copyright as of January 1, 1996 — co-director Carl Boese died 1958, giving a German life+70 term running to 2028 — and had entered the US public domain solely by failure of formalities (no US registration, no renewal, no copyright notice). The URAA-restored US term equals the domestic term: 95 years from publication, expiring December 31, 2015. The print has been in the US public domain since January 1, 2016.",
+          "source": "Archive.org item page confirming German origin and October 1920 publication date",
+          "url": "https://archive.org/details/the-golem-1920"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Golem (1920) is a silent film; no original synchronized recorded score was ever created or published. All commercial home-video releases carry newly commissioned scores that are independently copyrighted. The Friedrich-Wilhelm-Murnau-Stiftung 2018 restoration (released on Kino Lorber Blu-ray in the US and Eureka Video Blu-ray in the UK) bundles four separate scores: Stephen Horne, Admir Shkurtaj, and Lukasz 'Wudec' Poleszak for the German release version, each owned by its composer, plus a score by Cordula Heth for the bundled US-version feature — present on both the Kino Lorber and Eureka Video editions. Any copy shown silently — or the Archive.org upload (identifier: the-golem-1920), which carries no protected audio — involves no protected score.",
+          "source": "Eureka Video product page for Der Golem – How He Came into the World (lists all bundled scores)",
+          "url": "https://eurekavideo.co.uk/movie/der-golem-wie-er-in-die-welt-kam-the-golem-how-he-came-into-the-world/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay by Paul Wegener and Henrik Galeen was first published as part of the 1920 film; its US term expired December 31, 2015 (1920 + 95). The primary source material — Gustav Meyrink's novel Der Golem (1915, Germany) — was published well before 1928 and is listed by Project Gutenberg as in the public domain in the United States. The underlying Golem legend is ancient Jewish folklore and predates any copyright regime. No separately protected story element blocks reuse.",
+          "source": "Project Gutenberg – Der Golem by Gustav Meyrink (PD listing confirms US public domain status for the 1915 novel)",
+          "url": "https://www.gutenberg.org/ebooks/51476"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 4K restoration supervised by the Friedrich-Wilhelm-Murnau-Stiftung and Cinematek, carried out by L'Immagine ritrovata from the film's original 35mm negative recovered from the Cinémathèque Royale de Belgique, premiered at the 75th Venice International Film Festival (2018) and was released on Blu-ray by Kino Lorber (US) and Eureka Video (UK). A separate and longer restoration was produced by the Munich Film Museum. Both restorations carry copyright in their respective original contributions; neither affects the public-domain status of the underlying 1920 images.",
+          "source": "Eureka Video – Der Golem (4K Restoration) cinema page",
+          "url": "https://eurekavideo.co.uk/cinema/der-golem/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1947,
+      1948,
+      1949
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"The Golem\" (renewals ~1947, 1948, 1949)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Golem"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-golem-1920",
+      "label": "The Golem (1920) — community upload (Cult Classic Movies); approx. 76 min, German intertitles with Portuguese subtitles; no protected score",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Golem (1920) — original title Der Golem, wie er in die Welt kam — is a landmark of German Expressionist cinema directed by Paul Wegener and Carl Boese. Wegener stars as the towering clay figure summoned by Rabbi Löw to defend Prague's Jewish ghetto; Hans Poelzig's curving, cave-like studio sets and Karl Freund and Guido Seeber's shadow-heavy cinematography gave the film a visual grammar that James Whale's Frankenstein (1931) would later directly inherit. The 95-year US copyright term, including any URAA-restored period triggered by Germany's Berne Convention membership, ran from October 1920 and expired December 31, 2015. The print entered the US public domain on January 1, 2016.\n\nThe one trap that catches reusers is the score. The Golem was made silent and projected with live accompaniment; it has no original synchronized recording. Every commercial copy in circulation bundles a newly commissioned, fully protected score. The Friedrich-Wilhelm-Murnau-Stiftung 2018 restoration — released on Kino Lorber Blu-ray in the US and Eureka Video Blu-ray in the UK — pairs the PD images with four independent scores: Stephen Horne, Admir Shkurtaj, and Lukasz 'Wudec' Poleszak for the German release version, and Cordula Heth for the bundled US-version feature; all four scores appear on both editions, each owned by its composer. Ripping from either disc and using the audio without a license infringes the score copyright even though the underlying images are free. The safe path is the Archive.org copy (identifier: the-golem-1920), which carries no protected audio track.",
+  "faq": [
+    [
+      "Can I use footage from The Golem (1920) in a commercial project?",
+      "Yes — the photographic images and the underlying story are in the US public domain. The risk is the audio. Any commercial Blu-ray or DVD pairs the PD images with a modern commissioned score that its composer still owns; using that audio without a license infringes the score regardless of the film's status. Source footage from archive.org/details/the-golem-1920, which has no protected audio, and supply original or freely licensed music."
+    ],
+    [
+      "Does the 2018 Murnau-Stiftung 4K restoration create new copyright that blocks reuse of the images?",
+      "Not in a way that prevents using the underlying 1920 film. The restoration may carry a thin copyright in original creative choices made by the restorers, but US law does not extend protection to purely technical improvement of a public-domain work. What is clearly protected are the commissioned scores bundled with the disc and the disc packaging itself — you may not copy the Kino Lorber or Eureka Video release, but you may use the 1920 film images sourced from a public-domain copy."
+    ]
+  ]
+}
