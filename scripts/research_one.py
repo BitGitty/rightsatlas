@@ -75,6 +75,13 @@ Evidence rules (the gate enforces these, a violation wastes the run):
   a dead or invented address blocks the run. Duke CSPD Public Domain Day pages live at
   https://web.law.duke.edu/cspd/publicdomainday/<year>/ (there is no copyright.duke.edu).
 - A non-US work claiming a PD print also needs an evidence entry of type "uraa_analysis".
+- For a film published after {cutoff}, public domain rests on a missing notice or a missing
+  renewal, and the gate needs TWO primary citations. For non-renewal cite each source you
+  checked as its own entry: (a) the Catalog of Copyright Entries renewal volume(s) for the
+  film's 28th-year window, as archive.org/details/<volume> pages (type "cce_entry", note which
+  volume and that no renewal is listed); (b) for renewals due 1978 or later, a search of the
+  Copyright Office public catalog (publicrecords.copyright.gov), type "renewal_absence_search",
+  with the note stating exactly what you searched for and that it returned no renewal.
 
 Layer guidance, applied honestly rather than by rote:
 - score: for a silent film the images are free but any score on a modern copy is a separate
@@ -422,6 +429,10 @@ def check() -> None:
     # the fact-check verdict is parsed strictly: pass needs an explicit pass with no issues
     assert parse_review('{"verdict": "pass", "issues": []}') == [], "clean review must pass"
     assert not any(w in '{"title": "Rate"}'.lower() for w in LIMIT_WORDS), "normal JSON is not a limit"
+    nr = {"type": "renewal_absence_search", "url": "https://publicrecords.copyright.gov/search?q=x",
+          "note": "Searched the public catalog for renewals of X: no renewal found."}
+    assert engine.is_primary(nr), "a documented official-catalog search proves non-renewal"
+    assert not engine.is_primary({**nr, "url": "https://www.google.com/search?q=x"}), "but not a web search"
     assert parse_review('x {"verdict": "fail", "issues": [{"where": "year", "problem": "p", "fix": "f"}]} y') \
         == ["year: p -> f"], "issues must be reported"
     assert parse_review('{"verdict": "fail", "issues": []}'), "a bare fail must still block"

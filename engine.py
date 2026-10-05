@@ -68,9 +68,23 @@ PRIMARY_RENEWED_EVIDENCE = {"renewal_registration", "cce_renewal_entry", "copyri
 _NON_PRIMARY_URL_HINTS = ("/search", "?q=", "wikipedia.org", "infodigi")
 
 
+# Proving a work was NEVER renewed means showing an official search came back empty: renewals
+# from 1978 on exist only in the Copyright Office's online catalog, which has no record page
+# for an absence. So a documented search of an OFFICIAL catalog counts - and only for that
+# evidence type, and only when the note records what was searched and that nothing was found.
+# (Before 2026-10-05 every post-1930 public-domain film was unprovable: White Zombie, Night of
+# the Living Dead and Little Shop of Horrors were all blocked for "needs 2 primary citations".)
+OFFICIAL_CATALOGS = ("publicrecords.copyright.gov", "cocatalog.loc.gov", "copyright.gov/public-records")
+
+
 def is_primary(ev: dict) -> bool:
     """True if this evidence entry is a citable primary source (not a search/wiki link)."""
     url = (ev.get("url") or "").lower()
+    note = (ev.get("note") or "").lower()
+    if (ev.get("type") == "renewal_absence_search" and any(c in url for c in OFFICIAL_CATALOGS)
+            and any(w in note for w in ("searched", "search for", "query"))
+            and any(w in note for w in ("no ", "zero", "0 result", "not found", "none"))):
+        return True
     if any(h in url for h in _NON_PRIMARY_URL_HINTS):
         return False
     return ev.get("type") in (PRIMARY_PD_EVIDENCE | PRIMARY_RENEWED_EVIDENCE)
