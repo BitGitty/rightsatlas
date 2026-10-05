@@ -91,8 +91,12 @@ Layer guidance, applied honestly rather than by rote:
   source was published.
 - trademark: character and franchise marks survive copyright expiry. undetermined unless
   you know of an active mark.
-- restorations: not_pd where a modern restoration (Criterion, Kino, Flicker Alley, MoMA,
-  Photoplay) exists; undetermined otherwise.
+- restorations: a FAITHFUL restoration of a public-domain film adds no new US copyright
+  (Bridgeman v. Corel, following Feist); what it ADDS can be protected (a new score,
+  colorization, new or translated titles, added material). Use partially_protected when a modern
+  restoration with such additions exists (Criterion, Kino, Flicker Alley, MoMA, Photoplay,
+  foundation restorations), undetermined otherwise; never say a restoration is wholly
+  copyrighted. Ripping a copy-protected disc can break the DMCA (17 U.S.C. 1201).
 
 watch[]: 1-2 entries {{"url","label","quality"}}. Only real Internet Archive item pages of
 the form https://archive.org/details/<identifier>. VERIFY each identifier resolves and is
