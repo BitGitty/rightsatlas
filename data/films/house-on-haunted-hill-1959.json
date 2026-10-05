@@ -63,11 +63,11 @@
       ]
     },
     "restorations": {
-      "status": "undetermined",
+      "status": "not_pd",
       "evidence": [
         {
           "type": "research_note",
-          "note": "No restoration by Criterion, Kino, Flicker Alley, MoMA, or Photoplay was confirmed in this research session. A 2004 colorized edition hosted by Elvira (Internet Archive identifier house-on-haunted-hill_202604, from 'Elvira's Horror Classics') is a derivative colorized work that carries new protectable elements and must not be used as a source. An HD-quality transfer (1280×720) appears at Archive.org (identifier house-on-haunted-hill-1959_202606) but its licensing provenance was not explicitly confirmed in the metadata fetched this session.",
+          "note": "Modern HD restorations and colorized versions carry new protectable elements.",
           "source": null,
           "url": null
         }
