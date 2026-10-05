@@ -171,6 +171,11 @@
    "film": "house-on-haunted-hill-1959",
    "kind": "watch"
   },
+  "HouseOnHauntedHill1959": {
+   "ok": true,
+   "film": "house-on-haunted-hill-1959",
+   "kind": "watch"
+  },
   "in-old-arizona-1928-by-irving-cummings-and-raoul-walsh": {
    "ok": true,
    "film": "in-old-arizona-1929",
@@ -265,6 +270,11 @@
    "ok": true,
    "film": "robin-hood-1922",
    "kind": "watch"
+  },
+  "robot-monster-1953": {
+   "ok": true,
+   "film": "robot-monster-1953",
+   "kind": "evidence"
   },
   "safety-last-1923-by-fred-c.-newmeyer-and-sam-taylor": {
    "ok": true,
