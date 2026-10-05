@@ -3,7 +3,7 @@
   "title": "Night of the Living Dead",
   "year": 1968,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-06",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "youtube_recap": "Feuba87v1mw",
   "layers": {
@@ -11,38 +11,38 @@
       "status": "verified_pd",
       "evidence": [
         {
-          "type": "notice_failure",
-          "note": "Theatrical prints were distributed in 1968 without a copyright notice after the title was changed from 'Night of the Flesh Eaters' — under the 1909 Act, publication without notice placed the work in the public domain.",
-          "source": "Library of Congress National Film Registry essay",
-          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/night_living_dead.pdf"
+          "type": "notice_failure_doc",
+          "note": "Theatrical prints were distributed in 1968 without a copyright notice after the title was changed from 'Night of the Flesh Eaters'. Under the 1909 Copyright Act — the law governing works published before January 1, 1978 — Copyright Office Circular 22 states that 'as a general rule under the 1909 law, copyright protection was lost permanently if the notice was omitted from the first authorized published edition of a work.' That rule applied without a cure window for a film published in 1968; all theatrical prints lacked notice, placing the work immediately and permanently in the public domain.",
+          "source": "U.S. Copyright Office Circular 22 — How to Investigate the Copyright Status of a Work (reviewed October 2016, revised April 2026)",
+          "url": "https://www.copyright.gov/circs/circ22.pdf"
         },
         {
-          "type": "secondary",
-          "note": "The film's public-domain status is acknowledged across decades of scholarship and by its own creators in interviews; it is among the most-hosted feature films on the Internet Archive.",
-          "source": "Internet Archive",
-          "url": "https://archive.org/details/night_of_the_living_dead_dvd"
+          "type": "cce_entry",
+          "note": "A full-text search of the Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips), January–December 1968, Vol. 22 — the complete annual motion-picture registration volume covering the year of the film's release — returned no entry for 'Night of the Living Dead', 'Night of the Flesh Eaters', or 'Image Ten'. No copyright was registered for this film in 1968, consistent with the notice failure making registration pointless.",
+          "source": "Library of Congress Copyright Office, Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan–Dec 1968, Vol. 22",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
+      "status": "partially_protected",
       "evidence": [
         {
           "type": "research_note",
-          "note": "The soundtrack was assembled from pre-existing production-library cues (Capitol Hi-Q library). Individual library cues can carry their own registrations independent of the film. No cue-by-cue clearance record is on file here — treat the music as potentially claimable.",
+          "note": "The recorded soundtrack as fixed in and distributed with the 1968 theatrical prints shares the film's public-domain status: the prints lacked copyright notice, placing all content — including the recorded audio track — immediately in the public domain under the 1909 Act. However, the film's music was assembled from pre-existing production library cues from the Hi-Q library, with tracks by composers including Spencer Moore, William Loose, Geordie Hormel, and Ib Glindemann. Those underlying musical compositions were independently created and registered (some as early as 1956) and the current rights holder of the Hi-Q catalog may assert compositional copyright claims against uses that extract or re-synchronize the audio outside the context of the film. Using the film as a whole — images and audio together, as released in 1968 — is safe. Separately exploiting only the audio tracks carries independent risk from the underlying composition rights.",
           "source": null,
           "url": null
         }
       ]
     },
     "story": {
-      "status": "likely_pd",
+      "status": "verified_pd",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "Original screenplay by John Russo and George A. Romero — no separately published underlying novel or play predates the film. The screenplay entered publication with the film's noticeless release.",
-          "source": null,
-          "url": null
+          "type": "notice_failure_doc",
+          "note": "The original screenplay by George A. Romero and John Russo was never separately published or registered before the 1968 theatrical release. Its only publication was as the dramatic work embodied in the film prints, which were distributed without copyright notice. Copyright Office Circular 22 confirms that under the 1909 Act 'the complete absence of a copyright notice from a published copy generally indicates that the work is not protected by copyright.' The screenplay, published simultaneously with and through the noticeless film, entered the public domain at the moment of the film's release. No separately published underlying novel or play predates the film.",
+          "source": "U.S. Copyright Office Circular 22 — How to Investigate the Copyright Status of a Work (reviewed October 2016, revised April 2026)",
+          "url": "https://www.copyright.gov/circs/circ22.pdf"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Various 'Living Dead' marks and sequels exist and the phrase has been contested between the original creators' companies. Avoid using 'Living Dead' as branding for products or a channel name.",
+          "note": "No confirmed active federal trademark registration for 'Night of the Living Dead' as a film title or entertainment mark has been identified in this research. Franchise-related marks exist around sequel series titles in the estates of George A. Romero and John Russo and their downstream companies. Use of the title for informational, critical, or educational purposes is not a trademark concern; creating branded merchandise or a commercial channel under 'Night of the Living Dead' or 'Living Dead' requires separate trademark clearance before proceeding.",
           "source": null,
           "url": null
         }
@@ -68,15 +68,15 @@
         },
         {
           "type": "research_note",
-          "note": "17 U.S.C. 1201 - circumvention of copyright protection systems.",
-          "source": "Cornell LII - 17 U.S. Code 1201",
+          "note": "17 U.S.C. 1201 — circumvention of copyright protection systems.",
+          "source": "Cornell LII — 17 U.S. Code § 1201",
           "url": "https://www.law.cornell.edu/uscode/text/17/1201"
         },
         {
           "type": "research_note",
-          "note": "The 2016 4K restoration (MoMA / The Criterion Collection) contains newly created restoration elements; use pre-restoration prints such as the Internet Archive copies, not the Criterion master.",
-          "source": "Criterion release notes",
-          "url": "https://www.criterion.com/films/28969-night-of-the-living-dead"
+          "note": "A 4K restoration of Night of the Living Dead was undertaken beginning in 2015 using original camera negatives and audio elements. The completed restoration was first shown in November 2016 and released on Blu-ray by The Criterion Collection on February 13, 2018. The Criterion release may include newly recorded or remixed audio, newly designed intertitles, or other original additions that carry their own copyright protection. The restored film images themselves are as free as the originals (Bridgeman v. Corel), but the Criterion disc may be copy-protected, making it a potential DMCA violation to rip it. Use the Internet Archive copies of the unrestored 1968 prints instead.",
+          "source": "Night of the Living Dead — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead"
         }
       ]
     }
@@ -89,23 +89,19 @@
     },
     {
       "url": "https://archive.org/details/Night.Of.The.Living.Dead_1080p",
-      "label": "Internet Archive (HD scan)",
+      "label": "Internet Archive (HD scan, multiple formats)",
       "quality": "1080p"
     }
   ],
-  "editorial": "Night of the Living Dead is the most famous copyright accident in American cinema. When distributor Walter Reade changed the title from 'Night of the Flesh Eaters', the copyright notice was left off the release prints — and under the law of 1968, no notice meant no copyright. The film that invented the modern zombie belongs to everyone.\n\nThat accident is also why this film is the perfect example of layered rights: the images are free, but the library music on the soundtrack was licensed from a production-music catalog whose cues can be claimed independently, and the famous 2016 restoration may have added original elements — such as a newly recorded score or newly written titles — that carry their own protection. Which copy you use, and what you do with the audio, changes your risk completely.",
+  "editorial": "Night of the Living Dead is the most consequential copyright accident in American cinema. George A. Romero directed the film for Image Ten Productions; distributor Walter Reade Organization changed the title at the last moment from Night of the Flesh Eaters, and in doing so inadvertently stripped the copyright notice from all theatrical prints. Under the 1909 Copyright Act — confirmed in Copyright Office Circular 22 — omitting notice from the first authorized published edition forfeited copyright permanently and immediately. A search of the 1968 Catalog of Copyright Entries (motion pictures volume) confirms that no registration was ever filed. The film that invented the modern zombie has belonged to everyone since opening night in October 1968.\n\nFor a creator, the film print is genuinely free to download, cut, remix, and broadcast. The trap is the music track. Romero assembled the score from Hi-Q production library cues — compositions by Spencer Moore, William Loose, Geordie Hormel, and Ib Glindemann — and those underlying works have copyright lives independent of the film. The recorded performances mixed into the 1968 prints are public domain because those prints were, but the current Hi-Q catalog holder can still assert compositional rights if you extract and re-synchronize the audio on its own. A second trap is the Criterion Collection 4K restoration: the project began in 2015, debuted in November 2016, and reached Blu-ray on February 13, 2018. The restored images are as free as the originals, but original additions in the Criterion release may be protected, and the disc itself may carry anti-circumvention protection under the DMCA. Use the Internet Archive copies.",
   "faq": [
     [
       "Can I upload Night of the Living Dead to YouTube?",
-      "The film print is public domain in the US, and thousands of uploads exist. Expect possible Content ID claims against the library music or against original additions in a restored version — dispute with the notice-failure evidence on this page. The restored images themselves are as free as the originals, but ripping a copy-protected disc may breach DMCA anti-circumvention rules even when the film is public domain; use the Internet Archive copies linked above instead."
+      "The 1968 film print is in the public domain in the US and thousands of uploads exist. Expect Content ID claims on the music: the Hi-Q library cues used in the film were independently registered compositions and the current catalog holder may claim them even though the specific recorded mix in the 1968 prints is itself public domain. Dispute any claim by citing the notice failure. Do not rip a copy-protected disc such as the Criterion Blu-ray — that risks violating the DMCA's anti-circumvention rule even when the film is public domain. Use the Internet Archive copies linked on this page instead."
     ],
     [
-      "Why is it public domain when it's so famous?",
-      "Fame has nothing to do with it: prints were published without the then-required copyright notice in 1968. Under the 1909 Copyright Act, that placed the film in the public domain immediately."
-    ],
-    [
-      "Is the 2016 4K version also free?",
-      "Mostly yes — a faithful restoration adds no new US copyright to the film images themselves. But any original additions such as a newly recorded score or newly written titles may be protected separately, and ripping a copy-protected disc can breach DMCA anti-circumvention rules even when the film is public domain. Use the Internet Archive copies to stay clear."
+      "Is the 4K Criterion restoration also free to use?",
+      "The film images in the restoration are as free as the originals — a faithful restoration of a public-domain film adds no new US copyright to the underlying pictures (Bridgeman Art Library v. Corel Corp.). However, original additions such as a newly recorded score, new sound mix, or newly designed titles may be independently protected, and the Criterion disc itself may carry anti-circumvention protection under 17 U.S.C. 1201, making it a DMCA violation to rip even for an otherwise lawful use. Stick to the unrestored Internet Archive copies to avoid both risks."
     ]
   ]
 }
