@@ -9,41 +9,93 @@
     "print": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "notice_failure", "note": "Corman's Boris Karloff / Jack Nicholson quickie was released without effective copyright and is a decades-long fixture of the US public domain. Primary evidence scan not yet attached — held at 'likely'.", "source": "Wikipedia summary with sources", "url": "https://en.wikipedia.org/wiki/The_Terror_(1963_film)"},
-        {"type": "hosting", "note": "Long-standing Internet Archive hosting.", "source": "Internet Archive", "url": "https://archive.org/details/TheTerror"}
+        {
+          "type": "notice_failure",
+          "note": "Corman's Boris Karloff / Jack Nicholson quickie was released without effective copyright and is a decades-long fixture of the US public domain. Primary evidence scan not yet attached — held at 'likely'.",
+          "source": "Wikipedia summary with sources",
+          "url": "https://en.wikipedia.org/wiki/The_Terror_(1963_film)"
+        },
+        {
+          "type": "hosting",
+          "note": "Long-standing Internet Archive hosting.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/TheTerror"
+        }
       ]
     },
     "score": {
       "status": "undetermined",
       "evidence": [
-        {"type": "research_note", "note": "Ronald Stein score; separate registration status not verified here.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Ronald Stein score; separate registration status not verified here.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "story": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "research_note", "note": "Original screenplay (Leo Gordon / Jack Hill); no underlying work.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "Original screenplay (Leo Gordon / Jack Hill); no underlying work.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "trademark": {
       "status": "likely_pd",
       "evidence": [
-        {"type": "research_note", "note": "No known active marks.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "No known active marks.",
+          "source": null,
+          "url": null
+        }
       ]
     },
     "restorations": {
-      "status": "not_pd",
+      "status": "partially_protected",
       "evidence": [
-        {"type": "research_note", "note": "Modern restorations/colorizations separately protected.", "source": null, "url": null}
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "source": "Bridgeman Art Library v. Corel Corp. (summary)",
+          "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
+        },
+        {
+          "type": "research_note",
+          "note": "17 U.S.C. 1201 - circumvention of copyright protection systems.",
+          "source": "Cornell LII - 17 U.S. Code 1201",
+          "url": "https://www.law.cornell.edu/uscode/text/17/1201"
+        },
+        {
+          "type": "research_note",
+          "note": "Modern restorations/colorizations separately protected.",
+          "source": null,
+          "url": null
+        }
       ]
     }
   },
   "watch": [
-    {"url": "https://archive.org/details/TheTerror", "label": "Internet Archive (h.264)", "quality": "480p+"}
+    {
+      "url": "https://archive.org/details/TheTerror",
+      "label": "Internet Archive (h.264)",
+      "quality": "480p+"
+    }
   ],
   "editorial": "Shot in leftover days on leftover sets with a young Jack Nicholson opposite Boris Karloff, The Terror is the film Corman made because the castle set from The Raven was still standing. It fell straight into the public domain and has anchored horror compilations ever since — and its footage famously appears inside another PD favorite, Targets (which is NOT free).\n\nOriginal story, no marks, archival prints everywhere. Standard-era cautions apply: unverified score chain, protected modern restorations.",
   "faq": [
-    ["Can I use The Terror in my videos?", "Yes, from archival prints, with low risk; the score's separate status is unverified so audio claims are possible."],
-    ["Is Targets (1968) also public domain because it uses this footage?", "No. Targets is a separately copyrighted film that merely licensed footage from The Terror."]
+    [
+      "Can I use The Terror in my videos?",
+      "Yes, from archival prints, with low risk; the score's separate status is unverified so audio claims are possible."
+    ],
+    [
+      "Is Targets (1968) also public domain because it uses this footage?",
+      "No. Targets is a separately copyrighted film that merely licensed footage from The Terror."
+    ]
   ]
 }

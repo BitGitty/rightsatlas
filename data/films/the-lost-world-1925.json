@@ -44,8 +44,20 @@
       "evidence": []
     },
     "restorations": {
-      "status": "not_pd",
+      "status": "partially_protected",
       "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "source": "Bridgeman Art Library v. Corel Corp. (summary)",
+          "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
+        },
+        {
+          "type": "research_note",
+          "note": "17 U.S.C. 1201 - circumvention of copyright protection systems.",
+          "source": "Cornell LII - 17 U.S. Code 1201",
+          "url": "https://www.law.cornell.edu/uscode/text/17/1201"
+        },
         {
           "type": "research_note",
           "note": "Flicker Alley (distributor) and Lobster Films (restoration house) released a 2K restoration in 2017, incorporating approximately 10 minutes of newly discovered footage assembled from archives worldwide, plus a new orchestral score by Robert Israel. The restoration premiered at the San Francisco Silent Film Festival in June 2017 and was released on Blu-ray in September 2017. As a new creative work embodying editorial selection and original music, this restoration carries its own separate copyright and is not in the public domain.",
