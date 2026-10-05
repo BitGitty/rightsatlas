@@ -131,7 +131,9 @@ def recently_blocked(days=14, times=2) -> set:
     for line in RUNS.read_text(encoding="utf-8").splitlines():
         r = json.loads(line)
         if r["date"] >= since and r["result"] == "blocked":
-            n[_key(r["id"])] = n.get(_key(r["id"]), 0) + 1
+            # a timeout says the title is slow, not wrong: it counts half (skip after 4)
+            w = 0.5 if str((r.get("reasons") or [""])[0]).startswith("TimeoutExpired") else 1
+            n[_key(r["id"])] = n.get(_key(r["id"]), 0) + w
     return {k for k, c in n.items() if c >= times}
 
 
@@ -207,7 +209,7 @@ class UsageLimit(RuntimeError):
 LIMIT_WORDS = ("usage limit", "rate limit", "limit reached", "out of extra usage", "quota")
 
 
-def _claude(prompt: str, model: str = MODEL) -> str:
+def _claude(prompt: str, model: str = MODEL, timeout: int = 1200) -> str:
     """One headless claude -p call (web tools only, no file tools); returns its text result."""
     cli = shutil.which("claude") or "claude"      # Windows needs the resolved .cmd
     # Run OUTSIDE the repo: given repo access the researcher writes and "promotes" its own
@@ -222,7 +224,7 @@ def _claude(prompt: str, model: str = MODEL) -> str:
                                 stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
                                 text=True, encoding="utf-8", cwd=sandbox)
         try:
-            out = proc.communicate(prompt, timeout=1500)[0]   # foreign/URAA titles need >15 min
+            out = proc.communicate(prompt, timeout=timeout)[0]
         except subprocess.TimeoutExpired:
             # killing claude.cmd alone orphans the claude.exe under it: kill the whole tree
             subprocess.run(["taskkill", "/T", "/F", "/PID", str(proc.pid)], capture_output=True)
@@ -250,7 +252,8 @@ def ask_claude(row: dict, skeleton: dict | None = None) -> dict:
     return _json(_claude(PROMPT.format(row=json.dumps(row, ensure_ascii=False),
                                        skeleton=json.dumps(skeleton, ensure_ascii=False),
                                        today=date.today().isoformat(),
-                                       cutoff=engine.pd_cutoff_year())))
+                                       cutoff=engine.pd_cutoff_year()),
+                         timeout=2400))   # first research of a hard title: 25 min was too short twice
 
 
 def parse_review(out: str) -> list:
