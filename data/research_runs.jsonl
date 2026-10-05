@@ -8,3 +8,5 @@
 {"date": "2026-10-05", "id": "robot-monster-1953", "result": "queued", "reasons": []}
 {"date": "2026-10-05", "id": "carnival-of-souls-1962", "result": "blocked", "reasons": ["print verified_pd without a primary-source evidence entry", "high-demand title needs >=2 primary citations (has 0)"]}
 {"date": "2026-10-05", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
+{"date": "2026-10-05", "id": "last-man-on-earth-1964", "result": "refreshed", "reasons": []}
+{"date": "2026-10-05", "id": "little-shop-of-horrors-1960", "result": "blocked", "reasons": ["fact-check: editorial: Shooting duration stated as 'approximately two days'; multiple authoritative sources consistently document the principal photography as 'two days and one night', with additional exterior shots filmed over two successive weekends. -> Replace 'approximately two days' with 'two days and one night'."]}
