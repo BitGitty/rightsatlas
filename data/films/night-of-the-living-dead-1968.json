@@ -93,11 +93,11 @@
       "quality": "1080p"
     }
   ],
-  "editorial": "Night of the Living Dead is the most famous copyright accident in American cinema. When distributor Walter Reade changed the title from 'Night of the Flesh Eaters', the copyright notice was left off the release prints — and under the law of 1968, no notice meant no copyright. The film that invented the modern zombie belongs to everyone.\n\nThat accident is also why this film is the perfect example of layered rights: the images are free, but the library music on the soundtrack was licensed from a production-music catalog whose cues can be claimed independently, and the famous 2016 restoration added newly protected work. Which copy you use, and what you do with the audio, changes your risk completely.",
+  "editorial": "Night of the Living Dead is the most famous copyright accident in American cinema. When distributor Walter Reade changed the title from 'Night of the Flesh Eaters', the copyright notice was left off the release prints — and under the law of 1968, no notice meant no copyright. The film that invented the modern zombie belongs to everyone.\n\nThat accident is also why this film is the perfect example of layered rights: the images are free, but the library music on the soundtrack was licensed from a production-music catalog whose cues can be claimed independently, and the famous 2016 restoration may have added original elements — such as a newly recorded score or newly written titles — that carry their own protection. Which copy you use, and what you do with the audio, changes your risk completely.",
   "faq": [
     [
       "Can I upload Night of the Living Dead to YouTube?",
-      "The film print is public domain in the US, and thousands of uploads exist. Expect possible Content ID claims against the library music or against restored masters — dispute with the notice-failure evidence on this page, and avoid the 2016 Criterion restoration as a source."
+      "The film print is public domain in the US, and thousands of uploads exist. Expect possible Content ID claims against the library music or against original additions in a restored version — dispute with the notice-failure evidence on this page. The restored images themselves are as free as the originals, but ripping a copy-protected disc may breach DMCA anti-circumvention rules even when the film is public domain; use the Internet Archive copies linked above instead."
     ],
     [
       "Why is it public domain when it's so famous?",
@@ -105,7 +105,7 @@
     ],
     [
       "Is the 2016 4K version also free?",
-      "No. Restorations can add new protectable elements. Use the original prints, like the Internet Archive copies linked above."
+      "Mostly yes — a faithful restoration adds no new US copyright to the film images themselves. But any original additions such as a newly recorded score or newly written titles may be protected separately, and ripping a copy-protected disc can breach DMCA anti-circumvention rules even when the film is public domain. Use the Internet Archive copies to stay clear."
     ]
   ]
 }
