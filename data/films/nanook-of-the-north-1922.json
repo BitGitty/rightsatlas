@@ -44,8 +44,20 @@
       "evidence": []
     },
     "restorations": {
-      "status": "not_pd",
+      "status": "partially_protected",
       "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "source": "Bridgeman Art Library v. Corel Corp. (summary)",
+          "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
+        },
+        {
+          "type": "research_note",
+          "note": "17 U.S.C. 1201 - circumvention of copyright protection systems.",
+          "source": "Cornell LII - 17 U.S. Code 1201",
+          "url": "https://www.law.cornell.edu/uscode/text/17/1201"
+        },
         {
           "type": "research_note",
           "note": "At least two commercially distributed modern restorations are in active circulation. (1) Flicker Alley / Lobster Films, 2014 Blu-ray: restored from the original nitrate negative held by Fondation Pathé (Paris), credited to Lobster Films, Groupama Gan Foundation for Cinema, and Fondation Pathé; includes a new orchestral score by Gabriel Thibaudeau; distributed in the US by Flicker Alley. The restored image-work and the commissioned score each carry independent copyright. (2) Criterion Collection Eclipse Series 33: Early Flaherty (Spine 33, 2011). Copying from either commercial release without authorisation infringes those restoration copyrights even though the underlying 1922 print is public domain. Users seeking only PD material should use a silent, non-restoration source such as archive.org/details/NanookOfTheNorth and verify the file carries no copyrighted accompaniment.",
