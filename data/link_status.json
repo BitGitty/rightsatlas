@@ -234,12 +234,17 @@
   "night_of_the_living_dead_dvd": {
    "ok": true,
    "film": "night-of-the-living-dead-1968",
-   "kind": "evidence"
+   "kind": "watch"
   },
   "Night.Of.The.Living.Dead_1080p": {
    "ok": true,
    "film": "night-of-the-living-dead-1968",
    "kind": "watch"
+  },
+  "catalogofc19683221213libr": {
+   "ok": true,
+   "film": "night-of-the-living-dead-1968",
+   "kind": "evidence"
   },
   "nosferatu-2000sdvd": {
    "ok": true,
@@ -261,10 +266,15 @@
    "film": "outside-the-law-1920",
    "kind": "watch"
   },
-  "plan.-9.-from.-outer.-space.-1957": {
+  "774-plan-9-from-outer-space": {
    "ok": true,
    "film": "plan-9-from-outer-space-1957",
    "kind": "watch"
+  },
+  "catalogofcopyrig3111213li": {
+   "ok": true,
+   "film": "the-divorcee-1930",
+   "kind": "evidence"
   },
   "robin-hood-1922": {
    "ok": true,
@@ -404,11 +414,6 @@
   "Motionpict19591960librrich0008": {
    "ok": true,
    "film": "the-dawn-patrol-1930",
-   "kind": "evidence"
-  },
-  "catalogofcopyrig3111213li": {
-   "ok": true,
-   "film": "the-divorcee-1930",
    "kind": "evidence"
   },
   "the-divorcee_1930": {
