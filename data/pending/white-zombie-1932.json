@@ -1,0 +1,115 @@
+{
+  "id": "white-zombie-1932",
+  "title": "White Zombie",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-10-06",
+  "byline": "Victor Halperin, dir. Halperin Productions / United Artists (US, 1932). Screenplay: Garnett Weston. With Bela Lugosi as Murder Legendre. First feature-length zombie film.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "CCE Third Series, Vol. 13, Parts 12–13: Motion Pictures and Filmstrips, Jan–Dec 1959. Full text of the djvu transcript searched; the renewal registrations section contains no entry for White Zombie or Halperin Productions. A film published July 28, 1932 had its 28-year first term expire in 1960; renewal was due no later than 1959–1960.",
+          "source": "U.S. Copyright Office, Catalog of Copyright Entries, Third Series, Vol. 13 (1959)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Third Series, Vol. 14, Parts 12–13: Motion Pictures and Filmstrips, Jan–Dec 1960. Full text of the djvu transcript searched; the renewal registrations section contains no entry for White Zombie or Halperin Productions.",
+          "source": "U.S. Copyright Office, Catalog of Copyright Entries, Third Series, Vol. 14 (1960)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "White Zombie is a sound film with a compiled score supervised and arranged by Abe Meyer (Meyer Synchronizing Service), who held the music director credit. The score draws from multiple sources including Mussorgsky, Wagner, Liszt, Riesenfeld, Borch, and others. Guy Bevier Williams and Xavier Cugat each contributed one original piece written expressly for the film: Williams' \"Chant\" (native drumming and wordless vocals, opening sequence) and Cugat's Spanish jota (barroom scene). All other music is drawn from pre-existing works. The score is not a single-composer original work. The original 1932 recorded track is integral to the original work and shares the print's public domain status from non-renewal. The same CCE 1959 (Vol. 13) and 1960 (Vol. 14) searches used for the print found no separate score registration or renewal. Caution: any modern commercial restoration that replaces or supplements the original soundtrack with new recorded music would be independently protected.",
+          "source": "CCE Third Series Vol. 13 (1959) and Vol. 14 (1960)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Screenplay by Garnett Weston (confirmed Wikidata Q1751461), written for the film and forming part of the original work. No separate copyright registration or renewal for the screenplay has been found in the CCE Third Series Vol. 13 (1959) or Vol. 14 (1960) full-text searches. Archive.org item white-zombie_hd describes the film as based on William Seabrook's The Magic Island; that book was published in 1929 (Harcourt, Brace and Company, confirmed at archive.org/details/magicisland00seab), before the bright-line 1930 term-expiry cutoff, and is itself in the public domain.",
+          "source": "U.S. Copyright Office, Catalog of Copyright Entries, Third Series, Vol. 13 (1959)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "term_expiry",
+          "note": "Underlying source material is William Seabrook's The Magic Island, published 1929 by Harcourt, Brace and Company — confirmed via archive.org/details/magicisland00seab. Works published in 1929 are in the public domain in the US by term expiry, removing any residual underlying-work complication for the story layer.",
+          "source": "Internet Archive — The Magic Island by William Seabrook (1929)",
+          "url": "https://archive.org/details/magicisland00seab"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1080p Blu-ray rip (release group 'geckos', 4.69 GB MKV) is archived at archive.org/details/white-zombie-bluray-pnm, confirming a commercial Blu-ray release exists. The distributor and the specific new elements added (audio mastering, commentary tracks, supplementary materials) could not be verified from accessible sources. Any new creative additions to a commercial restoration carry independent copyright. Per 17 U.S.C. § 1201, ripping a copy-protected commercial disc carries separate DMCA liability regardless of the underlying film's public domain status.",
+          "source": "archive.org item white-zombie-bluray-pnm",
+          "url": "https://archive.org/details/white-zombie-bluray-pnm"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"White Zombie\" (renewals ~1959, 1960, 1961)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=White+Zombie"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/white_zombie",
+      "label": "White Zombie (1932) — Internet Archive, 2004 upload by AV Geek; Halperin Productions / United Artists; MPEG2 and MP4, public domain",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/WhiteZombie1932",
+      "label": "White Zombie (1932) — Internet Archive, 2011 upload; Public Domain Mark 1.0, SD MP4",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "White Zombie opened in the United States on July 28, 1932, produced by Edward Halperin and directed by his brother Victor Halperin for Halperin Productions, then released through United Artists. Screenwriter Garnett Weston drew on William Seabrook's 1929 Haiti travel account The Magic Island; Bela Lugosi plays Murder Legendre, a voodoo master who transforms a young American woman (Madge Bellamy) into a zombie at the demand of a wealthy planter. Made for approximately $50,000, the film is recognized as the first feature-length zombie picture and has circulated widely on public-domain video labels since the 1970s.\n\nCreators can use the print and its original 1932 recorded score without restriction: Halperin Productions never filed a copyright renewal during the 1959–1960 window when the 28-year first term expired, leaving both the footage and the original soundtrack in the public domain. The operative rights trap is the commercial disc market. A commercial Blu-ray of the film exists and any such edition layers new copyrightable elements—audio mastering, commentary tracks, supplementary materials—over the PD print; those additions are independently protected even though the underlying film is not. Sourcing directly from an open archive.org upload avoids that issue; ripping a copy-protected commercial disc also carries DMCA risk under 17 U.S.C. § 1201, regardless of the film's copyright status.",
+  "faq": [
+    [
+      "Is White Zombie (1932) free to use in a commercial project?",
+      "Yes for the print and its original 1932 soundtrack. Both are in the public domain because Halperin Productions never renewed the copyright in 1959–1960. Source a copy from an open archive such as archive.org/details/white_zombie rather than a ripped commercial disc to avoid DMCA complications."
+    ],
+    [
+      "A commercial disc of this film has a copyright notice on it — doesn't that mean the film is protected?",
+      "No. Distributors can hold copyright in elements they add to a public-domain release — audio mastering, new commentary tracks, packaging, and liner notes are independently copyrightable. The notice covers those additions only. The original 1932 footage and recorded score are unaffected; copies sourced from an open archive do not infringe those distributor copyrights."
+    ]
+  ]
+}
