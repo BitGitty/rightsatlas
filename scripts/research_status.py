@@ -107,7 +107,7 @@ def lanes(today: date) -> dict:
         reddit = None
     return {"shorts": last(SHORTS / "ledger.json", "shorts", "made"),
             "comments": last(SHORTS / "comments_ledger.json", "done"),
-            "comment_token": (Path("D:/viral-shorts-factory") / "token_tbtf_ssl.json").exists(),
+            "comment_token": (Path.home() / ".rightsatlas" / "youtube_tbtf_state.json").exists(),
             "reddit": reddit}
 
 
@@ -166,7 +166,7 @@ def evaluate(f: dict):
         if not ln.get("shorts") or ln["shorts"] < stale:
             warns.append("no TBTF Short made in 2 days (see rightsatlas_shorts/logs/shorts.log)")
         if not ln.get("comment_token"):
-            warns.append("TBTF comments off: needs the owner's one-time passkey approval")
+            warns.append("TBTF comments off: web login missing - run rightsatlas_shorts/yt_web_login.py")
         elif not ln.get("comments") or ln["comments"] < stale:
             warns.append("no TBTF comments posted in 2 days")
         if not ln.get("reddit") or ln["reddit"][:10] < stale:
