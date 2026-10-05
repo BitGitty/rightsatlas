@@ -320,6 +320,9 @@ def log_run(rid: str, result: str, reasons: list) -> None:
                             "reasons": reasons}, ensure_ascii=False) + "\n")
 
 
+SETTLED = ("verified_pd", "not_pd", "partially_protected", "likely_restored")
+
+
 def _evidence(d: dict) -> int:
     return sum(len(L.get("evidence", [])) for L in d.get("layers", {}).values())
 
@@ -354,6 +357,11 @@ def research(row: dict, old: dict | None = None):
     except (subprocess.TimeoutExpired, ValueError) as e:  # JSONDecodeError is a ValueError
         reasons = [f"{type(e).__name__}: {str(e)[:200]}"]
     if old and not reasons:
+        # a refresh never turns a settled layer back into "undetermined": that throws away an
+        # answer (2026-10-05: House on Haunted Hill lost "restorations: protected" this way)
+        for k, L in old["layers"].items():
+            if L.get("status") in SETTLED and cand["layers"].get(k, {}).get("status") == "undetermined":
+                cand["layers"][k] = L
         if old["layers"]["print"]["status"] == "verified_pd" and cand["layers"]["print"]["status"] != "verified_pd":
             reasons = ["refresh would downgrade a verified print verdict"]
         elif _evidence(cand) < _evidence(old):
