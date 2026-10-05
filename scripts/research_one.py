@@ -10,6 +10,7 @@ promote gate before it can reach the pending pool.
   python scripts/research_one.py -n 5       # top up the drip pool by 5
   python scripts/research_one.py --id the-crowd-1928
   python scripts/research_one.py --refresh 2  # re-research 2 thin published dossiers in place
+  python scripts/research_one.py --auto 2     # rolling runs: alternate new titles / thin-page refreshes
   python scripts/research_one.py --check    # self-check (no network, no LLM)
 
 Every candidate that passes the gates then goes to an independent fact-check (a second
@@ -25,7 +26,7 @@ import tempfile
 import time
 import sys
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -197,6 +198,15 @@ PROBLEMS: {issues}
 DOSSIER: {cand}"""
 
 
+class UsageLimit(RuntimeError):
+    """Claude's plan limit was hit. Not the title's fault: defer it and stop the batch, so the
+    research lane never starves Aurora (which shares the allowance) and no title gets
+    marked 'blocked' (two blocks skip a title for 14 days)."""
+
+
+LIMIT_WORDS = ("usage limit", "rate limit", "limit reached", "out of extra usage", "quota")
+
+
 def _claude(prompt: str, model: str = MODEL) -> str:
     """One headless claude -p call (web tools only, no file tools); returns its text result."""
     cli = shutil.which("claude") or "claude"      # Windows needs the resolved .cmd
@@ -219,9 +229,13 @@ def _claude(prompt: str, model: str = MODEL) -> str:
             proc.communicate()
             raise
     try:                                          # unwrap the CLI result envelope
-        return json.loads(out).get("result", out)
-    except (json.JSONDecodeError, AttributeError):
-        return out
+        env = json.loads(out)
+    except (json.JSONDecodeError, TypeError):
+        env = None
+    text = env.get("result", out) if isinstance(env, dict) else (out or "")
+    if (not env or env.get("is_error")) and any(w in str(text).lower() for w in LIMIT_WORDS):
+        raise UsageLimit(str(text)[:200])
+    return text
 
 
 def _json(out: str) -> dict:
@@ -333,6 +347,10 @@ def research(row: dict, old: dict | None = None):
                 break
             print(f"  fact-check round {rnd + 1}: {len(issues)} issue(s), revising")
             cand, reasons = finish(revise(cand, issues))
+    except UsageLimit as e:
+        print(f"  DEFERRED {row['id']}: Claude usage limit - {e}")
+        log_run(row["id"], "deferred", [str(e)])
+        raise
     except (subprocess.TimeoutExpired, ValueError) as e:  # JSONDecodeError is a ValueError
         reasons = [f"{type(e).__name__}: {str(e)[:200]}"]
     if old and not reasons:
@@ -392,6 +410,7 @@ def check() -> None:
     assert link_dead("https://copyright.duke.invalid/publicdomainday/2024/"), "invented domain must be dead"
     # the fact-check verdict is parsed strictly: pass needs an explicit pass with no issues
     assert parse_review('{"verdict": "pass", "issues": []}') == [], "clean review must pass"
+    assert not any(w in '{"title": "Rate"}'.lower() for w in LIMIT_WORDS), "normal JSON is not a limit"
     assert parse_review('x {"verdict": "fail", "issues": [{"where": "year", "problem": "p", "fix": "f"}]} y') \
         == ["year: p -> f"], "issues must be reported"
     assert parse_review('{"verdict": "fail", "issues": []}'), "a bare fail must still block"
@@ -412,10 +431,18 @@ def main() -> int:
         return 0
     only = args[args.index("--id") + 1] if "--id" in args else None
     n = int(args[args.index("-n") + 1]) if "-n" in args else 1
-    if "--refresh" in args:
+    refresh = "--refresh" in args
+    if "--auto" in args:
+        # rolling runs every 4 h: new titles and thin-page refreshes take turns, so both lanes
+        # keep moving (refresh only while thin pages remain)
+        n = int(args[args.index("--auto") + 1])
+        refresh = (datetime.now().hour // 4) % 2 == 1 and bool(thin_films(1))
+        print(f"auto mode: {'refresh thin pages' if refresh else 'new titles'}")
+    elif refresh:
+        n = int(args[args.index("--refresh") + 1])
+    if refresh:
         jobs = [({"id": d["id"], "title": d["title"], "year": d["year"],
-                  "country": d.get("country", "US")}, d)
-                for d in thin_films(int(args[args.index("--refresh") + 1]))]
+                  "country": d.get("country", "US")}, d) for d in thin_films(n)]
     else:
         jobs = [(r, None) for r in next_rows(n, only)]
     if not jobs:
@@ -426,7 +453,11 @@ def main() -> int:
         if made and time.time() - start > BUDGET_MIN * 60:
             print(f"time budget ({BUDGET_MIN} min) used: {row['id']} left for the next run")
             break
-        made.append(research(row, old))
+        try:
+            made.append(research(row, old))
+        except UsageLimit:
+            print("stopping this run: Claude usage limit (the rest waits for the next run)")
+            break
     print(f"done: {sum(1 for m in made if m)}/{len(jobs)} succeeded; "
           f"pending pool = {len(list(PENDING.glob('*.json')))}")
     return 0

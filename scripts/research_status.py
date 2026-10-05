@@ -118,12 +118,16 @@ def evaluate(f: dict):
     blocked = [r for r in f["runs_today"] if r["result"] == "blocked"]
     if not f["runs_today"]:
         fails.append("research did not run today (no run record)")
-    elif not queued:
+    elif not queued and not any(r["result"] in ("refreshed", "deferred") for r in f["runs_today"]):
         warns.append(f"research ran but all {len(blocked)} title(s) were blocked")
     if not f["made_2d"]:
         fails.append("nothing researched or refreshed in 2 days (check logs/daily_research.log)")
+    refreshed = [r["id"] for r in f["runs_today"] if r["result"] == "refreshed"]
+    deferred = [r["id"] for r in f["runs_today"] if r["result"] == "deferred"]
     lines.append(f"Research today: {len(queued)} new" + (f" ({', '.join(queued)})" if queued else "")
-                 + f", {len(blocked)} blocked")
+                 + f", {len(refreshed)} upgraded, {len(blocked)} blocked")
+    if deferred:
+        warns.append(f"Claude usage limit paused research ({len(deferred)} title(s) deferred, retried next run)")
     for b in blocked:
         lines.append(f"  blocked {b['id']}: {(b['reasons'] or ['?'])[0][:140]}")
     dupes = sorted({i for i in f["queued_week"] if f["queued_week"].count(i) > 1})

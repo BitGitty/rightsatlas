@@ -1,5 +1,6 @@
 @echo off
-REM RightsAtlas daily research job. Two scheduled tasks call it:
+REM RightsAtlas research job. RightsAtlas-Research runs it every 4 h with "auto" (new titles and
+REM thin-page refreshes take turns). Older modes, still usable by hand:
 REM   RightsAtlas-Research 06:10 (no arg)   -> research 2 NEW titles into data/pending
 REM   RightsAtlas-Refresh  14:10 ("refresh") -> re-research 2 thin PUBLISHED dossiers in place
 REM Both go through the gates + independent fact-check (scripts/research_one.py).
@@ -13,6 +14,8 @@ set MODE=-n 2
 set MSG=research: top up drip pool
 if /i "%~1"=="refresh" set MODE=--refresh 2
 if /i "%~1"=="refresh" set MSG=research: refresh thin dossiers
+if /i "%~1"=="auto" set MODE=--auto 2
+if /i "%~1"=="auto" set MSG=research: rolling batch
 echo ==== %date% %time% start %MODE% >> %LOG%
 REM a run that died mid-rebase blocks every later run (2026-10-04): clear it, then start
 REM from the latest main so a title the drip just released is not researched again
