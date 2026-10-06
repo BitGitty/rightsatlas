@@ -466,6 +466,11 @@
    "film": "the-gold-rush-1925",
    "kind": "watch"
   },
+  "the-golem-1920": {
+   "ok": true,
+   "film": "the-golem-1920",
+   "kind": "evidence"
+  },
   "silent-the-haunted-castle": {
    "ok": true,
    "film": "the-haunted-castle-1921",
