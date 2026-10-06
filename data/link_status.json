@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-05",
+ "checked": "2026-10-06",
  "items": {
   "a-dogs-life-1918-directed-by-charlie-chaplin": {
    "ok": true,
@@ -377,6 +377,11 @@
    "kind": "watch"
   },
   "The_Cat_and_the_Canary": {
+   "ok": true,
+   "film": "the-cat-and-the-canary-1927",
+   "kind": "watch"
+  },
+  "cat-and-the-canary-1927": {
    "ok": true,
    "film": "the-cat-and-the-canary-1927",
    "kind": "watch"
