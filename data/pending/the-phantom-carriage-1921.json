@@ -1,0 +1,109 @@
+{
+  "id": "the-phantom-carriage-1921",
+  "title": "The Phantom Carriage",
+  "year": 1921,
+  "country": "SE",
+  "last_verified": "2026-10-07",
+  "byline": "dir. Victor Sjöström; prod. AB Svensk Filmindustri",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Swedish theatrical release January 1, 1921; US release February 1922 (re-edited as 'The Stroke of Midnight' by Metro Pictures Corporation). Both publications predate 1923. The maximum US copyright term of 95 years from the 1921 publication date expired January 1, 2017.",
+          "source": "Duke CSPD Public Domain Day 2017 — 'only works published before 1923 are clearly in the US public domain'",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2017/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Produced by AB Svensk Filmindustri in Sweden, a Berne Convention member country. Had the URAA (17 U.S.C. §104A, restoration date January 1, 1996) restored US copyright — because the film remained protected in Sweden under that country's life-plus-70 term as of that date — the restored term would run only to the end of what the original US copyright term would have been: 95 years from the 1921 publication date, expiring January 1, 2017. As of 2026 the print is public domain in the US regardless of whether URAA restoration occurred.",
+          "source": "17 U.S.C. §104A — Restored copyright: subsistence and term",
+          "url": "https://www.copyright.gov/title17/92chap1.html#104a"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film; no original recorded score. Modern restoration versions carry separately copyrighted scores: Elena Kats-Chernin scored the 1995 ZDF/Arte color-tinted restoration; Matti Bye scored the 1998 Swedish VHS and 2007 Swedish DVD releases; KTL scored a 2008 UK DVD release. Criterion Collection's 2011 US Blu-ray/DVD includes both the Bye and KTL scores under separate copyright. Raw silent-only prints as hosted on Internet Archive carry no protected audio.",
+          "source": "Wikipedia — The Phantom Carriage (home media and restoration history)",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_Carriage"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Selma Lagerlöf's novel 'Körkarlen' (Thy Soul Shall Bear Witness), published in 1912. Works published before 1923 are in the US public domain by term. The 95-year US copyright term from the 1912 publication date expired January 1, 2008.",
+          "source": "Internet Archive — korkarlen_1921 item metadata (source novel and 1912 date credited)",
+          "url": "https://archive.org/details/korkarlen_1921"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Multiple restorations documented: Swedish Film Institute combined two incomplete nitrate prints in 1975; a 1995 color-tinted version with Elena Kats-Chernin score was broadcast on ZDF/Arte (German VHS 1995, DVD 2009); Matti Bye scored Swedish VHS (1998) and DVD (2007) releases; a 2008 UK DVD carried KTL's score; Criterion Collection released a digital scan in the US on Blu-ray/DVD in 2011 with both the Bye and KTL scores; the Swedish Film Institute completed a DCP transfer in 2015. Added scores, color tinting, and translated intertitles in these versions are separately protected. The underlying film images remain public domain. Ripping a copy-protected disc may implicate 17 U.S.C. §1201.",
+          "source": "Wikipedia — The Phantom Carriage (home media and restoration history sections)",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_Carriage"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1948,
+      1949,
+      1950
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"The Phantom Carriage\" (renewals ~1948, 1949, 1950)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Phantom+Carriage"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ThePhantomCarriage",
+      "label": "The Phantom Carriage (1921) — Internet Archive",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/korkarlen_1921",
+      "label": "Körkarlen / The Phantom Carriage (1921, Swedish and English subtitles) — Internet Archive",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "The Phantom Carriage (Körkarlen) is a 1921 Swedish silent fantasy film produced by AB Svensk Filmindustri and directed by Victor Sjöström, who also stars as David Holm — a drunkard compelled on New Year's Eve to confront the ruin he has caused before assuming the duty of driving Death's carriage. Based on Selma Lagerlöf's 1912 novel Thy Soul Shall Bear Witness, the film used double-exposure photography to render its ghostly carriage and built its narrative through flashbacks nested inside flashbacks. Metro Pictures Corporation acquired US distribution rights and released a heavily re-edited version in February 1922 under the title The Stroke of Midnight, altering the story's structure for American audiences.\n\nThe original silent print is public domain in the US: published in 1921, its 95-year copyright term expired January 1, 2017, and any URAA restoration (possible because Sweden's life-plus-70 term would have kept the film protected there as of January 1, 1996) carries the same expiry ceiling under 17 U.S.C. §104A. The practical trap for a creator is the score. Every significant distribution copy since 1995 carries a freshly commissioned soundtrack: Elena Kats-Chernin's score for the ZDF/Arte color-tinted restoration, Matti Bye's score on the Swedish release, and KTL's score on a 2008 UK DVD. Criterion Collection's 2011 US Blu-ray/DVD includes both the Bye and KTL scores, each separately protected. A raw print downloaded from Internet Archive is free to use; reproducing the audio from any modern restoration is not.",
+  "faq": [
+    [
+      "Can I use this film in a video or commercial project?",
+      "Yes — the underlying silent print is public domain in the US. Copies on Internet Archive (identifiers 'ThePhantomCarriage' and 'korkarlen_1921') carry no protected score. If the copy you plan to use includes a modern score — by Matti Bye, Elena Kats-Chernin, or KTL — that audio track is a separately protected sound recording and requires a license."
+    ],
+    [
+      "Does the URAA complicate the public domain status of this Swedish film?",
+      "Not as of 2026. Even if the URAA (effective January 1, 1996) restored US copyright in this Swedish production — because Sweden's life-plus-70 term kept the film protected there on that date — the restored term under 17 U.S.C. §104A runs only to the end of what the original US copyright would have been: 95 years from the 1921 publication date. That clock expired January 1, 2017."
+    ]
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "the-pilgrims-1924",
+  "title": "The Pilgrims",
+  "year": 1924,
+  "country": "US",
+  "last_verified": "2026-10-07",
+  "byline": "Dir. Edwin L. Hollywood; adapted by William Basil Courtney from Charles M. Andrews, The Fathers of New England (Yale University Press, 1919); produced by Yale University Press Film Service.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Registered 18 April 1924 under Class LU, reg. LU 20081, by Yale University Press; distributed to schools and educational institutions beginning 1924. No renewal found in the CCE motion-pictures volumes for 1951–1953 or the cumulative 1950–1959 volume. All US works published in 1924 entered the public domain on 1 January 2020.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Third Series, Parts 12–13: Motion Pictures, January–December 1951 (Vol. 5, No. 1–2) searched in full text for 'Pilgrims', 'Chronicles of America', and 'Yale'. No renewal entry found for this film.",
+          "source": "Internet Archive — Library of Congress Copyright Office CCE 1951",
+          "url": "https://archive.org/details/catalogofcopyri351213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Third Series, Parts 12–13: Motion Pictures, January–December 1952 (Vol. 6, No. 1–2) searched in full text for 'Pilgrims', 'Chronicles of America', and 'Yale'. No renewal entry found for this film.",
+          "source": "Internet Archive — Library of Congress Copyright Office CCE 1952",
+          "url": "https://archive.org/details/catalogofcopyrig361213lib"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Cumulative Series: Motion Pictures 1950–1959 (512 pp.) searched in full text for 'Pilgrims', 'Chronicles of America', and 'Yale'. No renewal entry found for this film across the entire decade.",
+          "source": "Internet Archive — Library of Congress Copyright Office CCE cumulative 1950–1959",
+          "url": "https://archive.org/details/Motionpict19591960librrich0008"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film: no synchronized musical score in the original 1924 release. Any musical accompaniment added to a modern copy — such as the Periscope Film transfer posted to Internet Archive in 2020 — would be an independently created work protected under its own copyright, separate from the underlying public-domain footage.",
+          "source": "Internet Archive — Periscope Film transfer metadata",
+          "url": "https://archive.org/details/10354thechroniclesofamericathepilgrimsmosvwr"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from 'The Fathers of New England: A Chronicle of the Puritan Commonwealths' by Charles M. Andrews, published in 1919 by Yale University Press as Volume 6 of the Chronicles of America series. Published before 1928; in US public domain by term expiry.",
+          "source": "Project Gutenberg — The Fathers of New England by Charles M. Andrews",
+          "url": "https://www.gutenberg.org/ebooks/29853"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Periscope Film LLC uploaded a transfer to Internet Archive in February 2020 under CC BY-NC-ND 4.0. Under Feist Publications v. Rural Telephone Service (1991) and Bridgeman Art Library v. Corel Corp. (1999), a faithful mechanical scan of a public-domain print creates no new US copyright. The CC BY-NC-ND 4.0 claim covers any creative additions Periscope contributed — most plausibly a newly composed or newly recorded musical score, or reworked intertitle cards. Ripping from a copy-protected disc may implicate 17 U.S.C. § 1201.",
+          "source": "Internet Archive — Periscope Film transfer metadata",
+          "url": "https://archive.org/details/10354thechroniclesofamericathepilgrimsmosvwr"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1951,
+      1952,
+      1953
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"The Pilgrims\" (renewals ~1951, 1952, 1953)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Pilgrims"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/10354thechroniclesofamericathepilgrimsmosvwr",
+      "label": "The Chronicles of America: The Pilgrims (1924) — Periscope Film LLC transfer; CC BY-NC-ND 4.0 applies to any creative additions by Periscope",
+      "quality": "standard-definition scan of 1924 silent print; expect mild film grain and age-related wear"
+    }
+  ],
+  "editorial": "\"The Pilgrims\" (1924) is a roughly twenty-one-minute silent educational film produced by the Yale University Press Film Service as one of fifteen completed entries in the Chronicles of America Photoplays series. Directed by Edwin L. Hollywood and adapted by William Basil Courtney from Charles M. Andrews's 1919 history \"The Fathers of New England,\" the film dramatizes the Separatists' departure from Scrooby, their years in Leiden, the 1620 Mayflower crossing, and the Plymouth Rock landing — cast members include Robert Gaillard and Harry Simpson, with the Abenaki sagamore Samoset among the figures depicted. Yale registered it on 18 April 1924 with the US Copyright Office under Class LU, registration number LU 20081.\n\nThe print is unambiguously public domain: Yale never renewed the copyright, the 28-year statutory term expired in 1952, and the film falls before the 1928 bright line that marks US term expiry. Periscope Film LLC — a stock footage archive — uploaded a transfer to Internet Archive in February 2020 with a CC BY-NC-ND 4.0 tag. A faithful scan of a public-domain print creates no new US copyright under Feist and Bridgeman, so the underlying footage is free. The practical trap for a reuser: if Periscope added a newly composed musical score to that specific transfer, that score is independently protected and the CC license restricts its use. Confirm whether the Internet Archive copy is truly silent before deploying it in any project that will carry an audio track.",
+  "faq": [
+    [
+      "Yale University Press produced this — do they still hold the copyright?",
+      "No. Yale registered the copyright on 18 April 1924 (Class LU, reg. LU 20081) but never renewed it. The 28-year term under the 1909 Copyright Act expired in 1952, and no renewal entry appears in the Catalog of Copyright Entries for motion pictures covering 1950–1959. Works published in 1924 also crossed the US term-expiry bright line on 1 January 2020."
+    ],
+    [
+      "The Internet Archive copy carries a Creative Commons license — does that restrict how I can use the film?",
+      "The CC BY-NC-ND 4.0 on the Periscope Film upload applies only to whatever creative additions Periscope contributed, most plausibly a new musical score or reworked title cards. A mechanical scan of an existing public-domain print generates no new US copyright. The underlying footage is free to use; verify whether that specific transfer includes a newly composed accompaniment before using it in any project that will include the audio track."
+    ]
+  ]
+}
