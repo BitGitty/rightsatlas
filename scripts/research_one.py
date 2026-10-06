@@ -362,7 +362,9 @@ def research(row: dict, old: dict | None = None):
             row = {**row, "refresh_note": "Already published, but most layers were never researched "
                    "(status undetermined). Research every layer now; keep existing evidence that is correct."}
             skeleton = {k: v for k, v in old.items() if not k.startswith("_")}
-        cand, reasons = finish(ask_claude(row, skeleton))
+        # the queue id is canonical: done-detection, collections and the known_renewed gate all
+        # look rows up by it (2026-10-06: 'Häxan' came back as h-xan-witchcraft-...-1922)
+        cand, reasons = finish({**ask_claude(row, skeleton), "id": row["id"]})
         for rnd in range(3):                     # fact-check; up to 2 revisions; 3rd fail blocks
             if reasons:
                 break
@@ -373,7 +375,7 @@ def research(row: dict, old: dict | None = None):
                 reasons = [f"fact-check: {i}" for i in issues]
                 break
             print(f"  fact-check round {rnd + 1}: {len(issues)} issue(s), revising")
-            cand, reasons = finish(revise(cand, issues))
+            cand, reasons = finish({**revise(cand, issues), "id": row["id"]})
     except UsageLimit as e:
         print(f"  DEFERRED {row['id']}: Claude usage limit - {e}")
         log_run(row["id"], "deferred", [str(e)])
@@ -458,6 +460,16 @@ def check() -> None:
         pass
     assert all(sum(1 for L in d["layers"].values() if L.get("status") in ("undetermined", "likely_pd")) >= 3
                for d in thin_films(5)), "refresh lane must only pick thin dossiers"
+    import tempfile
+    g, tmp = globals(), Path(tempfile.mkdtemp())
+    saved = {k: g[k] for k in ("ask_claude", "finish", "log_run", "CAND")}
+    g.update(ask_claude=lambda r, s: {"id": "h-xan-witchcraft-1922"}, finish=lambda c: (c, ["stop"]),
+             log_run=lambda *a: None, CAND=tmp)
+    try:
+        research({"id": "haxan-1922"})
+        assert [p.name for p in tmp.iterdir()] == ["haxan-1922.json"], "dossier must keep the queue id"
+    finally:
+        g.update(saved)
     print(f"research_one self-check passed (next up: {', '.join(r['id'] for r in rows)})")
 
 
