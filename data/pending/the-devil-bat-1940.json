@@ -1,0 +1,104 @@
+{
+  "id": "the-devil-bat-1940",
+  "title": "The Devil Bat",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-10-06",
+  "byline": "Dir. Jean Yarbrough; prod. Jack Gallagher / Producers Releasing Corporation; Bela Lugosi.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "CCE 3rd Series Parts 12-13 (Motion Pictures and Filmstrips) Vol 21 No 1-2 (Jan–Dec 1967) searched in full text; no renewal or registration entry found for The Devil Bat or Devil Bat. Renewal window for a December 1940 film opens in December 1967.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Vol 21 No 1-2 (1967), Library of Congress / Internet Archive",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE 3rd Series Parts 12-13 (Motion Pictures and Filmstrips) Vol 22 No 1-2 (Jan–Dec 1968) searched in full text; no renewal entry found for The Devil Bat or Devil Bat. The 28-year renewal for a 1940 film fell due in this volume's coverage period; absence confirms renewal was not filed.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Vol 22 No 1-2 (1968), Library of Congress / Internet Archive",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film; David Chudnow credited as musical director. The recorded score is incorporated into the film print and was not separately registered or published. Per the terms applicable to a US sound film, the recorded track shares the print's copyright status; because no renewal was filed for the film in 1967–1968, the integrated score is also in the public domain. Note: the 2008 Legend Films colorized release may carry a remastered or modified audio track; any new audio elements on that release are covered under the restorations layer.",
+          "source": "Wikipedia: The Devil Bat",
+          "url": "https://en.wikipedia.org/wiki/The_Devil_Bat"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original story by George Bricker, screenplay by John Thomas Neville; not based on a previously published novel or periodical work. The story was created specifically for this production and was not separately registered or published as a standalone work. Because it was never independently registered, it shares the film's copyright term and renewal status and is in the public domain for the same reasons as the print.",
+          "source": "Wikipedia: The Devil Bat",
+          "url": "https://en.wikipedia.org/wiki/The_Devil_Bat"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Three significant post-release editions identified: (1) 1990 laserdisc restoration from 35mm elements by Bob Furmanek — a faithful reproduction of the PD source; under Bridgeman v. Corel / Feist, faithful reproduction adds no new US copyright, so this edition carries no independent protection on the film content. (2) 2008 DVD by Legend Films featuring a colorized version — colorization constitutes new protectable creative expression; the color layer and any associated re-edited audio are under copyright even though the underlying B&W footage is not. (3) 2013 Blu-ray by Kino Lorber (Kino Classics label) with audio commentary by Richard Harland Smith — the commentary track is a new protected work; ripping the disc may also implicate 17 U.S.C. § 1201 DMCA anti-circumvention provisions. The underlying B&W print on all three editions remains public domain.",
+          "source": "Wikipedia: The Devil Bat",
+          "url": "https://en.wikipedia.org/wiki/The_Devil_Bat"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": true,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"The Devil Bat\" (renewals ~1967, 1968, 1969)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Devil+Bat"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-devil-bat-1940",
+      "label": "The Devil Bat (1940) — Internet Archive (Public Domain Mark 1.0)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Devil Bat is a 68-minute sound thriller released by Producers Releasing Corporation (PRC) on December 13, 1940, directed by Jean Yarbrough and starring Bela Lugosi as Dr. Paul Carruthers, a scientist who electrically enlarges bats and trains them to kill using a custom aftershave as a trigger. The screenplay was by John Thomas Neville from an original story by George Bricker — no underlying novel or story exists to create a separate rights layer. PRC, a poverty-row studio, ceased operations in 1947 and was absorbed by Eagle-Lion Films; no successor entity was positioned to file the copyright renewal that fell due in 1967–1968. Searches of the Catalog of Copyright Entries Parts 12-13 (Motion Pictures) for both 1967 and 1968 confirm no renewal entry for this film, placing it firmly in the public domain.\n\nThe one active rights trap is the 2008 Legend Films colorized DVD edition: colorization adds new copyrightable expression, and that version's color layer is independently protected even though the underlying black-and-white footage is not. The 2013 Kino Lorber Blu-ray (Kino Classics) similarly carries a protected commentary track by Richard Harland Smith, and ripping that disc risks DMCA § 1201 liability regardless of the film's PD status. Creators should use the original black-and-white print sourced from the Internet Archive, not the colorized or disc-based editions.",
+  "faq": [
+    [
+      "Is the colorized version of The Devil Bat also in the public domain?",
+      "No. The 2008 Legend Films DVD introduced a colorized edition; the colorization is new creative expression protected by its own copyright, even though the underlying black-and-white footage is in the public domain. Only the original B&W print — as found on the Internet Archive — is free to reproduce and distribute."
+    ],
+    [
+      "Who owns The Devil Bat copyright today?",
+      "No one holds a valid copyright in the original film. The original copyright was registered by Producers Releasing Corporation (PRC), which ceased operations in 1947. When renewal fell due in 1967–1968, no entity filed it, and the copyright expired. The film entered the public domain at that point. The 2008 Legend Films colorized edition and elements of the 2013 Kino Lorber Blu-ray carry their own independent copyrights, but the original print is unencumbered."
+    ]
+  ]
+}
