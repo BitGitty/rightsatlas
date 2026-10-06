@@ -26,14 +26,6 @@ jobs:
         run: python scripts/linkcheck.py
       - name: Daily drip — release 1 pending dossier
         run: python scripts/drip_publish.py
-      - name: Commit link status + daily drip (keepalive)
-        run: |
-          git config user.name "rightsatlas-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet || git commit -m "nightly: link status + daily-drip release"
-          git push
-        continue-on-error: true
       - name: Research packets for every dossier (the drip adds new ones daily)
         run: python scripts/export_evidence.py --all
       - name: Public Domain Day dataset (class of 1931)
@@ -45,6 +37,15 @@ jobs:
         run: python build.py
       - name: Acceptance tests (evidence gates, cutoff, no-leak)
         run: python tests/test_acceptance.py
+      # commit only after build + tests pass: a released dossier that breaks them stays pending (AGF P2b)
+      - name: Commit link status + daily drip (keepalive)
+        run: |
+          git config user.name "rightsatlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "nightly: link status + daily-drip release"
+          git push
+        continue-on-error: true
       - uses: actions/upload-pages-artifact@v3
         with: { path: site }
   deploy:
