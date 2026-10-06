@@ -1,0 +1,104 @@
+{
+  "id": "h-xan-witchcraft-through-the-ages-1922",
+  "title": "Häxan (Witchcraft Through the Ages)",
+  "year": 1922,
+  "country": "SE/DK",
+  "last_verified": "2026-10-06",
+  "byline": "Directed by Benjamin Christensen",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1922 in Sweden. Works published before 1923 are in the US public domain by term expiry; the maximum possible US copyright term for a 1922 work (95 years with all extensions) expired January 1, 2018.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2018",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2018/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Swedish-Danish co-production. URAA (17 U.S.C. § 104A) can restore foreign works that entered the US public domain solely due to formality failures. Even under a full URAA restoration, the term for a 1922 work equals the original US term: 95 years from publication, expiring January 1, 2018. As of 2026, any URAA-restored copyright on this title has fully expired.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2018 (confirms pre-1923 works are clearly in US PD)",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2018/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Häxan is a silent film; no sound was fixed to the print in 1922. Modern video releases add newly composed or performed musical scores, which are separate, independently protected works. The public domain status of the visual print does not extend to any post-1922 audio track added to a specific release.",
+          "source": "Internet Archive — Häxan: Witchcraft Through the Ages (1922) item page",
+          "url": "https://archive.org/details/haxan-witchcraft-through-the-ages-1922"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is an original work by Benjamin Christensen, first published 1922. All narrative and dramatic expression originated in this 1922 publication, which pre-dates 1923 and is in the US public domain by term expiry. No prior literary source was adapted; the film draws on historical witch-trial records, which are themselves centuries-old public domain documents.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2018",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2018/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful reproduction of the 1922 print adds no new US copyright under Bridgeman v. Corel and Feist. However, known commercial releases of Häxan incorporate elements not present in the original: newly composed or performed musical scores, translated intertitles, and in a 1968 reissue re-edited by British filmmaker Antony Balch with narration by William S. Burroughs, added narration. Each such added element is a separately protected work. The Internet Archive copy available as of verification date appears to be a direct transfer of the silent print without such additions, but reusers of other releases should confirm.",
+          "source": "Internet Archive — Häxan: Witchcraft Through the Ages (1922) item page",
+          "url": "https://archive.org/details/haxan-witchcraft-through-the-ages-1922"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1949,
+      1950,
+      1951
+    ],
+    "negative_result": "Renewal search is not required to establish public domain status: Häxan was published in 1922, and all works published before 1923 are in the US public domain by term expiry regardless of renewal history. The maximum possible US copyright term (95 years from 1922) expired January 1, 2018. Renewal records are provided as optional documentary confirmation only.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search \"Häxan\" or \"Witchcraft Through the Ages\" (renewals ~1949, 1950, 1951)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=H%C3%A4xan&search_field=all_fields"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse Motion Pictures renewal-year volumes by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/haxan-witchcraft-through-the-ages-1922",
+      "label": "Häxan: Witchcraft Through the Ages (1922) — Internet Archive (MPEG4, ~104 min, 344 MB)",
+      "quality": "MPEG4, 344 MB, silent print"
+    }
+  ],
+  "editorial": "Benjamin Christensen's Häxan (1922) is structured as a half-documentary, half-dramatized inquiry into the history of witchcraft: intertitled lectures on medieval demonology alternate with staged re-enactments of Inquisition interrogations and sabbath rituals, with Christensen himself in the role of the Devil. Noted at release as the most expensive Scandinavian production ever made, the film closes by arguing that the women burned as witches were likely suffering from conditions we now recognize as hysteria or mental illness — one of the earliest sustained attempts in cinema to replace a supernatural explanation with a medical one.\n\nFor creators, the 1922 print is in the US public domain by term expiry; works published before 1923 cleared their maximum copyright term by 2018. The practical rights trap is the score. Häxan was released silent, and every widely circulated version — home video, streaming, repertory theatrical — pairs the visual print with a distinct musical accompaniment added after the fact. That score is an independent copyrightable work, and its status turns on who composed or performed it and when. Reusers working from a specific release must identify and clear the audio separately; only the Archive.org silent transfer can be taken as score-free without further investigation.",
+  "faq": [
+    [
+      "Is the 1922 print of Häxan free to use commercially?",
+      "Yes. Häxan was published in 1922, and works published before 1923 are in the US public domain by term expiry. You may reproduce, distribute, or adapt the silent visual content without permission or fee. The one thing to verify before commercial use is the audio: any musical score added to the copy you are using is a separate work whose copyright depends on when and by whom it was created."
+    ],
+    [
+      "Why is the score layer marked 'partially protected' for a 1922 film?",
+      "Häxan was a silent film — no sound was fixed to it in 1922. The public domain print carries no audio. Modern releases universally add a musical accompaniment composed or recorded well after 1922, and that score is a new copyrightable work independent of the original footage. The score layer reflects this addition, not the status of the 1922 images themselves."
+    ]
+  ]
+}

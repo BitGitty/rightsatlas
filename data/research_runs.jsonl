@@ -21,3 +21,5 @@
 {"date": "2026-10-06", "id": "the-cat-and-the-canary-1927", "result": "refreshed", "reasons": []}
 {"date": "2026-10-06", "id": "the-phantom-of-the-opera-1925", "result": "blocked", "reasons": ["JSONDecodeError: Extra data: line 1 column 4698 (char 4697)"]}
 {"date": "2026-10-06", "id": "the-phantom-of-the-opera-1925", "result": "blocked", "reasons": ["fact-check: editorial: Ernst Laemmle is listed as an additional uncredited director of the original 1925 silent film alongside Lon Chaney and Edward Sedgwick, but Laemmle's directorial work was on the 1929 sound reissue—he and Frank McCormick reshot nearly half the picture with synchronized sound in August 1929—not the original 1925 production. -> Remove Ernst Laemmle from the list of uncredited directors of the 1925 production. The correct additional uncredited directors on the original 1925 silent film are Lon Chaney and Edward Sedgwick. Laemmle may be noted separately in connection with the 1929 sound reissue."]}
+{"date": "2026-10-06", "id": "the-old-dark-house-1932", "result": "queued", "reasons": []}
+{"date": "2026-10-06", "id": "haxan-1922", "result": "queued", "reasons": []}
