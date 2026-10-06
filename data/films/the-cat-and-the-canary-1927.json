@@ -3,25 +3,41 @@
   "title": "The Cat and the Canary",
   "year": 1927,
   "country": "US",
-  "last_verified": "2026-07-16",
-  "byline": null,
+  "last_verified": "2026-10-06",
+  "byline": "dir. Paul Leni",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published by Universal Pictures in the United States on September 9, 1927. The Cornell University Hirtle chart confirms all US works published before 1931 are in the public domain by copyright expiration. Under the 95-year term, this work entered the public domain on January 1, 2023. The Internet Archive hosts it under a Creative Commons Public Domain designation.",
+          "source": "Cornell University Library Copyright Guide — Hirtle Chart",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is a silent production with no fixed synchronized sound recording on the print itself. Hugo Riesenfeld composed an original accompaniment score for the 1927 release; that score, having been published in 1927, is itself in the public domain by the same 95-year rule. However, modern commercial releases (including the 2005 Image Entertainment DVD and any streaming version) add newly recorded or licensed musical accompaniments that are separately copyrighted sound recordings independent of the photoplay. The Internet Archive item for this film (identifier: The_Cat_and_the_Canary) is explicitly tagged 'Silent (No Music)', confirming the raw print carries no audio rights. Any score heard on a commercial copy requires clearance from that recording's rights holder.",
+          "source": "Internet Archive item metadata — identifier The_Cat_and_the_Canary",
+          "url": "https://archive.org/metadata/The_Cat_and_the_Canary"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on John Willard's stage play 'The Cat and the Canary', published by Samuel French in 1921 (before its Broadway premiere on February 7, 1922). The Cornell University Hirtle chart states that all US works published before 1931 are in the public domain due to copyright expiration. A 1921 publication would have had a maximum copyright term of 95 years (expiring January 1, 2017), but the work also predates the CTEA rolling-date threshold for pre-1928 works, placing it firmly in the public domain regardless of renewal history.",
+          "source": "Cornell University Library Copyright Guide — Hirtle Chart",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +45,14 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A home video edition was released by Image Entertainment on DVD in 2005 (confirmed by Wikipedia citations). The San Francisco Silent Film Festival screened the film in February 2009 using a print sourced from Film Preservation Associates, with live accompaniment by Dennis James on the Mighty Wurlitzer. No restoration by Kino Lorber, Criterion, Flicker Alley, MoMA, or a comparable institution adding substantial new copyrightable material (colorization, new intertitles, or a score fixed to the disc) was confirmed in this research session. The specific content of the Image Entertainment DVD and whether it includes a newly recorded score could not be verified; restoration status should be confirmed by examining the copy in use.",
+          "source": "San Francisco Silent Film Festival — The Cat and the Canary program page",
+          "url": "https://silentfilm.org/the-cat-and-the-canary/"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -41,11 +64,11 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Cat and the Canary” (renewals ~1954, 1955, 1956)",
+        "label": "Stanford Copyright Renewal DB — search 'The Cat and the Canary' (renewals ~1954–1956)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Cat+and+the+Canary"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "label": "Catalog of Copyright Entries (archive.org) — browse Motion Pictures renewal-year volumes by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
@@ -57,9 +80,24 @@
   "watch": [
     {
       "url": "https://archive.org/details/The_Cat_and_the_Canary",
-      "label": "Internet Archive — The Cat and the Canary (1927), full film"
+      "label": "Internet Archive — The Cat and the Canary (1927), Universal/Paul Leni, 84 min, silent",
+      "quality": "SD"
+    },
+    {
+      "url": "https://archive.org/details/cat-and-the-canary-1927",
+      "label": "Internet Archive — Cat and the Canary (1927), alternate upload, silent, 70 min",
+      "quality": "SD"
     }
   ],
-  "editorial": "The Cat and the Canary is a 1927 American silent mystery-comedy directed by Paul Leni for Universal Pictures, an Expressionist-styled 'old dark house' thriller adapted from John Willard's stage play that shaped the horror-comedy template for decades after. Published in 1927, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. The underlying Willard play and any later restorations may carry their own separate rights.",
-  "faq": []
+  "editorial": "Directed by Paul Leni and released by Universal Pictures on September 9, 1927, The Cat and the Canary is an 82-minute silent horror-comedy starring Laura La Plante as Annabelle West, who must be declared sane on the night a millionaire's will is read to claim his estate. Leni applied the staging vocabulary of German Expressionism — superimposed ghost hands, walls that crack open like living things, vertiginous camera angles — to an American haunted-house structure drawn from John Willard's 1921 Samuel French play, producing the visual template that horror-comedies copied through the 1940s. The 1927 photoplay entered the US public domain on January 1, 2023 (95-year term), and the Willard play, published in 1921, has been public domain since at least 2017. Both are free to adapt, excerpt, quote, and redistribute without licensing.\n\nThe operational rights trap is the score layer. This is a silent film: the print itself carries no fixed audio. Hugo Riesenfeld's 1927 accompaniment score is also public domain by term, but virtually every copy in commercial circulation — including the 2005 Image Entertainment DVD — carries a newly recorded or licensed musical track that is a separately copyrighted sound recording. A creator who uses the film's visuals is on safe ground; one who captures the audio from a commercial release is copying protected material. Use the explicitly silent versions on the Internet Archive, or license your own accompaniment from the Riesenfeld-era sheet music, itself now free.",
+  "faq": [
+    [
+      "Can I add my own music and release the result commercially?",
+      "Yes. The 1927 photoplay and the underlying Willard play are both US public domain. You can add an original score, new intertitles, or colorization and release the result commercially. Your additions will carry their own copyright; the 1927 film beneath them remains free."
+    ],
+    [
+      "A distributor's copyright notice appears on the version I found. Does that protect the film?",
+      "No. A modern distributor's © covers only new creative contributions they added to that specific release — typically the recorded score, cover design, and liner notes. It does not revive or extend the expired 1927 Universal copyright on the photoplay itself. Use only the film's visual content (not the distributor's added score), and you are not infringing."
+    ]
+  ]
 }
