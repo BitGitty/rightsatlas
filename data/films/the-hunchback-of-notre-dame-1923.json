@@ -3,7 +3,7 @@
   "title": "The Hunchback of Notre Dame",
   "year": 1923,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-07",
   "byline": null,
   "layers": {
     "print": {
@@ -11,26 +11,49 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1923; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1923 by Universal Pictures; all US works published in 1923 entered the public domain on January 1, 2019, upon expiry of their 95-year copyright term. The film print is public domain in the US by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2019",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2019/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1923 release was silent; no original synchronized score exists that could share the film's PD status. The 2021 Universal/Kino Lorber 4K restoration carries an original score composed and performed by Nora Kroll-Rosenbaum and Laura Karpman, which is separately copyrighted. A prior Flicker Alley distribution also carried its own separately commissioned score. The silent film footage is PD, but any score attached to a modern copy is a protected recording.",
+          "source": "The Hunchback of Notre Dame (1923) Blu-ray review — eurocultav.com",
+          "url": "https://eurocultav.com/2021/09/27/the-hunchback-of-notre-dame-blu-ray-review-kino-lorber/"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Victor Hugo's novel 'Notre-Dame de Paris', first published in Paris on 16 March 1831. Hugo died in 1885. The source novel is confirmed public domain in the US. The film's screenplay and adaptation are also PD by the same term expiry that covers the print.",
+          "source": "Project Gutenberg — Notre-Dame de Paris by Victor Hugo (ebook 2610)",
+          "url": "https://www.gutenberg.org/ebooks/2610"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": [],
-      "note": "Hugo's characters trace to a public-domain novel, but later branded uses of Quasimodo and the title may implicate trademark rights independent of copyright; those are undetermined here. Check marks before branded use."
+      "note": "Quasimodo, Esmeralda, and associated characters trace to Hugo's 1831 public-domain novel, but Universal Pictures has developed franchise interests around the title and characters; Disney separately exploited the property in 1996. No USPTO trademark search was completed in this research session. Confirm no active marks before branded or franchise-adjacent use."
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Pictures completed a 4K restoration sourced from 16mm elements: a print from Jon C. Mirsalis and a tinted print from the Packard Humanities Institute. Kino Lorber released this restoration on Blu-ray on September 28, 2021. It adds an original score by Nora Kroll-Rosenbaum and Laura Karpman. That score and the restored tinted sequences constitute separately protected expression. A prior Flicker Alley release carried a different commissioned score. The underlying PD film footage is free; ripping the Kino Lorber disc may implicate 17 U.S.C. § 1201 (DMCA anti-circumvention).",
+          "source": "The Hunchback of Notre Dame (1923) Blu-ray review — eurocultav.com",
+          "url": "https://eurocultav.com/2021/09/27/the-hunchback-of-notre-dame-blu-ray-review-kino-lorber/"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -42,7 +65,7 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Hunchback of Notre Dame” (renewals ~1950, 1951, 1952)",
+        "label": "Stanford Copyright Renewal DB — search \"The Hunchback of Notre Dame\" (renewals ~1950, 1951, 1952)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Hunchback+of+Notre+Dame"
       },
       {
@@ -58,9 +81,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/The_Hunchback_of_Notre_Dame",
-      "label": "Internet Archive — The Hunchback of Notre Dame (1923), full film"
+      "label": "The Hunchback of Notre Dame (1923) — Internet Archive, surviving partial print (approx. 15 min. of original footage lost), 1h 40m, silent with musical accompaniment",
+      "quality": "16mm-sourced archive copy, black and white"
     }
   ],
-  "editorial": "The Hunchback of Notre Dame is a 1923 American silent drama directed by Wallace Worsley for Universal Pictures, a lavish 'Super Jewel' production built around Lon Chaney's celebrated performance and makeup as Quasimodo, adapted from Victor Hugo's novel. Published in 1923, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "editorial": "The Hunchback of Notre Dame (1923) is a Universal Pictures silent drama directed by Wallace Worsley, produced under the studio's prestige 'Super Jewel' program, and built entirely around Lon Chaney's performance as Quasimodo — a role requiring elaborate makeup Chaney designed himself. The film adapts Victor Hugo's 1831 novel, featuring massive purpose-built cathedral sets and large crowd sequences, and remains one of the most expensive productions of the American silent era. Universal published the film in 1923; its US copyright term expired on January 1, 2019, placing the photoplay in the public domain by term expiry.\n\nThe rights trap that actually matters is the score. Because the original release was silent, the film footage is free to reuse, re-cut, and screen publicly without a license. However, every modern distribution copy carries a separately commissioned score: the 2021 Universal/Kino Lorber 4K Blu-ray features an original composition by Nora Kroll-Rosenbaum and Laura Karpman, which is fully protected. A prior Flicker Alley release carried a different commissioned score. Creators who want to use the film footage should source it from a public-domain repository, supply their own original or licensed music, and avoid ripping the Kino Lorber disc — circumventing its copy protection raises DMCA § 1201 exposure independent of copyright in the footage itself.",
+  "faq": [
+    [
+      "Can I screen this film publicly without clearing rights?",
+      "The film print is in the US public domain, so screening the footage itself requires no license. The catch is the score: if your copy comes from the 2021 Kino Lorber Blu-ray or any other modern release, the score on that copy is separately copyrighted. Screen to a licensed or public-domain musical accompaniment, or commission your own, to avoid the score issue."
+    ],
+    [
+      "Can I use clips from this film in a documentary or online video?",
+      "Yes — clips from the 1923 footage are free to use without permission. Source the footage from the Internet Archive (archive.org/details/The_Hunchback_of_Notre_Dame) or another public-domain repository. Do not rip the Kino Lorber disc; that copy's score is protected and the disc is copy-protected, making circumvention a potential DMCA violation separate from any copyright in the film footage."
+    ]
+  ]
 }

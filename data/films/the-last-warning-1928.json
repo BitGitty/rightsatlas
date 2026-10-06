@@ -3,7 +3,7 @@
   "title": "The Last Warning",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-07",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,48 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1928 by Universal Pictures in the United States. All works published in 1930 or earlier are public domain in the US by expiry of the 95-year term; for 1928 publications the term expired on January 1, 2024.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The surviving version of the film is silent and carries no original recorded score. The 2019 Flicker Alley Blu-ray/DVD release (Region A/1, released June 7, 2019) adds a newly composed musical score by Arthur Barrow, which is separately protected under US copyright. Most in-circulation digital copies, including the archive.org 1080p file (a rip of the Flicker Alley disc), embed this protected score.",
+          "source": "Flicker Alley product page",
+          "url": "https://www.flickeralley.com/products/130760328-the-last-warning"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Thomas F. Fallon's 1922 Broadway play, which was itself based on the novel 'The House of Fear' by Wadsworth Camp, published 1916 by Doubleday, Page (Garden City, N.Y.). The 95-year US copyright term on the 1916 source novel expired January 1, 2012; the term on the 1922 play expired January 1, 2018. The film's own screenplay, as part of the 1928 publication, is also PD by term expiry.",
+          "source": "Open Library bibliographic record for 'The House of Fear' (Wadsworth Camp, 1916)",
+          "url": "https://openlibrary.org/works/OL31210635W"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "NBCUniversal's restoration team conducted a worldwide search using materials from the Cinémathèque française and the UCLA Packard Humanities Institute Collection, with completion by NBCUniversal StudioPost. Flicker Alley released the resulting restoration on Blu-ray/DVD (Region A/1) on June 7, 2019. The release adds a newly composed score by Arthur Barrow and original supplemental materials (visual essay by John Soister, composer notes, production stills gallery), all of which are separately protected. Per Bridgeman v. Corel / Feist, the faithful restoration of the PD print itself adds no new US copyright; the new score and supplemental content are protected. The disc is copy-protected; circumventing that protection raises DMCA §1201 concerns independent of the film's PD status.",
+          "source": "Flicker Alley product page",
+          "url": "https://www.flickeralley.com/products/130760328-the-last-warning"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -41,7 +64,7 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Last Warning” (renewals ~1955, 1956, 1957)",
+        "label": "Stanford Copyright Renewal DB — search \"The Last Warning\" (renewals ~1955, 1956, 1957)",
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Last+Warning"
       },
       {
@@ -57,9 +80,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-last-warning-1928-by-paul-leni",
-      "label": "Internet Archive (full film)"
+      "label": "Internet Archive — The Last Warning (1928), 1080p Blu-ray encode",
+      "quality": "1080p"
     }
   ],
-  "editorial": "The Last Warning is a 1928 American mystery-thriller directed by Paul Leni for Universal Pictures, starring Laura La Plante in a backstage whodunit staged on the recycled sets of Universal's Phantom of the Opera. Released as a part-talkie, it survives today only in its cut-down silent version and was Leni's final film before his death in 1929. As a 1928 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "editorial": "The Last Warning is a 1928 mystery-thriller directed by Paul Leni for Universal Pictures — his final film before his death in 1929. Laura La Plante stars in a backstage whodunit: a body vanishes during a live theater performance, the house closes, and years later a mysterious producer reconvenes the original cast and crew to stage the play again. The film was shot by cinematographer Hal Mohr and released in both a Vitaphone sound-on-disc version and a separate silent version; only the silent cut survives today, with the Vitaphone discs reported to survive in private hands. It adapts Thomas F. Fallon's 1922 Broadway play, itself drawn from Wadsworth Camp's 1916 novel The House of Fear, published by Doubleday, Page.\n\nThe 1928 print is public domain in the United States, and the underlying story is equally clear: Camp's 1916 novel and Fallon's 1922 play each had their 95-year terms expire before the film's own term ran out, leaving no protected source layer. The one concrete trap is the score. NBCUniversal's restoration team used materials from the Cinémathèque française and the UCLA Packard Humanities Institute Collection to produce a 2019 Flicker Alley Blu-ray/DVD, and that release adds a newly composed score by Arthur Barrow. Barrow's score is protected, and the most common in-circulation digital copy — the archive.org 1080p file, a rip of the Flicker Alley disc — carries it. A creator re-editing the film should use a source that does not include the 2019 Barrow score, or strip and replace the audio track before release.",
+  "faq": [
+    [
+      "Can I release a remix or documentary using footage from The Last Warning?",
+      "Yes — the 1928 print is public domain in the US, and the story drawn from Wadsworth Camp's 1916 novel and Fallon's 1922 play is also PD. You can use and re-edit the visuals freely. The one caveat is the audio: the most widely available digital copy (the archive.org 1080p file) is a rip of the 2019 Flicker Alley Blu-ray and includes Arthur Barrow's newly composed score, which is still under copyright. Use the footage but replace or remove the audio track if you want a fully clear release."
+    ],
+    [
+      "Does Universal Pictures still hold rights to this film?",
+      "Universal holds no surviving copyright in the 1928 film itself — the term has fully expired under US law. Universal's corporate trademark in its name and logo is unrelated to this specific film's copyright and does not restrict reuse of the footage. The only protected layer attached to any current version is Arthur Barrow's 2019 score on the Flicker Alley restoration, which is a newly created work, not a Universal asset."
+    ]
+  ]
 }

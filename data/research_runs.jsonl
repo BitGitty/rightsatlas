@@ -30,3 +30,5 @@
 {"date": "2026-10-06", "id": "london-after-midnight-1927", "result": "refreshed", "reasons": []}
 {"date": "2026-10-07", "id": "the-phantom-carriage-1921", "result": "queued", "reasons": []}
 {"date": "2026-10-07", "id": "the-pilgrims-1924", "result": "queued", "reasons": []}
+{"date": "2026-10-07", "id": "the-hunchback-of-notre-dame-1923", "result": "refreshed", "reasons": ["now Clear: story"]}
+{"date": "2026-10-07", "id": "the-last-warning-1928", "result": "refreshed", "reasons": ["now Clear: story"]}
