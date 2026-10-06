@@ -3,7 +3,7 @@
   "title": "The Phantom of the Opera",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-06",
   "byline": null,
   "layers": {
     "print": {
@@ -16,21 +16,50 @@
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1925 release had no recorded soundtrack; theaters supplied live accompaniment. The images are free, but any score heard on a modern copy is a separate composition or recording and should be treated as protected unless shown otherwise."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from Gaston Leroux's novel Le Fantome de l'Opera, serialized in Le Gaulois in 1909-1910 and published as a book in 1910; the first English translation appeared in 1911. Both were published long before 1931, so the novel is public domain in the US by term expiry.",
+          "source": "Project Gutenberg - The Phantom of the Opera (1911 English translation)",
+          "url": "https://www.gutenberg.org/ebooks/175"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
-      "evidence": [],
-      "note": "The Phantom of the Opera survives as a widely licensed franchise character across later films and stage works; copyright expiry on this print does not resolve any character-trademark rights, which are undetermined here. Check marks before branded use."
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The title 'The Phantom of the Opera' is also the brand of Andrew Lloyd Webber's stage musical and its merchandise. Showing the 1925 film under its own title is common; branding or merchandise that suggests a link to the musical is the risky part."
+        }
+      ]
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "source": "Bridgeman Art Library v. Corel Corp. (summary)",
+          "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
+        },
+        {
+          "type": "research_note",
+          "note": "17 U.S.C. 1201 - circumvention of copyright protection systems.",
+          "source": "Cornell LII - 17 U.S. Code 1201",
+          "url": "https://www.law.cornell.edu/uscode/text/17/1201"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -61,6 +90,6 @@
       "label": "Internet Archive — The Phantom of the Opera (1925), full film"
     }
   ],
-  "editorial": "The Phantom of the Opera is a 1925 American silent horror film directed by Rupert Julian for Universal Pictures, starring Lon Chaney as the disfigured Phantom in the self-devised makeup whose unmasking became a landmark screen shock; it is adapted from Gaston Leroux's novel. Most widely circulating prints derive from Universal's 1929 reissue. Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations and reissue scores may carry their own separate rights.",
+  "editorial": "The Phantom of the Opera is a 1925 American silent horror film directed by Rupert Julian for Universal Pictures, starring Lon Chaney as the disfigured Phantom in the self-devised makeup whose unmasking became a landmark screen shock; it is adapted from Gaston Leroux's novel. Most widely circulating prints derive from Universal's 1929 reissue. Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. A faithful restoration adds no new US copyright, but new scores and other additions on modern releases can be protected.",
   "faq": []
 }
