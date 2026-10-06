@@ -3,7 +3,7 @@
   "title": "The Man Who Laughs",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-10-06",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,54 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1928 by Universal Pictures in the United States. Works published in 1928 entered the US public domain on January 1, 2024, after expiry of the 95-year copyright term. Duke CSPD Public Domain Day 2024 explicitly lists this film among works entering the public domain that year.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2024/"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Searched the Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips Jan-Dec 1956 (Vol. 10 No. 1-2) — the primary 28-year renewal year for a 1928 US publication — and found no renewal entry for The Man Who Laughs. Also searched the Jan-Dec 1955 (Vol. 9) and Jan-Dec 1957 (Vol. 11) volumes; neither contained a renewal entry for this title.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips Jan-Dec 1956 (Vol. 10), Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyrig3101213li"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is a silent film with synchronized Movietone orchestral accompaniment. The original 1928 score centered on 'When Love Comes Stealing,' a song with music by Ernő Rapée and lyrics by Walter Hirsch and Lew Pollack, performed instrumentally as the film's orchestral leitmotif; that score was part of the film's unrenewed copyright and is in the public domain. However, the widely available 2019 4K restoration features a newly composed original score written and performed by The Berklee College of Music Silent Film Orchestra — seven Berklee student composers each scored individual reels. The original 1928 Movietone score is included as an alternative audio track on the same release. Any copy carrying the Berklee score is partially protected on that track; the underlying images are free but the Berklee score recording may not be.",
+          "source": "Internet Archive item the-man-who-smiles-stab-chf-3-prob-3 (description documents original Rapée score and 2019 Berklee College restoration); Berklee College of Music announcement 'Berklee Silent Film Orchestra Creates and Performs New Score for The Man Who Laughs'",
+          "url": "https://archive.org/details/the-man-who-smiles-stab-chf-3-prob-3"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Victor Hugo's 1869 novel 'L'Homme qui rit.' Hugo (1802-1885) died in 1885; his novel, published in 1869, is in the US public domain by term expiry. The screenplay is incorporated into the 1928 film, whose copyright was not renewed.",
+          "source": "Internet Archive item the-man-who-smiles-stab-chf-3-prob-3 (description: 'adapted from Victor Hugo's 1869 novel')",
+          "url": "https://archive.org/details/the-man-who-smiles-stab-chf-3-prob-3"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Multiple modern restorations exist: (1) Kino International and Cineteca di Bologna, 2007, released on DVD; (2) a 4K restoration released June 2019 featuring a newly composed original score written and performed by The Berklee College of Music Silent Film Orchestra (seven student composers, each scoring individual reels), released on Blu-ray and DVD — the original 1928 Movietone score is included as an alternative audio track on this release; (3) a Masters of Cinema restoration, August 2020. Under Bridgeman v. Corel following Feist, faithful duplication of a PD print adds no new US copyright, but newly composed scores, newly recorded performances, colorization, and other creative additions in these editions are protected new works. These restoration releases are therefore partially protected.",
+          "source": "Internet Archive item the-man-who-smiles-stab-chf-3-prob-3",
+          "url": "https://archive.org/details/the-man-who-smiles-stab-chf-3-prob-3"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -38,23 +67,47 @@
       1956,
       1957
     ],
-    "negative_result": null,
+    "negative_result": true,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Man Who Laughs” (renewals ~1955, 1956, 1957)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Man+Who+Laughs"
+        "label": "CCE 1955 Motion Pictures (Vol. 9, Jan-Dec) — searched, no renewal found for this title",
+        "url": "https://archive.org/details/catalogofcopyrig391213lib"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "CCE 1956 Motion Pictures (Vol. 10, Jan-Dec) — searched, no renewal found; primary 28-year renewal year for 1928 works",
+        "url": "https://archive.org/details/catalogofcopyrig3101213li"
       },
       {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "label": "CCE 1957 Motion Pictures (Vol. 11, Jan-Dec) — searched, no renewal found for this title",
+        "url": "https://archive.org/details/catalogofcopyrig3111213li"
+      },
+      {
+        "label": "US Copyright Office public catalog (1978+ renewals/assignments) — search 'The Man Who Laughs'",
         "url": "https://publicrecords.copyright.gov/"
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Man Who Laughs is a 1928 American silent film directed by Paul Leni for Universal Pictures, adapted from Victor Hugo's novel, starring Conrad Veidt as a man whose face is fixed in a permanent grin. As a 1928 publication, the film print is in the US public domain by expiry of the 95-year term; the underlying Hugo material and any separate character rights are assessed on their own layers.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-man-who-laughs-1928-w-720p",
+      "label": "The Man Who Laughs (1928) — 720p, multiple audio tracks (Internet Archive)",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/the-man-who-laughs-1928-by-paul-leni",
+      "label": "The Man Who Laughs (1928) — 4K version, Public Domain Mark 1.0 (Internet Archive)",
+      "quality": "high"
+    }
+  ],
+  "editorial": "The Man Who Laughs is a 1928 American silent drama produced by Universal Pictures and directed by Paul Leni, a German Expressionist filmmaker working in Hollywood. Conrad Veidt stars as Gwynplaine, a dispossessed English nobleman whose face was surgically carved into a permanent grin as a child; Mary Philbin plays the blind Dea who loves him. Adapted from Victor Hugo's 1869 novel 'L'Homme qui rit,' the film premiered April 27, 1928. Gwynplaine's fixed smile later inspired the visual design of the Joker in Batman comics, giving the film an outsized cultural afterlife.\n\nThe print entered the US public domain on January 1, 2024, after the 95-year term expired; a search of the 1956 Catalog of Copyright Entries motion pictures volume — the 28-year renewal year — found no renewal. The rights trap that catches most reusers is the score: the underlying images are free, but virtually every widely circulated copy carries a modern sound recording. The 2019 4K restoration pairs the print with a newly composed original score created and performed by The Berklee College of Music Silent Film Orchestra (seven student composers, each scoring individual reels), and Kino International issued its own restoration in 2007; both carry protected new recordings. A creator who wants to use this film without licensing complications should source a copy with the original 1928 Ernő Rapée score — not separately renewed — or add original music.",
+  "faq": [
+    [
+      "Can I use The Man Who Laughs in a video project without licensing anything?",
+      "The images are free to use — no permission is needed for the film print. The catch is the score: the 2019 4K restoration carries a newly composed original score by The Berklee College of Music Silent Film Orchestra, protected as a new creative work and sound recording; other modern editions also carry protected modern recordings. You need either a copy preserving the original 1928 Ernő Rapée score (which was not separately renewed) or you must add your own music."
+    ],
+    [
+      "Does the Joker connection give DC Comics any rights over this film?",
+      "No. The Gwynplaine character originates in Victor Hugo's 1869 novel, which is in the public domain. DC Comics owns trademark rights in the Joker character, but those marks cover the Joker in comics and media — they do not reach the 1928 film or Conrad Veidt's performance. No active trademark on the 1928 film title or its Gwynplaine character was identified in this research."
+    ]
+  ]
 }
