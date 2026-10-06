@@ -11,13 +11,15 @@ Red-team hard rules implemented here:
 """
 
 import re
+import unicodedata
 from datetime import date
 
 
 def film_id(title: str, year: int) -> str:
     """Canonical dossier/queue slug — the single source of id truth (v4 §3.2).
     'The General', 1926 -> 'the-general-1926'."""
-    slug = re.sub(r"[^a-z0-9]+", "-", str(title).lower()).strip("-")
+    ascii_title = unicodedata.normalize("NFKD", str(title)).encode("ascii", "ignore").decode()  # Häxan -> haxan
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_title.lower()).strip("-")
     return f"{slug}-{year}"
 
 
