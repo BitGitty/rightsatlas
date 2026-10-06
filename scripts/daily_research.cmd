@@ -24,7 +24,7 @@ git pull --rebase --autostash -q >> %LOG% 2>&1 || (echo pull failed >> %LOG% & e
 python scripts\research_one.py %MODE% >> %LOG% 2>&1
 git add data/pending data/films data/promote_log.jsonl data/research_runs.jsonl
 git diff --cached --quiet && (echo nothing to commit >> %LOG% & exit /b 0)
-git commit -q -m "%MSG%" >> %LOG% 2>&1
+git commit -q -m "%MSG%" >> %LOG% 2>&1 || (echo commit failed >> %LOG% & exit /b 1)
 git pull --rebase --autostash -q >> %LOG% 2>&1 || (echo second pull failed >> %LOG% & git rebase --abort & exit /b 1)
 git push -q >> %LOG% 2>&1 || (echo push failed >> %LOG% & exit /b 1)
 echo ==== %date% %time% pushed >> %LOG%

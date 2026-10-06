@@ -123,6 +123,9 @@ def evaluate(f: dict):
     if not f["made_2d"]:
         fails.append("nothing researched or refreshed in 2 days (check logs/daily_research.log)")
     refreshed = [r["id"] for r in f["runs_today"] if r["result"] == "refreshed"]
+    for r in f["runs_today"]:          # Plan 9 went Clear on a model's legal opinion (AGF P2b, 2026-10-07)
+        if r["result"] == "refreshed" and r.get("reasons"):
+            warns.append(f"{r['id']}: {', '.join(r['reasons'])} - spot-check the evidence")
     deferred = [r["id"] for r in f["runs_today"] if r["result"] == "deferred"]
     lines.append(f"Research today: {len(queued)} new" + (f" ({', '.join(queued)})" if queued else "")
                  + f", {len(refreshed)} upgraded, {len(blocked)} blocked")
