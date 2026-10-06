@@ -403,7 +403,10 @@ def research(row: dict, old: dict | None = None):
     if old:
         dest = promote_candidate.promote(cand, dest_dir=FILMS)
         print(f"  refreshed -> {dest.relative_to(ROOT)} (evidence {_evidence(old)} -> {_evidence(cand)})")
-        log_run(row["id"], "refreshed", [])
+        # a layer newly called Clear goes live with no human look: surface it in the daily status
+        clear = [k for k, L in cand["layers"].items() if L.get("status") == "verified_pd"
+                 and old["layers"].get(k, {}).get("status") != "verified_pd"]
+        log_run(row["id"], "refreshed", [f"now Clear: {k}" for k in clear])
         return dest
     PENDING.mkdir(parents=True, exist_ok=True)
     dest = promote_candidate.promote(cand, dest_dir=PENDING)
@@ -450,6 +453,11 @@ def check() -> None:
           "note": "Searched the public catalog for renewals of X: no renewal found."}
     assert engine.is_primary(nr), "a documented official-catalog search proves non-renewal"
     assert not engine.is_primary({**nr, "url": "https://www.google.com/search?q=x"}), "but not a web search"
+    found = {**nr, "note": nr["note"] + " The only renewal, RE0000279707 (1986), is invalid."}
+    assert not engine.is_primary(found), "a renewal that exists is never proof of non-renewal (Plan 9)"
+    assert promote_candidate.gate({"id": "fixture-1957", "title": "F", "year": 1957, "country": "US", "layers": {
+        "print": {"status": "verified_pd", "evidence": [found, {**nr, "note": nr["note"]}]}}}), \
+        "verified_pd citing an existing renewal must be blocked"
     assert parse_review('x {"verdict": "fail", "issues": [{"where": "year", "problem": "p", "fix": "f"}]} y') \
         == ["year: p -> f"], "issues must be reported"
     assert parse_review('{"verdict": "fail", "issues": []}'), "a bare fail must still block"
@@ -460,7 +468,7 @@ def check() -> None:
         pass
     assert all(sum(1 for L in d["layers"].values() if L.get("status") in ("undetermined", "likely_pd")) >= 3
                for d in thin_films(5)), "refresh lane must only pick thin dossiers"
-    import tempfile
+    import shutil, tempfile
     g, tmp = globals(), Path(tempfile.mkdtemp())
     saved = {k: g[k] for k in ("ask_claude", "finish", "log_run", "CAND")}
     g.update(ask_claude=lambda r, s: {"id": "h-xan-witchcraft-1922"}, finish=lambda c: (c, ["stop"]),
@@ -470,6 +478,7 @@ def check() -> None:
         assert [p.name for p in tmp.iterdir()] == ["haxan-1922.json"], "dossier must keep the queue id"
     finally:
         g.update(saved)
+        shutil.rmtree(tmp, ignore_errors=True)
     print(f"research_one self-check passed (next up: {', '.join(r['id'] for r in rows)})")
 
 
@@ -507,6 +516,10 @@ def main() -> int:
         except UsageLimit:
             print("stopping this run: Claude usage limit (the rest waits for the next run)")
             break
+        except Exception as e:   # one bad title must not sink the batch (AGF P2 OBJ-8, P2b OBJ-10: KeyError)
+            print(f"  BLOCKED {row['id']}: crashed {type(e).__name__}: {e}")
+            log_run(row["id"], "blocked", [f"crash {type(e).__name__}: {str(e)[:200]}"])
+            made.append(None)
     print(f"done: {sum(1 for m in made if m)}/{len(jobs)} succeeded; "
           f"pending pool = {len(list(PENDING.glob('*.json')))}")
     return 0

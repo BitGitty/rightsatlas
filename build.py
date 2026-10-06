@@ -135,7 +135,7 @@ def film_page(f):
 <article class="dossier">
 <h1>Is <em>{e(f["title"])}</em> ({f["year"]}) public domain?</h1>
 <p class="meta">Country of origin: {e(f.get("country", "US"))} · Last verified:
-{e(f.get("last_verified", "—"))} · Researched by {e(f.get("byline", "RightsAtlas"))}</p>
+{e(f.get("last_verified", "—"))} · Researched by RightsAtlas (AI-assisted, with automated evidence and fact checks)</p>
 
 <div class="verdict {engine.public_label(f["layers"]["print"]["status"])[1]}">
   <span class="vhead">Film print:</span> <strong>{e(engine.public_label(f["layers"]["print"]["status"])[0])}</strong>

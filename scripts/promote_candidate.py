@@ -51,6 +51,9 @@ def gate(cand: dict) -> list:
         # publication year is definitive proof), so a single term_expiry citation suffices.
         # The 2-citation rule targets renewal-absence claims (proving a negative).
         bright_line = any(ev.get("type") == "term_expiry" for ev in primary)
+        if not bright_line and any(engine.cites_renewal(ev) for ev in print_layer.get("evidence", [])):
+            reasons.append("print verified_pd but its evidence cites a renewal that exists — "
+                           "whether that renewal is invalid is a human call, not a verified fact")
         if row and row.get("demand_score", 0) >= HIGH_DEMAND and len(primary) < 2 and not bright_line:
             reasons.append(f"high-demand title needs >=2 primary citations (has {len(primary)})")
     # symmetric: a 'renewed/not_pd' claim also needs a renewal registration
@@ -81,11 +84,12 @@ def gate(cand: dict) -> list:
     return reasons
 
 
-def promote(cand: dict, approver: str = "Bit Git", dest_dir: Path = FILMS) -> Path:
+def promote(cand: dict, approver: str = "research pipeline (unattended)", dest_dir: Path = FILMS) -> Path:
     cand = dict(cand)
     cand.pop("_prefill", None)
     cand["last_verified"] = date.today().isoformat()
-    cand.setdefault("byline", "Bit Git · RightsAtlas research (AI-assisted, human-reviewed)")
+    # was "(AI-assisted, human-reviewed)" - false on the unattended path (AGF P2b, 2026-10-07)
+    cand.setdefault("byline", "RightsAtlas research (AI-assisted, automated evidence and fact checks)")
     dest = dest_dir / f"{cand['id']}.json"
     dest.write_text(json.dumps(cand, ensure_ascii=False, indent=2), encoding="utf-8")
     ev_count = sum(len(L.get("evidence", [])) for L in cand.get("layers", {}).values())
@@ -136,7 +140,7 @@ def main() -> int:
             print("  -", r)
         return 1
     if "--approve" in args:
-        dest = promote(cand)
+        dest = promote(cand, approver="Bit Git (manual --approve)")
         print(f"promoted -> {dest}")
     else:
         print(f"gate OK: {cand.get('id')} (dry-run; pass --approve to promote)")

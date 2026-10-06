@@ -79,11 +79,23 @@ _NON_PRIMARY_URL_HINTS = ("/search", "?q=", "wikipedia.org", "infodigi")
 OFFICIAL_CATALOGS = ("publicrecords.copyright.gov", "cocatalog.loc.gov", "copyright.gov/public-records")
 
 
+RENEWAL_NO = re.compile(r"\bRE?[\s-]?\d{5,}", re.I)           # RE0000279707, R578123, RE 279-707
+RENEWAL_FOUND = ("renewal on record", "only renewal")   # not "renewal was filed": "no renewal was filed" is the PD case
+
+
+def cites_renewal(ev: dict) -> bool:
+    """The entry reports a renewal that EXISTS. Whether such a renewal is invalid is a legal call,
+    never 'verified' by a model (2026-10-06: Plan 9 went to Clear on 'RE0000279707 is invalid')."""
+    text = f"{ev.get('note') or ''} {ev.get('source') or ''}"
+    return bool(RENEWAL_NO.search(text)) or any(w in text.lower() for w in RENEWAL_FOUND)
+
+
 def is_primary(ev: dict) -> bool:
     """True if this evidence entry is a citable primary source (not a search/wiki link)."""
     url = (ev.get("url") or "").lower()
     note = (ev.get("note") or "").lower()
     if (ev.get("type") == "renewal_absence_search" and any(c in url for c in OFFICIAL_CATALOGS)
+            and not cites_renewal(ev)
             and any(w in note for w in ("searched", "search for", "query"))
             and any(w in note for w in ("no ", "zero", "0 result", "not found", "none"))):
         return True
