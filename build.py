@@ -487,6 +487,9 @@ def build():
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
         + "".join(f"<url><loc>{host}{u}</loc></url>" for u in urls)
         + "</urlset>", encoding="utf-8")
+    # plain-text twin: Search Console has shown the XML one as "Couldn't fetch" since July; a new
+    # URL in the simplest format Google accepts forces a fresh fetch
+    (OUT / "sitemap.txt").write_text("".join(f"{host}{u}\n" for u in urls), encoding="utf-8")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {host}{BASE}sitemap.xml\n", encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built {len(films)} dossiers -> {OUT} (cutoff year: {CUTOFF})")
