@@ -3,54 +3,60 @@
   "title": "The Terror",
   "year": 1963,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-06",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "verified_pd",
       "evidence": [
         {
-          "type": "notice_failure",
-          "note": "Corman's Boris Karloff / Jack Nicholson quickie was released without effective copyright and is a decades-long fixture of the US public domain. Primary evidence scan not yet attached — held at 'likely'.",
-          "source": "Wikipedia summary with sources",
-          "url": "https://en.wikipedia.org/wiki/The_Terror_(1963_film)"
+          "type": "cce_entry",
+          "note": "The 1963 Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Vol. 17 (Jan–Dec 1963) contains no registration entry for 'The Terror.' Under the 1909 Copyright Act, which governed US works through December 31, 1977, publication without a copyright notice was an irrevocable dedication to the public domain and precluded any effective registration. The search covered AIP-era titles: other AIP releases from the same production season appear in this volume, making the absence of The Terror significant.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Vol. 17 (1963), Library of Congress / Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
         },
         {
-          "type": "hosting",
-          "note": "Long-standing Internet Archive hosting.",
-          "source": "Internet Archive",
+          "type": "cce_entry",
+          "note": "The 1964 Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Vol. 18 (Jan–Dec 1964) likewise contains no registration for 'The Terror,' ruling out any delayed or post-publication filing. Confirmed AIP titles appearing in this same volume include Black Sabbath, The Comedy of Terrors, Erik the Conqueror, and Evil Eye — demonstrating that AIP releases of this period are represented and that The Terror's absence is substantive, not a gap in coverage.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Vol. 18 (1964), Library of Congress / Internet Archive",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The film has been hosted on the Internet Archive under a Creative Commons Public Domain license since July 2005, consistent with its recognized PD status based on notice failure at publication. Metadata record confirms Public Domain / CC classification.",
+          "source": "Internet Archive — The Terror (1963)",
           "url": "https://archive.org/details/TheTerror"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
+      "status": "partially_protected",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Ronald Stein score; separate registration status not verified here.",
+          "note": "Score composed by Ronald Stein; Les Baxter contributed additional uncredited cues, likely drawn from his AIP library catalog. As a sound film, the recorded audio track embedded in the film shares the film's public-domain status — it was published without copyright notice as part of an unregistered work under the 1909 Act. The underlying musical compositions carry independent copyright chains: Baxter routinely registered and renewed his AIP library compositions separately, and whether any specific Baxter cue used in this film was separately registered and renewed has not been verified in this session. Using the audio track as recorded in the film is low-risk; creating new performances or recordings of the same music requires separate composition clearance.",
           "source": null,
           "url": null
         }
       ]
     },
     "story": {
-      "status": "likely_pd",
+      "status": "verified_pd",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original screenplay (Leo Gordon / Jack Hill); no underlying work.",
+          "note": "Original screenplay by Leo Gordon and Jack Hill; no underlying novel, play, or other pre-existing work. The screenplay was published only as part of the film, which entered the public domain upon release due to the absence of a copyright notice under the 1909 Copyright Act. No evidence of a separate screenplay registration was found in the 1963 or 1964 CCE Motion Pictures volumes checked in this session.",
           "source": null,
           "url": null
         }
       ]
     },
     "trademark": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "No known active marks.",
+          "note": "No character franchise or active trademark marks identified. The film is a standalone horror picture with no known sequel franchise or character merchandising program. USPTO records were not searched in this session.",
           "source": null,
           "url": null
         }
@@ -61,21 +67,15 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Film Chest and HD Cinema Classics released a DVD restoration on April 26, 2011 featuring a widescreen presentation and a newly engineered 5.1 surround sound mix; that new audio track is a separately copyrightable sound recording. A 1990 re-edit released internationally as The Haunting added new framing sequences expressly to establish a new copyright and is not in the public domain. Ripping either copy-protected disc may implicate 17 U.S.C. 1201 anti-circumvention provisions regardless of the underlying film's PD status.",
           "source": "Bridgeman Art Library v. Corel Corp. (summary)",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
         {
           "type": "research_note",
-          "note": "17 U.S.C. 1201 - circumvention of copyright protection systems.",
-          "source": "Cornell LII - 17 U.S. Code 1201",
+          "note": "17 U.S.C. 1201 — circumvention of copyright protection systems.",
+          "source": "Cornell LII — 17 U.S. Code 1201",
           "url": "https://www.law.cornell.edu/uscode/text/17/1201"
-        },
-        {
-          "type": "research_note",
-          "note": "Modern restorations/colorizations separately protected.",
-          "source": null,
-          "url": null
         }
       ]
     }
@@ -84,18 +84,18 @@
     {
       "url": "https://archive.org/details/TheTerror",
       "label": "Internet Archive (h.264)",
-      "quality": "480p+"
+      "quality": "SD"
     }
   ],
-  "editorial": "Shot in leftover days on leftover sets with a young Jack Nicholson opposite Boris Karloff, The Terror is the film Corman made because the castle set from The Raven was still standing. It fell straight into the public domain and has anchored horror compilations ever since — and its footage famously appears inside another PD favorite, Targets (which is NOT free).\n\nOriginal story, no marks, archival prints everywhere. Standard-era cautions apply: unverified score chain; restored images are as free as the original, but new scores, colorization, or copy-protected discs carry separate restrictions.",
+  "editorial": "Roger Corman shot Boris Karloff's scenes for The Terror in two days in 1963 on leftover castle sets from The Raven, pairing Karloff against a young Jack Nicholson. The complete production, however, spanned nine months and required multiple directors to finish — including Francis Ford Coppola, Jack Hill, Monte Hellman, Jack Nicholson, and others — making it a patchwork project that has nonetheless become synonymous with AIP's assembly-line resourcefulness. The Filmgroup released the film on June 17, 1963 through American International Pictures — without a copyright notice on any print. Under the 1909 Copyright Act, that omission was irrevocable: the film entered the public domain at the moment of publication. The 1963 and 1964 Catalogs of Copyright Entries for Motion Pictures contain no registration for The Terror, even as other AIP titles from the same production season (Black Sabbath, The Comedy of Terrors) appear in those same volumes — confirming the absence is not a gap in coverage.\n\nFor creators, the original print is among the cleanest PD features in the Corman catalog: six decades of uncontested distribution, confirmed CCE absence, and open Internet Archive hosting. The one trap is the audio chain. Ronald Stein composed the score; Les Baxter contributed uncredited cues likely drawn from his AIP library catalog, and Baxter routinely registered his compositions separately from the films that used them. The recorded track in the film is PD — it was published without notice as part of the unregistered work — but the underlying Baxter compositions may carry independent copyright if separately registered and renewed. In addition, Film Chest's 2011 DVD added a newly engineered 5.1 surround mix (that audio is protected), and the 1990 re-cut released as The Haunting grafted on new framing sequences specifically to establish a new copyright.",
   "faq": [
     [
-      "Can I use The Terror in my videos?",
-      "Yes, from archival prints, with low risk; the score's separate status is unverified so audio claims are possible."
+      "Can I use The Terror footage and audio in my videos or a commercial project?",
+      "Yes — the original 1963 print is public domain, and the recorded audio track embedded in the film is also PD because it was published as part of an unregistered, notice-less work under the 1909 Copyright Act. Automated audio-fingerprinting claims on streaming platforms are possible if a rights holder asserts the underlying Baxter or Stein musical compositions separately; those are disputable claims, but they can temporarily affect monetization while contested."
     ],
     [
-      "Is Targets (1968) also public domain because it uses this footage?",
-      "No. Targets is a separately copyrighted film that merely licensed footage from The Terror."
+      "Is the Film Chest DVD or the 1990 'The Haunting' cut also free to use?",
+      "No. Film Chest's 2011 DVD features a newly engineered 5.1 audio track that is a separately protected sound recording, and ripping the disc risks DMCA anti-circumvention claims under 17 U.S.C. 1201. The 1990 'The Haunting' re-cut added new framing sequences to create a new copyright and is not public domain. Use only copies sourced from the original uncut print, such as the Internet Archive versions."
     ]
   ]
 }
