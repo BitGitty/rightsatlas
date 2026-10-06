@@ -252,10 +252,20 @@ def _claude(prompt: str, model: str = MODEL, timeout: int = 1200) -> str:
 
 
 def _json(out: str) -> dict:
-    m = re.search(r"\{.*\}", out or "", re.S)
-    if not m:
-        raise ValueError(f"no JSON in model output: {(out or '')[:300]}")
-    return json.loads(m.group(0))
+    """First complete JSON object in the model's reply. raw_decode stops at the object's end, so
+    text after it (a note, a second object) no longer breaks parsing - a greedy {.*} match took
+    everything up to the LAST brace and failed with 'Extra data' (Phantom refresh, 2026-10-06)."""
+    out = out or ""
+    dec = json.JSONDecoder()
+    for i, ch in enumerate(out):
+        if ch == "{":
+            try:
+                obj, _ = dec.raw_decode(out, i)
+                if isinstance(obj, dict):
+                    return obj
+            except json.JSONDecodeError:
+                continue
+    raise ValueError(f"no JSON in model output: {out[:300]}")
 
 
 def ask_claude(row: dict, skeleton: dict | None = None) -> dict:
@@ -433,6 +443,7 @@ def check() -> None:
     # the fact-check verdict is parsed strictly: pass needs an explicit pass with no issues
     assert parse_review('{"verdict": "pass", "issues": []}') == [], "clean review must pass"
     assert not any(w in '{"title": "Rate"}'.lower() for w in LIMIT_WORDS), "normal JSON is not a limit"
+    assert _json('Here: {"a": {"b": 1}} and also {"c": 2}') == {"a": {"b": 1}}, "first object, trailing text ok"
     nr = {"type": "renewal_absence_search", "url": "https://publicrecords.copyright.gov/search?q=x",
           "note": "Searched the public catalog for renewals of X: no renewal found."}
     assert engine.is_primary(nr), "a documented official-catalog search proves non-renewal"
