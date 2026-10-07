@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-06",
+  "last_release": "2026-10-07",
   "log": [
     {
       "date": "2026-08-31",
@@ -148,6 +148,10 @@
     {
       "date": "2026-10-06",
       "film": "the-golem-1920"
+    },
+    {
+      "date": "2026-10-07",
+      "film": "the-phantom-carriage-1921"
     }
   ]
 }
