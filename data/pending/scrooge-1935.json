@@ -1,0 +1,103 @@
+{
+  "id": "scrooge-1935",
+  "title": "Scrooge",
+  "year": 1935,
+  "country": "GB",
+  "last_verified": "2026-10-08",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "1935 British film, first released 26 Nov 1935 in the UK. Public domain in the US would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked in this research, so no absence is shown. As a British work it could also have had US copyright restored under the URAA, depending on whether it was published in the US within 30 days of the UK release. The US release date was not confirmed.",
+          "source": "Internet Archive item metadata for Scrooge (1935)",
+          "url": "https://archive.org/details/scrooge-1935_202504"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to W.L. Trytel. The recorded track is part of the film, so it shares the film's status, which is unresolved.",
+          "source": "Wikipedia article on the film, used for background only",
+          "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on Charles Dickens's 1843 novella A Christmas Carol. A work published in 1843 is long past US term. Works published in 1930 or earlier are in the US public domain by term. The Duke CSPD Public Domain Day 2026 page states that 1930 works became free on January 1, 2026. This covers the underlying story only. The 1935 screenplay by H. Fowler Mear is a separate work.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kent D. Eastin made a 60-minute shortened version in 1941, which dominated home video for decades. David Shepard of Blackhawk Films restored the original 78-minute version from 35mm source material. Image Entertainment released it on DVD in 2002. Any new material, such as added titles, a score or a new edit, can be protected. A faithful copy of the film adds no new US copyright.",
+          "source": "Wikipedia article on the film, used for background only",
+          "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Scrooge” (renewals ~1962, 1963, 1964)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Scrooge"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Scrooge_1935",
+      "label": "Scrooge (1935), uncut 78-minute version on the Internet Archive",
+      "quality": "Item metadata describes it as the uncut 78-minute version. Seymour Hicks is named in the item's description and reviews."
+    },
+    {
+      "url": "https://archive.org/details/scrooge-1935_202504",
+      "label": "Scrooge (1935), Internet Archive copy credited to director Henry Edwards",
+      "quality": "Item metadata gives the date as 26 November 1935. Its description does not name the cast."
+    }
+  ],
+  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it, Twickenham Film Studios produced it, and Seymour Hicks plays Scrooge. It premiered in the UK on 26 November 1935. It is cited as the first feature-length sound version of the story, and it has a distinct look, including an invisible Marley's Ghost. A creator would want it as an early sound Scrooge, with an uncut 78-minute copy on the Internet Archive.\n\nThe story is free. It rests on Dickens's 1843 novella, which is long out of copyright in the US. The film is a different matter. It is a 1935 British production, so its US status depends on notice and renewal, and possibly on URAA restoration of foreign works. This research did not find a renewal record or an absence-of-renewal record in the Catalog of Copyright Entries or the Copyright Office catalog, so the print is unresolved. Many copies are the 60-minute 1941 cut by Kent D. Eastin. Others come from the Blackhawk Films restoration of the full 78-minute version, which Image Entertainment released on DVD in 2002. Do your own check of the 1962 to 1964 renewal volumes before you reuse a transfer.",
+  "faq": [
+    [
+      "Is the 1935 Scrooge safe to reuse in the US?",
+      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established here. It needs a renewal check and a URAA restoration check. This research found no renewal record and no record showing the absence of one. A faithful copy of the film adds no new copyright, but added material can be protected."
+    ],
+    [
+      "Which copy should I use?",
+      "Use the uncut 78-minute version described on Internet Archive item Scrooge_1935. Avoid the 60-minute Eastin cut. A DVD or restoration may carry newly added titles, music or other material, which can be protected even where the film itself is free."
+    ]
+  ]
+}
