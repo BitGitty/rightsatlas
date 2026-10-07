@@ -2,8 +2,8 @@
   "id": "last-man-on-earth-1964",
   "title": "The Last Man on Earth",
   "year": 1964,
-  "country": "US/IT",
-  "last_verified": "2026-10-05",
+  "country": "IT",
+  "last_verified": "2026-10-07",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Both Archive.org copies carry a CC0 1.0 Universal designation, reflecting decades of US public domain treatment. Works published in the US in 1964 with a proper copyright notice carry a 95-year term and would not enter the public domain until January 1, 2060. The long-standing PD treatment implies a failure to affix a valid copyright notice under the 1909 Copyright Act — which treated notice omission as an immediate public-domain dedication — but no primary registration record or notice-defect documentation was located in reachable records during this session.",
+          "note": "The two Internet Archive items carry different designations. TheLastManOnEarthHD is marked Public Domain Mark 1.0 and TheLastManOnEarth_72 is marked CC0 1.0. Both are uploader labels, not rights determinations. A US work published in 1964 would normally be protected for 95 years, until 2060. Public domain status would therefore depend on a missing copyright notice or a missing renewal. No notice-defect documentation, registration record or renewal search was located in this session, so the print status is not confirmed.",
           "source": "Cornell University Library — Copyright & Fair Use: Public Domain",
           "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         },
         {
           "type": "uraa_analysis",
-          "note": "The film is a US–Italian co-production directed by Sidney Salkow (US prints) and Ubaldo Ragona (Italian prints), featuring Italian cast members Franca Bettoia and Giacomo Rossi-Stuart, produced with Italian involvement and shot in Rome. The URAA (1994) restored US copyright for foreign works still protected in their home country as of January 1, 1996, where the in-US PD status arose from a formality failure rather than term expiry. If principal Italian contributors died after 1945 — placing the work under Italy's then-applicable life-plus-50-year term on the restoration date — URAA restoration would apply to the Italian rights interest. Italian contributors' death dates were not verified during this session; the restoration argument is therefore possible but unresolved.",
+          "note": "This is a US–Italian co-production. The Internet Archive metadata credits directors Ubaldo Ragona and Sidney Salkow. The URAA (1994) restored US copyright for foreign works that were still protected in their home country on the restoration date, even if the work had lost US protection through a formality failure. Whether the Italian authorship brings restoration into play depends on the Italian authors' death dates and Italy's term at that time. Neither was verified in this session, so the restoration question is unresolved.",
           "source": "Cornell University Library — Copyright & Fair Use: Public Domain (URAA section)",
           "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         }
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a sound film (audio track confirmed from Archive.org metadata). For sound films the recorded score embedded in the soundtrack normally shares the film print's copyright status. The score's status therefore tracks the print layer: undetermined, pending resolution of the URAA exposure on the Italian co-production. No separate score registration as a musical composition was located.",
+          "note": "This is a sound film. The recorded score in the soundtrack normally shares the film print's copyright status, so the score layer follows the unresolved print layer. No separate registration of the score was located.",
           "source": "Internet Archive — TheLastManOnEarth_72 metadata",
           "url": "https://archive.org/details/TheLastManOnEarth_72"
         }
@@ -38,8 +38,8 @@
       "status": "not_pd",
       "evidence": [
         {
-          "type": "registration",
-          "note": "The film adapts Richard Matheson's novel 'I Am Legend' (1954), which was registered and renewed and remains under copyright. The Supreme Court's ruling in Stewart v. Abend established that a derivative work's distributor cannot exploit a derivative during the copyright term of the underlying work without the rights holder's permission — the still-protected source story reaches through the film print regardless of the print's own copyright status.",
+          "type": "research_note",
+          "note": "The Internet Archive metadata states that the film adapts Richard Matheson's novel 'I Am Legend'. Matheson's source work is a separate copyrighted work that is treated as still in force. Under Stewart v. Abend, a derivative work cannot be exploited during the underlying work's copyright term without the owner's permission, so the source story can restrict reuse of the film regardless of the print's status. The novel's registration and renewal records were not pulled in this session.",
           "source": "Stewart v. Abend, 495 U.S. 207 (1990) — Cornell Law School Legal Information Institute",
           "url": "https://law.cornell.edu/supremecourt/text/495/207"
         }
@@ -50,7 +50,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "'I Am Legend' is an active entertainment franchise with ongoing commercial exploitation. No specific trademark registration record was verified in this session. Avoid franchise naming in titles or branding.",
+          "note": "No trademark registration for the title or franchise was checked in this session. The 'I Am Legend' name is used in other commercial adaptations, so avoid franchise naming in titles or branding.",
           "source": null,
           "url": null
         }
@@ -84,23 +84,23 @@
     {
       "url": "https://archive.org/details/TheLastManOnEarthHD",
       "label": "Internet Archive (HD)",
-      "quality": "720p+"
+      "quality": "720p"
     },
     {
       "url": "https://archive.org/details/TheLastManOnEarth_72",
       "label": "Internet Archive (alternate transfer)",
-      "quality": "480p"
+      "quality": "unverified"
     }
   ],
-  "editorial": "The 1964 science fiction horror film produced by Robert L. Lippert and directed by Sidney Salkow and Ubaldo Ragona — Salkow credited on US prints, Ragona on Italian prints — places Vincent Price as Dr. Robert Morgan, the last uninfected man on a plague-devastated Earth. Shot with an Italian cast — Franca Bettoia as Ruth Collins, Giacomo Rossi-Stuart as Ben Cortman, Emma Danieli as Virginia Morgan — and running 86 minutes, it is the first screen adaptation of Richard Matheson's 1954 novel I Am Legend. Its presence on Archive.org under a CC0 designation makes it immediately accessible, but the rights picture is more complicated than the hosting page suggests.\n\nThe US public domain claim rests on an apparent failure to include a valid copyright notice on American prints under the 1909 Copyright Act — a defect that placed the film in the public domain on the day of its US release and that no subsequent legislation could undo domestically. What the film's PD reputation consistently omits is the US–Italian co-production dimension: the URAA (1994) restored US copyright for foreign works still protected in their home country as of January 1, 1996, and this film's Italian authorship makes that window a live question. On top of that, Matheson's novel remains actively licensed — commercial reuse of the film's story without clearing the source work runs directly into the Stewart v. Abend principle that the still-protected source can reach through a lapsed film.",
+  "editorial": "The Last Man on Earth (1964) is a science fiction horror film starring Vincent Price as Dr. Robert Morgan, the sole healthy survivor of a plague that has devastated the planet. It was directed by Ubaldo Ragona and Sidney Salkow, runs about 86 minutes, and adapts Richard Matheson's novel 'I Am Legend'. Two Internet Archive items host it, one in 720p HD and one alternate transfer. Both are labeled as free of restrictions, but the labels differ (Public Domain Mark 1.0 and CC0 1.0).\n\nThe rights trap has two parts. First, the print's free status is unconfirmed. A 1964 US publication would normally last until 2060 unless a notice or renewal was missed, and no such record was found. The film's Italian co-production origin also leaves a possible URAA restoration claim open. Second, Matheson's novel is a separate work that is still treated as protected. Under Stewart v. Abend, a new commercial adaptation or reuse of the story can require a license from the source's owner even if the print itself is free.",
   "faq": [
     [
-      "The film is hosted everywhere as public domain — what is actually uncertain?",
-      "The 1909 Act notice defect that put the US print into the public domain is real and long-established. What remains open is the US–Italian co-production dimension: the URAA restored rights for foreign works still protected in their home country as of January 1, 1996, and without confirming when Italian director Ubaldo Ragona and other Italian contributors died, the Italian rights interest in the print cannot be cleanly dismissed."
+      "The film is hosted everywhere as public domain. Is that confirmed?",
+      "No. The Internet Archive's Public Domain Mark and CC0 labels are uploader designations. A 1964 US film is protected until 2060 unless it lost protection through a missing notice or renewal, and this research did not locate a record showing either. Its Italian co-production origin also leaves a possible URAA restoration claim unresolved."
     ],
     [
       "Can I make a new adaptation based on this film?",
-      "Not without a separate license for the underlying novel. Richard Matheson's 'I Am Legend' is still under copyright and actively exploited for new adaptations. Under Stewart v. Abend the still-protected source story can restrict commercial use of the derivative film regardless of what happened to the print copyright — the story layer is marked not_pd in the table above."
+      "Not without clearing the underlying novel. Richard Matheson's 'I Am Legend' is a separate copyrighted work. Under Stewart v. Abend, its owner can restrict commercial use of a derivative film's story even if the film print is free to use."
     ]
   ]
 }
