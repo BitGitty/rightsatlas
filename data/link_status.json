@@ -576,6 +576,16 @@
    "film": "the-patchwork-girl-of-oz-1914",
    "kind": "watch"
   },
+  "ThePhantomCarriage": {
+   "ok": true,
+   "film": "the-phantom-carriage-1921",
+   "kind": "watch"
+  },
+  "korkarlen_1921": {
+   "ok": true,
+   "film": "the-phantom-carriage-1921",
+   "kind": "evidence"
+  },
   "ThePhantomoftheOpera": {
    "ok": true,
    "film": "the-phantom-of-the-opera-1925",
