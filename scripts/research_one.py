@@ -191,7 +191,10 @@ Check, using WebSearch/WebFetch for anything you are not certain of:
   which release), scores and recordings, source works and their dates, lawsuits, survival status
   (a lost or partial film must not be presented as fully watchable);
 - that each cited source plausibly supports the claim it is attached to;
-- superlatives ("first", "only", "most expensive ever") - wrong ones are common.
+- superlatives ("first", "only", "most expensive ever") - wrong ones are common;
+- every court ruling cited: was it later vacated, reversed or settled away? A vacated ruling is not
+  binding and must not be presented as settling anything (King Kong 1976, found 2026-10-07);
+- a renewal that EXISTS must never be called invalid as a fact - that is a legal opinion (Plan 9).
 Do NOT re-judge the legal rule (95 years from publication; everything published in {cutoff} or
 earlier is public domain in the US by term) and do not nitpick style or wording.
 Report only problems you are confident are real factual errors. If unsure, leave it out.
