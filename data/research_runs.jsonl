@@ -40,3 +40,5 @@
 {"date": "2026-10-07", "id": "santa-claus-conquers-the-martians-1964", "result": "queued", "reasons": []}
 {"date": "2026-10-07", "id": "house-on-haunted-hill-1959", "result": "blocked", "reasons": ["refresh has less evidence (8) than the live page (9)"]}
 {"date": "2026-10-07", "id": "last-man-on-earth-1964", "result": "refreshed", "reasons": []}
+{"date": "2026-10-08", "id": "scrooge-1935", "result": "queued", "reasons": []}
+{"date": "2026-10-08", "id": "scrooge-1951", "result": "queued", "reasons": []}

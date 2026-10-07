@@ -1,0 +1,98 @@
+{
+  "id": "scrooge-1951",
+  "title": "Scrooge (A Christmas Carol)",
+  "year": 1951,
+  "country": "GB",
+  "last_verified": "2026-10-08",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 and opened in New York on 28 Nov 1951 as 'A Christmas Carol' (United Artists), so US release came within 30 days of UK release. Under 17 U.S.C. 104A, URAA restoration excludes works first published in an eligible country and also published in the US within 30 days, so restoration may not apply. That makes the film's US status depend on whether it carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record was checked this session, so no renewal-absence finding is claimed.",
+          "source": "17 U.S.C. 104A (Cornell LII)",
+          "url": "https://www.law.cornell.edu/uscode/text/17/104A"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score by Richard Addinsell. The recorded track normally shares the film's status. The separate musical composition was not independently researched, so it is left undetermined until the print question is resolved.",
+          "source": "Rights research, unverified beyond the credit",
+          "url": "https://www.law.cornell.edu/uscode/text/17/104A"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Source novella 'A Christmas Carol' by Charles Dickens was first published in 1843, long out of term in the US. This clears the underlying story only. Screenplay and film-specific additions are not covered by this finding.",
+          "source": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/46"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "VCI released the film on Blu-ray with a DVD copy in 2009 and a remastered Blu-ray with expanded bonus features in 2011. Any added material (bonus features, new titles, new transfers' added elements) can carry its own copyright, while a faithful transfer adds none.",
+          "source": "Release history on the film's reference page",
+          "url": "https://en.wikipedia.org/wiki/Scrooge_(1951_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979,
+      1980
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Scrooge (A Christmas Carol)” (renewals ~1978, 1979, 1980)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Scrooge+(A+Christmas+Carol)"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/a-christmas-carol-scrooge-1951",
+      "label": "A Christmas Carol: Scrooge (1951) — Internet Archive upload, about 86 min, MP4",
+      "quality": "unverified user upload, not checked against a restoration"
+    }
+  ],
+  "editorial": "Scrooge (1951) is the Alastair Sim version of Dickens' story, made by George Minter Productions and directed by Brian Desmond Hurst, with a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. In the US it went out as 'A Christmas Carol' through United Artists on 28 November 1951, after Radio City Music Hall reportedly rejected it as too grim. It became a fixture of American holiday television in the 1950s and 1960s, which is why reusers want it.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The queue notes call it PD through non-renewal, but nobody has confirmed that here. The UK release and the US release came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Check the Stanford renewal database and the Copyright Office records before treating the print as free. Separately, the 2009 and 2011 VCI Blu-rays carry their own added material.",
+  "faq": [
+    [
+      "Is the 1951 Scrooge in the public domain in the US?",
+      "Not confirmed. Dickens' 1843 story is free. For the film, UK release (22 Nov 1951) and US release (28 Nov 1951) fall within 30 days, which can take it outside URAA restoration, so the outcome rests on notice and renewal. Check renewal records for 1978 to 1980 yourself before relying on it."
+    ],
+    [
+      "Can I use the VCI Blu-ray transfer?",
+      "A faithful copy of a free print adds no new copyright, but the VCI releases include bonus features and other added material that can be protected. Copying a copy-protected disc can also violate 17 U.S.C. 1201, so use an uploaded source copy instead."
+    ]
+  ]
+}
