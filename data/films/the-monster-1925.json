@@ -3,7 +3,7 @@
   "title": "The Monster",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-07",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,29 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released February 22, 1925 by Metro-Goldwyn; the 95-year US term for works published in 1925 has expired, so the film print is public domain in the US by term expiry.",
+          "source": "Duke CSPD Public Domain Day 2021 (1925 works)",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent with English intertitles. Any music on a modern copy, such as the alternative uncredited score used for the TCM broadcast, is a separate work and may be protected."
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Crane Wilbur's 1922 stage play of the same name. Whether the play script was published or registered, and so what its US term is, was not confirmed. A staged play that was never published may still be protected for the author's life plus 70 years, so the source play is not treated as cleared."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +41,12 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No dedicated modern restoration was confirmed. The film has been shown on TCM with an alternative, uncredited score. A faithful copy adds no new US copyright, but a new score or added titles would be separately protected."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +74,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-monster-1925",
-      "label": "Internet Archive (full film)"
+      "label": "Internet Archive (full film)",
+      "quality": "Internet Archive copy; metadata confirms the 1925 Roland West film"
     }
   ],
-  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and released by Metro-Goldwyn-Mayer, starring Lon Chaney as the mad Dr. Ziska presiding over an isolated sanitarium. Adapted from Crane Wilbur's stage play, it is an early 'old dark house' picture and an influential template for later mad-scientist horror. As a 1925 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West. It was released on February 22, 1925 by Metro-Goldwyn, with Roland West Productions and Tec-Art as producers. Lon Chaney plays Dr. Gustave Ziska, who runs an isolated sanitarium. Johnny Arthur, Gertrude Olmstead and Hallam Cooley play the stranded visitors. It is adapted from Crane Wilbur's 1922 stage play and is an early 'old dark house' picture. Reusers would want it for the Chaney performance and the genre setting. The original release used color tints.\n\nThe film print is public domain in the US because the 95-year term for 1925 publications has expired. The trap is the layers around the print. Any score on a modern copy, including the alternative one used for the TCM broadcast, is separate. The source play by Crane Wilbur was staged in 1922. Whether it was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
+  "faq": [
+    [
+      "Can I use footage from The Monster (1925) in my own video?",
+      "Yes for the picture itself. The 1925 film print is public domain in the US by expiry of its term. Use a copy without added music, or a score you have cleared. A recorded score on a modern copy belongs to whoever made it."
+    ],
+    [
+      "Can I remake or adapt The Monster?",
+      "Remaking the story is a different question from using the print. The film is based on Crane Wilbur's 1922 play, and whether that play script was published or what its term is was not confirmed. Check the play's copyright status first. Do not assume the film's status covers it."
+    ]
+  ]
 }
