@@ -1,0 +1,92 @@
+{
+  "id": "its-a-wonderful-life-1946",
+  "title": "It's a Wonderful Life",
+  "year": 1946,
+  "country": "US",
+  "last_verified": "2026-10-07",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says a clerical error at NTA prevented the film's copyright from being renewed properly in 1974. PlagiarismToday says the film lapsed into the public domain in 1974. I could not confirm this from the Catalog of Copyright Entries. The 1974 motion-picture volume exists (archive.org/details/catalogofcopyrig3281213li) but I could not read the whole volume, so I cannot cite an absence. A primary-source check is still needed.",
+          "source": "Wikipedia, It's a Wonderful Life; PlagiarismToday, 'It's a Wonderful (Copyright) Life'",
+          "url": "https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "PlagiarismToday says Republic Pictures held the music rights to the film, which let it control the complete work even though the film itself lapsed. Wikipedia says Dimitri Tiomkin's score was re-released by Paramount Music on December 3, 2021. I did not confirm the score's registration or renewal in a primary record.",
+          "source": "PlagiarismToday, 'It's a Wonderful (Copyright) Life'; Wikipedia, It's a Wonderful Life",
+          "url": "https://www.plagiarismtoday.com/2013/12/05/wonderful-copyright-life/"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Philip Van Doren Stern's story 'The Greatest Gift'. Wikipedia says the story was mailed to 200 family members and friends for Christmas 1943, and that its copyright was renewed in 1971. PlagiarismToday says it was written in 1939. Wikipedia says that in 1993 Republic Pictures relied on the 1990 Supreme Court ruling in Stewart v. Abend to enforce its claim to the copyright.",
+          "source": "Wikipedia; PlagiarismToday, 'It's a Wonderful (Copyright) Life'",
+          "url": "https://www.plagiarismtoday.com/2013/12/05/wonderful-copyright-life/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists three colorized versions: Hal Roach Studios (1986), Republic Pictures (1989) and Legend Films (2007). It also lists a 2021 abridged Legend Films version that removes 24½ minutes, excising the entire Pottersville sequence. Colorization and other added material can carry their own copyright.",
+          "source": "Wikipedia, It's a Wonderful Life",
+          "url": "https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1973,
+      1974,
+      1975
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “It's a Wonderful Life” (renewals ~1973, 1974, 1975)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=It's+a+Wonderful+Life"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1974 Motion Pictures (archive.org) — check the renewal section by hand",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Frank Capra's 1946 film stars James Stewart as George Bailey. Secondary sources say its copyright was not properly renewed in 1974, which would leave the filmed images free of copyright. I could not confirm that from the Catalog of Copyright Entries, so the print layer is marked undetermined here.\n\nThe film is a layered rights problem. It adapts Philip Van Doren Stern's story 'The Greatest Gift', first circulated at Christmas 1943, which Wikipedia says Stern renewed in 1971. PlagiarismToday says Republic Pictures held the music rights to the film. In 1993 Republic relied on Stewart v. Abend (1990), a Supreme Court ruling about Rear Window, to enforce its copyright claim. A reuser should check the story and the score even if the print is free. Colorized versions and the 2021 abridged version may add their own layers.",
+  "faq": [
+    [
+      "Can I post the full film online if its copyright lapsed?",
+      "Not safely. Even if the print's renewal lapsed, the story's copyright was renewed in 1971, and Republic Pictures has used underlying rights since 1993 to enforce its claim. The score may also be separately held. Check the story and score rights before posting."
+    ],
+    [
+      "Is a colorized copy free to reuse?",
+      "Not necessarily. The 1986, 1989 and 2007 colorizations are separate versions. Colorization is added material that can carry its own copyright. Legend Films released an abridged cut in 2021 that omits the Pottersville sequence. Wikipedia reports the stated aim as a rights-free version, and press and legal commentators describe the cut as a likely workaround for the 'The Greatest Gift' story copyright, since the Pottersville sequence is the part most directly drawn from the story. The cut is not shown to clear the story or score rights. Check each version yourself."
+    ]
+  ]
+}
