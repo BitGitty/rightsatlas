@@ -42,3 +42,5 @@
 {"date": "2026-10-07", "id": "last-man-on-earth-1964", "result": "refreshed", "reasons": []}
 {"date": "2026-10-08", "id": "scrooge-1935", "result": "queued", "reasons": []}
 {"date": "2026-10-08", "id": "scrooge-1951", "result": "queued", "reasons": []}
+{"date": "2026-10-08", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
+{"date": "2026-10-08", "id": "last-man-on-earth-1964", "result": "blocked", "reasons": ["crash KeyError: 'layers'"]}

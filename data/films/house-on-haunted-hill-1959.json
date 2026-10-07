@@ -3,7 +3,7 @@
   "title": "House on Haunted Hill",
   "year": 1959,
   "country": "US",
-  "last_verified": "2026-10-05",
+  "last_verified": "2026-10-08",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "renewal_registration",
-          "note": "Renewal registration RE0000318809 (filed 1986-01-12) exists at the U.S. Copyright Office for a motion picture titled 'House on a haunted hill. By Allied Artists Pictures Corporation.', renewing original registration LP0000012531 (filed 1958-12-29, notice year 1959). The renewing party is listed as Revival Pictures (PWH). Allied Artists Pictures Corporation distributed the 1959 William Castle film, and the registration date and notice year match. The copyright.gov record is a live primary record, not a search result.",
+          "note": "Renewal registration RE0000318809 (filed 1986-01-12) exists at the U.S. Copyright Office for a motion picture titled 'House on a haunted hill. By Allied Artists Pictures Corporation.', renewing original registration LP0000012531 (filed 1958-12-29, notice year 1959). The renewing party is listed as Revival Pictures (PWH). The registration date and notice year match the 1959 William Castle film.",
           "source": "U.S. Copyright Office Public Records System",
           "url": "https://publicrecords.copyright.gov/detailed-record/voyager_7215258"
         },
         {
           "type": "research_note",
-          "note": "The title in the renewal record — 'House on a haunted hill' — does not match the film's known release title 'House on Haunted Hill'. No renewal was found under the exact title 'House on Haunted Hill' for a motion picture. Revival Pictures (PWH) filed batch renewals in January and December 1986 for dozens of films across Allied Artists, Four Star Films, and Revue Productions catalogues, all dated to the same filing windows. Whether RE0000318809 covers the William Castle film or a differently titled work is genuinely uncertain. The film has circulated as public domain on budget labels and through Internet Archive since at least the late 1980s without documented copyright enforcement.",
+          "note": "The title in the renewal record, 'House on a haunted hill', differs from the film's release title 'House on Haunted Hill'. No renewal was found under the exact title. Whether RE0000318809 covers the William Castle film or a differently titled work is uncertain. Some web sources assert the film's copyright was never renewed, but they cite no Copyright Office record, so they do not settle the question.",
           "source": null,
           "url": null
         }
@@ -28,13 +28,13 @@
       "evidence": [
         {
           "type": "renewal_registration",
-          "note": "The song 'House on Haunted Hill' — music by Richard Loring, lyrics by Richard Kayne — was registered as an unpublished musical composition (EU0000546955, filed 1958-10-20) and validly renewed in 1986 (RE0000309723, filed 1986-11-17). Copyright claimant: Richard Kayne & Richard Loring (as Authors). This is an unambiguous renewal of the underlying composition, independent of the film's print copyright. A new recording of the song requires clearance from the Kayne/Loring heirs; copying the existing recorded track as part of the film is governed by the film's own print status (undetermined).",
+          "note": "The song 'House on Haunted Hill' (music by Richard Loring, lyrics by Richard Kayne) was registered as an unpublished musical composition (EU0000546955, filed 1958-10-20) and renewed in 1986 (RE0000309723, filed 1986-11-17). This is a renewal of the underlying composition, independent of the film's print copyright. A new recording of the song needs clearance from the rights holders.",
           "source": "U.S. Copyright Office Public Records System",
           "url": "https://publicrecords.copyright.gov/detailed-record/voyager_7206172"
         },
         {
           "type": "research_note",
-          "note": "The film's background score is attributed to Von Dexter. No separate copyright registration for that score was located in the copyright.gov records. For a sound film, the recorded track normally shares the film's own status (here: undetermined). If the film's print is ultimately established as public domain, the embedded audio track — including Von Dexter's background score as recorded in that print — would be public domain for copy/distribution purposes, though the Kayne/Loring composition remains separately protected for new performances.",
+          "note": "No separate registration for the film's background score was located. For a sound film the recorded track normally shares the film's own status, which here is undetermined. The Loring/Kayne composition stays separately protected for new performances either way.",
           "source": null,
           "url": null
         }
@@ -45,7 +45,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original screenplay by Robb White with no underlying novel or play. No separate copyright registration for the screenplay was located in the copyright.gov records. The story as embodied in the film carries no independent protection beyond the film's own copyright, and its status therefore mirrors the print layer (undetermined).",
+          "note": "The film is an original screenplay with no known underlying novel or play, so there is no source work with a separate term. Its status follows the film's own copyright, which is undetermined.",
           "source": null,
           "url": null
         }
@@ -56,7 +56,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "USPTO trademark records were not searched in this session. No active marks for 'House on Haunted Hill' as a franchise title could be confirmed or excluded. The 1999 Warner Bros. remake (HHH Productions, Inc., copyright documents V3426D207 and V3492D151 recorded 2003-04-28) is a separately protected work and may carry associated franchise marks.",
+          "note": "USPTO trademark records were not searched. No active mark for the title could be confirmed or excluded.",
           "source": null,
           "url": null
         }
@@ -67,7 +67,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Anything a restoration ADDS can be protected: a new score, colorization, newly written or translated titles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
           "source": "Bridgeman Art Library v. Corel Corp. (summary)",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
@@ -79,7 +79,7 @@
         },
         {
           "type": "research_note",
-          "note": "Modern HD restorations and colorized versions carry new protectable elements.",
+          "note": "Modern HD restorations and colorized versions can carry new protectable elements.",
           "source": null,
           "url": null
         }
@@ -98,15 +98,15 @@
       "quality": "480p"
     }
   ],
-  "editorial": "William Castle's 1959 film put Vincent Price in a haunted house as millionaire Frederick Loren, offering five strangers $10,000 each to survive the night — a premise Castle backed with the theatrical gimmick Emergo, a plastic skeleton that flew over theater audiences on a wire. William Castle Productions made it; Allied Artists Pictures Corporation distributed it and registered the copyright as LP0000012531 on December 29, 1958 (notice year 1959). In 1986 a company called Revival Pictures filed a renewal registration (RE0000318809) for a motion picture it described as 'House on a haunted hill' attributed to Allied Artists — but that title adds a word not in the film's known title, and Revival Pictures filed identical batch renewals that same year for dozens of other Allied Artists and television-library titles. The renewal's applicability to this specific film is genuinely uncertain, which is why the print layer is undetermined rather than either confirmed public domain or confirmed protected.\n\nThe concrete rights trap is the theme song. The composition 'House on Haunted Hill' — music by Richard Loring, lyrics by Richard Kayne — was separately registered in 1958 and validly renewed in 1986 (RE0000309723). That musical composition is protected regardless of what the courts would ultimately decide about the film's print. Using the existing 1959 film recording as-is is one question; re-recording the song is another and requires clearance from the Kayne/Loring heirs. The 1999 Warner Bros. remake and any colorized editions must be avoided as sources.",
+  "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive. A creator can find ready-to-use prints there. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is not settled. A 1986 renewal, RE0000318809, was filed by Revival Pictures for a motion picture titled 'House on a haunted hill' from Allied Artists, and that title does not match the film exactly, so it is unclear whether it covers this film. The clear trap is the theme song. Its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723. It is protected whatever the status of the film print.",
   "faq": [
     [
       "Can I upload or distribute the 1959 House on Haunted Hill?",
-      "The film has circulated as public domain for decades and appears on Internet Archive under public domain and CC licenses, but a copyright renewal record does exist in the U.S. Copyright Office under a slightly variant title. The print status is genuinely contested. Use only archival-quality copies from confirmed PD repositories; avoid the 1999 Warner Bros. remake, the Elvira colorized edition, and any recent HD restoration as source material."
+      "Copies are hosted on the Internet Archive under public domain and CC labels. Those labels are the uploaders' claims, not a ruling. A 1986 Copyright Office renewal exists under the slightly different title 'House on a haunted hill', so the print status is undetermined. Use a plain copy of the original film, not a colorized or newly scored edition. Weigh the risk before commercial use."
     ],
     [
       "Is the theme song in the film public domain?",
-      "No — the musical composition 'House on Haunted Hill' (music by Richard Loring, lyrics by Richard Kayne) was separately registered and renewed in 1986 (RE0000309723) and the underlying composition is still protected. Using the recorded track as it appears in the existing film is tied to the film's own uncertain print status; creating any new recording of the song requires separate clearance from the Kayne/Loring heirs."
+      "No. The composition 'House on Haunted Hill' (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 (RE0000309723), so it is still protected. Using the track as it sits in the film depends on the film's own uncertain status. Any new recording of the song needs separate clearance."
     ]
   ]
 }
