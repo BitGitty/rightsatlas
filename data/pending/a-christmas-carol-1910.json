@@ -1,0 +1,98 @@
+{
+  "id": "a-christmas-carol-1910",
+  "title": "A Christmas Carol",
+  "year": 1910,
+  "country": "US",
+  "last_verified": "2026-10-07",
+  "byline": "Edison Manufacturing Company, directed by J. Searle Dawley",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released December 23, 1910 in the US. Works published in 1930 or earlier, which includes this 1910 release, are public domain in the US by term. Duke CSPD's Public Domain Day 2026 page states that works from 1930 entered the US public domain on January 1, 2026.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the 1910 images carry no recorded track. Any music on a modern copy is a separate work. One Internet Archive copy (AChristmasCarol) describes itself as remastered, retitled and tinted, with a new soundtrack added in 2010.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/AChristmasCarol"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The source is Charles Dickens's 1843 novella A Christmas Carol. A work published in 1843 is long out of copyright in the US. The same Duke CSPD page confirms that works from 1930 forward enter the public domain on a rolling basis, so an 1843 text is far past term.",
+          "source": "Duke CSPD Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "At least one online copy (AChristmasCarol on the Internet Archive) was remastered, retitled, tinted and given a new soundtrack in 2010. A faithful restoration adds no new US copyright. The new score, new titles and tinting choices on such a copy can be separately protected.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/AChristmasCarol"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1937,
+      1938,
+      1939
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “A Christmas Carol” (renewals ~1937, 1938, 1939)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Christmas+Carol"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-a-christmas-carol",
+      "label": "A Christmas Carol (1910) — Internet Archive, about 10.5 minutes, silent",
+      "quality": "Standard-definition web copy; a clean choice for sourcing the picture without a modern score."
+    }
+  ],
+  "editorial": "A Christmas Carol is a one-reel silent short that the Edison Manufacturing Company released on December 23, 1910. J. Searle Dawley directed, with Marc McDermott as Scrooge and Charles S. Ogle as Bob Cratchit. It condenses Dickens's novella to roughly 10 to 13 minutes, depending on the copy, and uses double exposure to put the ghosts in the same frame as Scrooge. A reuser gets one of the earliest surviving screen versions of the story, which suits seasonal edits, documentary inserts and film-history projects.\n\nThe 1910 picture is public domain in the US by term, and the Dickens novella it adapts is far older. The trap is the copy, not the film. Some online versions add a new score, new titles or tinting. The Internet Archive item AChristmasCarol, for example, says it was remastered, retitled and tinted, with a new soundtrack added in 2010. Those additions can be protected, so check which version you are lifting before you reuse its audio or titles.",
+  "faq": [
+    [
+      "Can I use the 1910 Edison A Christmas Carol in my own video?",
+      "The 1910 images are public domain in the US by term, and the Dickens source is long out of copyright. Check the particular copy you download. Some versions carry a newer soundtrack, retitling or tinting that may be protected, so use a copy without them or replace them with your own."
+    ],
+    [
+      "Is the music on the online versions free to use?",
+      "Not automatically. The film was silent in 1910, so any music was added later. For example, the Internet Archive item AChristmasCarol says a new soundtrack was added in 2010. Reuse that audio only if you confirm its licence, or pair the picture with your own music."
+    ]
+  ]
+}

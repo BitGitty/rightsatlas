@@ -1,0 +1,96 @@
+{
+  "id": "the-night-before-christmas-1905",
+  "title": "The Night Before Christmas",
+  "year": 1905,
+  "country": "US",
+  "last_verified": "2026-10-07",
+  "byline": "Directed by Edwin S. Porter for the Edison Manufacturing Company",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released in 1905. US works published in 1930 or earlier are public domain by term; Duke CSPD confirms that works from 1930 entered the US public domain on January 1, 2026, so a 1905 release is well past term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The Public Domain Review's Internet Archive copy carries a later-added soundtrack made mostly of old cylinder recordings, and a separate silent version also exists. Any added music track on a modern copy is a separate work. Use the silent version, or check the origin of the track you use.",
+          "source": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/collection/the-night-before-christmas-1905/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film follows Clement Clarke Moore's poem, first published anonymously in 1823. That is far past any US term.",
+          "source": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/collection/the-night-before-christmas-1905/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1932,
+      1933,
+      1934
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Night Before Christmas” (renewals ~1932, 1933, 1934)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Night+Before+Christmas"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-night-before-christmas-1905-directed-by-edwin-s.-porter",
+      "label": "The Night Before Christmas (1905), Internet Archive, about 8 min 43 s",
+      "quality": "Internet Archive stream, tagged Public Domain Mark 1.0"
+    },
+    {
+      "url": "https://archive.org/details/silent-the-night-before-christmas",
+      "label": "The Night Before Christmas, Internet Archive, silent copy, about 8.5 min",
+      "quality": "Internet Archive stream, silent"
+    }
+  ],
+  "editorial": "This is Edwin S. Porter's 1905 short for the Edison Manufacturing Company. It stages Clement Clarke Moore's poem scene by scene: Santa readies his workshop, visits a city household where children hang stockings, comes down the chimney and delivers presents. The Public Domain Review calls it the first film adaptation of the poem. For a creator it is a ready-made Christmas Eve piece, short enough to drop into a seasonal compilation, a holiday broadcast or a poem-reading video.\n\nThe film was released in 1905, so the picture is public domain in the US by term. The poem dates from 1823, so the story is free too. The trap is the soundtrack. The Public Domain Review copy has music added later, built mostly from old cylinder recordings, and it also offers a silent version. A modern score or added audio on a posted copy is a separate work. The Public Domain Review also lists the digital copy's rights as \"Unclear\". Take the silent copy and add your own music.",
+  "faq": [
+    [
+      "Can I use The Night Before Christmas (1905) in a commercial video?",
+      "The 1905 picture is public domain in the US by term, and so is Moore's 1823 poem. The risk is the audio. Use the silent Internet Archive copy and add your own or licensed music, rather than reusing a copy with a later-added soundtrack."
+    ],
+    [
+      "Does the music on the Internet Archive copy come with the film?",
+      "No. The Public Domain Review describes one version as having musical accompaniment added later, made up mostly of old cylinder recordings, and notes a silent version too. The film was silent when released, so any soundtrack on a modern copy is a later addition. Check its origin before you reuse it."
+    ]
+  ]
+}
