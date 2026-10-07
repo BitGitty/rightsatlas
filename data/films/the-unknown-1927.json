@@ -3,7 +3,7 @@
   "title": "The Unknown",
   "year": 1927,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-07",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,48 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released June 4, 1927 by MGM. Works published in 1927 entered the US public domain on January 1, 2023, when the 95-year term expired.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1927 release had no documented original score. Later scores exist, including John Cale's (performed live in 1994) and Philip Carli's (used on the Criterion release). Any modern recording or composition on a given copy is a separate protected work. The silent images are not affected.",
+          "source": "Wikipedia, The Unknown (1927 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Unknown_(1927_film)"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story is credited to Tod Browning, with screenplay by Waldemar Young and titles by Joseph W. Farnham. It was written for this 1927 film and is not an adaptation of an earlier work, so it shares the film's 1927 publication and its expired term.",
+          "source": "Internet Archive metadata and Wikipedia credits",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 2022 George Eastman House restoration added footage from a Czech nitrate print to the print found at the Cinematheque Francaise in 1968, extending the runtime from 49 to 66 minutes. A faithful restoration adds no new US copyright (Bridgeman v. Corel). New scores, new or translated titles, and other added material on restored releases can be protected.",
+          "source": "Wikipedia, The Unknown (1927 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Unknown_(1927_film)"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +80,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-unknown-1927-full-length",
-      "label": "Internet Archive (full film)"
+      "label": "Internet Archive (full film)",
+      "quality": "Internet Archive item; metadata confirms The Unknown (1927), Tod Browning, silent feature. Version and runtime not checked."
     }
   ],
-  "editorial": "The Unknown is a 1927 American silent horror film directed by Tod Browning for Metro-Goldwyn-Mayer, starring Lon Chaney as 'Alonzo the Armless,' a carnival knife-thrower, and a young Joan Crawford as the woman he loves. Widely regarded as the finest of the Browning-Chaney collaborations, it was thought lost until a print was recovered from the Cinematheque Francaise in 1968. As a 1927 US publication, the film print is in the public domain by expiry of the 95-year copyright term; score, story, and restoration layers are left undetermined pending their own evidence.",
-  "faq": []
+  "editorial": "The Unknown is a 1927 MGM silent horror film directed by Tod Browning, with Lon Chaney as Alonzo, an armless circus performer. Browning conceived the story himself, Waldemar Young wrote the screenplay, and Joseph W. Farnham wrote the titles. It premiered June 4, 1927. It was long considered lost until a 35mm print turned up at the Cinematheque Francaise in 1968. A 2022 George Eastman House restoration added footage from a Czech nitrate print and lengthened the film from 49 to 66 minutes.\n\nThe film's print and its original story are free in the US, because the copyright term for works published in 1927 expired on January 1, 2023. The trap is in the copies. The 1927 release had no documented original score, and later scores, such as the one by Philip Carli used on the Criterion release, are separately protected. Restored releases can also carry new titles or other added material. Take a copy with no modern music, or write your own, and check what each release adds.",
+  "faq": [
+    [
+      "Can I use The Unknown (1927) in my own video?",
+      "Yes for the film's images and its original story, which are public domain in the US. Check that your copy has no modern score or added title cards, because those can be protected."
+    ],
+    [
+      "Is the 2022 restoration free to use?",
+      "The restored picture itself adds no new US copyright if the restoration is faithful. Anything it adds, such as a new score, new titles or added material, can be protected. Use a copy without those additions or clear them separately."
+    ]
+  ]
 }
