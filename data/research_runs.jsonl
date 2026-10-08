@@ -54,3 +54,5 @@
 {"date": "2026-10-08", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
 {"date": "2026-10-09", "id": "little-caesar-1931", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
 {"date": "2026-10-09", "id": "cimarron-1931", "result": "queued", "reasons": []}
+{"date": "2026-10-09", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
+{"date": "2026-10-09", "id": "last-man-on-earth-1964", "result": "blocked", "reasons": ["crash KeyError: 'layers'"]}
