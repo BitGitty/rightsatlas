@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-07",
+  "last_release": "2026-10-08",
   "log": [
     {
       "date": "2026-08-31",
@@ -152,6 +152,10 @@
     {
       "date": "2026-10-07",
       "film": "the-phantom-carriage-1921"
+    },
+    {
+      "date": "2026-10-08",
+      "film": "haxan-1922"
     }
   ]
 }
