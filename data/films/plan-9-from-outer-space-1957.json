@@ -3,7 +3,7 @@
   "title": "Plan 9 from Outer Space",
   "year": 1957,
   "country": "US",
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-10-08",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,15 +11,15 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A renewal is on record at the US Copyright Office: RE0000279707, filed in 1986 by Wade Williams under the title 'Plan 9 from Outer Space'. Some argue this renewal is invalid, and the film has long circulated as if it were free, but we found no court ruling or Copyright Office decision on it. Whether the renewal is valid is a legal question we cannot verify, so this layer stays undetermined.",
+          "note": "Earlier research recorded a renewal at the US Copyright Office, RE0000279707, filed in 1986 by Wade Williams under the title 'Plan 9 from Outer Space'. We could not re-confirm that record in this session, because the Copyright Office catalog could not be searched automatically. Some commentators say the film is public domain because it was never renewed, and we found no court ruling or Copyright Office decision that settles the question. Whether any renewal is valid is a legal question we cannot verify, so this layer stays undetermined.",
           "source": "U.S. Copyright Office Public Records System",
           "url": "https://publicrecords.copyright.gov/"
         },
         {
           "type": "cce_entry",
-          "note": "CCE Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan–Dec 1957, Vol. 11 No. 1-2 (archive.org identifier catalogofcopyrig3111213li) confirmed as the contemporaneous registration-year volume for this film. The CCE Third Series ended with the 1977 volume; no printed CCE renewal volume covers the 1984–1987 window when this film's renewal would have fallen due under any of the three plausible first-publication years: 1957 (renewal due 1984–1985), 1958 (renewal due 1985–1986; general release July 1958 per Wikipedia; publication date 1958-05-01 per Copyright Office registration PA0000102338 filed 1981 by Reynolds Pictures Inc.), or 1959 (renewal due 1987). The Copyright Office online catalog (see renewal_absence_search entries above) is the authoritative record for that window. The 1959 Motion Pictures CCE (identifier catalogofcopyrig3131213li) was also located for the alternate publication-year scenario.",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958, Vol. 12 No. 1-2 (archive.org identifier catalogofcopyrig3121213li). The film was copyrighted in 1958 by Reynolds Pictures, Inc., so this is the registration-year volume. The March 1957 preview does not make 1957 the registration year. We confirmed the volume's title and year on its archive.org page, but we did not search its text for the film's entry in this session. The volume does not settle the renewal question, which depends on later Copyright Office records.",
           "source": "Internet Archive / Library of Congress Copyright Office",
-          "url": "https://archive.org/details/catalogofcopyrig3111213li"
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
         }
       ]
     },
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "As a sound film whose copyright registration was never validly renewed, the recorded audio track as embodied in the film shares the print layer's public-domain status. However, the individual musical compositions on the soundtrack may carry their own copyright histories independent of the film's registration: a composition that was separately registered and renewed (or that benefits from post-1978 automatic renewal for works first published 1964–1977) can remain protected even when the film's own registration lapsed. Individual composition research is required before licensing specific musical works for new synchronization or commercial release.",
+          "note": "The recorded soundtrack as embodied in the film follows the film's own copyright status, which is undetermined (see the print layer). Individual musical compositions on the soundtrack may carry separate copyright histories, so check each composition before licensing it for new synchronization or commercial release.",
           "source": null,
           "url": null
         }
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A renewal is on record at the US Copyright Office: RE0000279707, filed in 1986 by Wade Williams under the title 'Plan 9 from Outer Space'. Some argue this renewal is invalid, and the film has long circulated as if it were free, but we found no court ruling or Copyright Office decision on it. Whether the renewal is valid is a legal question we cannot verify, so this layer stays undetermined.",
+          "note": "The story is an original screenplay by Ed Wood and was not adapted from an earlier published work, so it takes the film's own status. That status is undetermined because of the renewal question described in the print layer.",
           "source": "U.S. Copyright Office Public Records System",
           "url": "https://publicrecords.copyright.gov/"
         }
@@ -50,7 +50,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "USPTO trademark database systems (TSDR, TESS) were not accessible via automated search in this session. No active franchise or character marks for 'Plan 9 from Outer Space' are known to rights researchers, but trademark status remains formally undetermined pending a completed TESS search.",
+          "note": "USPTO trademark databases could not be searched automatically in this session. We know of no active mark for 'Plan 9 from Outer Space', but trademark status remains undetermined until a USPTO search is completed.",
           "source": null,
           "url": null
         }
@@ -61,7 +61,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new U.S. copyright: slavish reproduction of public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration adds can be protected: a newly composed or recorded score, colorization, newly written or translated titles and subtitles, or other original creative additions. Use archival prints from archive.org rather than ripping a commercially released disc — ripping a copy-protected disc can implicate the DMCA anti-circumvention provision (17 U.S.C. § 1201) even when the underlying film is public domain.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: slavish reproduction of public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Original additions such as a new score, colorization, or new titles and subtitles can be protected. Colorized versions of this film exist, and the colorization is protected on its own. Use archival prints rather than ripping a commercial disc, because ripping a copy-protected disc can implicate 17 U.S.C. § 1201.",
           "source": "Bridgeman Art Library v. Corel Corp.",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
@@ -81,15 +81,15 @@
       "quality": "480p"
     }
   ],
-  "editorial": "Ed Wood wrote and directed this science-fiction horror film, which had a preview screening in 1957 and went into general theatrical release in July 1958, in which extraterrestrials implement 'Plan 9' — the reanimation of the recently dead — to stop humanity from developing a weapon capable of annihilating the universe. Police officers and airline pilot Jeff Trent pursue the walking corpses under alien control. A renewal is on record at the Copyright Office: RE0000279707, filed in 1986 by Wade Williams under the release title. Some argue that renewal is invalid, and the film's long run on late-night TV and budget video made many people treat it as free, but we found no court ruling or Copyright Office decision that settles it. Until one does, treat Plan 9 as possibly still protected and get advice before reusing it.\n\nColorized versions add new creative work that is protected on its own, whatever the status of the original black-and-white film.",
+  "editorial": "Ed Wood's American independent science-fiction horror film was produced by Reynolds Pictures, Inc. and shot in black and white in November 1956. It premiered on March 15, 1957 at the Carlton Theatre in Los Angeles under the working title Grave Robbers from Outer Space, then went into general release in July 1958 through Distributors Corporation of America. Ed Wood wrote and directed it. Bela Lugosi appears posthumously. The film is a staple of late-night TV and budget video, so many people assume it is free to use.\n\nThe rights trap is the renewal. Earlier research recorded a 1986 renewal, RE0000279707, filed by Wade Williams. We could not re-confirm it in this session. Some argue it is invalid, but we found no ruling that settles the point. Treat the film as possibly still protected and get advice before reusing it. Colorized versions add protected creative work of their own, whatever the status of the original black-and-white film.",
   "faq": [
     [
       "Can I use Plan 9 from Outer Space footage in my own film or video?",
-      "Not safely, as far as we can verify. A renewal is on record (RE0000279707, filed by Wade Williams in 1986). Some argue it is invalid, but we found no ruling that settles it, so the film's status is undetermined. Get advice before reusing footage."
+      "Not safely, as far as we can verify. Earlier research recorded a 1986 renewal (RE0000279707, filed by Wade Williams). Some argue it is invalid, but we found no ruling that settles it, so the film's status is undetermined. Get advice before reusing footage."
     ],
     [
       "Is the colorized version of Plan 9 public domain too?",
-      "No. Colorization adds new creative authorship that is separately protected regardless of the underlying film's status. Use only the original black-and-white version."
+      "No. Colorization adds new creative authorship that is protected on its own, regardless of the original film's status. Even if the original black-and-white film is free to use, a colorized copy may not be."
     ]
   ]
 }
