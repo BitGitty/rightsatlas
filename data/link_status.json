@@ -28,7 +28,7 @@
   },
   "catalogofcopyrig3121213li": {
    "ok": true,
-   "film": "any-old-port-1930",
+   "film": "plan-9-from-outer-space-1957",
    "kind": "evidence"
   },
   "catalogofcopyrig3131213li": {
@@ -161,6 +161,11 @@
    "film": "hallelujah-1929",
    "kind": "evidence"
   },
+  "haxan-witchcraft-through-the-ages-1922": {
+   "ok": true,
+   "film": "haxan-1922",
+   "kind": "evidence"
+  },
   "his_girl_friday": {
    "ok": true,
    "film": "his-girl-friday-1940",
@@ -270,11 +275,6 @@
    "ok": true,
    "film": "plan-9-from-outer-space-1957",
    "kind": "watch"
-  },
-  "catalogofcopyrig3111213li": {
-   "ok": true,
-   "film": "the-divorcee-1930",
-   "kind": "evidence"
   },
   "robin-hood-1922": {
    "ok": true,
@@ -419,6 +419,11 @@
   "Motionpict19591960librrich0008": {
    "ok": true,
    "film": "the-dawn-patrol-1930",
+   "kind": "evidence"
+  },
+  "catalogofcopyrig3111213li": {
+   "ok": true,
+   "film": "the-divorcee-1930",
    "kind": "evidence"
   },
   "the-divorcee_1930": {
