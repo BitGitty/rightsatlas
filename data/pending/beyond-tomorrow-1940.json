@@ -1,0 +1,111 @@
+{
+  "id": "beyond-tomorrow-1940",
+  "title": "Beyond Tomorrow",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-10-08",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released in 1940, so its public-domain status depends on a missing notice or a missing renewal. A web search returned secondary claims that the copyright was not renewed. I could not confirm either point from a primary record. The Copyright Office public records site and the Stanford renewal database returned nothing readable here. I did not read the full 1967-1969 Catalog of Copyright Entries volumes, so I can't cite a CCE entry or a renewal-absence search. Check the renewal window by hand before treating the print as free.",
+          "source": "Internet Archive, Catalog of Copyright Entries, Motion Pictures 1960-1969",
+          "url": "https://archive.org/details/Motionpict19601969librrich0013"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the film's own copyright status, so the score is undetermined for the same reason as the print. I did not find a separate music-copyright record.",
+          "source": "Internet Archive item page for the 1940 film",
+          "url": "https://archive.org/details/beyond-tomorrow-1940"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive page for the film credits an original story by Mildred Cram and Adele Comandini. I did not research whether that story was published separately or when, so the source's term is unconfirmed.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive page says a colorized version was made and released as \"Beyond Christmas\". It names Legend Films as the colorizer. Sources disagree on the date: 2004 or 2005 for the colorization, 2008 for the Legend Films DVD. I could not confirm the date or the releasing company from a primary source. A faithful copy of the black-and-white original adds no new US copyright. The colorization itself, and any added or new material, can carry its own protection.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Beyond Tomorrow” (renewals ~1967, 1968, 1969)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Beyond+Tomorrow"
+      },
+      {
+        "label": "CCE Motion Pictures 1968 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1967 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/beyond-tomorrow-1940",
+      "label": "Beyond Tomorrow (1940), Internet Archive, directed by A. Edward Sutherland, about 84 min",
+      "quality": "unrated"
+    },
+    {
+      "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS",
+      "label": "Beyond Tomorrow (1940), Internet Archive, alternate upload",
+      "quality": "unrated"
+    }
+  ],
+  "editorial": "Beyond Tomorrow (also released as And So Goodbye) is a 1940 fantasy directed by A. Edward Sutherland, with an original story by Mildred Cram and Adele Comandini. Three elderly industrialists die in a plane crash and return as ghosts to help bring a young couple together. It is set at Christmas and was released on May 10, 1940. That seasonal setting is why people look for a free copy.\n\nIt is not a film from the period when everything has expired by term, so its status depends on whether the copyright was renewed. Secondary sources say it was not. I could not confirm that from a primary renewal record, so check it by hand before building a project on it. Separately, the film was colorized and released as Beyond Christmas, with Legend Films named as the colorizer. The date is unsettled: sources give 2004 or 2005 for the colorization and 2008 for the DVD. If you use that version, the colorization is a separate layer you should not assume is free.",
+  "faq": [
+    [
+      "Is Beyond Tomorrow (1940) free to use?",
+      "Not confirmed. Secondary sources say the copyright was not renewed, but I found no primary record either way. Search the 1967-1969 renewal catalogs yourself using the links in the dossier."
+    ],
+    [
+      "Can I use the colorized Beyond Christmas version?",
+      "Use the black-and-white print instead. The colorized Beyond Christmas release names Legend Films as the colorizer, and its date is unsettled (2004 or 2005 for the colorization, 2008 for the DVD). The colorization can be separately protected even if the original film is free."
+    ]
+  ]
+}
