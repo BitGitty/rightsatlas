@@ -1,0 +1,91 @@
+{
+  "id": "cimarron-1931",
+  "title": "Cimarron",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-10-09",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "RKO Radio Pictures released the film on 26 Jan 1931 (New York premiere), so publication falls in 1931, not 1930. Its 95-year term therefore runs through 31 Dec 2026, and the term does not expire until 1 Jan 2027. Until then public domain depends on a missing renewal. I could not load the Stanford renewal database or the CCE renewal volumes in this session, so no renewal-absence search is recorded.",
+          "source": "Wikipedia, Cimarron (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Cimarron_(1931_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Max Steiner is credited as composer. The score is a sound-on-film track, so it should share the print's status, which is unresolved.",
+          "source": "Wikipedia, Cimarron (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Cimarron_(1931_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on Edna Ferber's novel Cimarron, published by Doubleday, Doran in April 1930, so the novel's US term should have ended on 1 Jan 2026. I have no primary-source page confirming that. The screenplay, credited to Howard Estabrook, is a separate work.",
+          "source": "Wikipedia, Cimarron (novel)",
+          "url": "https://en.wikipedia.org/wiki/Cimarron_(novel)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Cimarron” (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Cimarron"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/cimarron-1931",
+      "label": "Cimarron (1931), full film, Internet Archive",
+      "quality": "about 123 minutes, 130 files, marked CC0 by the uploader"
+    }
+  ],
+  "editorial": "Cimarron was RKO Radio Pictures' 1931 adaptation of Edna Ferber's Oklahoma land-rush novel. Wesley Ruggles directed, Max Steiner scored it, and Howard Estabrook won the Academy Award for adapted screenplay. It also won Best Picture, the first Western to do so. It opened in New York on 26 Jan 1931. A creator would want it for the 1889 land-rush sequence and for the Irene Dunne and Richard Dix performances.\n\nThe rights trap is the date. The queue treats the film as a 1930 work, but its release was in 1931. A 1931 release cannot be public domain by term alone until 1 Jan 2027. Until then, clearance depends on proving no renewal was filed in the 28th-year window (1958–59). I did not complete that search here, so the print is not cleared. The source novel dates from 1930 and should be free, but the film's screenplay, score and any modern restoration need separate checks.",
+  "faq": [
+    [
+      "Is Cimarron (1931) public domain in the US today?",
+      "Not confirmed. The film was released in January 1931, so its term runs through the end of 2026 unless its copyright lapsed earlier through non-renewal. Check the Stanford renewal database and the Catalog of Copyright Entries renewal volumes before reusing it."
+    ],
+    [
+      "Does the free Internet Archive copy settle the question?",
+      "No. The uploader's CC0 label is not evidence of the film's copyright status. The print, the score and any restoration or added titles each need their own check."
+    ]
+  ]
+}
