@@ -1,0 +1,74 @@
+{
+  "id": "scrooge-1913",
+  "title": "Scrooge",
+  "year": 1913,
+  "country": "GB",
+  "last_verified": "2026-10-08",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released September 1913, so US copyright ran out by term; works from 1928 entered the US public domain on 1 January 2024, so a 1913 release is well past that point.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2024/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "A British film from 1913. The URAA only restored foreign works still protected in their home country on 1 January 1996, and a 1913 film was already past any term in the UK by then. It was also already in the US public domain by term, so there was nothing to restore. This rests on general reasoning about the dates; I did not fetch a UK-law source.",
+          "source": "Duke Center for the Study of the Public Domain",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2024/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1913 film is silent. Any music on a modern copy is a separate recording or composition, and the print's status does not cover it.",
+          "source": "RightsAtlas analysis",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Charles Dickens's A Christmas Carol, published in 1843. It is far older than the 1928 publication year of works that entered the US public domain in 2024.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2024/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [],
+    "negative_result": null,
+    "diy_links": []
+  },
+  "watch": [],
+  "editorial": "Scrooge (1913) is a three-reel British silent from Zenith Film Company, directed by Leedham Bantock. Seymour Hicks, who had played Scrooge on stage since 1901, stars in his first screen outing in the role. It was released in the US in 1926 as Old Scrooge. It is a short, early Dickens adaptation, useful for anyone assembling a history of A Christmas Carol on screen.\n\nThe print is free to use because it was published in 1913, which puts it past US term, and the Dickens source dates from 1843. The rights problem is in the copies. Any music on a modern upload belongs to whoever recorded it, and a version with new intertitles or added material can carry its own claims. I found no Internet Archive copy of this film that I could confirm, so source a print from an archive or distributor and check what it adds before you reuse it.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1913 Scrooge?",
+      "The film itself is out of US copyright, because it was published in 1913. Check the copy you use: a modern score, new titles or other added material on it can be protected separately."
+    ],
+    [
+      "Is the 1913 film the same as Old Scrooge?",
+      "Yes. Wikipedia says the 1913 British film was released in the US in 1926 as Old Scrooge. Search under both titles when you look for prints."
+    ]
+  ]
+}

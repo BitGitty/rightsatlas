@@ -1,0 +1,104 @@
+{
+  "id": "christmas-comes-but-once-a-year-1936",
+  "title": "Christmas Comes But Once a Year",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-10-08",
+  "byline": "Fleischer Studios (Max Fleischer, producer; Dave Fleischer, director), released by Paramount Pictures",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips), Jan-Dec 1964, Vol 18. The renewal registrations section, read alphabetically through C and the Paramount/Fleischer entries, has no renewal for 'Christmas Comes But Once a Year' or any Fleischer Color Classics title. The film was released December 4, 1936, so the 28th-year renewal window fell in 1964.",
+          "source": "Catalog of Copyright Entries, 1964 Motion Pictures volume",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1965, Vol 19. Checked as the adjacent year in case of a late renewal. Its renewal section, read from B onward, lists no renewal for this title or any Fleischer/Paramount Color Classics title. I did not search the 1963 volume. The 1965 renewal section's opening A entries were read only in part.",
+          "source": "Catalog of Copyright Entries, 1965 Motion Pictures volume",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, and its recorded track was part of the same Paramount release. It shares the film's status, so the renewal checks above cover it. I did not identify the composer or confirm any separately registered music. A separate registration or renewal for the music alone cannot be ruled out from this search.",
+          "source": "Wikipedia: Christmas Comes But Once a Year",
+          "url": "https://en.wikipedia.org/wiki/Christmas_Comes_But_Once_a_Year"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short is an original Fleischer Studios Color Classics story. Professor Grampy makes toys for orphans from household items and dresses as Santa. I found no source work that is still protected.",
+          "source": "Wikipedia: Christmas Comes But Once a Year",
+          "url": "https://en.wikipedia.org/wiki/Christmas_Comes_But_Once_a_Year"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A restoration from the original Paramount camera negatives by Fabulous Fleischer Cartoons Restored (Jane Fleischer Reid's company) debuted on MeTV's Toon in With Me on December 21, 2022. A faithful restoration adds no new copyright. Any added elements, such as new titles, music or re-edits, could be protected, and I did not examine them.",
+          "source": "Wikipedia: Christmas Comes But Once a Year",
+          "url": "https://en.wikipedia.org/wiki/Christmas_Comes_But_Once_a_Year"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": "No renewal for this title found in the 1964 or 1965 CCE motion-picture renewal sections. The 1963 volume was not searched.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Christmas Comes But Once a Year” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Christmas+Comes+But+Once+a+Year"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ChristmasComesButOnceAYear-1936",
+      "label": "Christmas Comes But Once A Year - 1936 (Internet Archive)",
+      "quality": "Internet Archive upload, about 8 minutes, described as public domain"
+    }
+  ],
+  "editorial": "Christmas Comes But Once a Year is a Color Classics short from Fleischer Studios. Dave Fleischer directed it and Max Fleischer produced it. Paramount released it on December 4, 1936. Orphans open broken Christmas toys, and Professor Grampy makes new ones from household items and delivers them dressed as Santa. It is Grampy's only solo cartoon, without Betty Boop. Everett Clark voiced him. It is short and self-contained, and it has been a staple of public-domain Christmas video compilations, which makes it an easy choice for holiday programming.\n\nThe print rests on a missing renewal. I read the renewal sections of the 1964 and 1965 Catalog of Copyright Entries motion-picture volumes and found no entry for this title. The rights trap is the modern restoration. Fabulous Fleischer Cartoons Restored remastered the short from the original Paramount negatives, and it aired on MeTV on December 21, 2022. The film itself is free, but a creator should work from an older public-domain transfer, or confirm that a restored copy carries no added titles or music. Cartoon characters can also carry active trademarks.",
+  "faq": [
+    [
+      "Can I use this cartoon in a commercial video?",
+      "The film's copyright appears to have lapsed because no renewal turned up in the 1964 and 1965 Catalog of Copyright Entries. I did not search the 1963 volume. The character and franchise layer is unverified. A modern restoration may add protected material, so use a plain transfer such as the Internet Archive copy and check it for added titles or music."
+    ],
+    [
+      "Who owns the rights to the 2022 restoration?",
+      "I could not confirm a rights holder. Fabulous Fleischer Cartoons Restored made a restoration from the original Paramount negatives that aired on MeTV on December 21, 2022. A faithful scan adds no new copyright to the underlying film. Anything new, such as a score, titles or edits, may be protected."
+    ]
+  ]
+}
