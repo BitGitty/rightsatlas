@@ -1,0 +1,96 @@
+{
+  "id": "7th-heaven-1927",
+  "title": "7th Heaven",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-10-10",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Fox Film Corporation released the film in May 1927. US works published in 1927 entered the public domain on January 1, 2023, and the Duke Center for the Study of the Public Domain lists 7th Heaven among that year's films.",
+          "source": "Duke CSPD, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The 1927 Movietone release carried synchronized music and sound effects but no spoken dialogue. That track was published with the film in 1927, so it shares the print's term expiry. A modern copy that swaps in a new score is a separate matter. Check which score a given copy carries.",
+          "source": "Duke CSPD, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on Austin Strong's play Seventh Heaven, which ran on Broadway from 1922. A work published or performed in 1922 is well past its US term, so the source is public domain.",
+          "source": "Duke CSPD, Public Domain Day 2023 (1927 film listing); the 1922 play date comes from the film's reference page, not a primary record",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “7th Heaven” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=7th+Heaven"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/7th-heaven-1927_202506",
+      "label": "7th Heaven (1927), Frank Borzage, about 119 min, Internet Archive Open Source Movies",
+      "quality": "MPEG4 720p"
+    },
+    {
+      "url": "https://archive.org/details/7th-heaven-1927",
+      "label": "7th Heaven (1927), about 119 min, with Movietone music and effects",
+      "quality": "MPEG4 720p"
+    }
+  ],
+  "editorial": "7th Heaven is Frank Borzage's 1927 romance for Fox Film Corporation. Janet Gaynor plays Diane and Charles Farrell plays Chico, a Parisian sewer worker. It premiered in Los Angeles on May 6, 1927, and reached New York on May 25. A Movietone sound version with music and effects, but no spoken dialogue, followed on September 10, 1927. It was one of the first three films nominated for Best Picture at the first Academy Awards. The Library of Congress added it to the National Film Registry in 1995. It is a good pick for creators who want a prestige silent-era feature that is now free to reuse.\n\nThe film is based on Austin Strong's 1922 Broadway play, so the source has expired as well. The rights trap is the copy you pick. The 1927 film and its original synchronized track are free by term expiry. A modern restoration, a newly commissioned score, added or translated title cards, or colorization can carry new protected material. We found no restoration to rule on, so that layer is undetermined. Use a copy whose score and titles you can identify. Any active mark on the title or characters would be separate and was not checked.",
+  "faq": [
+    [
+      "Can I reuse 7th Heaven (1927) in my own video?",
+      "The 1927 picture is in the US public domain by term, since 1927 works entered it on January 1, 2023. Use a copy whose score and titles you can trace. A newer score, added intertitles or a restoration's new material can still be protected. This holds for US use only."
+    ],
+    [
+      "Is the original soundtrack free too?",
+      "The Movietone music and effects were published with the 1927 release, so on our analysis they share the film's term expiry. Many online copies carry a different score. That score is its own recording, so check where it came from before you reuse it."
+    ]
+  ]
+}
