@@ -33,7 +33,7 @@
   },
   "catalogofcopyrig3131213li": {
    "ok": true,
-   "film": "any-old-port-1930",
+   "film": "white-zombie-1932",
    "kind": "evidence"
   },
   "silent-ben-hur-a-tale-of-the-christ-1925": {
@@ -271,7 +271,7 @@
    "film": "outside-the-law-1920",
    "kind": "watch"
   },
-  "774-plan-9-from-outer-space": {
+  "plan-9-from-outer-space": {
    "ok": true,
    "film": "plan-9-from-outer-space-1957",
    "kind": "watch"
@@ -660,6 +660,31 @@
    "ok": true,
    "film": "way-down-east-1920",
    "kind": "watch"
+  },
+  "white_zombie": {
+   "ok": true,
+   "film": "white-zombie-1932",
+   "kind": "watch"
+  },
+  "WhiteZombie1932": {
+   "ok": true,
+   "film": "white-zombie-1932",
+   "kind": "watch"
+  },
+  "catalogofcopyr3141213libr": {
+   "ok": true,
+   "film": "white-zombie-1932",
+   "kind": "evidence"
+  },
+  "magicisland00seab": {
+   "ok": true,
+   "film": "white-zombie-1932",
+   "kind": "evidence"
+  },
+  "white-zombie-bluray-pnm": {
+   "ok": true,
+   "film": "white-zombie-1932",
+   "kind": "evidence"
   }
  },
  "repaired": [],
