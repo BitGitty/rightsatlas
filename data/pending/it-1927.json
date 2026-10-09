@@ -1,0 +1,103 @@
+{
+  "id": "it-1927",
+  "title": "It",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-10-09",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released February 1927 (premiere Feb 5, 1927 in New York). Duke CSPD states that works from 1927 entered the US public domain on January 1, 2023, so the 1927 print is out of copyright by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work. The San Francisco Silent Film Festival lists a new restoration of It with music by the Mont Alto Motion Picture Orchestra, for its 2027 festival (March 11–14, 2027). That restoration is upcoming and has not yet been released or screened. Any recorded version of that score or any other modern score needs its own clearance.",
+          "source": "San Francisco Silent Film Festival, It preservation page",
+          "url": "https://silentfilm.org/preservation/it/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent Era credits Elinor Glyn with the original screen story and adaptation, with Hope Loring and Louis D. Lighton writing the scenario. The Internet Archive record also lists Glyn as story writer, with George Marion Jr. and Hope Loring as writers. I did not confirm the publication date of Glyn's underlying story or novella, so no term finding is made for the source.",
+          "source": "Silent Era Progressive Silent Film List",
+          "url": "https://3rada.silentera.com/PSFL/data/I/It1927.html"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The San Francisco Silent Film Festival page lists a restoration of It (marked 2026) with Film Preserve Ltd., Maltese Film Works, Paramount Pictures and the San Francisco Silent Film Festival as partners, and music by the Mont Alto Motion Picture Orchestra. Its festival premiere is listed for March 11–14, 2027, so it is not yet released. A faithful restoration adds no new US copyright in the film, but added scores, new titles or other new material can be protected.",
+          "source": "San Francisco Silent Film Festival, It preservation page",
+          "url": "https://silentfilm.org/preservation/it/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": "Not needed: the film was published in 1927 and is public domain by term, so no renewal search is required.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “It” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=It"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/it-1927",
+      "label": "It (1927) — Internet Archive",
+      "quality": "full-length transfer; the uploader says they upload the best possible copies available"
+    },
+    {
+      "url": "https://archive.org/details/it-comedy-1927",
+      "label": "It (1927) — Internet Archive, alternate copy",
+      "quality": "alternate upload"
+    }
+  ],
+  "editorial": "It (1927) is the Famous Players-Lasky/Paramount comedy that made Clara Bow the \"It Girl\". She plays Betty Lou, a shopgirl who sets her sights on her handsome boss, played by Antonio Moreno. Clarence Badger directed, and Josef von Sternberg is reported to have directed uncredited. Elinor Glyn, whose notion of \"it\" gave the film its title, wrote the story and adaptation; B.P. Schulberg was associate producer. It premiered in New York on February 5, 1927 and went into general release on February 19. A creator would want it for the flapper-era shop-floor romance, the cast, and a feature of roughly 72 minutes (runtime varies by copy and projection speed) that is easy to cut into clips.\n\nThe picture itself is free, because works from 1927 entered the US public domain on January 1, 2023. The trap is the layers around it. A new restoration, with a festival premiere listed for March 2027 and a Mont Alto Motion Picture Orchestra score, is the kind of release where the added music and any new titles or other additions will carry their own protection once it is out. Use a plain, unscored copy of the film, such as the Internet Archive copies, or commission your own music. I did not confirm when Glyn's underlying story was published, so check that if you plan to reuse the story outside the film.",
+  "faq": [
+    [
+      "Can I use clips from It (1927) in my own video?",
+      "Yes for the film's images. Works from 1927 are public domain in the US by term, so you can use footage from a plain copy such as the Internet Archive transfers. Do not lift the soundtrack from a modern release. The upcoming restoration is listed with music by the Mont Alto Motion Picture Orchestra, and a recording of it would be a separate work."
+    ],
+    [
+      "Is the upcoming restoration of It free to copy?",
+      "Do not assume so. A faithful restoration of a public-domain film adds no new US copyright to the film itself. But new scores, new or translated titles, colorization or other added material can be protected, and ripping a copy-protected disc can raise a DMCA anti-circumvention issue. The restoration is not yet released (festival premiere listed for March 11–14, 2027). Take the images from an unscored copy, or check exactly what was added before you reuse a restoration."
+    ]
+  ]
+}
