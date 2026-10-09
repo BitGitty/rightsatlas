@@ -1,0 +1,91 @@
+{
+  "id": "america-1924",
+  "title": "America",
+  "year": 1924,
+  "country": "US",
+  "last_verified": "2026-10-10",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released in 1924 in the US. Duke CSPD confirms that works from 1924 entered the US public domain on January 1, 2020, so the print is public domain by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was silent. The original 1924 score credited to Joseph Carl Breil and Adolph Fink (per Wikipedia) is not what you will hear on a modern copy. Any score added to a modern release is a separate recording or composition and may be protected. The Internet Archive item's metadata gives no score information.",
+          "source": "Wikipedia, America (1924 film); Internet Archive metadata",
+          "url": "https://archive.org/metadata/america_0"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is adapted from Robert W. Chambers' 1905 novel The Reckoning, a work from 1905. A US work from that year is in the public domain by term. Source: Internet Archive item metadata, which names the novel and year. I did not fetch a separate record for the novel itself.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/metadata/america_0"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1951,
+      1952,
+      1953
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “America” (renewals ~1951, 1952, 1953)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=America"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/america_0",
+      "label": "America (1924), D. W. Griffith, silent, about 139 minutes (Internet Archive)",
+      "quality": "Full-length scan. The metadata lists it as a silent film, also known as \"Love and Sacrifice\". It gives no score or restoration information."
+    }
+  ],
+  "editorial": "America is D. W. Griffith's 1924 Revolutionary War epic. United Artists released it on February 21, 1924, and Griffith's own company produced it. It is an adaptation of Robert W. Chambers' 1905 novel The Reckoning. The Internet Archive item, also titled \"Love and Sacrifice\", runs about 139 minutes. Wikipedia lists four credited cinematographers: George Bitzer, Marcel Le Picard, Hendrik Sartov and Harold S. Sintzenich. A creator can use the images freely. The print entered the US public domain by term on January 1, 2020, with the rest of 1924's works.\n\nThe trap is the music. The film is silent, so any soundtrack on a modern copy is a separate work. Wikipedia credits the original 1924 score to Joseph Carl Breil and Adolph Fink. A newer release may carry a different score, new intertitles or other added material, and those additions can be protected even though the 1924 images are not. Take the footage from a source whose score and titles you can clear, or add your own music. I found no restoration record, so I make no claim about one.",
+  "faq": [
+    [
+      "Can I use footage from America (1924) in my own video?",
+      "Yes for the 1924 images. The print entered the US public domain by term on January 1, 2020. Check the copy you take it from for a modern score, new titles or other added material, because those can still be protected."
+    ],
+    [
+      "Does the source novel affect my rights?",
+      "No. The film adapts Robert W. Chambers' 1905 novel The Reckoning, which is an older work than the film. I did not find any claim on the novel that restricts reuse of the 1924 film."
+    ]
+  ]
+}
