@@ -1,0 +1,103 @@
+{
+  "id": "love-1927",
+  "title": "Love",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-10-09",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released by MGM with a New York premiere on November 29, 1927. Works first published in 1927 entered the US public domain on January 1, 2023 by term, per Duke CSPD Public Domain Day 2023. No renewal question arises for a work whose term has expired.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1927 release was silent. Silent Era lists Ernst Luz as arranger of the music score and a theme song, 'That Melody of Love' (Walter Donaldson, lyrics Howard Dietz). Any score on a modern copy is a separate recording or arrangement and may be protected independently of the images. The 1928 reissue added synchronized music and effects. Check the credits of the specific copy.",
+          "source": "Silent Era film entry for Love (1927)",
+          "url": "https://silentera.com/PSFL/data/L/Love1927.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Leo Tolstoy's novel Anna Karenina (1877), which was published long before 1930 and is public domain in the US by term. The Duke CSPD page covers the 1927 publication year of the film itself.",
+          "source": "Duke CSPD Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent Era reports a 35mm positive print preserved at the George Eastman Museum. I found no modern restoration with added scores or titles to cite. A faithful copy of a public-domain print adds no new US copyright. Anything a distributor adds, such as a new score, new titles or colour, can be protected.",
+          "source": "Silent Era film entry for Love (1927)",
+          "url": "https://silentera.com/PSFL/data/L/Love1927.html"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Love” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Love"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/1-love-rec-20240208021455",
+      "label": "Love (1927) — Internet Archive",
+      "quality": "Uploaded copy titled Love (1927). Provenance and score are not documented, so check the copy before reuse."
+    },
+    {
+      "url": "https://archive.org/details/love_1928",
+      "label": "Love (1928 sound-reissue listing) — Internet Archive",
+      "quality": "About 81 minutes, credited to Edmund Goulding, with Frances Marion and Marian Ainslee as screenwriters. May be the 1928 version with synchronized score."
+    }
+  ],
+  "editorial": "Love is MGM's 1927 silent version of Tolstoy's Anna Karenina, directed by Edmund Goulding and starring Greta Garbo and John Gilbert, the pair from Flesh and the Devil (1926). It premiered in New York on November 29, 1927. The retitling from Anna Karenina to Love, the swap of director Dmitri Buchowetski for Goulding, and the replacement of Ricardo Cortez by Gilbert were all announced in June 1927. Silent Era notes that Irving Thalberg scrapped the earlier footage. A creator would want it for the Garbo–Gilbert pairing and for its place among Garbo's American silents.\n\nThe film's own copyright term ran out on January 1, 2023, and Tolstoy's 1877 novel is far older, so the picture and the story are free to use. The trap is the soundtrack. The film was reissued in 1928 with synchronized music and effects, and Silent Era credits an arranged score and the song 'That Melody of Love'. Many online copies carry a later recording or a newly composed score, and that audio is not covered by the film's expiry. Take the image from a clean print and either score it yourself or use music you can clear.",
+  "faq": [
+    [
+      "Can I reuse footage from Love (1927) in my own video?",
+      "Yes for the picture itself: it was published in 1927 and its US term has expired. Check the audio of the specific copy you take it from. A modern score, or the 1928 synchronized music, may be separately protected."
+    ],
+    [
+      "Does a restored or uploaded copy of Love carry its own copyright?",
+      "A faithful copy of the public-domain picture adds no new US copyright. New scores, titles, colour or other added material can be protected. Take your copy from a source that shows what was added, and do not rip a copy-protected disc, because that can breach 17 U.S.C. 1201."
+    ]
+  ]
+}
