@@ -3,7 +3,7 @@
   "title": "House on Haunted Hill",
   "year": 1959,
   "country": "US",
-  "last_verified": "2026-10-09",
+  "last_verified": "2026-10-10",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -89,16 +89,16 @@
   "watch": [
     {
       "url": "https://archive.org/details/house_on_haunted_hill_ipod",
-      "label": "Internet Archive (public domain)",
+      "label": "Internet Archive (public domain label)",
       "quality": "480p"
     },
     {
       "url": "https://archive.org/details/HouseOnHauntedHill1959",
-      "label": "Internet Archive (CC BY 3.0)",
+      "label": "Internet Archive (CC BY 3.0 label)",
       "quality": "480p"
     }
   ],
-  "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive. A creator can find ready-to-use prints there. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is not settled. A 1986 renewal, RE0000318809, was filed by Revival Pictures for a motion picture titled 'House on a haunted hill' from Allied Artists, and that title does not match the film exactly, so it is unclear whether it covers this film. The clear trap is the theme song. Its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723. It is protected whatever the status of the film print.",
+  "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive. A creator can find ready-to-use copies there. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is not settled. A 1986 renewal, RE0000318809, was filed by Revival Pictures for a motion picture titled 'House on a haunted hill' from Allied Artists, and that title does not match the film exactly, so it is unclear whether it covers this film. The clear trap is the theme song. Its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723. It is protected whatever the status of the film print.",
   "faq": [
     [
       "Can I upload or distribute the 1959 House on Haunted Hill?",
