@@ -3,7 +3,7 @@
   "title": "Plan 9 from Outer Space",
   "year": 1957,
   "country": "US",
-  "last_verified": "2026-10-08",
+  "last_verified": "2026-10-09",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -17,7 +17,7 @@
         },
         {
           "type": "cce_entry",
-          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958, Vol. 12 No. 1-2 (archive.org identifier catalogofcopyrig3121213li). The film was copyrighted in 1958 by Reynolds Pictures, Inc., so this is the registration-year volume. The March 1957 preview does not make 1957 the registration year. We confirmed the volume's title and year on its archive.org page, but we did not search its text for the film's entry in this session. The volume does not settle the renewal question, which depends on later Copyright Office records.",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (archive.org identifier catalogofcopyrig3121213li). We confirmed the volume's title and year on its archive.org page, but we did not search its text for the film's entry in this session. The volume does not settle the renewal question, which depends on later Copyright Office records.",
           "source": "Internet Archive / Library of Congress Copyright Office",
           "url": "https://archive.org/details/catalogofcopyrig3121213li"
         }
@@ -76,7 +76,7 @@
   },
   "watch": [
     {
-      "url": "https://archive.org/details/774-plan-9-from-outer-space",
+      "url": "https://archive.org/details/plan-9-from-outer-space",
       "label": "Internet Archive (opensource_movies)",
       "quality": "480p"
     }
