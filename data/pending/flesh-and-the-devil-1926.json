@@ -1,0 +1,98 @@
+{
+  "id": "flesh-and-the-devil-1926",
+  "title": "Flesh and the Devil",
+  "year": 1926,
+  "country": "US",
+  "last_verified": "2026-10-09",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released by MGM on December 25, 1926. Works published in 1926 entered the US public domain on January 1, 2022 by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2022",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2022/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images are free. Any score on a given copy is a separate work. One Internet Archive upload (thefleahandthedevil) carries an original score credited to its uploader, Edward Rolf Boensnes. The 2005 TCM DVD release also carries a score. Use a copy with no score, or clear or commission your own.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/thefleahandthedevil"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Adapted from Hermann Sudermann's novel The Undying Past (Es war), first published in the 1890s. That is well before the 1926 film, so the source is also out of copyright in the US.",
+          "source": "Wikipedia, Flesh and the Devil",
+          "url": "https://en.wikipedia.org/wiki/Flesh_and_the_Devil"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Restored and released on DVD with The Temptress in September 2005 in Turner Classic Movies' The Garbo Silents Collection. The DVD includes an alternative upbeat ending. A faithful restoration adds no US copyright in the picture itself. Added material such as a new score, new titles or the alternate ending may be protected. Do not rip the copy-protected disc (17 U.S.C. 1201).",
+          "source": "Wikipedia, Flesh and the Devil",
+          "url": "https://en.wikipedia.org/wiki/Flesh_and_the_Devil"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1953,
+      1954,
+      1955
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Flesh and the Devil” (renewals ~1953, 1954, 1955)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Flesh+and+the+Devil"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/rec-20231117144644",
+      "label": "Flesh and the Devil [1926], full feature, about 112 min (Internet Archive)",
+      "quality": "full feature; check which score, if any, is on this copy before reuse"
+    }
+  ],
+  "editorial": "Flesh and the Devil is a silent MGM drama directed by Clarence Brown. It stars Greta Garbo and John Gilbert, with Lars Hanson as the friend caught between them. It was released on December 25, 1926 and premiered at the Capitol Theatre in New York on January 9, 1927. The story comes from Hermann Sudermann's novel The Undying Past. In 2006 the film was selected for the National Film Registry. A creator would want it for the Garbo and Gilbert pairing and for its place in silent-era history.\n\nThe film was published in 1926, and works from that year entered the US public domain on January 1, 2022. The picture itself is free to reuse. The trap is what rides on top of a given copy. Many copies carry a modern score, and that score is a separate protected work. The 2005 TCM DVD restoration also adds an alternative upbeat ending and a score. Take a bare print, or pair the picture with music you have cleared or commissioned.",
+  "faq": [
+    [
+      "Can I use clips from Flesh and the Devil in my own video?",
+      "Yes for the picture. The 1926 film is in the US public domain by term, and so is its source novel. Check the copy you use. If it has a modern score or added titles, those parts may belong to whoever made them. Use a bare print or replace the music."
+    ],
+    [
+      "Is the 2005 TCM DVD version free to copy?",
+      "The underlying film is free. The disc is copy-protected, and ripping it can break 17 U.S.C. 1201. Its added material, such as the new score and the alternative ending, may be protected. Use an Internet Archive copy instead, and check which score it carries."
+    ]
+  ]
+}
