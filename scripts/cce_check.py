@@ -15,6 +15,7 @@ so this only ever adds a block, never a pass.
 import json
 import re
 import sys
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -65,16 +66,54 @@ def renewal_hits(title: str, year: int) -> list[str]:
     return hits
 
 
+API = "https://api.publicrecords.copyright.gov/search_service_external/simple_search_dsl"
+NUM = {"1": "one", "2": "two", "3": "three", "4": "four", "5": "five", "6": "six", "7": "seven", "8": "eight",
+       "9": "nine", "10": "ten", "12": "twelve", "13": "thirteen"}
+
+
+def _norm(t: str) -> str:
+    w = re.sub(r"[^a-z0-9 ]", " ", t.lower()).split()
+    w = [NUM.get(x, x) for x in w]
+    return " ".join(w[1:] if w and w[0] in ("the", "a", "an") else w)
+
+
+def online_hits(title: str, year: int) -> list[str]:
+    """Renewals filed 1978+ (films from 1950 on) live only in the Copyright Office's online records.
+    Search by title, both '9' and 'nine' spellings ('Plan nine from outer space', RE0000279707)."""
+    want, hits, seen = _norm(title), [], set()
+    for q in dict.fromkeys([title, " ".join(NUM.get(x, x) for x in title.split())]):
+        url = API + "?" + urllib.parse.urlencode({"page_number": 1, "query": q, "field_type": "keyword",
+                                                  "records_per_page": 100, "sort_order": "asc",
+                                                  "highlight": "false", "model": ""})
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 RightsAtlas"})
+        for h in json.load(urllib.request.urlopen(req, timeout=60)).get("data", []):
+            s = h.get("hit") or h
+            rn, rd = str(s.get("registration_number", "")), str(s.get("registration_date", ""))[:4]
+            if not rn.startswith("RE") or rn in seen or not rd.isdigit():
+                continue
+            if _norm(str(s.get("title_concatenated", ""))).startswith(want) and year + 25 <= int(rd) <= year + 30:
+                seen.add(rn)
+                kind = "film" if s.get("type_of_work") == "motion_picture" else "music/other"
+                hits.append(f"[{kind}] {rn} ({rd}): {str(s.get('title_concatenated'))[:90]} - {str(s.get('claimants_list'))[:80]}")
+    return hits
+
+
 def reasons(cand: dict) -> list[str]:
-    """Gate reasons: a PD print claim for a renewal-era film whose renewal shows up in the CCE."""
+    """Gate reasons: a PD print claim for a renewal-era film whose renewal shows up in the records."""
     y = int(cand.get("year") or 0)
-    if not (1931 <= y <= 1950) or cand.get("layers", {}).get("print", {}).get("status") not in PD_CLAIMS:
+    if not (1931 <= y <= 1963) or cand.get("layers", {}).get("print", {}).get("status") not in PD_CLAIMS:
         return []
-    try:
-        hits = renewal_hits(cand["title"], y)
-    except Exception as e:                     # archive.org down: say so, never pass silently
-        return [f"CCE renewal check could not run ({type(e).__name__}) - retry before publishing"]
-    return [f"CCE renewal list shows a renewal: {h}" for h in hits[:2]]
+    try:   # printed CCE carries renewals to 1977 (films to 1950); the online records carry 1978+
+        online = online_hits(cand["title"], y) if y >= 1949 else []
+        hits = (renewal_hits(cand["title"], y) if y <= 1950 else []) + [h for h in online if h.startswith("[film]")]
+    except Exception as e:                     # archive.org / copyright.gov down: say so, never pass silently
+        return [f"renewal check could not run ({type(e).__name__}) - retry before publishing"]
+    out = [f"copyright records show a renewal of the film: {h}" for h in hits[:2]]
+    # a renewed SONG from the film (Charade, McLintock) only matters if we call the music free
+    if cand["layers"].get("score", {}).get("status") in PD_CLAIMS:
+        out += [f"music layer claims PD but a song from the film was renewed: {h}"
+                for h in online if not h.startswith("[film]")][:2]
+    return out
 
 
 def audit() -> list[tuple]:
@@ -94,7 +133,9 @@ def check() -> None:
     assert reasons({"year": 1932, "title": "The Old Dark House", "layers": {"print": {"status": "verified_pd"}}})
     assert not reasons({"year": 1925, "title": "The Old Dark House", "layers": {"print": {"status": "verified_pd"}}}), \
         "pre-1931 films are free by term: no lookup"
-    print("cce_check self-check passed (Old Dark House renewal R258433 found)")
+    plan9 = online_hits("Plan 9 from Outer Space", 1957)
+    assert any("RE0000279707" in h and h.startswith("[film]") for h in plan9), f"must find the 1986 Plan 9 renewal online, got {plan9}"
+    print("cce_check self-check passed (Old Dark House R258433 in print, Plan 9 RE0000279707 online)")
 
 
 if __name__ == "__main__":
