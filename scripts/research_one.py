@@ -37,6 +37,7 @@ import cce_prefill                               # noqa: E402
 import qc_candidate                              # noqa: E402
 import promote_candidate                         # noqa: E402
 import seasons                                   # noqa: E402
+import cce_check                                 # noqa: E402
 
 QUEUE = ROOT / "data" / "queues" / "research_queue_500.json"
 FILMS = ROOT / "data" / "films"
@@ -334,6 +335,8 @@ def finish(cand: dict, verify=True):
     cand.pop("_prefill", None)
     cand["watch"] = [w for w in cand.get("watch", []) if not verify or archive_ok(w.get("url"))]
     reasons = qc_candidate.qc(cand) + promote_candidate.gate(cand)
+    if verify:   # never take "we searched the renewals" on the model's word (Old Dark House, 2026-10-10)
+        reasons += cce_check.reasons(cand)
     if verify:
         cited = {ev["url"] for L in cand.get("layers", {}).values()
                  for ev in L.get("evidence", []) if str(ev.get("url", "")).startswith("http")}
