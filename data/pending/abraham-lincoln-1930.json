@@ -1,0 +1,103 @@
+{
+  "id": "abraham-lincoln-1930",
+  "title": "Abraham Lincoln",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-10-10",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released August 25, 1930 by United Artists. A work published in 1930 entered the US public domain on January 1, 2026 by term, whatever happened to renewal.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "This is a 1930 sound film. The recorded track, including Hugo Riesenfeld's arrangements, was published with the film in 1930 and shares the film's status. A separate modern recording or new score added to a copy would be a different matter.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay is by Stephen Vincent Benét and Gerrit Lloyd and was published as part of the 1930 film. Its inspiration, Benét's poem 'John Brown's Body', dates from 1928. Both are 1930 or earlier.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is part of the D. W. Griffith collection at the Museum of Modern Art, donated by Paul Killiam. Wikipedia states that funding for the preservation of this film was provided by The Lillian Gish Trust for Film Preservation, The Film Foundation and the Hollywood Foreign Press Association. I could not confirm what that preservation work added, such as new titles or a new score. A faithful restoration adds no new US copyright, but any additions could be protected.",
+          "source": "Wikipedia, Abraham Lincoln (1930 film) (context only, not primary evidence)",
+          "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln_(1930_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Abraham Lincoln” (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Abraham+Lincoln"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/abraham-lincoln-1930-by-d.-w.-griffith",
+      "label": "Abraham Lincoln (1930), D. W. Griffith — Internet Archive, about 94 minutes",
+      "quality": "full-length copy"
+    },
+    {
+      "url": "https://archive.org/details/abraham-lincoln-1930",
+      "label": "Abraham Lincoln (1930) — Internet Archive, about 94 minutes",
+      "quality": "full-length copy"
+    }
+  ],
+  "editorial": "Abraham Lincoln was D. W. Griffith's first sound film, and one of only two he made. United Artists released it on August 25, 1930. Walter Huston plays Lincoln, Una Merkel plays Ann Rutledge, Kay Hammond plays Mary Todd and Ian Keith plays John Wilkes Booth. Stephen Vincent Benét, drawing on his poem 'John Brown's Body', wrote the screenplay with Gerrit Lloyd, and Karl Struss shot it. A creator gets a 94-minute biography that runs from the Rutledge romance through the Douglas debates and the Civil War to Ford's Theater. It works as a period piece and as footage for Lincoln or Civil War projects.\n\nThe print is free because it was published in 1930, which put it into the US public domain on January 1, 2026 by term. Several Internet Archive uploads claim it lapsed for lack of renewal, but you do not need that argument. The trap is the copy, not the film. MoMA holds the film in its Griffith collection, and its preservation was funded by The Lillian Gish Trust for Film Preservation, The Film Foundation and the Hollywood Foreign Press Association, according to Wikipedia. Any new titles, score or other added material on a restored copy could carry its own copyright, so check which source you are using. Griffith's name and the Lincoln title carry no film copyright, but I found no trademark information.",
+  "faq": [
+    [
+      "Can I use clips from the 1930 Abraham Lincoln in a commercial video?",
+      "The film's picture and recorded soundtrack were published in 1930, so they are in the US public domain by term. Use a copy that adds nothing new. Avoid any modern score, new titles or other additions on a restored edition unless you have cleared them."
+    ],
+    [
+      "Does it matter whether the copyright was renewed?",
+      "No. The film was published in 1930, so it entered the US public domain on January 1, 2026 by term. Whether a renewal was filed in the late 1950s no longer affects its US status."
+    ]
+  ]
+}
