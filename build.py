@@ -22,6 +22,8 @@ BASE = os.environ.get("BASE_URL", "/").rstrip("/") + "/"
 YEAR = date.today().year
 CUTOFF = engine.pd_cutoff_year()
 NEXT_CLASS = engine.next_pd_class_year()
+# lower-case so canonical/sitemap URLs match the Search Console property (bitgitty.github.io) exactly
+HOST = os.environ.get("SITE_ORIGIN", "https://example.org").lower()
 # Every "entering-public-domain-YYYY" page ever written stays built. The nav links next
 # January's class; until that page is written it falls back to the newest one, so the
 # Class-of page never 404s on Public Domain Day (it used to vanish on 1 January).
@@ -35,12 +37,78 @@ DISCLAIMER = (
     "other countries' terms differ. Verify independently before commercial use."
 )
 
+# the one real submission mechanism the site has today: a structured GitHub issue form.
+# Visitors do need a (free) GitHub account to file it — the /suggest/ page says so rather
+# than pretending otherwise.
+SUGGEST_URL = "https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
+
+# v3 sticky top nav (owner feature A). "class2027" always points at whichever
+# entering-public-domain-YYYY page is actually live (CLASS_YEAR, computed above).
+NAV = [
+    ("films", "Films", f"{BASE}films/"),
+    ("collections", "Collections", f"{BASE}collections/"),
+    ("class2027", f"Class of {CLASS_YEAR}", f"{BASE}entering-public-domain-{CLASS_YEAR}/"),
+    ("how", "How it works", f"{BASE}methodology/"),
+    ("corrections", "Corrections", f"{BASE}corrections/"),
+    ("suggest", "Suggestions", f"{BASE}suggest/"),
+]
+
+# short tab labels for the collections sub-nav (owner feature B) — real names/order,
+# keyed by the slugs data/collections.json actually defines.
+COLLECTION_SHORT = {
+    "halloween-horror": "Halloween",
+    "christmas-classics": "Christmas",
+    "thanksgiving": "Thanksgiving",
+    "new-years-eve": "New Year's Eve",
+    "valentines-romance": "Valentine's",
+    "independence-day-americana": "Independence Day",
+}
+
+# plain-English risk tag for the "Can I..." panel — derived straight from the
+# green/amber/red tier engine.guidance() already computes, not a new claim.
+RISK_TAG = {"green": "Lower risk", "amber": "Caution", "red": "Higher risk"}
+
 
 def e(s):
     return html.escape(str(s), quote=True)
 
 
-def page(title, desc, body, extra_head=""):
+def main_nav(current):
+    parts = []
+    for key, label, href in NAV:
+        cur = key == current
+        cls = "tab current" if cur else "tab"
+        aria = ' aria-current="page"' if cur else ""
+        parts.append(f'<a href="{href}" class="{cls}"{aria}>{e(label)}</a>')
+    return "".join(parts)
+
+
+def collections_subnav(collections, current_slug=None):
+    items = [("All collections", f"{BASE}collections/", current_slug is None)]
+    for c in collections:
+        items.append((COLLECTION_SHORT.get(c["slug"], c["h1"]),
+                      f"{BASE}collections/{c['slug']}/", c["slug"] == current_slug))
+    links = ""
+    for label, href, cur in items:
+        cls = "tab sub current" if cur else "tab sub"
+        aria = ' aria-current="page"' if cur else ""
+        links += f'<a href="{href}" class="{cls}"{aria}>{e(label)}</a>'
+    return f'<div class="subnav-wrap"><nav class="subnav" aria-label="Collections">{links}</nav></div>'
+
+
+def page(title, desc, body, extra_head="", nav=None, path="", subnav=""):
+    canon = f"{HOST}{BASE}{path}"
+    head = f"""<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="canonical" href="{canon}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="RightsAtlas">
+<meta property="og:title" content="{e(title)}">
+<meta property="og:description" content="{e(desc)}">
+<meta property="og:url" content="{canon}">
+<meta name="twitter:card" content="summary">
+{extra_head}"""
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -49,31 +117,32 @@ def page(title, desc, body, extra_head=""):
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
 <link rel="stylesheet" href="{BASE}assets/style.css">
-{extra_head}
+{head}
 </head>
 <body>
 <header class="top">
-  <a class="brand" href="{BASE}">Rights<span>Atlas</span></a>
-  <nav>
-    <a href="{BASE}films/">Films</a>
-    <a href="{BASE}entering-public-domain-{CLASS_YEAR}/">Class of {CLASS_YEAR}</a>
-    <a href="{BASE}collections/">Collections</a>
-    <a href="{BASE}methodology/">Methodology</a>
-    <a href="{BASE}corrections/">Corrections</a>
-    <a href="{BASE}about/">About</a>
-    <a class="nav-cta" href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
-       rel="nofollow">💡 Suggest</a>
-  </nav>
-</header>
+  <div class="topin">
+    <a class="brand" href="{BASE}">
+      <span class="bars" aria-hidden="true"><span class="b1"></span><span class="b2"></span><span class="b3"></span><span class="b4"></span><span class="b5"></span></span>
+      <span class="word">RightsAtlas</span>
+    </a>
+    <nav class="mainnav" aria-label="Main">{main_nav(nav)}</nav>
+  </div>
+{subnav}</header>
 <main>
 {body}
 </main>
 <footer>
-  <p class="disclaimer">{DISCLAIMER}</p>
-  <p>© {YEAR} RightsAtlas · research last reviewed dates shown per page ·
-     <a href="{BASE}methodology/">how verdicts work</a> ·
-     <a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
-        rel="nofollow">💡 Suggest a film or improvement</a></p>
+  <div class="footin">
+    <p class="disclaimer">{DISCLAIMER}</p>
+    <nav class="footnav" aria-label="Footer">
+      <a href="{BASE}methodology/">How it works</a>
+      <a href="{BASE}corrections/">Corrections</a>
+      <a href="{BASE}suggest/">Suggestions</a>
+      <a href="{BASE}about/">About</a>
+    </nav>
+  </div>
+  <p class="copyright">© {YEAR} RightsAtlas · research last-reviewed dates are shown per page.</p>
 </footer>
 <script>/* first-party analytics */(function(){{try{{fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/track_view",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null}}),keepalive:true}}).catch(function(){{}})}}catch(e){{}}}})();</script>
 </body>
@@ -98,15 +167,40 @@ def evidence_list(evidence):
 
 def film_page(f):
     g = engine.guidance(f)
-    layers_html = ""
-    for key, label in engine.LAYERS:
-        layer = f["layers"][key]
-        layers_html += f"""
-<tr>
-  <th>{e(label)}</th>
-  <td>{status_badge(layer["status"])}</td>
-  <td>{evidence_list(layer.get("evidence"))}</td>
-</tr>"""
+    decade = (f["year"] // 10) * 10
+    breadcrumb = (f'<nav class="breadcrumb" aria-label="Breadcrumb">'
+                  f'<a href="{BASE}films/">Films</a> / <a href="{BASE}films/{decade}s/">{decade}s</a> / '
+                  f'<span>{e(f["title"])}</span></nav>')
+
+    rf_rows = "".join(
+        f'<div class="rf-row"><span class="rf-label">{e(label)}</span>{status_badge(f["layers"][key]["status"])}</div>'
+        for key, label in engine.LAYERS)
+    rightsfacts = f"""<div class="rightsfacts" aria-label="Rights Facts for {e(f["title"])}">
+  <div class="rf-title">Rights Facts</div>
+  <div class="rf-head"><span>Layer</span><span>US status</span></div>
+  {rf_rows}
+  <p class="rf-note">Verified {e(f.get("last_verified", "—"))} · sources cited per layer · United States only</p>
+</div>"""
+
+    canpanel = f"""<div class="canpanel">
+  <h2>Can I…</h2>
+  <div class="qrow">
+    <div class="qhead"><h3>Watch it (stream the archival copy, share the link)?</h3>
+      <span class="risktag {g["watch"][0]}">{e(RISK_TAG[g["watch"][0]])}</span></div>
+    <p>{e(g["watch"][1])}</p>
+  </div>
+  <div class="qrow">
+    <div class="qhead"><h3>Reuse it (remix, upload, monetize)?</h3>
+      <span class="risktag {g["reuse"][0]}">{e(RISK_TAG[g["reuse"][0]])}</span></div>
+    <p>{e(g["reuse"][1])}</p>
+  </div>
+</div>"""
+
+    record_rows = "".join(f"""<details>
+  <summary>{e(label)} <span class="rtoggle">{status_badge(f["layers"][key]["status"])} ▾</span></summary>
+  <div class="recbody">{evidence_list(f["layers"][key].get("evidence"))}</div>
+</details>""" for key, label in engine.LAYERS)
+
     watch_html = ""
     for w in f.get("watch", []):
         watch_html += (f'<li><a href="{e(w["url"])}" rel="nofollow noopener">'
@@ -132,8 +226,10 @@ def film_page(f):
         ],
     }
     body = f"""
+{breadcrumb}
 <article class="dossier">
-<h1>Is <em>{e(f["title"])}</em> ({f["year"]}) public domain?</h1>
+<h1>{e(f["title"])}</h1>
+<p class="lead">Is <em>{e(f["title"])}</em> ({f["year"]}) public domain?</p>
 <p class="meta">Country of origin: {e(f.get("country", "US"))} · Last verified:
 {e(f.get("last_verified", "—"))} · Researched by RightsAtlas (AI-assisted, with automated evidence and fact checks)</p>
 
@@ -148,19 +244,16 @@ def film_page(f):
 the single most common cause of YouTube Content ID claims. Check every layer, not just the print.{
 '  <br><strong>Pre-1972 sound recordings</strong> can be protected under US state law and the Music Modernization Act until 2067 or later — the print being public domain does not free the recorded music.' if f["year"] < 1972 else ''}</div>
 
-<div class="guidance">
-  <div class="g {g["watch"][0]}"><strong>Watching:</strong> {e(g["watch"][1])}</div>
-  <div class="g {g["reuse"][0]}"><strong>Reusing / monetizing:</strong> {e(g["reuse"][1])}</div>
-</div>
-
-<p class="packet"><a href="{BASE}packets/{e(f["id"])}.md" rel="nofollow" download>📄 Download the print-layer research packet (Markdown)</a>
-<span class="packet-note">— citations you can attach to a dispute. Not legal advice; print layer only.</span></p>
-
-<h2 id="layers">Rights, layer by layer</h2>
 <p class="hint">A film is not one copyright — it is several. Each layer below
 can be free or protected independently. This is why one-click “public domain”
 answers are wrong so often.</p>
-<table class="layers">{layers_html}</table>
+<div class="layercols">{rightsfacts}{canpanel}</div>
+
+<p class="packet"><a href="{BASE}packets/{e(f["id"])}.md" rel="nofollow" download>📄 Download the print-layer research packet (Markdown)</a>
+<span class="packet-note">— citations you can attach to a dispute. Not legal advice; print layer only.</span>
+· <a href="{BASE}suggest/">Spotted an error? Send a correction</a></p>
+
+<section class="record"><h2 id="layers">The record behind each answer</h2>{record_rows}</section>
 {f'<h2>Automatic rule notes</h2><ul class="notes">{notes}</ul>' if notes else ''}
 
 {f'<h2>Watch it free (archival copies)</h2><ul class="watch">{watch_html}</ul>' if watch_html else ''}
@@ -174,7 +267,8 @@ answers are wrong so often.</p>
 <script type="application/ld+json">{json.dumps(ld)}</script>"""
     desc = (f'{f["title"]} ({f["year"]}) US copyright status, layer by layer, '
             f'with primary-source evidence and free legal watch links.')
-    return page(f'Is {f["title"]} ({f["year"]}) public domain? — RightsAtlas', desc, body)
+    return page(f'Is {f["title"]} ({f["year"]}) public domain? — RightsAtlas', desc, body,
+                nav="films", path=f"film/{f['id']}/")
 
 
 def index_page(films, backlog_count):
@@ -190,22 +284,26 @@ def index_page(films, backlog_count):
                   f'<strong>{e(f["title"])}</strong><span>{f["year"]}</span></a>')
     body = f"""{seasonal}
 <section class="hero">
-<h1>Can you legally use that film?</h1>
-<div class="hero-stat" style="text-align:center;margin:.6rem 0 1rem">
-  <span style="font-size:3rem;font-weight:800;line-height:1;color:#0d9488">{len(films)}</span>
-  <span style="display:block;font-size:.82rem;letter-spacing:.06em;text-transform:uppercase;opacity:.72">films fully researched</span>
-</div>
-<p id="ra-usage" style="text-align:center;margin:-.3rem 0 1.1rem;opacity:.75;font-size:.9rem;display:none">🔎 <strong id="ra-usecount">0</strong> research lookups and counting</p>
-<script>fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/stats",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas"}})}}).then(function(r){{return r.json()}}).then(function(n){{var el=document.getElementById("ra-usecount"),w=document.getElementById("ra-usage");if(el&&w&&Number(n)>0){{el.textContent=Number(n).toLocaleString();w.style.display="block";}}}}).catch(function(){{}});</script>
-<p>Evidence-backed public-domain research for creators — every verdict shows
-its receipts: renewal records, case law, and working archival links.
+<div class="hero-main">
+<p class="kicker">US film copyright, checked layer by layer</p>
+<h1>A film is not one copyright.</h1>
+<p class="lead">The picture can be free while the music, the story or the restoration is not.
+Every verdict here shows its receipts: renewal records, case law, and working archival links.
 No green checkmarks without proof.</p>
+<div class="hero-stat"><b>{len(films)}</b><span>films fully researched</span></div>
+<p id="ra-usage">🔎 <strong id="ra-usecount">0</strong> research lookups and counting</p>
+<script>fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/stats",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas"}})}}).then(function(r){{return r.json()}}).then(function(n){{var el=document.getElementById("ra-usecount"),w=document.getElementById("ra-usage");if(el&&w&&Number(n)>0){{el.textContent=Number(n).toLocaleString();w.style.display="block";}}}}).catch(function(){{}});</script>
 <p class="coverage"><strong>{len(films)} fully-researched dossiers</strong> ·
 <a href="{BASE}queue/">{backlog_count} titles in the research backlog</a>
 <span class="cov-note">(backlog = not yet researched — not a public-domain list)</span></p>
-<input id="q" type="search" placeholder="Search a film title…" autocomplete="off">
+<div class="searchwrap">
+<label for="q">Search a researched film</label>
+<div class="searchbox"><input id="q" type="search" placeholder="Search a film title…" autocomplete="off"></div>
 <label class="inclq"><input type="checkbox" id="inclq"> also search the unresearched backlog</label>
 <div id="results"></div>
+<p class="asksuggest">Not here yet? <a href="{BASE}suggest/">Ask us to research it</a>.</p>
+</div>
+</div>
 </section>
 <section>
 <h2>Researched films</h2>
@@ -220,18 +318,18 @@ January 1, {NEXT_CLASS + 96}. <a href="{BASE}entering-public-domain-{CLASS_YEAR}
 <h2>Missing a film? Spotted something wrong?</h2>
 <p>RightsAtlas grows from the community. Suggest a film to research, flag a broken
 link or error, or pitch a feature — it goes straight to our research queue.</p>
-<a class="suggest-btn" href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
-   rel="nofollow">💡 Suggest a film or improvement</a>
+<a class="suggest-btn" href="{BASE}suggest/">💡 Suggest a film or improvement</a>
 </section>"""
     extra = (f'<script src="{BASE}assets/fuse.min.js"></script>'
              f'<script src="{BASE}assets/search.js" defer></script>')
     return page("RightsAtlas — evidence-backed public domain checker for films",
                 "Layered US copyright status for classic films with primary-source "
                 "evidence, renewal records, and free legal watch links. Suggest a film "
-                "or improvement — the research queue is community-driven.", body, extra)
+                "or improvement — the research queue is community-driven.", body, extra,
+                nav=None, path="")
 
 
-def collection_page(c, by_id):
+def collection_page(c, by_id, collections):
     fs = sorted((by_id[i] for i in seasons.published(c, set(by_id))), key=lambda f: (f["year"], f["title"]))
     short = {"print": "Film print", "score": "Music", "story": "Story", "trademark": "Trademarks",
              "restorations": "Restorations"}
@@ -248,7 +346,9 @@ def collection_page(c, by_id):
 {rows}</table></div>
 <p class="backlink">{len(fs)} films · <a href="{BASE}collections/">all collections</a> ·
 <a href="{BASE}films/">all researched films</a></p>"""
-    return page(f'{c["title"]} ({YEAR}) — RightsAtlas', c["description"], body)
+    return page(f'{c["title"]} ({YEAR}) — RightsAtlas', c["description"], body,
+                nav="collections", path=f'collections/{c["slug"]}/',
+                subnav=collections_subnav(collections, c["slug"]))
 
 
 def collections_index(collections, by_id):
@@ -259,7 +359,9 @@ def collections_index(collections, by_id):
 <p>Classic films grouped by season and theme, each checked layer by layer.</p>
 <ul>{items}</ul>"""
     return page("Collections — RightsAtlas", "Seasonal and themed collections of classic films "
-                "with their US public-domain status, layer by layer.", body)
+                "with their US public-domain status, layer by layer.", body,
+                nav="collections", path="collections/",
+                subnav=collections_subnav(collections, None))
 
 
 def films_index(films):
@@ -274,9 +376,9 @@ def films_index(films):
     body = f"""<h1>All researched films</h1>
 <p class="decnav">Browse by decade: {dec_links}</p>
 <p class="sorthint">Click a column heading to sort.</p>
-<table class="listing" id="filmtable">
+<div class="tablewrap"><table class="listing" id="filmtable">
 <tr><th data-s="text">Title ↕</th><th data-s="num">Year ↕</th><th data-s="text">Origin ↕</th><th data-s="text">Film print status ↕</th></tr>
-{rows}</table>
+{rows}</table></div>
 <script>
 (function() {{
   var t = document.getElementById('filmtable'), asc = {{}};
@@ -295,7 +397,8 @@ def films_index(films):
   }});
 }})();
 </script>"""
-    return page("All films — RightsAtlas", "Every film researched by RightsAtlas.", body)
+    return page("All films — RightsAtlas", "Every film researched by RightsAtlas.", body,
+                nav="films", path="films/")
 
 
 def decade_hub(decade, films):
@@ -305,7 +408,10 @@ def decade_hub(decade, films):
         pl, cls = engine.public_label(f["layers"]["print"]["status"])
         cards += (f'<a class="card {cls}" href="{BASE}film/{f["id"]}/">'
                   f'<strong>{e(f["title"])}</strong><span>{f["year"]} · {e(pl)}</span></a>')
-    body = f"""<h1>{decade}s films — US copyright status</h1>
+    breadcrumb = (f'<nav class="breadcrumb" aria-label="Breadcrumb">'
+                  f'<a href="{BASE}films/">Films</a> / <span>{decade}s</span></nav>')
+    body = f"""{breadcrumb}
+<h1>{decade}s films — US copyright status</h1>
 <p>Evidence-backed US copyright status for {len(fs)} researched film{'s' if len(fs)!=1 else ''}
 from the {decade}s — each with primary-source citations and layer-by-layer verdicts. This is a
 research list, <strong>not</strong> a public-domain list: “Clear” means the film print is public
@@ -315,7 +421,8 @@ protected. Always check the music and story layers before reuse.</p>
 <p class="backlink"><a href="{BASE}films/">← all researched films</a></p>"""
     return page(f"{decade}s Films — US Copyright Status · RightsAtlas",
                 f"US copyright status of {decade}s films — layer-by-layer, evidence-backed, "
-                f"with renewal records and watch links. A research list, not a PD list.", body)
+                f"with renewal records and watch links. A research list, not a PD list.", body,
+                nav="films", path=f"films/{decade}s/")
 
 
 def queue_page(backlog):
@@ -328,10 +435,10 @@ def queue_page(backlog):
 <p class="hint">These are titles queued for future research. <strong>A row here means
 nothing about a film's copyright status</strong> — we have not verified it. Only the
 <a href="{BASE}films/">researched dossiers</a> carry evidence-backed conclusions.
-Want one prioritised? <a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml" rel="nofollow">Suggest it →</a></p>
-<table class="listing queue" id="queuetable">
+Want one prioritised? <a href="{BASE}suggest/">Suggest it →</a></p>
+<div class="tablewrap"><table class="listing queue" id="queuetable">
 <tr><th>Title</th><th>Year</th><th>Status</th></tr>
-{rows}</table>
+{rows}</table></div>
 <button id="qmore" type="button">Show more</button>
 <script>
 (function() {{
@@ -356,7 +463,7 @@ Want one prioritised? <a href="https://github.com/BitGitty/rightsatlas/issues/ne
     return page("Research backlog — RightsAtlas",
                 "Titles queued for future copyright research. Not a public-domain list — "
                 "no conclusions here, only researched dossiers carry verdicts.", body,
-                extra_head='<meta name="robots" content="noindex">')
+                extra_head='<meta name="robots" content="noindex">', nav="films", path="queue/")
 
 
 def corrections_page(corrections):
@@ -369,18 +476,48 @@ def corrections_page(corrections):
             rows += (f'<tr><td>{e(c["date"])}</td><td>{title}</td>'
                      f'<td>{e(c.get("layer", "—"))}</td>'
                      f'<td>{e(c["change"])}<div class="why">{e(c["why"])}</div></td></tr>')
-        table = (f'<table class="listing corrections"><tr><th>Date</th><th>Film</th>'
-                 f'<th>Layer</th><th>What changed &amp; why</th></tr>{rows}</table>')
+        table = (f'<div class="tablewrap"><table class="listing corrections"><tr><th>Date</th><th>Film</th>'
+                 f'<th>Layer</th><th>What changed &amp; why</th></tr>{rows}</table></div>')
     else:
         table = "<p>No corrections issued yet.</p>"
     body = f"""<h1>Corrections</h1>
 <p class="hint">When we get something wrong, we fix it in the open and log it here.
 A public correction is a health signal, not an embarrassment — it is how an
 evidence-first project earns trust. Spotted an error?
-<a href="https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml" rel="nofollow">Tell us →</a></p>
+<a href="{BASE}suggest/">Tell us →</a></p>
 {table}"""
     return page("Corrections — RightsAtlas",
-                "Every correction RightsAtlas has issued, with what changed and why.", body)
+                "Every correction RightsAtlas has issued, with what changed and why.", body,
+                nav="corrections", path="corrections/")
+
+
+def suggest_page(backlog_count):
+    kinds = [
+        ("A film to research", "A title you want checked, layer by layer."),
+        ("A correction", "Something on a page is wrong, outdated, or a link is dead."),
+        ("A feature or improvement idea", "A tool, or a better way to show the evidence."),
+        ("Something else", "Questions, partnerships, anything at all."),
+    ]
+    kind_html = "".join(f'<div class="skind"><h3>{e(k)}</h3><p>{e(h)}</p></div>' for k, h in kinds)
+    body = f"""<h1>Suggestions</h1>
+<p class="lead">A film to research, a mistake to fix, or an idea for the site — tell us directly.</p>
+<div class="suggestkinds">{kind_html}</div>
+<p><a class="suggest-btn" href="{SUGGEST_URL}" rel="nofollow">💡 Send a suggestion on GitHub</a></p>
+<p class="suggest-note">Opens a short structured form on GitHub — pick the kind of suggestion
+there (a free GitHub account is needed to submit it; it's the one submission channel the
+site has today).</p>
+
+<h2>What happens next</h2>
+<ol class="nextsteps">
+<li><b>1</b><span>We read every suggestion.</span></li>
+<li><b>2</b><span>Film requests join the <a href="{BASE}queue/">research backlog</a>
+({backlog_count} titles currently queued) and get a full layer-by-layer dossier before the
+page goes live.</span></li>
+<li><b>3</b><span>Corrections are fixed and logged on the <a href="{BASE}corrections/">Corrections</a> page.</span></li>
+</ol>"""
+    return page("Suggestions — RightsAtlas",
+                "Suggest a film to research, flag a correction, or pitch a feature for RightsAtlas.",
+                body, nav="suggest", path="suggest/")
 
 
 def build():
@@ -443,18 +580,21 @@ def build():
     (OUT / "collections" / "index.html").write_text(collections_index(collections, by_id), encoding="utf-8")
     for c in collections:
         (OUT / "collections" / c["slug"]).mkdir()
-        (OUT / "collections" / c["slug"] / "index.html").write_text(collection_page(c, by_id), encoding="utf-8")
+        (OUT / "collections" / c["slug"] / "index.html").write_text(
+            collection_page(c, by_id, collections), encoding="utf-8")
 
     extras = []
+    extra_nav = {"methodology": "how", "about": None}
     for extra in ("methodology", "about", *(f"entering-public-domain-{y}" for y in CLASSES)):
         src = ROOT / "content" / f"{extra}.html"
         if src.exists():
             extras.append(extra)
+            nav_key = extra_nav.get(extra, "class2027" if extra.startswith("entering-public-domain-") else None)
             d = OUT / extra
             d.mkdir(parents=True)
             title, _, rest = src.read_text(encoding="utf-8").partition("\n")
             (d / "index.html").write_text(
-                page(title.strip(), title.strip(), rest), encoding="utf-8")
+                page(title.strip(), title.strip(), rest, nav=nav_key, path=f"{extra}/"), encoding="utf-8")
 
     # research packets (generated by scripts/export_evidence.py --all) — served for download
     packets = ROOT / "packets"
@@ -470,27 +610,30 @@ def build():
     (OUT / "corrections").mkdir(parents=True, exist_ok=True)
     (OUT / "corrections" / "index.html").write_text(corrections_page(corrections), encoding="utf-8")
 
+    # on-site Suggestions page (v3 nav feature) — real explanation + the one real
+    # submission mechanism the site has (SUGGEST_URL), not a fabricated backend.
+    (OUT / "suggest").mkdir(parents=True, exist_ok=True)
+    (OUT / "suggest" / "index.html").write_text(suggest_page(len(backlog)), encoding="utf-8")
+
     # unified search index: verified dossiers + backlog rows (kind tags the section)
     search_idx = ([{"id": f["id"], "title": f["title"], "year": f["year"], "kind": "verified"} for f in films]
                   + [{"id": r["id"], "title": r["title"], "year": r["year"], "kind": "queue"} for r in backlog])
     (OUT / "assets" / "index.json").write_text(json.dumps(search_idx), encoding="utf-8")
 
-    urls = ([f"{BASE}", f"{BASE}films/"]
+    urls = ([f"{BASE}", f"{BASE}films/", f"{BASE}suggest/"]
             + [f"{BASE}films/{d}s/" for d in sorted(decades)]
             + [f"{BASE}film/{f['id']}/" for f in films]
             + [f"{BASE}{x}/" for x in extras + ["corrections", "collections"]]
             + [f"{BASE}collections/{c['slug']}/" for c in collections])
-    # lower-case so sitemap URLs match the Search Console property (bitgitty.github.io) exactly
-    host = os.environ.get("SITE_ORIGIN", "https://example.org").lower()
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-        + "".join(f"<url><loc>{host}{u}</loc></url>" for u in urls)
+        + "".join(f"<url><loc>{HOST}{u}</loc></url>" for u in urls)
         + "</urlset>", encoding="utf-8")
     # plain-text twin: Search Console has shown the XML one as "Couldn't fetch" since July; a new
     # URL in the simplest format Google accepts forces a fresh fetch
-    (OUT / "sitemap.txt").write_text("".join(f"{host}{u}\n" for u in urls), encoding="utf-8")
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {host}{BASE}sitemap.xml\n", encoding="utf-8")
+    (OUT / "sitemap.txt").write_text("".join(f"{HOST}{u}\n" for u in urls), encoding="utf-8")
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {HOST}{BASE}sitemap.xml\n", encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built {len(films)} dossiers -> {OUT} (cutoff year: {CUTOFF})")
 
