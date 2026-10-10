@@ -1,0 +1,85 @@
+{
+  "id": "shoulder-arms-1918",
+  "title": "Shoulder Arms",
+  "year": 1918,
+  "country": "US",
+  "last_verified": "2026-10-11",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released October 20, 1918 by First National Pictures, so US copyright term has expired by publication year; Duke CSPD confirms that works from 1928 entered the US public domain on January 1, 2024, and a 1918 work is older still.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is a silent. The images are free, but any music on a modern copy is a separate work or recording with its own status. Check the specific copy's credits.",
+          "source": "Wikipedia, Shoulder Arms (reference only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Shoulder_Arms"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Written, directed and produced by Charlie Chaplin as an original 1918 release. No pre-existing source work was identified, and the screenplay is covered by the same 1918 term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1945,
+      1946,
+      1947
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Shoulder Arms” (renewals ~1945, 1946, 1947)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Shoulder+Arms"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Shoulder Arms is Charlie Chaplin's second film for First National Pictures, a 36-minute silent comedy released on October 20, 1918. Chaplin wrote, directed and produced it, with Roland Totheroh behind the camera and Edna Purviance and Sydney Chaplin in the cast. He plays a doughboy in a World War I comedy, out of the Tramp costume. It is widely described as the first comedy about war, and it was his most popular film up to that point. A creator can use the footage as trench-warfare comedy or as period material from 1918.\n\nThe film's US copyright term has run out because of its 1918 publication, so the picture itself is free to reuse. The trap is in the copy. A silent film circulates with added music, and a modern scorer or restorer owns what they added, such as a new score, new title cards or colorization. Many online uploads are colorized or AI-upscaled versions, and those additions are not free. Work from a copy whose layers you can identify, and take the footage without the added music.",
+  "faq": [
+    [
+      "Can I use footage from Shoulder Arms in my own video?",
+      "The 1918 picture is out of copyright in the US because of its publication year. Use a copy without added material. A modern score, colorization or new intertitles on a given upload can still be protected."
+    ],
+    [
+      "Is the music on an online copy of Shoulder Arms free to use?",
+      "Not automatically. The film was silent, so any soundtrack on a modern copy was added later and may be someone's protected work. Use a copy with no music, or one that credits a public-domain or licensed score."
+    ]
+  ]
+}
