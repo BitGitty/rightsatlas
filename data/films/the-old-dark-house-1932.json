@@ -3,51 +3,44 @@
   "title": "The Old Dark House",
   "year": 1932,
   "country": "US",
-  "last_verified": "2026-10-06",
+  "last_verified": "2026-10-10",
   "byline": "Universal Pictures / James Whale, 1932 — copyright L 3321 not renewed; public domain since expiry of first 28-year term",
   "layers": {
     "print": {
-      "status": "verified_pd",
+      "status": "not_pd",
       "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Renewed. Catalog of Copyright Entries, Third Series, Vol. 14, Parts 12-13 (Jan-Dec 1960), renewal list: 'OLD DARK HOUSE, a photoplay in nine reels by Universal Pictures Corp. (c) 12Oct32; LP3321. Universal Pictures Co., Inc. (PWH); 17Jun60; R258433.' A renewed 1932 film is protected for 95 years from publication: it enters the US public domain on 1 January 2028.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 14, Parts 12-13 (1960)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
         {
           "type": "registration",
           "note": "Universal Pictures Corporation registered the film as 'The Old Dark House U.P. 9 Reels', registration L 3321, application received 1932-10-13, first published 1932-10-12. Establishes renewal window as calendar years 1959–1960.",
           "source": "U.S. Copyright Office Public Records System, card catalog record for L 3321",
           "url": "https://publicrecords.copyright.gov/application-card/card_catalog_CC18981937UNIVERSAL_PICTURES_CORP_I-T.0542"
-        },
-        {
-          "type": "cce_entry",
-          "note": "Searched the full-year CCE Third Series, Parts 12–13 (Motion Pictures and Filmstrips), Vol. 13, Nos. 1–2, covering January–December 1959 in its entirety. No renewal entry for 'The Old Dark House' or registration L 3321 was found.",
-          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan–Dec 1959, Vol. 13 Nos. 1–2 (Internet Archive identifier: catalogofcopyrig3131213li)",
-          "url": "https://archive.org/details/catalogofcopyrig3131213li"
-        },
-        {
-          "type": "cce_entry",
-          "note": "Searched the full-year CCE Third Series, Parts 12–13 (Motion Pictures and Filmstrips), Vol. 14, Nos. 1–2, covering January–December 1960 in its entirety. No renewal entry for 'The Old Dark House' or registration L 3321 was found. The volume contains 581 renewal registrations for Classes L and M; none is this title.",
-          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan–Dec 1960, Vol. 14 Nos. 1–2 (Internet Archive identifier: catalogofcopyr3141213libr)",
-          "url": "https://archive.org/details/catalogofcopyr3141213libr"
         }
       ]
     },
     "score": {
-      "status": "verified_pd",
+      "status": "not_pd",
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Old Dark House (1932) is a sound film. The synchronized music and dialogue track are incorporated within the original film registration L 3321 (Universal Pictures Corporation, 1932-10-13); no separate score registration was found. The recorded track shares the print's public domain status through non-renewal of L 3321, the same registration covering the entire photoplayed work.",
-          "source": "U.S. Copyright Office Public Records System, registration L 3321",
-          "url": "https://publicrecords.copyright.gov/application-card/card_catalog_CC18981937UNIVERSAL_PICTURES_CORP_I-T.0542"
+          "note": "The recorded soundtrack (dialogue and music) is part of the 1932 film, whose copyright was renewed in 1960 (R258433). It is protected until the film enters the US public domain on 1 January 2028.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 14, Parts 12-13 (1960)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
         }
       ]
     },
     "story": {
-      "status": "undetermined",
+      "status": "verified_pd",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "The film adapts J.B. Priestley's 1927 novel 'Benighted', published in the US in 1928 under the title 'The Old Dark House' (registration A 1018678, claimant John Boynton Priestley, publisher Harper & Brothers (New York), first published 1928-02-02; ad interim registration A int. 10487, dated 1927-12-23). Renewal of the 1928 US copyright would have been due in 1956. CCE Third Series, Part 1 (Books and Pamphlets), Vol. 10 Nos. 1 and 2 (Jan–Jun 1956 and Jul–Dec 1956; identifiers catalogofcopyrig3101lib and catalogofcopyrig3101libr) were searched but the OCR text returned was truncated before reaching the 'P' surname entries; a Priestley renewal could neither be confirmed nor ruled out. Status remains undetermined pending a targeted hand-check of the 1956 book renewal records.",
-          "source": "U.S. Copyright Office Public Records System, novel registration A 1018678",
-          "url": "https://publicrecords.copyright.gov/application-card/card_catalog_CC18981937PRIE-PRINCETON.0400"
+          "type": "term_expiry",
+          "note": "Based on J.B. Priestley's novel Benighted, first published in 1927 (UK) and in 1928 in the US as The Old Dark House. Works published in 1928 entered the US public domain on 1 January 2024, so the novel is free; material that exists only in the 1932 film is not free until 2028.",
+          "source": "17 U.S.C. 304 (95-year term)"
         }
       ]
     },
@@ -96,15 +89,15 @@
       "quality": "medium"
     }
   ],
-  "editorial": "Universal Pictures released The Old Dark House in October 1932, produced under James Whale's direction with a cast that includes Boris Karloff as the mute, brutish manservant Morgan, Charles Laughton, Raymond Massey, Gloria Stuart, and Melvyn Douglas. The film's copyright (registration L 3321, claimant Universal Pictures Corporation, first published 1932-10-12) was never renewed when it fell due in 1959–1960. The working explanation is that Universal had lost the adaptation rights in 1957—the 1963 remake was directed by William Castle, co-produced by William Castle Productions and Hammer Film Productions, and distributed by Columbia Pictures—and in the process destroyed most of its domestic prints; the title was commercially dead and no one bothered to file the renewal. Curtis Harrington discovered a surviving print in Universal's vaults in 1968 and persuaded George Eastman House to finance restoration of the film. The full nine-reel sound print—dialogue, musical accompaniment, all original footage—is free to screen, broadcast, or redistribute from a public-domain source.\n\nThe rights trap to avoid is the Blu-ray restoration circuit. A 1080p Blu-ray–sourced file (6.5 GB Matroska) circulates on Archive.org as of 2026, indicating that a commercial restoration has been pressed to disc. A faithful scan of a public-domain film adds no new US copyright under Feist and Bridgeman v. Corel, but the physical disc is separately shielded by DMCA anti-circumvention (17 U.S.C. § 1201), and any bonus material on the disc carries its own copyright. Use the 2018 Archive.org copy (identifier TheOldDarkHouse, explicitly marked Public Domain Mark 1.0) rather than a disc rip. One further open question: the 1928 US copyright on Priestley's source novel (registration A 1018678) may or may not have been renewed in 1956; anyone planning a new adaptation that draws on the novel beyond the film should verify the 1956 CCE book renewal records before proceeding.",
+  "editorial": "Universal Pictures released The Old Dark House in October 1932, produced under James Whale's direction with a cast that includes Boris Karloff as the mute, brutish manservant Morgan, Charles Laughton, Raymond Massey, Gloria Stuart, and Melvyn Douglas. Universal registered the copyright (LP3321, published 12 October 1932) and renewed it on 17 June 1960 (R258433), so the film stays protected in the US until it enters the public domain on 1 January 2028. Curtis Harrington discovered a surviving print in Universal's vaults in 1968 and persuaded George Eastman House to finance restoration of the film. Some online copies are labelled public domain; for this film that label is wrong until 2028, so screening, streaming or redistributing it needs permission from the rights holder until then.\n\nThe rights trap to avoid is the Blu-ray restoration circuit. A 1080p Blu-ray–sourced file (6.5 GB Matroska) circulates on Archive.org as of 2026, indicating that a commercial restoration has been pressed to disc. A faithful scan of a public-domain film adds no new US copyright under Feist and Bridgeman v. Corel, but the physical disc is separately shielded by DMCA anti-circumvention (17 U.S.C. § 1201), and any bonus material on the disc carries its own copyright. Use the 2018 Archive.org copy (identifier TheOldDarkHouse, explicitly marked Public Domain Mark 1.0) rather than a disc rip. One further open question: the 1928 US copyright on Priestley's source novel (registration A 1018678) may or may not have been renewed in 1956; anyone planning a new adaptation that draws on the novel beyond the film should verify the 1956 CCE book renewal records before proceeding.",
   "faq": [
     [
       "Can I screen, stream, or redistribute this film?",
-      "Yes — the 1932 print is public domain in the US; Universal's copyright (registration L 3321) was not renewed during the 1959–1960 renewal window. Use a clean, open-source copy such as the Archive.org item at archive.org/details/TheOldDarkHouse, which is marked Public Domain Mark 1.0. Do not source a copy from a commercial Blu-ray rip: circumventing disc copy-protection is prohibited under 17 U.S.C. § 1201 even when the underlying film is public domain."
+      "Not yet. Universal renewed the copyright on 17 June 1960 (R258433), so the film is protected in the US until 1 January 2028. Some online copies are labelled public domain; that label is wrong for this film until then."
     ],
     [
       "Can I write a new adaptation drawing on the Priestley source novel?",
-      "Story elements as captured in the public-domain film are free to use. If your adaptation draws on content from Priestley's novel 'Benighted' (US publication 1928, registration A 1018678) that goes beyond what appears in the film, you should first check whether the 1928 US copyright was renewed in 1956 — that renewal status could not be confirmed from available records during this research session."
+      "Yes, from the novel. Priestley's Benighted (US edition 1928, as The Old Dark House) has been public domain in the US since 1 January 2024. Just don't copy material that exists only in the 1932 film before 2028."
     ]
   ]
 }
