@@ -3,7 +3,7 @@
   "title": "The Monster",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-10-09",
+  "last_verified": "2026-10-10",
   "byline": null,
   "layers": {
     "print": {
@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The Monster was published in 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021.",
+          "note": "The Monster was released in 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021.",
           "source": "Duke CSPD Public Domain Day 2021 (works from 1925)",
-          "url": "https://cspd.law.duke.edu/publicdomainday/2021/"
+          "url": "https://cspd.law.duke.edu//publicdomainday/2021/"
         }
       ]
     },
@@ -31,7 +31,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film adapts Crane Wilbur's play of the same name, which opened on Broadway on August 9, 1922. Whether the play script was published or registered, and so what its US term is, was not confirmed. A play that was never published may still be protected for the author's life plus 70 years, so the source play is not treated as cleared."
+          "note": "The film is based on a 1922 play of the same name by Crane Wilbur. Whether the play script was published or registered, and so what its US term is, was not confirmed. An unpublished play may be protected for the author's life plus 70 years, so the source play is not treated as cleared."
         }
       ]
     },
@@ -61,7 +61,7 @@
       "quality": "Internet Archive item; metadata confirms the 1925 Roland West film starring Lon Chaney, about 86 minutes"
     }
   ],
-  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West, with Lon Chaney in the cast. It is adapted from Crane Wilbur's play of the same name, which opened on Broadway on August 9, 1922. Reusers would want it for the Chaney performance and its early 'old dark house' setting.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications has expired. The trap is the layers around the print. Any score on a modern copy is a separate work. The source play by Crane Wilbur was staged in 1922, and whether it was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
+  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and starring Lon Chaney as Dr. Gustave Ziska, with Johnny Arthur as an amateur detective. It was produced by Roland West Productions and Tec-Art and distributed by Metro-Goldwyn-Mayer. A creator would want it for the Chaney performance and its early old-dark-house comedy-horror mix.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications expired at the end of 2020. The trap is the layers around the print. Any score on a modern copy is a separate work. The film adapts Crane Wilbur's 1922 play, and whether that play was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
   "faq": [
     [
       "Can I use footage from The Monster (1925) in my own video?",
