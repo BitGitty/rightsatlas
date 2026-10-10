@@ -87,7 +87,26 @@ def gather() -> dict:
         "ci": ci,
         "lanes": lanes(today),
         "renewal_audit": renewal_audit(),
+        "suggestions": new_suggestions(),
     }
+
+
+def new_suggestions():
+    """Visitor suggestions from the on-site form in the last 24 h (Supabase site_suggestions).
+    None = could not read (shown as a WARN, never as 'none')."""
+    sql = ("select kind, coalesce(film,''), coalesce(year,''), coalesce(page,''), "
+           "left(replace(coalesce(message,''), chr(10), ' '), 160), (email is not null and email <> '') "
+           "from site_suggestions where ts > now() - interval '1 day' order by ts")
+    try:
+        out = subprocess.run([sys.executable, "D:/roomkaki/backend/run_sql.py", "-c", sql], capture_output=True,
+                             text=True, encoding="utf-8", errors="replace", timeout=60).stdout.splitlines()
+    except Exception:
+        return None
+    if not out or not out[0].startswith("OK"):
+        return None
+    rows = [r.split(" | ") for r in out[2:] if " | " in r]
+    return [f"[{k}] " + " ".join(x for x in (f, f"({y})" if y else "", p, m) if x).strip()
+            + (" · wants a reply" if e.strip() == "t" else "") for k, f, y, p, m, e in rows]
 
 
 SHORTS = Path("D:/viral-shorts-factory/extras/rightsatlas_shorts")
@@ -180,6 +199,11 @@ def evaluate(f: dict):
         fails.append(f"last site build: {ci.get('conclusion')}")
     ln, stale = f.get("lanes") or {}, (date.fromisoformat(f["today"]) - timedelta(days=2)).isoformat()
     if ln:
+        sg = f.get("suggestions", [])
+        if sg is None:
+            warns.append("could not read visitor suggestions (Supabase)")
+        elif sg:
+            lines.append(f"Visitor suggestions (24 h): {len(sg)}\n  - " + "\n  - ".join(sg[:10]))
         lines.append(f"Promotion: Shorts last {ln.get('shorts') or 'never'} · comments last "
                      f"{ln.get('comments') or 'never'} · Reddit check {ln.get('reddit') or 'never'}")
         if not ln.get("shorts") or ln["shorts"] < stale:
