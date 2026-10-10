@@ -1,0 +1,91 @@
+{
+  "id": "janice-meredith-1924",
+  "title": "Janice Meredith",
+  "year": 1924,
+  "country": "US",
+  "last_verified": "2026-10-10",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released December 8, 1924 in the US. Works published in 1924 entered the US public domain on January 1, 2020, per Duke CSPD Public Domain Day 2020.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film. The 1924 images are free, but any score on a modern copy is a separate recording or composition and may be protected. The Internet Archive copy's metadata does not specify any score.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/janice-meredith-metro-goldwyn-1924"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from Paul Leicester Ford's 1899 novel (Dodd, Mead, New York). Ford died in 1902. An 1899 publication is public domain in the US by term. The 1900 stage play version is also long past term.",
+          "source": "Internet Archive scan of the 1899 first edition",
+          "url": "https://archive.org/details/janicemeredithst0001ford"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1951,
+      1952,
+      1953
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Janice Meredith” (renewals ~1951, 1952, 1953)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Janice+Meredith"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/janice-meredith-metro-goldwyn-1924",
+      "label": "Janice Meredith aka The Beautiful Rebel (1924) — Internet Archive",
+      "quality": "Full feature, roughly 140 minutes. Described as a silent print. Check the score before you reuse the audio."
+    }
+  ],
+  "editorial": "Janice Meredith is a 1924 silent historical romance. E. Mason Hopper directed it and William Randolph Hearst produced it through Cosmopolitan. Metro-Goldwyn distributed it, and it was released December 8, 1924. Marion Davies plays the daughter of a loyalist family caught up in the American Revolution. W.C. Fields makes his feature debut as a British sergeant, and Joseph Kilgour plays George Washington. It is a ready source of period Revolutionary War footage, and a Fields debut is a useful hook for a documentary or a compilation.\n\nThe film is based on Paul Leicester Ford's 1899 novel, which is also past its term. The picture itself was published in 1924 and is public domain by term. The trap is the audio. A silent film's footage is free, but any orchestral track on a copy you download is a separate recording and may be protected. The surviving print is reportedly the British release, titled The Beautiful Rebel, so its intertitles may differ from the American cut. Any newly written or translated titles added by a modern distributor are also separate material.",
+  "faq": [
+    [
+      "Can I reuse footage from Janice Meredith (1924)?",
+      "Yes for the images. The film was published in 1924 and is public domain in the US by term. Check the music track on whichever copy you use, because a score added to a modern copy is a separate work."
+    ],
+    [
+      "Does the underlying novel create a problem?",
+      "No. The film adapts Paul Leicester Ford's 1899 novel, which is also public domain in the US by term."
+    ]
+  ]
+}

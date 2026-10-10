@@ -1,0 +1,98 @@
+{
+  "id": "old-ironsides-1926",
+  "title": "Old Ironsides",
+  "year": 1926,
+  "country": "US",
+  "last_verified": "2026-10-10",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released in the US on 6 December 1926 by Paramount. Works published in 1926 passed out of US copyright by term on 1 January 2022 (95-year term).",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2022",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2022/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The 1926 theatrical score (credited to Hugo Riesenfeld and J. S. Zamecnik) was published in 1926, but any score on a modern copy is a separate recording or arrangement and may be protected. I did not check the rights status of any specific score.",
+          "source": "Wikipedia, Old Ironsides (film)",
+          "url": "https://en.wikipedia.org/wiki/Old_Ironsides_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I could not confirm from a fetched page what source material the screenplay drew on. The one tie-in I found is the novelization 'Sons of the Sea' by A.M.R. Wright, published for the film's English release. I did not establish its date or status.",
+          "source": "Wikipedia, Old Ironsides (film)",
+          "url": "https://en.wikipedia.org/wiki/Old_Ironsides_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "MoMA exhibited a restored 35mm print in December 2008. A faithful restoration adds no new US copyright, but any new score, titles or added material in a restored edition could be protected. I did not confirm the contents of that restoration.",
+          "source": "Wikipedia, Old Ironsides (film)",
+          "url": "https://en.wikipedia.org/wiki/Old_Ironsides_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1953,
+      1954,
+      1955
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Old Ironsides” (renewals ~1953, 1954, 1955)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Old+Ironsides"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/old-ironsides-1926-by-james-cruze",
+      "label": "Old Ironsides (1926), dir. James Cruze, Internet Archive (about 115 min, listed as 1080p)",
+      "quality": "HD, per Internet Archive metadata"
+    }
+  ],
+  "editorial": "Old Ironsides is a Paramount silent epic directed by James Cruze. It dramatizes the USS Constitution and the young US Navy's fight against the Barbary pirates. It premiered at New York's Rialto Theater on 6 December 1926. It used Paramount's Magnascope process to enlarge the screen image for selected sequences. For a creator it offers period naval spectacle, full-length and from the silent era, and the Internet Archive hosts a roughly 115-minute copy.\n\nThe film's 1926 publication means the picture itself is free in the US by term, and no renewal search is needed. The trap is everything attached to a particular copy. Any score on a modern copy is a separate recording or arrangement, and the original theatrical score is credited to Hugo Riesenfeld and J. S. Zamecnik. MoMA has shown a restored 35mm print, and a restored edition may add new titles or music. Take the images from a source whose soundtrack and added material you have cleared. I could not confirm what the screenplay was based on, so the story layer stays open.",
+  "faq": [
+    [
+      "Can I reuse footage from Old Ironsides in my own video?",
+      "Yes for the images. The film was published in 1926, so the print is out of US copyright by term. Check each source copy for a modern score, new title cards or added material. Those additions can be protected even though the film is not."
+    ],
+    [
+      "Is the music on a modern copy free to use?",
+      "Not automatically. The film is silent, and the original 1926 score is credited to Hugo Riesenfeld and J. S. Zamecnik. A score on a modern release is a separate recording or arrangement that may be protected. Use a copy with no score, or one whose music you have cleared."
+    ]
+  ]
+}
