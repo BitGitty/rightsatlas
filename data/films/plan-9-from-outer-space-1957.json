@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A web search turned up a report that Wade Williams claims to own the copyright, having renewed it in 1986. The same source says the film's ownership has been questioned. Earlier research recorded the renewal number RE0000279707. We could not confirm that number or open the renewal record in this session, because the Copyright Office catalog cannot be searched automatically. We found no court ruling or Copyright Office decision that settles whether any renewal is valid. The Public Domain Review lists the film as public domain, but it cites no renewal search. Because the renewal question is unresolved, this layer stays undetermined.",
+          "note": "A web search turned up a report that Wade Williams claims to own the copyright, having renewed it in 1986. The same source says Williams's ownership has been questioned, and that he may hold rights only in the screenplay rather than the film. We could not open a renewal record in the Copyright Office catalog in this session, because it cannot be searched automatically, so we could not confirm or rule out a renewal. We found no court ruling or Copyright Office decision that settles whether any renewal is valid. The Public Domain Review lists the film's underlying-work rights status as 'PD U.S.' but cites no renewal search. Because the renewal question is unresolved, this layer stays undetermined.",
           "source": "U.S. Copyright Office Public Records System",
           "url": "https://publicrecords.copyright.gov/"
         },
@@ -61,7 +61,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new US copyright. Slavish reproduction of public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Original additions such as a new score, colorization, or new titles and subtitles can be protected. Colorized versions of this film are reported to exist, and colorization is protected on its own. Use archival prints rather than ripping a commercial disc, because ripping a copy-protected disc can implicate 17 U.S.C. § 1201.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright. Slavish reproduction of public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Original additions such as a new score, colorization, or new titles and subtitles can be protected. Use archival prints rather than ripping a commercial disc, because ripping a copy-protected disc can implicate 17 U.S.C. § 1201.",
           "source": "Bridgeman Art Library v. Corel Corp.",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
@@ -81,15 +81,15 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "Plan 9 from Outer Space is an Ed Wood science-fiction horror film. Wood wrote and directed it. Extraterrestrials try to stop humans from building a doomsday weapon by resurrecting the dead. Bela Lugosi gets posthumous billing, using silent footage Wood shot before Lugosi died in 1956 for other unfinished projects. A creator might want it for its cult reputation and its place in 'worst film ever made' lore. The Internet Archive hosts it and the Public Domain Review lists it as public domain.\n\nThe rights trap is the renewal. A search turned up a report that Wade Williams claims to own the copyright, having renewed it in 1986. Earlier research recorded the renewal number RE0000279707, which we could not re-confirm. Some commentators doubt Williams's ownership. We found no ruling that settles the point. Treat the film as possibly still protected, and get advice before reusing footage commercially.",
+  "editorial": "Plan 9 from Outer Space is an Ed Wood science-fiction horror film. We date it to 1957, when it premiered under the title 'Grave Robbers from Outer Space' (Wikipedia gives March 15, 1957, at the Carlton Theatre in Los Angeles). It was later retitled 'Plan 9 from Outer Space'. The Public Domain Review catalogs it as '1959', which is why that year appears in its URL; sources differ on the year of the retitled general release, so we do not rely on one. Wood wrote and directed it. Bela Lugosi is billed posthumously, using silent footage Wood shot for other unfinished projects just before Lugosi died in 1956. A creator might want it for its cult reputation and its place in 'worst film ever made' lore. The Internet Archive hosts a copy, and the Public Domain Review lists the underlying work's rights status as 'PD U.S.'\n\nThe rights trap is the renewal. A web search turned up a report that Wade Williams claims to own the copyright, having renewed it in 1986. The same report questions that claim and suggests Williams may hold the screenplay copyright rather than the film's. We found no ruling that settles the point and could not check the Copyright Office renewal records ourselves. Treat the film as possibly still protected, and get advice before reusing footage commercially.",
   "faq": [
     [
       "Can I use Plan 9 from Outer Space footage in my own film or video?",
-      "Not safely, as far as we can verify. Wade Williams is reported to claim a 1986 renewal, and earlier research recorded the number RE0000279707. Some doubt its validity, but we found no ruling that settles it, so the status is undetermined. Get advice before reusing footage."
+      "Not safely, as far as we can verify. Wade Williams is reported to claim a 1986 renewal. Some doubt its validity, but we found no ruling that settles it, so the status is undetermined. Get advice before reusing footage commercially."
     ],
     [
-      "Is a colorized version of Plan 9 public domain too?",
-      "No. Colorization adds new creative authorship that is protected on its own, whatever the status of the original black-and-white film. A colorized copy may be off-limits even if the original turns out to be free to use."
+      "Does an Internet Archive copy or a CC0 label mean I can reuse it?",
+      "No. A hosting label on an uploaded copy does not decide the film's copyright status. The renewal question stays open whatever label an uploader chose, and any added material such as a new score, colorization or new titles can be protected on its own."
     ]
   ]
 }
