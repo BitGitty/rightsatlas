@@ -1,0 +1,92 @@
+{
+  "id": "the-yankee-clipper-1927",
+  "title": "The Yankee Clipper",
+  "year": 1927,
+  "country": "US",
+  "last_verified": "2026-10-11",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released May 7, 1927 by Producers Distributing Corporation. Duke CSPD states that copyrighted works from 1927 entered the US public domain on January 1, 2023.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images are free. The best-known restored release, Flicker Alley's Under Full Sail set, carries an organ accompaniment by Dennis James on a 1928 Wurlitzer. That recording is a separate modern work and is not free to reuse.",
+          "source": "Gartenberg Media, Under Full Sail",
+          "url": "https://www.gartenbergmedia.com/dvd-distribution-and-sales/film-history-documentaries/under-full-sail"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Story is credited to Denison Clift, with adaptation by Garrett Fort and Garnett Weston and titles by John W. Krafft. I did not find a prior published source work, but I could not confirm that the story was original to the film.",
+          "source": "Wikipedia (credits only, not used as primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Yankee_Clipper_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Flicker Alley restored the film and released it in the Under Full Sail DVD set, in tinted black and white at 81 minutes, with a new Dennis James organ score. A faithful restoration of the images adds no new US copyright. The new score, any new or added titles and the packaging or bonus material can be protected. Copy-protected discs should not be ripped (17 U.S.C. 1201).",
+          "source": "Gartenberg Media, Under Full Sail",
+          "url": "https://www.gartenbergmedia.com/dvd-distribution-and-sales/film-history-documentaries/under-full-sail"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Yankee Clipper” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Yankee+Clipper"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Yankee Clipper is an 88-minute silent sea adventure directed by Rupert Julian and produced by Cecil B. DeMille. Producers Distributing Corporation released it on May 7, 1927. William Boyd plays the Yankee skipper Hal Winslow, racing a British rival from Foo Chow to Boston in the China tea trade, opposite Elinor Fair. The film was shot aboard real 19th-century square-riggers, including the 1856 ship Indiana. Moviessilently describes it as costing over $400,000 and earning about $288,000 at the box office. That real-ship footage is why a creator would want it: tall-ship material that can't be staged today.\n\nThe rights trap is the version, not the picture. The 1927 images are free by term. The copy most people can get in good quality is Flicker Alley's restoration in the Under Full Sail set, which has Dennis James's organ score, and that score and any added material belong to others. Reuse the images from a copy without that score, or pair them with your own music. Don't rip the commercial disc. The story credit is to Denison Clift, and I could not confirm whether that story appeared anywhere before the film.",
+  "faq": [
+    [
+      "Can I use The Yankee Clipper (1927) in my own video?",
+      "The film's images are free in the US, because a 1927 release has passed its copyright term (Duke CSPD lists 1927 works as entering the public domain on January 1, 2023). The Flicker Alley restoration adds a Dennis James organ score and other material that may still be protected. Use a copy without that score, or add your own music."
+    ],
+    [
+      "Is the Flicker Alley restoration of The Yankee Clipper free to copy?",
+      "Not as a whole. A faithful restoration of the images adds no new US copyright. The new organ score and any added titles or bonus material in the Under Full Sail set can be protected. The disc is also copy-protected, and ripping it may break 17 U.S.C. 1201."
+    ]
+  ]
+}
