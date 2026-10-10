@@ -86,6 +86,7 @@ def gather() -> dict:
                         if l.endswith(".json")]),
         "ci": ci,
         "lanes": lanes(today),
+        "renewal_audit": renewal_audit(),
     }
 
 
@@ -111,6 +112,16 @@ def lanes(today: date) -> dict:
             "reddit": reddit}
 
 
+def renewal_audit():
+    """Live/pending pages whose PD claim the renewal records contradict (Old Dark House, Shadow
+    Returns, 2026-10-10). None = the check could not run (never read as clean)."""
+    try:
+        import cce_check
+        return [f"{r[1]}: {r[3][:160]}" for r in cce_check.audit()]
+    except Exception:
+        return None
+
+
 def evaluate(f: dict):
     """facts -> (verdict, lines). FAIL beats WARN beats OK; unknown is never OK."""
     fails, warns, lines = [], [], []
@@ -122,6 +133,11 @@ def evaluate(f: dict):
         warns.append(f"research ran but all {len(blocked)} title(s) were blocked")
     if not f["made_2d"]:
         fails.append("nothing researched or refreshed in 2 days (check logs/daily_research.log)")
+    ra = f.get("renewal_audit", [])
+    if ra is None:
+        warns.append("renewal audit could not run (archive.org / copyright.gov unreachable)")
+    for r in ra or []:
+        fails.append(f"page claims PD but a renewal is on record - {r}")
     refreshed = [r["id"] for r in f["runs_today"] if r["result"] == "refreshed"]
     for r in f["runs_today"]:          # Plan 9 went Clear on a model's legal opinion (AGF P2b, 2026-10-07)
         if r["result"] == "refreshed" and r.get("reasons"):
