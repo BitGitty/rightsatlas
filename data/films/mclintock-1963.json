@@ -3,7 +3,7 @@
   "title": "McLintock!",
   "year": 1963,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-10",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -18,8 +18,14 @@
       ]
     },
     "score": {
-      "status": "undetermined",
+      "status": "partially_protected",
       "evidence": [
+        {
+          "type": "renewal_registration",
+          "note": "The film's theme was renewed as a separate musical work: RE0000531720 (1991), 'McLintock's theme. From McLintock.', claimant EMI Catalogue Partnership. So at least the theme music is protected even if the film print is free; check every cue before reusing the soundtrack.",
+          "source": "U.S. Copyright Office Public Records System, RE0000531720",
+          "url": "https://publicrecords.copyright.gov/"
+        },
         {
           "type": "research_note",
           "note": "Frank De Vol score plus the song 'Love in the Country'; separate registration status not verified here.",
