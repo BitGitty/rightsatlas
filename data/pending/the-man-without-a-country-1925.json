@@ -1,0 +1,81 @@
+{
+  "id": "the-man-without-a-country-1925",
+  "title": "The Man Without a Country",
+  "year": 1925,
+  "country": "US",
+  "last_verified": "2026-10-10",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released February 11, 1925 by Fox Film Corporation. Works published in 1925 entered the US public domain on January 1, 2021 by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
+        },
+        {
+          "type": "research_note",
+          "note": "Silent Era lists release date February 11, 1925, producer and distributor Fox Film Corporation, director Rowland V. Lee, ten reels. Survival status is listed as unknown.",
+          "source": "Silent Era Progressive Silent Film List",
+          "url": "https://www.silentera.com/PSFL/data/M/ManWithoutACountry1925.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film, so no original recorded track exists. Any score on a modern copy is a separate recording or composition and is not covered by the film's term expiry. No modern copy was found.",
+          "source": "Silent Era Progressive Silent Film List",
+          "url": "https://www.silentera.com/PSFL/data/M/ManWithoutACountry1925.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted by Robert N. Lee from Edward Everett Hale's celebrated literary work (per Silent Era). That source predates the 1925 film, so its term ended no later than the film's, and 1925 works are public domain in the US by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent Era lists the film's survival status as unknown. No restoration was found, so no restoration layer can be assessed.",
+          "source": "Silent Era Progressive Silent Film List",
+          "url": "https://www.silentera.com/PSFL/data/M/ManWithoutACountry1925.html"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [],
+    "negative_result": "Not applicable: published in 1925, so public domain by term; no renewal search needed.",
+    "diy_links": []
+  },
+  "watch": [],
+  "editorial": "Fox Film Corporation released this ten-reel adaptation on February 11, 1925. Rowland V. Lee directed it, from a script by Robert N. Lee. Edward Hearn plays Lieutenant Philip Nolan, Pauline Starke plays Anne Bissell and Richard Tucker plays Aaron Burr. It is a silent historical drama built on Edward Everett Hale's patriotic story of an officer who renounces his country. Warner Bros. made a separate 1937 Technicolor short, directed by Crane Wilbur, which is a different work.\n\nThe print is free to reuse because the film was published in 1925, so its US term has run out. The rights trap is that Silent Era lists the film's survival as unknown. We found no archive copy to reuse. Any score added to a future copy would be a separate protected recording.",
+  "faq": [
+    [
+      "Is the 1925 Fox film The Man Without a Country in the public domain?",
+      "The film itself is. It was published in 1925, so its US term has ended. A score on a particular copy, or other added material, may not be free."
+    ],
+    [
+      "Can I use a Man Without a Country video found online?",
+      "Check the year and studio first. Other films share this title, including a separate 1937 Warner Bros. short. We found no copy of the 1925 Fox film to link."
+    ]
+  ]
+}
