@@ -6,6 +6,11 @@
   --sans:Archivo,"Archivo Condensed",sans-serif;--serif:"Source Serif 4",Georgia,serif;--mono:"IBM Plex Mono",monospace;
 }
 *{box-sizing:border-box}
+/* the native hidden attribute must win over any component's own display rule —
+   several elements below (.field, #sdone, ...) set display themselves, which would
+   otherwise cancel [hidden] since author rules beat the UA stylesheet regardless
+   of specificity. One rule here, instead of patching every component. */
+[hidden]{display:none!important}
 html{scroll-padding-top:104px}
 body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 var(--serif)}
 a{color:var(--ink)}
@@ -166,15 +171,40 @@ table.queue .unr{color:var(--mut);font-size:.85rem}
 .backlink{margin-top:18px}
 
 /* suggest page */
-.suggestkinds{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin:18px 0}
-.skind{border:2px solid var(--ink);padding:16px 18px;background:var(--white)}
-.skind h3{margin:0 0 4px}
-.skind p{margin:0;font-size:.92rem;color:var(--mut2)}
-.suggest-btn{display:inline-flex;align-items:center;justify-content:center;min-height:52px;margin-top:8px;
-  background:var(--ink);color:var(--paper);text-decoration:none;font-family:var(--sans);font-weight:700;
-  font-size:1.05rem;padding:0 26px}
+#sform{display:flex;flex-direction:column;gap:22px;border-top:3px solid var(--ink);padding-top:22px;margin-top:18px}
+.skindset{border:0;margin:0;padding:0;min-width:0}
+.skindset legend{padding:0;margin-bottom:10px;font-family:var(--sans);font-weight:700;font-size:1.05rem}
+.suggestkinds{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin:0}
+.skind{display:flex;gap:12px;align-items:flex-start;border:2px solid var(--ink);padding:14px 16px;
+  background:var(--white);cursor:pointer}
+.skind input{width:20px;height:20px;margin-top:2px;flex:0 0 auto;accent-color:var(--ink)}
+.skind span{display:flex;flex-direction:column;gap:4px}
+.skind b{font-family:var(--sans);font-weight:700;font-size:1rem}
+.skind small{font-size:.86rem;color:var(--mut2);line-height:1.4}
+.skind.on{box-shadow:5px 5px 0 var(--ink)}
+.field{display:flex;flex-direction:column;gap:6px;max-width:520px}
+.field label{font-family:var(--sans);font-weight:700;font-size:.92rem}
+.field label span,.field label.sub{font-weight:400;color:var(--mut)}
+.field input,.field textarea{border:2px solid var(--ink);background:var(--white);padding:12px 14px;
+  font-size:1rem;font-family:var(--serif);color:var(--ink);min-height:44px}
+.field input:focus,.field textarea:focus{outline:3px solid var(--warn);outline-offset:-3px}
+.field textarea{resize:vertical;font-size:1rem;line-height:1.5}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.formerr{margin:0;padding:12px 16px;border:2px solid var(--no);background:var(--white);
+  font-family:var(--sans);font-weight:600;font-size:.95rem;color:var(--no)}
+.field-row{display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+.suggest-btn{display:inline-flex;align-items:center;justify-content:center;min-height:52px;margin-top:0;
+  border:0;cursor:pointer;background:var(--ink);color:var(--paper);text-decoration:none;font-family:var(--sans);
+  font-weight:700;font-size:1.05rem;padding:0 26px}
 .suggest-btn:hover{background:var(--no);color:var(--white)}
+.suggest-btn:disabled{opacity:.6;cursor:wait}
+.suggest-btn.ghost{background:transparent;color:var(--ink);border:2px solid var(--ink)}
+.suggest-btn.ghost:hover{background:var(--ink);color:var(--paper)}
 .suggest-note{font-size:.88rem;color:var(--mut)}
+#sdone{border:3px solid var(--ink);background:var(--white);padding:26px;margin-top:18px;
+  display:flex;flex-direction:column;gap:12px}
+#sdone .received{align-self:flex-start;font-family:var(--sans);font-weight:700;font-size:.72rem;
+  letter-spacing:.05em;text-transform:uppercase;padding:5px 10px;background:var(--ok);color:var(--white)}
 .nextsteps{list-style:none;margin:0;padding:0}
 .nextsteps li{display:flex;gap:14px;padding:12px 0;border-bottom:1px solid var(--ink);align-items:flex-start}
 .nextsteps b{font-family:var(--sans);font-weight:800;font-size:1.3rem;line-height:1}
@@ -183,8 +213,10 @@ table.queue .unr{color:var(--mut);font-size:.85rem}
 footer{border-top:3px solid var(--ink);margin-top:40px}
 .footin{max-width:1200px;margin:0 auto;padding:26px 24px 40px;display:flex;flex-wrap:wrap;gap:16px 40px;
   justify-content:space-between;font-size:.9rem;line-height:1.55;color:var(--mut2)}
-.disclaimer{margin:0;flex:1 1 480px;max-width:70ch}
-.footnav{display:flex;flex-wrap:wrap;gap:4px 18px;font-family:var(--sans);font-weight:600}
+.footleft{flex:1 1 480px;max-width:70ch;display:flex;flex-direction:column;gap:8px}
+.disclaimer{margin:0}
+.copyright{margin:0}
+.footnav{display:flex;flex-wrap:wrap;gap:4px 18px;font-family:var(--sans);font-weight:600;align-self:flex-start}
 .footnav a{padding:6px 0}
 
 /* mobile: horizontally scrollable nav rows, phone-width touch targets */

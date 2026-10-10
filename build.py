@@ -11,6 +11,7 @@ import shutil
 import sys
 from datetime import date
 from pathlib import Path
+from urllib.parse import quote
 
 import engine
 sys.path.insert(0, str(Path(__file__).resolve().parent / "scripts"))
@@ -37,9 +38,13 @@ DISCLAIMER = (
     "other countries' terms differ. Verify independently before commercial use."
 )
 
-# the one real submission mechanism the site has today: a structured GitHub issue form.
-# Visitors do need a (free) GitHub account to file it — the /suggest/ page says so rather
-# than pretending otherwise.
+# same Supabase project/key the analytics snippet already uses (publishable anon key —
+# safe client-side, same trust level as the existing track_view/stats calls).
+SUPABASE_URL = "https://uumiwuvbxzmtxuwmutis.supabase.co"
+SUPABASE_KEY = "sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b"
+
+# GitHub issue template — kept as the <noscript> / network-failure fallback now that
+# /suggest/ submits straight to Supabase (submit_suggestion RPC) for JS-enabled visitors.
 SUGGEST_URL = "https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
 
 # v3 sticky top nav (owner feature A). "class2027" always points at whichever
@@ -134,7 +139,10 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav=""):
 </main>
 <footer>
   <div class="footin">
-    <p class="disclaimer">{DISCLAIMER}</p>
+    <div class="footleft">
+      <p class="disclaimer">{DISCLAIMER}</p>
+      <p class="copyright">© {YEAR} RightsAtlas · research last-reviewed dates are shown per page.</p>
+    </div>
     <nav class="footnav" aria-label="Footer">
       <a href="{BASE}methodology/">How it works</a>
       <a href="{BASE}corrections/">Corrections</a>
@@ -142,7 +150,6 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav=""):
       <a href="{BASE}about/">About</a>
     </nav>
   </div>
-  <p class="copyright">© {YEAR} RightsAtlas · research last-reviewed dates are shown per page.</p>
 </footer>
 <script>/* first-party analytics */(function(){{try{{fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/track_view",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null}}),keepalive:true}}).catch(function(){{}})}}catch(e){{}}}})();</script>
 </body>
@@ -251,7 +258,7 @@ answers are wrong so often.</p>
 
 <p class="packet"><a href="{BASE}packets/{e(f["id"])}.md" rel="nofollow" download>📄 Download the print-layer research packet (Markdown)</a>
 <span class="packet-note">— citations you can attach to a dispute. Not legal advice; print layer only.</span>
-· <a href="{BASE}suggest/">Spotted an error? Send a correction</a></p>
+· <a href="{BASE}suggest/?kind=correction&amp;page={quote(f"{f['title']} ({f['year']})")}">Spotted an error? Send a correction</a></p>
 
 <section class="record"><h2 id="layers">The record behind each answer</h2>{record_rows}</section>
 {f'<h2>Automatic rule notes</h2><ul class="notes">{notes}</ul>' if notes else ''}
@@ -301,7 +308,7 @@ No green checkmarks without proof.</p>
 <div class="searchbox"><input id="q" type="search" placeholder="Search a film title…" autocomplete="off"></div>
 <label class="inclq"><input type="checkbox" id="inclq"> also search the unresearched backlog</label>
 <div id="results"></div>
-<p class="asksuggest">Not here yet? <a href="{BASE}suggest/">Ask us to research it</a>.</p>
+<p class="asksuggest">Not here yet? <a href="{BASE}suggest/?kind=film">Ask us to research it</a>.</p>
 </div>
 </div>
 </section>
@@ -435,7 +442,7 @@ def queue_page(backlog):
 <p class="hint">These are titles queued for future research. <strong>A row here means
 nothing about a film's copyright status</strong> — we have not verified it. Only the
 <a href="{BASE}films/">researched dossiers</a> carry evidence-backed conclusions.
-Want one prioritised? <a href="{BASE}suggest/">Suggest it →</a></p>
+Want one prioritised? <a href="{BASE}suggest/?kind=film">Suggest it →</a></p>
 <div class="tablewrap"><table class="listing queue" id="queuetable">
 <tr><th>Title</th><th>Year</th><th>Status</th></tr>
 {rows}</table></div>
@@ -484,28 +491,196 @@ def corrections_page(corrections):
 <p class="hint">When we get something wrong, we fix it in the open and log it here.
 A public correction is a health signal, not an embarrassment — it is how an
 evidence-first project earns trust. Spotted an error?
-<a href="{BASE}suggest/">Tell us →</a></p>
+<a href="{BASE}suggest/?kind=correction">Tell us →</a></p>
 {table}"""
     return page("Corrections — RightsAtlas",
                 "Every correction RightsAtlas has issued, with what changed and why.", body,
                 nav="corrections", path="corrections/")
 
 
+# (value, tile title, tile hint, message label, message placeholder) — one definition
+# shared by the radio tiles and the per-kind message copy, so the two can't drift apart.
+SUGGEST_KINDS = [
+    ("film", "A film to research", "A title you want checked, layer by layer.",
+     "Why this film? (optional)", "e.g. I perform live scores to it and need to know what is safe to use."),
+    ("correction", "A correction", "Something on a page is wrong, outdated, or a link is dead.",
+     "What is wrong?", "Tell us what the page says and what you believe is right. A source helps."),
+    ("idea", "An idea for the site", "A tool, or a better way to show the evidence.",
+     "Your idea", "What would make RightsAtlas more useful to you?"),
+    ("other", "Something else", "Questions, partnerships, anything at all.",
+     "Your message", "Anything you want to tell us."),
+]
+
+# message label/placeholder per kind, generated from SUGGEST_KINDS above so the JS and the
+# server-rendered defaults can never drift apart.
+_LABELS_JS = json.dumps({v: [lbl, ph] for v, _, _, lbl, ph in SUGGEST_KINDS})
+
+# Plain vanilla JS — no framework. Submits straight to the submit_suggestion Supabase RPC
+# (same project/key as the analytics snippet above); falls back to the GitHub issue link on
+# a network/server error so the suggestion is never a dead end.
+SUGGEST_JS = ("""
+(function () {
+  var SUPA = "%s/rest/v1/rpc/submit_suggestion";
+  var KEY = "%s";
+  var LABELS = %s;
+  var form = document.getElementById("sform");
+  var done = document.getElementById("sdone");
+  var err = document.getElementById("serr");
+  var fallback = document.getElementById("sfallback");
+  var msgLabel = document.getElementById("msglabel");
+  var msgInput = document.getElementById("msg");
+  var filmGroup = document.getElementById("filmgroup");
+  var whereGroup = document.getElementById("wheregroup");
+  var tiles = form.querySelectorAll(".skind");
+
+  function kind() {
+    var r = form.querySelector('input[name="kind"]:checked');
+    return r ? r.value : "film";
+  }
+  function sync() {
+    var k = kind();
+    filmGroup.hidden = k !== "film";
+    whereGroup.hidden = k !== "correction";
+    var lab = LABELS[k] || LABELS.other;
+    msgLabel.textContent = lab[0];
+    msgInput.placeholder = lab[1];
+    msgInput.required = k !== "film";
+    Array.prototype.forEach.call(tiles, function (t) {
+      var on = t.querySelector("input").checked;
+      t.classList.toggle("on", on);
+    });
+  }
+  Array.prototype.forEach.call(form.querySelectorAll('input[name="kind"]'), function (r) {
+    r.addEventListener("change", sync);
+  });
+
+  // prefill from ?kind=correction&page=... or ?kind=film&film=...
+  var qs = new URLSearchParams(location.search);
+  var qkind = qs.get("kind");
+  if (qkind && LABELS[qkind]) {
+    var radio = form.querySelector('input[name="kind"][value="' + qkind + '"]');
+    if (radio) radio.checked = true;
+  }
+  if (qs.get("film")) document.getElementById("film").value = qs.get("film");
+  if (qs.get("page")) document.getElementById("where").value = qs.get("page");
+  sync();
+
+  function showError(text) {
+    err.textContent = text;
+    err.hidden = false;
+  }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    err.hidden = true;
+    fallback.hidden = true;
+    var k = kind();
+    var film = document.getElementById("film").value.trim();
+    var year = document.getElementById("year").value.trim();
+    var where = document.getElementById("where").value.trim();
+    var msg = msgInput.value.trim();
+    var email = document.getElementById("email").value.trim();
+    var hp = document.getElementById("website").value;
+    if (k === "film" && !film) { showError("Please add the film title."); return; }
+    if (k !== "film" && !msg) { showError("Please write a few words first."); return; }
+    var btn = form.querySelector('button[type="submit"]');
+    btn.disabled = true;
+    btn.textContent = "Sending\\u2026";
+    fetch(SUPA, {
+      method: "POST",
+      headers: { apikey: KEY, Authorization: "Bearer " + KEY, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        p_site: "rightsatlas", p_kind: k, p_film: film || null, p_year: year || null,
+        p_page: where || null, p_message: msg || null, p_email: email || null, p_hp: hp
+      })
+    }).then(function (r) { return r.json(); }).then(function (result) {
+      btn.disabled = false;
+      btn.textContent = "Send suggestion";
+      if (result === "ok") {
+        form.hidden = true;
+        done.hidden = false;
+        done.focus();
+      } else {
+        showError(typeof result === "string" ? result : "Something went wrong \\u2014 please try again.");
+      }
+    }).catch(function () {
+      btn.disabled = false;
+      btn.textContent = "Send suggestion";
+      fallback.hidden = false;
+    });
+  });
+
+  document.getElementById("sagain").addEventListener("click", function () {
+    form.reset();
+    form.hidden = false;
+    done.hidden = true;
+    err.hidden = true;
+    fallback.hidden = true;
+    sync();
+    form.querySelector('input[name="kind"]:checked').focus();
+  });
+})();
+""") % (SUPABASE_URL, SUPABASE_KEY, _LABELS_JS)
+
+
 def suggest_page(backlog_count):
-    kinds = [
-        ("A film to research", "A title you want checked, layer by layer."),
-        ("A correction", "Something on a page is wrong, outdated, or a link is dead."),
-        ("A feature or improvement idea", "A tool, or a better way to show the evidence."),
-        ("Something else", "Questions, partnerships, anything at all."),
-    ]
-    kind_html = "".join(f'<div class="skind"><h3>{e(k)}</h3><p>{e(h)}</p></div>' for k, h in kinds)
+    tiles = "".join(
+        f'<label class="skind"><input type="radio" name="kind" value="{v}"{" checked" if v == "film" else ""}>'
+        f'<span><b>{e(title)}</b><small>{e(hint)}</small></span></label>'
+        for v, title, hint, _, _ in SUGGEST_KINDS)
+
     body = f"""<h1>Suggestions</h1>
-<p class="lead">A film to research, a mistake to fix, or an idea for the site — tell us directly.</p>
-<div class="suggestkinds">{kind_html}</div>
-<p><a class="suggest-btn" href="{SUGGEST_URL}" rel="nofollow">💡 Send a suggestion on GitHub</a></p>
-<p class="suggest-note">Opens a short structured form on GitHub — pick the kind of suggestion
-there (a free GitHub account is needed to submit it; it's the one submission channel the
-site has today).</p>
+<p class="lead">A film to research, a mistake to fix, or an idea for the site — tell us directly.
+No account needed.</p>
+
+<form id="sform" novalidate>
+  <fieldset class="skindset">
+    <legend>What kind of suggestion?</legend>
+    <div class="suggestkinds">{tiles}</div>
+  </fieldset>
+
+  <div class="field" id="filmgroup">
+    <label for="film">Film title</label>
+    <input id="film" type="text" placeholder="e.g. The Phantom Carriage">
+    <label for="year" class="sub">Year <span>(if known)</span></label>
+    <input id="year" type="text" inputmode="numeric" placeholder="1921">
+  </div>
+
+  <div class="field" id="wheregroup" hidden>
+    <label for="where">Which film or page?</label>
+    <input id="where" type="text" placeholder="e.g. Nosferatu (1922), music score layer">
+  </div>
+
+  <div class="field">
+    <label for="msg" id="msglabel">Why this film? (optional)</label>
+    <textarea id="msg" rows="6" placeholder="e.g. I perform live scores to it and need to know what is safe to use."></textarea>
+  </div>
+
+  <div class="field">
+    <label for="email">Email <span>(optional — only if you want a reply; never shown on the site)</span></label>
+    <input id="email" type="email" placeholder="you@example.com">
+  </div>
+
+  <span class="hp" aria-hidden="true"><input type="text" id="website" name="website" tabindex="-1" autocomplete="off"></span>
+
+  <p id="serr" class="formerr" role="alert" hidden></p>
+
+  <div class="field-row">
+    <button type="submit" class="suggest-btn">Send suggestion</button>
+    <span class="suggest-note">Takes under a minute.</span>
+  </div>
+  <p id="sfallback" class="formerr" hidden>Couldn't reach the server. <a href="{SUGGEST_URL}" rel="nofollow">Send it on GitHub instead →</a></p>
+</form>
+
+<div id="sdone" role="status" tabindex="-1" hidden>
+  <span class="received">Received</span>
+  <h2>Thank you — got it.</h2>
+  <p>We read every suggestion and act on it — see what happens next below.</p>
+  <button type="button" id="sagain" class="suggest-btn ghost">Send another suggestion</button>
+</div>
+
+<noscript><p class="suggest-note">JavaScript is off, so this form can't submit here —
+<a href="{SUGGEST_URL}" rel="nofollow">send your suggestion on GitHub instead →</a></p></noscript>
 
 <h2>What happens next</h2>
 <ol class="nextsteps">
@@ -514,9 +689,11 @@ site has today).</p>
 ({backlog_count} titles currently queued) and get a full layer-by-layer dossier before the
 page goes live.</span></li>
 <li><b>3</b><span>Corrections are fixed and logged on the <a href="{BASE}corrections/">Corrections</a> page.</span></li>
-</ol>"""
+</ol>
+<script>{SUGGEST_JS}</script>"""
     return page("Suggestions — RightsAtlas",
-                "Suggest a film to research, flag a correction, or pitch a feature for RightsAtlas.",
+                "Suggest a film to research, flag a correction, or pitch a feature for RightsAtlas. "
+                "No account needed.",
                 body, nav="suggest", path="suggest/")
 
 
