@@ -3,28 +3,28 @@
   "title": "The Shadow Returns",
   "year": 1946,
   "country": "US",
-  "last_verified": "2026-07-14",
+  "last_verified": "2026-10-10",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "verified_pd",
+      "status": "not_pd",
       "evidence": [
         {
-          "type": "renewal_check",
-          "note": "Monogram Pictures released The Shadow Returns in 1946. Under the pre-1978 rules a copyright had to be actively renewed in its 28th year (here ~1973–74); no renewal was filed for this film, so the FILM PRINT fell into the US public domain. The Internet Archive carries it under a Public Domain Mark 1.0, and it has circulated for decades on public-domain DVD labels.",
-          "source": "Internet Archive (Public Domain Mark 1.0)",
-          "url": "https://archive.org/details/TheShadowReturns-1946"
+          "type": "cce_renewal_entry",
+          "note": "Renewed. Catalog of Copyright Entries, Third Series, Vol. 27, Parts 12-13 (Jan-Dec 1973), renewal list: 'SHADOW RETURNS, a photoplay in 6 reels by Monogram Pictures Corp. (c) 21Jan46; LP137[..]. United Artists Television, Inc. (PWH); 16Mar73; R548096.' A renewed 1946 film is protected for 95 years from publication: it enters the US public domain on 1 January 2042.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 27, Parts 12-13 (1973)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
         }
       ]
     },
     "score": {
-      "status": "partially_protected",
+      "status": "not_pd",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Edward J. Kay's 1946 Monogram score travels with the public-domain film. But any modern re-recording, or a replacement score added to a restored release, is a separately protected sound recording — the audio on a newer transfer is a common hidden claim.",
-          "source": null,
-          "url": null
+          "note": "The original soundtrack is part of the 1946 film, whose copyright was renewed in 1973 (R548096); it is protected until 1 January 2042.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 27, Parts 12-13 (1973)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
         }
       ]
     },
@@ -81,19 +81,19 @@
       "quality": "SD"
     }
   ],
-  "editorial": "The Shadow Returns is the film that answers a real creator's real question — a redditor told us they trusted Google and the Internet Archive, uploaded this 'public domain' film, and got a copyright strike from a major studio anyway. Here's how that happens, layer by layer.\n\nThe 1946 Monogram FILM PRINT is genuinely public domain: Monogram never renewed the copyright, and it's marked Public Domain on the Internet Archive. So the footage itself is free to use.\n\nBut 'The Shadow' is not a film — it's a FRANCHISE. The character, the name, and the brand are owned by Condé Nast (inherited from pulp publisher Street & Smith), and they actively exploit it — new Shadow novels were licensed to James Patterson as recently as 2020. That live ownership is what turns a 'public domain' upload into a strike: the rights-holder (or a distributor of a specific restored transfer) can claim the character or the remaster even when the bare 1946 print is free.\n\nThe lesson for creators: 'the film is public domain' and 'you can safely upload this and monetize it' are two different sentences. The print, the score on your particular copy, the character, and the trademark each have their own answer. Use an unrestored PD print, don't lean on Shadow branding, and check the layer that actually claims you — the franchise, not the film.",
+  "editorial": "The Shadow Returns is the film that answers a real creator's real question — a redditor told us they trusted Google and the Internet Archive, uploaded this 'public domain' film, and got a copyright strike from a major studio anyway. Here's how that happens, layer by layer.\n\nStart with the film itself, because we first got it wrong: the 1946 Monogram FILM PRINT is NOT public domain. Its copyright was renewed on 16 March 1973 (R548096, by United Artists Television), so it is protected in the US until 1 January 2042. An Internet Archive 'Public Domain' label does not change that. A strike on this film can simply be the rights holder enforcing a valid copyright.\n\nAnd 'The Shadow' is not just a film — it's a FRANCHISE. The character, the name, and the brand are owned by Condé Nast (inherited from pulp publisher Street & Smith), and they actively exploit it — new Shadow novels were licensed to James Patterson as recently as 2020. On top of the renewed film, that live ownership of the character is a second, separate reason to expect claims.\n\nThe lesson for creators: 'the film is public domain' and 'you can safely upload this and monetize it' are two different sentences. The print, the score on your particular copy, the character, and the trademark each have their own answer. Labels on upload sites are not evidence: check the renewal record yourself.",
   "faq": [
     [
       "Is The Shadow Returns (1946) public domain?",
-      "The 1946 Monogram film print is public domain — Monogram didn't renew the copyright, and the Internet Archive carries it under a Public Domain Mark. But the character 'The Shadow' is a live, owned franchise (Condé Nast), so the film being free does not make the character free."
+      "No. The film's copyright was renewed on 16 March 1973 (R548096), so it is protected in the US until 1 January 2042, even though some upload sites label it public domain. The Shadow character is also a live, owned franchise."
     ],
     [
       "Then why did someone get a copyright strike on it?",
-      "Almost always one of two things: (1) they uploaded a restored/remastered transfer that a distributor claims, not the bare public-domain print; or (2) the claim targets the Shadow character/brand, which is still owned. A public-domain print plus a live character equals a real strike risk."
+      "Most likely because the film is still under copyright: the renewal makes the rights holder's claim valid. The owned Shadow character is a second risk on top of that."
     ],
     [
       "Can I use footage from the 1946 film?",
-      "The unrestored public-domain print's footage is usable. Avoid modern restored transfers, replace or verify any music, and don't build a product around the 'The Shadow' name or logo — that's the trademark layer, and it's protected."
+      "Not without permission until 1 January 2042."
     ]
   ]
 }
