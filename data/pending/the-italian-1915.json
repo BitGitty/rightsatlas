@@ -1,0 +1,91 @@
+{
+  "id": "the-italian-1915",
+  "title": "The Italian",
+  "year": 1915,
+  "country": "US",
+  "last_verified": "2026-10-12",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was released June 18, 1915. Duke CSPD states that works from 1930 entered the US public domain on January 1, 2026, so a 1915 release is public domain in the US by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a silent film. Victor Schertzinger is reported as the uncredited composer of the original 1915 score. That score would also date from 1915. Any score on a modern copy, such as a newly composed or newly recorded accompaniment, is a separate work and can be protected. Check what is on the specific copy.",
+          "source": "Wikipedia, The Italian (1915 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Italian_(1915_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay was written by Thomas H. Ince and C. Gardner Sullivan for this 1915 release. The plot is reported to be adapted from an earlier 1913 film, The Wop. Both works predate the 1930 cutoff stated by Duke CSPD for the 2026 entry into the public domain, so no underlying source remains in copyright.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1942,
+      1943,
+      1944
+    ],
+    "negative_result": "Not applicable. The 1915 release is public domain by term expiry, so no renewal search is needed.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Italian” (renewals ~1942, 1943, 1944)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Italian"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-italian-1915",
+      "label": "The Italian (1915), Internet Archive, about 78 minutes, directed by Reginald Barker",
+      "quality": "Full feature; Internet Archive metadata marks it with the Public Domain Mark"
+    }
+  ],
+  "editorial": "The Italian is a 1915 American silent feature directed by Reginald Barker and produced by Thomas H. Ince at the New York Motion Picture Corp., released through Paramount on June 18, 1915. George Beban plays Pietro \"Beppo\" Donnetti, a Venetian gondolier who becomes a shoeshiner on New York's Lower East Side. His baby dies while he is jailed and cannot pay for medicine. The film was selected for the National Film Registry in 1991. The Internet Archive hosts a roughly 78-minute copy, which makes it an easy pick for immigration-history projects, classroom use, or silent-era compilations.\n\nThe picture itself is free, because a 1915 release is public domain in the US by term. The trap is the audio. Schertzinger is reported as the uncredited composer of the original 1915 score, but a modern copy usually carries a newer accompaniment, and that recording or composition can be protected. Use a copy whose music you can trace, or write your own score. Check any release for added intertitle translations or new titles. The film's reported source, a 1913 film called The Wop, also predates the cutoff.",
+  "faq": [
+    [
+      "Can I reuse The Italian (1915) in my own video or release?",
+      "Yes, for the picture. A 1915 release is public domain in the US by term. Check the music track and any added titles on the copy you use, because a modern score or new title cards can be protected separately."
+    ],
+    [
+      "Does the National Film Registry listing or a restoration give anyone rights over the film?",
+      "No. Registry selection grants no copyright. A faithful restoration adds no new US copyright in the film. Only what a restoration adds, such as a new score or new titles, can be protected, and I found no specific restoration to assess."
+    ]
+  ]
+}

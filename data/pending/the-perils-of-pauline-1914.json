@@ -1,0 +1,98 @@
+{
+  "id": "the-perils-of-pauline-1914",
+  "title": "The Perils of Pauline",
+  "year": 1914,
+  "country": "US",
+  "last_verified": "2026-10-12",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The serial was released on March 31, 1914 by the Eclectic Film Company, a US subsidiary of Pathé Frères. Works from 1929 and earlier have already entered the US public domain, as Duke CSPD's Public Domain Day 2025 page confirms for 1929 works, so a 1914 release is clear by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is silent. The images are free, but any score on a modern copy is a separate recording or composition that may be protected. Check the credits of the specific copy.",
+          "source": "Wikipedia, The Perils of Pauline (1914 serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Perils_of_Pauline_(1914_serial)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story was written for the 1914 serial by Charles W. Goddard and George B. Seitz. Anything published with the 1914 release is out of term. A Goddard novelization (Charles Goddard, 1879-1951) is distributed by Project Gutenberg as ebook 6065. The date of that book's first publication was not confirmed here.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The complete 20-chapter serial is not known to survive. Only a condensed 9-chapter version (about 214 minutes), released in Europe in 1916 by Pathé Frères, exists. The film was selected for the National Film Registry in 2008. Any modern release of this version may add protected material such as a new score or new titles. No specific restoration was confirmed.",
+          "source": "Wikipedia, The Perils of Pauline (1914 serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Perils_of_Pauline_(1914_serial)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1941,
+      1942,
+      1943
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Perils of Pauline” (renewals ~1941, 1942, 1943)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Perils+of+Pauline"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/THEPERILSOFPAULINE1914Ch.2PearlWhite",
+      "label": "The Perils of Pauline (1914), Chapter 2, Pearl White (about 25 min)",
+      "quality": "MP4 480x360, copy from an unknown source. Check for added music or titles."
+    }
+  ],
+  "editorial": "The Perils of Pauline was a 20-chapter serial produced by William Randolph Hearst and released from March 31, 1914 by the Eclectic Film Company, the US arm of Pathé Frères. Louis J. Gasnier and Donald MacKenzie directed, and Pearl White played Pauline. Charles W. Goddard and George B. Seitz wrote it. A creator would want it for the cliffhanger stunts and for its place in film history. The Library of Congress selected it for the National Film Registry in 2008.\n\nThe print and the story are out of copyright by term, because the serial was published in 1914. The trap is the footage itself. Only a condensed 9-chapter European version from 1916, about 214 minutes, is known to survive, not the original 20 chapters. Most online copies come from that version, and a given copy may carry a modern score, new intertitles or other added material that is protected on its own. Use a copy whose provenance you can document. No trademark was found, but the title and the Pauline character name are widely reused in later works, including the 1947 film. Clear any use of those later works separately.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1914 Perils of Pauline?",
+      "The 1914 footage itself is free to reuse, because the serial was published in 1914 and its US term has expired. Check the specific copy you take it from. A modern score, new intertitles or other added material on that copy can be protected, so use the film images and supply your own music."
+    ],
+    [
+      "Is the 1947 Perils of Pauline covered by this?",
+      "No. The 1947 Betty Hutton film is a separate, later work with its own copyright status. This entry covers only the 1914 serial. Don't treat the shared title as clearance for the later film."
+    ]
+  ]
+}
