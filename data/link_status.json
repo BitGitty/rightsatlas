@@ -248,7 +248,7 @@
   },
   "catalogofc19683221213libr": {
    "ok": true,
-   "film": "night-of-the-living-dead-1968",
+   "film": "the-devil-bat-1940",
    "kind": "evidence"
   },
   "nosferatu-2000sdvd": {
@@ -424,6 +424,16 @@
   "catalogofcopyrig3111213li": {
    "ok": true,
    "film": "the-divorcee-1930",
+   "kind": "evidence"
+  },
+  "the-devil-bat-1940": {
+   "ok": true,
+   "film": "the-devil-bat-1940",
+   "kind": "watch"
+  },
+  "catalogofc19673211213libr": {
+   "ok": true,
+   "film": "the-devil-bat-1940",
    "kind": "evidence"
   },
   "the-divorcee_1930": {
