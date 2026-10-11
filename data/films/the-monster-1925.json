@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording and may be protected."
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording and may be protected. Turner Classic Movies has shown the film with an alternative musical score, according to the Wikipedia film page."
         }
       ]
     },
@@ -31,13 +31,18 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film is based on a 1922 stage play of the same name by Crane Wilbur. Whether the play script was published or registered, and so what its US term is, was not confirmed. An unpublished play may be protected for the author's life plus 70 years, so the source play is not treated as cleared."
+          "note": "The film is based on a 1922 stage play of the same name by Crane Wilbur (AFI Catalog and Wikipedia film page). Whether the play script was published or registered, and so what its US term is, was not confirmed. An unpublished play may be protected for the author's life plus 70 years, so the source play is not treated as cleared."
         }
       ]
     },
     "trademark": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No active trademark on the title or on the Dr. Ziska character was found or checked in a trademark database. Not confirmed either way."
+        }
+      ]
     },
     "restorations": {
       "status": "undetermined",
