@@ -1,0 +1,102 @@
+{
+  "id": "the-student-of-prague-1913",
+  "title": "The Student of Prague",
+  "year": 1913,
+  "country": "DE",
+  "last_verified": "2026-10-11",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released August 22, 1913 (Deutsche Bioscop, Germany). Works published in 1930 entered the US public domain on January 1, 2026, so a 1913 release is well past the US term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "German-origin film. A 1913 work's US term ended long before the URAA restoration date of Jan 1, 1996, so it was already public domain in the US and URAA restoration does not apply. This is my legal reasoning; the cited circular on restored copyrights is the authority page, and I could not extract its text to quote it.",
+          "source": "US Copyright Office, Circular 38B (Copyright Restoration Under the URAA)",
+          "url": "https://www.copyright.gov/circs/circ38b.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Josef Weiss composed an original score for the film, described as the first film score written for a German-language film. The film itself is silent, so any score on a modern copy is a separate work or recording with its own status.",
+          "source": "Wikipedia, The Student of Prague (1913 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Student_of_Prague_(1913_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay is by Hanns Heinz Ewers. It draws on Edgar Allan Poe's 'William Wilson', Alfred de Musset's 'The December Night' and Goethe's Faust, all published long before 1930. The 1913 film itself is past its US term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1940,
+      1941,
+      1942
+    ],
+    "negative_result": "Not applicable. The film was published in 1913 and is public domain by term expiry, so no renewal search is needed.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Student of Prague” (renewals ~1940, 1941, 1942)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Student+of+Prague"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/1913-the-student-of-prague_202208",
+      "label": "1913 The Student of Prague (about 41 min, silent, uploader copy)",
+      "quality": "Uploader copy, about 41 minutes, so it may be an incomplete cut. Not a restoration."
+    },
+    {
+      "url": "https://archive.org/details/StudentZPragi1",
+      "label": "Student z Pragi (Der Student von Prag), 1913 (about 56 min, Polish-language item)",
+      "quality": "Standard-definition rip, about 56 minutes, listed as Polish language, so it probably carries Polish titles. Those titles are added material."
+    }
+  ],
+  "editorial": "Der Student von Prag was released on August 22, 1913 by Deutsche Bioscop. Stellan Rye directed, Hanns Heinz Ewers wrote it, and Paul Wegener plays Balduin, a Prague student who sells his mirror image to Scapinelli (John Gottowt). It is often called the first German art film. Guido Seeber's double exposures put Balduin and his double in the same frame, and the plot borrows from Poe's 'William Wilson', Musset's 'The December Night' and Goethe's Faust. For a creator, it is an early horror and doppelgänger film with a strong look and a famous premise.\n\nThe picture itself is free in the US because it was published in 1913, far past the term. The rights trap is the layers around it. Josef Weiss wrote an original score, but the film is silent, so music on a modern copy is separate. Archive copies vary in length (about 41 and about 56 minutes in the two items listed) and may carry added or translated titles, which are separate material. Use a copy whose music and titles you can account for, or add your own score.",
+  "faq": [
+    [
+      "Can I use footage from the 1913 Student of Prague in my own film?",
+      "Yes for the images. The film was published in 1913 and is past its US term, and the stories it draws on are also old. Check the specific copy you use for added music, new or translated title cards and other additions, which can be separately protected."
+    ],
+    [
+      "Is the music on the copy I found free to use?",
+      "Not necessarily. The film is silent. Josef Weiss composed a score for it, and a modern release may add a different score or recording. Unless the copy's music is documented as public domain or you made it, use your own score."
+    ]
+  ]
+}
