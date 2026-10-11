@@ -1,0 +1,96 @@
+{
+  "id": "the-hoose-gow-1929",
+  "title": "The Hoose-Gow",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-10-11",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released November 16, 1929 (Hal Roach Studios / MGM). Works published in 1929 entered the US public domain on January 1, 2025 by term expiry, so no renewal question arises.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Sound-on-film short whose recorded track was released with the print in 1929. The track shares the film's status and expired with it on January 1, 2025. This covers the 1929 track only, not any new score added to a later copy.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Original screen comedy credited to H.M. Walker (per the Internet Archive record). It is not an adaptation of an earlier work, and it was published in 1929, so its term has expired.",
+          "source": "Internet Archive item metadata, the-hoosegow_1929",
+          "url": "https://archive.org/details/the-hoosegow_1929"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Hoose-Gow” (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Hoose-Gow"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-hoosegow_1929",
+      "label": "The Hoose-Gow (1929), Internet Archive",
+      "quality": "full 20-minute short, about 1,209 seconds"
+    },
+    {
+      "url": "https://archive.org/details/thehoosegow1929-originalprintrecreation",
+      "label": "The Hoose-Gow (1929) - original print recreation, Internet Archive",
+      "quality": "user-made recreation; check against the other copy"
+    }
+  ],
+  "editorial": "The Hoose-Gow is a two-reel Laurel and Hardy sound comedy. James Parrott directed it for Hal Roach Studios, and MGM released it on November 16, 1929. Stan and Ollie are sent to a prison labor camp. Their picks and axes bring down a tree holding a guard tower, and the film ends in a rice-throwing fight after Stan fills a car radiator with rice for Governor Finlayson. It is a short, self-contained piece that works as a gag reel for a prison-camp sketch or a Laurel and Hardy compilation.\n\nThe film was published in 1929, so the copyright in the print, the 1929 track and the screenplay has expired by term. No renewal check is needed. The trap is what gets added to later copies. Colorized or re-scored versions, new titles and restoration additions can carry their own protection, so take footage from a plain transfer of the original. Laurel and Hardy names and likenesses may also be claimed as trademarks, and expired copyright does not remove those claims. We have not checked who holds any such marks.",
+  "faq": [
+    [
+      "Can I use The Hoose-Gow in my own video or project?",
+      "The 1929 print, its recorded track and its story are out of copyright in the US. Use a plain copy of the original. Avoid colorized or re-scored versions unless you have cleared the additions."
+    ],
+    [
+      "Does the Laurel and Hardy name raise a separate issue?",
+      "Possibly. Trademark rights in names or likenesses are separate from copyright and do not expire with it. This is undetermined here, so avoid implying endorsement or branding a product with the duo's names."
+    ]
+  ]
+}

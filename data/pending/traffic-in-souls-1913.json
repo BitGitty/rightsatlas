@@ -1,0 +1,103 @@
+{
+  "id": "traffic-in-souls-1913",
+  "title": "Traffic in Souls",
+  "year": 1913,
+  "country": "US",
+  "last_verified": "2026-10-11",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was released in the US on November 24, 1913. Works published in 1930 or earlier are in the US public domain by term, and Duke CSPD confirms that 1930 works entered the public domain on January 1, 2026. A 1913 release is well inside that range.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Any music on a modern copy is a separate work. The 1994 Kino International VHS used a piano score by Philip Carli, and that recording or score may be protected independently of the picture.",
+          "source": "Wikipedia, Traffic in Souls (home video section)",
+          "url": "https://en.wikipedia.org/wiki/Traffic_in_Souls"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story is an original by director George Loane Tucker, with the scenario by Walter MacNamara, so there is no older source work. It was first published with the 1913 release and is within the term-expiry range.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released on DVD by Flicker Alley in 2008 in the 'Perils of the New Land' collection, with commentary by film historian Shelley Stamp. A copy is held by the Library of Congress. A faithful transfer adds no new US copyright (Bridgeman v. Corel). The added commentary and any new score or titles on a given release can be protected.",
+          "source": "Wikipedia, Traffic in Souls",
+          "url": "https://en.wikipedia.org/wiki/Traffic_in_Souls"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1940,
+      1941,
+      1942
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Traffic in Souls” (renewals ~1940, 1941, 1942)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Traffic+in+Souls"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/traffic_in_souls",
+      "label": "Traffic in Souls (1913), full feature, about 88 min",
+      "quality": "full feature, digital upload"
+    },
+    {
+      "url": "https://archive.org/details/TrafficInSouls1913",
+      "label": "Traffic in Souls (1913), shorter 56-minute upload",
+      "quality": "lower resolution (636x480)"
+    }
+  ],
+  "editorial": "Traffic in Souls is a feature-length silent drama about forced prostitution, then called 'white slavery'. It was directed by George Loane Tucker from his own original story, with a scenario by Walter MacNamara. It premiered on November 24, 1913, at Lou Fields' Theatre on Broadway in New York. It was produced by Independent Moving Pictures and distributed by Universal. In 2006 it was selected for the National Film Registry. A creator can use it as an early example of a feature-length American narrative film, or as period material on the vice-crusade movement.\n\nThe print and the story are free by term expiry, because the film dates from 1913 and was based on no earlier work. The rights trap is in the copies. The Kino International VHS (1994) used a piano score by Philip Carli, and the Flicker Alley DVD (2008, in 'Perils of the New Land') carries Shelley Stamp's commentary. Those additions are separate works. Take the picture from an unscored copy, or pair it with your own or a public-domain score.",
+  "faq": [
+    [
+      "Can I reuse Traffic in Souls in my own video?",
+      "Yes for the picture. A 1913 release is in the US public domain by term expiry. Do not lift the piano score or the commentary from a commercial release such as the Kino VHS or the Flicker Alley DVD, because those are separate works."
+    ],
+    [
+      "Does a renewal search matter for this film?",
+      "No. Renewal only matters for works first published after the term-expiry cutoff. This film was published in 1913, so no renewal could have extended it."
+    ]
+  ]
+}
