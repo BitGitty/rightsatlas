@@ -15,6 +15,7 @@ import json
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -120,10 +121,30 @@ def sweep() -> dict:
                 status["dropped"].append({"film": film["id"], "was": ident})
             else:
                 status["unrepaired_evidence"].append({"film": film["id"], "was": ident})
+        # an embedded video that YouTube no longer serves renders "Video unavailable" on the
+        # page (Night of the Living Dead + Carnival of Souls, found 2026-10-11): drop the embed
+        vid = film.get("youtube_recap")
+        if vid and youtube_gone(vid):
+            film.pop("youtube_recap")
+            changed = True
+            status["dropped"].append({"film": film["id"], "was": f"youtube:{vid}"})
         if changed:
             film["watch"] = [w for w in film.get("watch", []) if w not in dead_watch]
             p.write_text(json.dumps(film, ensure_ascii=False, indent=2), encoding="utf-8")
     return status
+
+
+def youtube_gone(vid: str) -> bool:
+    """True only when YouTube says the video does not exist or is private (404/401/403).
+    A network error is 'unknown' and keeps the embed."""
+    url = f"https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={vid}&format=json"
+    try:
+        urllib.request.urlopen(url, timeout=30)
+        return False
+    except urllib.error.HTTPError as e:
+        return e.code in (401, 403, 404)
+    except Exception:
+        return False
 
 
 def check() -> None:
