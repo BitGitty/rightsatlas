@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-10",
+  "last_release": "2026-10-11",
   "log": [
     {
       "date": "2026-08-31",
@@ -164,6 +164,10 @@
     {
       "date": "2026-10-10",
       "film": "the-old-dark-house-1932"
+    },
+    {
+      "date": "2026-10-11",
+      "film": "the-devil-bat-1940"
     }
   ]
 }
