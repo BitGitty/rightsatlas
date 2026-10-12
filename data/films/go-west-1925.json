@@ -54,12 +54,7 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/go-west-1925-by-buster-keaton",
-      "label": "Internet Archive — Go West (1925), full film"
-    }
-  ],
+  "watch": [],
   "editorial": "Go West is a 1925 American silent comedy directed by and starring Buster Keaton for Metro-Goldwyn, a gentler, character-driven picture in which a lonely drifter forms an unlikely bond with a cow named Brown Eyes (not to be confused with the 1940 Marx Brothers film of the same title). Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
   "faq": []
 }
