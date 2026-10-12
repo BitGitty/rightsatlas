@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-11",
+  "last_release": "2026-10-12",
   "log": [
     {
       "date": "2026-08-31",
@@ -168,6 +168,10 @@
     {
       "date": "2026-10-11",
       "film": "the-devil-bat-1940"
+    },
+    {
+      "date": "2026-10-12",
+      "film": "the-pilgrims-1924"
     }
   ]
 }
