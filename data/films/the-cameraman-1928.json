@@ -54,12 +54,7 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/TheCameraman",
-      "label": "Internet Archive — The Cameraman (1928), full film"
-    }
-  ],
+  "watch": [],
   "editorial": "The Cameraman is a 1928 American silent comedy starring Buster Keaton as an aspiring newsreel photographer, directed by Edward Sedgwick and Keaton's first film under his MGM contract. Published in 1928, the film print's 95-year US copyright term has run, placing the photoplay in the US public domain by term expiry. Later MGM restorations may carry separate rights.",
   "faq": []
 }

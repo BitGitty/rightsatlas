@@ -54,12 +54,7 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/the-iron-horse-1924-by-john-ford",
-      "label": "Internet Archive — The Iron Horse (1924), full film"
-    }
-  ],
+  "watch": [],
   "editorial": "The Iron Horse is a 1924 American silent epic Western directed by John Ford and produced by Fox Film Corporation, starring George O'Brien and Madge Bellamy. Fox's large-scale answer to 'The Covered Wagon,' it dramatizes the building of the first transcontinental railroad, was the top-grossing film of 1924, and marked Ford's emergence as a major director of Westerns; it entered the National Film Registry in 2011. Published in 1924, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
   "faq": []
 }

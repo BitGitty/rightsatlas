@@ -2,22 +2,22 @@
  "checked": "2026-10-12",
  "items": {
   "a-dogs-life-1918-directed-by-charlie-chaplin": {
-   "ok": true,
+   "ok": false,
    "film": "a-dog-s-life-1918",
    "kind": "watch"
   },
   "All.Quiet.on.the.Western.Front.1930_201605": {
-   "ok": true,
+   "ok": false,
    "film": "all-quiet-on-the-western-front-1930",
    "kind": "watch"
   },
   "all-quiet-on-the-western-front_202601": {
-   "ok": true,
+   "ok": false,
    "film": "all-quiet-on-the-western-front-1930",
    "kind": "watch"
   },
   "animal-crackers-1930": {
-   "ok": true,
+   "ok": false,
    "film": "animal-crackers-1930",
    "kind": "watch"
   },
@@ -27,7 +27,7 @@
    "kind": "watch"
   },
   "catalogofcopyrig3121213li": {
-   "ok": true,
+   "ok": false,
    "film": "plan-9-from-outer-space-1957",
    "kind": "evidence"
   },
@@ -57,7 +57,7 @@
    "kind": "watch"
   },
   "blind-husbands-1919": {
-   "ok": true,
+   "ok": false,
    "film": "blind-husbands-1919",
    "kind": "watch"
   },
@@ -67,32 +67,32 @@
    "kind": "watch"
   },
   "broken-blossoms": {
-   "ok": true,
+   "ok": false,
    "film": "broken-blossoms-1919",
    "kind": "watch"
   },
   "turner_video_634479": {
-   "ok": true,
+   "ok": false,
    "film": "cabinet-of-dr-caligari-1920",
    "kind": "watch"
   },
   "Camille1921": {
-   "ok": true,
+   "ok": false,
    "film": "camille-1921",
    "kind": "evidence"
   },
   "1921Camille": {
-   "ok": true,
+   "ok": false,
    "film": "camille-1921",
    "kind": "watch"
   },
   "CarnivalofSouls": {
-   "ok": true,
+   "ok": false,
    "film": "carnival-of-souls-1962",
    "kind": "evidence"
   },
   "turner_video_340": {
-   "ok": true,
+   "ok": false,
    "film": "charade-1963",
    "kind": "watch"
   },
@@ -112,12 +112,12 @@
    "kind": "evidence"
   },
   "TERRORDEMENTIA13": {
-   "ok": true,
+   "ok": false,
    "film": "dementia-13-1963",
    "kind": "watch"
   },
   "Motionpict19601969librrich0013": {
-   "ok": true,
+   "ok": false,
    "film": "dementia-13-1963",
    "kind": "evidence"
   },
@@ -132,27 +132,27 @@
    "kind": "evidence"
   },
   "faust-1926": {
-   "ok": true,
+   "ok": false,
    "film": "faust-1926",
    "kind": "watch"
   },
   "FoolishWives1922_201704": {
-   "ok": true,
+   "ok": false,
    "film": "foolish-wives-1922",
    "kind": "watch"
   },
   "silent-girl-shy": {
-   "ok": true,
+   "ok": false,
    "film": "girl-shy-1924",
    "kind": "watch"
   },
   "go-west-1925-by-buster-keaton": {
-   "ok": true,
+   "ok": false,
    "film": "go-west-1925",
    "kind": "watch"
   },
   "Greed1924VHS": {
-   "ok": true,
+   "ok": false,
    "film": "greed-1924",
    "kind": "watch"
   },
@@ -162,17 +162,22 @@
    "kind": "evidence"
   },
   "haxan-witchcraft-through-the-ages-1922": {
-   "ok": true,
+   "ok": false,
    "film": "haxan-1922",
    "kind": "evidence"
   },
+  "HisGirlFriday": {
+   "ok": false,
+   "film": "his-girl-friday-1940",
+   "kind": "watch"
+  },
   "his_girl_friday": {
-   "ok": true,
+   "ok": false,
    "film": "his-girl-friday-1940",
    "kind": "evidence"
   },
   "house_on_haunted_hill_ipod": {
-   "ok": true,
+   "ok": false,
    "film": "house-on-haunted-hill-1959",
    "kind": "watch"
   },
@@ -182,17 +187,17 @@
    "kind": "watch"
   },
   "in-old-arizona-1928-by-irving-cummings-and-raoul-walsh": {
-   "ok": true,
+   "ok": false,
    "film": "in-old-arizona-1929",
    "kind": "evidence"
   },
   "in-old-arizona-1928-w": {
-   "ok": true,
+   "ok": false,
    "film": "in-old-arizona-1929",
    "kind": "watch"
   },
   "Intolerance": {
-   "ok": true,
+   "ok": false,
    "film": "intolerance-1916",
    "kind": "watch"
   },
@@ -202,7 +207,7 @@
    "kind": "watch"
   },
   "TheLastManOnEarth_72": {
-   "ok": true,
+   "ok": false,
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
@@ -212,17 +217,17 @@
    "kind": "watch"
   },
   "turner_video_47575": {
-   "ok": true,
+   "ok": false,
    "film": "mclintock-1963",
    "kind": "watch"
   },
   "metropolis-1927-english-titles": {
-   "ok": true,
+   "ok": false,
    "film": "metropolis-1927",
    "kind": "watch"
   },
   "morocco-30-1538596735589": {
-   "ok": true,
+   "ok": false,
    "film": "morocco-1930",
    "kind": "watch"
   },
@@ -242,12 +247,12 @@
    "kind": "watch"
   },
   "Night.Of.The.Living.Dead_1080p": {
-   "ok": true,
+   "ok": false,
    "film": "night-of-the-living-dead-1968",
    "kind": "watch"
   },
   "catalogofc19683221213libr": {
-   "ok": true,
+   "ok": false,
    "film": "the-devil-bat-1940",
    "kind": "evidence"
   },
@@ -257,42 +262,42 @@
    "kind": "watch"
   },
   "OrphansOfTheStorm_201312": {
-   "ok": true,
+   "ok": false,
    "film": "orphans-of-the-storm-1921",
    "kind": "watch"
   },
   "our-hospitality-1923-by-buster-keaton-and-john-g.-blystone": {
-   "ok": true,
+   "ok": false,
    "film": "our-hospitality-1923",
    "kind": "watch"
   },
   "OutsideTheLaw": {
-   "ok": true,
+   "ok": false,
    "film": "outside-the-law-1920",
    "kind": "watch"
   },
   "plan-9-from-outer-space": {
-   "ok": true,
+   "ok": false,
    "film": "plan-9-from-outer-space-1957",
    "kind": "watch"
   },
   "robot-monster-1953": {
-   "ok": true,
+   "ok": false,
    "film": "robot-monster-1953",
    "kind": "evidence"
   },
   "safety-last-1923-by-fred-c.-newmeyer-and-sam-taylor": {
-   "ok": true,
+   "ok": false,
    "film": "safety-last-1923",
    "kind": "watch"
   },
   "turner_video_11484": {
-   "ok": true,
+   "ok": false,
    "film": "seven-chances-1925",
    "kind": "watch"
   },
   "SherlockHolmes1916": {
-   "ok": true,
+   "ok": false,
    "film": "sherlock-holmes-1916",
    "kind": "watch"
   },
@@ -312,22 +317,17 @@
    "kind": "watch"
   },
   "steamboat-willie-mickey": {
-   "ok": true,
+   "ok": false,
    "film": "steamboat-willie-1928",
    "kind": "watch"
   },
   "street-angel-1928": {
-   "ok": true,
-   "film": "street-angel-1928",
-   "kind": "watch"
-  },
-  "street-angel-fox-film-corporation-1928": {
    "ok": false,
    "film": "street-angel-1928",
    "kind": "watch"
   },
   "sunrise_1927": {
-   "ok": true,
+   "ok": false,
    "film": "sunrise-1927",
    "kind": "watch"
   },
@@ -337,12 +337,12 @@
    "kind": "watch"
   },
   "BillSpragueCollection-TarzanOfTheApes": {
-   "ok": true,
+   "ok": false,
    "film": "tarzan-of-the-apes-1918",
    "kind": "watch"
   },
   "Ace_of_Hearts_1921": {
-   "ok": true,
+   "ok": false,
    "film": "the-ace-of-hearts-1921",
    "kind": "watch"
   },
@@ -351,23 +351,18 @@
    "film": "the-big-parade-1925",
    "kind": "watch"
   },
-  "the-big-trail-1930": {
-   "ok": false,
-   "film": "the-big-trail-1930",
-   "kind": "watch"
-  },
   "dw_griffith_birth_of_a_nation": {
-   "ok": false,
+   "ok": true,
    "film": "the-birth-of-a-nation-1915",
    "kind": "watch"
   },
   "TheBlackPirate1926DouglasFairbanksSRAndy": {
-   "ok": true,
+   "ok": false,
    "film": "the-black-pirate-1926",
    "kind": "watch"
   },
   "TheCameraman": {
-   "ok": true,
+   "ok": false,
    "film": "the-cameraman-1928",
    "kind": "watch"
   },
@@ -387,7 +382,7 @@
    "kind": "watch"
   },
   "the-cocoanuts": {
-   "ok": true,
+   "ok": false,
    "film": "the-cocoanuts-1929",
    "kind": "watch"
   },
@@ -406,11 +401,6 @@
    "film": "the-crowd-1928",
    "kind": "evidence"
   },
-  "FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks": {
-   "ok": true,
-   "film": "the-dawn-patrol-1930",
-   "kind": "evidence"
-  },
   "Motionpict19591960librrich0008": {
    "ok": true,
    "film": "the-pilgrims-1924",
@@ -421,13 +411,18 @@
    "film": "the-divorcee-1930",
    "kind": "evidence"
   },
+  "FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks": {
+   "ok": false,
+   "film": "the-dawn-patrol-1930",
+   "kind": "evidence"
+  },
   "the-devil-bat-1940": {
-   "ok": true,
+   "ok": false,
    "film": "the-devil-bat-1940",
    "kind": "watch"
   },
   "catalogofc19673211213libr": {
-   "ok": true,
+   "ok": false,
    "film": "the-devil-bat-1940",
    "kind": "evidence"
   },
@@ -439,15 +434,20 @@
   "the-docks-of-new-york_202506": {
    "ok": false,
    "film": "the-docks-of-new-york-1928",
-   "kind": "evidence"
+   "kind": "watch"
   },
   "20211115_20211115_2301": {
-   "ok": true,
+   "ok": false,
    "film": "the-docks-of-new-york-1928",
    "kind": "watch"
   },
+  "the-docks-of-new-york-1928-by-josef-von-sternberg": {
+   "ok": false,
+   "film": "the-docks-of-new-york-1928",
+   "kind": "evidence"
+  },
   "silent-the-dragon-painter": {
-   "ok": true,
+   "ok": false,
    "film": "the-dragon-painter-1919",
    "kind": "watch"
   },
@@ -457,7 +457,7 @@
    "kind": "watch"
   },
   "The_Four_Horsemen_of_the_Apocalypse": {
-   "ok": true,
+   "ok": false,
    "film": "the-four-horsemen-of-the-apocalypse-1921",
    "kind": "watch"
   },
@@ -467,7 +467,7 @@
    "kind": "watch"
   },
   "The_General_Buster_Keaton": {
-   "ok": true,
+   "ok": false,
    "film": "the-general-1926",
    "kind": "watch"
   },
@@ -477,7 +477,7 @@
    "kind": "watch"
   },
   "the-golem-1920": {
-   "ok": true,
+   "ok": false,
    "film": "the-golem-1920",
    "kind": "evidence"
   },
@@ -492,22 +492,22 @@
    "kind": "watch"
   },
   "the-hollywood-revue-1929": {
-   "ok": true,
+   "ok": false,
    "film": "the-hollywood-revue-of-1929-1929",
    "kind": "watch"
   },
   "The_Hunchback_of_Notre_Dame": {
-   "ok": true,
+   "ok": false,
    "film": "the-hunchback-of-notre-dame-1923",
    "kind": "watch"
   },
   "the-iron-horse-1924-by-john-ford": {
-   "ok": true,
+   "ok": false,
    "film": "the-iron-horse-1924",
    "kind": "watch"
   },
   "the-jazz-singer-1927_202301": {
-   "ok": true,
+   "ok": false,
    "film": "the-jazz-singer-1927",
    "kind": "evidence"
   },
@@ -717,60 +717,309 @@
    "kind": "evidence"
   }
  },
- "repaired": [
+ "repaired": [],
+ "dropped": [
+  {
+   "film": "a-dog-s-life-1918",
+   "was": "a-dogs-life-1918-directed-by-charlie-chaplin"
+  },
+  {
+   "film": "all-quiet-on-the-western-front-1930",
+   "was": "All.Quiet.on.the.Western.Front.1930_201605"
+  },
+  {
+   "film": "all-quiet-on-the-western-front-1930",
+   "was": "all-quiet-on-the-western-front_202601"
+  },
+  {
+   "film": "animal-crackers-1930",
+   "was": "animal-crackers-1930"
+  },
+  {
+   "film": "blind-husbands-1919",
+   "was": "blind-husbands-1919"
+  },
+  {
+   "film": "broken-blossoms-1919",
+   "was": "broken-blossoms"
+  },
+  {
+   "film": "cabinet-of-dr-caligari-1920",
+   "was": "turner_video_634479"
+  },
+  {
+   "film": "camille-1921",
+   "was": "1921Camille"
+  },
+  {
+   "film": "carnival-of-souls-1962",
+   "was": "CarnivalofSouls"
+  },
+  {
+   "film": "charade-1963",
+   "was": "turner_video_340"
+  },
+  {
+   "film": "dementia-13-1963",
+   "was": "dementia-13-1963-horror-full-movie-francis-ford-coppola"
+  },
+  {
+   "film": "dementia-13-1963",
+   "was": "TERRORDEMENTIA13"
+  },
+  {
+   "film": "faust-1926",
+   "was": "faust-1926"
+  },
+  {
+   "film": "foolish-wives-1922",
+   "was": "FoolishWives1922_201704"
+  },
+  {
+   "film": "girl-shy-1924",
+   "was": "silent-girl-shy"
+  },
+  {
+   "film": "go-west-1925",
+   "was": "go-west-1925-by-buster-keaton"
+  },
+  {
+   "film": "greed-1924",
+   "was": "Greed1924VHS"
+  },
+  {
+   "film": "haxan-1922",
+   "was": "haxan-witchcraft-through-the-ages-1922"
+  },
   {
    "film": "his-girl-friday-1940",
-   "was": "his_girl_friday",
-   "now": "HisGirlFriday",
-   "kind": "watch"
+   "was": "HisGirlFriday"
+  },
+  {
+   "film": "house-on-haunted-hill-1959",
+   "was": "house_on_haunted_hill_ipod"
+  },
+  {
+   "film": "in-old-arizona-1929",
+   "was": "in-old-arizona-1928-w"
+  },
+  {
+   "film": "intolerance-1916",
+   "was": "Intolerance"
+  },
+  {
+   "film": "last-man-on-earth-1964",
+   "was": "TheLastManOnEarth_72"
+  },
+  {
+   "film": "mclintock-1963",
+   "was": "turner_video_47575"
+  },
+  {
+   "film": "metropolis-1927",
+   "was": "metropolis-1927-english-titles"
+  },
+  {
+   "film": "morocco-1930",
+   "was": "morocco-30-1538596735589"
+  },
+  {
+   "film": "night-of-the-living-dead-1968",
+   "was": "Night.Of.The.Living.Dead_1080p"
+  },
+  {
+   "film": "orphans-of-the-storm-1921",
+   "was": "OrphansOfTheStorm_201312"
+  },
+  {
+   "film": "our-hospitality-1923",
+   "was": "our-hospitality-1923-by-buster-keaton-and-john-g.-blystone"
+  },
+  {
+   "film": "outside-the-law-1920",
+   "was": "OutsideTheLaw"
+  },
+  {
+   "film": "plan-9-from-outer-space-1957",
+   "was": "plan-9-from-outer-space"
+  },
+  {
+   "film": "safety-last-1923",
+   "was": "safety-last-1923-by-fred-c.-newmeyer-and-sam-taylor"
+  },
+  {
+   "film": "seven-chances-1925",
+   "was": "turner_video_11484"
+  },
+  {
+   "film": "sherlock-holmes-1916",
+   "was": "SherlockHolmes1916"
   },
   {
    "film": "steamboat-bill-jr-1928",
-   "was": "SteamboatBillJr",
-   "now": "SteamboatBillJr",
-   "kind": "watch"
+   "was": "SteamboatBillJr"
+  },
+  {
+   "film": "steamboat-willie-1928",
+   "was": "steamboat-willie-mickey"
   },
   {
    "film": "street-angel-1928",
-   "was": "street-angel-fox-film-corporation-1928",
-   "now": "street-angel-1928",
-   "kind": "watch"
+   "was": "street-angel-1928"
   },
   {
-   "film": "the-birth-of-a-nation-1915",
-   "was": "dw_griffith_birth_of_a_nation",
-   "now": "dw_griffith_birth_of_a_nation",
-   "kind": "watch"
+   "film": "street-angel-1928",
+   "was": "street-angel-1928"
+  },
+  {
+   "film": "sunrise-1927",
+   "was": "sunrise_1927"
+  },
+  {
+   "film": "tarzan-of-the-apes-1918",
+   "was": "BillSpragueCollection-TarzanOfTheApes"
+  },
+  {
+   "film": "the-ace-of-hearts-1921",
+   "was": "Ace_of_Hearts_1921"
+  },
+  {
+   "film": "the-black-pirate-1926",
+   "was": "TheBlackPirate1926DouglasFairbanksSRAndy"
+  },
+  {
+   "film": "the-cameraman-1928",
+   "was": "TheCameraman"
+  },
+  {
+   "film": "the-cocoanuts-1929",
+   "was": "the-cocoanuts"
+  },
+  {
+   "film": "the-crowd-1928",
+   "was": "TheCrowd1928"
+  },
+  {
+   "film": "the-devil-bat-1940",
+   "was": "the-devil-bat-1940"
   },
   {
    "film": "the-docks-of-new-york-1928",
-   "was": "the-docks-of-new-york_202506",
-   "now": "the-docks-of-new-york-1928-by-josef-von-sternberg",
-   "kind": "evidence"
-  }
- ],
- "dropped": [
-  {
-   "film": "hallelujah-1929",
-   "was": "hallelujah_1929"
+   "was": "the-docks-of-new-york_202506"
   },
   {
-   "film": "the-big-trail-1930",
-   "was": "the-big-trail-1930"
+   "film": "the-docks-of-new-york-1928",
+   "was": "20211115_20211115_2301"
   },
   {
-   "film": "the-covered-wagon-1923",
-   "was": "the-covered-wagon-1923-by-james-cruze"
+   "film": "the-dragon-painter-1919",
+   "was": "silent-the-dragon-painter"
   },
   {
-   "film": "the-dawn-patrol-1930",
-   "was": "FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks"
+   "film": "the-four-horsemen-of-the-apocalypse-1921",
+   "was": "The_Four_Horsemen_of_the_Apocalypse"
+  },
+  {
+   "film": "the-general-1926",
+   "was": "The_General_Buster_Keaton"
+  },
+  {
+   "film": "the-hollywood-revue-of-1929-1929",
+   "was": "the-hollywood-revue-1929"
+  },
+  {
+   "film": "the-hunchback-of-notre-dame-1923",
+   "was": "The_Hunchback_of_Notre_Dame"
+  },
+  {
+   "film": "the-iron-horse-1924",
+   "was": "the-iron-horse-1924-by-john-ford"
   }
  ],
  "unrepaired_evidence": [
   {
+   "film": "any-old-port-1930",
+   "was": "catalogofcopyrig3121213li"
+  },
+  {
+   "film": "camille-1921",
+   "was": "Camille1921"
+  },
+  {
+   "film": "camille-1921",
+   "was": "Camille1921"
+  },
+  {
+   "film": "carnival-of-souls-1962",
+   "was": "CarnivalofSouls"
+  },
+  {
+   "film": "dementia-13-1963",
+   "was": "Motionpict19601969librrich0013"
+  },
+  {
+   "film": "detour-1945",
+   "was": "catalogofc19733271213libr"
+  },
+  {
    "film": "hallelujah-1929",
    "was": "hallelujah_1929"
+  },
+  {
+   "film": "haxan-1922",
+   "was": "haxan-witchcraft-through-the-ages-1922"
+  },
+  {
+   "film": "haxan-1922",
+   "was": "haxan-witchcraft-through-the-ages-1922"
+  },
+  {
+   "film": "his-girl-friday-1940",
+   "was": "his_girl_friday"
+  },
+  {
+   "film": "in-old-arizona-1929",
+   "was": "in-old-arizona-1928-by-irving-cummings-and-raoul-walsh"
+  },
+  {
+   "film": "last-man-on-earth-1964",
+   "was": "TheLastManOnEarth_72"
+  },
+  {
+   "film": "night-of-the-living-dead-1968",
+   "was": "catalogofc19683221213libr"
+  },
+  {
+   "film": "plan-9-from-outer-space-1957",
+   "was": "catalogofcopyrig3121213li"
+  },
+  {
+   "film": "robot-monster-1953",
+   "was": "robot-monster-1953"
+  },
+  {
+   "film": "the-dawn-patrol-1930",
+   "was": "FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks"
+  },
+  {
+   "film": "the-devil-bat-1940",
+   "was": "catalogofc19673211213libr"
+  },
+  {
+   "film": "the-devil-bat-1940",
+   "was": "catalogofc19683221213libr"
+  },
+  {
+   "film": "the-docks-of-new-york-1928",
+   "was": "the-docks-of-new-york-1928-by-josef-von-sternberg"
+  },
+  {
+   "film": "the-golem-1920",
+   "was": "the-golem-1920"
+  },
+  {
+   "film": "the-jazz-singer-1927",
+   "was": "the-jazz-singer-1927_202301"
   }
  ]
 }

@@ -98,11 +98,6 @@
   },
   "watch": [
     {
-      "url": "https://archive.org/details/SherlockHolmes1916",
-      "label": "Sherlock Holmes (1916) — community upload, 1440×1080, Public Domain Mark 1.0",
-      "quality": "good"
-    },
-    {
       "url": "https://archive.org/details/sherlock-holmes-1916",
       "label": "Sherlock Holmes (1916) — community upload, 544×408, feature films collection",
       "quality": "fair"

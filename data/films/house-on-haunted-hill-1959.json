@@ -88,11 +88,6 @@
   },
   "watch": [
     {
-      "url": "https://archive.org/details/house_on_haunted_hill_ipod",
-      "label": "Internet Archive (public domain label)",
-      "quality": "480p"
-    },
-    {
       "url": "https://archive.org/details/HouseOnHauntedHill1959",
       "label": "Internet Archive (CC BY 3.0 label)",
       "quality": "480p"

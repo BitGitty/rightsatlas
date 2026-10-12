@@ -85,18 +85,7 @@
       ]
     }
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/All.Quiet.on.the.Western.Front.1930_201605",
-      "label": "Internet Archive (standing copy since 2016)",
-      "quality": "SD, varies"
-    },
-    {
-      "url": "https://archive.org/details/all-quiet-on-the-western-front_202601",
-      "label": "Internet Archive — 1930 sound + silent versions",
-      "quality": "HD"
-    }
-  ],
+  "watch": [],
   "editorial": "All Quiet on the Western Front is Universal's 1930 adaptation of Erich Maria Remarque's anti-war novel, directed by Lewis Milestone and produced by 21-year-old Carl Laemmle Jr. It swept the third Academy Awards, winning Outstanding Production and Best Director, and its trench work — the tracking shots along the parapet, the final reach for a butterfly — still defines how the First World War looks on screen. Universal issued it in both sound and silent versions in 1930, and on January 1, 2026 its 95-year US copyright term expired, so the photoplay is now public domain in the United States by term, with no renewal analysis required.\n\nThe clean part is unusually clean here. The recorded 1930 soundtrack was published as part of the film and shares its expired term, and even the underlying German novel — first published in 1929 — has already run out its own 95-year US term, so the story layer is free too. The one trap that actually applies is the restoration: Universal and archival institutions have produced modern restored transfers, and the 4K 'Blu-ray remux' copies now circulating carry a thin derivative copyright in the remaster, not in the film. For reuse, pull an archival print (the long-standing Internet Archive copies below) rather than a studio disc rip, and you are on the safest possible footing.",
   "faq": [
     [

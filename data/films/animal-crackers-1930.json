@@ -87,11 +87,6 @@
   },
   "watch": [
     {
-      "url": "https://archive.org/details/animal-crackers-1930",
-      "label": "Internet Archive - full feature (~98 min)",
-      "quality": "SD, varies"
-    },
-    {
       "url": "https://archive.org/details/animal-crackers_1930",
       "label": "Internet Archive - feature_films copy",
       "quality": "SD, varies"

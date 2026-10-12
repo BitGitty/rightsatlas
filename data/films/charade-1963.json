@@ -80,13 +80,7 @@
       ]
     }
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/turner_video_340",
-      "label": "Internet Archive",
-      "quality": "varies"
-    }
-  ],
+  "watch": [],
   "editorial": "Charade is the textbook example of why a one-click public-domain answer fails. The film — Cary Grant, Audrey Hepburn, Paris, one of the best thrillers of the 1960s — fell into the US public domain the day it was released, because Universal printed a defective copyright notice on it.\n\nBut Henry Mancini's score never fell with it. The music was registered and renewed separately and remains protected, which is why 'public domain' uploads of Charade still receive legitimate audio claims. And under the Supreme Court's Stewart v. Abend rule, the still-separate rights in the underlying magazine story add another layer of risk for commercial reuse. Free film, protected music, uncertain story — three different answers inside one movie.",
   "faq": [
     [
