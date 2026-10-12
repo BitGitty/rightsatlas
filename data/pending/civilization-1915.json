@@ -1,0 +1,96 @@
+{
+  "id": "civilization-1915",
+  "title": "Civilization",
+  "year": 1915,
+  "country": "US",
+  "last_verified": "2026-10-12",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was released in 1915-1916 (the Internet Archive copies date it April and June 1916; the queue year is 1915). Both dates fall before 1931. Duke's Public Domain Day 2026 page confirms that US works published in 1930 entered the public domain on 1 January 2026, so earlier publications are already in the public domain by term. Produced in the US by Triangle Film Corporation.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia article credits the original score to Hugo Riesenfeld and Victor Schertzinger. That 1916 score is public domain by term. A score on a modern copy may be a new recording or arrangement, which is separately protected. Check each copy's credits.",
+          "source": "Wikipedia, Civilization (1916 film)",
+          "url": "https://en.wikipedia.org/wiki/Civilization_(1916_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story is an original by C. Gardner Sullivan, not an adaptation, according to the Wikipedia article. It was written in 1915 for a film released in 1915-1916, so the story's term has expired under the same rule as the print.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1942,
+      1943,
+      1944
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Civilization” (renewals ~1942, 1943, 1944)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Civilization"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/civilization_1916",
+      "label": "Civilization (1916), Internet Archive, about 77 min, silent",
+      "quality": "full feature"
+    },
+    {
+      "url": "https://archive.org/details/silent-civilization",
+      "label": "Civilization, Internet Archive, about 77 min, silent",
+      "quality": "full feature"
+    }
+  ],
+  "editorial": "Civilization is a silent anti-war feature from Triangle Film Corporation, credited to Reginald Barker, Thomas H. Ince and Raymond B. West. The story is by C. Gardner Sullivan. It follows a submarine commander who refuses to torpedo a civilian liner, and it brings Jesus Christ in as a pacifist figure. It premiered at the Majestic Theatre in Los Angeles on 17 April 1916. It was selected for the National Film Registry in 1999. A creator would want it for its period war imagery and its allegorical sequences, and because the Internet Archive holds full-length copies of about 77 minutes.\n\nThe picture itself is free to use because it was published long ago. The trap is in the audio on a modern copy. The original score is credited to Hugo Riesenfeld and Victor Schertzinger, but a copy you download may carry a newer recording or arrangement that is separately protected. Trademark and any modern restoration credits were not confirmed here. Check the source copy for added music, new intertitles or other material before you reuse it.",
+  "faq": [
+    [
+      "Can I reuse footage from Civilization in my own video?",
+      "Yes for the images. The film was published in 1915-1916 and its US copyright term has expired, and its story was an original by C. Gardner Sullivan with no later source. Check the soundtrack of the specific copy you use, because a modern score or new titles can be separately protected."
+    ],
+    [
+      "Do I have to check for a copyright renewal?",
+      "No. A renewal check only matters for films whose original term was still running in the renewal era. This film was published long enough ago that its US term has expired, so the 1942-1944 renewal window is not decisive."
+    ]
+  ]
+}
