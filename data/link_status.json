@@ -207,7 +207,7 @@
    "kind": "evidence"
   },
   "TheLittleShopOfHorrors": {
-   "ok": true,
+   "ok": false,
    "film": "little-shop-of-horrors-1960",
    "kind": "watch"
   },
@@ -277,7 +277,7 @@
    "kind": "watch"
   },
   "robin-hood-1922": {
-   "ok": true,
+   "ok": false,
    "film": "robin-hood-1922",
    "kind": "watch"
   },
@@ -292,7 +292,7 @@
    "kind": "watch"
   },
   "seven-chances-1925-by-buster-keaton": {
-   "ok": true,
+   "ok": false,
    "film": "seven-chances-1925",
    "kind": "watch"
   },
@@ -722,7 +722,25 @@
    "kind": "evidence"
   }
  },
- "repaired": [],
- "dropped": [],
+ "repaired": [
+  {
+   "film": "little-shop-of-horrors-1960",
+   "was": "TheLittleShopOfHorrors",
+   "now": "The.Little.Shop.of.Horrors.60",
+   "kind": "watch"
+  },
+  {
+   "film": "seven-chances-1925",
+   "was": "seven-chances-1925-by-buster-keaton",
+   "now": "turner_video_11484",
+   "kind": "watch"
+  }
+ ],
+ "dropped": [
+  {
+   "film": "robin-hood-1922",
+   "was": "robin-hood-1922"
+  }
+ ],
  "unrepaired_evidence": []
 }
