@@ -1,0 +1,103 @@
+{
+  "id": "the-cheat-1915",
+  "title": "The Cheat",
+  "year": 1915,
+  "country": "US",
+  "last_verified": "2026-10-12",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The Cheat was released December 13, 1915 by the Jesse L. Lasky Feature Play Company. Under US term rules, works published in 1930 or earlier are in the public domain by term. Duke CSPD confirms that works from 1930 entered the US public domain on January 1, 2026, so a 1915 release is well past that line.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was silent, so there is no original recorded track. The images are free, but any music on a modern release or upload is a separate work with its own rights. Check the specific copy you use.",
+          "source": "Internet Archive item metadata for the-cheat-1915-by-cecil-b.-de-mille, which lists no score credit",
+          "url": "https://archive.org/details/the-cheat-1915-by-cecil-b.-de-mille"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay is credited to Hector Turnbull and Jeanie Macpherson and was published as the 1915 film. It is a 1915 work, so its term has expired in the US. I did not find or confirm any earlier source work that would carry a separate term.",
+          "source": "cecilbdemille.com film page (credits); Duke CSPD Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I found no specific modern restoration to cite. The film was named to the National Film Registry in 1993 and has been on DVD since 2002. A faithful copy adds no US copyright, but new scores, new titles or added material on any particular release can be protected.",
+          "source": "Wikipedia summary of the film's release history (context only)",
+          "url": "https://en.wikipedia.org/wiki/The_Cheat_(1915_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1942,
+      1943,
+      1944
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Cheat” (renewals ~1942, 1943, 1944)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Cheat"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-cheat-1915-by-cecil-b.-de-mille",
+      "label": "The Cheat (1915) by Cecil B. De Mille — Internet Archive, about 58 min, tagged public domain in USA",
+      "quality": "unrated; check the music track before reuse"
+    },
+    {
+      "url": "https://archive.org/details/TheCheat1915",
+      "label": "The Cheat (1915) — Internet Archive, about 59 min",
+      "quality": "unrated; check the music track before reuse"
+    }
+  ],
+  "editorial": "The Cheat is a Cecil B. DeMille silent drama released December 13, 1915 by the Jesse L. Lasky Feature Play Company. It stars Fannie Ward as Edith Hardy, a society wife who loses Red Cross funds and borrows the money from the ivory dealer Tori, played by Sessue Hayakawa. The screenplay is credited to Hector Turnbull and Jeanie Macpherson, with photography by Alvin Wyckoff. It was named to the National Film Registry in 1993. A creator might want it for the courtroom climax, the branding scene, or Hayakawa's performance.\n\nThe film's 1915 print is in the public domain by term, so no renewal question arises. The trap is the copy, not the film. The Internet Archive uploads carry no score credit in their metadata, and a modern DVD or stream may add its own music, titles or other new material, which is protected separately. The film also uses a racial stereotype: Japanese American groups protested it, and a 1918 reissue recast the villain as Burmese. Use a copy you can trace, and check for added material.",
+  "faq": [
+    [
+      "Can I reuse footage from The Cheat (1915) in my own video?",
+      "Yes for the 1915 images, because the film was published in 1915 and its term has expired in the US. Take it from a copy whose provenance you know, and do not carry over a modern score or newly added titles unless that material is itself free to use."
+    ],
+    [
+      "Do I need to search for a copyright renewal for The Cheat?",
+      "No. A 1915 film is out of copyright by term, so the renewal search matters only for films published after the cutoff. The Stanford renewal database link in this dossier is there for reference only."
+    ]
+  ]
+}
