@@ -157,7 +157,7 @@
    "kind": "watch"
   },
   "hallelujah_1929": {
-   "ok": true,
+   "ok": false,
    "film": "hallelujah-1929",
    "kind": "evidence"
   },
@@ -206,8 +206,8 @@
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
-  "TheLittleShopOfHorrors": {
-   "ok": false,
+  "The.Little.Shop.of.Horrors.60": {
+   "ok": true,
    "film": "little-shop-of-horrors-1960",
    "kind": "watch"
   },
@@ -276,11 +276,6 @@
    "film": "plan-9-from-outer-space-1957",
    "kind": "watch"
   },
-  "robin-hood-1922": {
-   "ok": false,
-   "film": "robin-hood-1922",
-   "kind": "watch"
-  },
   "robot-monster-1953": {
    "ok": true,
    "film": "robot-monster-1953",
@@ -291,8 +286,8 @@
    "film": "safety-last-1923",
    "kind": "watch"
   },
-  "seven-chances-1925-by-buster-keaton": {
-   "ok": false,
+  "turner_video_11484": {
+   "ok": true,
    "film": "seven-chances-1925",
    "kind": "watch"
   },
@@ -312,7 +307,7 @@
    "kind": "watch"
   },
   "SteamboatBillJr": {
-   "ok": true,
+   "ok": false,
    "film": "steamboat-bill-jr-1928",
    "kind": "watch"
   },
@@ -327,7 +322,7 @@
    "kind": "watch"
   },
   "street-angel-fox-film-corporation-1928": {
-   "ok": true,
+   "ok": false,
    "film": "street-angel-1928",
    "kind": "watch"
   },
@@ -357,12 +352,12 @@
    "kind": "watch"
   },
   "the-big-trail-1930": {
-   "ok": true,
+   "ok": false,
    "film": "the-big-trail-1930",
    "kind": "watch"
   },
   "dw_griffith_birth_of_a_nation": {
-   "ok": true,
+   "ok": false,
    "film": "the-birth-of-a-nation-1915",
    "kind": "watch"
   },
@@ -442,7 +437,7 @@
    "kind": "watch"
   },
   "the-docks-of-new-york_202506": {
-   "ok": true,
+   "ok": false,
    "film": "the-docks-of-new-york-1928",
    "kind": "evidence"
   },
@@ -724,23 +719,58 @@
  },
  "repaired": [
   {
-   "film": "little-shop-of-horrors-1960",
-   "was": "TheLittleShopOfHorrors",
-   "now": "The.Little.Shop.of.Horrors.60",
+   "film": "his-girl-friday-1940",
+   "was": "his_girl_friday",
+   "now": "HisGirlFriday",
    "kind": "watch"
   },
   {
-   "film": "seven-chances-1925",
-   "was": "seven-chances-1925-by-buster-keaton",
-   "now": "turner_video_11484",
+   "film": "steamboat-bill-jr-1928",
+   "was": "SteamboatBillJr",
+   "now": "SteamboatBillJr",
    "kind": "watch"
+  },
+  {
+   "film": "street-angel-1928",
+   "was": "street-angel-fox-film-corporation-1928",
+   "now": "street-angel-1928",
+   "kind": "watch"
+  },
+  {
+   "film": "the-birth-of-a-nation-1915",
+   "was": "dw_griffith_birth_of_a_nation",
+   "now": "dw_griffith_birth_of_a_nation",
+   "kind": "watch"
+  },
+  {
+   "film": "the-docks-of-new-york-1928",
+   "was": "the-docks-of-new-york_202506",
+   "now": "the-docks-of-new-york-1928-by-josef-von-sternberg",
+   "kind": "evidence"
   }
  ],
  "dropped": [
   {
-   "film": "robin-hood-1922",
-   "was": "robin-hood-1922"
+   "film": "hallelujah-1929",
+   "was": "hallelujah_1929"
+  },
+  {
+   "film": "the-big-trail-1930",
+   "was": "the-big-trail-1930"
+  },
+  {
+   "film": "the-covered-wagon-1923",
+   "was": "the-covered-wagon-1923-by-james-cruze"
+  },
+  {
+   "film": "the-dawn-patrol-1930",
+   "was": "FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks"
   }
  ],
- "unrepaired_evidence": []
+ "unrepaired_evidence": [
+  {
+   "film": "hallelujah-1929",
+   "was": "hallelujah_1929"
+  }
+ ]
 }
