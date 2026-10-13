@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-12",
+ "checked": "2026-10-13",
  "items": {
   "animal-crackers_1930": {
    "ok": true,
@@ -184,11 +184,6 @@
   "cat-and-the-canary-1927": {
    "ok": true,
    "film": "the-cat-and-the-canary-1927",
-   "kind": "watch"
-  },
-  "the-circus-charlie-chaplin": {
-   "ok": false,
-   "film": "the-circus-1928",
    "kind": "watch"
   },
   "catalogofcopyrig3101213li": {
@@ -478,11 +473,6 @@
   }
  },
  "repaired": [],
- "dropped": [
-  {
-   "film": "the-circus-1928",
-   "was": "the-circus-charlie-chaplin"
-  }
- ],
+ "dropped": [],
  "unrepaired_evidence": []
 }

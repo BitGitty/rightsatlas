@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-12",
+  "last_release": "2026-10-13",
   "log": [
     {
       "date": "2026-08-31",
@@ -172,6 +172,10 @@
     {
       "date": "2026-10-12",
       "film": "the-pilgrims-1924"
+    },
+    {
+      "date": "2026-10-13",
+      "film": "santa-claus-conquers-the-martians-1964"
     }
   ]
 }
