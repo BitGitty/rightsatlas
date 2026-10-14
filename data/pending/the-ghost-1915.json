@@ -1,0 +1,86 @@
+{
+  "id": "the-ghost-1915",
+  "title": "The Ghost",
+  "year": 1915,
+  "country": "US",
+  "last_verified": "2026-10-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "A US film published in 1915 is past the maximum US copyright term, which covers works published 95 years back from the current year. Works published in 1930 entered the public domain on 1 January 2026, so a 1915 release is well past that. The Duke Center for the Study of the Public Domain lists the annual cutoff. I could not identify the producing studio or confirm the release details of this specific title.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1915 film was silent, so there is no original recorded track. Any music on a modern copy is a separate recording or composition that may be protected. I could not confirm that this title was silent from a fetched source; this is inferred from the year."
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I could not identify the source material or the producer of this 1915 'The Ghost'. The title is generic and searches did not return a matching record. The story layer needs a check of the AFI Catalog or the Library of Congress."
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No restoration of a 1915 film titled 'The Ghost' was found. Any modern restoration would add rights only in what it adds, such as a new score or new titles, not in the faithful image."
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1942,
+      1943,
+      1944
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Ghost” (renewals ~1942, 1943, 1944)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Ghost"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The queue lists 'The Ghost' as a 1915 US film, but my searches found no record of it. The title is common, and I could not tell it apart from similar 1915 releases such as Lubin's 'The Ghost of Twisted Oaks' (released 11 November 1915). I am therefore not stating a studio, cast or plot for it.\n\nThe print rests on term expiry alone, because a film published in 1915 is past the US term. That does not cover a modern score or new titles added to a transfer, and the story layer is unchecked. Confirm which film this is, and what it was adapted from, before relying on any copy.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1915 film The Ghost?",
+      "The 1915 print is public domain in the US by term expiry. First confirm the exact film, since this title is generic. Check any copy for an added score, new intertitles or other material, which can be separately protected."
+    ],
+    [
+      "Is there a renewal I need to worry about?",
+      "No. A 1915 work's term ended without any renewal affecting it today, so the Stanford and Catalog of Copyright Entries links are only for curiosity. The open question is the identity of the film and its source story, not the renewal."
+    ]
+  ]
+}
