@@ -3,7 +3,7 @@
   "title": "The Kid Brother",
   "year": 1927,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-10-14",
   "byline": null,
   "layers": {
     "print": {
@@ -11,50 +11,70 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released January 22, 1927; the 95-year US copyright term for 1927 publications expired at the end of 2022. Duke CSPD lists The Kid Brother (starring Harold Lloyd, directed by Ted Wilde) among the films entering the US public domain on January 1, 2023.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images are free but any music on a modern copy is separate. Restored releases carry a Carl Davis score, and the Criterion release also offers an alternate Gaylord Carter organ score; those recordings and compositions can be protected independently of the film."
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Howard J. Green is credited as writer. I did not confirm whether the story was original or adapted from earlier material, so no source-term finding is made."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A restored version with a new Carl Davis score was prepared by Kevin Brownlow and David Gill for Thames Television. The 2019 Criterion Blu-ray uses a new 4K transfer. A faithful transfer adds no US copyright, but the new scores, any new titles and added extras can be protected."
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1954,
-      1955,
-      1956
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “The Kid Brother” (renewals ~1954, 1955, 1956)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Kid+Brother"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "The Kid Brother is a 1927 American silent comedy starring Harold Lloyd as the meek youngest son of a sheriff, directed by Ted Wilde and released by Paramount. As a 1927 publication, the film print is in the US public domain by expiry of the 95-year copyright term. Music and restoration layers remain undetermined pending their own evidence.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-kid-brother-1927_202508",
+      "label": "The Kid Brother (1927) – Internet Archive, Public Domain Mark",
+      "quality": "silent, about 83 min, tagged Public Domain Mark 1.0"
+    },
+    {
+      "url": "https://archive.org/details/the-kid-brother_1927",
+      "label": "The Kid Brother (1927) – Internet Archive",
+      "quality": "about 82 min, no score information in the metadata"
+    }
+  ],
+  "editorial": "The Kid Brother is Harold Lloyd's 1927 silent comedy for Paramount, directed by Ted Wilde. Lloyd plays Harold Hickory, the timid youngest son of a sheriff, who finds his nerve after meeting a woman from a traveling medicine show. It was released on January 22, 1927, and Duke's Center for the Study of the Public Domain lists it among the films that entered the US public domain on January 1, 2023.\n\nThe rights trap is the soundtrack and the restored edition, not the images. The 1927 print is free in the US. A modern release may add a Carl Davis score or a Gaylord Carter organ score, new titles and Criterion's new 4K transfer. A straight copy of the picture is safe, but take the music and the extras from a commercial edition and you may be using protected material. Pair the film with your own score or a public-domain one. Ripping a copy-protected disc can also raise a DMCA anti-circumvention issue.",
+  "faq": [
+    [
+      "Can I use The Kid Brother in my own video or on a streaming channel?",
+      "Yes for the 1927 images in the US. The copyright term has expired, and Duke's list of films that entered the public domain in 2023 includes it. Check the source copy, though: a score, new intertitles or added material on a modern release may still be protected."
+    ],
+    [
+      "Is the Criterion or Carl Davis version free to reuse?",
+      "Not safely. A faithful scan of the film adds no US copyright, but the Carl Davis and Gaylord Carter scores and any new material on the release can be protected. Use an Internet Archive copy tagged Public Domain, check what music it carries, or add your own score."
+    ]
+  ]
 }

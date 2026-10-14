@@ -3,7 +3,7 @@
   "title": "The Freshman",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-10-14",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,48 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1925 (premiere September 20, 1925). The 95-year US copyright term for works published in 1925 ran out at the end of 2020, so the film entered the US public domain on January 1, 2021. Duke CSPD's Public Domain Day 2021 page lists Harold Lloyd's The Freshman among the films entering the public domain.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2021/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The original 1925 score is credited to Harold Berg, and as a 1925 work it is public domain in the US by term. A modern copy often carries a newer score, which is a separate work and protected on its own. The 2014 Criterion release uses a new score by Carl Davis. Check which score a given copy carries; the silent images are free, a modern soundtrack is not.",
+          "source": "Reel Reviews, Criterion Blu-ray review",
+          "url": "https://www.reelreviews.com/home-video/the-freshman-bluray-review"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is an original screenplay credited to John Grey, Sam Taylor, Tim Whelan and Ted Wilde, published with the 1925 film, so it expired with the film. H. C. Witwer later claimed it drew on his 1915 short story 'The Emancipation of Rodney'. That story was published in 1915, so its US term has also expired.",
+          "source": "Duke CSPD, Public Domain Day 2021",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2021/"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Criterion released the film on Blu-ray and DVD on March 25, 2014. It uses a 4K transfer of a 1998 restoration by the UCLA Film and Television Archive, with a new Carl Davis score and extras (commentary, interviews, two short comedies). A faithful transfer of a public-domain film adds no new US copyright. The new score, commentary and extras are protected. Ripping the disc may also breach 17 U.S.C. 1201.",
+          "source": "Reel Reviews, Criterion Blu-ray review",
+          "url": "https://www.reelreviews.com/home-video/the-freshman-bluray-review"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +80,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-freshman-1925-by-fred-c.-newmeyer",
-      "label": "Internet Archive — The Freshman (1925), full film"
+      "label": "Internet Archive — The Freshman (1925), full film",
+      "quality": "Full feature, about 76 minutes, HD"
     }
   ],
-  "editorial": "The Freshman is a 1925 American silent comedy starring Harold Lloyd as an eager college newcomer, directed by Fred C. Newmeyer and Sam Taylor, and one of Lloyd's biggest box-office successes. Published in 1925, the film print's 95-year US copyright term has expired, so the photoplay is in the US public domain by term expiry. The score and later restorations are left undetermined.",
-  "faq": []
+  "editorial": "The Freshman is a 1925 silent comedy produced by Harold Lloyd and distributed by Pathé Exchange. Lloyd plays an eager college newcomer. Fred C. Newmeyer and Sam Taylor directed it. It opened on September 20, 1925 at the B.S. Moss Colony Theater on Broadway. On a budget of $301,681 it earned about $2.6 million, Lloyd's biggest silent-era hit of the 1920s, and it was selected for the National Film Registry in 1990. Creators want it for the football finale and Lloyd's stunt comedy.\n\nThe film's US copyright term ran out at the end of 2020, so the 1925 picture is free to use. The trap is the copy you pick. Modern releases, such as the 2014 Criterion edition with a new Carl Davis score over the UCLA restoration, carry protected music and extras. Use the Internet Archive print, or a copy with your own or a public-domain score, and leave the Criterion audio and bonus material out. The title and Lloyd's name and likeness are not covered by the film's term, and no trademark has been checked here.",
+  "faq": [
+    [
+      "Can I reuse The Freshman (1925) in my own project?",
+      "The 1925 film itself is in the US public domain, since its copyright term expired at the end of 2020. That covers the images and the original screenplay, and it applies in the US only. Check which soundtrack your copy carries before you reuse it."
+    ],
+    [
+      "Is the Criterion Blu-ray free to rip and reuse?",
+      "No. The picture is a transfer of a public-domain film and adds no new US copyright. The Carl Davis score, the commentary and the extras are protected. Ripping the disc may also break 17 U.S.C. 1201. Use a copy from the Internet Archive and add your own music."
+    ]
+  ]
 }
