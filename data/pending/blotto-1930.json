@@ -1,0 +1,91 @@
+{
+  "id": "blotto-1930",
+  "title": "Blotto",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-10-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Blotto was released by MGM in February 1930. Duke CSPD's Public Domain Day 2026 page says that on January 1, 2026, works from 1930 enter the US public domain and are open to all.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the original 1930 version of the film is no longer extant. Only a censored 1937 reissue print survives, shortened by roughly one reel. Laurel & Hardy Central says the 1937 Hal Roach rerelease had new soundtracks made up of themes by Leroy Shield and T. Marvin Hatley. So essentially any English-language copy is the 1937 reissue version or a later release based on it. The 1937 reissue and its new score are a separate publication with their own term and possible protection, and modern copies may add new music or titles. A Spanish-language version, La Vida Nocturna, was made after the English version. Wikipedia says it survives and preserves scenes missing from the English print.",
+          "source": "Wikipedia, Blotto (film); Laurel & Hardy Central, Blotto",
+          "url": "https://www.laurelandhardycentral.com/blotto.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was published in 1930, so its term expired on January 1, 2026, per Duke CSPD's Public Domain Day 2026 page.",
+          "source": "Duke CSPD Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Blotto” (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Blotto"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/blotto_1930",
+      "label": "Blotto (1930) on the Internet Archive",
+      "quality": "unverified copy; check which version it is before relying on it, since English-language copies are generally the 1937 reissue or based on it"
+    }
+  ],
+  "editorial": "Blotto is a Laurel and Hardy sound comedy. Hal Roach produced it, James Parrott directed it, and MGM released it in February 1930. The cast includes Stan Laurel, Oliver Hardy, Anita Garvin, Tiny Sandford and Frank Holliday. It was filmed in December 1929. A creator might want it for the stars and for a short comedy to excerpt, remix or re-score.\n\nThe film was published in 1930, so its copyright term ran out on January 1, 2026 and no renewal search is needed. The trap is which version you have. Wikipedia says the original 1930 version is no longer extant. The surviving English-language print is a censored 1937 reissue, shortened by roughly one reel. Laurel & Hardy Central says that reissue carries new soundtracks of Leroy Shield and T. Marvin Hatley music. So essentially any English copy is the 1937 reissue version or a later release based on it. Its added score and any new music or titles in a modern release may be protected separately. A Spanish-language version, La Vida Nocturna, was made right after the English one. Wikipedia says it survives and preserves scenes missing from the English print. The Laurel and Hardy names and likenesses may carry separate trademark or publicity claims, which this dossier has not checked.",
+  "faq": [
+    [
+      "Can I use Blotto in my own video?",
+      "The film was published in 1930, so its US copyright term has expired and the film itself is in the US public domain. The original 1930 version is considered lost, and English-language copies derive from the 1937 reissue. That reissue is shortened and has a new Shield/Hatley score. Check any music or titles added by a later release before you reuse a copy."
+    ],
+    [
+      "Is every copy of Blotto free to reuse?",
+      "Not necessarily. The 1930 film is free, but the English copies in circulation come from the 1937 reissue, whose new score is a separate publication. A modern release may also add new music or titles, and those additions can be protected separately. A faithful restoration adds no new US copyright to the film, but its additions can be protected. The names and likenesses of Laurel and Hardy may also carry trademark or publicity rights."
+    ]
+  ]
+}
