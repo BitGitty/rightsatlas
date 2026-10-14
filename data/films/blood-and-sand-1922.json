@@ -3,7 +3,7 @@
   "title": "Blood and Sand",
   "year": 1922,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-15",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,29 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1922; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released August 5, 1922; the 95-year US copyright term for works published in 1922 has expired, so the film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate recording or composition that can be protected. Check who made the score on the specific copy you use."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Vicente Blasco Ibáñez's 1908 novel Blood and Sand and the 1921 stage play by Thomas Cushing. Both were published in 1921 or earlier, so their US terms have expired. The film's screenplay is by June Mathis.",
+          "source": "Wikipedia, Blood and Sand (1922 film)",
+          "url": "https://en.wikipedia.org/wiki/Blood_and_Sand_(1922_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -57,9 +69,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/BLOODANDSAND1922RudolphValentinoNitaNaldiLilaLee",
-      "label": "Internet Archive — Blood and Sand (1922), full film"
+      "label": "Internet Archive — Blood and Sand (1922), full film",
+      "quality": "Full feature, about 108 minutes, MP4 upload"
     }
   ],
-  "editorial": "Blood and Sand is a 1922 American silent drama directed by Fred Niblo and produced by Famous Players-Lasky (Paramount), starring Rudolph Valentino, Lila Lee and Nita Naldi. Adapted from Vicente Blasco Ibanez's Spanish novel about a doomed matador, it was one of the top-grossing films of 1922 and among Valentino's most successful vehicles. Published in 1922, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "Blood and Sand is a 1922 American silent drama directed by Fred Niblo for Famous Players-Lasky, distributed by Paramount, with Rudolph Valentino, Lila Lee and Nita Naldi. June Mathis wrote the screenplay from Vicente Blasco Ibáñez's 1908 novel and Thomas Cushing's 1921 stage play. Dorothy Arzner edited it, and it mixes real Madrid bullfighting footage with close-ups of Valentino. It was released on August 5, 1922 and grossed $1,250,000 domestically. The film print is public domain in the US because its term has expired.\n\nThe trap is the version you copy, not the film. The 1922 images are free to reuse, but a modern copy may carry a newly composed or recorded score, and that music is separately protected. Take the picture from a source you can check, and either clear the music or supply your own. The source novel and play are also out of copyright, so the story layer is not an obstacle. Whether a restoration adds protectable material (new titles, music) depends on the specific release and has not been researched.",
+  "faq": [
+    [
+      "Can I use clips from Blood and Sand (1922) in my own video?",
+      "Yes for the picture. The 1922 film's US term has expired, so you can cut, remix and monetize the images. Do not copy the music track from a modern release unless you have cleared it. Use a score you have licensed or created yourself."
+    ],
+    [
+      "Is the Internet Archive copy safe to reuse?",
+      "The film images are free. The uploaded file may include a score or other added material that is not. Listen to the audio and check what it contains before you reuse it. Where the music is unclear, replace it."
+    ]
+  ]
 }
