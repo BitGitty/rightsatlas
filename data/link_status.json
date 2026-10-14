@@ -1,6 +1,16 @@
 {
  "checked": "2026-10-14",
  "items": {
+  "silent-a-christmas-carol": {
+   "ok": true,
+   "film": "a-christmas-carol-1910",
+   "kind": "watch"
+  },
+  "AChristmasCarol": {
+   "ok": true,
+   "film": "a-christmas-carol-1910",
+   "kind": "evidence"
+  },
   "animal-crackers_1930": {
    "ok": true,
    "film": "animal-crackers-1930",
@@ -161,6 +171,16 @@
    "film": "santa-claus-conquers-the-martians-1964",
    "kind": "watch"
   },
+  "seven-chances-1925-by-buster-keaton": {
+   "ok": true,
+   "film": "seven-chances-1925",
+   "kind": "watch"
+  },
+  "silent-seven-chances": {
+   "ok": true,
+   "film": "seven-chances-1925",
+   "kind": "evidence"
+  },
   "sherlock-holmes-1916": {
    "ok": true,
    "film": "sherlock-holmes-1916",
@@ -184,6 +204,16 @@
   "dw_griffith_birth_of_a_nation": {
    "ok": true,
    "film": "the-birth-of-a-nation-1915",
+   "kind": "watch"
+  },
+  "the-cameraman_1928": {
+   "ok": true,
+   "film": "the-cameraman-1928",
+   "kind": "watch"
+  },
+  "the-cameraman-1928-by-buster-keaton": {
+   "ok": true,
+   "film": "the-cameraman-1928",
    "kind": "watch"
   },
   "The_Cat_and_the_Canary": {
