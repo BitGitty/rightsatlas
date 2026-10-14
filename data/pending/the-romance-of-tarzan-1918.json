@@ -1,0 +1,92 @@
+{
+  "id": "the-romance-of-tarzan-1918",
+  "title": "The Romance of Tarzan",
+  "year": 1918,
+  "country": "US",
+  "last_verified": "2026-10-14",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released September 16, 1918. Works published in 1923 entered the US public domain on January 1, 2019, so a 1918 release is out of copyright by term. No renewal question arises.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2019/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film. No original score or modern score recording was found. The film is reported lost, so there is no known modern release to carry a new score.",
+          "source": "Wikipedia (context only)",
+          "url": "https://en.wikipedia.org/wiki/The_Romance_of_Tarzan"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Adapted from the second part of Edgar Rice Burroughs' 1912 novel Tarzan of the Apes. A 1912 publication is out of copyright by term (the same Duke page confirms 1923 works entered the public domain in 2019). The screenplay by Bess Meredyth and Wilfred Lucas was part of the 1918 film's own copyright, now expired.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2019/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No restoration was found. Wikipedia reports that the film has not been preserved and no prints are known to survive.",
+          "source": "Wikipedia (context only)",
+          "url": "https://en.wikipedia.org/wiki/The_Romance_of_Tarzan"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1945,
+      1946,
+      1947
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Romance of Tarzan” (renewals ~1945, 1946, 1947)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Romance+of+Tarzan"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Romance of Tarzan was a silent feature released September 16, 1918 by National Film Corporation of America. Wilfred Lucas directed, with Elmo Lincoln as Tarzan and Enid Markey as Jane. It is the sequel to Tarzan of the Apes (1918) and covers the second part of Edgar Rice Burroughs' 1912 novel. Bess Meredyth and Lucas wrote the script. Chicago censors ordered cuts, including scenes of Tarzan choking natives.\n\nThe film's copyright term has expired, and so has the 1912 novel's. The practical trap is different: Tarzan is a character and franchise name, and trademark rights can outlast copyright, so check before using the name on a product or title. A second problem is that the film is reported lost and no prints are known to survive. We found no footage to reuse and no archive item to link, so confirm that any clip sold as this film is the right one.",
+  "faq": [
+    [
+      "Is The Romance of Tarzan (1918) in the public domain in the US?",
+      "The film itself is. It was released in 1918, and works published in 1923 have already entered the public domain, so its term has expired. Tarzan trademarks are a separate question that we have not resolved."
+    ],
+    [
+      "Can I get a copy to reuse?",
+      "We found no surviving print and no Internet Archive item, and Wikipedia reports the film as lost. Be wary of any 'Romance of Tarzan' footage offered online. It may be from another Tarzan film."
+    ]
+  ]
+}
