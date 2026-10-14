@@ -3,7 +3,7 @@
   "title": "Seven Chances",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-10-14",
   "byline": null,
   "layers": {
     "print": {
@@ -11,50 +11,76 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published March 1925; the 95-year US copyright term for 1925 publications has expired. Duke CSPD's Public Domain Day 2021 page covers the 1925 cohort and names Keaton's 1925 film Go West. It does not name Seven Chances itself.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2021/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1925 film was silent. Any music on a modern copy is a separate work. Wikipedia reports that Robert Israel composed music for a 1995 restoration of the film. A recorded score like that can carry its own copyright. A different score on a given copy needs its own check.",
+          "source": "Wikipedia: Seven Chances",
+          "url": "https://en.wikipedia.org/wiki/Seven_Chances"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the play Seven Chances by Roi Cooper Megrue, produced by David Belasco in 1916 (Buster Keaton fan site; Wikipedia agrees). A play from 1916 is well past the US term. I did not verify the play's publication or renewal records directly.",
+          "source": "busterkeaton.org: Seven Chances",
+          "url": "https://busterkeaton.org/the-films/seven-chances/"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a 1995 restoration with a Robert Israel score. The Internet Archive item silent-seven-chances is described as a 1995 edition produced by David H. Shepard, with a 2011 remaster by Bret Wood. A faithful restoration of a public-domain film adds no new US copyright. Added scores, new titles or other new material can be protected.",
+          "source": "Wikipedia; Internet Archive metadata",
+          "url": "https://archive.org/details/silent-seven-chances"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1952,
-      1953,
-      1954
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “Seven Chances” (renewals ~1952, 1953, 1954)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Seven+Chances"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "Seven Chances is a 1925 American silent comedy directed by and starring Buster Keaton, in which a man must marry by a deadline to inherit a fortune, released through Metro-Goldwyn Pictures and famous for its climactic boulder chase. As a 1925 publication, the film print is in the US public domain by expiry of the 95-year term. A faithful restoration adds no new US copyright, but a newly recorded score on a modern edition is protected.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/seven-chances-1925-by-buster-keaton",
+      "label": "Seven Chances (1925) by Buster Keaton — Internet Archive",
+      "quality": "HD, listed with a Public Domain Mark"
+    },
+    {
+      "url": "https://archive.org/details/silent-seven-chances",
+      "label": "Seven Chances — Internet Archive (1995 Shepard edition, 2011 remaster)",
+      "quality": "960x720, no audio"
+    }
+  ],
+  "editorial": "Seven Chances is a 1925 American silent comedy directed by and starring Buster Keaton. A man must marry by 7 p.m. on his 27th birthday to inherit a fortune. It was released through Metro-Goldwyn and is best known for its climactic boulder chase. The opening scenes were shot in early Technicolor. The story comes from Roi Cooper Megrue's 1916 play, produced by David Belasco. A creator can use the footage, including the boulder sequence, as a 1925 publication whose US term has expired.\n\nThe rights trap is the soundtrack and the edition. The picture is free in the US, but a modern copy usually carries a newly recorded score or newly made titles, and those can be protected. Robert Israel's score for a 1995 restoration is one example. Use a copy with no added music, such as the silent Internet Archive edition, or commission your own score. Cohen Media is listed as the film's current rights holder, so check the licence on any commercial release before you lift material from it.",
+  "faq": [
+    [
+      "Can I use clips from Seven Chances in my own video?",
+      "Yes for the 1925 images in the US, because the film print's term has expired. Take them from a copy with no added score or new titles, or confirm the licence on the edition you use."
+    ],
+    [
+      "Is the Robert Israel score free to use?",
+      "Not automatically. A score recorded for a modern restoration is a separate work and can be protected. Use a silent copy or add your own music."
+    ]
+  ]
 }
