@@ -1,0 +1,91 @@
+{
+  "id": "the-son-of-tarzan-1920",
+  "title": "The Son of Tarzan",
+  "year": 1920,
+  "country": "US",
+  "last_verified": "2026-10-14",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released as a silent serial in May 1920 (per the Internet Archive item description). Works published in 1930 or earlier are in the US public domain by term; Duke CSPD confirms the 1930 cohort entered on Jan 1, 2026, so a 1920 release is well past expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent serial. The images are free, but any music on a modern copy is a separate recording or composition and may be protected. Check the specific copy you use.",
+          "source": "Internet Archive item metadata (silent serial)",
+          "url": "https://archive.org/details/TheSonOfTarzan"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The scenario follows Edgar Rice Burroughs' novel The Son of Tarzan, written in 1915 and serialized in All-Story Weekly from December 1915 to January 1916. That is well before the cutoff, so the source is also in the public domain by term.",
+          "source": "Duke CSPD Public Domain Day 2026 (1930-or-earlier term rule); novel dates from Wikipedia article on the novel/film",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1947,
+      1948,
+      1949
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Son of Tarzan” (renewals ~1947, 1948, 1949)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Son+of+Tarzan"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheSonOfTarzan",
+      "label": "The Son of Tarzan (1920 silent serial) on the Internet Archive",
+      "quality": "Internet Archive MPEG4 upload; item is marked Public Domain Mark 1.0"
+    }
+  ],
+  "editorial": "The Son of Tarzan is a silent fifteen-part serial released in 1920, adapted from Edgar Rice Burroughs' 1915 novel of the same name. The Internet Archive's description says the scenario follows the book closely. The picture is a cliffhanger serial, so it suits reuse as episodic archival footage, a jungle-adventure sample, or a silent-era study.\n\nThe film's release in 1920 puts it past US copyright term, and the source novel, serialized in All-Story Weekly in 1915 and 1916, is also past term. The rights trap is not the film or the story. It is anything added to a particular copy: a modern score, new intertitles, or a restoration's added material. Character and franchise trademarks tied to Tarzan are a separate question that this dossier has not resolved.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1920 serial?",
+      "The 1920 film print and the underlying novel are past US copyright term, so the images can be reused in the US. Check the particular copy for added music, new titles or other additions, which can carry their own rights."
+    ],
+    [
+      "Does the Tarzan trademark still matter?",
+      "Possibly. Trademarks on the character or franchise can outlast copyright, and this dossier has not confirmed whether any is active. Avoid using Tarzan branding in a way that suggests an official product."
+    ]
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "the-great-train-robbery-1903",
+  "title": "The Great Train Robbery",
+  "year": 1903,
+  "country": "US",
+  "last_verified": "2026-10-14",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released in 1903, which is well before the 1930 cutoff. Duke CSPD's Public Domain Day 2026 page confirms that works from 1930 entered the US public domain on January 1, 2026, so a 1903 film is out of copyright by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate recording or composition and can be protected. The Internet Archive copy 'TheGreatTrainRobbery_555' is itself labelled CC BY-NC-ND 3.0, which suggests that copy carries added material.",
+          "source": "Internet Archive metadata, TheGreatTrainRobbery_555",
+          "url": "https://archive.org/metadata/TheGreatTrainRobbery_555"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "ACMI credits Scott Marble for the story and Edwin S. Porter as writer and producer. The film dates from 1903, so any source material published earlier is also out of copyright by term (Duke CSPD, Public Domain Day 2026).",
+          "source": "ACMI, The Great Train Robbery",
+          "url": "https://www.acmi.net.au/works/60944--the-great-train-robbery/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1930,
+      1931,
+      1932
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Great Train Robbery” (renewals ~1930, 1931, 1932)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Great+Train+Robbery"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheGreatTrainRobbery_555",
+      "label": "The Great Train Robbery (1903), Edwin S. Porter, 12 min. Video Cellar Collection",
+      "quality": "Complete 12-minute copy. Internet Archive lists it under a CC BY-NC-ND 3.0 licence, so check what that copy adds."
+    },
+    {
+      "url": "https://archive.org/details/0053_Great_Train_Robbery_The",
+      "label": "The Great Train Robbery (1903), Edison. Prelinger Collection",
+      "quality": "Prelinger Collection copy, about 13 minutes 30 seconds according to the Internet Archive metadata."
+    }
+  ],
+  "editorial": "The Great Train Robbery is Edwin S. Porter's 1903 Edison Manufacturing Company western. It was shot in November 1903 at Edison's New York studio and at outdoor locations in New Jersey, and runs about 12 minutes. The Internet Archive record describes it as introducing cross cutting, double exposure, camera movement and location shooting to American audiences. Its last shot, a bandit firing a pistol at the audience, is easy to lift out as a standalone clip. Scott Marble is credited for the story.\n\nThe print is free because of its age. The rights trap is the copy you choose. A modern upload can carry a newly composed or licensed score, new title cards or a restoration credit, and the Internet Archive labels one of its copies CC BY-NC-ND 3.0. Use a plain scan with no added soundtrack, or write your own score. We did not find a modern restoration to name, so check the specific source copy before you reuse it. No active trademark was identified, so that layer stays undetermined.",
+  "faq": [
+    [
+      "Can I use The Great Train Robbery (1903) in my own video?",
+      "The 1903 film itself is out of copyright in the US by term. Take the footage from a clean copy with no added music or titles. Check the licence on the exact copy you download, because some uploads add new material."
+    ],
+    [
+      "Do I need to worry about a renewal of the copyright?",
+      "No. The film was released in 1903, which is far earlier than the cutoff for copyright by term. Duke CSPD says works from 1930 entered the US public domain on January 1, 2026, so there is no renewal question to check. The renewal links in this record are provided for reference only."
+    ]
+  ]
+}
