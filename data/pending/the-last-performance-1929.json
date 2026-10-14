@@ -1,0 +1,104 @@
+{
+  "id": "the-last-performance-1929",
+  "title": "The Last Performance",
+  "year": 1929,
+  "country": "US",
+  "last_verified": "2026-10-14",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released in the US in November 1929 by Universal. Works published in 1929 entered the US public domain on January 1, 2025 by expiry of the 95-year term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2025/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Originally a part-talkie with a Sam Percy score, using Western Electric sound-on-film, with dialogue only in the final reel. The sound version is lost; only the silent version survives. Any music on a modern release of the silent print may be a separate protected recording.",
+          "source": "Wikipedia, The Last Performance",
+          "url": "https://en.wikipedia.org/wiki/The_Last_Performance"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Credited as an original story and screenplay by James Ashmore Creelman, not an adaptation of an earlier book. Like the film, it was published in 1929, so it has passed its US term.",
+          "source": "Wikipedia, The Last Performance, for the credits; Duke CSPD Public Domain Day 2025, for the term",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2025/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Criterion Collection released the silent version on Blu-ray and DVD in August 2012. Any new score, translated titles or extras on that release may be protected, though a faithful copy of the film adds no new US copyright.",
+          "source": "Wikipedia, The Last Performance",
+          "url": "https://en.wikipedia.org/wiki/The_Last_Performance"
+        },
+        {
+          "type": "research_note",
+          "note": "The Czech National Film Archive (NFA) has a 1998 edition of the silent version with Czech intertitles. Added intertitles are new material, but the underlying film is not.",
+          "source": "Il Cinema Ritrovato",
+          "url": "https://ilcinemaritrovato.it/en/film/the-last-performance/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Last Performance” (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Last+Performance"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-last-performance_1929",
+      "label": "The Last Performance (1929) — Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Last Performance is a Universal Pictures drama from 1929, directed by Paul Fejos and starring Conrad Veidt as Erik the Great, a stage magician, with Mary Philbin as Julie. It premiered in New York on November 2, 1929. Fejos reused sets from The Phantom of the Opera (1925). For a creator, that makes it a gothic stage-magic story with an established cast and a silent print that survives.\n\nThe trap is the sound. The original was a part-talkie with a Sam Percy score, recorded on Western Electric sound-on-film, with dialogue only in the final reel. That sound version is lost, and only the silent version survives. The picture itself is free to reuse. Music on a modern release, or on a restored copy such as the Criterion Blu-ray and DVD from August 2012 or the Czech archive edition with Czech intertitles, is not part of that. Take the footage from a source you can document and add your own score and titles.",
+  "faq": [
+    [
+      "Can I use The Last Performance in my own video or upload?",
+      "Yes for the film. It was published in 1929 and its US term has expired. Be careful with the copy you use: a modern release may carry a newly composed score, new titles or other added material. Use a clean transfer, or add your own music."
+    ],
+    [
+      "Is the sound version available?",
+      "No. The original part-talkie version, with its Sam Percy score and dialogue in the final reel, is lost, and only the silent version is known to survive. Any soundtrack on a current copy is therefore a later addition."
+    ]
+  ]
+}
