@@ -3,7 +3,7 @@
   "title": "The Penalty",
   "year": 1920,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-10-15",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,31 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1920; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1920. Duke CSPD explains that no published work entered the US public domain in 2016, and that the 95-year term applies to works published from 1923 onward, with 1923 works first entering on January 1, 2019. A 1920 work predates that range and was already in the public domain, so the film print is public domain in the US.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2016",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2016/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording with its own rights. Check the rights in the specific score or recording before reusing a copy that has music."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Gouverneur Morris's novel of the same name. Project Gutenberg offers the novel and marks it public domain in the USA. I did not confirm the novel's original publication year.",
+          "source": "Project Gutenberg ebook 12557",
+          "url": "https://www.gutenberg.org/ebooks/12557"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -33,28 +47,26 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1947,
-      1948,
-      1949
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “The Penalty” (renewals ~1947, 1948, 1949)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Penalty"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "The Penalty is a 1920 American silent crime melodrama directed by Wallace Worsley and produced by Goldwyn Pictures, starring Lon Chaney as a criminal mastermind who lost his legs to a childhood surgical error. As a 1920 publication, the film print is in the US public domain by expiry of the 95-year copyright term. Score and restoration layers are left undetermined pending their own evidence.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-penalty",
+      "label": "The Penalty (Internet Archive, 87 min, Lon Chaney; metadata dates it 1921)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Penalty is a 1920 silent crime melodrama directed by Wallace Worsley for Goldwyn Pictures. It stars Lon Chaney as Blizzard, a legless San Francisco crime boss bent on revenge against the surgeon whose error cost him his legs. It is a good source of period footage and one of the films that established Chaney before The Hunchback of Notre Dame and The Phantom of the Opera. The film was based on Gouverneur Morris's novel, which Project Gutenberg lists as public domain in the USA.\n\nThe film print is in the US public domain because a 1920 publication predates the 1923 start of the 95-year term. The rights trap is the soundtrack. Any score on a modern copy is a separate work or recording, so check the specific copy before you reuse its audio.",
+  "faq": [
+    [
+      "Can I reuse footage from The Penalty?",
+      "The 1920 film print is public domain in the US, so the images are free to reuse. Take them from a copy without music, or clear the music separately."
+    ],
+    [
+      "Does the Gouverneur Morris novel block use of the film?",
+      "No. Project Gutenberg marks the novel public domain in the USA, so the source story does not block use of the film in the US."
+    ]
+  ]
 }
