@@ -3,7 +3,7 @@
   "title": "The Cameraman",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-10-14",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,48 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published September 22, 1928; the 95-year US copyright term expired at the end of 2023, and Duke's Public Domain Day 2024 page lists The Cameraman among the 1928 films that entered the public domain on January 1, 2024.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2024/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Any music on a modern copy is a separate work. Wikipedia credits Mitja Reichenberg with an original score, but a score or recording added to a modern release can carry its own copyright, so check the specific copy.",
+          "source": "Wikipedia, The Cameraman (1928 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Cameraman_(1928_film)"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the story to Clyde Bruckman and Lew Lipton, with titles by Joseph W. Farnham. It is an original screenplay for MGM, not an adaptation of an earlier work. Any writing rights were published in 1928, so they have the same expired term as the print.",
+          "source": "Wikipedia, The Cameraman (1928 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Cameraman_(1928_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Criterion Collection released the film on Blu-ray and DVD on June 16, 2020, under license from Warner Bros. A faithful restoration adds no new US copyright (Bridgeman v. Corel). Material added to that release, such as a new score, new titles or supplements, can be protected. Discs are copy-protected, so ripping them risks a DMCA 17 U.S.C. 1201 violation.",
+          "source": "Wikipedia, The Cameraman (1928 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Cameraman_(1928_film)"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +77,27 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Cameraman is a 1928 American silent comedy starring Buster Keaton as an aspiring newsreel photographer, directed by Edward Sedgwick and Keaton's first film under his MGM contract. Published in 1928, the film print's 95-year US copyright term has run, placing the photoplay in the US public domain by term expiry. Later MGM restorations may carry separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-cameraman_1928",
+      "label": "The Cameraman (1928), Internet Archive, about 83 min",
+      "quality": "feature-length"
+    },
+    {
+      "url": "https://archive.org/details/the-cameraman-1928-by-buster-keaton",
+      "label": "The Cameraman (1928), Internet Archive, about 70 min",
+      "quality": "HD"
+    }
+  ],
+  "editorial": "The Cameraman is a 1928 MGM silent comedy directed by Edward Sedgwick, with Buster Keaton also directing uncredited. Keaton plays a street tintype photographer who tries to become a newsreel cameraman. Clyde Bruckman and Lew Lipton wrote the story, and Joseph W. Farnham wrote the titles. It was the first film Keaton made after he signed with MGM on January 26, 1928. Creators want it for its set-piece gags and for the film-within-a-film premise, which gives plenty of material to clip and remix.\n\nThe rights trap is the version you copy. The 1928 photoplay entered the US public domain on January 1, 2024, but a modern release can add a new score, titles or supplements that are protected. The Criterion Blu-ray and DVD of June 16, 2020 came out under license from Warner Bros. Use an Internet Archive copy, or a disc copy that has had its music replaced, and don't rip a copy-protected disc.",
+  "faq": [
+    [
+      "Can I reuse clips from The Cameraman in my own video?",
+      "The 1928 film itself is free to use in the US. Clip it from a copy you can use legally, and don't add a modern score or titles from a licensed release without checking their rights."
+    ],
+    [
+      "Is the Criterion edition of The Cameraman free to copy?",
+      "The film is, but the Criterion edition was released under license from Warner Bros. and may include added material such as a new score or supplements. Ripping the disc may also break 17 U.S.C. 1201, so use a copy that is free to reuse."
+    ]
+  ]
 }
