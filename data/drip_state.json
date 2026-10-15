@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-14",
+  "last_release": "2026-10-15",
   "log": [
     {
       "date": "2026-08-31",
@@ -180,6 +180,10 @@
     {
       "date": "2026-10-14",
       "film": "a-christmas-carol-1910"
+    },
+    {
+      "date": "2026-10-15",
+      "film": "christmas-comes-but-once-a-year-1936"
     }
   ]
 }
