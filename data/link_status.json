@@ -96,14 +96,14 @@
    "film": "dementia-13-1963",
    "kind": "evidence"
   },
-  "detour1945HD": {
-   "ok": false,
-   "film": "detour-1945",
-   "kind": "evidence"
-  },
   "catalogofc19733271213libr": {
    "ok": true,
    "film": "the-shadow-returns-1946",
+   "kind": "evidence"
+  },
+  "detour1945HD": {
+   "ok": true,
+   "film": "detour-1945",
    "kind": "evidence"
   },
   "ErichVonStroheimsFoolishWives1922": {
@@ -119,6 +119,21 @@
   "mymovie_20190804": {
    "ok": true,
    "film": "girl-shy-1924",
+   "kind": "watch"
+  },
+  "go-west-1925": {
+   "ok": true,
+   "film": "go-west-1925",
+   "kind": "evidence"
+  },
+  "silent-go-west": {
+   "ok": true,
+   "film": "go-west-1925",
+   "kind": "watch"
+  },
+  "greed-1924_202009": {
+   "ok": true,
+   "film": "greed-1924",
    "kind": "watch"
   },
   "hallelujah_1929": {
@@ -166,8 +181,8 @@
    "film": "nanook-of-the-north-1922",
    "kind": "watch"
   },
-  "nanookofthenorthreel2": {
-   "ok": false,
+  "nanook-of-the-north-1922-tmdb669": {
+   "ok": true,
    "film": "nanook-of-the-north-1922",
    "kind": "evidence"
   },
@@ -216,8 +231,8 @@
    "film": "sherlock-holmes-1916",
    "kind": "watch"
   },
-  "sherlockjr1924_201909": {
-   "ok": false,
+  "sherlock-jr-1924-tmdb992": {
+   "ok": true,
    "film": "sherlock-jr-1924",
    "kind": "watch"
   },
@@ -301,13 +316,13 @@
    "film": "the-docks-of-new-york-1928",
    "kind": "evidence"
   },
-  "THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols": {
-   "ok": false,
+  "silent-the-extra-girl": {
+   "ok": true,
    "film": "the-extra-girl-1923",
    "kind": "watch"
   },
-  "the-freshman-1925-by-fred-c.-newmeyer": {
-   "ok": false,
+  "CollegeDays": {
+   "ok": true,
    "film": "the-freshman-1925",
    "kind": "watch"
   },
@@ -552,46 +567,7 @@
    "kind": "evidence"
   }
  },
- "repaired": [
-  {
-   "film": "nanook-of-the-north-1922",
-   "was": "nanookofthenorthreel2",
-   "now": "nanook-of-the-north-1922-tmdb669",
-   "kind": "evidence"
-  },
-  {
-   "film": "sherlock-jr-1924",
-   "was": "sherlockjr1924_201909",
-   "now": "sherlock-jr-1924-tmdb992",
-   "kind": "watch"
-  },
-  {
-   "film": "the-extra-girl-1923",
-   "was": "THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols",
-   "now": "silent-the-extra-girl",
-   "kind": "watch"
-  },
-  {
-   "film": "the-freshman-1925",
-   "was": "the-freshman-1925-by-fred-c.-newmeyer",
-   "now": "CollegeDays",
-   "kind": "watch"
-  }
- ],
- "dropped": [
-  {
-   "film": "detour-1945",
-   "was": "detour1945HD"
-  }
- ],
- "unrepaired_evidence": [
-  {
-   "film": "detour-1945",
-   "was": "detour1945HD"
-  },
-  {
-   "film": "detour-1945",
-   "was": "detour1945HD"
-  }
- ]
+ "repaired": [],
+ "dropped": [],
+ "unrepaired_evidence": []
 }
