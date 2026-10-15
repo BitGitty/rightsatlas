@@ -106,6 +106,21 @@
    "film": "the-shadow-returns-1946",
    "kind": "evidence"
   },
+  "ErichVonStroheimsFoolishWives1922": {
+   "ok": true,
+   "film": "foolish-wives-1922",
+   "kind": "watch"
+  },
+  "foolish-wives-1922": {
+   "ok": true,
+   "film": "foolish-wives-1922",
+   "kind": "watch"
+  },
+  "mymovie_20190804": {
+   "ok": true,
+   "film": "girl-shy-1924",
+   "kind": "watch"
+  },
   "hallelujah_1929": {
    "ok": true,
    "film": "hallelujah-1929",
