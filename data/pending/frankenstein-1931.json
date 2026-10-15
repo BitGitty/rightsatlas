@@ -1,0 +1,92 @@
+{
+  "id": "frankenstein-1931",
+  "title": "Frankenstein",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-10-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "1931 US sound film by Universal. Published after the term-expiry cutoff, so its status depends on notice and renewal. I could not fetch a Catalog of Copyright Entries renewal volume or a Copyright Office record showing either a renewal or its absence, so no conclusion is drawn. Check the 1958-1960 renewal volumes by hand before treating the print as free.",
+          "source": "Stanford Copyright Renewal Database (manual check needed)",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film's recorded track normally shares the film's own copyright status, so this layer follows the print layer. Not verified separately.",
+          "source": "Analysis",
+          "url": "https://www.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film's direct source is Peggy Webling's 1927 stage play, in John L. Balderston's adaptation, which was itself based on Mary Shelley's novel. The novel dates from 1818 (revised 1831) and is long out of copyright, and the underlying story is free to adapt. The story layer rests on both the novel and the 1927 play. Universal's film-specific additions, such as the monster's visual design, are a separate matter.",
+          "source": "DeWitt LLP, 'Franken-who? Copyright and spooky season's beloved character'; Wikipedia, 'Frankenstein (1931 film)'",
+          "url": "https://dewittllp.com/news/2022/10/31/franken-who-copyright-and-spooky-season-s-beloved-character"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal's monster character and franchise may support trademark claims that outlast copyright. I did not verify any specific registration.",
+          "source": "Analysis",
+          "url": "https://www.copyright.gov/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Frankenstein” (renewals ~1958, 1959, 1960)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Frankenstein"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Universal's 1931 Frankenstein, with Boris Karloff as the monster, is a studio sound film made after Universal's Dracula. Its screenplay was adapted mainly from Peggy Webling's 1927 stage play, in John L. Balderston's version, which was itself based on Mary Shelley's 1818 novel. The novel is long out of copyright, so a creator can adapt the underlying story freely. What people usually want, though, is the flat-topped, bolted-neck monster seen on screen.\n\nThe rights trap is that the story is free but the film's look may not be. Commentators note that Universal created that design for the film, so Universal may still hold rights in it if the film's copyright was renewed. That is unconfirmed here. A lookalike monster is therefore risky even in a story-based project. I could not confirm whether the 1931 film's own copyright was renewed in the 1958-1960 window, so treat the print as unresolved until you check the renewal volumes yourself. I found no verified free copy to link, so the watch list is empty.",
+  "faq": [
+    [
+      "Can I adapt Mary Shelley's Frankenstein story?",
+      "The 1818 novel is long out of copyright, so its plot, characters and text are free. The 1931 film was adapted mainly from Peggy Webling's 1927 play, so do not assume the film's own details came straight from the novel. Avoid copying the film's distinctive monster design, which Universal may still hold rights in. That is unconfirmed here."
+    ],
+    [
+      "Is the 1931 Universal film itself free to use?",
+      "Not established. I could not confirm whether its copyright was renewed, so check the Stanford renewal database and the Catalog of Copyright Entries for 1958-1960 before using any footage. Also check any trademark claims on the monster."
+    ]
+  ]
+}
