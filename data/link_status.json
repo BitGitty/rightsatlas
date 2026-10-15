@@ -66,6 +66,21 @@
    "film": "charade-1963",
    "kind": "evidence"
   },
+  "ChristmasComesButOnceAYear-1936": {
+   "ok": true,
+   "film": "christmas-comes-but-once-a-year-1936",
+   "kind": "watch"
+  },
+  "catalogofc19643181213libr": {
+   "ok": true,
+   "film": "the-terror-1963",
+   "kind": "evidence"
+  },
+  "catalogofc19653191213libr": {
+   "ok": true,
+   "film": "christmas-comes-but-once-a-year-1936",
+   "kind": "evidence"
+  },
   "Cinderella1914": {
    "ok": true,
    "film": "cinderella-1914",
@@ -84,7 +99,7 @@
   "detour1945HD": {
    "ok": true,
    "film": "detour-1945",
-   "kind": "watch"
+   "kind": "evidence"
   },
   "catalogofc19733271213libr": {
    "ok": true,
@@ -467,11 +482,6 @@
    "kind": "evidence"
   },
   "catalogofcopyr3171213libr": {
-   "ok": true,
-   "film": "the-terror-1963",
-   "kind": "evidence"
-  },
-  "catalogofc19643181213libr": {
    "ok": true,
    "film": "the-terror-1963",
    "kind": "evidence"
