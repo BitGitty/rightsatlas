@@ -3,7 +3,7 @@
   "title": "Greed",
   "year": 1924,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,50 +11,71 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1924; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released December 4, 1924. Works published in 1924 entered the US public domain on January 1, 2020, when their 95-year term ended, so the 1924 film is public domain in the US by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1924 film is silent, so the images carry no sound-track rights. The 1999 reconstruction has a new score by Robert Israel. A copy that uses that score or any other modern recording of music is a separate protected work. Use the images without the score, or pair them with your own music.",
+          "source": "Wikipedia, Greed (1924 film), for the 1999 reconstruction and Robert Israel score",
+          "url": "https://en.wikipedia.org/wiki/Greed_(1924_film)"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on Frank Norris's novel McTeague: A Story of San Francisco, published in 1899. A work published in 1899 is long out of US copyright, so the underlying story is public domain.",
+          "source": "Wikipedia, Greed (1924 film)",
+          "url": "https://en.wikipedia.org/wiki/Greed_(1924_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1999 reconstruction (239 minutes) was produced by Rick Schmidlin for Turner Entertainment and edited by Glenn Morgan. It combines surviving footage with more than 650 still photographs of lost scenes, and it has a new Robert Israel score. A faithful restoration of footage adds no new US copyright. The added material can be protected: the new score, any new or translated intertitles, and the editorial arrangement of the stills. Reuse the 1924 images rather than copying the 1999 version as a whole.",
+          "source": "Wikipedia, Greed (1924 film)",
+          "url": "https://en.wikipedia.org/wiki/Greed_(1924_film)"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1951,
-      1952,
-      1953
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “Greed” (renewals ~1951, 1952, 1953)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Greed"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "Greed is a 1924 American silent drama written and directed by Erich von Stroheim for Metro-Goldwyn-Mayer, adapted from Frank Norris's novel 'McTeague.' Von Stroheim's original cut ran roughly eight hours before the studio drastically shortened it against his wishes; the surviving release version is nonetheless regarded as one of the greatest films ever made. Published in 1924, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/greed-1924_202009",
+      "label": "Greed (1924), 239-minute extended reconstruction (Internet Archive)",
+      "quality": "239-minute reconstruction. Check which score and added material it carries before reuse."
+    }
+  ],
+  "editorial": "Greed is a 1924 American silent drama written and directed by Erich von Stroheim. It was made at the Goldwyn Company, which became part of Metro-Goldwyn-Mayer, and released on December 4, 1924. It adapts Frank Norris's 1899 novel McTeague. Von Stroheim's original cut ran over nine hours. The studio's release version ran 140 minutes. A creator would want the images of Gibson Gowland, ZaSu Pitts and Jean Hersholt, which come from one of the most celebrated films of the silent era. The film was published in 1924, so its 95-year US term expired and the photoplay entered the public domain on January 1, 2020. The 1899 novel is also free of copyright.\n\nThe rights trap is the version you copy. In 1999 Rick Schmidlin produced a 239-minute reconstruction for Turner Entertainment. It uses over 650 still photographs to stand in for lost scenes, and it has a new Robert Israel score. The 1924 images are free to use. The new score and the editorial additions in that reconstruction are not covered by the film's expired term. Any modern recording of music laid over the film is a separate protected work. No active trademark on the title is confirmed.",
+  "faq": [
+    [
+      "Can I use clips from Greed in my own video?",
+      "Yes for the 1924 images, which are public domain in the US. Avoid the Robert Israel score and the added still-photo sequences of the 1999 reconstruction. Use a clean copy of the original footage with your own music."
+    ],
+    [
+      "Is the 239-minute version of Greed free to reuse?",
+      "The footage from 1924 is free. The 1999 reconstruction adds a new score and still-photograph sequences that may be protected. Check what a given copy contains before reusing the whole thing."
+    ]
+  ]
 }
