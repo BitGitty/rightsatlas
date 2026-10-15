@@ -3,7 +3,7 @@
   "title": "Cinderella",
   "year": 1914,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-15",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,31 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1914; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "First published in the US in 1914. Works first published in the US before 1931 are public domain by copyright expiration, regardless of notice or registration.",
+          "source": "Cornell University Library, Copyright Term and the Public Domain in the United States",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy or release is a separate work and recording that may be protected. The Internet Archive item's metadata describes it as the silent version and gives no score information."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Charles Perrault's Cinderella fairy tale, a centuries-old source whose copyright has long expired. The film's own screenplay and intertitles were published in 1914 and are covered by the same expiry as the print.",
+          "source": "Wikipedia, Cinderella (1914 film)",
+          "url": "https://en.wikipedia.org/wiki/Cinderella_(1914_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +43,14 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film has had DVD releases from Alpha Video and a bonus-feature release with Through the Back Door (1921). No restoration with added material (new score, titles, colour) was confirmed. A faithful copy adds no new US copyright, but any added score or new titles on a given release can be protected.",
+          "source": "Wikipedia, Cinderella (1914 film)",
+          "url": "https://en.wikipedia.org/wiki/Cinderella_(1914_film)"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +78,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/Cinderella1914",
-      "label": "Internet Archive (full film)"
+      "label": "Internet Archive (full film)",
+      "quality": "Silent version with Mary Pickford, user-uploaded; no score information in the item metadata."
     }
   ],
-  "editorial": "Cinderella is a 1914 American silent fantasy film directed by James Kirkwood Sr. and released by the Famous Players Film Company, starring Mary Pickford in the title role opposite her then-husband Owen Moore as the Prince. An early feature adaptation of the Perrault fairy tale, it is notable for its trick photography and double-exposure effects. As a 1914 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "editorial": "Cinderella is a silent feature directed by James Kirkwood Sr. for the Famous Players Film Company, produced by Daniel Frohman and Adolph Zukor. It premiered on December 28, 1914. Mary Pickford plays the title role and Owen Moore plays Prince Charming. It follows Perrault's tale: the fairy godmother, the ball, the midnight flight and the glass slipper. A creator might want a Pickford-era fairy-tale feature with intertitles and a familiar plot.\n\nThe film print was first published in the US in 1914, so its copyright has expired by term and no renewal check is needed. The rights trap is what gets added to a copy. Alpha Video's DVD and other releases may carry a modern score or new titles, and those additions can be protected even though the 1914 images are not. Take the film from a clean source, or pair it with music you have cleared. The Perrault story is also free, but character and franchise trademarks tied to later Cinderella adaptations are a separate question that was not researched.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1914 Cinderella in my own project?",
+      "The 1914 print itself is public domain in the US because it was published before 1931. Check the copy you use: a DVD or online upload may have a modern score or new title cards that are separately protected. Use a copy without added material, or clear the music."
+    ],
+    [
+      "Is the story of this Cinderella free to adapt?",
+      "The film follows Charles Perrault's fairy tale, which is long out of copyright. You can retell it freely. Do not copy later adaptations or their branded characters, whose marks and original elements are a separate matter."
+    ]
+  ]
 }

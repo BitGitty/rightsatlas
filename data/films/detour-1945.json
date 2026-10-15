@@ -3,45 +3,38 @@
   "title": "Detour",
   "year": 1945,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-15",
   "byline": null,
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
-          "type": "renewal_absence_search",
-          "note": "Under the 1909 Copyright Act a 1945 work's US copyright had to be renewed in its 28th year (renewal window 1972-1974). Checked the primary Catalog of Copyright Entries Motion Pictures renewal volumes for that window and the Stanford Copyright Renewal Database (the standard digitized index of 1950-1977 renewals); no renewal registration for 'Detour' (Producers Releasing Corporation) is recorded. PRC's failure to file a renewal is the documented reason the film print is treated as US public domain. Marked likely_pd (not verified_pd) pending line-level extraction of the CCE renewal page.",
-          "url": "https://archive.org/details/catalogofc19733271213libr",
-          "cce_volumes_searched": [
-            "Catalog of Copyright Entries, 3rd Series, Motion Pictures & Filmstrips, Jan-Dec 1972 (Vol 26)",
-            "Catalog of Copyright Entries, 3rd Series, Motion Pictures, Jan-Dec 1973 (Vol 27)"
-          ],
-          "renewal_years_checked": [
-            1972,
-            1973,
-            1974
-          ]
-        },
-        {
-          "type": "renewal_absence_search",
-          "note": "Cross-checked the Stanford Copyright Renewal Database; no motion-picture renewal record for 'Detour' appears in the 1972-1974 window.",
-          "url": "https://exhibits.stanford.edu/copyrightrenewals",
-          "renewal_years_checked": [
-            1972,
-            1973,
-            1974
-          ]
+          "type": "research_note",
+          "note": "Not confirmed. The Internet Archive scan of the CCE 3rd Series Motion Pictures Jan-Dec 1973 volume (Vol 27) exists. The first 100,000 characters of its text, which stop partway through the D section, showed no 'Detour' renewal. The rest of that volume, the 1972 and 1974 volumes, and the Stanford renewal database were not checked line by line. Non-renewal is therefore unproven here.",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
         }
       ]
     },
     "score": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Leo Erdody with the original score. No separate registration or renewal for the score was checked.",
+          "url": "https://archive.org/details/detour1945HD"
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Martin M. Goldsmith's 1939 novel 'Detour: An Extraordinary Tale', published by Macaulay. The novel's 28th-year renewal was not checked, so the source's status is unknown. Because the novel came out in 1939, its renewal window falls well before the film's.",
+          "url": "https://mysteryfile.com/Goldsmith/Detour.html"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -49,7 +42,13 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports an Academy Film Archive 4K restoration that premiered at the TCM Festival in April 2018. What it added, such as new titles or new audio work, was not confirmed. A faithful restoration adds no new US copyright, but any added material could be protected.",
+          "url": "https://archive.org/details/detour1945HD"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -65,11 +64,11 @@
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Detour"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "Catalog of Copyright Entries 1973 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
       },
       {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "label": "US Copyright Office public records",
         "url": "https://publicrecords.copyright.gov/"
       }
     ]
@@ -77,9 +76,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/detour1945HD",
-      "label": "Internet Archive — Detour (1945), full film"
+      "label": "Internet Archive — Detour (1945) [HD], full film",
+      "quality": "HD"
     }
   ],
-  "editorial": "Detour is a 1945 American film noir directed by Edgar G. Ulmer and produced by the Poverty Row studio Producers Releasing Corporation (PRC), starring Tom Neal and Ann Savage. It is widely documented as a work whose copyright proprietor never filed a 28th-year renewal, so the film print is generally treated as US public domain via non-renewal. RightsAtlas marks the print 'likely public domain' pending line-level confirmation in the Catalog of Copyright Entries renewal volumes; the score and the 2018 Academy Film Archive restoration are assessed on their own layers.",
-  "faq": []
+  "editorial": "Detour is a 1945 film noir directed by Edgar G. Ulmer for the Poverty Row studio Producers Releasing Corporation. It stars Tom Neal and Ann Savage. It premiered in Boston on November 15, 1945, and was chosen for the National Film Registry in 1992. It is adapted from Martin M. Goldsmith's 1939 novel. Reusers like it for its cheap, tight noir look, and it is widely circulated online. The Internet Archive's HD copy carries a Public Domain Mark.\n\nThe rights trap is that the film's status is a claim, not a record. The usual explanation is that the 1945 copyright was never renewed. This dossier did not confirm that from the renewal volumes. The score and the 1939 novel it is based on are separate works with their own renewal history. The Academy Film Archive's 2018 4K restoration may add protected material that a plain copy of the film would not have. Use a source copy rather than a restored release unless you have checked what was added.",
+  "faq": [
+    [
+      "Can I upload the Internet Archive copy of Detour to my own channel?",
+      "The Internet Archive labels that copy with a Public Domain Mark, but this review did not independently confirm that no renewal exists. Check the Copyright Office and renewal records for yourself first. Do not assume the 2018 Academy restoration is free to reuse."
+    ],
+    [
+      "Does the 1939 novel affect my use of the film?",
+      "It can. The film adapts the novel, and the novel is a separate work with its own renewal history. This review did not check whether that renewal was filed."
+    ]
+  ]
 }
