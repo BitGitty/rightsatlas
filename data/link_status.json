@@ -97,7 +97,7 @@
    "kind": "evidence"
   },
   "detour1945HD": {
-   "ok": true,
+   "ok": false,
    "film": "detour-1945",
    "kind": "evidence"
   },
@@ -167,7 +167,7 @@
    "kind": "watch"
   },
   "nanookofthenorthreel2": {
-   "ok": true,
+   "ok": false,
    "film": "nanook-of-the-north-1922",
    "kind": "evidence"
   },
@@ -217,7 +217,7 @@
    "kind": "watch"
   },
   "sherlockjr1924_201909": {
-   "ok": true,
+   "ok": false,
    "film": "sherlock-jr-1924",
    "kind": "watch"
   },
@@ -302,12 +302,12 @@
    "kind": "evidence"
   },
   "THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols": {
-   "ok": true,
+   "ok": false,
    "film": "the-extra-girl-1923",
    "kind": "watch"
   },
   "the-freshman-1925-by-fred-c.-newmeyer": {
-   "ok": true,
+   "ok": false,
    "film": "the-freshman-1925",
    "kind": "watch"
   },
@@ -552,7 +552,46 @@
    "kind": "evidence"
   }
  },
- "repaired": [],
- "dropped": [],
- "unrepaired_evidence": []
+ "repaired": [
+  {
+   "film": "nanook-of-the-north-1922",
+   "was": "nanookofthenorthreel2",
+   "now": "nanook-of-the-north-1922-tmdb669",
+   "kind": "evidence"
+  },
+  {
+   "film": "sherlock-jr-1924",
+   "was": "sherlockjr1924_201909",
+   "now": "sherlock-jr-1924-tmdb992",
+   "kind": "watch"
+  },
+  {
+   "film": "the-extra-girl-1923",
+   "was": "THEEXTRAGIRL1923MabelNormandRalphGravesGeorgeNichols",
+   "now": "silent-the-extra-girl",
+   "kind": "watch"
+  },
+  {
+   "film": "the-freshman-1925",
+   "was": "the-freshman-1925-by-fred-c.-newmeyer",
+   "now": "CollegeDays",
+   "kind": "watch"
+  }
+ ],
+ "dropped": [
+  {
+   "film": "detour-1945",
+   "was": "detour1945HD"
+  }
+ ],
+ "unrepaired_evidence": [
+  {
+   "film": "detour-1945",
+   "was": "detour1945HD"
+  },
+  {
+   "film": "detour-1945",
+   "was": "detour1945HD"
+  }
+ ]
 }
