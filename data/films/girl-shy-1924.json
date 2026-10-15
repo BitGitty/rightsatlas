@@ -3,7 +3,7 @@
   "title": "Girl Shy",
   "year": 1924,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-15",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,27 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1924; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released April 20, 1924 in the US; the 95-year US copyright term for works published that year has expired, so the film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Girl Shy is a silent film, so the images carry no soundtrack of their own. Any music on a modern copy is a separate score or recording that may be protected independently of the film."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Story credits are Sam Taylor, Tim Whelan and Ted Wilde, an original screen story. No pre-existing novel or play is credited as its source. The story was published as part of the 1924 film, so its term has expired along with the print."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -54,7 +64,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Girl Shy is a 1924 American silent romantic comedy directed by Fred C. Newmeyer and Sam Taylor, produced by Hal Roach and starring Harold Lloyd as a bashful tailor's apprentice, building to an elaborate cross-city rescue chase that helped define Lloyd's thrill-comedy style. Distributed by Pathé Exchange. Published in 1924, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/mymovie_20190804",
+      "label": "Girl Shy (1924) starring Harold Lloyd, about 80 min, uploaded to the Internet Archive",
+      "quality": "full-length upload, quality unverified"
+    }
+  ],
+  "editorial": "Girl Shy is a 1924 American silent romantic comedy directed by Fred C. Newmeyer and Sam Taylor, starring Harold Lloyd as Harold Meadows, with Jobyna Ralston as Mary Buckingham. It was released April 20, 1924 through Pathé Exchange and was Lloyd's first independent production after his split with Hal Roach. It is more of a character comedy than a stunt picture, and it ends in a long, non-stop chase sequence. A creator might want it for the Lloyd–Ralston pairing and for that finale.\n\nThe 1924 film print and its original screen story have passed out of US copyright by term expiry. The trap is the copy you pick: a modern release may add a new score, new titles or other material that is protected separately, and character or franchise trademarks can outlast the copyright. Check what a given copy adds before reusing it, and prefer a plain scan of the original film.",
+  "faq": [
+    [
+      "Can I reuse the Girl Shy footage in my own project?",
+      "In the US, the 1924 film print is public domain by term expiry, so the images themselves can be reused. Check what a particular copy adds, such as a modern score, new title cards or other added material, because those additions can carry separate rights."
+    ],
+    [
+      "Does a modern restoration or soundtrack of Girl Shy have its own copyright?",
+      "A faithful restoration of a public-domain film adds no new US copyright, but anything it adds, such as a new score, new or translated titles or other new material, can be protected. Use a copy without those additions, or clear them separately."
+    ]
+  ]
 }

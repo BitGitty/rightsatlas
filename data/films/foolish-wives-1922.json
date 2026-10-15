@@ -3,7 +3,7 @@
   "title": "Foolish Wives",
   "year": 1922,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-15",
   "byline": null,
   "layers": {
     "print": {
@@ -11,50 +11,76 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1922; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published January 11, 1922 by Universal. Under the 95-year US term, works published in 1923 were the first to enter the public domain in 2019 (per Duke CSPD), so a 1922 publication has already expired and the print is public domain in the US.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2019/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Sigmund Romberg's original score is credited, but modern copies usually carry a newer recorded score. The 2020 San Francisco Silent Film Festival/MoMA restoration uses a Timothy Brock score performed by the Real Filharmonía de Galicia (DCP version), which is a separate recording and may be protected.",
+          "source": "San Francisco Silent Film Festival",
+          "url": "https://silentfilm.org/preservation/foolish-wives/"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay by Erich von Stroheim, not an adaptation, so there is no separate source work whose term could outlast the film's.",
+          "source": "Wikipedia, Foolish Wives (credits)",
+          "url": "https://en.wikipedia.org/wiki/Foolish_Wives"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The San Francisco Silent Film Festival/MoMA restoration used a tinted nitrate print with Italian intertitles from Cineteca Italiana, a 1928 re-edited MoMA print, and a script and piano score from the Library of Congress. It adds newly created intertitles in Universal Super-Jewel style and a new Timothy Brock orchestral score. A faithful image restoration adds no new US copyright, but the new titles and score may be protected.",
+          "source": "San Francisco Silent Film Festival",
+          "url": "https://silentfilm.org/preservation/foolish-wives/"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1949,
-      1950,
-      1951
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “Foolish Wives” (renewals ~1949, 1950, 1951)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Foolish+Wives"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "Foolish Wives is a 1922 American silent drama written and directed by Erich von Stroheim and produced by Universal Pictures, with von Stroheim also starring as a con-artist count on the Riviera. Promoted by Universal as the 'first million-dollar movie,' its lavish cost and frank subject matter made it notorious, and it survives today only in truncated form. Published in 1922, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/ErichVonStroheimsFoolishWives1922",
+      "label": "Erich Von Stroheim's Foolish Wives (1922), about 130-minute version",
+      "quality": "Internet Archive, Silent Films collection"
+    },
+    {
+      "url": "https://archive.org/details/foolish-wives-1922",
+      "label": "Foolish Wives (1922)",
+      "quality": "Internet Archive, Feature Films collection"
+    }
+  ],
+  "editorial": "Foolish Wives is a 1922 American silent drama written and directed by Erich von Stroheim for Universal, with von Stroheim also playing the con-artist Count Karamzin on a Hollywood-built Monte Carlo. It was released on January 11, 1922. Von Stroheim's original cut ran about six hours. Universal's release ran about 117 minutes, and what survives is a reconstruction from several prints. A creator would want it for the sets, the notoriety and the Romberg-era Universal pedigree. The screenplay was original, so no earlier book or play adds a second copyright.\n\nThe print is public domain in the US because of its 1922 publication. The trap is the version you copy. The 2020 San Francisco Silent Film Festival/MoMA restoration carries a new Timothy Brock score and newly created intertitles, and those additions may be protected even though the underlying images are not. Use a scan of a plain archival copy, such as the Internet Archive items, or clear the music and titles separately. No trademark has been researched for this title.",
+  "faq": [
+    [
+      "Can I reuse a Foolish Wives clip in my own video?",
+      "The 1922 images are public domain in the US. Check the copy you take it from. A restored release can add a new score and new intertitles that are not free to reuse, so pair a clean copy with your own music."
+    ],
+    [
+      "Is the modern restoration free to copy?",
+      "Not as a whole. A faithful restoration of the picture adds no new US copyright, but the new Timothy Brock score and the new intertitles in the San Francisco Silent Film Festival/MoMA restoration may be protected. Do not rip a copy-protected disc, because that can break the DMCA."
+    ]
+  ]
 }
