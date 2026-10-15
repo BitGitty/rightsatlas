@@ -3,7 +3,7 @@
   "title": "Go West",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,13 +11,22 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released November 1, 1925. Duke's Center for the Study of the Public Domain lists Buster Keaton's Go West among the 1925 works that entered the US public domain on January 1, 2021, when the 95-year term expired.",
+          "source": "Duke CSPD, Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Any music on a modern copy is a separate work. For example, the Internet Archive copy go-west-1925 is described as restored with a score by The Mont Alto Motion Picture Orchestra. A modern score or its recording can be protected even though the images are not.",
+          "source": "Internet Archive metadata for go-west-1925",
+          "url": "https://archive.org/details/go-west-1925"
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
@@ -28,8 +37,15 @@
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive copy go-west-1925 is described as a restored version with a Mont Alto Motion Picture Orchestra score. A faithful restoration adds no new US copyright to the public-domain images. Added material such as a new score, new or translated titles, or other additions can be separately protected.",
+          "source": "Internet Archive metadata for go-west-1925",
+          "url": "https://archive.org/details/go-west-1925"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +70,27 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Go West is a 1925 American silent comedy directed by and starring Buster Keaton for Metro-Goldwyn, a gentler, character-driven picture in which a lonely drifter forms an unlikely bond with a cow named Brown Eyes (not to be confused with the 1940 Marx Brothers film of the same title). Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/go-west-1925",
+      "label": "Go West (1925), about 82 min, Internet Archive, with Mont Alto Motion Picture Orchestra score",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/silent-go-west",
+      "label": "Go West (1925), about 68 min, Internet Archive (shorter running time, likely a different print or cut)",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "Go West is a 1925 silent comedy that Buster Keaton directed, co-wrote and starred in. Buster Keaton Productions made it and Metro-Goldwyn-Mayer distributed it, with a release date of November 1, 1925. Keaton plays \"Friendless,\" a drifter who heads for an Arizona ranch and bonds with a cow named Brown Eyes. The film is known for its cattle stampede through the streets of Los Angeles. Duke's Center for the Study of the Public Domain named it among the 1925 works that entered the US public domain on January 1, 2021.\n\nThe film print is free to use in the US, but the print is not the whole picture. The silent images are free, while a score added to a modern copy is a separate work. The Internet Archive copy with Mont Alto Motion Picture Orchestra music is a case in point. Use a copy with no added music, or one whose music you have cleared. Check any restoration for added titles or other new material before you reuse that part. We have not yet researched the underlying story or any active trademark, and both are marked undetermined.",
+  "faq": [
+    [
+      "Can I use clips from Go West in my own video?",
+      "Yes for the film print. The 1925 film's US copyright term has expired, and Duke lists it among the works that entered the public domain on January 1, 2021. Take your clip from a copy without a modern score, or clear that music separately. The story and trademark layers are still undetermined."
+    ],
+    [
+      "Is the music on the Internet Archive copy free to reuse?",
+      "Not automatically. The copy go-west-1925 is described as carrying a score by The Mont Alto Motion Picture Orchestra. That modern score and its recording can have their own rights. Cut the audio and add your own music, or get permission."
+    ]
+  ]
 }
