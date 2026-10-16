@@ -1,0 +1,91 @@
+{
+  "id": "the-public-enemy-1931",
+  "title": "The Public Enemy",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-10-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1931 US film is not public domain by term. It is free only if its copyright was never renewed. I read the 1959 (Jul-Dec renewal section) and 1958 and 1960 Catalog of Copyright Entries Motion Pictures volumes through an automated text reader. It found no 'Public Enemy' entry in the portions it covered. Those passes were not exhaustive, and I did not search the Copyright Office catalog or the Stanford renewal database, so non-renewal is not established.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1959",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track most likely follows the film's own copyright status, which is unresolved. I did not research the music separately.",
+          "source": "Internal analysis",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item description says the film is based on 'Beer and Blood' and credits the screenplay to Harvey F. Thew. I did not confirm the source's publication or copyright status.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-public-enemy-1931-james-cagney-joan-blondell-jean-harlow-dir.-william-a.-wellman-720p"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": "Inconclusive. An automated text scan of the 1958, 1959 and 1960 CCE motion-picture volumes found no 'Public Enemy' entry in the portions it covered. The Copyright Office and Stanford databases were not searched, so a manual check is still required.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Public Enemy” (renewals ~1958, 1959, 1960)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Public+Enemy"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-public-enemy-1931-james-cagney-joan-blondell-jean-harlow-dir.-william-a.-wellman-720p",
+      "label": "The Public Enemy (1931) on the Internet Archive, user upload (84 min)",
+      "quality": "user upload, quality unverified"
+    }
+  ],
+  "editorial": "The Public Enemy is the 1931 Warner Bros. gangster film directed by William A. Wellman, with James Cagney, Joan Blondell and Jean Harlow. The Internet Archive's copy of the film is dated April 23, 1931, and its description credits Harvey F. Thew with the screenplay, based on 'Beer and Blood'. It is a well-known title, and a user upload is available for viewing.\n\nThe rights trap is that this is a 1931 film, so it is not public domain by term. It is free only if the copyright was not renewed. My scan of the 1958, 1959 and 1960 renewal catalogs was automated and incomplete, and the Copyright Office and Stanford databases were not searched. Treat the print's status as unconfirmed. Confirm it yourself with the links above before reusing the film. The score and the underlying story have not been cleared either.",
+  "faq": [
+    [
+      "Is The Public Enemy (1931) public domain?",
+      "Not confirmed. A 1931 film is free in the US only if its copyright was never renewed. My automated check of the 1958 to 1960 renewal catalogs found no entry in the portions it covered, but it was incomplete. Check the Stanford renewal database and the Copyright Office records before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The Internet Archive item is a user upload and carries no license in its metadata. The upload does not settle the film's rights. Clear the renewal question first. If you need a newer transfer, check whether it adds protected material."
+    ]
+  ]
+}
