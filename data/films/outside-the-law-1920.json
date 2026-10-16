@@ -3,7 +3,7 @@
   "title": "Outside the Law",
   "year": 1920,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,31 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1920; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released December 26, 1920 (Los Angeles premiere) and January 6, 1921 (general release) by Universal. Works first published in 1920 entered the US public domain by term expiry on January 1, 2016.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2016",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2016/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. A score by Dr. Edward Kilenyi is reported for the 1926 reissue. Any music on a modern copy (for example the original score by Edward Rolf Boensnes on one Internet Archive upload) is a separate work with its own rights."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The screenplay and story are credited to Tod Browning and Lucien Hubbard, with subtitles by Gardner Bradford. They were written for the film and published with it in 1920-21, so they share the film's term expiry. No outside source work was identified.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2016",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2016/"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +43,12 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The surviving print is reported to be the 1926 re-release, with some of Chaney's Ah Wing scenes trimmed, found as a nitrate print in a Minnesota barn in the 1970s and donated to the American Film Institute. A faithful copy adds no new US copyright, but a modern DVD or upload may add new scores or titles. No specific modern restoration was confirmed."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +73,27 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Outside the Law is a 1920 American crime film directed by Tod Browning for Universal Pictures, starring Priscilla Dean as a reformed jewel thief and Lon Chaney in a dual role, including the gangster 'Black Mike' Sylva. An early psychologically driven gangster picture, it marked Chaney's second pairing with Browning. As a 1920 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/OutsideTheLaw_201606",
+      "label": "Outside the Law (Lon Chaney, silent), about 75 min, with a modern score by Edward Rolf Boensnes",
+      "quality": "Full-length upload. The soundtrack is a modern score and is not free to reuse."
+    },
+    {
+      "url": "https://archive.org/details/silent-outside-the-law",
+      "label": "Outside the Law (silent), about 36 min",
+      "quality": "Shorter running time, so probably an incomplete or abridged copy. Check it before reusing."
+    }
+  ],
+  "editorial": "Outside the Law is a 1920 Universal crime film directed by Tod Browning. Priscilla Dean plays a reformed thief, and Lon Chaney has a dual role that includes the gangster Black Mike Sylva and Ah Wing. Browning and Lucien Hubbard wrote it, with subtitles by Gardner Bradford. It premiered in Los Angeles on December 26, 1920 and went into general release on January 6, 1921. The picture was first published in 1920, so its US term has expired and the print is free to use. The screenplay was written for the film and shares that status.\n\nThe trap is in the copies, not the print. The surviving print is reported to be the 1926 re-release, with some of Chaney's Ah Wing scenes trimmed. A score by Edward Kilenyi is reported for that reissue. Internet Archive uploads carry modern music, such as the Boensnes score on one copy, and that music is separately protected. Take the image track and add your own score or titles. The 36-minute upload looks abridged, so check it against a full-length copy before relying on it.",
+  "faq": [
+    [
+      "Can I reuse footage from Outside the Law in my own project?",
+      "Yes for the picture itself. The film was first published in 1920 and its US term has expired, so the print is public domain in the US. Check each copy for added music, titles or other new material, because that material has its own rights."
+    ],
+    [
+      "Can I use the music on the Internet Archive copies?",
+      "Not automatically. The film is silent, and any score on a modern upload, such as the Boensnes score, is a separate work. Use a score you made or one you have licensed, or one that is clearly public domain."
+    ]
+  ]
 }
