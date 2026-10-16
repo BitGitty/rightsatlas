@@ -1,0 +1,85 @@
+{
+  "id": "reefer-madness-1936",
+  "title": "Reefer Madness",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-10-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A published 1936 US film is public domain only if it lacked a valid notice or its renewal was never filed. Secondary sources say this film fell into the public domain through a defective notice, but I did not locate a primary record that confirms it. I also did not complete a full-text check of the Catalog of Copyright Entries motion-picture renewal volumes for 1963-65. For 1963 and 1965 I read only the first part of the text of one volume each. That part had no hits for Reefer Madness, Tell Your Children, Hirliman, Esper or Gasnier, and it did not reach the renewal sections. The 1964 volume text could not be fetched (HTTP 500). This is therefore not a finding of non-renewal.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1964 (Library of Congress / Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Reefer Madness” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Reefer+Madness"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1964 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1965 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1963 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ReeferMadness_479",
+      "label": "Reefer Madness (1936) – Internet Archive feature-film copy, about 68 min",
+      "quality": "unknown; not inspected"
+    }
+  ],
+  "editorial": "Reefer Madness is the anti-marijuana exploitation feature credited on the Internet Archive to George A. Hirliman Productions and director Louis J. Gasnier. It began as Tell Your Children, financed by a church group, and was later bought by Dwain Esper. Esper recut it and retitled it for roadshow release. Reusers want it for its heavily quoted melodrama, and Internet Archive copies of it have been downloaded in the hundreds of thousands. Its rights are still undetermined, because I did not complete a primary-source check. Secondary sources say a defective copyright notice put it in the public domain, and I could not confirm that. The Catalog of Copyright Entries renewal volumes for 1963-65 were not searched in full.\n\nThe main trap is the version. The 1936 cut and Esper's recut 1938 release are different prints, and Internet Archive copies of both circulate under the same title. Check which cut you are using. Treat any print with added music, colorization or new titles (the Archive hosts a colorized, Spanish-subtitled copy) as carrying that added material separately. Do not treat the film as cleared until the notice and renewal records are checked.",
+  "faq": [
+    [
+      "Is Reefer Madness (1936) public domain in the US?",
+      "Secondary sources say it is, citing a defective copyright notice. I did not confirm that from a primary record, and I did not complete a search of the 1963-65 renewal volumes. The print layer stays undetermined until someone checks the Catalog of Copyright Entries and the Stanford renewal database directly."
+    ],
+    [
+      "Which Internet Archive copy should I use?",
+      "ReeferMadness_479 is a 1936 copy of about 68 minutes, credited to George A. Hirliman Productions. A separate item, reefer_madness1938, carries the 1938 date, is credited to Hirliman, and is tagged Public Domain. Compare the two and note which cut you used. Avoid the colorized and subtitled uploads, which add material of their own."
+    ]
+  ]
+}
