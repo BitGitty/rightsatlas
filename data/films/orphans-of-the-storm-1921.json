@@ -3,7 +3,7 @@
   "title": "Orphans of the Storm",
   "year": 1921,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,31 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1921; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "The film was released December 28, 1921. Duke's Center for the Study of the Public Domain states that works published before 1923 are clearly in the US public domain, so the film print is public domain by term expiry. The renewal question does not arise for a 1921 work.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2017",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2017/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a silent film. The original 1921 theatrical score by Louis F. Gottschalk was published before 1923. Any score on a modern copy (a newly composed or recorded accompaniment, such as the piano score made for 1970s television showings) is a separate work and may be protected. Check the specific copy's music credit before reuse."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the 1874 French play Les Deux Orphelines by Adolphe d'Ennery and Eugène Cormon, in its American stage adaptation The Two Orphans. The source was published in the 19th century, well before the film, so the underlying story is public domain.",
+          "source": "Internet Archive item description, Orphans of the Storm (1921)",
+          "url": "https://archive.org/details/orphans-of-the-storm-1921"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -33,28 +47,31 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1948,
-      1949,
-      1950
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “Orphans of the Storm” (renewals ~1948, 1949, 1950)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Orphans+of+the+Storm"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "Orphans of the Storm is a 1921 American silent historical drama produced and directed by D. W. Griffith and released through United Artists, starring sisters Lillian and Dorothy Gish. Set during the French Revolution and adapted from the play 'The Two Orphans,' it was the last of Griffith's major large-scale spectacles and the final film to pair the Gish sisters. Published in 1921, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/OrphansoftheStorm",
+      "label": "Orphans of the Storm (1921), full silent feature, about 143 min, Internet Archive",
+      "quality": "full feature, silent, community upload"
+    },
+    {
+      "url": "https://archive.org/details/orphans-of-the-storm-1921",
+      "label": "Orphans of the Storm (1921), Internet Archive alternate copy, about 144 min",
+      "quality": "full feature, silent, community upload"
+    }
+  ],
+  "editorial": "Orphans of the Storm is a 1921 silent historical drama directed and produced by D. W. Griffith and released through United Artists. It stars Lillian and Dorothy Gish as sisters caught up in the French Revolution, and it was their last film together with Griffith. It was adapted from the stage play The Two Orphans and was first released at 14 reels, with a 12-reel version following a few months later. A reuser gets a long, large-scale period feature, and the Internet Archive holds full-length copies of it.\n\nThe film was published in 1921, which is before 1923, so the picture itself is public domain in the US. The play it adapts dates from 1874, so the story is free too. The trap is the sound. Silent-era prints circulate with whatever music the uploader or distributor attached, such as a modern composed or recorded score, and that music can be protected. Use a copy with no music, or one whose score is credited as public domain or licensed to you. Check for added titles or intertitle translations as well. I could not confirm any particular restoration, so that layer is left undetermined.",
+  "faq": [
+    [
+      "Can I use footage from Orphans of the Storm in my own video?",
+      "Yes for the picture. The 1921 film is public domain in the US and so is the 1874 play it adapts. Take it from a copy whose music you can clear, or strip the audio and add your own score."
+    ],
+    [
+      "Is the music on the Internet Archive copy free to use?",
+      "Not necessarily. The film is silent, so any soundtrack on a given upload was added later. A modern composed or recorded accompaniment is a separate work that may be protected. Check the credits on the specific copy, or replace the audio."
+    ]
+  ]
 }
