@@ -3,7 +3,7 @@
   "title": "Safety Last!",
   "year": 1923,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,50 +11,67 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1923; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published April 1, 1923; US copyright term for works published in 1923 expired and they entered the public domain on January 1, 2019. Duke CSPD's Public Domain Day 2019 page names Safety Last! among the 1923 works.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2019/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Its original images are free, but any music on a modern copy is a separate work or recording with its own rights."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Safety Last! is an original comedy released in 1923. I found no pre-existing source work, so the story shares the print's expired term."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Criterion Collection issued the film on DVD and Blu-ray on June 18, 2013. A faithful restoration adds no new US copyright, but added material such as a new score, new titles or bonus features can be protected.",
+          "source": "Wikipedia, Safety Last!",
+          "url": "https://en.wikipedia.org/wiki/Safety_Last!"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1950,
-      1951,
-      1952
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “Safety Last!” (renewals ~1950, 1951, 1952)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Safety+Last!"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "Safety Last! is a 1923 American silent comedy directed by Fred C. Newmeyer and Sam Taylor, produced by Hal Roach and starring Harold Lloyd, whose image dangling from a clock face high above the street is among the most reproduced in silent cinema. Distributed by Pathé Exchange. Published in 1923, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/safety-last-1923",
+      "label": "Safety Last! (1923) on the Internet Archive",
+      "quality": "full film, about 74 min"
+    }
+  ],
+  "editorial": "Safety Last! is a 1923 silent comedy produced by Hal Roach Studios, directed by Fred C. Newmeyer and Sam Taylor, and distributed by Pathé Exchange. Harold Lloyd plays a small-town clerk who takes a department-store publicity stunt, which becomes a climb up a building. Its US release was April 1, 1923. Because it was published in 1923, its US copyright term has expired, and the Duke Center for the Study of the Public Domain lists it among the works that entered the public domain on January 1, 2019.\n\nThe film print and its original story are free to reuse in the US. The trap is in the copies. The Criterion Collection released a DVD and Blu-ray edition in 2013, and any score, new title cards or bonus material on such an edition can carry separate rights. Trademark status was not determined. Use a plain scan of the Internet Archive print and avoid ripping copy-protected discs.",
+  "faq": [
+    [
+      "Can I use clips of Safety Last! in my own video?",
+      "Yes for the 1923 film itself, which is public domain in the US. Use a copy without added rights, such as a plain scan, and check any music on it."
+    ],
+    [
+      "Is the Criterion edition free to copy?",
+      "Not necessarily. A faithful restoration adds no new US copyright, but a new score, new titles or extras on the disc can be protected. Ripping a copy-protected disc can also break 17 U.S.C. 1201."
+    ]
+  ]
 }
