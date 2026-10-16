@@ -1,0 +1,85 @@
+{
+  "id": "modern-times-1936",
+  "title": "Modern Times",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-10-17",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal record or non-renewal proof was confirmed this session. Only the first 100,000 characters of the 1964 CCE motion-picture volume were read, and no Modern Times entry appeared in that portion. That does not show the film was not renewed. The film is by Charles Chaplin Productions and was released by United Artists in 1936.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1964 (partial read)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Chaplin composed the music. David Raksin worked on the music arrangements. The recorded track is part of the sound film, so it likely shares the film's status. The composition's own copyright status was not checked.",
+          "source": "Wikipedia, Modern Times (film)",
+          "url": "https://en.wikipedia.org/wiki/Modern_Times_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A digitally restored version was released in 2003 by the French company MK2 and first shown at Cannes in 2003. Criterion released a restored 2K digital transfer, made with the Cineteca di Bologna, on Blu-ray and DVD on 16 November 2010. Any added material, such as new titles, is separately protectable. A faithful restoration adds no new copyright in the underlying film.",
+          "source": "Wikipedia, Modern Times (film); Criterion Collection, Modern Times",
+          "url": "https://en.wikipedia.org/wiki/Modern_Times_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Modern Times” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Modern+Times"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Modern Times is Charlie Chaplin's 1936 film, produced by Charles Chaplin Productions and released through United Artists. Chaplin composed the score himself, with David Raksin working on the music arrangements. A creator would want it for the factory-line and feeding-machine sequences.\n\nThe rights trap is that the film's US status is unresolved. A 1963-64 renewal is plausible, but this session did not confirm either way. Check the renewal records before reusing the film. The MK2 (2003) and Criterion/Cineteca di Bologna (2010, 2K digital transfer) restorations may add protectable material.",
+  "faq": [
+    [
+      "Is Modern Times in the public domain in the US?",
+      "Not confirmed. No renewal record or proof of non-renewal was found, so treat it as protected until the 1963-65 renewal records are checked by hand."
+    ],
+    [
+      "Can I use a Criterion or MK2 restoration?",
+      "Not without clearing it. A faithful restoration adds no copyright in the underlying film. But the underlying film's status is itself unresolved, and added titles or other new material can be separately protected."
+    ]
+  ]
+}
