@@ -264,6 +264,11 @@
   "sherlock-jr-1924-tmdb992": {
    "ok": true,
    "film": "sherlock-jr-1924",
+   "kind": "evidence"
+  },
+  "SteamboatBillJr_201411": {
+   "ok": true,
+   "film": "steamboat-bill-jr-1928",
    "kind": "watch"
   },
   "silent-tarzan-of-the-apes": {
