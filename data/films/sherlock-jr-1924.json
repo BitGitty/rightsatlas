@@ -3,7 +3,7 @@
   "title": "Sherlock Jr.",
   "year": 1924,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-17",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,33 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1924; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released April 21, 1924; the 95-year US copyright term for works published in 1924 expired at the end of 2019, so the film print entered the US public domain on January 1, 2020.",
+          "source": "Internet Archive item metadata (Public Domain Mark 1.0)",
+          "url": "https://archive.org/details/sherlock-jr-1924-tmdb992"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Any musical accompaniment on a modern copy is a separate work with its own rights. Accompaniments recorded for the film include versions by Club Foot Orchestra (1999), Craig Marks (2014), Timothy Brock (2015) and Robert Israel (2020), according to Wikipedia (secondary source). Those recordings and compositions are not covered by the film's term expiry.",
+          "source": "Wikipedia, Sherlock Jr.",
+          "url": "https://en.wikipedia.org/wiki/Sherlock_Jr."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The story is an original screenplay credited to Clyde Bruckman, Jean Havez and Joseph A. Mitchell, not an adaptation of an earlier work, so it has no separate source term. It was published as part of the 1924 film, which is out of copyright. No underlying work was identified.",
+          "source": "Wikipedia, Sherlock Jr. (secondary source)",
+          "url": "https://en.wikipedia.org/wiki/Sherlock_Jr."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,8 +45,15 @@
       "note": "The 'Sherlock' here is Keaton's amateur-sleuth character, not Conan Doyle's detective, but the name trips a franchise-trademark flag; any character-trademark rights are undetermined here. Check marks before branded use."
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Modern releases may add new scores (see score layer) or new titles and other added material. A faithful transfer of the public-domain print adds no new US copyright, but the additions can be protected. I did not confirm any specific restoration release, so check each release's credits before reuse.",
+          "source": "Wikipedia, Sherlock Jr. (secondary source)",
+          "url": "https://en.wikipedia.org/wiki/Sherlock_Jr."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -58,9 +81,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/sherlock-jr-1924-tmdb992",
-      "label": "Internet Archive — Sherlock Jr. (1924), full film"
+      "label": "Internet Archive — Sherlock Jr. (1924), full film",
+      "quality": "unverified"
     }
   ],
-  "editorial": "Sherlock Jr. is a 1924 American silent comedy directed by and starring Buster Keaton for his own production company through Metro Pictures, in which a film projectionist dreams himself into the movie on screen; its in-camera effects and stunt set-pieces remain widely studied. Published in 1924, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "editorial": "Sherlock Jr. is a 1924 American silent comedy starring Buster Keaton as a film projectionist who dreams himself into the movie on screen. It was produced by Joseph M. Schenck and Buster Keaton and released April 21, 1924, with a screenplay credited to Clyde Bruckman, Jean Havez and Joseph A. Mitchell. It was selected for the National Film Registry in 1991. The film was first released in 1924, so its US copyright term ran out at the end of 2019 and the print became free to use on January 1, 2020.\n\nThe rights trap is the soundtrack. The film is silent, so most copies you will find carry a later score. Club Foot Orchestra (1999), Craig Marks (2014), Timothy Brock (2015) and Robert Israel (2020) have each recorded accompaniments, and each is a separate work. Use the picture freely, but clear or replace the music, and check any added titles on a modern restoration. The 'Sherlock' name may also draw a franchise-trademark flag. That flag concerns Conan Doyle's detective, not Keaton's character.",
+  "faq": [
+    [
+      "Can I use footage from Sherlock Jr. in my own video?",
+      "Yes for the picture itself: the 1924 film is out of US copyright. Use a copy without a modern score, or replace the music, because accompaniments recorded for the film are separate works with their own rights."
+    ],
+    [
+      "Is the score on the Internet Archive copy free to use?",
+      "Not necessarily. The film is silent, so any music on a given copy was added later and may be protected. Check who made the music on your copy, or score the film yourself."
+    ]
+  ]
 }
