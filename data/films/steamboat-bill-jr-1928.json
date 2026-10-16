@@ -3,7 +3,7 @@
   "title": "Steamboat Bill, Jr.",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-17",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,27 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released May 12, 1928; the 95-year US copyright term for a work published in 1928 has expired, so the film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images carry no original soundtrack. Any music on a modern copy is a separate score or recording that may be protected."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The story is credited to Carl Harbaugh, with uncredited script and gag work by Buster Keaton. It is not an adaptation of an earlier book or play, so the story was published with the 1928 film and its term has expired. The title echoes the 1910 song 'Steamboat Bill'."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +39,12 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was selected for the National Film Registry in 2016. I did not confirm any specific modern restoration or its credits, so no restoration is named here."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +69,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Steamboat Bill, Jr. is a 1928 American silent comedy directed by Charles Reisner and starring Buster Keaton, released through United Artists, and home to the celebrated stunt in which a house facade falls around Keaton, who is spared by an open window. Published in 1928, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/SteamboatBillJr_201411",
+      "label": "Steamboat Bill, Jr. (1928), full feature, Internet Archive",
+      "quality": "full feature; metadata checked, picture quality not checked"
+    }
+  ],
+  "editorial": "Steamboat Bill, Jr. is a silent comedy released on May 12, 1928 through United Artists. Charles Reisner is the credited director, and Buster Keaton co-directed uncredited. Keaton plays William Canfield Jr., the son of a riverboat captain played by Ernest Torrence. The film is best known for the cyclone finale, in which a two-ton house facade falls around Keaton and he is spared by an open window. Keaton did the stunt without special effects. It was his last independent production, and it was selected for the National Film Registry in 2016. A creator can use the footage and the stunt freely as a reference or in a mashup.\n\nThe film was published in 1928, and the US term for the print has expired. The story was written for the film, so there is no earlier book or play to clear. The rights trap sits in the copies. Most circulating versions add a later score, and that recording is a separate work that may still be protected. Titles, colour tinting or other material added by a modern release can also be protected. Use a copy with no added music, or score the film yourself. Check the credits of any restoration before you lift its audio or new titles.",
+  "faq": [
+    [
+      "Can I use clips from Steamboat Bill, Jr. in my own video?",
+      "Yes for the 1928 picture. The print's US copyright term has expired. Take care with the source copy: a later score, new title cards or other added material on a modern release may be protected. Use a copy without those, or replace the music."
+    ],
+    [
+      "Is the falling-house stunt free to recreate or reference?",
+      "The 1928 footage is free to use in the US. The story was written for the film, so no earlier source needs clearing. A modern remake or tribute that copies only the idea of the stunt needs no licence."
+    ]
+  ]
 }
