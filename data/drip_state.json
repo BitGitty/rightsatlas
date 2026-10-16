@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-15",
+  "last_release": "2026-10-16",
   "log": [
     {
       "date": "2026-08-31",
@@ -184,6 +184,10 @@
     {
       "date": "2026-10-15",
       "film": "christmas-comes-but-once-a-year-1936"
+    },
+    {
+      "date": "2026-10-16",
+      "film": "scrooge-1913"
     }
   ]
 }
