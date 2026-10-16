@@ -161,6 +161,11 @@
    "film": "in-old-arizona-1929",
    "kind": "evidence"
   },
+  "Intolerance1916": {
+   "ok": true,
+   "film": "intolerance-1916",
+   "kind": "watch"
+  },
   "TheLastManOnEarthHD": {
    "ok": true,
    "film": "last-man-on-earth-1964",
@@ -200,6 +205,16 @@
    "ok": true,
    "film": "nosferatu-1922",
    "kind": "watch"
+  },
+  "OrphansoftheStorm": {
+   "ok": true,
+   "film": "orphans-of-the-storm-1921",
+   "kind": "watch"
+  },
+  "orphans-of-the-storm-1921": {
+   "ok": true,
+   "film": "orphans-of-the-storm-1921",
+   "kind": "evidence"
   },
   "robot-monster-1953": {
    "ok": true,
