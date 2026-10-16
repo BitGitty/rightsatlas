@@ -1,0 +1,91 @@
+{
+  "id": "doa-1950",
+  "title": "D.O.A.",
+  "year": 1950,
+  "country": "US",
+  "last_verified": "2026-10-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Public Domain Review says D.O.A. entered the US public domain through a copyright renewal error. This is a secondary source. I could not open the Catalog of Copyright Entries renewal volumes or the Copyright Office catalog to confirm that no renewal exists, so the print is not marked verified_pd.",
+          "source": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/collection/d-o-a-1950"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Dimitri Tiomkin is credited with the score. I did not check whether the music was separately registered or renewed. The soundtrack probably follows the film's own status, but this is unconfirmed.",
+          "source": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/collection/d-o-a-1950"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is credited to Clarence Greene and Russell Rouse. I did not confirm whether it was based on an earlier published work.",
+          "source": "The Public Domain Review",
+          "url": "https://publicdomainreview.org/collection/d-o-a-1950"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1977,
+      1978,
+      1979
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “D.O.A.” (renewals ~1977, 1978, 1979)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=D.O.A."
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures & Filmstrips, Jan–June 1978 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig14libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/DOA1950",
+      "label": "D.O.A. (1950) on the Internet Archive",
+      "quality": "Metadata confirms the title and year. Print quality and source were not checked."
+    }
+  ],
+  "editorial": "D.O.A. is a 1950 film noir directed by Rudolph Maté and starring Edmond O'Brien and Pamela Britton. Harry Popkin Productions and Cardinal Pictures made it. Clarence Greene and Russell Rouse wrote the screenplay, and Dimitri Tiomkin is credited with the score. A poisoned man walks into a police station to report his own murder, and he spends the rest of the film finding out who did it. That opening tracking shot is among the most recognisable in noir. The Library of Congress chose the film for the National Film Registry in 2004. Creators reuse it often for clips, remixes and noir-themed edits.\n\nThe Public Domain Review says the film is in the public domain in the US because its copyright was not renewed. That is a secondary claim. This dossier could not check the renewal records themselves, so the print stays undetermined until someone searches the Catalog of Copyright Entries and the Copyright Office catalog. The rights trap is the layers beyond the picture. The Tiomkin score and the underlying screenplay may carry their own registrations. Any restored or re-scored release may also add protected material. Check each of those before commercial reuse.",
+  "faq": [
+    [
+      "Is D.O.A. (1950) free to reuse?",
+      "Secondary sources say its copyright lapsed through a missed renewal. This dossier could not confirm that in the primary renewal records, so search the Stanford renewal database and the Copyright Office catalog yourself before relying on it. The score, the story and any modern restoration should be checked separately."
+    ],
+    [
+      "Where can I watch or download a copy?",
+      "The Internet Archive has an item at archive.org/details/DOA1950, and its metadata confirms the title and year. The quality of that copy was not verified. A restored release may include added material, such as new titles or a new score, that is protected separately."
+    ]
+  ]
+}
