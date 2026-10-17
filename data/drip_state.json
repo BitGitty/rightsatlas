@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-16",
+  "last_release": "2026-10-17",
   "log": [
     {
       "date": "2026-08-31",
@@ -188,6 +188,10 @@
     {
       "date": "2026-10-16",
       "film": "scrooge-1913"
+    },
+    {
+      "date": "2026-10-17",
+      "film": "its-a-wonderful-life-1946"
     }
   ]
 }
