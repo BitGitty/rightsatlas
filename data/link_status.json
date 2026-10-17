@@ -271,10 +271,30 @@
    "film": "steamboat-bill-jr-1928",
    "kind": "watch"
   },
+  "sunrise_1927": {
+   "ok": true,
+   "film": "sunrise-1927",
+   "kind": "watch"
+  },
   "silent-tarzan-of-the-apes": {
    "ok": true,
    "film": "tarzan-of-the-apes-1918",
    "kind": "watch"
+  },
+  "Ace_of_Hearts_1921": {
+   "ok": true,
+   "film": "the-ace-of-hearts-1921",
+   "kind": "evidence"
+  },
+  "ACEOFHEARTS1921SilentLonChaney": {
+   "ok": true,
+   "film": "the-ace-of-hearts-1921",
+   "kind": "watch"
+  },
+  "theaceofhearts4k": {
+   "ok": true,
+   "film": "the-ace-of-hearts-1921",
+   "kind": "evidence"
   },
   "silent-the-big-parade": {
    "ok": true,
