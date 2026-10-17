@@ -3,7 +3,7 @@
   "title": "The Birth of a Nation",
   "year": 1915,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-17",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,31 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1915; the 95-year US copyright term has long expired (works published through 1930 are public domain), so the film print is public domain in the US by term expiry."
+          "note": "Released February 8, 1915 (David W. Griffith Corp.). The US copyright term for a work published in 1915 has long expired, so the film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The original 1915 score was by Joseph Carl Breil, who combined classical adaptations, popular melodies and original pieces. That 1915 score is itself old enough to be free. The film is silent, though, and any score on a modern copy (a new recording or arrangement) is a separate protected work. Check what is on the specific copy.",
+          "source": "Wikipedia, The Birth of a Nation",
+          "url": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on Thomas Dixon Jr.'s 1905 novel and play 'The Clansman'. A 1905 source is far past its US term, so the underlying story adds no copyright barrier.",
+          "source": "Wikipedia, The Birth of a Nation",
+          "url": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -38,26 +52,9 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1942,
-      1943,
-      1944
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “The Birth of a Nation” (renewals ~1942, 1943, 1944)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Birth+of+a+Nation"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
   "watch": [
     {
@@ -66,11 +63,15 @@
       "quality": "full film"
     }
   ],
-  "editorial": "The Birth of a Nation (1915), directed by D.W. Griffith, is in the US public domain by copyright-term expiry. RightsAtlas records copyright status only. For context, the film is both a technical landmark in early narrative filmmaking and one of the most notorious works in cinema history for its racist depiction of Black Americans and its glorification of the Ku Klux Klan; its inclusion here is a neutral statement of copyright status, not an endorsement.",
+  "editorial": "The Birth of a Nation was released on February 8, 1915 by the David W. Griffith Corp. It is adapted from Thomas Dixon Jr.'s 1905 novel and play The Clansman, and it runs about three hours. Joseph Carl Breil wrote its score. The Library of Congress selected it for the National Film Registry in 1992. It is a landmark of early feature filmmaking. It is also one of the most notorious films in cinema history for its racist portrayal of Black Americans and its glorification of the Ku Klux Klan. RightsAtlas records copyright status only, not endorsement.\n\nThe 1915 print is free to use in the US because its copyright term expired, and the Dixon source it was adapted from is old enough to be free as well. The trap is the sound. The film is silent, so whatever music is on a given copy, such as a modern recording or arrangement, is a separate work that may be protected. Take the picture from a clean copy and check or replace the music. Any new intertitles, restoration additions or other added material on a particular release should be checked on their own.",
   "faq": [
     [
       "Is The Birth of a Nation public domain?",
-      "Yes — the 1915 film print is public domain in the US by copyright-term expiry. As with any old film, verify the specific copy you use (some restorations or re-scored reissues can carry separate rights)."
+      "The 1915 film print is public domain in the US because its copyright term has expired. The Dixon novel it was adapted from (1905) is also old enough to be free. Check the particular copy you use, since added music or other new material can carry its own rights."
+    ],
+    [
+      "Can I use the music that comes with a copy of the film?",
+      "Not automatically. The film is silent, so the music on a given copy is a separate work. Breil's original 1915 score is old enough to be free, but a modern recording or new arrangement may be protected. Use a copy whose music you can trace, or add your own."
     ]
   ]
 }
