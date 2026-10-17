@@ -306,6 +306,11 @@
    "film": "the-birth-of-a-nation-1915",
    "kind": "watch"
   },
+  "the-black-pirate-1926": {
+   "ok": true,
+   "film": "the-black-pirate-1926",
+   "kind": "watch"
+  },
   "the-cameraman_1928": {
    "ok": true,
    "film": "the-cameraman-1928",
@@ -324,6 +329,11 @@
   "cat-and-the-canary-1927": {
    "ok": true,
    "film": "the-cat-and-the-canary-1927",
+   "kind": "watch"
+  },
+  "the-circus-charlie-chaplin": {
+   "ok": true,
+   "film": "the-circus-1928",
    "kind": "watch"
   },
   "catalogofcopyrig3101213li": {
