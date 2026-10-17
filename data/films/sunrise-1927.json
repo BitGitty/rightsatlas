@@ -3,7 +3,7 @@
   "title": "Sunrise",
   "year": 1927,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-17",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,42 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1927; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1927 (released November 4, 1927); the 95-year US copyright term for works published that year has expired, so the film print is public domain in the US by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1927 Fox Movietone synchronized score, credited to Hugo Riesenfeld, was published with the film and shares the print's term-expiry status. Modern copies often carry newer scores or re-recordings (for example a 2016 commissioned score by Joe Kraemer), and those are separate works that can be protected."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Hermann Sudermann's short story 'The Excursion to Tilsit' from the 1917 collection Litauische Geschichten. A work published in 1917 has passed its 95-year US term, so the source is public domain."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Home-video editions of Sunrise (a Fox Home Entertainment Blu-ray, and a Masters of Cinema release in the UK) are built from archival restorations. A faithful restoration adds no new US copyright (Bridgeman v. Corel). New scores, new or translated titles and added extras on those releases can be protected."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +71,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Sunrise: A Song of Two Humans is a 1927 American silent drama directed by F. W. Murnau for the Fox Film Corporation — a US studio production despite its German director — and a landmark of the medium, winning the one-time Academy Award for Unique and Artistic Production at the first Oscars. Published in 1927, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations and the Movietone sound-on-film score may carry their own separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/sunrise_1927",
+      "label": "Sunrise (1927) — Internet Archive",
+      "quality": "1280x1080 MPEG4 source file"
+    }
+  ],
+  "editorial": "Sunrise: A Song of Two Humans is a 1927 American silent drama directed by F. W. Murnau, his American debut, for the Fox Film Corporation with William Fox as producer. It stars George O'Brien, Janet Gaynor and Margaret Livingston, and it won the Academy Award for Unique and Artistic Picture at the first ceremony, where Gaynor also received the first Best Actress award. It was released with a Fox Movietone synchronized score, and it adapts Hermann Sudermann's 1917 story 'The Excursion to Tilsit'. Both the 1927 film and its 1917 source are past their US terms.\n\nThe rights trap is the soundtrack and the modern releases, not the picture. Hugo Riesenfeld's 1927 score is a period work, but newer scores, such as Joe Kraemer's 2016 commission, and re-recorded versions are separate works. Studio Blu-ray and UK restoration editions add their own scores, titles and extras. A creator who wants a clean copy should work from the film itself, such as an Internet Archive transfer, and either use the period score or commission or license their own music.",
+  "faq": [
+    [
+      "Can I use footage from Sunrise in my own project?",
+      "The 1927 film print is public domain in the US by term expiry, so the images can be reused. Check the source copy you use, because a modern release may add a new score, new titles or other material that is still protected."
+    ],
+    [
+      "Is the Sunrise score free to use?",
+      "The 1927 Movietone score is a period work. A score on a modern copy, such as a re-recording or a commissioned replacement like Joe Kraemer's 2016 score, is a separate work that may still be protected. Confirm which score you have before reusing the audio."
+    ]
+  ]
 }

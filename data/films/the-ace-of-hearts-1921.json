@@ -3,7 +3,7 @@
   "title": "The Ace of Hearts",
   "year": 1921,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-17",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,47 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1921; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released October 21, 1921. The 95-year US copyright term for a work published in 1921 has expired, so the film print is public domain in the US by term expiry.",
+          "source": "US copyright term rules (95 years from publication)"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work and a separate recording. One Internet Archive upload (Ace_of_Hearts_1921) is described by its uploader as silent with no music because DVD scores are under copyright.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/Ace_of_Hearts_1921"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Gouverneur Morris's story 'The Purple Flask', serialized in two parts in Cosmopolitan magazine in 1917. A 1917 publication has passed the 95-year US term. Screenplay by Ruth Wightman for Goldwyn Pictures (1921), which is also past term.",
+          "source": "Wikipedia, The Ace of Hearts (1921 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Ace_of_Hearts_(1921_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive hosts a colorized, upscaled version of the film (item 'theaceofhearts4k'), and the film is also on commercial DVD. A faithful transfer of the public-domain print adds no new US copyright. Colorization, added music and new titles can be protected. Use an uncolorized, unscored copy to avoid that added material.",
+          "source": "Internet Archive search listing; Wikipedia",
+          "url": "https://archive.org/details/theaceofhearts4k"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +76,27 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Ace of Hearts is a 1921 American crime drama produced and directed by Wallace Worsley for Goldwyn Pictures, starring Lon Chaney and Leatrice Joy in a story of a secret vigilante society that plots an assassination. It reunited Chaney and Worsley after their earlier collaboration on The Penalty (1920). As a 1921 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/Ace_of_Hearts_1921",
+      "label": "The Ace of Hearts (1921), 74 min, silent, no music added",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/ACEOFHEARTS1921SilentLonChaney",
+      "label": "Ace of Hearts (1921 silent), Lon Chaney, about 74 min",
+      "quality": "fair"
+    }
+  ],
+  "editorial": "The Ace of Hearts is a 1921 American crime drama directed by Wallace Worsley for Goldwyn Pictures, released October 21, 1921. Lon Chaney plays Farallone and Leatrice Joy plays Lilith, in a story about a secret society that draws cards to pick an assassin. Ruth Wightman wrote the screenplay from Gouverneur Morris's story 'The Purple Flask', serialized in Cosmopolitan in 1917. Per Wikipedia, Goldwyn had the original ending reshot because he thought it implausible. A print survives at George Eastman House.\n\nThe film print is public domain in the US because its 95-year term has expired, and the underlying story is past term too. The trap is the copies. The film is not wholly free in every form: a colorized 4K version and commercial DVD releases may carry new music, colorization or added titles that are protected. Download an uncolorized, unscored copy such as the silent Internet Archive upload, and add your own or a public-domain score. Trademark status was not researched.",
+  "faq": [
+    [
+      "Can I reuse the Internet Archive copy of The Ace of Hearts?",
+      "The 1921 film print is public domain in the US because its copyright term has expired. Pick an uncolorized, silent copy. A colorized or newly scored version may carry added material that is still protected."
+    ],
+    [
+      "Is the music on DVD releases free to use?",
+      "Not necessarily. The film is silent, so any score on a DVD or restored copy is a separate work and recording, and it may be protected. The Internet Archive upload Ace_of_Hearts_1921 was posted without music for this reason."
+    ]
+  ]
 }
