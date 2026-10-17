@@ -3,7 +3,7 @@
   "title": "The Black Pirate",
   "year": 1926,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-18",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,42 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1926; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published March 8, 1926; works published in 1926 entered the US public domain on January 1, 2022 under the 95-year term, so the film print is public domain in the US by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2022",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2022/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images are free. Any music on a modern copy is a separate work or recording. A recording or new score added to a modern release can be protected. A score from 1926 (Mortimer Wilson is credited with the original music) would be free by term, but I did not confirm that from a primary source."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The story is credited to Elton Thomas, a pen name of Douglas Fairbanks. It is an original story, not an adaptation of an earlier work, so it has no separate source term. It was published with the 1926 film, which is now public domain by term expiry."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of the public-domain print adds no new US copyright (Bridgeman v. Corel, following Feist). Anything a modern release adds can be protected, such as a new score, new or translated titles, or other added material. I did not identify a specific restoration or release, so check each release for additions."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +71,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Black Pirate is a 1926 American silent swashbuckler directed by Albert Parker and produced by and starring Douglas Fairbanks, released through United Artists. One of the first feature films shot entirely in two-color Technicolor, its pioneering use of color and athletic set pieces made it a landmark of silent-era spectacle. Published in 1926, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-black-pirate-1926",
+      "label": "The Black Pirate (1926) — Internet Archive upload, 480x360",
+      "quality": "low"
+    }
+  ],
+  "editorial": "The Black Pirate is a 1926 American silent swashbuckler directed by Albert Parker and produced by and starring Douglas Fairbanks, released through United Artists on March 8, 1926. It was shot in two-strip Technicolor (Process No. 2), and the Library of Congress selected it for the National Film Registry in 1993. The story is credited to Elton Thomas, a pen name of Fairbanks. A creator can use the photoplay's images freely because the 1926 film entered the US public domain on January 1, 2022.\n\nThe rights trap is the copy you start from. The Internet Archive copies I checked are of unknown source and quality, and a modern disc or stream may carry a newer score, new titles or other added material that is protected on its own. Take the images from a clean source you can document, and do not rip a copy-protected disc, which can break 17 U.S.C. 1201. Use your own score or one you have licensed. Fairbanks's name and likeness are a separate matter from the film's copyright, so check them before using them to market a product.",
+  "faq": [
+    [
+      "Can I reuse footage from The Black Pirate in a commercial project?",
+      "Yes for the film's images in the US, because the 1926 film is public domain by term expiry. Check the source copy first: a modern release may add a new score, titles or other material that is protected on its own."
+    ],
+    [
+      "Can I use the music I hear on an online copy?",
+      "Not automatically. The film is silent, so any soundtrack on a copy was added later. Treat the music as a separate work or recording and clear it, or use your own score."
+    ]
+  ]
 }

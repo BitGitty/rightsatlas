@@ -3,7 +3,7 @@
   "title": "The Circus",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-18",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,42 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1928; the 95-year US copyright term ended after 31 December 2023. Duke CSPD's Public Domain Day 2024 page lists The Circus (directed by Charlie Chaplin) among the 1928 films entering the public domain on 1 January 2024.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2024/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1928 original was silent. Chaplin composed a new score in 1967 for the reissue that premiered in New York on 15 December 1969. That score and its recording are a separate later work with their own rights, so a copy carrying it is not covered by the print's term expiry. The score status has not been checked in Copyright Office records."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Circus was an original screenplay by Chaplin, not an adaptation. No pre-existing source work was found that could carry a longer term. The original photoplay is covered by the 1928 term expiry."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Criterion Collection issued a 2019 Blu-ray/DVD edition with commentary by Jeffrey Vance. A faithful restoration of the public-domain print adds no new US copyright (Bridgeman v. Corel). New scores, added commentary, new titles and other added material can be protected. Ripping a copy-protected disc can break 17 U.S.C. 1201."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +71,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Circus is a 1928 American silent comedy written, directed by, produced by and starring Charlie Chaplin for United Artists, with the Tramp accidentally becoming a circus star; Chaplin received a special Academy Award for the film at the first Oscars. Published in 1928, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Chaplin's 1969 reissue added a musical score he then composed, a separate later work with its own rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-circus-charlie-chaplin",
+      "label": "The Circus (1928), Charlie Chaplin, 720p (Internet Archive, Public Domain Mark 1.0)",
+      "quality": "720p"
+    }
+  ],
+  "editorial": "The Circus is a 1928 silent comedy that Charlie Chaplin wrote, directed, produced and starred in for United Artists. It premiered in New York on 6 January 1928. The Tramp is mistaken for a thief, chased into a circus ring, and becomes the star by accident. The Academy gave Chaplin a special award at the first Oscars for writing, acting, directing and producing it, and took him out of the competitive categories. A reuser gets a feature-length silent with intertitles and a strong set-piece structure.\n\nPublished in 1928, the film's copyright term expired at the end of 2023, so the print and the story are free to reuse in the US. The trap is the sound. Chaplin composed a new score in 1967 for the reissue that premiered in New York on 15 December 1969, and that score and its recording are a separate work with their own rights. Criterion's 2019 edition also carries commentary by Jeffrey Vance that is not part of the 1928 film. Pull a silent print, or score it yourself, and you avoid both.",
+  "faq": [
+    [
+      "Can I use The Circus in my own video or upload it?",
+      "Yes for the 1928 picture itself. It is in the US public domain by term expiry, and Duke's Public Domain Day 2024 list names it. Use a silent copy. Many modern copies carry Chaplin's 1969 reissue score, and that score is not covered by the film's expiry."
+    ],
+    [
+      "Does a Criterion or other restored copy give someone new rights?",
+      "A faithful restoration adds no new US copyright to the 1928 images (Bridgeman v. Corel). Added material can be protected, such as the 1969 score or the commentary on Criterion's 2019 edition. Ripping a copy-protected disc can also break 17 U.S.C. 1201, so use an uncopyrighted source such as the Internet Archive item."
+    ]
+  ]
 }
