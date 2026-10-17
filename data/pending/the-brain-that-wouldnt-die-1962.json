@@ -1,0 +1,103 @@
+{
+  "id": "the-brain-that-wouldnt-die-1962",
+  "title": "The Brain That Wouldn't Die",
+  "year": 1962,
+  "country": "US",
+  "last_verified": "2026-10-17",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says it entered the public domain on release because of a flawed copyright notice. I could not check this in a primary record: the 1990 Catalog of Copyright Entries renewal volumes are not on archive.org (an archive.org search for them returned no results), and the Copyright Office public catalog could not be searched from here. The status stays undetermined until the notice defect and the absence of a renewal are confirmed by hand.",
+          "source": "Wikipedia, The Brain That Wouldn't Die",
+          "url": "https://en.wikipedia.org/wiki/The_Brain_That_Wouldn%27t_Die"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the main theme 'The Web' to Abe Baker and Tony Restaino. I found no renewal or registration record for the music. The soundtrack is part of the film's own copyright status, so it stays undetermined until the print is confirmed. A separately registered song or cue could still be protected.",
+          "source": "Wikipedia, The Brain That Wouldn't Die",
+          "url": "https://en.wikipedia.org/wiki/The_Brain_That_Wouldn%27t_Die"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Joseph Green and Rex Carlton co-wrote the film. I did not confirm whether it was adapted from an earlier published work, so the story layer stays undetermined.",
+          "source": "Wikipedia, The Brain That Wouldn't Die",
+          "url": "https://en.wikipedia.org/wiki/The_Brain_That_Wouldn%27t_Die"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a Synapse Films DVD (2002) of an uncut 85-minute version from a 35mm print, and a Shout! Factory Blu-ray (December 2015) with an HD transfer from the negative. I did not confirm what extras, new titles or other added material these releases contain. A faithful transfer adds no new copyright, but added material can be protected. Ripping a disc may raise DMCA 1201 issues.",
+          "source": "Wikipedia, The Brain That Wouldn't Die",
+          "url": "https://en.wikipedia.org/wiki/The_Brain_That_Wouldn%27t_Die"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1989,
+      1990,
+      1991
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Brain That Wouldn't Die” (renewals ~1989, 1990, 1991)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Brain+That+Wouldn't+Die"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheBrainThatWouldntDie_300",
+      "label": "The Brain That Wouldn't Die (1962), Internet Archive (feature, about 82 min)",
+      "quality": "feature-length; archive.org metadata marks it Public Domain"
+    },
+    {
+      "url": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
+      "label": "The Brain That Wouldn't Die (1962), Internet Archive (alternate upload)",
+      "quality": "feature-length; quality not checked"
+    }
+  ],
+  "editorial": "The Brain That Wouldn't Die is a low-budget horror film. Joseph Green directed it and co-wrote it with Rex Carlton, who also produced it with Mort Landberg. It was shot around Tarrytown, New York in 1959 under the working title The Black Door. American International Pictures released it on May 3, 1962 as a double feature with Invasion of the Star Creatures, and cut it to 71 minutes for theaters. The story follows a surgeon who keeps his fiancée's head alive after a car crash and goes looking for a new body for her. Creators want it for its cult reputation and its ready-made lurid imagery. Internet Archive hosts feature-length copies, and the main one is labeled Public Domain.\n\nThe rights trap is that the public-domain claim rests on a secondary source. Wikipedia says a flawed copyright notice put the film in the public domain on release. I could not check that, or the absence of a renewal, in a primary record. Before relying on the print, do the Copyright Office and Stanford renewal searches linked here. Keep the layers separate too. The 'The Web' theme credited to Abe Baker and Tony Restaino was not independently cleared. Modern releases such as Synapse's 2002 DVD of the uncut 85-minute version and Shout! Factory's 2015 Blu-ray may add protectable material that I did not inspect, so use a plain Internet Archive copy rather than ripping a disc.",
+  "faq": [
+    [
+      "Is The Brain That Wouldn't Die in the public domain?",
+      "It is widely described that way, because of a notice defect when AIP released it in 1962. This dossier could not confirm that in a primary record, so treat the print as unverified until you have checked the notice and the Copyright Office renewal records. Internet Archive labels one upload Public Domain."
+    ],
+    [
+      "Can I use the Shout! Factory or Synapse versions?",
+      "Do not rely on them. A faithful transfer adds no new US copyright, but extras, new titles or other added material may be protected. Ripping a copy-protected disc can also violate 17 U.S.C. 1201. A plain Internet Archive copy avoids both problems."
+    ]
+  ]
+}
