@@ -3,7 +3,7 @@
   "title": "The Big Parade",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-17",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,42 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1925; the 95-year US copyright term expired at the end of 2020, so the film itself entered the US public domain on 1 January 2021 by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1925 release had an original score credited to William Axt and David Mendoza; as a work published in 1925 it is also past its US term. Modern DVD and Blu-ray copies, however, carry a newer score (Carl Davis wrote one for the film in the 1980s). That recording and composition are separate protected works, not covered by the film's public-domain status."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The story was written by Laurence Stallings, a World War I veteran, for the film itself (scenario by Harry Behn, intertitles by Joseph W. Farnham). It is not an adaptation of an earlier book or play, so it has no separate source copyright. It was published with the 1925 film and shares the film's expired term."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Modern home-video releases of the film use a contemporary score in place of the original Axt/Mendoza score. A faithful restoration adds no new US copyright, but a new score or newly made titles on a given release can be protected. Check which version you are copying."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +74,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/silent-the-big-parade",
-      "label": "Internet Archive — The Big Parade (1925), full film"
+      "label": "Internet Archive — The Big Parade (1925), full film",
+      "quality": "Internet Archive copy, about 151 minutes; the score on this copy was not checked"
     }
   ],
-  "editorial": "The Big Parade is a 1925 American silent war drama directed by King Vidor for Metro-Goldwyn-Mayer, starring John Gilbert and Renee Adoree from a story by World War I veteran Laurence Stallings. A landmark anti-war film and one of the highest-grossing pictures of the silent era, its success helped establish MGM as a major studio; it entered the National Film Registry in 1992. Published in 1925, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "The Big Parade is a 1925 silent war drama directed by King Vidor for Metro-Goldwyn-Mayer. John Gilbert and Renée Adorée star, and the story is by Laurence Stallings, a World War I veteran. It was chosen for the National Film Registry in 1992, and it heavily influenced later war films such as All Quiet on the Western Front (1930). The picture itself entered the US public domain on 1 January 2021, when the 95-year term for 1925 publications ran out.\n\nThe trap is the music, not the images. The original Axt/Mendoza score belongs to the 1925 release, but the DVD and Blu-ray editions use a later score. Carl Davis composed one for the film in the 1980s, and a modern score recording is a separate protected work. Lift the picture from a source whose soundtrack you have checked, or add your own music. The story layer has no outside source to worry about.",
+  "faq": [
+    [
+      "Can I reuse footage from The Big Parade in my own video?",
+      "In the US, yes for the picture itself: the 1925 film's copyright term has expired. Take the footage from a copy whose music you have checked. Do not carry over a modern score from a DVD or Blu-ray, and do not rip copy-protected discs, which can breach 17 U.S.C. 1201."
+    ],
+    [
+      "Is the music in The Big Parade also free to use?",
+      "Not necessarily. The original 1925 score credited to William Axt and David Mendoza is itself an old work. A newer score added to a modern release, such as Carl Davis's, is a separate protected work. Use a score-free copy or clear the music separately."
+    ]
+  ]
 }
