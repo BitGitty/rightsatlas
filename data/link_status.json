@@ -652,7 +652,14 @@
    "kind": "evidence"
   }
  },
- "repaired": [],
+ "repaired": [
+  {
+   "film": "sherlock-jr-1924",
+   "was": "sherlock-jr-1924-tmdb992",
+   "now": "silent-sherlock-jr-",
+   "kind": "watch"
+  }
+ ],
  "dropped": [],
  "unrepaired_evidence": []
 }
