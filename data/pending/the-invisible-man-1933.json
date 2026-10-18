@@ -1,0 +1,92 @@
+{
+  "id": "the-invisible-man-1933",
+  "title": "The Invisible Man",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-10-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Pictures release, premiered October 31, 1933. I could not reach the Stanford renewal database or the Catalog of Copyright Entries renewal volumes in this session, so no renewal search was completed. The queue's 'renewal_absent_likely' flag is unconfirmed, and Universal has kept the film in its catalog.",
+          "source": "Wikipedia article on the film, used only for release and ownership facts",
+          "url": "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score by Heinz Roemheld, heard only in the opening, the final seven minutes and the closing credits. As a sound film, the recorded track normally shares the film's status, so it stays undetermined until the print's renewal status is settled.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on H.G. Wells's 1897 novel, which is in the US public domain by term because it was published well over 95 years ago. This covers only the novel. The screenplay by R.C. Sherriff and the film's own expression are separate. Universal bought the film rights from Wells in 1931.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2022/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "In 2012 Universal commissioned Technicolor Creative Services to make a restored print. It used preservation materials and a nitrate dupe from the British Film Institute, with repaired frames and cleaned-up sound. Blu-ray (2012-2013) and 4K Ultra HD (October 5, 2021) releases followed. A faithful restoration adds no new copyright, but new extras and any added material on those discs can be protected.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Invisible Man” (renewals ~1960, 1961, 1962)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Invisible+Man"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "James Whale's The Invisible Man was made by Universal Pictures and first shown on October 31, 1933, in Greeley, Colorado. Claude Rains stars. R.C. Sherriff wrote the script from H.G. Wells's 1897 novel, after Universal bought the rights from Wells in 1931 for $10,000. Heinz Roemheld composed the score. Universal commissioned a restoration in 2012 and has since put out Blu-ray and 4K releases.\n\nThe rights trap is the film itself. The Wells novel is free, but the 1933 film is a separate work, and I found no evidence that its copyright lapsed. A renewal search covering the 1960-1962 window was not completed, so the print cannot be treated as free. Do not assume Universal let the copyright lapse. Check the Catalog of Copyright Entries renewal volumes and the Stanford renewal database before using any footage. The 2012 restoration and later disc extras are a further risk, since new material on them can be protected.",
+  "faq": [
+    [
+      "Is the 1933 Invisible Man film in the public domain?",
+      "Not confirmed. The queue flags renewal absence as likely, but I could not verify it, and no renewal search has been completed. Until the 1960-1962 renewal records have been checked, treat the film as protected."
+    ],
+    [
+      "Can I adapt H.G. Wells's novel without Universal's permission?",
+      "Yes. The 1897 novel is in the US public domain. Do not copy the film's screenplay, dialogue, scenes or character designs, which belong to Universal's separate work."
+    ]
+  ]
+}

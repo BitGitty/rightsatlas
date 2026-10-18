@@ -172,3 +172,5 @@
 {"date": "2026-10-18", "id": "the-lady-vanishes-1938", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-10-18", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
 {"date": "2026-10-18", "id": "the-gold-rush-1925", "result": "blocked", "reasons": ["crash KeyError: 'layers'"]}
+{"date": "2026-10-19", "id": "the-invisible-man-1933", "result": "queued", "reasons": []}
+{"date": "2026-10-19", "id": "swing-time-1936", "result": "queued", "reasons": []}
