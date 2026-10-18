@@ -3,7 +3,7 @@
   "title": "The Four Horsemen of the Apocalypse",
   "year": 1921,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-18",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,33 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1921; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released March 6, 1921 by Metro Pictures. A work published in 1921 is past the 95-year US term. Duke's Center for the Study of the Public Domain states that the works clearly in the US public domain are those published before 1923.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2017",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2017/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1921 film is silent. The images are free, but any music on a modern copy is a separate work. I could not confirm what music, if any, the Internet Archive copies carry. Treat any recorded or newly composed accompaniment as its own protected recording unless you can trace it to a public-domain source.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/The_Four_Horsemen_of_the_Apocalypse"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Vicente Blasco Ibáñez's novel of the same name, published in 1916 (per the English Wikipedia article on the film). A work published in 1916 is past the US term. June Mathis wrote the screenplay for the 1921 film, and the film itself was released in 1921, which is also past the term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2017",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2017/"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +45,14 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a DVD in 2000 and a Warner Archive Blu-ray in March 2025. I could not confirm what, if anything, those releases add beyond the film, such as a new score or new titles. A faithful transfer adds no new US copyright. Any added score, new or translated intertitles, or other new material can be protected.",
+          "source": "Wikipedia, The Four Horsemen of the Apocalypse (1921 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(1921_film)"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +77,27 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Four Horsemen of the Apocalypse is a 1921 American silent epic war drama directed by Rex Ingram for Metro Pictures, adapted by June Mathis from Vicente Blasco Ibanez's novel. The top-grossing film of 1921, it made Rudolph Valentino a star and stands among the era's most influential early anti-war films. Published in 1921, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/FourHorsemenOfTheApocalypse",
+      "label": "The Four Horsemen of the Apocalypse (1921), full feature on the Internet Archive",
+      "quality": "Listed at 130 minutes. I could not confirm whether it carries a music accompaniment, which may be separately protected."
+    },
+    {
+      "url": "https://archive.org/details/The_Four_Horsemen_of_the_Apocalypse",
+      "label": "The Four Horsemen of the Apocalypse (1921), Internet Archive, in five segments",
+      "quality": "Listed as silent, with English titles, in black-and-white with tint."
+    }
+  ],
+  "editorial": "The Four Horsemen of the Apocalypse is a 1921 American silent film directed by Rex Ingram for Metro Pictures. June Mathis wrote the screenplay from Vicente Blasco Ibáñez's 1916 novel, and she insisted that the unknown Rudolph Valentino play the lead. The film was released on March 6, 1921, and it is the work that made Valentino a star. The National Film Registry selected it in 1995. For a creator it offers large Los Angeles sets, a World War I story, and Valentino, Alice Terry and Wallace Beery on screen.\n\nThe 1921 print and the story it adapts, the 1916 novel, are both past their US terms. The trap is the layer on top of the film. Silent-film releases often add a new score. A newer disc or stream can also bring new or translated intertitles. Use the film from a source whose music and titles you can trace. Otherwise commission your own score and make your own titles.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1921 film in my own project?",
+      "Yes, the 1921 picture itself is free in the US. Its term has expired, and the 1916 novel it adapts is also past its term. Check the source copy for added scores, new intertitles or other new material, because those parts can be protected."
+    ],
+    [
+      "Is the music on the Internet Archive or on a disc free to use?",
+      "Not automatically. The film is silent, so any music on a modern copy is a separate recording or composition. Use a score you can trace to the public domain, or write your own."
+    ]
+  ]
 }
