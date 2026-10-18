@@ -1,0 +1,92 @@
+{
+  "id": "swing-time-1936",
+  "title": "Swing Time",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-10-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Stanford renewal database page returned no readable content in this session, and no Catalog of Copyright Entries volume or Copyright Office record was retrieved. A 1963-1965 renewal could not be confirmed or ruled out. The queue's 'renewal_absent_likely' flag is not verified.",
+          "source": "Stanford Copyright Renewal Database",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music by Jerome Kern and lyrics by Dorothy Fields. The songs were published separately as sheet music, so their copyright and renewal history may differ from the film's. This was not checked.",
+          "source": "Wikipedia: Swing Time (film)",
+          "url": "https://en.wikipedia.org/wiki/Swing_Time_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Erwin S. Gelsey's original story 'Portrait of John Garnett', which RKO purchased. The story's own copyright and renewal status was not checked.",
+          "source": "Wikipedia: Swing Time (film)",
+          "url": "https://en.wikipedia.org/wiki/Swing_Time_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A digitally restored version came out on DVD from Warner Home Video in 2005. The Criterion Collection released it on Blu-ray and DVD in 2019. Any new transfer work, commentary or added material in those releases can carry its own protection.",
+          "source": "Wikipedia: Swing Time (film)",
+          "url": "https://en.wikipedia.org/wiki/Swing_Time_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Swing Time” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Swing+Time"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Swing Time is an RKO Radio Pictures musical directed by George Stevens. It stars Fred Astaire and Ginger Rogers, with music by Jerome Kern and lyrics by Dorothy Fields. It opened in New York on August 27, 1936 and in Los Angeles on September 22, 1936. The story is adapted from Erwin S. Gelsey's 'Portrait of John Garnett'. A creator would want it for the Astaire and Rogers dance numbers and the Kern and Fields songs.\n\nThe rights question is unresolved. This dossier could not confirm whether the film's copyright was renewed in its 28th year, so the print cannot be called free to use. Even if the print turned out to be free, the Kern and Fields songs and the underlying story have their own copyright histories. The 2005 Warner and 2019 Criterion releases may add protected material. Check the renewal records directly before reusing any of it.",
+  "faq": [
+    [
+      "Is Swing Time in the public domain?",
+      "Not confirmed. No renewal record could be retrieved in this session, so neither a renewal nor its absence is verified. Search the Stanford renewal database and the Catalog of Copyright Entries for 1963-1965 before relying on it."
+    ],
+    [
+      "Can I use a Criterion or Warner copy of Swing Time?",
+      "Do not assume so. Until the film's own status is settled, treat every copy as protected. Added material in a modern release, such as new commentary, can carry its own copyright, and ripping a copy-protected disc can violate 17 U.S.C. 1201."
+    ]
+  ]
+}
