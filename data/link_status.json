@@ -271,6 +271,11 @@
    "film": "sherlock-holmes-1916",
    "kind": "watch"
   },
+  "silent-sherlock-jr-": {
+   "ok": true,
+   "film": "sherlock-jr-1924",
+   "kind": "watch"
+  },
   "sherlock-jr-1924-tmdb992": {
    "ok": true,
    "film": "sherlock-jr-1924",
@@ -652,14 +657,7 @@
    "kind": "evidence"
   }
  },
- "repaired": [
-  {
-   "film": "sherlock-jr-1924",
-   "was": "sherlock-jr-1924-tmdb992",
-   "now": "silent-sherlock-jr-",
-   "kind": "watch"
-  }
- ],
+ "repaired": [],
  "dropped": [],
  "unrepaired_evidence": []
 }
