@@ -41,6 +41,21 @@
    "film": "beyond-the-rocks-1922",
    "kind": "watch"
   },
+  "beyond-tomorrow-1940": {
+   "ok": true,
+   "film": "beyond-tomorrow-1940",
+   "kind": "evidence"
+  },
+  "Beyond-Tomorrow-1940-CHRISTMAS": {
+   "ok": true,
+   "film": "beyond-tomorrow-1940",
+   "kind": "evidence"
+  },
+  "catalogofc19683221213libr": {
+   "ok": true,
+   "film": "the-devil-bat-1940",
+   "kind": "evidence"
+  },
   "BlindHusbands1919": {
    "ok": true,
    "film": "blind-husbands-1919",
@@ -195,11 +210,6 @@
    "ok": true,
    "film": "night-of-the-living-dead-1968",
    "kind": "watch"
-  },
-  "catalogofc19683221213libr": {
-   "ok": true,
-   "film": "the-devil-bat-1940",
-   "kind": "evidence"
   },
   "nosferatu-2000sdvd": {
    "ok": true,
@@ -385,6 +395,16 @@
    "ok": true,
    "film": "the-extra-girl-1923",
    "kind": "watch"
+  },
+  "FourHorsemenOfTheApocalypse": {
+   "ok": true,
+   "film": "the-four-horsemen-of-the-apocalypse-1921",
+   "kind": "watch"
+  },
+  "The_Four_Horsemen_of_the_Apocalypse": {
+   "ok": true,
+   "film": "the-four-horsemen-of-the-apocalypse-1921",
+   "kind": "evidence"
   },
   "CollegeDays": {
    "ok": true,
