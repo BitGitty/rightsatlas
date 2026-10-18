@@ -3,7 +3,7 @@
   "title": "The Gold Rush",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-10-19",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,40 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released June 26, 1925 by United Artists; the 95-year US copyright term for works published in 1925 has expired, so the 1925 film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1925 original is silent, so its images are free. The 1942 reissue added a recorded musical score and Chaplin's narration, and that score earned Academy Award nominations for Max Terr (music) and James L. Fields (sound). Any score or narration on a modern copy is a separate work and cannot be assumed free."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "An original screenplay written by Chaplin and published as the 1925 film. It is not an adaptation of an earlier work, so it shares the film's expired 1925 term."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A Criterion Collection Blu-ray (2012) pairs a 1925 reconstruction with the 1942 narrated version, and a 4K restoration premiered at Cannes in 2025. A faithful restoration adds no new US copyright. New scores, titles or other added material in such releases can be protected, so check what each release adds."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +72,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-gold-rush-film-1925",
-      "label": "Internet Archive — The Gold Rush (1925), silent version, full film"
+      "label": "Internet Archive — The Gold Rush (1925), silent version, no audio",
+      "quality": "unrated"
     }
   ],
-  "editorial": "The Gold Rush is a 1925 American silent comedy written, directed by, produced by and starring Charlie Chaplin for United Artists, sending his Tramp to the Klondike and giving the screen its famous dancing-dinner-rolls and boiled-shoe sequences. Chaplin regarded it as the film he most wanted to be remembered by. Published in 1925, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Chaplin's 1942 sound reissue, adding his own narration and score, is a separate later work with its own rights; the linked copy is the silent 1925 version.",
-  "faq": []
+  "editorial": "The Gold Rush is Charlie Chaplin's 1925 silent comedy for United Artists. His Tramp goes to the Klondike, and the film includes the boiled-shoe dinner and the dancing dinner rolls. It premiered on June 26, 1925. The 1925 print is public domain in the US because its 95-year term has expired. The story was an original Chaplin screenplay, so it carries no separate source-work term.\n\nThe trap is the 1942 reissue. Chaplin added a recorded score and his own narration, and tightened the edit. That score was Oscar-nominated for Max Terr, and it is a separate work from the 1925 film. Modern releases, including the 2012 Criterion Blu-ray and the 2025 4K restoration, may add scores or other material of their own. Use the silent 1925 version, and score it yourself or use a free-to-use recording.",
+  "faq": [
+    [
+      "Can I use clips from The Gold Rush in my own video?",
+      "Yes for the 1925 silent footage, since the print's term has expired in the US. Avoid the 1942 reissue, which has Chaplin's narration and a recorded score, and avoid any copy with a modern score."
+    ],
+    [
+      "Is the Criterion or 2025 restoration free to copy?",
+      "A faithful restoration adds no new US copyright, but added scores, new titles or other material can be protected. Ripping a copy-protected disc may also breach 17 U.S.C. 1201. Use the silent Internet Archive copy instead."
+    ]
+  ]
 }
