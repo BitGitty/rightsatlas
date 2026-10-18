@@ -170,3 +170,5 @@
 {"date": "2026-10-18", "id": "the-four-horsemen-of-the-apocalypse-1921", "result": "refreshed", "reasons": ["now Clear: story"]}
 {"date": "2026-10-18", "id": "freaks-1932", "result": "blocked", "reasons": ["copyright records show a renewal of the film: catalogofcopyrig3131213li: FREAKS, A PHOTOPLAY IN SEVEN REELS BY METRO-GOLDWYN-MAYER DISTRIBUTING CORP. © 23FEB32; L2870. LOEW'S, INE. (PWH); 2MAR59; R252434. FREE EATS, A PHOTOPLAY IN TWO REELS BY METRO-GOLDWYN-MAYER DISTRIBUT"]}
 {"date": "2026-10-18", "id": "the-lady-vanishes-1938", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-10-18", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
+{"date": "2026-10-18", "id": "the-gold-rush-1925", "result": "blocked", "reasons": ["crash KeyError: 'layers'"]}
