@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-17",
+  "last_release": "2026-10-18",
   "log": [
     {
       "date": "2026-08-31",
@@ -192,6 +192,10 @@
     {
       "date": "2026-10-17",
       "film": "its-a-wonderful-life-1946"
+    },
+    {
+      "date": "2026-10-18",
+      "film": "beyond-tomorrow-1940"
     }
   ]
 }
