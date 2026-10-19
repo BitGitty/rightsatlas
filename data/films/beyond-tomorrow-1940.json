@@ -48,8 +48,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive metadata says a colorized version was produced by Legend Films in 2004 and released by 20th Century Fox as 'Beyond Christmas'. A faithful black-and-white copy adds no new US copyright. The colorization, and any added material, can carry its own protection.",
-          "source": "Internet Archive metadata, alternate upload",
+          "note": "The Internet Archive page for the alternate upload says a colorized version was produced by Legend Films in 2004 and released by 20th Century Fox as 'Beyond Christmas'. A faithful black-and-white copy adds no new US copyright. The colorization, and any added material, can carry its own protection.",
+          "source": "Internet Archive item page, alternate upload",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
       ]
@@ -105,7 +105,7 @@
     ],
     [
       "Can I use the colorized version of Beyond Tomorrow?",
-      "Use a black-and-white print instead. The Internet Archive metadata says Legend Films colorized the film in 2004, and 20th Century Fox released it as 'Beyond Christmas'. The colorization can be separately protected even if the original film is free."
+      "Use a black-and-white print instead. The Internet Archive page says Legend Films colorized the film in 2004, and 20th Century Fox released it as 'Beyond Christmas'. The colorization can be separately protected even if the original film is free."
     ]
   ]
 }
