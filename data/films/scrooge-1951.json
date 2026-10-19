@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 (Odeon Marble Arch) and opened in the US on 28 Nov 1951 as 'A Christmas Carol' (United Artists), so the US release came within 30 days of the UK release. Under 17 U.S.C. 104A, URAA restoration excludes works first published in an eligible country and also published in the US within 30 days, so restoration may not apply. That would make the film's US status depend on whether it carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record could be checked this session (the Stanford renewal database returned no readable content), so no renewal-absence finding is claimed.",
+          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 (Odeon Marble Arch) and opened in the US on 28 Nov 1951 as 'A Christmas Carol', so the US release came within 30 days of the UK release. Under 17 U.S.C. 104A, URAA restoration excludes works first published in an eligible country and also published in the US within 30 days, so restoration may not apply. That would make the film's US status depend on whether it carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record could be checked this session, so no renewal-absence finding is claimed.",
           "source": "17 U.S.C. 104A (Cornell LII)",
           "url": "https://www.law.cornell.edu/uscode/text/17/104A"
         }
@@ -80,11 +80,11 @@
   "watch": [
     {
       "url": "https://archive.org/details/a-christmas-carol-scrooge-1951",
-      "label": "A Christmas Carol: Scrooge (1951) — Internet Archive upload, about 86 min, MP4",
+      "label": "A Christmas Carol: Scrooge (1951) — Internet Archive upload, about 86 min",
       "quality": "unverified user upload, not checked against a restoration"
     }
   ],
-  "editorial": "Scrooge (1951) is the Alastair Sim version of Dickens' story, made by George Minter Productions and directed by Brian Desmond Hurst, with a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. In the US it went out as 'A Christmas Carol' through United Artists on 28 November 1951. That is the title a reuser must search under for US records.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US releases came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 and 2011 VCI Blu-rays carry their own added material.",
+  "editorial": "Scrooge (1951) is the Alastair Sim version of Dickens' story, made by George Minter Productions and directed by Brian Desmond Hurst, with a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. In the US it went out as 'A Christmas Carol' on 28 November 1951, opening in New York at the Guild 50th Theatre. That is the title a reuser must search under for US records.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US releases came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 and 2011 VCI Blu-rays carry their own added material.",
   "faq": [
     [
       "Is the 1951 Scrooge in the public domain in the US?",
