@@ -1,0 +1,92 @@
+{
+  "id": "duck-soup-1933",
+  "title": "Duck Soup",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-10-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released Nov 17, 1933, so not public domain by term. Public domain would depend on a missing renewal. I could not confirm either way. The Stanford renewal database search page returned no readable result. The 1961 Catalog of Copyright Entries volumes on archive.org showed no 'Duck Soup' entry in the first 100,000 characters I read. That is not a full check, and the 1960 and 1962 volumes were not checked.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1961 (partial read)",
+          "url": "https://archive.org/details/CatalogOfCopyrightEntriesMotionPictures1961Jul-dec"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film. The recorded track, including the uncredited John Leipold music, normally shares the film's copyright status, which is unresolved.",
+          "source": "Wikipedia summary (not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/Duck_Soup_(1933_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay by Bert Kalmar and Harry Ruby, with additional dialogue by Arthur Sheekman and Nat Perrin. It is not an adaptation, so the story follows the film's own status.",
+          "source": "Wikipedia summary (not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/Duck_Soup_(1933_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Home Video released the film on DVD in 'The Marx Brothers: Silver Screen Collection', described as unrestored but uncut. I did not confirm any restoration that adds new protectable material.",
+          "source": "Wikipedia summary (not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/Duck_Soup_(1933_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Duck Soup” (renewals ~1960, 1961, 1962)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Duck+Soup"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1961 Jul-Dec, Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/CatalogOfCopyrightEntriesMotionPictures1961Jul-dec"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Duck Soup is the Marx Brothers' last Paramount picture, directed by Leo McCarey and released on November 17, 1933. It was Zeppo Marx's final film. The Library of Congress added it to the National Film Registry in 1990. Creators want it for the mirror scene and the Freedonia war satire, and it is one of the most clipped comedies of its era.\n\nThe rights trap is that being old does not make it free. A 1933 release is not public domain by term. Whether it is free depends on whether the copyright was renewed in the 1960–1962 window, and I could not confirm that. Until someone checks the renewal records, treat the print, the track and the story as unconfirmed. The film's DVD releases come from Universal, so a clean master is likely held by that studio.",
+  "faq": [
+    [
+      "Is Duck Soup (1933) in the public domain in the US?",
+      "Not by term. A 1933 film stays protected unless its copyright was not renewed. I could not confirm a renewal either way, so treat it as protected until the renewal records are checked."
+    ],
+    [
+      "How can I check the renewal myself?",
+      "Search the Stanford Copyright Renewal Database for 'Duck Soup'. Then read the 1960, 1961 and 1962 Catalog of Copyright Entries motion-picture renewal volumes on archive.org."
+    ]
+  ]
+}
