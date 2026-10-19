@@ -3,16 +3,16 @@
   "title": "The Little Shop of Horrors",
   "year": 1960,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-20",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
-          "type": "notice_failure",
-          "note": "Roger Corman's 1960 original (famously shot in about two days) was released without effective copyright protection and has circulated as US public domain for decades. Primary evidence scan not yet attached — held at 'likely'.",
-          "source": "Wikipedia summary with sources",
+          "type": "research_note",
+          "note": "Wikipedia reports the 1960 film (Filmgroup and Santa Clara Productions, released September 14, 1960) entered the public domain because Corman did not bother to copyright it. This is a secondary source only. No primary notice-failure record or Catalog of Copyright Entries search was fetched in this session, so the print is not marked verified.",
+          "source": "Wikipedia: The Little Shop of Horrors (1960 film)",
           "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
         }
       ]
@@ -22,20 +22,20 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Fred Katz score (partly reused across Corman films); separate registration status not verified here.",
-          "source": null,
-          "url": null
+          "note": "Wikipedia credits the music to Fred Katz, with uncredited work by Ronald Stein. This is a sound film, so the recorded track would normally share the film's own copyright status. No separate registration for the score was checked.",
+          "source": "Wikipedia: The Little Shop of Horrors (1960 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
         }
       ]
     },
     "story": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original screenplay by Charles B. Griffith. IMPORTANT: the 1982 stage musical and 1986 film are separate, fully protected derivative works — their songs, book, and characters' musical treatment are NOT free.",
-          "source": null,
-          "url": null
+          "note": "Wikipedia credits the original screenplay to Charles B. Griffith. Its status follows the film's. The 1982 stage musical and 1986 film are separate derivative works, and their songs and book are not covered by anything said here about the 1960 film.",
+          "source": "Wikipedia: The Little Shop of Horrors (1960 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "'Little Shop of Horrors' is actively exploited as a licensed musical property; avoid using the title as branding for products or shows.",
+          "note": "The title is used by a licensed stage-musical franchise. Avoid using it as branding for products or shows. No trademark registration was checked.",
           "source": null,
           "url": null
         }
@@ -78,18 +78,18 @@
     {
       "url": "https://archive.org/details/The.Little.Shop.of.Horrors.60",
       "label": "Internet Archive",
-      "quality": "480p"
+      "quality": "unknown"
     }
   ],
-  "editorial": "Corman's two-day wonder about a man-eating plant is public domain — which is exactly how it became famous enough to spawn a Broadway musical and a beloved 1986 movie. Here's the layer trap in reverse: the original is free, but everything the franchise became afterward is locked. Audrey II's songs belong to Menken and Ashman's estates and licensors, not to you.\n\nUse the 1960 film freely from archival prints; never borrow anything from the musical or the 1986 film, and be careful using the title as branding, since the musical is an actively licensed property.",
+  "editorial": "Roger Corman's The Little Shop of Horrors, released September 14, 1960 by The Filmgroup and Santa Clara Productions, was written by Charles B. Griffith with music credited to Fred Katz. Wikipedia reports that Corman did not expect much financial return after the initial theatrical run and did not bother to copyright it. As a result the film has circulated widely in copies of varying quality. That account is secondary, and no primary record has been attached here.\n\nThe rights trap is the franchise built on top of it. The 1982 stage musical and the 1986 film are separate derivative works, so their songs and book are not covered by the 1960 film's status. The title is also used by a licensed musical franchise, so avoid it as branding. Treat the print as likely free but unverified until a primary record is attached.",
   "faq": [
     [
       "Can I use the songs from Little Shop of Horrors?",
-      "No — the songs belong to the 1982 musical and 1986 film, which are fully protected. Only the 1960 original film is widely treated as public domain, and even that stays Unclear until we attach a primary renewal-search citation."
+      "Not on the strength of the 1960 film. The songs come from the 1982 musical and 1986 film, which are separate derivative works. They are not covered by anything said here about the 1960 original."
     ],
     [
       "Can I reuse the 1960 film?",
-      "The 1960 film is widely treated as public domain via non-renewal, but its print verdict stays Unclear until we attach a primary renewal-search citation. If you rely on it, use archival prints (not a restored master) and keep the evidence; the library score cues are unverified."
+      "The 1960 film is widely reported to have entered the public domain through failure to copyright, but this dossier has no primary record, so the print stays Undetermined. If you rely on it, keep your own evidence. Do not assume that any particular restored copy or added score is free."
     ]
   ]
 }

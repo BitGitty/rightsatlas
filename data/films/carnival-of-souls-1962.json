@@ -3,56 +3,56 @@
   "title": "Carnival of Souls",
   "year": 1962,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-10-20",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
-          "type": "notice_failure",
-          "note": "Distributor Herts-Lion released the film in 1962 with a defective/omitted copyright notice; the status is widely documented in retrospectives and acknowledged in home-video liner notes. We have not yet attached a primary renewal-search scan, so we hold this at 'likely' rather than 'verified'.",
-          "source": "Wikipedia summary with sources",
-          "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls#Release"
+          "type": "research_note",
+          "note": "Wikipedia reports that the film's US release lacked a valid copyright notice, which would put it in the US public domain, and that the foreign release carried a copyright card protecting overseas sales. No primary record (Copyright Office catalog search or Catalog of Copyright Entries renewal volume for the 28th-year window) was fetched in this session, so the layer is held at undetermined.",
+          "source": "Wikipedia: Carnival of Souls",
+          "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         },
         {
           "type": "hosting",
-          "note": "Openly hosted on the Internet Archive for many years.",
+          "note": "The Internet Archive hosts the film (item CarnivalofSouls) and tags it Public Domain.",
           "source": "Internet Archive",
           "url": "https://archive.org/details/CarnivalofSouls"
         }
       ]
     },
     "score": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Gene Moore's organ score was created for the film and published with it; no separate registration or renewal is known. Modern re-recordings are separately protected.",
+          "note": "Gene Moore wrote an original organ score for the film. As a sound film, the recorded track would normally share the print's status, which is itself unconfirmed by a primary record. No separate registration or renewal was checked.",
           "source": null,
           "url": null
         }
       ]
     },
     "story": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original screenplay by John Clifford; no pre-existing underlying work.",
-          "source": null,
-          "url": null
+          "note": "John Clifford wrote the screenplay, completing it in three weeks. No pre-existing underlying work was identified, but no primary record was checked.",
+          "source": "Wikipedia: Carnival of Souls",
+          "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
       ]
     },
     "trademark": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "No known active marks. The 1998 remake is a separate protected work.",
-          "source": null,
-          "url": null
+          "note": "No active mark was identified, but no trademark database was searched. The 1998 remake, Wes Craven Presents Carnival of Souls, was made under rights acquired from Herk Harvey and John Clifford and is a separate work.",
+          "source": "Wikipedia: Carnival of Souls",
+          "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected: a newly composed or newly recorded score, colorization, newly written or translated titles and subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected, such as a newly composed or recorded score, new titles or subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
           "source": "Bridgeman Art Library v. Corel Corp. (summary)",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
@@ -73,23 +73,29 @@
         },
         {
           "type": "research_note",
-          "note": "The Criterion 4K restoration contains new protectable elements — use archival prints.",
-          "source": null,
-          "url": null
+          "note": "Criterion released a 2-disc DVD in 2000 with a 78-minute theatrical version and an 84-minute director's cut, then reissued the film on DVD and Blu-ray in 2016 with a new restoration. Any added commentary, subtitles or other original material on those discs may be protected.",
+          "source": "Wikipedia: Carnival of Souls",
+          "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
       ]
     }
   },
-  "watch": [],
-  "editorial": "Made for around $33,000 by industrial filmmakers from Lawrence, Kansas, Carnival of Souls slipped into the public domain through its distributor's paperwork failure — and that accident saved it. Free late-night TV airings through the 1970s and 80s built the cult that made it immortal, and its influence runs through Romero, Lynch, and fifty years of 'she was dead all along' endings.\n\nUnlike many PD-list regulars, almost all of its layers point the same way: original story, purpose-written organ score, no franchise marks. The main modern trap is sourcing: the film's restored images are as free as the original, but ripping a copy-protected disc can break DMCA anti-circumvention rules — use the archival prints.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/CarnivalofSouls",
+      "label": "Carnival of Souls (1962) — Internet Archive",
+      "quality": "MPEG2 source with MP4 derivative, about 83 minutes"
+    }
+  ],
+  "editorial": "Carnival of Souls was made for about $33,000, with $17,000 raised from local investors at $500 per share. Herk Harvey directed it from a John Clifford screenplay, with an original organ score by Gene Moore. It opened on September 26, 1962 at the Granada Theatre in Lawrence, Kansas. A reuser wants it because the US release is reported to have lacked a valid copyright notice, and the Internet Archive hosts a copy tagged Public Domain.\n\nThe trap is that this status rests on a secondary source. Wikipedia also reports that the foreign release carried a copyright card protecting overseas sales. This dossier did not check the Copyright Office catalog or the renewal records, so every layer stays undetermined except restorations. Criterion's 2016 restoration and its discs may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. If you use the film, use the Internet Archive copy.",
   "faq": [
     [
       "Can I upload or reuse Carnival of Souls?",
-      "Risk is comparatively low: the print, original story, and organ score all appear unprotected, and a faithful restoration adds no new copyright to the images. Ripping a copy-protected disc like the Criterion Blu-ray can still violate DMCA — use archival prints (linked above)."
+      "The US release is reported to have lacked a valid copyright notice, but no primary record was checked here, so treat the status as unconfirmed. The Internet Archive copy is the safest source. Avoid ripping Criterion discs, which may include protected additions and copy protection."
     ],
     [
       "Is the 1998 remake also public domain?",
-      "No — it's a separate, fully copyrighted work."
+      "No. Wes Craven Presents Carnival of Souls is a separate work made under rights acquired from Herk Harvey and John Clifford."
     ]
   ]
 }
