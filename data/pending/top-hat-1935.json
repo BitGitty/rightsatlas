@@ -1,0 +1,92 @@
+{
+  "id": "top-hat-1935",
+  "title": "Top Hat",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-10-20",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal record could be retrieved or checked this session: the Stanford renewal database search page returned no readable content, and no Catalog of Copyright Entries volume was opened. The Wikipedia article does not state the film's copyright status. Treat the print as protected until a renewal-volume check shows otherwise.",
+          "source": "Wikipedia, Top Hat (film)",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The songs are by Irving Berlin. Max Steiner supervised the orchestration. The film's recorded track normally shares the film's own status. The separate musical-composition copyrights and the Steiner score's copyright status were not checked.",
+          "source": "Wikipedia, Top Hat (film)",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the 1911 play 'A Scandal in Budapest' by Alexander Faragó and Aladar Laszlo. The play's copyright and renewal status, and any rights held by its authors' heirs, were not checked.",
+          "source": "Wikipedia, Top Hat (film)",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Digitally restored DVD releases exist: Universal Studios in 2003 (with an introduction by Ava Astaire McKenzie) and Warner Home Video in 2005 (Region 1, with commentary by Ava Astaire McKenzie and Larry Billman). Any added commentary or new material is separately protected.",
+          "source": "Wikipedia, Top Hat (film)",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Top Hat” (renewals ~1962, 1963, 1964)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Top+Hat"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Top Hat is RKO Radio Pictures' 1935 musical, directed by Mark Sandrich, with Fred Astaire and Ginger Rogers and songs by Irving Berlin. It premiered on August 29, 1935 at Radio City Music Hall in New York and was released across the United States the following week. It was RKO's most profitable film of the 1930s and was chosen for the National Film Registry in 1990. A creator would want it for the dance numbers and Berlin's songs, but the film is not a clear public-domain candidate.\n\nThe rights trap is that no non-renewal could be shown. This dossier found no renewal record and did not open a Catalog of Copyright Entries renewal volume. The film also sits on a 1911 Hungarian play, Berlin's separate song copyrights and Max Steiner's score, and Universal and Warner issued restored DVDs. Do not treat any copy as free to reuse until a renewal-volume check is done.",
+  "faq": [
+    [
+      "Is Top Hat (1935) in the public domain in the US?",
+      "Not established. The film was published in 1935, so it is not free by term alone. No renewal search was completed here. Check the 1962–1964 renewal volumes before reusing it."
+    ],
+    [
+      "Can I use the songs or a restored DVD copy?",
+      "Not safely. The songs are by Irving Berlin and Max Steiner supervised the orchestration, and the status of neither was checked. The Universal (2003) and Warner (2005) restored releases carry added material such as an introduction and commentary. Ripping a copy-protected disc can also break the DMCA (17 U.S.C. 1201)."
+    ]
+  ]
+}

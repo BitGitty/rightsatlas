@@ -1,0 +1,109 @@
+{
+  "id": "the-passion-of-joan-of-arc-1928",
+  "title": "The Passion of Joan of Arc",
+  "year": 1928,
+  "country": "FR",
+  "last_verified": "2026-10-20",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1928. The 95-year US term for 1928 publications ended at the close of 2023, and the film entered the US public domain on January 1, 2024. Duke's Public Domain Day 2024 page lists this film among the 1928 works.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "A non-US work. It premiered in 1928, so US copyright (including any URAA restoration) ran no later than the 95-year term from publication, which ended with 2023. Restoration under the URAA cannot extend a work beyond that term, so the 1996 restoration rules do not keep this print protected.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The original 1928 Paris-version music (Léo Pouget and Victor Alix) dates from the film's own period. Later accompaniments are separate works. Richard Einhorn's 1994 oratorio 'Voices of Light' is offered as optional accompaniment on the Criterion DVD. Any modern score or recording on a given copy needs its own clearance.",
+          "source": "Wikipedia, The Passion of Joan of Arc",
+          "url": "https://en.wikipedia.org/wiki/The_Passion_of_Joan_of_Arc"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The script by Dreyer and Joseph Delteil was published with the 1928 film, so it expired with the film's term at the end of 2023. It draws on the transcripts of Joan of Arc's 15th-century trial, which are long out of copyright.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The original uncensored print was found in 1981 at Dikemark Hospital near Oslo. A faithful restoration or scan of the film adds no new US copyright, but what a release adds can be protected: a new score (such as the 1994 'Voices of Light' on the Criterion DVD), new or translated intertitles, and added material. I did not confirm the details of specific modern restorations.",
+          "source": "Wikipedia, The Passion of Joan of Arc",
+          "url": "https://en.wikipedia.org/wiki/The_Passion_of_Joan_of_Arc"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1955,
+      1956,
+      1957
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Passion of Joan of Arc” (renewals ~1955, 1956, 1957)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Passion+of+Joan+of+Arc"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/passion-joan-of-arc",
+      "label": "The Passion of Joan of Arc (1928), Internet Archive",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/the-passion-of-joan-of-arc-1928-by-carl-theodor-dreyer",
+      "label": "The Passion of Joan of Arc (1928) by Carl Theodor Dreyer, Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Carl Theodor Dreyer's The Passion of Joan of Arc was produced in France by Société Générale des Films. It premiered on April 21, 1928 at the Palads Teatret in Copenhagen, and the Paris premiere followed on October 25, 1928. Dreyer and Joseph Delteil wrote the script from Joan's trial transcripts, compressing 29 interrogations over 18 months into a single day. A creator would want it for its close-up-driven trial scenes and its place in silent-film history. Duke's Public Domain Day 2024 list names it among the 1928 films that entered the US public domain on January 1, 2024.\n\nThe film's images are free to reuse in the US, but the rights trap is the accompaniment. The film is silent, and most circulating copies carry a later score, such as Richard Einhorn's 1994 oratorio 'Voices of Light', which is offered on the Criterion DVD. Those recordings, and any new intertitles or translations added to a modern release, can be protected. Reuse a copy with the music stripped or replaced, or confirm the music's own status. Ripping a copy-protected disc can also break the DMCA (17 U.S.C. 1201).",
+  "faq": [
+    [
+      "Can I use footage from The Passion of Joan of Arc in my own video?",
+      "In the US, yes for the film's images. The 1928 film entered the public domain on January 1, 2024. Check the copy you take it from: a score, new intertitles or other added material may be separately protected."
+    ],
+    [
+      "Is the Criterion or Einhorn 'Voices of Light' version free to use?",
+      "Not automatically. The film itself is free, but Einhorn's 1994 oratorio is a separate work. Use a copy without that music, or clear the music. Copying from a copy-protected disc can also raise DMCA anti-circumvention issues."
+    ]
+  ]
+}
