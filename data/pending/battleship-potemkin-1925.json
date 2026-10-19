@@ -1,0 +1,102 @@
+{
+  "id": "battleship-potemkin-1925",
+  "title": "Battleship Potemkin",
+  "year": 1925,
+  "country": "SU",
+  "last_verified": "2026-10-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published 1925. Duke CSPD confirms works published in 1925 entered the US public domain on January 1, 2021 (95-year term).",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Soviet-origin film. If its US copyright was restored under the URAA, the restored term is 95 years from publication (Copyright Office Circular 38B). Measured from 1925 publication, that term ended at the end of 2020, so restoration does not keep the print protected today.",
+          "source": "U.S. Copyright Office, Circular 38B, Copyright Restoration Under the URAA",
+          "url": "https://www.copyright.gov/circs/circ38b.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was made as a silent. Internet Archive copies carry added music; one item describes excerpts of Shostakovich symphonies. Any recording or arrangement added to a modern copy is a separate work that may still be protected.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/BattleshipPotemkin"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was released in 1925 from an original screenplay about the 1905 mutiny, so the story layer has the same 1925 term as the print. I did not find a separate underlying literary source.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Battleship Potemkin” (renewals ~1952, 1953, 1954)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Battleship+Potemkin"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/BattleshipPotemkin1925",
+      "label": "Battleship Potemkin (1925), English-subtitled copy, about 71 min",
+      "quality": "HD, English intertitles"
+    },
+    {
+      "url": "https://archive.org/details/BattleshipPotemkin",
+      "label": "Bronenosets Potyomkin (Battleship Potemkin), silent with a musical score",
+      "quality": "Full feature, with added music"
+    }
+  ],
+  "editorial": "Battleship Potemkin is Sergei Eisenstein's 1925 Soviet feature about the 1905 mutiny aboard a Russian battleship. It is known for its montage editing. Creators want it for film-history essays, clips, remixes and new scoring. Internet Archive hosts several copies, including an English-subtitled one dated December 21, 1925.\n\nThe picture itself is free to use in the US. A 1925 publication entered the public domain on January 1, 2021. Any URAA restoration would also have run out by then, since the restored term is 95 years. The trap is the soundtrack. Copies online often carry added music, one of them excerpts of Shostakovich symphonies. That music and its recording are separate works. Subtitles, translations and new material added in a modern restoration may also be protected. Take the silent images, or a copy whose added material you have cleared.",
+  "faq": [
+    [
+      "Can I use footage from Battleship Potemkin in a commercial project?",
+      "Yes for the 1925 picture. It entered the US public domain on January 1, 2021. Check the copy you use. Added music, a modern score, new subtitles or restoration additions can still be protected."
+    ],
+    [
+      "Is the Shostakovich music on online copies free to use?",
+      "Not automatically. One Internet Archive copy is described as using excerpts of Shostakovich symphonies. That music and its recording are separate from the film's images. Use a copy with no soundtrack, or clear or replace the music."
+    ]
+  ]
+}
