@@ -256,6 +256,11 @@
    "film": "santa-claus-conquers-the-martians-1964",
    "kind": "watch"
   },
+  "a-christmas-carol-scrooge-1951": {
+   "ok": true,
+   "film": "scrooge-1951",
+   "kind": "watch"
+  },
   "seven-chances-1925-by-buster-keaton": {
    "ok": true,
    "film": "seven-chances-1925",
