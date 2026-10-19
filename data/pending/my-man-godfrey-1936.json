@@ -1,0 +1,104 @@
+{
+  "id": "my-man-godfrey-1936",
+  "title": "My Man Godfrey",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-10-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1964 (Vol 18). Full text checked for 'Godfrey' in the Renewal Registrations section and the current registrations; no My Man Godfrey renewal found. The 1936 film's 28th-year window was 1963-1964.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips 1964, archive.org",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1963 (Vol 17). Text searched for 'Godfrey'; no entry for My Man Godfrey was located. Only part of the volume's text was read, so this is a partial check; a hand search of the 1963 renewal section is advised.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips 1963, archive.org",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A recorded sound-on-film music track normally shares the film's status, but separate music copyright was not checked.",
+          "source": "Wikipedia, My Man Godfrey (1936 film)",
+          "url": "https://en.wikipedia.org/wiki/My_Man_Godfrey_(1936_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Eric S. Hatch's 1935 novel 1101 Park Avenue. Wikipedia reports the novel's copyright was renewed in 1963, while the film's was not. This is a secondary source; the novel renewal record was not itself checked.",
+          "source": "Wikipedia, My Man Godfrey (1936 film)",
+          "url": "https://en.wikipedia.org/wiki/My_Man_Godfrey_(1936_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Criterion Collection issued a restored edition on DVD in 2002 and a Blu-ray in September 2018. A faithful restoration adds no new copyright, but added supplements, packaging and any new subtitles can be protected.",
+          "source": "Wikipedia, My Man Godfrey (1936 film)",
+          "url": "https://en.wikipedia.org/wiki/My_Man_Godfrey_(1936_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": "No My Man Godfrey renewal was found in the text of the 1964 Catalog of Copyright Entries motion picture volume. The 1963 volume was only partly read, with no entry located. The renewal window ended in 1964, so the post-1977 Copyright Office catalog search does not apply.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “My Man Godfrey” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=My+Man+Godfrey"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/MyManGodfrey1936",
+      "label": "My Man Godfrey (1936), about 95 min, Internet Archive",
+      "quality": "Internet Archive lists it as Public Domain"
+    }
+  ],
+  "editorial": "My Man Godfrey is Gregory La Cava's 1936 screwball comedy for Universal Pictures, premiered September 6, 1936. A scavenger-hunt socialite hires a homeless man as the family butler. It was selected for the National Film Registry in 1999, so it is a heavily used title for clips, essays and repertory programming. Wikipedia reports the film's copyright was not renewed and the film entered the public domain in 1965. The Catalog of Copyright Entries volume for 1964 shows no renewal for it.\n\nThe trap is the source. The film is adapted from Eric S. Hatch's 1935 novel 1101 Park Avenue, and Wikipedia reports that novel's copyright was renewed in 1963. A lapsed film copyright does not clear the novel, so a remake, a new adaptation or use of Hatch's text needs a rights check. The Criterion restoration (DVD 2002, Blu-ray 2018) carries its own additions, so use an unrestored print rather than ripping those discs.",
+  "faq": [
+    [
+      "Can I use clips of My Man Godfrey in my own video?",
+      "The film's own copyright appears to have lapsed through non-renewal, and the 1964 catalog shows no renewal. The 1963 catalog check was only partial, so confirm it before commercial release. Use an unrestored copy, not the Criterion discs, which add protected material."
+    ],
+    [
+      "Can I make a remake or new adaptation from the same story?",
+      "Not safely. The underlying novel, 1101 Park Avenue by Eric S. Hatch (1935), reportedly had its copyright renewed in 1963, so the story may still be protected. Get a rights opinion on the novel before basing a new work on it."
+    ]
+  ]
+}
