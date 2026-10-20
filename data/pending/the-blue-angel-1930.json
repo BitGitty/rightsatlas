@@ -1,0 +1,109 @@
+{
+  "id": "the-blue-angel-1930",
+  "title": "The Blue Angel",
+  "year": 1930,
+  "country": "DE",
+  "last_verified": "2026-10-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released in Germany on 1 April 1930 (UFA). Works published in 1930 reached the end of their 95-year US term on 31 December 2025 and entered the US public domain on 1 January 2026. Duke CSPD's Public Domain Day 2026 page lists The Blue Angel (Der blaue Engel) among the films that became free.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "As a German film published in 1930, any URAA-restored US copyright ran 95 years from publication and has also expired. Restoration cannot extend protection past the 95-year term for a 1930 work.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The score (music by Friedrich Hollaender) was published in the 1930 film, so it falls under the same 95-year term, which expired at the end of 2025. The recorded sound track is part of the film itself and shares the film's status. This covers the 1930 track only, not later re-recordings or modern scores added to copies.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Heinrich Mann's novel Professor Unrat, published in 1905. A work from 1905 is long out of US copyright, so the source adds no restriction.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A previously lost English-language version, shot at the same time as the German one, was restored and screened at San Francisco's Berlin and Beyond festival on 19 January 2009. I did not identify a specific modern release or its added material, so I make no claim about what is protected.",
+          "source": "Wikipedia, The Blue Angel",
+          "url": "https://en.wikipedia.org/wiki/The_Blue_Angel"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Blue Angel” (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Blue+Angel"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-blue-angel_1930",
+      "label": "The Blue Angel (1930), Internet Archive feature films collection",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/the-blue-angel-1930-german-language-eng-subtitles",
+      "label": "The Blue Angel (1930), German-language version with English subtitles",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Der blaue Engel was made by UFA and directed by Josef von Sternberg. It was released in Germany on 1 April 1930 and stars Emil Jannings and Marlene Dietrich. It was shot in German and English at the same time, and the German version is the one most people watch. It is based on Heinrich Mann's 1905 novel Professor Unrat, and the music is by Friedrich Hollaender. Dietrich's song \"Falling in Love Again\" comes from this film. A creator gets a famous sound feature that can be clipped, scored against or remixed.\n\nThe print, the 1930 sound track and the 1905 source novel are all out of US copyright. Duke's Public Domain Day 2026 list includes the film. The trap is what gets added later. English subtitles, a new score, a colorization or other new material on a modern copy can carry its own protection. Take the 1930 material itself from an unmodified source, not a newly made edition. Any film mark or the Dietrich name is a separate question, and I did not confirm either.",
+  "faq": [
+    [
+      "Can I use The Blue Angel in my own video in the US?",
+      "The 1930 film, its music and the novel it is based on are out of US copyright, as Duke's Public Domain Day 2026 list shows. You can use the 1930 footage. Check the copy you take it from for added subtitles, a new score or other new material, and do not rip a copy-protected disc."
+    ],
+    [
+      "Does the English-language version have the same status?",
+      "It was shot at the same time in 1930 as the German version, so the 1930 material should have the same status. I did not confirm its publication details or which modern edition is circulating. A restoration screened in 2009 may add new material, so check what a given copy adds."
+    ]
+  ]
+}
