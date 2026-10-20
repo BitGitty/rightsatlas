@@ -1,0 +1,98 @@
+{
+  "id": "attack-of-the-50-foot-woman-1958",
+  "title": "Attack of the 50 Foot Woman",
+  "year": 1958,
+  "country": "US",
+  "last_verified": "2026-10-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "1958 release, so public domain would depend on a missing notice or a missing renewal (window about 1985-1987). I could not open the CCE renewal volumes or query the Copyright Office catalog in this session, so no renewal-absence finding is made. Wikipedia reports no renewal information either way.",
+          "source": "Researcher note",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original score by Ronald Stein per the film's credits. The recorded track normally shares the film's status, which is itself unresolved.",
+          "source": "Wikipedia film article",
+          "url": "https://en.wikipedia.org/wiki/Attack_of_the_50_Foot_Woman"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Screenplay credited to Mark Hanna; I did not confirm whether any earlier source work exists.",
+          "source": "Wikipedia film article",
+          "url": "https://en.wikipedia.org/wiki/Attack_of_the_50_Foot_Woman"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A Warner Archive Collection Blu-ray exists (reviewed by The Digital Bits). I did not verify what, if anything, it adds beyond the film itself.",
+          "source": "The Digital Bits",
+          "url": "https://digitalbits.com/item/attack-of-the-50-foot-woman-wac-2022-bd"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1985,
+      1986,
+      1987
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Attack of the 50 Foot Woman” (renewals ~1985, 1986, 1987)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Attack+of+the+50+Foot+Woman"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/attack-of-the-50-foot-woman-1958_202510",
+      "label": "Attack Of The 50 Foot Woman 1958 (Internet Archive, Open Source Movies, about 66 min, b&w)",
+      "quality": "low-res 500x280"
+    }
+  ],
+  "editorial": "Attack of the 50 Foot Woman is a Woolner Brothers production directed by Nathan Hertz (a credit for Nathan H. Juran), written by Mark Hanna, scored by Ronald Stein, and released by Allied Artists on May 18, 1958. Allison Hayes stars as a woman who grows to giant size after meeting a spacecraft. It is a cult favorite with a well-known poster, and it has been remade for HBO (1993, with Daryl Hannah) and again in development at Warner Bros. as of 2024.\n\nThe rights trap is that being easy to find online proves nothing. A 1958 release is not free by age alone; it depends on notice and on whether the copyright was renewed around 1985 to 1987. I could not confirm either point here. The film is on Internet Archive, but it is also sold on Warner Archive Blu-ray. Treat the print as unresolved until you have checked the renewal records yourself. Separately, the 1993 and later remakes are new works with their own copyrights.",
+  "faq": [
+    [
+      "Is Attack of the 50 Foot Woman (1958) in the public domain?",
+      "Not established here. A 1958 film is free only if it lacked a valid notice or its copyright was not renewed in the 1985-1987 window. I could not verify either, so check the Stanford renewal database and the Copyright Office catalog before relying on it."
+    ],
+    [
+      "Can I reuse the Internet Archive copy?",
+      "Being hosted there is not a rights clearance. Confirm the renewal status first. Also note that the 1993 HBO remake and any planned remake are separate works that you cannot reuse on the strength of the 1958 film."
+    ]
+  ]
+}
