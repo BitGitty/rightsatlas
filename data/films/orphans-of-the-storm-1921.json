@@ -33,7 +33,7 @@
           "type": "research_note",
           "note": "The film is based on the 1874 French play Les Deux Orphelines by Adolphe d'Ennery and Eugène Cormon, in its American stage adaptation The Two Orphans. The source was published in the 19th century, well before the film, so the underlying story is public domain.",
           "source": "Internet Archive item description, Orphans of the Storm (1921)",
-          "url": "https://archive.org/details/orphans-of-the-storm-1921"
+          "url": "https://archive.org/details/OrphansOfTheStorm_201312"
         }
       ]
     },
@@ -53,12 +53,12 @@
   },
   "watch": [
     {
-      "url": "https://archive.org/details/OrphansoftheStorm",
+      "url": "https://archive.org/details/OrphansOfTheStorm_201312",
       "label": "Orphans of the Storm (1921), full silent feature, about 143 min, Internet Archive",
       "quality": "full feature, silent, community upload"
     },
     {
-      "url": "https://archive.org/details/orphans-of-the-storm-1921",
+      "url": "https://archive.org/details/OrphansOfTheStorm_201312",
       "label": "Orphans of the Storm (1921), Internet Archive alternate copy, about 144 min",
       "quality": "full feature, silent, community upload"
     }

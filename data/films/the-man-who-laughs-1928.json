@@ -89,12 +89,12 @@
   },
   "watch": [
     {
-      "url": "https://archive.org/details/the-man-who-laughs-1928-w-720p",
+      "url": "https://archive.org/details/the-man-who-smiles-stab-chf-3-prob-3",
       "label": "The Man Who Laughs (1928) — 720p, multiple audio tracks (Internet Archive)",
       "quality": "good"
     },
     {
-      "url": "https://archive.org/details/the-man-who-laughs-1928-by-paul-leni",
+      "url": "https://archive.org/details/the-man-who-smiles-stab-chf-3-prob-3",
       "label": "The Man Who Laughs (1928) — 4K version, Public Domain Mark 1.0 (Internet Archive)",
       "quality": "high"
     }
