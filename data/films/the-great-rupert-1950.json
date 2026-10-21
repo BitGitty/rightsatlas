@@ -3,7 +3,7 @@
   "title": "The Great Rupert",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-10-08",
+  "last_verified": "2026-10-21",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia states the film entered the public domain in 1978 because the 28-year term lapsed without renewal. This is a secondary claim. The Catalog of Copyright Entries renewal volumes (1977 and 1978) and the Copyright Office catalog were not fully checked for a renewal, so non-renewal is not established here.",
+          "note": "Wikipedia states the film entered the public domain in 1978 because the 28-year term lapsed without renewal. This is a secondary claim. No renewal record or absence-of-renewal search could be retrieved in this session (the Stanford renewal database query returned no usable content), so non-renewal is not established here.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Music is credited to Leith Stevens. The score's separate copyright and renewal status was not checked. It likely follows the film's status, but that is unconfirmed.",
+          "note": "Music is credited to Leith Stevens. The recorded soundtrack in a sound film normally shares the film's own copyright status, so the score likely follows the print, but neither has been verified. No separate score registration or renewal was checked.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The original story is credited to Ted Allen, adapted by László Vadnay. The story's publication date and renewal status were not verified.",
+          "note": "The story is credited to Ted Allan, and the screenplay is credited to László Vadnay, who adapted the story. Whether the story was published earlier, and whether any such publication was renewed, was not verified.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "In 2003, 20th Century Fox and Legend Films released a colorized version retitled A Christmas Wish, with a Terry Moore commentary track. Colorization and added commentary can carry their own copyright. A faithful copy of the black-and-white original adds none.",
+          "note": "In 2003, 20th Century Fox and Legend Films released a colorized version retitled A Christmas Wish, which included audio commentary by Terry Moore. Colorization and added commentary can carry their own copyright. A faithful copy of the black-and-white original adds none.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -77,18 +77,12 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/great-rupert",
-      "label": "The Great Rupert (1950), 87-minute feature copy on the Internet Archive",
-      "quality": "unverified-source feature-length upload"
-    }
-  ],
-  "editorial": "The Great Rupert (1950) was produced by George Pal. Irving Pichel directed, Jimmy Durante, Tom Drake and Terry Moore starred, and Eagle-Lion Films released it on March 1, 1950. Its central character is a stop-motion animated squirrel named Rupert, who tosses a miserly neighbor's hidden cash down to a poor family, where it seems to answer their prayers. Leith Stevens wrote the score. The story is credited to Ted Allen.\n\nThe film is widely reported to have lapsed into the public domain in 1978 for lack of a renewal. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries renewal volumes and the Copyright Office catalog yourself. The practical trap is the 2003 Legend Films colorization, released with 20th Century Fox as A Christmas Wish. Its colorization and commentary may be protected separately, so source the black-and-white print and not that release. The status of the Ted Allen story and the Leith Stevens score is also unchecked.",
+  "watch": [],
+  "editorial": "The Great Rupert (1950) was produced by George Pal and directed by Irving Pichel. Jimmy Durante, Tom Drake and Terry Moore starred, and Eagle-Lion Films released it on March 1, 1950. Its central character is an animated squirrel named Rupert. Leith Stevens wrote the score, and the story is credited to Ted Allan, adapted for the screenplay by László Vadnay.\n\nThe film is widely reported to have lapsed into the public domain in 1978 for lack of a renewal. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries renewal volumes and the Copyright Office catalog yourself. The practical trap is the 2003 Legend Films colorization, released with 20th Century Fox as A Christmas Wish. Its colorization and the Terry Moore commentary may be protected separately, so source a black-and-white print and not that release. The status of the Ted Allan story and the Leith Stevens score is also unchecked.",
   "faq": [
     [
       "Is The Great Rupert free to use?",
-      "It is widely reported as unrenewed and in the public domain, but this dossier did not verify that against the renewal records, and the story and score were not checked either. Check the 1977 and 1978 renewal records before relying on it."
+      "It is widely reported as unrenewed and in the public domain, but this dossier did not verify that against the renewal records, and the story and score were not checked either. Check the 1977 to 1979 renewal records before relying on it."
     ],
     [
       "Can I use the colorized A Christmas Wish version?",
