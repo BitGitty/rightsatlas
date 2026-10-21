@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-20",
+  "last_release": "2026-10-21",
   "log": [
     {
       "date": "2026-08-31",
@@ -204,6 +204,10 @@
     {
       "date": "2026-10-20",
       "film": "scrooge-1935"
+    },
+    {
+      "date": "2026-10-21",
+      "film": "the-great-rupert-1950"
     }
   ]
 }
