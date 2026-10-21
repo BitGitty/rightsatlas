@@ -1,0 +1,98 @@
+{
+  "id": "superman-1948",
+  "title": "Superman",
+  "year": 1948,
+  "country": "US",
+  "last_verified": "2026-10-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal search was completed for this serial, so no public-domain claim is made. The Wikipedia article on the serial says Warner's subsidiary DC Comics acquired the serial rights years before the 2006 DVD release, so an active rights holder exists.",
+          "source": "Wikipedia, Superman (serial)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(serial)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to Mischa Bakaleinikoff. The track is presumably as protected as the film itself, but its status was not separately checked.",
+          "source": "Wikipedia, Superman (serial)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(serial)"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial adapts the Superman comic-book character, which DC Comics controls. The serial is a derivative work, so its use of the character depends on the comic's rights and not on the film's status alone. The article says Sam Katzman acquired the live-action rights in 1947.",
+          "source": "Wikipedia, Superman (serial)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Home Video released the serial on DVD on 28 November 2006 in 'Superman: The Theatrical Serials Collection', and Warner Archive reissued it as manufactured-on-demand discs on 9 October 2018. I did not confirm what, if anything, those releases added to the film.",
+          "source": "Wikipedia, Superman (serial)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(serial)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1975,
+      1976,
+      1977
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Superman” (renewals ~1975, 1976, 1977)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Superman"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/superserial",
+      "label": "SUPERMAN (1948) Feature Compilation (Internet Archive; the CC0 tag is the uploader's own claim and proves nothing about the film's copyright)",
+      "quality": "feature-length compilation of the serial"
+    }
+  ],
+  "editorial": "Superman is the 15-chapter Columbia serial released on January 5, 1948. Sam Katzman produced it, Spencer Gordon Bennet and Thomas Carr directed, Kirk Alyn played Superman and Noel Neill played Lois Lane, and Carol Forman played the villain, the Spider Lady. Mischa Bakaleinikoff composed the music. The flying scenes are animated. Reusers want it as the first live-action Superman, and a feature-length compilation is posted on the Internet Archive.\n\nI could not show that the film is in the public domain. I did not find a Catalog of Copyright Entries renewal volume or a Copyright Office record that settles whether the film's copyright was renewed, so every layer that depends on that is undetermined. The story layer is the clearest trap. The serial is built on the Superman comic character, and DC Comics (a Warner subsidiary) holds the serial rights and issued the Warner DVDs. Even if the film's own copyright lapsed, the Superman character is still a separate layer. The Internet Archive copy's CC0 label comes from the uploader and is not evidence.",
+  "faq": [
+    [
+      "Is the 1948 Superman serial public domain?",
+      "Not established. The renewal search is unfinished, and DC Comics (a Warner subsidiary) holds the serial rights, per Wikipedia. Do not treat it as free to reuse until you have checked the 1975–1977 Catalog of Copyright Entries renewal volumes and the Copyright Office records yourself."
+    ],
+    [
+      "Does the CC0 tag on the Internet Archive copy make it safe to reuse?",
+      "No. The uploader added that tag. It does not change the film's copyright status, and it cannot license the Superman character or anything else the uploader does not own."
+    ]
+  ]
+}
