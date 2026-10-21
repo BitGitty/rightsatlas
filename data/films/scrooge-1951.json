@@ -3,7 +3,7 @@
   "title": "Scrooge (A Christmas Carol)",
   "year": 1951,
   "country": "GB",
-  "last_verified": "2026-10-20",
+  "last_verified": "2026-10-21",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 (Odeon Marble Arch) and opened in the US on 28 Nov 1951 as 'A Christmas Carol', so the US release came within 30 days of the UK release. Under 17 U.S.C. 104A, URAA restoration excludes works that were first published in an eligible country and not published in the US within 30 days after that, so restoration may not apply. A theatrical opening is not necessarily 'publication' in the legal sense, so this point is also unresolved. The film's US status would then depend on whether it carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record could be checked, so no renewal-absence finding is claimed.",
+          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 (Odeon Marble Arch) and opened in the US on 28 Nov 1951 as 'A Christmas Carol' at the Guild 50th Theatre, so the US opening came within 30 days of the UK premiere. Under 17 U.S.C. 104A, URAA restoration excludes works first published in an eligible country and then published in the US within 30 days, so restoration may not apply. A theatrical opening is not necessarily 'publication' in the legal sense, so this point is also unresolved. The film's US status would then depend on whether it carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record could be checked, so no renewal-absence finding is claimed.",
           "source": "17 U.S.C. 104A (Cornell LII)",
           "url": "https://www.law.cornell.edu/uscode/text/17/104A"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Source novella 'A Christmas Carol' by Charles Dickens was first published in 1843, long out of term in the US. This clears the underlying story only. The screenplay and film-specific additions are not covered by this finding.",
+          "note": "Source novella 'A Christmas Carol' by Charles Dickens was first published in 1843, long out of term in the US. This clears the underlying story only. The screenplay (credited to Noel Langley) and film-specific additions are not covered by this finding.",
           "source": "Project Gutenberg",
           "url": "https://www.gutenberg.org/ebooks/46"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "VCI released the film on Blu-ray in 2009 and reissued it in 2011 with a remastered transfer and expanded bonus features. Added material such as bonus features, new titles or new elements can carry its own copyright, while a faithful transfer adds none.",
+          "note": "VCI released the film on Blu-ray (with a DVD copy) in 2009 and reissued it in 2011 with a remastered transfer and expanded bonus content. Added material such as bonus features, new titles or new elements can carry its own copyright, while a faithful transfer adds none.",
           "source": "Release history on the film's reference page",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1951_film)"
         }
@@ -77,14 +77,8 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/a-christmas-carol-scrooge-1951",
-      "label": "A Christmas Carol: Scrooge (1951) — Internet Archive upload, 86 min",
-      "quality": "unverified user upload, not checked against a restoration"
-    }
-  ],
-  "editorial": "Scrooge (1951) is the Alastair Sim version of Dickens' story, made by George Minter Productions and directed by Brian Desmond Hurst, with a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. In the US, United Artists released it as 'A Christmas Carol' on 28 November 1951, opening at the Guild 50th Theatre in New York. That is the title a reuser must search under for US records.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US releases came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 and 2011 VCI Blu-rays carry their own added material.",
+  "watch": [],
+  "editorial": "Scrooge (1951) is George Minter Productions' version of Dickens' story, directed by Brian Desmond Hurst from a screenplay by Noel Langley, with a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. In the US, United Artists released it as 'A Christmas Carol' on 28 November 1951, opening at the Guild 50th Theatre. That is the title a reuser must search under for US records.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US releases came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 and 2011 VCI Blu-rays carry their own added material.",
   "faq": [
     [
       "Is the 1951 Scrooge in the public domain in the US?",
