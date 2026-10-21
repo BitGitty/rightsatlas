@@ -3,7 +3,7 @@
   "title": "The Little Shop of Horrors",
   "year": 1960,
   "country": "US",
-  "last_verified": "2026-10-20",
+  "last_verified": "2026-10-21",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports the 1960 film (Filmgroup and Santa Clara Productions, released September 14, 1960) entered the public domain because Corman did not bother to copyright it. This is a secondary source only. No primary notice-failure record or Catalog of Copyright Entries search was fetched in this session, so the print is not marked verified.",
+          "note": "Wikipedia reports the 1960 film (Filmgroup and Santa Clara Productions, released September 14, 1960) entered the public domain because Corman did not believe it had much financial prospect and did not bother to copyright it. This is a secondary source only. No primary notice-failure record or Catalog of Copyright Entries search was fetched in this session, so the print is not marked verified.",
           "source": "Wikipedia: The Little Shop of Horrors (1960 film)",
           "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia credits the music to Fred Katz, with uncredited work by Ronald Stein. This is a sound film, so the recorded track would normally share the film's own copyright status. No separate registration for the score was checked.",
+          "note": "Wikipedia credits the score to cellist Fred Katz, originally written for A Bucket of Blood, with additional uncredited music by Ronald Stein. This is a sound film, so the recorded track would normally share the film's own copyright status. Because the score was first written for another film, and no registration for it was checked, its status is not confirmed.",
           "source": "Wikipedia: The Little Shop of Horrors (1960 film)",
           "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia credits the original screenplay to Charles B. Griffith. Its status follows the film's. The 1982 stage musical and 1986 film are separate derivative works, and their songs and book are not covered by anything said here about the 1960 film.",
+          "note": "Wikipedia credits the screenplay to Charles B. Griffith, initially titled The Passionate People Eater. Its status follows the film's. The 1982 stage musical and 1986 film are separate derivative works, and their songs and book are not covered by anything said here about the 1960 film.",
           "source": "Wikipedia: The Little Shop of Horrors (1960 film)",
           "url": "https://en.wikipedia.org/wiki/The_Little_Shop_of_Horrors"
         }
@@ -81,7 +81,7 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "Roger Corman's The Little Shop of Horrors, released September 14, 1960 by The Filmgroup and Santa Clara Productions, was written by Charles B. Griffith with music credited to Fred Katz. Wikipedia reports that Corman did not expect much financial return after the initial theatrical run and did not bother to copyright it. As a result the film has circulated widely in copies of varying quality. That account is secondary, and no primary record has been attached here.\n\nThe rights trap is the franchise built on top of it. The 1982 stage musical and the 1986 film are separate derivative works, so their songs and book are not covered by the 1960 film's status. The title is also used by a licensed musical franchise, so avoid it as branding. Treat the print as likely free but unverified until a primary record is attached.",
+  "editorial": "Roger Corman's The Little Shop of Horrors, released September 14, 1960 by The Filmgroup and Santa Clara Productions, was written by Charles B. Griffith, whose screenplay was initially titled The Passionate People Eater. Its music is credited to cellist Fred Katz, written originally for A Bucket of Blood, with additional uncredited music by Ronald Stein. Wikipedia reports that Corman did not believe it had much financial prospect after its initial theatrical run and did not bother to copyright it. That account is secondary, and no primary record has been attached here.\n\nThe rights trap is the franchise built on top of it. The 1982 stage musical and the 1986 film are separate derivative works, so their songs and book are not covered by the 1960 film's status. The title is also used by a licensed musical franchise, so avoid it as branding. Treat the print as likely free but unverified until a primary record is attached.",
   "faq": [
     [
       "Can I use the songs from Little Shop of Horrors?",
