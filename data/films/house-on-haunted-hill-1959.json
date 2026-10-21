@@ -3,7 +3,7 @@
   "title": "House on Haunted Hill",
   "year": 1959,
   "country": "US",
-  "last_verified": "2026-10-12",
+  "last_verified": "2026-10-22",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -56,7 +56,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "USPTO trademark records were not searched. No active mark for the title could be confirmed or excluded.",
+          "note": "USPTO trademark records were not searched. No active mark for the title could be confirmed or excluded. The title was also reused for later remakes and sequels, so a creator should check before using the title on new products.",
           "source": null,
           "url": null
         }
@@ -86,12 +86,18 @@
       ]
     }
   },
-  "watch": [],
+  "watch": [
+    {
+      "url": "https://archive.org/details/house_on_haunted_hill_1959-fhd",
+      "label": "House on Haunted Hill (1959, Full HD) — Internet Archive",
+      "quality": "HD; uploader marks it Public Domain Mark 1.0 (an uploader claim, not a ruling)"
+    }
+  ],
   "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive. A creator can find ready-to-use copies there. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is not settled. A 1986 renewal, RE0000318809, was filed by Revival Pictures for a motion picture titled 'House on a haunted hill' from Allied Artists, and that title does not match the film exactly, so it is unclear whether it covers this film. The clear trap is the theme song. Its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723. It is protected whatever the status of the film print.",
   "faq": [
     [
       "Can I upload or distribute the 1959 House on Haunted Hill?",
-      "Copies are hosted on the Internet Archive under public domain and CC labels. Those labels are the uploaders' claims, not a ruling. A 1986 Copyright Office renewal exists under the slightly different title 'House on a haunted hill', so the print status is undetermined. Use a plain copy of the original film, not a colorized or newly scored edition. Weigh the risk before commercial use."
+      "Copies are hosted on the Internet Archive with a Public Domain Mark label. That label is the uploader's claim, not a ruling. A 1986 Copyright Office renewal exists under the slightly different title 'House on a haunted hill', so the print status is undetermined. Use a plain copy of the original film, not a colorized or newly scored edition. Weigh the risk before commercial use."
     ],
     [
       "Is the theme song in the film public domain?",
