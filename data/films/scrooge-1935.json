@@ -3,7 +3,7 @@
   "title": "Scrooge",
   "year": 1935,
   "country": "GB",
-  "last_verified": "2026-10-20",
+  "last_verified": "2026-10-21",
   "byline": null,
   "layers": {
     "print": {
@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "1935 British film, first released 26 Nov 1935 in the UK. A US public-domain claim would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked in this research, so no absence of renewal is shown. As a British work it could also have had US copyright restored under the URAA. That depends on whether it was published in the US within 30 days of the UK release, and the US release date was not confirmed.",
-          "source": "Internet Archive item metadata for Scrooge (1935)",
-          "url": "https://archive.org/details/scrooge-1935_202504"
+          "note": "British film, first shown in the UK on 26 November 1935, with US distribution by Paramount Pictures according to Wikipedia. A US public-domain claim would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked, so no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA. That depends on its US publication history, which was not established. Wikipedia says the film has entered the public domain, but that is not a primary source.",
+          "source": "Wikipedia article on the film, used for background only",
+          "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The score is credited to W.L. Trytel (William Trytel). The recorded track is part of the film, so it shares the film's status, which is unresolved.",
+          "note": "This is a sound film, so the recorded track normally shares the film's own status, which is unresolved. No separate rights research was done on the music.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -33,9 +33,9 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The film is based on Charles Dickens's 1843 novella A Christmas Carol. A work published in 1843 is long past US term. Works published in 1930 or earlier are in the US public domain by term, and the Duke CSPD Public Domain Day 2026 page lists the 1930 works that became free on January 1, 2026. This covers the underlying story only. The 1935 screenplay by H. Fowler Mear is a separate work.",
+          "note": "The film adapts Charles Dickens's novella A Christmas Carol, published in 1843. Works published in 1930 or earlier are in the US public domain by term, and the Duke CSPD Public Domain Day 2026 page covers 1930 works. This covers the underlying story only. The 1935 screenplay and the film itself are separate works.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
-          "url": "https://cspd.law.duke.edu/publicdomainday/2026/"
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
         }
       ]
     },
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Kent D. Eastin made a 60-minute shortened version in 1941, which circulated for decades. The original 78-minute version was later restored and released on DVD in 2002. Any new material, such as added titles, a score or a new edit, can be protected. A faithful copy of the film adds no new US copyright.",
+          "note": "Wikipedia reports a restored 78-minute version released on DVD by Image Entertainment in 2002, derived from 35mm material previously held by Blackhawk Films. A faithful copy of a film adds no new US copyright, but added material such as new titles, music or a new edit can be protected.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -77,27 +77,16 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/Scrooge_1935",
-      "label": "Scrooge (1935), 78-minute version on the Internet Archive",
-      "quality": "Item metadata gives a runtime of 78 minutes and credits Julius Hagen, with Henry Edwards as director. The description names Seymour Hicks in the title role."
-    },
-    {
-      "url": "https://archive.org/details/scrooge-1935_202504",
-      "label": "Scrooge (1935), Internet Archive copy credited to director Henry Edwards",
-      "quality": "Item metadata gives the date as 26 November 1935. The description does not name the cast."
-    }
-  ],
-  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it, Twickenham Film Studios produced it, and Seymour Hicks plays Scrooge. It was released in the UK on 26 November 1935. It is described as the first full-length sound version of the story, and it has a distinct look, including an invisible Marley's Ghost. A creator would want it as an early sound Scrooge, and the Internet Archive holds a 78-minute copy.\n\nThe story is free, because it rests on Dickens's 1843 novella. The film is a different matter. It is a 1935 British production, so its US status depends on notice and renewal, and possibly on URAA restoration of foreign works. This research did not check the renewal records, so the print is unresolved. Many copies are the 60-minute 1941 cut by Kent D. Eastin. Others come from the restored 78-minute version released on DVD in 2002. Check the 1962 to 1964 renewal volumes yourself before you reuse a transfer.",
+  "watch": [],
+  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it for Julius Hagen's Twickenham Film Studios, with Seymour Hicks as Scrooge. It opened in the UK on 26 November 1935 and is described as the first feature-length sound film of the story. Paramount handled US distribution. A creator would want it as an early sound Scrooge.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved. A 78-minute restoration was released on DVD by Image Entertainment in 2002 from Blackhawk Films 35mm material. Any titles, music or other material added in a transfer can be protected even if the film itself is free.",
   "faq": [
     [
       "Is the 1935 Scrooge safe to reuse in the US?",
-      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established here. It needs a renewal check and a URAA restoration check, and neither was done in this research. A faithful copy of the film adds no new copyright, but added material can be protected."
+      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here. A faithful copy adds no new copyright, but added material can be protected."
     ],
     [
-      "Which copy should I use?",
-      "Use the 78-minute version on Internet Archive item Scrooge_1935 rather than the 60-minute Eastin cut. A DVD or restoration may carry newly added titles, music or other material, which can be protected even where the film itself is free."
+      "Does a DVD or restored copy change the answer?",
+      "It can add protected material. The 2002 Image Entertainment DVD is a restoration of the 78-minute version. A faithful copy of the film adds no new US copyright. New titles, music or edits can be protected, and ripping a copy-protected disc can break 17 U.S.C. 1201."
     ]
   ]
 }
