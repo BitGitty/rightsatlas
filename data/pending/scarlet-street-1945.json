@@ -1,0 +1,106 @@
+{
+  "id": "scarlet-street-1945",
+  "title": "Scarlet Street",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-10-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released in the US by Universal Pictures on December 28, 1945 (Diana Productions). The film is widely described as public domain, but a renewal check was not completed here. The 1973 Catalog of Copyright Entries volume (28th-year window) was read only in part, and the segments read showed no Scarlet Street entry. The 1972 and 1974 volumes were not read. This is not enough to rest a verified_pd claim on.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1973 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score by Hans J. Salter. This is a sound film, so the recorded track normally shares the film's own status. Because the print status is unresolved, the score is unresolved too.",
+          "source": "Internet Archive item description and film reference pages",
+          "url": "https://archive.org/details/scarlet_street_ipod"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts the French novel La Chienne by Georges de La Fouchardière and its stage adaptation by André Mouëzy-Éon. It remakes Jean Renoir's 1931 film of the same title. Reviewers attribute the film's long 'Public Domain Hell' to a rights quagmire over that source material. The source terms were not independently checked here.",
+          "source": "Home Media Magazine, Kino Lorber Blu-ray review",
+          "url": "https://www.homemediamagazine.com/kino-lorber/scarlet-street-blu-ray-review"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Library of Congress restored the film, and Kino Lorber released it on Blu-ray. What the restoration added, such as new titles, a score or other material, was not confirmed. A faithful restoration adds no new US copyright, but anything added could be protected.",
+          "source": "Home Media Magazine, Kino Lorber Blu-ray review",
+          "url": "https://www.homemediamagazine.com/kino-lorber/scarlet-street-blu-ray-review"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973,
+      1974
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Scarlet Street” (renewals ~1972, 1973, 1974)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Scarlet+Street"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1973 motion pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1974 motion pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1972 motion pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/scarlet_street_ipod",
+      "label": "Scarlet Street (1945) on the Internet Archive, Film Noir collection",
+      "quality": "unverified transcode, about 1 GB MP4"
+    }
+  ],
+  "editorial": "Scarlet Street is Fritz Lang's 1945 film noir for Diana Productions, the company he formed with producer Walter Wanger and actress Joan Bennett. Universal released it on December 28, 1945. Edward G. Robinson plays Christopher Cross, a cashier and Sunday painter, and Bennett plays Kitty March, who takes credit for his paintings. Milton Krasner shot it and Hans J. Salter scored it. Reuse demand is steady: it is a standard noir title, and a Library of Congress restoration was issued on Blu-ray by Kino Lorber.\n\nThe rights trap is the source material. The film remakes Jean Renoir's 1931 La Chienne and draws on Georges de La Fouchardière's novel and the stage version by André Mouëzy-Éon. Reviewers blame those underlying rights for the film's long period in public-domain limbo. That doubt is separate from whether the 1945 film itself was renewed. This dossier did not finish the renewal check, so no layer is marked verified. Anyone planning a commercial release should confirm the 1972–1974 renewal records and the status of the French sources first. Treat any modern restoration's added material separately from the 1945 footage.",
+  "faq": [
+    [
+      "Is Scarlet Street free to use in the US?",
+      "Not confirmed. The film is widely described as public domain, but this dossier did not finish the renewal check, and the French source works could carry their own claims. Check the 1972–1974 renewal records and the source rights before commercial use."
+    ],
+    [
+      "Can I use the Library of Congress / Kino Lorber restored version?",
+      "A faithful restoration of any public-domain footage adds no new US copyright. Added material such as new titles or a new score could be protected. Ripping a copy-protected Blu-ray can also raise a DMCA anti-circumvention problem."
+    ]
+  ]
+}
