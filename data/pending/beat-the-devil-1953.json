@@ -1,0 +1,109 @@
+{
+  "id": "beat-the-devil-1953",
+  "title": "Beat the Devil",
+  "year": 1953,
+  "country": "US",
+  "last_verified": "2026-10-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "registration",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1954 volume lists the film: 'Santana Pictures, Los Angeles, and Romulus Films, London. Released in the U.S. by United Artists Corp. 93 min., sd., b&w, 35mm. Based on the novel of the same title by James Helvick. © Santana Pictures, inc.; 3Mar54 (in notice: 1953); LP3658.' The notice was present, so the copyright was valid at the start. Whether the 28-year renewal was filed was NOT confirmed. The renewal-year CCE volumes were not found on archive.org, and the Copyright Office public catalog could not be queried from this session.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Jan-Dec 1954",
+          "url": "https://archive.org/details/catalogofcopyrig381213lib"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film 'has been in the public domain for many years, its copyright having never been renewed'. This is a secondary claim, not a primary renewal search. The Internet Archive items below carry a Public Domain Mark, which is an uploader assertion, not a rights finding.",
+          "source": "Wikipedia, Beat the Devil (film)",
+          "url": "https://en.wikipedia.org/wiki/Beat_the_Devil_(film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Franco Mannino is credited as composer. A sound film's recorded track normally shares the film's own status, so the score cannot be called free until the film's renewal status is confirmed.",
+          "source": "Wikipedia, Beat the Devil (film)",
+          "url": "https://en.wikipedia.org/wiki/Beat_the_Devil_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the 1951 novel Beat the Devil by Claud Cockburn, writing as James Helvick. It was published in the US by J. B. Lippincott & Co. and in the UK by Boardman. Whether the novel's copyright was renewed was not checked. Truman Capote co-wrote the screenplay with John Huston, but the screenplay's own status was also not checked.",
+          "source": "Wikipedia, Beat the Devil (novel)",
+          "url": "https://en.wikipedia.org/wiki/Beat_the_Devil_(novel)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 4K restoration by Sony Pictures with The Film Foundation, overseen by Grover Crisp, was done in 2016. It restored about four minutes of footage cut from the original release, and Wikipedia says that version is copyrighted by Sony subsidiary Columbia Pictures. A faithful scan adds no new US copyright. The added or restored material in that edition can be protected, so use a public-domain print, not the Sony or Twilight Time edition.",
+          "source": "Wikipedia, Beat the Devil (film)",
+          "url": "https://en.wikipedia.org/wiki/Beat_the_Devil_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1980,
+      1981,
+      1982
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Beat the Devil” (renewals ~1980, 1981, 1982)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Beat+the+Devil"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/beat-the-devil-1953_202406",
+      "label": "Beat the Devil (1953), Internet Archive, 94 min, Public Domain Mark",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/beat-the-devil-1953_20250321",
+      "label": "Beat the Devil (1953), Internet Archive, about 89 min, 512x384",
+      "quality": "low"
+    }
+  ],
+  "editorial": "Beat the Devil is John Huston's 1953 caper comedy, written by Huston and Truman Capote. The cast is Humphrey Bogart, Jennifer Jones, Gina Lollobrigida, Robert Morley and Peter Lorre. Santana Pictures, which was Bogart's company, and Romulus Films made it. United Artists released it in the US. The Catalog of Copyright Entries for 1954 records the registration as LP3658 to Santana Pictures, dated 3 March 1954 and with a 1953 date in the notice. That registration, with its notice, is the one fact this dossier confirmed. Many sources say the film's copyright was never renewed, which would put the print in the public domain, but this dossier did not confirm that from the renewal records.\n\nThe rights trap is the 2016 Sony and Film Foundation 4K restoration. It restored about four minutes of cut footage, and Wikipedia says that version is copyrighted by Columbia Pictures. A creator should use an older public-domain print, not the Sony or Twilight Time edition. Two further layers are open: the 1951 Claud Cockburn novel the film is based on, and Franco Mannino's score. Check both before a commercial release.",
+  "faq": [
+    [
+      "Is Beat the Devil (1953) in the public domain?",
+      "Widely reported but not confirmed here. The film was registered in March 1954 (LP3658) with a notice. Wikipedia says its copyright was never renewed, but this dossier did not find the renewal-year catalog volumes or search the Copyright Office catalog. Run the Stanford and Copyright Office links before relying on it."
+    ],
+    [
+      "Can I use the Sony 2016 restoration?",
+      "No, not without permission. That edition adds about four minutes of restored footage, and Wikipedia says it is copyrighted by Columbia Pictures. Use a public-domain print instead, and do not rip a protected disc, which can raise a DMCA anti-circumvention problem."
+    ]
+  ]
+}
