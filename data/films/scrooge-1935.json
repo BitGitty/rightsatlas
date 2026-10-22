@@ -3,7 +3,7 @@
   "title": "Scrooge",
   "year": 1935,
   "country": "GB",
-  "last_verified": "2026-10-21",
+  "last_verified": "2026-10-22",
   "byline": null,
   "layers": {
     "print": {
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports a restored 78-minute version released on DVD by Image Entertainment in 2002, derived from 35mm material previously held by Blackhawk Films. A faithful copy of a film adds no new US copyright, but added material such as new titles, music or a new edit can be protected.",
+          "note": "Wikipedia reports that the original 78-minute version was restored from 35mm source material and released on DVD by Image Entertainment on 29 October 2002, and that Legend Films issued a colorized DVD in 2007 and a Blu-ray in 2011. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, music or a new edit can be protected.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -77,16 +77,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it for Julius Hagen's Twickenham Film Studios, with Seymour Hicks as Scrooge. It opened in the UK on 26 November 1935 and is described as the first feature-length sound film of the story. Paramount handled US distribution. A creator would want it as an early sound Scrooge.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved. A 78-minute restoration was released on DVD by Image Entertainment in 2002 from Blackhawk Films 35mm material. Any titles, music or other material added in a transfer can be protected even if the film itself is free.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/Scrooge_1935",
+      "label": "Scrooge (1935), 78 minutes, Internet Archive",
+      "quality": "full 78-minute feature"
+    }
+  ],
+  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it for Twickenham Film Studios, with Seymour Hicks as Scrooge and Donald Calthrop as Bob Cratchit. It opened in the UK on 26 November 1935 and is described as the first sound feature-length version of the story. Paramount handled US distribution. A creator would want it as an early sound Scrooge.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved. Image Entertainment released a 78-minute restoration on DVD in 2002, and Legend Films issued a colorized version in 2007. Colorization and other added material can be protected even if the film itself is free.",
   "faq": [
     [
       "Is the 1935 Scrooge safe to reuse in the US?",
       "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here. A faithful copy adds no new copyright, but added material can be protected."
     ],
     [
-      "Does a DVD or restored copy change the answer?",
-      "It can add protected material. The 2002 Image Entertainment DVD is a restoration of the 78-minute version. A faithful copy of the film adds no new US copyright. New titles, music or edits can be protected, and ripping a copy-protected disc can break 17 U.S.C. 1201."
+      "Does a DVD or colorized copy change the answer?",
+      "It can add protected material. The 2002 Image Entertainment DVD is a restoration of the 78-minute version, and Legend Films issued a colorized edition in 2007. A faithful copy of the film adds no new US copyright. Colorization, new titles or music can be protected, and ripping a copy-protected disc can break 17 U.S.C. 1201."
     ]
   ]
 }
