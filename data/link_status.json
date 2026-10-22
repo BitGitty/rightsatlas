@@ -126,6 +126,11 @@
    "film": "robot-monster-1953",
    "kind": "evidence"
   },
+  "Scrooge_1935": {
+   "ok": true,
+   "film": "scrooge-1935",
+   "kind": "watch"
+  },
   "seven-chances-keaton-1925-high-quality-1080p-wnfl-tnu-8cb-a": {
    "ok": true,
    "film": "seven-chances-1925",
@@ -137,7 +142,7 @@
    "kind": "evidence"
   },
   "Ace_of_Hearts_1921": {
-   "ok": false,
+   "ok": true,
    "film": "the-ace-of-hearts-1921",
    "kind": "evidence"
   },
@@ -394,10 +399,5 @@
  },
  "repaired": [],
  "dropped": [],
- "unrepaired_evidence": [
-  {
-   "film": "the-ace-of-hearts-1921",
-   "was": "Ace_of_Hearts_1921"
-  }
- ]
+ "unrepaired_evidence": []
 }
