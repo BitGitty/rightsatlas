@@ -137,7 +137,7 @@
    "kind": "evidence"
   },
   "Ace_of_Hearts_1921": {
-   "ok": true,
+   "ok": false,
    "film": "the-ace-of-hearts-1921",
    "kind": "evidence"
   },
@@ -394,5 +394,10 @@
  },
  "repaired": [],
  "dropped": [],
- "unrepaired_evidence": []
+ "unrepaired_evidence": [
+  {
+   "film": "the-ace-of-hearts-1921",
+   "was": "Ace_of_Hearts_1921"
+  }
+ ]
 }
