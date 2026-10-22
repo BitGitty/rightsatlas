@@ -101,6 +101,11 @@
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
+  "TheLastManOnEarthHD": {
+   "ok": true,
+   "film": "last-man-on-earth-1964",
+   "kind": "watch"
+  },
   "TheLittleShopOfHorrors1960": {
    "ok": true,
    "film": "little-shop-of-horrors-1960",
@@ -200,6 +205,11 @@
    "ok": true,
    "film": "the-golem-1920",
    "kind": "evidence"
+  },
+  "the-great-rupert-1950": {
+   "ok": true,
+   "film": "the-great-rupert-1950",
+   "kind": "watch"
   },
   "the-jazz-singer-1927_202301": {
    "ok": true,
