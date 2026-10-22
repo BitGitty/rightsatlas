@@ -1,0 +1,107 @@
+{
+  "id": "meet-john-doe-1941",
+  "title": "Meet John Doe",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-10-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was produced by Frank Capra Productions and released and distributed by Warner Bros. on May 3, 1941. A 28th-year renewal would have been due in 1968-1969. Secondary sources say it was not renewed. I could not confirm that against the Catalog of Copyright Entries (CCE) renewal volumes. The automated reading of the full text of the 1968 and 1969 motion-picture volumes was incomplete, so the print is left undetermined until a hand search confirms no renewal.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1960-1969",
+          "url": "https://archive.org/details/Motionpict19601969librrich0013"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to Dimitri Tiomkin. In a sound film the recorded track normally shares the film's own status, so the score follows the print result. It is not independently confirmed.",
+          "source": "Wikipedia, Meet John Doe",
+          "url": "https://en.wikipedia.org/wiki/Meet_John_Doe"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on a 1939 treatment, 'The Life and Death of John Doe', by Richard Connell and Robert Presnell. The treatment derived from Connell's 1922 Century Magazine story 'A Reputation'. The 1922 story is old enough to be free by term. The 1939 treatment is a separate, later work, and I did not confirm its registration or renewal status.",
+          "source": "Wikipedia, Meet John Doe",
+          "url": "https://en.wikipedia.org/wiki/Meet_John_Doe"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the Library of Congress made a preservation negative in the 1970s, and that a 2001 digital restoration by Ken Barnes' Laureate Presentations used the best available European print and was released on DVD by Sanctuary and VCI. I did not check these against a primary page. Anything a restoration adds, such as new titles, a new score or other added material, can carry its own copyright. A faithful transfer adds none.",
+          "source": "Wikipedia, Meet John Doe",
+          "url": "https://en.wikipedia.org/wiki/Meet_John_Doe"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Meet John Doe” (renewals ~1968, 1969, 1970)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Meet+John+Doe"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1968 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/MeetJohnDoeHD",
+      "label": "Meet John Doe [HD] (Frank Capra Productions, 1941)",
+      "quality": "HD"
+    },
+    {
+      "url": "https://archive.org/details/meet-john-doe-1941_202309",
+      "label": "Meet John Doe (1941)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Meet John Doe is Frank Capra's 1941 drama, produced by Frank Capra Productions and released by Warner Bros. on May 3, 1941. Gary Cooper plays a man hired to pose as 'John Doe', an invented letter-writer who threatens suicide, and Barbara Stanwyck plays the reporter behind the stunt. Robert Riskin wrote the screenplay, and Dimitri Tiomkin is credited with the score.\n\nSecondary sources say the film's copyright lapsed because no 28th-year renewal was filed around 1968-1969. This dossier has not confirmed that against the Catalog of Copyright Entries, so the print stays undetermined until a hand search of the 1968-1970 renewal volumes is done. Even if the print is free, other layers need checking. The 1939 treatment 'The Life and Death of John Doe' by Richard Connell and Robert Presnell sits between the 1922 story and the film. Restored or re-released copies may add material that is still protected. A 2001 digital restoration is reported, but I did not confirm it on a primary page.",
+  "faq": [
+    [
+      "Is Meet John Doe in the public domain?",
+      "The film's copyright reportedly lapsed because no renewal was filed in its 28th year, but I have not confirmed that in the Catalog of Copyright Entries, so the print stays undetermined here. Check the 1968-1970 renewal volumes and the Copyright Office records yourself before relying on it."
+    ],
+    [
+      "Can I use any copy I find online?",
+      "Not automatically. A faithful copy of a free print adds no new copyright, but added titles, a new score or other added material can still be protected. Use a copy whose provenance you can check, and do not rip a copy-protected disc, because that can violate 17 U.S.C. 1201."
+    ]
+  ]
+}

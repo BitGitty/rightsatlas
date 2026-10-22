@@ -1,0 +1,92 @@
+{
+  "id": "dr-jekyll-and-mr-hyde-1931",
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-10-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released Dec 24, 1931 (Los Angeles) and Jan 3, 1932 (US wide). I could not retrieve the Catalog of Copyright Entries renewal volumes or the Stanford renewal database, so I could not confirm whether a renewal was filed in the 1959 window. Wikipedia's film article says it enters the US public domain on January 1, 2027, which implies the copyright was kept up. Do not treat it as free before then unless a renewal search proves absence.",
+          "source": "Wikipedia, Dr. Jekyll and Mr. Hyde (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The opening credits use Bach's Toccata and Fugue in D minor, BWV 565. The recorded track is part of the film and would share the film's own copyright status. Not independently verified.",
+          "source": "Wikipedia, Dr. Jekyll and Mr. Hyde (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on Robert Louis Stevenson's 1886 novella. The novella's term has long expired. Paramount still bought the sound rights from Stevenson's estate. I did not confirm the 1931 film's own screenplay or dialogue status from a primary source.",
+          "source": "Wikipedia, Dr. Jekyll and Mr. Hyde (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Archive Collection released the film on DVD (May 27, 2018) and Blu-ray (October 25, 2022). The 8 minutes cut for the 1936 re-release were restored for the VHS and DVD releases. A faithful scan adds no new US copyright, but any added extras or commentary on these releases are separately protected.",
+          "source": "Wikipedia, Dr. Jekyll and Mr. Hyde (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Dr. Jekyll and Mr. Hyde” (renewals ~1958, 1959, 1960)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Dr.+Jekyll+and+Mr.+Hyde"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Rouben Mamoulian's Paramount film, with Fredric March as both Jekyll and Hyde and Karl Struss behind the camera, opened in Los Angeles on December 24, 1931. It is a pre-Code horror landmark, and a creator would want it for the transformation sequences and for Bach's Toccata and Fugue in D minor over the opening credits. Warner Archive released it on DVD in 2018 and on Blu-ray in 2022.\n\nThe rights trap is the film's own copyright. Stevenson's 1886 novella is long expired, but the 1931 film is a separate work. I could not confirm a renewal or its absence from a primary source, and Wikipedia says the film enters the US public domain on January 1, 2027. MGM bought the negative and rights in 1941 for its own remake, so the chain of title runs through a studio that actively controlled the film. Check the renewal record before reusing it.",
+  "faq": [
+    [
+      "Can I use clips from the 1931 Dr. Jekyll and Mr. Hyde today?",
+      "Not safely yet. I could not confirm a renewal or its absence from a primary source. The film is reported to enter the US public domain on January 1, 2027, so waiting is the safe path unless you search the renewal records yourself."
+    ],
+    [
+      "Does the Stevenson novella being public domain free the film?",
+      "No. The 1886 novella is free to adapt, but the 1931 film is a separate copyrighted work, and Paramount also bought sound rights from Stevenson's estate. Only the story source is free, not the film's own footage or track."
+    ]
+  ]
+}
