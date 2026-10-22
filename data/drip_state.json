@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-21",
+  "last_release": "2026-10-22",
   "log": [
     {
       "date": "2026-08-31",
@@ -208,6 +208,10 @@
     {
       "date": "2026-10-21",
       "film": "the-great-rupert-1950"
+    },
+    {
+      "date": "2026-10-22",
+      "film": "the-night-before-christmas-1905"
     }
   ]
 }
