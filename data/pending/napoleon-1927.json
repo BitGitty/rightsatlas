@@ -1,0 +1,104 @@
+{
+  "id": "napoleon-1927",
+  "title": "Napoleon",
+  "year": 1927,
+  "country": "FR",
+  "last_verified": "2026-10-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "First released in 1927 (Paris Opera premiere, 7 April 1927). Works published in 1927 entered the US public domain on 1 January 2023 by term. Duke CSPD's Public Domain Day 2023 page covers the 1927 cohort but does not name this film.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Gance's film is a non-US work, so any URAA restoration (1996) matters. A restored foreign work gets the US term of 95 years from publication. For a 1927 publication that ran out at the end of 2022, so the restoration gives no protection today. This is my own analysis, not a cited ruling.",
+          "source": "Duke CSPD Public Domain Day 2023 (term for 1927 works)",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Arthur Honegger composed the original score for the French release. The 1981 US presentation of Brownlow's version used a live score by Carmine Coppola. A modern copy's soundtrack is a separate recording and score. Check who wrote and recorded it before reusing the audio. I did not confirm the copyright status of Honegger's score.",
+          "source": "Wikipedia, Napoléon (1927 film) (background only)",
+          "url": "https://en.wikipedia.org/wiki/Napoléon_(1927_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is an original screenplay by Abel Gance about the life of the historical figure Napoleon. Any underlying material is the film's own text, so it is covered by the same 1927 publication and its term expiry on 1 January 2023.",
+          "source": "Duke CSPD Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kevin Brownlow's reconstruction (1980 Edinburgh and London; US premiere at Radio City Music Hall, 23-25 January 1981, distributed through American Zoetrope, with a Carmine Coppola score). Also a 2000 expanded restoration, and a Cinémathèque française restoration of the Apollo Theatre version financed by Netflix and the CNC, premiered in France in July 2024. A faithful restoration of the images adds no new US copyright. Added scores, new or translated intertitles and new material can be protected, and Netflix or a Cinémathèque Blu-ray may carry its own terms.",
+          "source": "Wikipedia, Napoléon (1927 film) (background only)",
+          "url": "https://en.wikipedia.org/wiki/Napoléon_(1927_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Napoleon” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Napoleon"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/napoleon-1927-by-abel-gance",
+      "label": "Napoleon (1927) by Abel Gance — uploaded 2024, about 5.5 hours, labelled PD in USA; restoration source and score not stated",
+      "quality": "1080p, restored version of unstated origin"
+    }
+  ],
+  "editorial": "Abel Gance's Napoléon premiered at the Paris Opera on 7 April 1927. It is a silent epic on Napoleon's rise, known for its Polyvision triptych finale. A creator wants it for the battle and triptych imagery. The film has been cut, re-cut and rebuilt many times. MGM bought it, cut it drastically and kept only the centre panel of the finale for its 1929 release.\n\nThe film itself is out of copyright in the US: it was published in 1927 and the 95-year term ended on 1 January 2023, so renewal records do not matter. The trap is the version. Kevin Brownlow's reconstruction was shown in the US in 1981 with a Carmine Coppola score, and the Cinémathèque française made a new restoration in 2024 with Netflix and CNC funding. Take the picture from a copy whose source you know, and do not reuse its soundtrack, new intertitles or added material without checking who made them.",
+  "faq": [
+    [
+      "Can I use footage from Napoleon (1927) in my own project?",
+      "The 1927 film is public domain in the US by term. Faithful restoration of the images adds no new US copyright, but a new score, new or translated titles and added material can be protected. Use a copy whose provenance you can document and strip or replace the audio."
+    ],
+    [
+      "Does the Carmine Coppola score or the 2024 restoration make the film protected again?",
+      "They do not restore protection to the original film's images. They can protect what they add, such as a recorded score. Netflix's or a disc publisher's terms may also apply to their copies. Rights in Honegger's original score were not checked here."
+    ]
+  ]
+}

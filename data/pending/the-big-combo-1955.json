@@ -1,0 +1,98 @@
+{
+  "id": "the-big-combo-1955",
+  "title": "The Big Combo",
+  "year": 1955,
+  "country": "US",
+  "last_verified": "2026-10-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Secondary sources (Wikipedia, a Public Domain Movies Substack post) say the film's notice was defective and that the US Copyright Office rejected the notice in 2007, with no known renewal. I could not reach the Copyright Office record or the CCE renewal volumes for 1982-1984 to confirm either point, so the PD claim is unverified.",
+          "source": "Wikipedia, The Big Combo",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Combo"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "David Raksin composed the score. A sound film's recorded track normally shares the film's own status, so this layer depends on the print finding. The underlying composition's copyright was not separately checked.",
+          "source": "Wikipedia, The Big Combo",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Combo"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Philip Yordan with the original story and screenplay, so no outside source term applies. The screenplay's own copyright status was not checked separately.",
+          "source": "Wikipedia, The Big Combo",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Combo"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists an Olive Films Blu-ray (2013) using a UCLA Film & Television Archive restoration, an Arrow Films HD restoration (2018), and a 4K release announced for March 2026. I did not check what each release adds, such as commentary, new titles or extras.",
+          "source": "Wikipedia, The Big Combo",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Combo"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1982,
+      1983,
+      1984
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Big Combo” (renewals ~1982, 1983, 1984)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+Combo"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Big_Combo_1955",
+      "label": "The Big Combo (1955) on the Internet Archive, tagged Public Domain Mark 1.0",
+      "quality": "Digital video file; the item metadata does not state the source or resolution"
+    }
+  ],
+  "editorial": "The Big Combo is a 1955 film noir directed by Joseph H. Lewis, with a screenplay by Philip Yordan and a score by David Raksin. Security Pictures and Theodora Productions made it, and Allied Artists distributed it. It opened in the US on February 13, 1955. A creator would want it for its reputation as a noir and for the way Raksin's brass-and-woodwind score sets it apart from typical orchestral film scoring.\n\nThe rights trap is that the print's public-domain status rests on secondary reports, not on a record I could retrieve. Those reports say the film's copyright notice was defective, that the Copyright Office rejected the notice in 2007, and that no renewal is known. I could not check the Copyright Office catalog or the CCE renewal volumes for 1982-1984. Use the DIY links to confirm before you rely on it. The Olive Films/UCLA, Arrow and later releases are separate products, and anything they add is a separate question from the 1955 print.",
+  "faq": [
+    [
+      "Is The Big Combo public domain in the US?",
+      "Secondary sources say yes: they report a defective copyright notice and no known renewal. This dossier could not confirm that from the Copyright Office catalog or the CCE renewal volumes, so check those records yourself before relying on the claim."
+    ],
+    [
+      "Can I use the Blu-ray restoration instead of the Internet Archive copy?",
+      "Copying a disc may involve breaking copy protection, which raises DMCA 17 U.S.C. 1201 issues. Any commentary, new titles or other material a release adds may also be protected. Releases from Olive Films/UCLA and Arrow exist, but I did not check what they add."
+    ]
+  ]
+}
