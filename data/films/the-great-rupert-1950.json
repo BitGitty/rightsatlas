@@ -3,7 +3,7 @@
   "title": "The Great Rupert",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-10-21",
+  "last_verified": "2026-10-23",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia states the film entered the public domain in 1978 because the 28-year term lapsed without renewal. This is a secondary claim. No renewal record or absence-of-renewal search could be retrieved in this session (the Stanford renewal database query returned no usable content), so non-renewal is not established here.",
+          "note": "Wikipedia states the film entered the public domain in 1978 because the 28-year term lapsed without renewal. This is a secondary claim. No Catalog of Copyright Entries renewal volume or Copyright Office record search could be retrieved in this session, so non-renewal is not established here.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Music is credited to Leith Stevens. The recorded soundtrack in a sound film normally shares the film's own copyright status, so the score likely follows the print, but neither has been verified. No separate score registration or renewal was checked.",
+          "note": "Music is credited to Leith Stevens. The recorded soundtrack of a sound film normally shares the film's own copyright status, so the score likely follows the print, but neither has been verified. No separate score registration or renewal was checked.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The story is credited to Ted Allan, and the screenplay is credited to László Vadnay, who adapted the story. Whether the story was published earlier, and whether any such publication was renewed, was not verified.",
+          "note": "Wikipedia credits the story to Ted Allan (spelled 'Ted Allen' in some sources) and the screenplay to László Vadnay. Whether the story was published earlier, and whether any such publication was renewed, was not verified.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -77,8 +77,14 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Great Rupert (1950) was produced by George Pal and directed by Irving Pichel. Jimmy Durante, Tom Drake and Terry Moore starred, and Eagle-Lion Films released it on March 1, 1950. Its central character is an animated squirrel named Rupert. Leith Stevens wrote the score, and the story is credited to Ted Allan, adapted for the screenplay by László Vadnay.\n\nThe film is widely reported to have lapsed into the public domain in 1978 for lack of a renewal. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries renewal volumes and the Copyright Office catalog yourself. The practical trap is the 2003 Legend Films colorization, released with 20th Century Fox as A Christmas Wish. Its colorization and the Terry Moore commentary may be protected separately, so source a black-and-white print and not that release. The status of the Ted Allan story and the Leith Stevens score is also unchecked.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-great-rupert-1950",
+      "label": "The Great Rupert (1950) on the Internet Archive",
+      "quality": "Internet Archive item. Playback quality not checked."
+    }
+  ],
+  "editorial": "The Great Rupert (1950) was produced by George Pal and directed by Irving Pichel. Jimmy Durante, Tom Drake and Terry Moore starred, and Eagle-Lion Films released it on March 1, 1950. Its central character is Rupert, a trained squirrel who belongs to vaudevillian Joe Mahoney. Rupert is shown through George Pal's stop-motion puppet animation, and he helps the Amendola family who live in the apartment below. Leith Stevens wrote the score. Ted Allan is credited with the story and László Vadnay with the screenplay.\n\nThe film is widely reported to have lapsed into the public domain in 1978 for lack of a renewal. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries renewal volumes and the Copyright Office catalog yourself. The practical trap is the 2003 Legend Films colorization, released with 20th Century Fox as A Christmas Wish. Its colorization and the Terry Moore commentary may be protected separately, so source a black-and-white print and not that release. The status of the underlying story and the Leith Stevens score is also unchecked.",
   "faq": [
     [
       "Is The Great Rupert free to use?",
