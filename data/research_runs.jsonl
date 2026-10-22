@@ -220,3 +220,5 @@
 {"date": "2026-10-22", "id": "meet-john-doe-1941", "result": "queued", "reasons": []}
 {"date": "2026-10-22", "id": "scrooge-1935", "result": "refreshed", "reasons": []}
 {"date": "2026-10-22", "id": "scrooge-1951", "result": "refreshed", "reasons": []}
+{"date": "2026-10-23", "id": "tarzan-the-ape-man-1932", "result": "queued", "reasons": []}
+{"date": "2026-10-23", "id": "horror-express-1972", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
