@@ -1,0 +1,85 @@
+{
+  "id": "tarzan-the-ape-man-1932",
+  "title": "Tarzan the Ape Man",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-10-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1932 MGM release. Public domain would depend on a missing notice or a missing renewal in the 1959-1961 window. I could not retrieve the Stanford renewal database or the Catalog of Copyright Entries volumes in this session, so no renewal check was completed.",
+          "source": "Wikipedia: Tarzan the Ape Man (1932 film)",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_the_Ape_Man_(1932_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film from 1932. The recorded track would normally share the film's status, which is itself unresolved, so the score is unresolved too.",
+          "source": "Wikipedia: Tarzan the Ape Man (1932 film)",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_the_Ape_Man_(1932_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Edgar Rice Burroughs' 1912 novel Tarzan of the Apes. The 1912 source work is old enough to have expired by term, but the 1932 screenplay and film are separate works with their own copyright status.",
+          "source": "Wikipedia: Tarzan the Ape Man (1932 film)",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_the_Ape_Man_(1932_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Tarzan the Ape Man” (renewals ~1959, 1960, 1961)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Tarzan+the+Ape+Man"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Tarzan the Ape Man was released by MGM (Loew's Inc.) in the US on April 2, 1932, after a New York premiere on March 22. W.S. Van Dyke directed it. It was Johnny Weissmuller's first of 12 Tarzan films and brought the Tarzan yell to the screen. It cost $652,675 and earned $2.54 million, and it led to five sequels pairing Weissmuller with Maureen O'Sullivan between 1934 and 1942.\n\nThe rights trap is that a 1932 film is not free by default. Its status turns on whether MGM renewed the copyright in 1959-1961. I could not check that renewal record, so the print stays unresolved. The 1912 Burroughs novel it adapts is a separate work with a separate term. Tarzan character and franchise marks can outlive any copyright, and I have not confirmed who holds them. Do the renewal search yourself before reusing any footage.",
+  "faq": [
+    [
+      "Is Tarzan the Ape Man (1932) in the public domain?",
+      "Unconfirmed. As a 1932 film it is free only if it was published without notice or its copyright was not renewed in 1959-1961. I could not complete that renewal check, so treat it as protected until a Copyright Office or Stanford renewal record shows otherwise."
+    ],
+    [
+      "Does the 1912 source novel make the film free to use?",
+      "No. The 1912 novel Tarzan of the Apes is a separate work with its own term. The 1932 film is a separate work, and any Tarzan trademarks are a third layer."
+    ]
+  ]
+}
