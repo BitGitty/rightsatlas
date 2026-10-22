@@ -101,6 +101,11 @@
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
+  "TheLittleShopOfHorrors1960": {
+   "ok": true,
+   "film": "little-shop-of-horrors-1960",
+   "kind": "watch"
+  },
   "nanook-of-the-north-1922-tmdb669": {
    "ok": true,
    "film": "nanook-of-the-north-1922",
@@ -229,6 +234,16 @@
   "the-navigator-1924": {
    "ok": true,
    "film": "the-navigator-1924",
+   "kind": "watch"
+  },
+  "the-night-before-christmas-1905-directed-by-edwin-s.-porter": {
+   "ok": true,
+   "film": "the-night-before-christmas-1905",
+   "kind": "watch"
+  },
+  "silent-the-night-before-christmas": {
+   "ok": true,
+   "film": "the-night-before-christmas-1905",
    "kind": "watch"
   },
   "turner_video_108182": {
