@@ -3,7 +3,7 @@
   "title": "Beyond Tomorrow",
   "year": 1940,
   "country": "US",
-  "last_verified": "2026-10-22",
+  "last_verified": "2026-10-23",
   "byline": null,
   "layers": {
     "print": {
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive metadata credits an original story by Mildred Cram and Adele Comandini, with a screenplay by Adele Comandini. I did not research whether the story was published separately or when, so its term is unconfirmed.",
+          "note": "The Internet Archive metadata credits an original story by Mildred Cram and Adele Comandini. I did not research whether the story was published separately or when, so its term is unconfirmed.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive page says a colorized version was produced by Legend Films in 2004 and released by 20th Century Fox as 'Beyond Christmas'. It also says the original black-and-white print was digitally remastered and preserved by the National Film Museum, Incorporated. A faithful black-and-white copy adds no new US copyright. The colorization, and any added material, can carry its own protection.",
+          "note": "The Internet Archive page says a colorized version was produced by Legend Films and released by 20th Century Fox in 2004 as 'Beyond Christmas'. It also says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. A faithful black-and-white copy adds no new US copyright. The colorization, and any added material, can carry its own protection.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -92,7 +92,7 @@
       "quality": "Digitally remastered black-and-white print"
     }
   ],
-  "editorial": "Beyond Tomorrow is a 1940 fantasy directed by A. Edward Sutherland and produced by cinematographer Lee Garmes, with an original story credited to Mildred Cram and Adele Comandini and a screenplay by Adele Comandini. Three elderly industrialists die in a plane crash and return as ghosts to help reunite a young couple. Its Christmas setting is why people look for a free copy.\n\nA 1940 film is free in the US only if its copyright notice was missing or its copyright was not renewed. I could not confirm either from a primary record, so every layer except restorations is undetermined. The renewal catalogs for 1967 to 1969 are the place to check. The trap is the colorized edition: Legend Films colorized the film and 20th Century Fox released it in 2004 as 'Beyond Christmas'. That colorization is a separate layer and should not be assumed free, even if the black-and-white original turns out to be.",
+  "editorial": "Beyond Tomorrow is a 1940 fantasy directed by A. Edward Sutherland and produced by Lee Garmes, with an original story credited to Mildred Cram and Adele Comandini. Three elderly industrialists die in a plane crash and return as ghosts to help reunite a young couple. Its Christmas setting is why people look for a free copy.\n\nA 1940 film is free in the US only if its copyright notice was missing or its copyright was not renewed. I could not confirm either from a primary record, so every layer except restorations is undetermined. The renewal catalogs for 1967 to 1969 are the place to check. The trap is the colorized edition: Legend Films colorized the film and 20th Century Fox released it in 2004 as 'Beyond Christmas'. That colorization is a separate layer and should not be assumed free, even if the black-and-white original turns out to be.",
   "faq": [
     [
       "Is Beyond Tomorrow (1940) free to use?",
