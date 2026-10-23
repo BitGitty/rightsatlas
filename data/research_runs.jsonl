@@ -228,3 +228,5 @@
 {"date": "2026-10-23", "id": "monkey-business-1931", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-10-23", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
 {"date": "2026-10-23", "id": "carnival-of-souls-1962", "result": "refreshed", "reasons": []}
+{"date": "2026-10-23", "id": "monkey-business-1931", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-10-23", "id": "way-out-west-1937", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
