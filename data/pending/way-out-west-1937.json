@@ -1,0 +1,84 @@
+{
+  "id": "way-out-west-1937",
+  "title": "Way Out West",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-10-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal status for the 28th-year window (1964-1966) could not be confirmed this session. The Stanford renewal database page returned no readable content, so no absence or presence of a renewal is established.",
+          "source": "Stanford Copyright Renewal Database (not readable in this session)",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is part of the sound film's recorded track. It most likely shares the film's copyright status, which is itself unresolved. No separate music-rights research was done.",
+          "source": "Research note",
+          "url": "https://archive.org/details/way-out-west-1937_202602"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Way Out West” (renewals ~1964, 1965, 1966)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Way+Out+West"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/way-out-west-1937_202602",
+      "label": "Way Out West (1937) — Internet Archive copy, about 64.7 minutes",
+      "quality": "unverified user upload; picture quality not checked"
+    }
+  ],
+  "editorial": "Way Out West is the 1937 Laurel and Hardy feature, 64 minutes long. Hal Roach Studios and Metro-Goldwyn-Mayer produced it, James W. Horne directed it, and it opened on April 16, 1937. In the story, Stan and Ollie try to deliver the deed to a gold mine to its rightful owner. A creator would want it as a well-known sound comedy with two of the most recognizable screen characters.\n\nThe rights question is still open. A 1937 film is only free in the US if its notice was missing or its copyright was not renewed in the 1964-1966 window. This session could not read any renewal record, so no layer is marked verified public domain. Before you rely on any copy, search the renewal records yourself using the links above. Also check the Laurel and Hardy character marks and any distributor-owned restored or colorized versions. Treat the Internet Archive upload as a viewing copy only, not as evidence of clearance.",
+  "faq": [
+    [
+      "Is Way Out West (1937) in the public domain in the US?",
+      "Not established. A 1937 film is free only if it lacked a copyright notice or its copyright was not renewed in the 1964-1966 window. No renewal record could be read this session, so check the Stanford renewal database and the Catalog of Copyright Entries before reusing it."
+    ],
+    [
+      "Does an Internet Archive copy mean I can reuse it?",
+      "No. Anyone can upload to the Internet Archive, so a copy being there says nothing about clearance. The rights depend on the film's renewal record, the music and the story. Any restored or colorized version also carries its own added material."
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "little-caesar-1931",
+  "title": "Little Caesar",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-10-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's Little Caesar article states the film was registered for copyright late in 1930 (theatrical release 9 January 1931) and entered the US public domain on 1 January 2026. I could not fetch a primary record (Catalog of Copyright Entries page or copyright.gov record) showing the registration date, so the print is not marked verified_pd. Confirm the late-1930 registration in the CCE motion-picture volume before relying on it.",
+          "source": "Wikipedia, Little Caesar (film)",
+          "url": "https://en.wikipedia.org/wiki/Little_Caesar_(film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music credit is Ernö Rapée (per Wikipedia). It is a sound film, so the recorded track normally shares the film's status, which depends on the unconfirmed print status above.",
+          "source": "Wikipedia, Little Caesar (film)",
+          "url": "https://en.wikipedia.org/wiki/Little_Caesar_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on W. R. Burnett's novel, published in 1929 (per Wikipedia). A 1929 publication is past the US term, so the source novel is public domain. This evidence is secondary: I did not fetch a primary record for the novel's publication.",
+          "source": "Wikipedia, Little Caesar (film)",
+          "url": "https://en.wikipedia.org/wiki/Little_Caesar_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a Warner Home Video Blu-ray released 21 May 2013 and National Film Registry selection in 2000. I could not confirm what, if anything, those releases added (new score, titles, extras), so this stays undetermined.",
+          "source": "Wikipedia, Little Caesar (film)",
+          "url": "https://en.wikipedia.org/wiki/Little_Caesar_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Little Caesar” (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Little+Caesar"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/old-time-movie-show-little-caesar-1931-edward-g.-robinson",
+      "label": "Old Time Movie Show: Little Caesar (1931), about 80 min, Internet Archive",
+      "quality": "unrestored upload; quality not checked"
+    }
+  ],
+  "editorial": "Little Caesar is First National Pictures' gangster picture, directed by Mervyn LeRoy and starring Edward G. Robinson as Caesar \"Rico\" Bandello, with Douglas Fairbanks Jr. and Glenda Farrell. It was adapted from W. R. Burnett's 1929 novel and released on 9 January 1931. The Library of Congress selected it for the National Film Registry in 2000. A creator would want it as an early sound-era gangster film with a famous lead performance.\n\nThe rights question is the date. Wikipedia says the film was registered for copyright late in 1930 and entered the US public domain on 1 January 2026, even though it opened in 1931. I could not find a primary registration record, and Duke's 2026 Public Domain Day page does not list it among its highlighted 1930 films. Treat the print as likely free but unconfirmed. Check the registration yourself before commercial use. Warner's 2013 Blu-ray may carry added material that stays protected, and I could not confirm what it adds.",
+  "faq": [
+    [
+      "Is Little Caesar (1931) in the US public domain?",
+      "Probably, but I could not confirm it from a primary record. Wikipedia says it was registered for copyright late in 1930 and became public domain on 1 January 2026. The source novel (1929) is past its term. Verify the 1930 registration in the Catalog of Copyright Entries before relying on it."
+    ],
+    [
+      "Can I use Warner's Blu-ray transcode instead of an Internet Archive copy?",
+      "A faithful copy adds no new US copyright, but anything the release added (new titles, music, commentary, extras) can be protected. Ripping a copy-protected disc can also violate 17 U.S.C. 1201. An Internet Archive copy avoids both issues."
+    ]
+  ]
+}
