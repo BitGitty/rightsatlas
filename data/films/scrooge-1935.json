@@ -3,7 +3,7 @@
   "title": "Scrooge",
   "year": 1935,
   "country": "GB",
-  "last_verified": "2026-10-22",
+  "last_verified": "2026-10-24",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "British film, first shown in the UK on 26 November 1935, with US distribution by Paramount Pictures according to Wikipedia. A US public-domain claim would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked, so no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA. That depends on its US publication history, which was not established. Wikipedia says the film has entered the public domain, but that is not a primary source.",
+          "note": "British film produced by Julius Hagen for Twickenham Film Studios and released in the UK on 26 November 1935. Paramount Pictures handled US distribution, according to Wikipedia. A US public-domain claim would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked, so no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA, which depends on its US publication history and was not established. Wikipedia and the Internet Archive item description both say the film appears to be in the public domain, but neither is a primary source.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -35,7 +35,7 @@
           "type": "term_expiry",
           "note": "The film adapts Charles Dickens's novella A Christmas Carol, published in 1843. Works published in 1930 or earlier are in the US public domain by term, and the Duke CSPD Public Domain Day 2026 page covers 1930 works. This covers the underlying story only. The 1935 screenplay and the film itself are separate works.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
-          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+          "url": "https://law.duke.edu/cspd/publicdomainday/2026/"
         }
       ]
     },
@@ -84,15 +84,15 @@
       "quality": "full 78-minute feature"
     }
   ],
-  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it for Twickenham Film Studios, with Seymour Hicks as Scrooge and Donald Calthrop as Bob Cratchit. It opened in the UK on 26 November 1935 and is described as the first sound feature-length version of the story. Paramount handled US distribution. A creator would want it as an early sound Scrooge.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved. Image Entertainment released a 78-minute restoration on DVD in 2002, and Legend Films issued a colorized version in 2007. Colorization and other added material can be protected even if the film itself is free.",
+  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it, Julius Hagen produced it for Twickenham Film Studios, and Seymour Hicks plays Scrooge opposite Donald Calthrop as Bob Cratchit. It opened in the UK on 26 November 1935 and is described as the first sound feature-length version of the story. Paramount handled US distribution. A creator would want it as an early sound Scrooge with an invisible Marley's Ghost.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved even though the Internet Archive hosts a copy. Any modern restoration or colorized copy could carry protected additions that the original film does not.",
   "faq": [
     [
       "Is the 1935 Scrooge safe to reuse in the US?",
-      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here. A faithful copy adds no new copyright, but added material can be protected."
+      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here. The Internet Archive hosts a copy and calls it apparently public domain, but that is not a primary source."
     ],
     [
       "Does a DVD or colorized copy change the answer?",
-      "It can add protected material. The 2002 Image Entertainment DVD is a restoration of the 78-minute version, and Legend Films issued a colorized edition in 2007. A faithful copy of the film adds no new US copyright. Colorization, new titles or music can be protected, and ripping a copy-protected disc can break 17 U.S.C. 1201."
+      "It can. A faithful copy of the film adds no new US copyright, but colorization, new titles, new music or a re-edit can be protected. Check which edition you are using, and note that ripping a copy-protected disc can break 17 U.S.C. 1201."
     ]
   ]
 }
