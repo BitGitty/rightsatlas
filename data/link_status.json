@@ -96,6 +96,11 @@
    "film": "in-old-arizona-1929",
    "kind": "evidence"
   },
+  "silent-jaccuse": {
+   "ok": true,
+   "film": "j-accuse-1919",
+   "kind": "watch"
+  },
   "TheLastManOnEarth_72": {
    "ok": true,
    "film": "last-man-on-earth-1964",
@@ -144,6 +149,11 @@
   "Scrooge_1935": {
    "ok": true,
    "film": "scrooge-1935",
+   "kind": "watch"
+  },
+  "a-christmas-carol-scrooge-1951": {
+   "ok": true,
+   "film": "scrooge-1951",
    "kind": "watch"
   },
   "seven-chances-keaton-1925-high-quality-1080p-wnfl-tnu-8cb-a": {
