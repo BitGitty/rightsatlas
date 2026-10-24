@@ -3,7 +3,7 @@
   "title": "Carnival of Souls",
   "year": 1962,
   "country": "US",
-  "last_verified": "2026-10-23",
+  "last_verified": "2026-10-24",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports that the film lacked a valid copyright notice, which would put it in the US public domain, and that the foreign release marketed by Walter Manley did contain a copyright card. No primary record (Copyright Office catalog or Catalog of Copyright Entries) was fetched, so the layer is held at undetermined.",
+          "note": "Wikipedia reports that the US release lacked a copyright notice on the prints, which would put it in the US public domain, and that the foreign release marketed by Walter Manley did contain a copyright card. No primary record (Copyright Office catalog or Catalog of Copyright Entries) was fetched, so the layer is held at undetermined.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         },
         {
           "type": "hosting",
-          "note": "The Internet Archive hosts the film (item CarnivalofSouls), lists director Herk Harvey, and tags it with a Creative Commons public-domain license URL. This is the uploader's tag, not a rights determination.",
+          "note": "The Internet Archive hosts the film (item CarnivalofSouls, 82 min), lists director Herk Harvey, and tags it with a Creative Commons public-domain license URL. This is the uploader's tag, not a rights determination.",
           "source": "Internet Archive",
           "url": "https://archive.org/details/CarnivalofSouls"
         }
@@ -50,7 +50,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No active mark was identified, but no trademark database was searched. The 1998 remake, Wes Craven Presents Carnival of Souls, came after producer Peter Soby negotiated rights to the title from Herk Harvey and John Clifford, and it is a separate work.",
+          "note": "No active mark was identified, but no trademark database was searched. The 1998 remake came after producer Peter Soby negotiated rights to the title from Herk Harvey and John Clifford, and it is a separate work.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
@@ -73,7 +73,7 @@
         },
         {
           "type": "research_note",
-          "note": "The Criterion Collection issued a 2-disc DVD set in 2000 with a 78-minute theatrical version and an 84-minute director's cut, then a 2016 DVD and Blu-ray reissue with a new restoration. Any added commentary, subtitles or other original material on those discs may be protected.",
+          "note": "The Criterion Collection issued a 2-disc DVD set in 2000 with a 78-minute theatrical version and an 84-minute director's cut, then a 2016 DVD and Blu-ray reissue with restored versions. Any added commentary, subtitles or other original material on those discs may be protected.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
@@ -84,18 +84,18 @@
     {
       "url": "https://archive.org/details/CarnivalofSouls",
       "label": "Carnival of Souls (1962) on the Internet Archive",
-      "quality": "Internet Archive item credited to Herk Harvey, 1962; uploader's public-domain license tag"
+      "quality": "Internet Archive item credited to Herk Harvey, 1962; 82-minute copy; uploader's public-domain license tag"
     }
   ],
-  "editorial": "Carnival of Souls was made on a budget of about $33,000. Herk Harvey directed it from a John Clifford screenplay, and Gene Moore supplied an original organ score. It opened on September 26, 1962 at the Granada Theatre in Lawrence, Kansas, with Herts-Lion International as distributor. A reuser wants it because Wikipedia reports the film lacked a valid copyright notice, which would put the US release in the public domain, and the Internet Archive hosts a copy tagged with a public-domain license.\n\nThe trap is that this status rests on a secondary source. Wikipedia also reports that the foreign release marketed by Walter Manley carried a copyright card. This dossier did not check the Copyright Office catalog or the renewal records, so print, score, story and trademark all stay undetermined. Criterion's 2000 DVD and 2016 restoration may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. The Internet Archive copy is the safer source to use.",
+  "editorial": "Carnival of Souls was made on a budget of about $33,000. Herk Harvey directed it from a John Clifford screenplay, and Gene Moore supplied an original organ score. It opened on September 26, 1962, with Herts-Lion International as distributor. A reuser wants it because Wikipedia reports the US release prints carried no copyright notice, which would put the US release in the public domain, and the Internet Archive hosts a copy tagged with a public-domain license.\n\nThe trap is that this status rests on a secondary source. Wikipedia also reports that the foreign release marketed by Walter Manley carried a copyright card. This dossier did not check the Copyright Office catalog or the renewal records, so print, score, story and trademark all stay undetermined. Criterion's 2000 DVD and 2016 restored release may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. The Internet Archive copy is the safer source to use.",
   "faq": [
     [
       "Can I upload or reuse Carnival of Souls?",
-      "The US release is reported to have lacked a valid copyright notice, but no primary record was checked here, so treat the status as unconfirmed. The Internet Archive copy is the safest source. Avoid ripping Criterion discs, which may include protected additions and copy protection."
+      "The US release is reported to have lacked a copyright notice on its prints, but no primary record was checked here, so treat the status as unconfirmed. The Internet Archive copy is the safest source. Avoid ripping Criterion discs, which may include protected additions and copy protection."
     ],
     [
       "Is the 1998 remake also public domain?",
-      "No. Wes Craven Presents Carnival of Souls is a separate work, made after its producer negotiated rights to the title from Herk Harvey and John Clifford."
+      "No. The 1998 remake is a separate work, made after its producer negotiated rights to the title from Herk Harvey and John Clifford."
     ]
   ]
 }
