@@ -1,0 +1,91 @@
+{
+  "id": "robin-hood-1938",
+  "title": "The Adventures of Robin Hood",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-10-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. Pictures release of May 1938. I could not read the 1965 or 1966 Catalog of Copyright Entries motion-picture volumes in full text this session, so I did not confirm either a renewal or its absence for the 28th-year window. The two volumes are identified below for a manual check.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1965 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1966 volume of the same catalog, to be checked alongside the 1965 volume. Not searched to a conclusion.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1966 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is by Erich Wolfgang Korngold and was written for this 1938 Warner Bros. film. The recorded track would normally follow the film's own copyright status, which is unresolved. Separate rights in published sheet music or later score recordings were not checked.",
+          "source": "Wikipedia, The Adventures of Robin Hood",
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is credited as an original screenplay by Norman Reilly Raine and Seton I. Miller, so the film was written for the studio rather than adapted from a single copyrighted book. The screenplay's own copyright and renewal status were not checked.",
+          "source": "Wikipedia, The Adventures of Robin Hood",
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Adventures of Robin Hood” (renewals ~1965, 1966, 1967)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Adventures+of+Robin+Hood"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Adventures of Robin Hood is Warner Bros.' 1938 Technicolor swashbuckler, directed by Michael Curtiz and William Keighley. Errol Flynn and Olivia de Havilland star, and Erich Wolfgang Korngold wrote the score. The Library of Congress added it to the National Film Registry in 1995. A creator would want it for its sword fights, its sets and its Korngold music, all of which are in constant demand for clips and homages.\n\nThe rights trap is that nobody has shown this film to be free. The queue flagged it as likely not renewed, but I could not confirm that against the 1965 and 1966 renewal records, and Warner has kept the film in commercial circulation. Until someone checks those records by hand, treat the print, the Korngold track, and any Warner restoration or home-video master as protected. Do not reuse clips on the strength of the queue's guess.",
+  "faq": [
+    [
+      "Is The Adventures of Robin Hood (1938) in the public domain?",
+      "Not established. The film was released in 1938, so its status depends on whether the copyright was renewed in the 28th year. I could not confirm a renewal or its absence in the Catalog of Copyright Entries. Check the 1965 and 1966 volumes before reusing any footage."
+    ],
+    [
+      "Can I use the Korngold score or a Warner restoration if the film turns out to be free?",
+      "Not automatically. The original track normally shares the film's status. A Warner restoration or newer remaster can add protected material. Ripping a copy-protected disc can also violate 17 U.S.C. 1201 whatever the film's status."
+    ]
+  ]
+}
