@@ -240,3 +240,5 @@
 {"date": "2026-10-24", "id": "a-bucket-of-blood-1959", "result": "queued", "reasons": []}
 {"date": "2026-10-24", "id": "scrooge-1951", "result": "refreshed", "reasons": []}
 {"date": "2026-10-24", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
+{"date": "2026-10-24", "id": "vampyr-1932", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-10-24", "id": "batman-and-robin-1949", "result": "queued", "reasons": []}

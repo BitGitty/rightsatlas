@@ -1,0 +1,99 @@
+{
+  "id": "batman-and-robin-1949",
+  "title": "Batman and Robin",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-10-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Columbia Pictures serial released May 26, 1949. No renewal search of the Catalog of Copyright Entries or the Copyright Office catalog was completed in this session, so public-domain status of the print is not established.",
+          "source": "Wikipedia summary of the serial, used for release facts only",
+          "url": "https://en.wikipedia.org/wiki/Batman_and_Robin_(serial)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The sound track is part of the film and would normally share the print's status. That status is unresolved, so the score is too.",
+          "source": "Wikipedia summary of the serial",
+          "url": "https://en.wikipedia.org/wiki/Batman_and_Robin_(serial)"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is built on the Batman and Robin characters created by Bob Kane, Bill Finger and Jerry Robinson. Those characters remain under DC's copyright and trademark control, so the underlying story and characters are not free to reuse even if the film print were.",
+          "source": "Wikipedia summary of the serial",
+          "url": "https://en.wikipedia.org/wiki/Batman_and_Robin_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The queue notes list DC trademarks on Batman and Robin. Character marks survive copyright expiry.",
+          "source": "RightsAtlas queue row",
+          "url": "https://en.wikipedia.org/wiki/Batman_and_Robin_(serial)"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sony Pictures Home Entertainment issued a restored DVD in 2005. Added material such as new titles or sound work could carry its own protection. A faithful restoration alone adds none.",
+          "source": "Wikipedia summary of the serial",
+          "url": "https://en.wikipedia.org/wiki/Batman_and_Robin_(serial)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1976,
+      1977,
+      1978
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Batman and Robin” (renewals ~1976, 1977, 1978)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Batman+and+Robin"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Batman and Robin is the 15-chapter Columbia serial released May 26, 1949, produced by Sam Katzman and directed by Spencer Gordon Bennet, with Robert Lowery as Batman, Johnny Duncan as Robin, Jane Adams as Vicki Vale and Lyle Talbot as Commissioner Gordon. It runs about 264 minutes, which makes it a large block of footage for anyone making a compilation, commentary or parody.\n\nThe trap is that this film is not shown to be free. Columbia, not DC, has handled its home releases, including a restored Sony DVD in 2005. No renewal search has been completed here, so the print stays undetermined. Even if the print were free, the Batman and Robin characters and marks are still controlled by DC, and any restoration may add protected material.",
+  "faq": [
+    [
+      "Can I upload clips of the 1949 Batman and Robin serial?",
+      "Not safely yet. The print's status is undetermined because the renewal records for 1976 to 1978 have not been checked here. Use the Stanford renewal database and the Catalog of Copyright Entries links in the renewal search first."
+    ],
+    [
+      "If the print were free, could I make a new Batman product from it?",
+      "No. The Batman and Robin characters and marks are separate rights held by DC. Using the footage as footage is a different question from selling goods or a new story built on the characters."
+    ]
+  ]
+}
