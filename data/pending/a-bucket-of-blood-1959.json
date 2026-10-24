@@ -1,0 +1,96 @@
+{
+  "id": "a-bucket-of-blood-1959",
+  "title": "A Bucket of Blood",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-10-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1959, so public domain would rest on a missing notice or a missing renewal. I could not fetch a Catalog of Copyright Entries renewal volume for the 1986-1988 window on archive.org, and the Copyright Office public-records site is a dynamic search page I could not query. Renewal absence is therefore unconfirmed. The Internet Archive upload carries a Public Domain Mark label, which is the uploader's claim and not evidence.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/a-bucket-of-blood-1959"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Fred Katz is credited as composer. A sound film's recorded track normally shares the film's status, but I found no separate music registration or renewal record.",
+          "source": "Wikipedia, A Bucket of Blood",
+          "url": "https://en.wikipedia.org/wiki/A_Bucket_of_Blood"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Screenplay credited to Charles B. Griffith. I did not confirm it was an original work, or whether a separate screenplay copyright exists. A 1995 TV remake and later stage musicals exist as separate derivative works.",
+          "source": "Wikipedia, A Bucket of Blood",
+          "url": "https://en.wikipedia.org/wiki/A_Bucket_of_Blood"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1986,
+      1987,
+      1988
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “A Bucket of Blood” (renewals ~1986, 1987, 1988)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Bucket+of+Blood"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/a-bucket-of-blood-1959",
+      "label": "A Bucket Of Blood (1959), high quality scan, about 65 min, 1280×720",
+      "quality": "720p"
+    },
+    {
+      "url": "https://archive.org/details/BucketOfBlood720p1959",
+      "label": "A Bucket of Blood (Alta Vista Productions, 1959)",
+      "quality": "720p"
+    }
+  ],
+  "editorial": "A Bucket of Blood is Roger Corman's 1959 black comedy about a dim busboy at a bohemian café who becomes a celebrated sculptor after he covers his landlady's dead cat in plaster, then keeps producing \"art\" by darker means. Charles B. Griffith wrote it, Fred Katz composed the score, and Alta Vista Productions made it. The Internet Archive's scan credits American International Pictures as creator and describes it as shot in a matter of days on leftover sets.\n\nThe rights trap is that this dossier could not confirm what happened to the copyright. The film was published in 1959, so its renewal window ran 1986 to 1988, and I did not find a renewal record or a record proving there was none. Internet Archive uploads are labelled Public Domain Mark, and Wikipedia lists the film as public domain in the US, but neither is a primary source. Before commercial reuse, search the Copyright Office public records and the CCE renewal volumes yourself. The 1995 TV remake and the stage musicals are separate works with their own rights.",
+  "faq": [
+    [
+      "Is A Bucket of Blood in the public domain?",
+      "Unconfirmed. The Internet Archive labels its copies Public Domain Mark and Wikipedia lists the film as public domain, but I found no primary record showing a missing notice or a missing renewal. Check the Copyright Office public records and the CCE renewal volumes for 1986-1988 before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in a commercial project?",
+      "Not safely until the renewal check is done. The upload's public-domain label is the uploader's claim. The 1995 remake and the stage adaptations are separate copyrighted works and are not covered by the original film's status."
+    ]
+  ]
+}

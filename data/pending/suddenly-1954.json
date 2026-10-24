@@ -1,0 +1,103 @@
+{
+  "id": "suddenly-1954",
+  "title": "Suddenly",
+  "year": 1954,
+  "country": "US",
+  "last_verified": "2026-10-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive uploader descriptions state the film is public domain for lack of renewal, and Wikipedia says the same. Neither is a primary record. I did not locate the Catalog of Copyright Entries renewal volumes (1981-1983) on archive.org, and I could not run the Copyright Office public catalog search, so non-renewal is unconfirmed.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/suddenly-1954-by-lewis-allen"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "David Raksin composed the score. A sound film's recorded track normally shares the film's status, but the film's own status is unconfirmed. Any separately licensed modern recording or re-score is a separate matter.",
+          "source": "Wikipedia, Suddenly (1954 film)",
+          "url": "https://en.wikipedia.org/wiki/Suddenly_(1954_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay by Richard Sale is credited as based on his 1943 story 'Active Duty' from Blue Book magazine. I did not check whether that story's copyright was renewed. The film's own copyright does not control the underlying story.",
+          "source": "Wikipedia, Suddenly (1954 film)",
+          "url": "https://en.wikipedia.org/wiki/Suddenly_(1954_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was colorized twice, by Hal Roach Studios in 1986 and by Legend Films in 2009. The added color is potentially protectable new material. Use a black-and-white print to avoid it.",
+          "source": "Wikipedia, Suddenly (1954 film)",
+          "url": "https://en.wikipedia.org/wiki/Suddenly_(1954_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1981,
+      1982,
+      1983
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Suddenly” (renewals ~1981, 1982, 1983)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Suddenly"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Suddenly_1954",
+      "label": "Suddenly (1954), Internet Archive, about 76 minutes, described as a higher-quality copy",
+      "quality": "HD"
+    },
+    {
+      "url": "https://archive.org/details/suddenly-1954-by-lewis-allen",
+      "label": "Suddenly (1954) by Lewis Allen, Internet Archive, about 77 minutes",
+      "quality": "SD"
+    }
+  ],
+  "editorial": "Suddenly is a 76-minute thriller directed by Lewis Allen and released on October 7, 1954 by Libra Productions. In it, Frank Sinatra plays John Baron, the leader of three men who take over a house overlooking a small town's train station. Their target is a visiting politician. Sterling Hayden plays the sheriff. The screenplay is by Richard Sale, from his 1943 Blue Book story 'Active Duty', and David Raksin wrote the score. It is a common pick for noir compilations, because Sinatra is cast against type and it takes place almost entirely in one house.\n\nThe Internet Archive hosts several copies, and uploaders describe the film as public domain for lack of renewal. I could not confirm that against the Catalog of Copyright Entries or the Copyright Office catalog, so check those links before relying on the claim. Two traps apply to the film itself. The 1986 Hal Roach Studios and 2009 Legend Films colorizations add protectable new material, so use a black-and-white source. The 1943 source story has its own term, and I did not check its renewal status.",
+  "faq": [
+    [
+      "Is Suddenly (1954) in the public domain?",
+      "Probably, but I could not confirm it. The Internet Archive and Wikipedia say the copyright was not renewed. I found no primary renewal records, so search the Copyright Office public catalog and the 1981 to 1983 Catalog of Copyright Entries renewal volumes yourself first."
+    ],
+    [
+      "Can I use the colorized version?",
+      "Treat the 1986 Hal Roach and 2009 Legend Films colorizations as separately protected. Use a black-and-white print if you want to avoid the added color."
+    ]
+  ]
+}
