@@ -1,0 +1,98 @@
+{
+  "id": "manos-the-hands-of-fate-1966",
+  "title": "Manos: The Hands of Fate",
+  "year": 1966,
+  "country": "US",
+  "last_verified": "2026-10-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is in the public domain because Harold Warren failed to include a copyright notice. I could not reach a primary record (Copyright Office, CCE or a notice-failure document) in this session, so the layer stays undetermined until one is found.",
+          "source": "Wikipedia article on the film (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the soundtrack was composed by Russ Huddleston and Robert Smith Jr. I found no separate copyright registration for the music. Its status presumably follows the print, but I did not confirm that.",
+          "source": "Wikipedia article on the film (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay by Harold P. Warren. Wikipedia says Warren discovered the script had been copyrighted and registered in the Library of Congress, and he believes that copyright also applies to the film. I did not confirm that registration, or whether it was renewed. This is a possible rights trap.",
+          "source": "Wikipedia article on the film (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says Ben Solovey discovered the original 16mm workprint in 2011, and his Kickstarter campaign raised $48,000. Synapse Films released the restoration on Blu-ray on October 13, 2015, with an unrestored 'Grindhouse' version as a bonus feature. I did not confirm what that release adds beyond the film (new titles, score, or other material). A faithful restoration adds no new copyright, but any added material could be protected.",
+          "source": "Wikipedia article on the film (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1993,
+      1994,
+      1995
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Manos: The Hands of Fate” (renewals ~1993, 1994, 1995)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Manos:+The+Hands+of+Fate"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ManosTheHandsofFate_201508",
+      "label": "Manos: The Hands of Fate (1966), Internet Archive",
+      "quality": "unverified print; page confirms title and year 1966"
+    }
+  ],
+  "editorial": "Manos: The Hands of Fate is a Texas horror film written, directed and produced by Harold P. Warren, a fertilizer salesman from El Paso. It premiered on November 15, 1966, at the Capri Theater in El Paso as a benefit for the local cerebral palsy fund. It became a cult title after a Mystery Science Theater 3000 episode aired on January 30, 1993. A creator would want it for that fame: Torgo's theme, the Master, and the film's reputation as one of the worst ever made.\n\nThe print is widely described as public domain because Warren left off a copyright notice. I could not confirm that with a primary record, so this dossier does not call it verified. The separate traps are the screenplay, which Wikipedia says was copyrighted and registered on its own, and the 2015 Synapse Blu-ray. That release came from Ben Solovey's restoration of the 16mm workprint, and its added material is unconfirmed. Use a plain archive.org copy rather than a disc rip, and check the script and score before commercial use.",
+  "faq": [
+    [
+      "Can I reuse footage from Manos: The Hands of Fate?",
+      "The film is commonly said to be in the public domain because it was released without a copyright notice. I could not confirm that against a primary record, so check the Copyright Office and renewal records before relying on it. Use an archive.org copy, not a Blu-ray rip."
+    ],
+    [
+      "Is the Synapse restoration free to use?",
+      "Not safely. Anything the 2015 Synapse release adds, such as new titles or other material, may be protected on its own, and I did not confirm what it adds. Use a copy that has not been altered."
+    ]
+  ]
+}
