@@ -36,3 +36,8 @@ node_modules/
 logs/
 
 data/cce_cache/
+
+# local AI-tool config: never publish (carries private operator notes)
+AGENTS.md
+.cursor/
+.github/copilot-instructions.md
