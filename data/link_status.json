@@ -16,6 +16,11 @@
    "film": "white-zombie-1932",
    "kind": "evidence"
   },
+  "attack-of-the-50-foot-woman-1958_202510": {
+   "ok": true,
+   "film": "attack-of-the-50-foot-woman-1958",
+   "kind": "watch"
+  },
   "Beyond-Tomorrow-1940-CHRISTMAS": {
    "ok": true,
    "film": "beyond-tomorrow-1940",
@@ -261,11 +266,6 @@
    "film": "the-mark-of-zorro-1920",
    "kind": "watch"
   },
-  "the_monster": {
-   "ok": false,
-   "film": "the-monster-1925",
-   "kind": "watch"
-  },
   "the-navigator-1924": {
    "ok": true,
    "film": "the-navigator-1924",
@@ -428,11 +428,6 @@
   }
  },
  "repaired": [],
- "dropped": [
-  {
-   "film": "the-monster-1925",
-   "was": "the_monster"
-  }
- ],
+ "dropped": [],
  "unrepaired_evidence": []
 }
