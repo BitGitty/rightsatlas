@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-24",
+ "checked": "2026-10-25",
  "items": {
   "AChristmasCarol": {
    "ok": true,
@@ -262,7 +262,7 @@
    "kind": "watch"
   },
   "the_monster": {
-   "ok": true,
+   "ok": false,
    "film": "the-monster-1925",
    "kind": "watch"
   },
@@ -428,6 +428,11 @@
   }
  },
  "repaired": [],
- "dropped": [],
+ "dropped": [
+  {
+   "film": "the-monster-1925",
+   "was": "the_monster"
+  }
+ ],
  "unrepaired_evidence": []
 }
