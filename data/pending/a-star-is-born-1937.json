@@ -1,0 +1,108 @@
+{
+  "id": "a-star-is-born-1937",
+  "title": "A Star Is Born",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-10-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1965 (Vol 19, Nos 1-2). The 1937 film's 28th-year renewal window falls in 1965. I read the renewal listing in this volume's text (it includes a Selznick International renewal for The Young in Heart, 1938) and found no renewal entry for A Star Is Born. Under the STAR titles the July-December listing shows only A Star Is Hatched, The Star Reporter in Hollywood, The Star Reporter No. 3 and Starlets. I could not confirm the January-June half or the 1964 volume, so a manual check is advised.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1965 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Internet Archive item a-star-is-born-1937 carries a Creative Commons Public Domain Mark 1.0 on its metadata. This is a platform label, not a legal finding.",
+          "source": "Internet Archive metadata",
+          "url": "https://archive.org/details/a-star-is-born-1937"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score is by Max Steiner. As a sound film the recorded track normally shares the print's status, but I did not separately verify cue-sheet or publication history for the music.",
+          "source": "Internet Archive item for the film",
+          "url": "https://archive.org/details/a-star-is-born-1937"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay by Dorothy Parker, Alan Campbell and Robert Carson, from a story by William A. Wellman and Robert Carson. The plot closely resembles RKO's 1932 What Price Hollywood? and RKO reportedly considered legal action, though the film is not officially an adaptation. I did not check the copyright status of the earlier film's story.",
+          "source": "Wikipedia, A Star Is Born (1937 film), read for background only",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1937_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Lorber issued a Blu-ray in February 2012. Warner Archive Collection issued a Blu-ray in March 2022 with a 4K restoration from the original 35mm Technicolor negative plus bonus materials such as radio broadcasts and cartoons. A faithful restoration adds no new copyright, but the added extras and any new material can be protected.",
+          "source": "Wikipedia, A Star Is Born (1937 film), read for background only",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1937_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": "No renewal entry for A Star Is Born found in the 1965 Catalog of Copyright Entries motion picture renewal listing as read (July-December half confirmed for the STAR titles; January-June half and 1964 volume not confirmed).",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “A Star Is Born” (renewals ~1964, 1965, 1966)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Star+Is+Born"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1965 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/a-star-is-born-1937",
+      "label": "A Star is Born (1937), Internet Archive, 111 min, MPEG4",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "A Star Is Born (1937) is the Selznick International Pictures drama, released through United Artists, that premiered at Grauman's Chinese Theatre on 20 April 1937. It was shot in three-strip Technicolor, scored by Max Steiner, and starred Janet Gaynor and Fredric March. It was the first colour film nominated for the Best Picture Oscar. For a creator it is a complete, well-known studio feature and the only version of the story that is not controlled by a studio.\n\nThe print appears to be free because I found no 1965 renewal entry for it in the Catalog of Copyright Entries. That search is not complete: I could not confirm the January-June renewal half or the 1964 volume, so check them before relying on it. The trap is modern material. Warner Archive's 2022 Blu-ray has a 4K restoration from the Technicolor negative plus bonus extras, and the extras and any new additions are separate from the 1937 print. Use an Internet Archive copy or your own scan, not a ripped disc. The 1954 and later remakes are separate works with their own rights.",
+  "faq": [
+    [
+      "Can I use the 1937 A Star Is Born in my own video?",
+      "The 1937 print appears to be unrenewed and in the public domain, subject to the manual check noted above. Use a copy that does not carry modern added material. Do not use footage from the 1954, 1976 or 2018 versions, which are separate works."
+    ],
+    [
+      "Is the Warner Archive restoration free to reuse?",
+      "Not safely. A faithful restoration adds no new copyright, but the bonus radio broadcasts, cartoons and any new titles or additions on the disc can be protected. Ripping a copy-protected disc can also violate 17 U.S.C. 1201."
+    ]
+  ]
+}

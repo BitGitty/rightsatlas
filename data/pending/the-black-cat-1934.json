@@ -1,0 +1,97 @@
+{
+  "id": "the-black-cat-1934",
+  "title": "The Black Cat",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-10-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal's 1934 film. I could not confirm whether the film's copyright was renewed. The 1961 and 1962 CCE motion-picture volumes are on archive.org, but the text I could fetch covered only the opening portion of each file and showed no Black Cat entry. That is not a full renewal search, so no absence is claimed. Only the first 100,000 characters of each volume were read; the volumes are 912,788 and 826,602 characters long. Both are Jan-Jun volumes of current registrations.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, 1961 (Jan-Jun)",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1962 volume of the same series, same partial check and same result.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, 1962 (Jan-Jun)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is part of the Universal sound film, so it follows the print's status. The print's status is unresolved, so this layer is too.",
+          "source": "RightsAtlas analysis",
+          "url": "https://archive.org/details/the_black_cat_202608"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is credited to Poe's 1843 story, but Ulmer and screenwriter Peter Ruric wrote an original story, so the screenplay is Universal's own material and falls under the film's status. The Poe credit was retained for public interest. I did not fetch a page confirming the 1843 publication, so I make no term-expiry claim.",
+          "source": "Wikimedia Commons file page for the film's poster (on poster rights only); other details from search summaries",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Black_Cat_(1934_poster_-_Style_B).jpg"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Black Cat” (renewals ~1961, 1962, 1963)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Black+Cat"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the_black_cat_202608",
+      "label": "The Black Cat (1934) — Internet Archive upload, Edgar G. Ulmer",
+      "quality": "unverified user upload; metadata confirms title, creator Edgar G. Ulmer Jr., date May 3, 1934"
+    }
+  ],
+  "editorial": "The Black Cat is Universal's 1934 horror film directed by Edgar G. Ulmer and starring Boris Karloff and Béla Lugosi. It was the first of eight films the two stars made together. It carries a Poe credit but keeps only a trace of the 1843 story. Ulmer and Peter Ruric built the plot from scratch, which makes it Universal's own screenplay and not a public-domain adaptation.\n\nThe rights trap is that a film's status is not its poster's. Its poster art was reportedly not renewed and has lapsed, which is a separate work from the film. For the film itself, I could not confirm a renewal or its absence, because the 1961 and 1962 renewal-volume text I could fetch was incomplete. Until someone checks the full renewal volumes, treat the print as unconfirmed. Universal is the original owner and still owns whatever rights remain.",
+  "faq": [
+    [
+      "Is The Black Cat (1934) free to use?",
+      "Not confirmed. The poster art lapsed, but the film is a separate work whose renewal status I could not establish. Check the Stanford renewal database and the full CCE volumes before reusing it."
+    ],
+    [
+      "Does the Poe credit make the film public domain?",
+      "No. The film uses only a trace of Poe's story. Ulmer and Ruric's original screenplay and Universal's production are covered by the film's own copyright status, so the Poe source does not free the film."
+    ]
+  ]
+}
