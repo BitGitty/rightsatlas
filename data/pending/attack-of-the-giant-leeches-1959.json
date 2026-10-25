@@ -1,0 +1,103 @@
+{
+  "id": "attack-of-the-giant-leeches-1959",
+  "title": "Attack of the Giant Leeches",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-10-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item for this film is labelled with a Public Domain Mark and described as in the public domain 'due to lack of copyright renewal'. That is an uploader's claim, not a primary record. I could not read the Copyright Office renewal catalog for 1987 and did not find the film's 1959 registration in the part of the Jan-Jun 1959 CCE volume I read, so no notice or renewal finding is made here.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/attack-of-the-giant-leeches-1959-by-bernard-l.-kowalski"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film with music credited to Alexander Laszlo. The recorded track normally shares the film's status, so it stays undetermined until the print's renewal status is confirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/cco_attackofthegiantleeches"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay credited to Leo Gordon, produced by Gene Corman for Balboa Productions and released by American International Pictures on October 1, 1959. I found no source work, but I did not confirm that none exists.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/attack-of-the-giant-leeches-1959-by-bernard-l.-kowalski"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 2024 Blu-ray with director and cast interviews exists. The interviews are added material that can carry their own copyright. A faithful transfer of the film itself adds none. I did not identify the publisher or the transfer source.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/attack-of-the-giant-leeches-1959-by-bernard-l.-kowalski"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1986,
+      1987,
+      1988
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Attack of the Giant Leeches” (renewals ~1986, 1987, 1988)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Attack+of+the+Giant+Leeches"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1959 (archive.org) — check the July-December registration volume by hand",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/attack-of-the-giant-leeches-1959-by-bernard-l.-kowalski",
+      "label": "Attack of the Giant Leeches (1959) — 1080p transfer, Public Domain Mark on the item",
+      "quality": "1080p"
+    },
+    {
+      "url": "https://archive.org/details/cco_attackofthegiantleeches",
+      "label": "Attack of the Giant Leeches — older MP4 copy, listed as Public Domain",
+      "quality": "SD"
+    }
+  ],
+  "editorial": "Attack of the Giant Leeches is a swamp-horror B picture produced by Gene Corman through Balboa Productions and released by American International Pictures on October 1, 1959. Leo Gordon wrote the screenplay, and the cast includes Ken Clark, Yvette Vickers, Jan Shepard and Bruno VeSota. Reported figures put it at about $70,000, shot in eight days at the Los Angeles County Arboretum. That makes it a low-budget AIP double-bill title with many bargain DVD releases. Creators who want a cheap, recognisable monster-movie source will find plenty of copies.\n\nThe rights trap is that a public-domain label on a copy is not a finding. The Internet Archive uploaders say the copyright lapsed for lack of renewal, but this dossier did not confirm that from the Catalog of Copyright Entries or the Copyright Office renewal records. The film is a 1959 publication, so its status depends on whether the notice was proper and whether a 1987 renewal was filed. Until someone checks those records, treat the print as unconfirmed. Newer discs can also add protected extras, such as the interviews on a 2024 Blu-ray.",
+  "faq": [
+    [
+      "Is Attack of the Giant Leeches in the public domain?",
+      "It is widely reported to be, because the copyright was supposedly never renewed. This dossier could not confirm that from the primary records, so check the Stanford renewal database and the Copyright Office catalog before you build on it."
+    ],
+    [
+      "Can I use a recent Blu-ray or streaming copy?",
+      "Only with care. The film's own status is a separate question from added material. Interviews, commentary or new titles on a modern release can have their own copyright, and ripping a copy-protected disc can violate 17 U.S.C. 1201. The Internet Archive copies are the safer starting point."
+    ]
+  ]
+}

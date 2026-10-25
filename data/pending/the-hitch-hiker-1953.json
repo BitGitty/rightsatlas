@@ -1,0 +1,104 @@
+{
+  "id": "the-hitch-hiker-1953",
+  "title": "The Hitch-Hiker",
+  "year": 1953,
+  "country": "US",
+  "last_verified": "2026-10-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "registration",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1953 lists THE HITCH-HIKER, Filmakers, released by RKO Radio Pictures, 1953, 71 min., sd., b&w, 35mm, registration LP2463, dated 13Mar53. This confirms a timely original registration. I did not obtain the 1980-81 renewal volumes or a Copyright Office catalog search result, so non-renewal is not verified here.",
+          "source": "Catalog of Copyright Entries, Third Series, 1953 Motion Pictures and Filmstrips",
+          "url": "https://archive.org/details/catalogofcopyrig371213lib"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive uploader describes the 1953 print as 'PD due to lack of copyright renewal' with a Public Domain Mark. This is an uploader's claim, not a primary record.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-hitch-hiker-1953-by-ida-lupino"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Leith Stevens is the credited composer. The score was made for the film and probably follows the film's copyright status. I did not check separate registration or renewal records for the score.",
+          "source": "Wikipedia, The Hitch-Hiker (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Hitch-Hiker"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Billy Cook's 1950 killing spree, with screenplay by Ida Lupino and Collier Young. The story credit, uncredited because of the blacklist, goes to Daniel Mainwaring, with adaptation by Robert L. Joseph. I did not trace whether any separate published source work exists.",
+          "source": "Wikipedia, The Hitch-Hiker (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Hitch-Hiker"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "An Internet Archive upload titled 'restored, with intro and outro' (about 82 minutes, against about 71 minutes for the registered print) carries added material. I did not identify the restorer or what was added.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-hitch-hiker-1953-restored-movie-720p-hd"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1980,
+      1981,
+      1982
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Hitch-Hiker” (renewals ~1980, 1981, 1982)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Hitch-Hiker"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-hitch-hiker-1953-by-ida-lupino",
+      "label": "The Hitch-Hiker (1953), Internet Archive, Public Domain Mark, about 71 min",
+      "quality": "unrestored; runtime matches the registered 71-minute print"
+    }
+  ],
+  "editorial": "The Hitch-Hiker (1953) was directed by Ida Lupino for her company Filmakers and released by RKO Radio Pictures in March 1953. Lupino and Collier Young wrote the screenplay, loosely based on Billy Cook's 1950 killing spree, and Edmond O'Brien, Frank Lovejoy and William Talman star. Leith Stevens composed the score. It was registered for copyright as LP2463 on 13 March 1953. The Library of Congress selected it for the National Film Registry in 1998. Its fame and its widespread free copies make it an attractive film to reuse.\n\nThe trap is that the public domain status rests on a missed renewal, and I could not verify that here. I confirmed the 1953 registration. I did not find the 1980-81 renewal volumes or a Copyright Office catalog result. Free copies are labeled public domain by uploaders and by Wikipedia, which is not proof. Check the Copyright Office public records for 1980-82 renewals before commercial use. Also check which print you copy: the Internet Archive has a roughly 82-minute upload with added intro and outro material, against the registered 71-minute print.",
+  "faq": [
+    [
+      "Is The Hitch-Hiker (1953) in the public domain?",
+      "It was registered in March 1953 (LP2463). It is widely described as public domain through non-renewal, but I did not confirm a missing renewal in the 1980-82 records. Search publicrecords.copyright.gov yourself before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The 71-minute copy at archive.org/details/the-hitch-hiker-1953-by-ida-lupino matches the registered length. Avoid the roughly 82-minute upload with intro and outro, since the added material may have its own protection. Clear the music and story layers as well as the print."
+    ]
+  ]
+}
