@@ -3,7 +3,7 @@
   "title": "Carnival of Souls",
   "year": 1962,
   "country": "US",
-  "last_verified": "2026-10-24",
+  "last_verified": "2026-10-25",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,15 +11,15 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports that the US release lacked a copyright notice on the prints, which would put it in the US public domain, and that the foreign release marketed by Walter Manley did contain a copyright card. No primary record (Copyright Office catalog or Catalog of Copyright Entries) was fetched, so the layer is held at undetermined.",
+          "note": "Wikipedia reports that the US theatrical release failed to include a copyright notice on the prints, which would put it in the US public domain. It also reports that the foreign version distributed by Walter Manley did contain a copyright card. No primary record (Copyright Office catalog or Catalog of Copyright Entries) was fetched, so the layer is held at undetermined.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         },
         {
-          "type": "hosting",
-          "note": "The Internet Archive hosts the film (item CarnivalofSouls, 82 min), lists director Herk Harvey, and tags it with a Creative Commons public-domain license URL. This is the uploader's tag, not a rights determination.",
-          "source": "Internet Archive",
-          "url": "https://archive.org/details/CarnivalofSouls"
+          "type": "research_note",
+          "note": "The Internet Archive item CarnivalofSouls (runtime 01:22:59) lists director Herk Harvey, year 1962, and carries a Creative Commons public-domain license URL. This is the uploader's tag, not a rights determination.",
+          "source": "Internet Archive metadata",
+          "url": "https://archive.org/metadata/CarnivalofSouls"
         }
       ]
     },
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia credits Gene Moore with an original organ score. The score on the film's own track would normally share the print's status, which is itself unconfirmed by a primary record. No separate registration or renewal was checked. Any separately released soundtrack recording would be a different work.",
+          "note": "Wikipedia credits Gene Moore with the film's organ score. A score recorded on the film's own track would normally share the print's status, which is itself unconfirmed by a primary record. No separate registration or renewal was checked. A separately released soundtrack recording would be a different work.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
@@ -50,7 +50,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No active mark was identified, but no trademark database was searched. The 1998 remake came after producer Peter Soby negotiated rights to the title from Herk Harvey and John Clifford, and it is a separate work.",
+          "note": "No active mark was identified, but no trademark database was searched. The 1998 remake (Wes Craven Presents Carnival of Souls) came after producer Peter Soby negotiated rights to the title from Herk Harvey and John Clifford. It is a separate work.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
@@ -61,7 +61,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new US copyright: copying or restoring public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration ADDS can be protected, such as a newly composed or recorded score, new titles or subtitles, and other original additions. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright. Slavish copying of public-domain works without originality is not protected (Bridgeman Art Library v. Corel Corp., 36 F. Supp. 2d 191, S.D.N.Y. 1999, following Feist v. Rural, 1991). What a restoration adds, such as a newly composed or recorded score, new titles or subtitles, commentary or other original material, can be protected. Separately, ripping a copy-protected Blu-ray or DVD can break the DMCA's anti-circumvention rule (17 U.S.C. 1201) even when the film itself is public domain.",
           "source": "Bridgeman Art Library v. Corel Corp. (summary)",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
@@ -73,7 +73,7 @@
         },
         {
           "type": "research_note",
-          "note": "The Criterion Collection issued a 2-disc DVD set in 2000 with a 78-minute theatrical version and an 84-minute director's cut, then a 2016 DVD and Blu-ray reissue with restored versions. Any added commentary, subtitles or other original material on those discs may be protected.",
+          "note": "The Criterion Collection issued a 2-disc DVD set in 2000 with a 78-minute theatrical version and an 84-minute director's cut, then a 2016 DVD and Blu-ray reissue with a new restoration. Any added commentary, subtitles or other original material on those discs may be protected.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         }
@@ -84,10 +84,10 @@
     {
       "url": "https://archive.org/details/CarnivalofSouls",
       "label": "Carnival of Souls (1962) on the Internet Archive",
-      "quality": "Internet Archive item credited to Herk Harvey, 1962; 82-minute copy; uploader's public-domain license tag"
+      "quality": "Internet Archive item credited to Herk Harvey, 1962; runtime about 83 minutes; uploader's public-domain license tag"
     }
   ],
-  "editorial": "Carnival of Souls was made on a budget of about $33,000. Herk Harvey directed it from a John Clifford screenplay, and Gene Moore supplied an original organ score. It opened on September 26, 1962, with Herts-Lion International as distributor. A reuser wants it because Wikipedia reports the US release prints carried no copyright notice, which would put the US release in the public domain, and the Internet Archive hosts a copy tagged with a public-domain license.\n\nThe trap is that this status rests on a secondary source. Wikipedia also reports that the foreign release marketed by Walter Manley carried a copyright card. This dossier did not check the Copyright Office catalog or the renewal records, so print, score, story and trademark all stay undetermined. Criterion's 2000 DVD and 2016 restored release may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. The Internet Archive copy is the safer source to use.",
+  "editorial": "Carnival of Souls was made for about $33,000. Herk Harvey directed it from a John Clifford screenplay, and Gene Moore supplied the organ score. It opened on September 26, 1962, with Herts-Lion International as distributor. A reuser wants it because Wikipedia reports that the US theatrical prints carried no copyright notice, which would put the US release in the public domain, and the Internet Archive hosts a copy tagged with a public-domain license.\n\nThe trap is that this status rests on a secondary source. Wikipedia also reports that the foreign version distributed by Walter Manley did carry a copyright card. This dossier did not check the Copyright Office catalog or the Catalog of Copyright Entries, so print, score, story and trademark all stay undetermined. Criterion's 2000 DVD set and its 2016 restoration may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. The Internet Archive copy is the safer source to use.",
   "faq": [
     [
       "Can I upload or reuse Carnival of Souls?",
