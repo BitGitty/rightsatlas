@@ -1,0 +1,78 @@
+{
+  "id": "a-day-at-the-races-1937",
+  "title": "A Day at the Races",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-10-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal record or renewal-absence record was located for this film. The Stanford renewal DB page returned no readable content, and the 1964 CCE motion-picture volume (archive.org/details/catalogofc19643181213libr) was only partly scanned, with no entry found in the portion read. Absence from a partial scan proves nothing. A major-studio sound film of 1937 should be treated as protected until a renewal search shows otherwise.",
+          "source": "Internet Archive, Catalog of Copyright Entries, Motion Pictures 1964",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is part of the sound film's recorded track, so it would follow the print's status. The print's status is unresolved, so this is too.",
+          "source": "inference from print layer",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “A Day at the Races” (renewals ~1964, 1965, 1966)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Day+at+the+Races"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "A Day at the Races is the Marx Brothers' 1937 comedy, made by Loew's/Metro-Goldwyn-Mayer and released on June 11, 1937. It follows A Night at the Opera as a studio-backed Marx Brothers vehicle, and the film now sits in the Warner Bros. Discovery library. A creator would want it for the Groucho, Chico and Harpo routines, which are widely clipped and quoted.\n\nThe rights trap is that this is a major-studio sound film from 1937, and the queue's \"renewal absent\" flag is only a guess. This research did not confirm a missing renewal. The Stanford renewal database could not be read, and the 1964 Catalog of Copyright Entries volume was only partly scanned. Nothing here shows the film is free to reuse. Until a renewal search for the 1964 to 1966 window says otherwise, treat the print, the recorded score and the story material as protected. Do not publish it as public domain.",
+  "faq": [
+    [
+      "Is A Day at the Races in the public domain?",
+      "Not established. No renewal-absence record was found. MGM films of this period were usually renewed, so assume it is still protected until a Stanford renewal DB or CCE search proves otherwise."
+    ],
+    [
+      "How can I check the renewal myself?",
+      "Search the Stanford Copyright Renewal Database for the title, then browse the Catalog of Copyright Entries renewal volumes for 1964 to 1966 on archive.org. A film first published in 1937 had its renewal due in 1964 or 1965. If nothing turns up there, a renewal filed from 1978 on would appear in the Copyright Office public catalog at publicrecords.copyright.gov."
+    ]
+  ]
+}

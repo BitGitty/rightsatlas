@@ -1,0 +1,91 @@
+{
+  "id": "the-incredibly-strange-creatures-who-stopped-living-and-became-mixed-up-zombies-1964",
+  "title": "The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies",
+  "year": 1964,
+  "country": "US",
+  "last_verified": "2026-10-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Queue flags renewal as likely absent for the 1992 window, but I could not fetch a Catalog of Copyright Entries renewal volume or a Copyright Office catalog result in this session, so no renewal-absence citation is made. The Internet Archive item is labelled Public Domain Mark by its uploader, which is not a rights determination.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-incredibly-strange-creatures-who-stopped-living-and-became-mixed-up-zombies-1964"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to André Brummer and Libby Quinn; the score is part of the film's recorded track, so it likely follows the film's status, but no separate music registration or renewal was checked.",
+          "source": "Wikipedia article on the film (secondary)",
+          "url": "https://en.wikipedia.org/wiki/The_Incredibly_Strange_Creatures_Who_Stopped_Living_and_Became_Mixed-Up_Zombies"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay credited to Gene Pollock and Robert Silliphant, story to E. M. Kevke; no pre-existing source work identified, but no registration for the story was checked.",
+          "source": "Wikipedia article on the film (secondary)",
+          "url": "https://en.wikipedia.org/wiki/The_Incredibly_Strange_Creatures_Who_Stopped_Living_and_Became_Mixed-Up_Zombies"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1991,
+      1992,
+      1993
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies” (renewals ~1991, 1992, 1993)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Incredibly+Strange+Creatures+Who+Stopped+Living+and+Became+Mixed-Up+Zombies"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-incredibly-strange-creatures-who-stopped-living-and-became-mixed-up-zombies-1964",
+      "label": "Full film, about 81 minutes, Internet Archive upload",
+      "quality": "unknown; uploader notes modest source video quality"
+    }
+  ],
+  "editorial": "Ray Dennis Steckler directed and produced this horror musical in the US, releasing it on February 10, 1964 through Fairway International Pictures. He shot it for about $38,000 at a Masonic temple in Glendale, California, and also starred in it under the name Cash Flagg. Vilmos Zsigmond, who later won an Academy Award, worked on the cinematography. Creators come to it for its cult reputation, its carnival-and-zombie imagery and its musical numbers.\n\nThe rights question is the 1964 copyright. A film from that year is free only if it was published without a valid notice or its registration was never renewed in the 1991–1993 window. This dossier did not confirm either. The Internet Archive uploads carry a public-domain label, but that label comes from the uploader, not from a copyright record. Check the Copyright Office public records and the Catalog of Copyright Entries renewal volumes before relying on any copy. The score by André Brummer and Libby Quinn and the screenplay credits should be checked as part of the same search.",
+  "faq": [
+    [
+      "Is this film in the public domain?",
+      "Not confirmed. The queue suggests the 1964 copyright may not have been renewed, but this review found no primary renewal-absence record. Search the Copyright Office catalog and the Catalog of Copyright Entries renewal volumes yourself before reuse."
+    ],
+    [
+      "Does the Internet Archive's public-domain label settle it?",
+      "No. The label was applied by the uploader and is not a copyright record. Use it as a lead, and confirm the renewal status independently."
+    ]
+  ]
+}
