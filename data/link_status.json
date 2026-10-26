@@ -281,6 +281,11 @@
    "film": "the-mark-of-zorro-1920",
    "kind": "watch"
   },
+  "silent-the-monster": {
+   "ok": true,
+   "film": "the-monster-1925",
+   "kind": "watch"
+  },
   "the-navigator-1924": {
    "ok": true,
    "film": "the-navigator-1924",
