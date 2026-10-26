@@ -1,0 +1,96 @@
+{
+  "id": "the-invaders-1912",
+  "title": "The Invaders",
+  "year": 1912,
+  "country": "US",
+  "last_verified": "2026-10-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was released in the US on November 29, 1912. US copyright on works published before 1978 lasts 95 years, so a 1912 release expired by term long ago. Duke CSPD's Public Domain Day 2026 page states the 95-year term and that 1930 works entered the public domain on January 1, 2026, so 1912 works are well inside it.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent (40 min 41 s per the Internet Archive record). The images are free, but any music on a modern copy is a separate recording or composition and needs its own check.",
+          "source": "Internet Archive item record",
+          "url": "https://archive.org/details/the_invaders_1912"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive record says the film was restored by the Library of Congress from a 35mm print. A faithful restoration adds no new US copyright in the images. I did not confirm whether any release added a new score or new titles, so check each copy for those.",
+          "source": "Internet Archive item record",
+          "url": "https://archive.org/details/the_invaders_1912"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1939,
+      1940,
+      1941
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Invaders” (renewals ~1939, 1940, 1941)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Invaders"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the_invaders_1912",
+      "label": "The Invaders (1912) — Internet Archive, Library of Congress restoration from a 35mm print, 40 min 41 s",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/the-invaders-1912",
+      "label": "The Invaders (1912) — Internet Archive, credited to Francis Ford and Thomas H. Ince, 40 min 41 s",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Invaders is a 1912 silent Western from the New York Motion Picture Company, released through Mutual on November 29, 1912. Francis Ford and Thomas H. Ince are credited as directors. Ford plays Colonel James Bryson, Ethel Grandin plays his daughter, and Art Acord plays the telegrapher. The story is a broken treaty: railroad surveyors trespass on Sioux land, and a Sioux and Cheyenne uprising follows. Ince rented the Miller Bros. 101 Ranch Real Wild West Show for it, including its cowboys, buffalo and Oglala Sioux performers, and shot it at Inceville in Santa Monica.\n\nThe picture itself (the print) is free of US copyright by term expiry, and the Internet Archive carries two copies marked public domain. The trap is what comes attached to a copy. The Library of Congress preserved the film, and the National Film Preservation Foundation put it on a 2004 DVD collection, but I did not confirm what any release adds. If a copy carries a newly composed score or newly written intertitles, that added material can be protected even though the images are not. Use a copy with no added music, or clear the music separately. I did not trace the story's source, so that layer stays open.",
+  "faq": [
+    [
+      "Can I reuse footage from The Invaders in my own video?",
+      "Yes, the 1912 images are free of US copyright by term expiry. Check the specific copy for a modern score, new intertitles or other added material. Those additions can still be protected, so strip them or clear them."
+    ],
+    [
+      "Does the Library of Congress restoration create a new copyright?",
+      "A faithful restoration of a public-domain film adds no new US copyright in the images. Only what it adds, such as a new score or new titles, can be protected. I did not confirm that the Library of Congress copy adds either."
+    ]
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "from-the-manger-to-the-cross-1912",
+  "title": "From the Manger to the Cross",
+  "year": 1912,
+  "country": "US",
+  "last_verified": "2026-10-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "First released in October 1912 (London 3 Oct, New York 17 Oct), by Kalem. US copyright on works published in 1930 or earlier has expired by term; the Duke Center for the Study of the Public Domain lists 1930 works as open to all from 1 January 2026, so a 1912 release is well inside that.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1912 film was silent. A 1938 re-release added a musical sound track and spoken commentary (per the Wikipedia article on the film). That added material, and any score on a modern copy, is a separate work and may still be protected.",
+          "source": "Wikipedia, From the Manger to the Cross",
+          "url": "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film retells the life of Jesus from the New Testament, and director Sidney Olcott modelled many shots on James Tissot's illustrations for The Life of Our Saviour Jesus Christ (1896-1897). Both sources were published long before 1930, so they are out of US copyright by term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia article on the film says Reverend Brian Hession found negatives in old film vaults in the 1930s and added a musical sound track and spoken commentary for a 1938 re-release. A faithful copy of the 1912 images adds no new US copyright, but the added sound track and commentary may be protected. Check which version you are copying.",
+          "source": "Wikipedia, From the Manger to the Cross",
+          "url": "https://en.wikipedia.org/wiki/From_the_Manger_to_the_Cross"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1939,
+      1940,
+      1941
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “From the Manger to the Cross” (renewals ~1939, 1940, 1941)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=From+the+Manger+to+the+Cross"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/JesusOfNazareth1912",
+      "label": "From the Manger to the Cross; or, Jesus of Nazareth (Kalem, dir. Sidney Olcott), about 92 min. The metadata lists sound, so this may be a later sound version.",
+      "quality": "Internet Archive item. Version and source not documented."
+    },
+    {
+      "url": "https://archive.org/details/FromTheMangerToTheCross1912",
+      "label": "From the Manger to the Cross (1912), about 70 min",
+      "quality": "Internet Archive item. The uploader credits Vitagraph, which looks like a mislabel because Kalem made the film. No score information."
+    }
+  ],
+  "editorial": "From the Manger to the Cross is Kalem's five-reel life of Christ, directed by Sidney Olcott from a scenario by Gene Gauntier, who also plays the Virgin Mary. It was shot on location in Palestine and Egypt, with Robert Henderson-Bland as Jesus. It premiered in London on 3 October 1912 and in New York on 17 October, and ran roughly 70 minutes. Reports put its cost at about $35,000 against nearly $1 million in profit for Kalem. The Library of Congress added it to the National Film Registry in 1998. A creator might want the location footage and the Tissot-inspired tableaux for documentary, church or education work.\n\nThe 1912 images are free in the US because the work was published too long ago for any copyright to last. The trap is the version you pick. A 1938 re-release added a musical sound track and spoken commentary by Reverend Brian Hession, and the Internet Archive has at least one copy listed with sound, which may be that version or a later one. Take a silent, untitled transfer, or add your own music and titles, and you avoid the added material. No active trademark is known for the title, but that layer is unchecked.",
+  "faq": [
+    [
+      "Can I reuse the 1912 footage in a commercial video?",
+      "The images from the 1912 release are in the US public domain by term expiry, so yes for the picture. Check each copy for added material first. The 1938 sound track and commentary, any later score, and any new titles on a transfer are separate and may still be protected."
+    ],
+    [
+      "Is the Internet Archive copy safe to use as-is?",
+      "Not automatically. One listing is about 92 minutes and tagged as having sound, so it may be a later sound version. Another runs about 70 minutes and credits Vitagraph, which looks like a mislabel. Listen for narration or music, and if you hear any, strip the audio and use only the picture."
+    ]
+  ]
+}
