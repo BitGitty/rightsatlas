@@ -3,7 +3,7 @@
   "title": "Scrooge (A Christmas Carol)",
   "year": 1951,
   "country": "GB",
-  "last_verified": "2026-10-24",
+  "last_verified": "2026-10-26",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 (Odeon Marble Arch) and opened in the US on 28 Nov 1951 as 'A Christmas Carol' at the Guild 50th Theatre in New York, so the US opening came within 30 days of the UK premiere. Under 17 U.S.C. 104A(h)(6), a restored work must not have been published in the US within 30 days of its first publication in an eligible country, so restoration may not apply. A theatrical opening is not necessarily 'publication' in the legal sense, so this point is also unresolved. The film's US status would then depend on whether it carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record could be checked, so no renewal-absence finding is claimed.",
+          "note": "Not verified. The film premiered in the UK on 22 Nov 1951 (Odeon Marble Arch) and was released in the US on 28 Nov 1951 as 'A Christmas Carol', six days later. Under 17 U.S.C. 104A(h)(6), a restored work must not have been published in the US within 30 days of its first publication in an eligible country, so URAA restoration may not apply. Whether a theatrical release counts as 'publication' in the legal sense is also unresolved. The US status would then depend on whether the film carried a proper notice and was renewed in 1979. No Catalog of Copyright Entries renewal volume or Copyright Office record could be checked, so no renewal-absence finding is claimed.",
           "source": "17 U.S.C. 104A (Cornell LII)",
           "url": "https://www.law.cornell.edu/uscode/text/17/104A"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "VCI released the film on Blu-ray in 2009 and reissued it in 2011 with a remastered transfer and additional bonus content. Added material such as bonus features, new titles or new elements can carry its own copyright, while a faithful transfer adds none.",
+          "note": "VCI released the film on Blu-ray in 2009 and issued a remastered edition in 2011 with expanded bonus materials. Added material such as bonus features, new titles or new elements can carry its own copyright, while a faithful transfer adds none.",
           "source": "Release history on the film's reference page",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1951_film)"
         }
@@ -81,18 +81,18 @@
     {
       "url": "https://archive.org/details/a-christmas-carol-scrooge-1951",
       "label": "A Christmas Carol: Scrooge (1951), full feature, 86 min, Internet Archive",
-      "quality": "1080p source, 86-minute feature"
+      "quality": "960x720 MPEG4, 86-minute feature"
     }
   ],
-  "editorial": "Scrooge (1951) is George Minter Productions' version of Dickens' story, directed by Brian Desmond Hurst from a screenplay by Noel Langley, with a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. In the US, it was released as 'A Christmas Carol' on 28 November 1951, opening at the Guild 50th Theatre in New York. That is the title a reuser must search under for US records.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US openings came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 and 2011 VCI Blu-ray releases carry their own added material.",
+  "editorial": "Scrooge (1951) is George Minter Productions' British version of Dickens' story, directed by Brian Desmond Hurst from a screenplay by Noel Langley, with Alastair Sim in the title role and a score by Richard Addinsell. It opened at the Odeon Marble Arch on 22 November 1951. United Artists released it in the US on 28 November 1951 under the title 'A Christmas Carol', which is the title a reuser must search under for US records.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US releases came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 and 2011 VCI Blu-ray releases carry their own added material.",
   "faq": [
     [
       "Is the 1951 Scrooge in the public domain in the US?",
-      "Not confirmed. Dickens' 1843 story is free. For the film, the UK premiere (22 Nov 1951) and US opening (28 Nov 1951) fall within 30 days, which can take it outside URAA restoration, so the outcome rests on notice and renewal. Check renewal records for 1978 to 1980 under both titles yourself before relying on it."
+      "Not confirmed. Dickens' 1843 story is free. For the film, the UK premiere (22 Nov 1951) and US release (28 Nov 1951) fall within 30 days, which can take it outside URAA restoration, so the outcome rests on notice and renewal. Check renewal records for 1978 to 1980 under both titles yourself before relying on it."
     ],
     [
       "Can I use the VCI Blu-ray transfer?",
-      "A faithful copy of a free print adds no new copyright, but the VCI releases include bonus features and other added material that can be protected. Copying a copy-protected disc can also violate 17 U.S.C. 1201, so use an uploaded source copy instead."
+      "A faithful copy of a free print adds no new copyright, but the VCI releases include bonus materials and other added content that can be protected. Copying a copy-protected disc can also violate 17 U.S.C. 1201, so use an uploaded source copy instead."
     ]
   ]
 }
