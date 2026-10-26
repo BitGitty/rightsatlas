@@ -1,0 +1,91 @@
+{
+  "id": "flash-gordon-conquers-the-universe-1940",
+  "title": "Flash Gordon Conquers the Universe",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-10-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released 1940 by Universal Pictures, so it is not free by term. Public domain would depend on a missing renewal in 1967-1968, and I could not confirm the absence of a renewal. The Stanford renewal database search returned no usable result in this session. I did not check the Catalog of Copyright Entries volumes or the Copyright Office catalog.",
+          "source": "Stanford Copyright Renewal DB",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound serial. The recorded track would normally share the print's status, which is unresolved. Composer credits were not confirmed in this session.",
+          "source": "research note",
+          "url": "https://archive.org/details/flash_gordon1"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial adapts Alex Raymond's Flash Gordon comic strip, syndicated by King Features. The strip's copyright and the character rights are separate from the film's copyright and are not shown to be expired.",
+          "source": "Wikipedia summary of the serial, used as a lead only",
+          "url": "https://archive.org/details/flash_gordon1"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Flash Gordon Conquers the Universe” (renewals ~1967, 1968, 1969)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Flash+Gordon+Conquers+the+Universe"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/flash_gordon1",
+      "label": "Flash Gordon Conquers the Universe pt. 1 (Universal Pictures; Ford Beebe and Ray Taylor; 19 min)",
+      "quality": "MPEG2 original with MP4 derivative"
+    }
+  ],
+  "editorial": "Flash Gordon Conquers the Universe is the third and last of Universal's Flash Gordon serials. It is a 12-chapter, black-and-white sound serial from 1940, directed by Ford Beebe and Ray Taylor and adapted from Alex Raymond's King Features comic strip. The Internet Archive holds copies of the chapters, and one uploader labels them public domain. That label is the uploader's, not a finding from a copyright record.\n\nThe trap is that two rights sit under this title. Universal owned the 1940 film copyright, and it is unconfirmed whether that copyright was renewed in the 1967-1968 window. Separately, the Flash Gordon characters and strip belong to King Features and do not lapse with the film. Check the renewal records before reusing the footage, and expect a character-rights claim even if the film itself is free.",
+  "faq": [
+    [
+      "Is Flash Gordon Conquers the Universe public domain?",
+      "Not established. The film is from 1940, so it is free only if its copyright was never renewed. I could not confirm that either way. Archive.org copies are labeled public domain by their uploaders, which is not proof."
+    ],
+    [
+      "Can I use the Flash Gordon character in a new work?",
+      "Not safely. The film's status does not decide the character rights, because the strip and characters come from King Features' comic. Clear them separately."
+    ]
+  ]
+}

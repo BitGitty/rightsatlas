@@ -1,0 +1,109 @@
+{
+  "id": "the-lodger-1927",
+  "title": "The Lodger",
+  "year": 1927,
+  "country": "UK",
+  "last_verified": "2026-10-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was published in 1927. Duke CSPD's 2023 Public Domain Day page states that copyrighted works from 1927 entered the US public domain on January 1, 2023, and lists The Lodger: A Story of the London Fog among the films.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "This is a UK-origin film. Any US copyright restored under the URAA in 1996 ran for the remainder of the 95-year term from 1927 publication, so it ended with 2022. Duke CSPD lists the film among the works that entered the US public domain on 1 January 2023.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images are free. Any music on a modern copy is a separate work or recording. One Internet Archive upload has a reviewer complaint about modern music added to the film. Wikipedia lists orchestral scores by Ashley Irwin (1999) and Douglas Pipes (2014); these were not checked against a primary source, so treat them as unverified.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-lodger-a-story-of-the-london-fog-1927"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Marie Belloc Lowndes's 1913 novel The Lodger. A 1913 publication is well past its US term. This rests on the year only; the publication year was read on Wikipedia and not checked against a primary source.",
+          "source": "Wikipedia, The Lodger: A Story of the London Fog",
+          "url": "https://en.wikipedia.org/wiki/The_Lodger:_A_Story_of_the_London_Fog"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 2012 digital restoration was made under the BFI's 'Save the Hitchcock 9' project. A faithful restoration adds no new US copyright in the film. Added material such as new scores or titles can still be protected, so use a clean pre-restoration copy or check what was added.",
+          "source": "Wikipedia, The Lodger: A Story of the London Fog",
+          "url": "https://en.wikipedia.org/wiki/The_Lodger:_A_Story_of_the_London_Fog"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Lodger” (renewals ~1954, 1955, 1956)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Lodger"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-lodger-a-story-of-the-london-fog-1927-by-alfred-hitchcock",
+      "label": "The Lodger, A Story of the London Fog (1927) by Alfred Hitchcock — Open Source Movies upload",
+      "quality": "unverified score; runtime about 90 minutes"
+    },
+    {
+      "url": "https://archive.org/details/the-lodger-a-story-of-the-london-fog-1927",
+      "label": "The Lodger: A Story of the London Fog (1927) — 720p upload, 68 minutes",
+      "quality": "720p; a reviewer reports added modern music"
+    }
+  ],
+  "editorial": "The Lodger: A Story of the London Fog is Alfred Hitchcock's 1927 silent thriller, made by Gainsborough Pictures and released in the UK on 14 February 1927. It follows a mysterious lodger in a London boarding house during a spate of murders of blonde women, and a detective who suspects he is the killer. Hitchcock's first thriller was released in the US in 1928 under the title The Case of Jonathan Drew. Duke's Public Domain Day 2023 page lists it among the 1927 films that entered the US public domain.\n\nThe film's images are free to reuse in the US, but the music is not necessarily free. It is a silent film, so every copy you find carries someone's score. The orchestral scores and the 2012 BFI restoration of the film's pictures are separate from the 1927 print. The Internet Archive uploads differ in running time, and one has a reviewer note about added modern music. Check the audio before reusing a copy, or use the picture alone and score it yourself.",
+  "faq": [
+    [
+      "Can I use The Lodger (1927) in my own video in the US?",
+      "Yes, for the 1927 film itself. Duke CSPD lists it among the 1927 works that entered the US public domain on 1 January 2023. The risk lies in the copy you pick: a modern score or added titles on that copy may still be protected."
+    ],
+    [
+      "Does the 2012 BFI restoration make the film protected again?",
+      "Not for the film itself. A faithful restoration of a public-domain film adds no new US copyright. New scores, titles or other added material can be protected, so take a copy without them or check what the restorer added."
+    ]
+  ]
+}
