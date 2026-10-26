@@ -3,7 +3,7 @@
   "title": "House on Haunted Hill",
   "year": 1959,
   "country": "US",
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-10-26",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -17,7 +17,7 @@
         },
         {
           "type": "research_note",
-          "note": "The title in the renewal record, 'House on a haunted hill', differs from the film's release title 'House on Haunted Hill'. No renewal was found under the exact title. Whether RE0000318809 covers the William Castle film or a differently titled work is uncertain. Some web sources assert the film's copyright was never renewed, but they cite no Copyright Office record, so they do not settle the question. Other sources say the film's copyright was renewed, but they do not cite a record either.",
+          "note": "The title in the renewal record, 'House on a haunted hill', differs from the film's release title 'House on Haunted Hill'. No renewal was found under the exact title. Whether RE0000318809 covers the William Castle film or a differently titled work is uncertain. Web sources conflict: some assert the copyright was never renewed, others say it was renewed, and none of them cite a Copyright Office record that settles the question.",
           "source": null,
           "url": null
         }
@@ -90,7 +90,7 @@
     {
       "url": "https://archive.org/details/house_on_haunted_hill_1959-fhd",
       "label": "House on Haunted Hill (1959, Full HD) — Internet Archive",
-      "quality": "HD; uploader marks it Public Domain Mark 1.0 (an uploader claim, not a ruling)"
+      "quality": "Full HD (1920x1080); uploader marks it Public Domain Mark 1.0 (an uploader claim, not a ruling)"
     }
   ],
   "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive. A creator can find ready-to-use copies there. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is not settled. A 1986 renewal, RE0000318809, was filed by Revival Pictures for a motion picture titled 'House on a haunted hill' from Allied Artists, and that title does not match the film exactly, so it is unclear whether it covers this film. The clear trap is the theme song. Its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723. It is protected whatever the status of the film print.",
