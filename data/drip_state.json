@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-25",
+  "last_release": "2026-10-26",
   "log": [
     {
       "date": "2026-08-31",
@@ -224,6 +224,10 @@
     {
       "date": "2026-10-25",
       "film": "attack-of-the-50-foot-woman-1958"
+    },
+    {
+      "date": "2026-10-26",
+      "film": "a-bucket-of-blood-1959"
     }
   ]
 }
