@@ -3,7 +3,7 @@
   "title": "The Last Man on Earth",
   "year": 1964,
   "country": "IT",
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-10-27",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The two Internet Archive items carry different designations. TheLastManOnEarthHD is marked Public Domain Mark 1.0 and TheLastManOnEarth_72 is marked CC0 1.0 (checked in the items' metadata). Both are uploader labels, not rights determinations. The film was released in the US on May 6, 1964. A US work published in 1964 would normally be protected for 95 years, until 2060, so public domain status would depend on a missing copyright notice or a missing renewal. Secondary sources say the film fell into the public domain through a failure to renew, but no Catalog of Copyright Entries renewal volume or Copyright Office renewal record was located in this session, so the print status is not confirmed.",
-          "source": "Cornell University Library — Copyright & Fair Use: Public Domain",
-          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+          "note": "The two Internet Archive items carry different labels. TheLastManOnEarthHD has a Public Domain Mark 1.0 license URL and TheLastManOnEarth_72 has a CC0 1.0 license URL (checked in the items' metadata). Both are uploader labels, not rights determinations. The film was released in the US in 1964. For works first published 1964–1977, the Copyright Renewal Act of 1992 made renewal automatic, so a missed renewal cannot by itself have put a 1964 US film into the public domain. Any public domain status would therefore have to rest on a failure of the copyright notice, and no document establishing that was located in this session. The common claim online that the film was lost through a failure to renew is not supported by this reading.",
+          "source": "U.S. Copyright Office — Circular 15a: Duration of Copyright",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
         },
         {
           "type": "uraa_analysis",
-          "note": "This is a US–Italian co-production (Associated Producers Inc. and Produzioni La Regina). The URAA (1994) restored US copyright for foreign works still protected in their home country on the restoration date, even if US protection had been lost through a formality failure. Whether the Italian co-producers or authors bring restoration into play depends on the work's eligibility as a foreign work and on Italian term rules. Neither was verified in this session, so the restoration question is unresolved.",
+          "note": "The film is credited as a US–Italian co-production. The URAA (1994) restored US copyright for eligible foreign works still protected in their home country, even where US protection had been lost through a formality failure. Whether the work counts as an eligible foreign work, and what its Italian term was, was not verified in this session, so the restoration question is unresolved.",
           "source": "Cornell University Library — Copyright & Fair Use: Public Domain (URAA section)",
           "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         }
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a sound film, with a score credited to Paul Sawtell and Bert Shefter. The recorded score in the soundtrack normally shares the film print's copyright status, so the score layer follows the unresolved print layer. No separate registration of the score was located.",
+          "note": "This is a sound film, and its recorded score normally shares the film print's copyright status, so the score layer follows the unresolved print layer. No separate score registration was located in this session.",
           "source": "Internet Archive — TheLastManOnEarth_72 metadata",
           "url": "https://archive.org/details/TheLastManOnEarth_72"
         }
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film adapts Richard Matheson's 1954 novel I Am Legend, and Matheson wrote the screenplay with William F. Leicester, taking the pen name Logan Swanson. The novel is a separate copyrighted work that is treated as still in force. Under Stewart v. Abend, a derivative work cannot be exploited during the underlying work's copyright term without the owner's permission, so the source story can restrict reuse of the film regardless of the print's status. The novel's registration and renewal records were not pulled in this session.",
+          "note": "The Internet Archive description for the film says it draws on Richard Matheson's novel. The novel is a separate copyrighted work that is treated as still in force. Under Stewart v. Abend, a derivative work cannot be exploited during the underlying work's copyright term without the owner's permission, so the source story can restrict reuse of the film whatever the print's status. The novel's registration and renewal records were not pulled in this session.",
           "source": "Stewart v. Abend, 495 U.S. 207 (1990) — Cornell Law School Legal Information Institute",
           "url": "https://law.cornell.edu/supremecourt/text/495/207"
         }
@@ -50,7 +50,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No trademark registration for the title or the I Am Legend franchise was checked in this session. The source novel has been adapted commercially more than once, so avoid franchise naming in titles or branding.",
+          "note": "No trademark registration for the title or related franchise names was checked in this session. The source novel has been adapted commercially more than once, so avoid franchise naming in titles or branding.",
           "source": null,
           "url": null
         }
@@ -73,7 +73,7 @@
         },
         {
           "type": "research_note",
-          "note": "Modern HD remasters and colorized versions carry new protectable elements.",
+          "note": "Modern HD remasters and colorized versions can carry new protectable elements.",
           "source": null,
           "url": null
         }
@@ -92,11 +92,11 @@
       "quality": "HD"
     }
   ],
-  "editorial": "The Last Man on Earth (1964) is a science fiction horror film starring Vincent Price as Dr. Robert Morgan, the only healthy survivor of a plague that has turned the rest of humanity into night-dwelling creatures. It was produced by Associated Producers Inc. and Produzioni La Regina, released in the US on May 6, 1964 and in Italy on August 19, 1964, with a score by Paul Sawtell and Bert Shefter. Two Internet Archive items host it, one labeled HD and one an alternate transfer. Both carry free-use labels, but the labels differ (Public Domain Mark 1.0 and CC0 1.0).\n\nThe rights trap has two parts. First, the print's free status is unconfirmed. A 1964 US publication would normally last until 2060 unless a notice or renewal was missed. Secondary sources say the renewal was missed, but this research found no primary record of it, and the film's Italian co-production origin leaves a possible URAA restoration claim open. Second, the film adapts Richard Matheson's 1954 novel I Am Legend, which is a separate work still treated as protected. Under Stewart v. Abend, a new commercial adaptation or reuse of the story can require a license from the source's owner even if the print itself is free.",
+  "editorial": "The Last Man on Earth (1964) is a science fiction horror film starring Vincent Price as Dr. Robert Morgan, the only healthy survivor of a plague that has turned the rest of humanity into night-dwelling creatures. It is an adaptation of Richard Matheson's novel, and it is widely circulated online. Two Internet Archive items host it, one labeled HD and one an alternate transfer. They carry different free-use labels: Public Domain Mark 1.0 on the HD item and CC0 1.0 on the other.\n\nThe rights trap has two parts. First, the print's free status is unconfirmed. Those labels are uploader designations. Because renewal became automatic in 1992 for works published from 1964 to 1977, the popular explanation that the film lapsed through a missed renewal does not hold up, and any public domain claim would have to rest on a notice failure that this research did not document. The film's US–Italian co-production origin also leaves a possible URAA restoration question open. Second, Matheson's novel is a separate work still treated as protected. Under Stewart v. Abend, a new commercial adaptation or reuse of the story can require a license from the novel's owner even if the print itself were free.",
   "faq": [
     [
       "The film is hosted everywhere as public domain. Is that confirmed?",
-      "No. The Internet Archive's Public Domain Mark and CC0 labels are uploader designations. A 1964 US film is protected until 2060 unless it lost protection through a missing notice or renewal, and this research did not locate a primary record showing either. Its US–Italian co-production origin also leaves a possible URAA restoration claim unresolved."
+      "No. The Internet Archive's Public Domain Mark and CC0 labels are uploader designations. Renewal was automatic for works published 1964–1977, so a missed renewal is not a route to public domain for this film. Only a failure of the copyright notice could be, and this research found no record showing that. The US–Italian co-production origin also leaves a URAA restoration claim unresolved."
     ],
     [
       "Can I make a new adaptation based on this film?",

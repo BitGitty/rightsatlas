@@ -3,7 +3,7 @@
   "title": "The Monster",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-10-12",
+  "last_verified": "2026-10-27",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The Monster was released on February 22, 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021.",
+          "note": "The Monster was released in 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021.",
           "source": "Duke CSPD Public Domain Day 2021 (works from 1925)",
           "url": "https://cspd.law.duke.edu//publicdomainday/2021/"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording and may be protected. Check the source of the soundtrack on any copy you use."
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording and may be protected. Wikipedia's film page says Turner Classic Movies has shown it with an alternative, uncredited musical score. Check the source of the soundtrack on any copy you use."
         }
       ]
     },
@@ -59,8 +59,14 @@
     "negative_result": null,
     "diy_links": []
   },
-  "watch": [],
-  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and starring Lon Chaney as Dr. Gustave Ziska. Johnny Arthur plays Johnny Goodlittle, an amateur detective. It was produced by Roland West Productions and Tec-Art, and released February 22, 1925. A creator would want it for the Chaney performance and its mix of laughs and thrills.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications expired at the end of 2020. The trap is the layers around the print. Any score on a modern copy is a separate work. The film adapts Crane Wilbur's 1922 stage play, and whether that play was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-the-monster",
+      "label": "The Monster (1925) on the Internet Archive",
+      "quality": "Internet Archive MP4 (about 454 MB), silent print"
+    }
+  ],
+  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and starring Lon Chaney as Dr. Gustave Ziska. Johnny Arthur plays Johnny Goodlittle, an amateur detective, with Gertrude Olmstead and Hallam Cooley in support. It was produced by Roland West Productions and Tec-Art and distributed by Metro-Goldwyn Pictures. A creator would want it for the Chaney performance and its mix of laughs and thrills.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications expired at the end of 2020. The trap is the layers around the print. Any score on a modern copy is a separate work. The film adapts Crane Wilbur's 1922 stage play, and whether that play was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
   "faq": [
     [
       "Can I use footage from The Monster (1925) in my own video?",
