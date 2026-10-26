@@ -1,6 +1,16 @@
 {
  "checked": "2026-10-26",
  "items": {
+  "a-bucket-of-blood-1959": {
+   "ok": true,
+   "film": "a-bucket-of-blood-1959",
+   "kind": "evidence"
+  },
+  "BucketOfBlood720p1959": {
+   "ok": true,
+   "film": "a-bucket-of-blood-1959",
+   "kind": "watch"
+  },
   "AChristmasCarol": {
    "ok": true,
    "film": "a-christmas-carol-1910",
