@@ -1,0 +1,97 @@
+{
+  "id": "the-little-princess-1939",
+  "title": "The Little Princess",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-10-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1967 (Vol 21), the volume covering the film's 28th-year renewal window (1939 + 28). The renewal section was read in text-extracted form in several passes (not every page was read line by line). The film's 1939 release and renewal due in 1967 are from the film's Wikipedia page. No 'The Little Princess' renewal entry was found; the nearby 'Little' entries seen were 'The Little Lost Sheep', 'Little Nellie Kelly' and 'Little Old Bus'.",
+          "source": "Library of Congress, Catalog of Copyright Entries 1967 Motion Pictures (archive.org scan)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1968 (Vol 22), checked for a late renewal filing. Only partly read (text from 700,000 to 800,000 characters of 890,140). No 'The Little Princess' entry was found in the part read. Seen there: 'The Little Foxes' renewals.",
+          "source": "Library of Congress, Catalog of Copyright Entries 1968 Motion Pictures (archive.org scan)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film with its soundtrack recorded on the film itself. The track shares the film's copyright status and lapsed with the film. Separately published sheet music or recordings of any songs were not researched here and are not covered by this finding.",
+          "source": "Wikipedia, The Little Princess (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Little_Princess_(1939_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Frances Hodgson Burnett's novel 'A Little Princess', published in 1905. A work published in 1905 is out of copyright in the US by term.",
+          "source": "Wikipedia, The Little Princess (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Little_Princess_(1939_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": "No renewal for 'The Little Princess' was found in the 1967 Catalog of Copyright Entries motion-picture volume, which covers the film's 28th year. A partial read of the 1968 volume also found none.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Little Princess” (renewals ~1966, 1967, 1968)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Little+Princess"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheLittlePrincess1939",
+      "label": "The Little Princess (1939) – Internet Archive, about 93 minutes, Shirley Temple, dir. Walter Lang",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Little Princess (1939) is Twentieth Century-Fox's adaptation of Frances Hodgson Burnett's 1905 novel A Little Princess, directed by Walter Lang with Shirley Temple as Sarah Crewe. Wikipedia describes it as her first film shot entirely in Technicolor and as costing over $1 million. It was released on March 10, 1939. Its main appeal to a reuser is the star and the color footage, and the Internet Archive hosts a roughly 93-minute copy.\n\nThe film appears to have entered the public domain through a missing renewal, not through age. In the 1967 Catalog of Copyright Entries, the volume for its 28th year, the search found no renewal entry. That finding rests on a text-extracted read of the catalog, so a manual check of the Stanford renewal database is worth doing before commercial use. The trap is the source of the copy. Newer Technicolor-derived transfers or restorations may add protected material such as new titles or color work, and no specific restoration was identified here. Use a clean source and check what the particular copy adds.",
+  "faq": [
+    [
+      "Is The Little Princess (1939) in the public domain in the US?",
+      "The evidence points that way. No copyright renewal was found in the 1967 Catalog of Copyright Entries, the volume for the film's 28th year. The novel it is based on dates from 1905. The check was a text-extracted read, so confirm against the Stanford renewal database before relying on it commercially."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "The film itself is likely free to reuse. What a particular transfer or restoration adds, such as new titles, a replaced score or color work, may be separately protected. Check the copy you use for added material. Also, the Internet Archive's own description does not guarantee the copy's source or quality."
+    ]
+  ]
+}

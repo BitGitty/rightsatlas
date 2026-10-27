@@ -1,0 +1,96 @@
+{
+  "id": "the-bat-1959",
+  "title": "The Bat",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-10-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia and Internet Archive uploader descriptions call the film public domain, but I did not find a primary record. The January–June 1959 and 1960 Catalog of Copyright Entries motion-picture volumes were only partly read: about the first 100,000 characters of each, and The Bat did not appear in that portion. No 1986–1988 renewal volume was located. No search of the Copyright Office public catalog was completed. A renewal absence is therefore not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1959 (partial read)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to Louis Forbes. In a sound film the recorded track normally shares the film's copyright status, so this layer stays open until the print's renewal status is settled.",
+          "source": "Wikipedia, The Bat (1959 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Bat_(1959_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Mary Roberts Rinehart's 1908 novel The Circular Staircase and the 1920 play The Bat, written with Avery Hopwood. Those sources are old enough that they should not restrict reuse, but I did not confirm this against a primary record. Crane Wilbur's 1959 screenplay is new material that depends on the film's own status.",
+          "source": "Wikipedia, The Bat (1959 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Bat_(1959_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1986,
+      1987,
+      1988
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Bat” (renewals ~1986, 1987, 1988)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Bat"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-bat-1959_202504",
+      "label": "The Bat (1959), Internet Archive upload credited to Crane Wilbur",
+      "quality": "MKV and MP4 copies"
+    },
+    {
+      "url": "https://archive.org/details/the-bat-1959-vincent-price-agnes-moorehead",
+      "label": "The Bat (1959), Vincent Price and Agnes Moorehead, 80 min, Open Source Movies",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Bat is Crane Wilbur's 1959 thriller, written and directed by him. Liberty Pictures made it and Allied Artists distributed it, with a US release on December 17, 1959. Vincent Price plays Dr. Malcolm Wells and Agnes Moorehead plays the mystery writer Cornelia van Gorder. It was Darla Hood's last film role. It is the fourth screen version of the story Mary Roberts Rinehart first told in her 1908 novel The Circular Staircase and later turned into a 1920 play with Avery Hopwood. Several free copies sit on the Internet Archive, which makes it an easy pick for a horror-night program or a Price retrospective.\n\nThe rights trap is that those free copies are not proof. Pages that call the film public domain are secondary. For a 1959 release, public domain status depends on a missing notice or on no renewal in the 1986–1988 window, and I did not confirm either from a primary record. The January–June 1959 and 1960 Catalog of Copyright Entries motion-picture volumes were only partly read. No renewal volume was found and the Copyright Office catalog was not searched. Run the three search links above before relying on the print. The score by Louis Forbes follows the film's own status, and Wilbur's screenplay is new material layered over the older Rinehart sources.",
+  "faq": [
+    [
+      "Can I use The Bat (1959) in my own project?",
+      "Not yet on this evidence. The film is widely described as public domain, but no primary renewal search has confirmed it. Search the Stanford renewal database and the Copyright Office public catalog yourself first. If both show no renewal, the print is likely free to reuse."
+    ],
+    [
+      "Does the Rinehart and Hopwood source matter for reuse?",
+      "Only for the story. The film adapts a 1908 novel and a 1920 play. Wilbur's 1959 screenplay is new material, and its status depends on the film's own copyright. Neither the story layer nor the score is settled until the print question is."
+    ]
+  ]
+}
