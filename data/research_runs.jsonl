@@ -282,3 +282,5 @@
 {"date": "2026-10-27", "id": "carnival-of-souls-1962", "result": "refreshed", "reasons": []}
 {"date": "2026-10-28", "id": "the-revenge-of-tarzan-1920", "result": "blocked", "reasons": ["crash KeyError: 'layers'"]}
 {"date": "2026-10-28", "id": "below-zero-1930", "result": "queued", "reasons": []}
+{"date": "2026-10-28", "id": "santa-claus-conquers-the-martians-1964", "result": "refreshed", "reasons": []}
+{"date": "2026-10-28", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
