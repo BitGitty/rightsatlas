@@ -1,0 +1,89 @@
+{
+  "id": "below-zero-1930",
+  "title": "Below Zero",
+  "year": 1930,
+  "country": "US",
+  "last_verified": "2026-10-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Released April 26, 1930 by MGM (produced by Hal Roach), so US copyright ran out by term when the 1930 publication cohort entered the public domain on January 1, 2026. Duke CSPD Public Domain Day 2026 page confirms 1930 works entered the US public domain.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound short. The recorded track was published with the 1930 film and shares its term status. The characters perform the song 'In the Good Old Summer Time' on screen; I did not confirm that composition's own publication date, so the layer is left undetermined rather than asserted.",
+          "source": "Wikipedia film article (background only)",
+          "url": "https://en.wikipedia.org/wiki/Below_Zero_(1930_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1957,
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Below Zero” (renewals ~1957, 1958, 1959)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Below+Zero"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/halroachtworeeltalkies",
+      "label": "Hal Roach Two Reel Talkies (1929-1936) — includes Below Zero as file 026, 640x480, about 20.6 min",
+      "quality": "standard-definition compilation copy"
+    },
+    {
+      "url": "https://archive.org/details/laurel-hardy-the-complete-collection-of-shorts-from-1930-2026",
+      "label": "Laurel & Hardy: Complete Collection of Shorts from 1930 — compilation listing Below Zero",
+      "quality": "compilation of 1930 shorts"
+    }
+  ],
+  "editorial": "Below Zero is a Laurel & Hardy two-reeler directed by James Parrott and produced by Hal Roach, released through Metro-Goldwyn-Mayer on April 26, 1930. Stan and Ollie try to make money as street musicians in winter, play to an Institute for the Deaf, find a wallet that turns out to belong to a policeman, and end in a restaurant where an angry waiter dunks Stan in water. A Spanish-language version, Tiembla y Titubea, was also made, with the pair reading phonetic lines from offscreen blackboards.\n\nThe film's 1930 publication puts the print in the US public domain by term, with no renewal question to settle. The trap is everything around the print: a modern copy may carry a newly recorded score or added titles, the Spanish version is a separate production, and the Laurel and Hardy names and likenesses are a separate matter from the film's copyright. Check the exact source copy before reuse.",
+  "faq": [
+    [
+      "Is the Below Zero film print free to reuse in the US?",
+      "Yes for the print. It was released in 1930, and 1930 works entered the US public domain on January 1, 2026 according to Duke's Public Domain Day page. Check any specific copy for added music or titles."
+    ],
+    [
+      "Does that clear the Laurel and Hardy names and likenesses?",
+      "No. Expired film copyright does not settle trademarks or publicity rights in the performers' names and images. Those are separate and not verified here, so check before using them on merchandise or in branding."
+    ]
+  ]
+}

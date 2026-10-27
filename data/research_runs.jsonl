@@ -280,3 +280,5 @@
 {"date": "2026-10-27", "id": "the-maltese-falcon-1931", "result": "queued", "reasons": []}
 {"date": "2026-10-27", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
 {"date": "2026-10-27", "id": "carnival-of-souls-1962", "result": "refreshed", "reasons": []}
+{"date": "2026-10-28", "id": "the-revenge-of-tarzan-1920", "result": "blocked", "reasons": ["crash KeyError: 'layers'"]}
+{"date": "2026-10-28", "id": "below-zero-1930", "result": "queued", "reasons": []}
