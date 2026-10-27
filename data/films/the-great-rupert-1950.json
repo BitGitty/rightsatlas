@@ -3,7 +3,7 @@
   "title": "The Great Rupert",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-10-27",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia states the film entered the public domain in 1978 because the 28-year term lapsed without renewal. This is a secondary claim. No Catalog of Copyright Entries renewal volume or Copyright Office record could be retrieved in this session (the Stanford renewal database page returned no content), so non-renewal is not established here.",
+          "note": "Wikipedia states the film entered the public domain in 1978. That is a secondary claim. No Catalog of Copyright Entries renewal volume or Copyright Office record was retrieved in this session, so non-renewal is not established here.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Music is credited to Leith Stevens. The recorded soundtrack of a sound film normally shares the film's own copyright status, so the score likely follows the print, but neither has been verified. No separate score registration or renewal was checked.",
+          "note": "The recorded soundtrack of a sound film normally shares the film's own copyright status, so the score likely follows the print. Neither the print nor any separate score registration or renewal has been verified.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia credits the story to Ted Allen and the adaptation to László Vadnay, and says the film was originally known as Money, Money, Money and was based on a story by Ted Allen purchased by Pal in June 1948. Whether the story was published earlier, and whether any copyright in it was renewed, was not verified.",
+          "note": "The underlying story, its earlier publication and any renewal of its copyright were not verified in this session.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "In 2003, 20th Century Fox and Legend Films released a colorized version titled A Christmas Wish, which includes audio commentary by Terry Moore. Colorization and added commentary can carry their own copyright. A faithful copy of the black-and-white original adds none.",
+          "note": "In 2003, Fox and Legend Films released a colorized version titled A Christmas Wish. Colorization can carry its own copyright. A faithful copy of the black-and-white original adds none.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -84,15 +84,15 @@
       "quality": "Internet Archive item; the metadata record lists it as a movie directed by Irving Pichel. Playback quality not checked."
     }
   ],
-  "editorial": "The Great Rupert (1950) was produced by George Pal and directed by Irving Pichel. Jimmy Durante, Tom Drake and Terry Moore star, and Eagle-Lion Films distributed it in the US from March 1, 1950. Its title character is Rupert, an animated squirrel who acts as a guardian angel to a family living in an apartment. Leith Stevens composed the score. The film was originally called Money, Money, Money and was based on a story by Ted Allen that Pal bought in June 1948. László Vadnay is credited with the adaptation.\n\nThe film is widely reported to have entered the public domain in 1978 because its copyright was not renewed. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries renewal volumes and the Copyright Office catalog yourself. The practical trap is the 2003 Legend Films colorization, released with 20th Century Fox as A Christmas Wish. The colorization and the Terry Moore commentary may be protected separately, so source a black-and-white print rather than that release. The status of the underlying story and the Leith Stevens score is also unchecked.",
+  "editorial": "The Great Rupert (1950) is an American comedy-fantasy produced by George Pal and directed by Irving Pichel, with Jimmy Durante, Tom Drake and Terry Moore. Eagle-Lion Films released it on March 1, 1950. Its title character is Rupert, an animated squirrel who helps two struggling families, and the Internet Archive describes him as a Christmas \"guardian angel\". A creator might want it for the Pal stop-motion squirrel work and its holiday setting.\n\nThe film is reported to have entered the public domain in 1978, which would mean its copyright was not renewed. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries renewal volumes and the Copyright Office catalog yourself. The practical trap is the 2003 colorized release from Fox and Legend Films, titled A Christmas Wish. The colorization may be protected separately, so source a black-and-white print instead. The status of the underlying story and the score is also unchecked.",
   "faq": [
     [
       "Is The Great Rupert free to use?",
-      "It is widely reported as unrenewed and in the public domain, but this dossier did not verify that against the renewal records, and the story and score were not checked either. Check the 1977 to 1979 renewal records before relying on it."
+      "It is reported as being in the public domain since 1978, but this dossier did not verify that against the renewal records, and the story and score were not checked either. Check the 1977 to 1979 renewal records before relying on it."
     ],
     [
       "Can I use the colorized A Christmas Wish version?",
-      "Not safely. The 2003 Legend Films colorization, released with 20th Century Fox, and its commentary may carry their own copyright. Use a black-and-white copy of the original instead."
+      "Not safely. The 2003 colorization released by Fox and Legend Films may carry its own copyright. Use a black-and-white copy of the original instead."
     ]
   ]
 }
