@@ -1,0 +1,109 @@
+{
+  "id": "blackmail-1929",
+  "title": "Blackmail",
+  "year": 1929,
+  "country": "UK",
+  "last_verified": "2026-10-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Blackmail was released in the UK in July 1929. A US work first published in 1929 reached the end of its 95-year term at the end of 2024, and Duke CSPD lists Hitchcock's Blackmail among the 1929 works that entered the US public domain on 1 January 2025.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2025/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "The film is a UK production, so the 1996 URAA restoration has to be checked. Restored copyright runs only for the remainder of the term a US work of the same publication year would have had, and the 95-year term for a 1929 publication ended on 31 December 2024. Nothing was left to restore, so URAA restoration does not keep the print protected.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2025/"
+        }
+      ]
+    },
+    "score": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "This is a sound film, and the recorded track is part of the 1929 release, so it shares the print's status. Songs or compositions that were published separately from the film (for example Billy Mayerl's 'Miss Up-to-Date', per Wikipedia) were not independently checked.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2025/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is based on Charles Bennett's 1928 play 'Blackmail'. I could not confirm whether or when the play text was published, and I did not check the play's own US status, so the story layer is unresolved.",
+          "source": "Wikipedia, Blackmail (1929 film)",
+          "url": "https://en.wikipedia.org/wiki/Blackmail_(1929_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the BFI restored the silent version in 2012 as part of its 'Save the Hitchcock 9' project. I did not check what that restoration added, such as a new score or titles. A faithful restoration adds no new US copyright, but any added material can be protected.",
+          "source": "Wikipedia, Blackmail (1929 film)",
+          "url": "https://en.wikipedia.org/wiki/Blackmail_(1929_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1956,
+      1957,
+      1958
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Blackmail” (renewals ~1956, 1957, 1958)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Blackmail"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/blackmail-1929-by-alfred-hitchcock",
+      "label": "Blackmail (1929), sound version, about 85 min, 1080p transfer",
+      "quality": "HD, sound version"
+    },
+    {
+      "url": "https://archive.org/details/blackmail-hitchcock-1929",
+      "label": "Blackmail Hitchcock 1929, about 85 min, sound",
+      "quality": "SD, sound version"
+    }
+  ],
+  "editorial": "Blackmail is Alfred Hitchcock's film for British International Pictures. It premiered at the Capitol Cinema in London on 28 July 1929 and is usually called the first British sound feature. BIP issued a silent version at the same time (6,740 feet) alongside the sound version (7,136 feet). Anny Ondra played Alice White, and Joan Barry spoke her lines. The cast also includes John Longden and Donald Calthrop. A creator gets Hitchcock's first sound thriller, with early dialogue, and a rooftop chase through the British Museum.\n\nThe print is free in the US. It was first published in 1929, so its term ended at the close of 2024, and Duke's Public Domain Day 2025 list names it. Being a UK film does not change that, because URAA restoration cannot revive a term that has already run out. The open question is the source. The film is based on Charles Bennett's 1928 play, and I could not confirm the play's publication or US status. Check that before you adapt the underlying story or reuse the dialogue as text. Check any modern restoration for added material too. This dossier did not confirm what the BFI's 2012 silent-version restoration added.",
+  "faq": [
+    [
+      "Can I upload or remix the 1929 sound version of Blackmail?",
+      "Yes for the film itself. A 1929 publication is out of US copyright by term, so the picture and the recorded track that came with it are free to use in the US. Do not assume a modern restoration, a newly added score, or newly added titles is free to copy. Treat the Charles Bennett play it is based on as a separate question that this dossier did not resolve."
+    ],
+    [
+      "Does it matter that Blackmail is a British film?",
+      "Not for the print. The URAA restored some foreign works, but only for the remainder of the US term, and a 1929 work's 95-year term ended on 31 December 2024. That ordinary term is why this film is in the US public domain. The rule applies in the US only, and the film may still be protected in the UK or elsewhere."
+    ]
+  ]
+}

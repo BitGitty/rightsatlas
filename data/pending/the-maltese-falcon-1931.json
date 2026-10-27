@@ -1,0 +1,84 @@
+{
+  "id": "the-maltese-falcon-1931",
+  "title": "The Maltese Falcon",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-10-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film from Warner Bros.; the recorded track shares the film's own status, so it stays undetermined until the print's renewal status is settled. I could not fetch the Stanford renewal database or the CCE renewal volumes in this session, so no renewal search result is cited.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-maltese-falcon-1931"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on Dashiell Hammett's novel The Maltese Falcon, published in 1930. Works from 1930 entered the US public domain on January 1, 2026, and the Duke Center for the Study of the Public Domain Public Domain Day 2026 page lists the full book version of Hammett's novel among them.",
+          "source": "Duke CSPD, Public Domain Day 2026",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Maltese Falcon” (renewals ~1958, 1959, 1960)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Maltese+Falcon"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-maltese-falcon-1931",
+      "label": "The Maltese Falcon (1931), 78 min, uploaded November 2024",
+      "quality": "Uploader reports MKV and MP4 versions; the MKV is the higher-quality file"
+    }
+  ],
+  "editorial": "Warner Bros. released this first sound adaptation of Dashiell Hammett's novel on June 13, 1931. Roy Del Ruth directed, Ricardo Cortez played Sam Spade and Bebe Daniels played Ruth Wonderly. It is the pre-Code version, made a decade before the Humphrey Bogart film. A creator might want it for its frank content: the Wikipedia article on the film says the bathing scenes, strip-search sequence and homosexual subtext were censored in later versions. The Library of Congress has held a print since the 1970s.\n\nThe trap is the film's own copyright. It is a 1931 Warner Bros. release, so it was not public domain by term when this dossier was written. It could be public domain only if the 28-year renewal was missed, and I could not confirm that either way, so the print is marked undetermined. The underlying novel, published in 1930, is public domain by term as of January 1, 2026, and Duke's Public Domain Day page lists it. That frees the source story but not Warner's film. Check the Stanford renewal database and the Catalog of Copyright Entries yourself before reusing the film.",
+  "faq": [
+    [
+      "Is the 1931 Maltese Falcon film free to reuse?",
+      "Not confirmed. The film was published in 1931, so term expiry does not cover it. It would be free only if Warner Bros. failed to renew the copyright. I could not verify a renewal search, so treat the print as undetermined until you have checked the Stanford renewal database and the Catalog of Copyright Entries."
+    ],
+    [
+      "Can I use Hammett's story or adapt the novel?",
+      "Yes for the 1930 novel. It was published in 1930 and entered the US public domain on January 1, 2026, and Duke's Public Domain Day 2026 page lists it. That does not free Warner's 1931 screenplay or the 1941 film. Check any character or franchise marks separately."
+    ]
+  ]
+}
