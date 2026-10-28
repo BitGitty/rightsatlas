@@ -91,6 +91,11 @@
    "film": "detour-1945",
    "kind": "evidence"
   },
+  "DOA1950": {
+   "ok": true,
+   "film": "doa-1950",
+   "kind": "watch"
+  },
   "go-west-1925": {
    "ok": true,
    "film": "go-west-1925",
