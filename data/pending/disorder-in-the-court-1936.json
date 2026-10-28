@@ -1,0 +1,103 @@
+{
+  "id": "disorder-in-the-court-1936",
+  "title": "Disorder in the Court",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-10-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia and a web-search summary say Columbia did not renew the copyright and that the short entered the public domain when the term lapsed in 1964. Neither is a primary source. I searched the Jan-Jun 1964 CCE motion-picture volume only partly: the first ~100,000 characters of the OCR text and a later span containing part of the renewal section. I found no entry for this title. I did not read the whole volume or the Jul-Dec 1964 volume, and I did not search the Copyright Office public catalog. Not enough to mark the print verified_pd.",
+          "source": "Wikipedia, Disorder in the Court; CCE 1964 Motion Pictures Jan-Jun (partial check)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound short with a recorded track. The track normally shares the film's status, so the score layer depends on the print's renewal result. Wikipedia describes an on-screen instrumental interlude by the Stooges (violin, harmonica, spoons, upright bass). It does not say who composed it, so I cannot clear it separately.",
+          "source": "Wikipedia, Disorder in the Court",
+          "url": "https://en.wikipedia.org/wiki/Disorder_in_the_Court"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original screenplay by Felix Adler, not an adaptation. Wikipedia says the swearing-in routine was borrowed nearly verbatim from Buster Keaton's 1931 film Sidewalks of New York, which Jules White also directed. I did not check that film's renewal status or who owns that material.",
+          "source": "Wikipedia, Disorder in the Court",
+          "url": "https://en.wikipedia.org/wiki/Disorder_in_the_Court"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "An Internet Archive upload describes itself as a 1080p rip allegedly taken from the Columbia Classics Volume 2 Blu-ray bonus disc. Whether that transfer adds anything protectable (new titles, score, colorization) is not confirmed. Ripping a Blu-ray can raise DMCA 17 U.S.C. 1201 issues.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/three-stooges-disorder-in-the-court-blu-ray-restoration"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": "Partial only. I read about the first 100,000 characters and one later span of the OCR text of the CCE Motion Pictures Jan-Dec 1964 volume (Jan-Jun 1964). I found no 'Disorder in the court' entry in either. I did not read the whole renewal section, the Jul-Dec 1964 volume, or the 1963 and 1965 volumes. I did not search publicrecords.copyright.gov. Wikipedia states the copyright lapsed in 1964, but that is secondary. Treat the renewal result as unconfirmed.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Disorder in the Court” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Disorder+in+the+Court"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/three-stooges-disorder-in-the-court-blu-ray-restoration",
+      "label": "Disorder in the Court (1936), 1080p Blu-ray rip upload",
+      "quality": "1080p, allegedly from the Columbia Classics Vol. 2 Blu-ray bonus disc"
+    },
+    {
+      "url": "https://archive.org/details/TheThreeStooges015DisorderInTheCourt1936CurlyLarryMoeDivXDaBaron16m38s",
+      "label": "Disorder in the Court (1936), 16m38s DivX rip",
+      "quality": "SD rip, runtime 16m38s"
+    }
+  ],
+  "editorial": "Disorder in the Court is Columbia's 15th Three Stooges short, released May 30, 1936. Preston Black directed, Felix Adler wrote it, and Jules White produced. Moe, Larry and Curly play star witnesses at a showgirl's murder trial, with Bud Jamison as the defense attorney and Suzanne Kaaren as the defendant. The swearing-in gag and the courtroom musical interlude are the reasons people reuse it. It is also the first Stooge short to spell Curly's name that way.\n\nThe usual account is that Columbia failed to renew the copyright, so the term ran out in 1964. That claim rests on Wikipedia and web summaries. I did not confirm it in a primary record, so the print is marked undetermined here. The practical trap is the source copy. The best-looking upload is described as a rip from a Columbia Classics Blu-ray, and a modern transfer can carry added titles or other material. Also, the swearing-in routine was borrowed nearly verbatim from Keaton's 1931 Sidewalks of New York, and I did not check that film's rights.",
+  "faq": [
+    [
+      "Is Disorder in the Court in the public domain?",
+      "It is widely reported to be, because Columbia is said not to have renewed the 1936 copyright. I did not confirm that in a primary record. Check the Stanford renewal database and the 1964 CCE volumes yourself before relying on it. Even if the print is free, the Stooges' name and likeness and any modern transfer are separate questions."
+    ],
+    [
+      "Can I use the Blu-ray rip on the Internet Archive?",
+      "Use a copy you can trace to a source you are allowed to take it from. The upload says it came from a Columbia Classics Blu-ray bonus disc. Ripping a copy-protected disc can break 17 U.S.C. 1201 even when the film itself is free. Added titles or other new material on a modern transfer can also be protected."
+    ]
+  ]
+}

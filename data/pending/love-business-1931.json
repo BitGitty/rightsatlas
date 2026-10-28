@@ -1,0 +1,91 @@
+{
+  "id": "love-business-1931",
+  "title": "Love Business",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-10-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "renewal_registration",
+          "note": "The Lucky Corner's Our Gang film page for No. 104 lists the copyright as claimed by Metro-Goldwyn-Mayer Pictures Corporation (LP1681) and renewed January 13, 1958 (R206653). The film was released February 14, 1931. A renewed 1931 work runs 95 years from publication, to the end of 2026. That page's statement that the copyright 'expired at the end of 2025' counts from the 1930 registration date and does not match the 1931 release, so I did not rely on it. I could not retrieve the Copyright Office or Stanford renewal record itself, so this renewal entry still needs checking against a primary record.",
+          "source": "The Lucky Corner, Our Gang Film No. 104",
+          "url": "https://www.theluckycorner.com/rmt/104.html"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "All music is credited to Leroy Shield and was recorded for the film. This is a sound film, so the track shares the film's status: renewed and protected until the end of 2026.",
+          "source": "The Lucky Corner, Our Gang Film No. 104",
+          "url": "https://www.theluckycorner.com/rmt/104.html"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits an original screenplay by H. M. Walker. I found no outside source work, so the story follows the film's own renewed copyright.",
+          "source": "Wikipedia, Love Business",
+          "url": "https://en.wikipedia.org/wiki/Love_Business"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Love Business” (renewals ~1958, 1959, 1960)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Love+Business"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/halroachtworeeltalkies",
+      "label": "Hal Roach Two Reel Talkies (contains '048 Love Business.mp4', about 20 min, 640x480)",
+      "quality": "SD, single file inside a 186-title collection"
+    }
+  ],
+  "editorial": "Love Business is the 104th Our Gang short. Robert F. McGowan directed it for Hal Roach and MGM, and it was released February 14, 1931. Jackie Cooper plays a boy in love with his teacher, Miss Crabtree (June Marlowe). She then boards at his house, and Chubby (Norman Chaney) courts her with poetry. The score is by Leroy Shield. It is a good pick for creators who want early sound-era Hal Roach material.\n\nThe rights trap is the date. One source lists the registration as October 26, 1930 and says the copyright expired at the end of 2025. The release was in 1931, and the film was renewed on January 13, 1958 (R206653), so the 95-year term should run through the end of 2026. On 2026-10-28 the film is still protected. Under that reading it enters the US public domain on January 1, 2027. Check the Copyright Office record before reuse. Because the soundtrack is part of the film, it follows the same clock.",
+  "faq": [
+    [
+      "Is Love Business in the public domain today?",
+      "Not yet, on the evidence I found. It was released February 14, 1931 and renewed in 1958 (R206653), so the 95-year term should run to the end of 2026. Some sites say it expired in 2025, but they appear to count from the 1930 registration date. Confirm against the primary renewal record."
+    ],
+    [
+      "Can I use the Internet Archive copy now?",
+      "A free upload is not a licence. Wait until the term ends, or get clearance from the rights holder, before commercial reuse. Once the term ends, the film's images and Leroy Shield's recorded music should follow the film's status. Check any modern additions to a particular copy separately."
+    ]
+  ]
+}
