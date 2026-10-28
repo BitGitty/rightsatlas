@@ -3,7 +3,7 @@
   "title": "The Last Man on Earth",
   "year": 1964,
   "country": "IT",
-  "last_verified": "2026-10-27",
+  "last_verified": "2026-10-29",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive description for the film says it draws on Richard Matheson's novel. The novel is a separate copyrighted work that is treated as still in force. Under Stewart v. Abend, a derivative work cannot be exploited during the underlying work's copyright term without the owner's permission, so the source story can restrict reuse of the film whatever the print's status. The novel's registration and renewal records were not pulled in this session.",
+          "note": "The Internet Archive metadata for the film says it is based on Richard Matheson's novel \"I am Legend\". The novel is a separate copyrighted work that is treated as still in force. Under Stewart v. Abend, a derivative work cannot be exploited during the underlying work's copyright term without the owner's permission, so the source story can restrict reuse of the film whatever the print's status. The novel's registration and renewal records were not pulled in this session.",
           "source": "Stewart v. Abend, 495 U.S. 207 (1990) — Cornell Law School Legal Information Institute",
           "url": "https://law.cornell.edu/supremecourt/text/495/207"
         }
@@ -73,9 +73,9 @@
         },
         {
           "type": "research_note",
-          "note": "Modern HD remasters and colorized versions can carry new protectable elements.",
-          "source": null,
-          "url": null
+          "note": "The Internet Archive HD item's metadata describes the upload as an HD restoration. Modern HD remasters can carry new protectable elements.",
+          "source": "Internet Archive — TheLastManOnEarthHD metadata",
+          "url": "https://archive.org/details/TheLastManOnEarthHD"
         }
       ]
     }
@@ -92,7 +92,7 @@
       "quality": "HD"
     }
   ],
-  "editorial": "The Last Man on Earth (1964) is a science fiction horror film starring Vincent Price as Dr. Robert Morgan, the only healthy survivor of a plague that has turned the rest of humanity into night-dwelling creatures. It is an adaptation of Richard Matheson's novel, and it is widely circulated online. Two Internet Archive items host it, one labeled HD and one an alternate transfer. They carry different free-use labels: Public Domain Mark 1.0 on the HD item and CC0 1.0 on the other.\n\nThe rights trap has two parts. First, the print's free status is unconfirmed. Those labels are uploader designations. Because renewal became automatic in 1992 for works published from 1964 to 1977, the popular explanation that the film lapsed through a missed renewal does not hold up, and any public domain claim would have to rest on a notice failure that this research did not document. The film's US–Italian co-production origin also leaves a possible URAA restoration question open. Second, Matheson's novel is a separate work still treated as protected. Under Stewart v. Abend, a new commercial adaptation or reuse of the story can require a license from the novel's owner even if the print itself were free.",
+  "editorial": "The Last Man on Earth (1964) is a science fiction horror film starring Vincent Price as Dr. Robert Morgan, the only healthy survivor of a plague that has turned the rest of humanity into night-dwelling creatures. The Internet Archive metadata credits Ubaldo Ragona and Sidney Salkow as directors and says it is based on Richard Matheson's novel \"I am Legend\". It is widely circulated online. Two Internet Archive items host it, one labeled HD and one a separate upload. They carry different free-use labels: Public Domain Mark 1.0 on the HD item and CC0 1.0 on the other.\n\nThe rights trap has two parts. First, the print's free status is unconfirmed. Those labels are uploader designations. Because renewal became automatic in 1992 for works published from 1964 to 1977, the popular explanation that the film lapsed through a missed renewal does not hold up, and any public domain claim would have to rest on a notice failure that this research did not document. The film's US–Italian co-production origin also leaves a possible URAA restoration question open. Second, Matheson's novel is a separate work still treated as protected. Under Stewart v. Abend, a new commercial adaptation or reuse of the story can require a license from the novel's owner even if the print itself were free.",
   "faq": [
     [
       "The film is hosted everywhere as public domain. Is that confirmed?",
