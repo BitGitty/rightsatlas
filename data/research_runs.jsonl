@@ -286,3 +286,5 @@
 {"date": "2026-10-28", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
 {"date": "2026-10-28", "id": "the-revenge-of-tarzan-1920", "result": "blocked", "reasons": ["crash PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\_tmp\\\\wintemp\\\\tmp4iwbkpbs'"]}
 {"date": "2026-10-28", "id": "love-business-1931", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
+{"date": "2026-10-28", "id": "plan-9-from-outer-space-1957", "result": "refreshed", "reasons": []}
+{"date": "2026-10-28", "id": "scrooge-1935", "result": "refreshed", "reasons": []}
