@@ -1,0 +1,88 @@
+{
+  "id": "the-flying-deuces-1939",
+  "title": "The Flying Deuces",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-10-29",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive metadata for a full-length copy says the film is public domain through lack of renewal. That is an uploader's claim, not a primary record. I did not confirm the absence of a renewal myself. The 1966 Motion Pictures CCE volume (about 828,000 characters) was only read for its first 100,000 characters, with no match. The 1967 volume timed out.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-flying-deuces-1939-by-a.-edward-sutherland"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score was not researched. A sound film's recorded track normally shares the film's own status, but no composer or music-rights source was checked.",
+          "source": "none",
+          "url": "https://archive.org/details/the-flying-deuces-1939-by-a.-edward-sutherland"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Flying Deuces” (renewals ~1966, 1967, 1968)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Flying+Deuces"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1966 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1967 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-flying-deuces-1939-by-a.-edward-sutherland",
+      "label": "The Flying Deuces (1939), full-length copy, about 68 min, directed by A. Edward Sutherland",
+      "quality": "unverified transfer; quality not assessed"
+    }
+  ],
+  "editorial": "The Flying Deuces is a 1939 Laurel and Hardy feature directed by A. Edward Sutherland. It was produced by Boris Morros Productions and released by RKO Radio Pictures on 3 November 1939. In it Ollie falls for an innkeeper's daughter in Paris and joins the Foreign Legion with Stan to forget her. A creator would want it as a mainstream Laurel and Hardy feature that circulates widely online.\n\nThe rights trap is that the print's status is not established here. An Internet Archive uploader says the film is public domain through non-renewal, but that is not a primary record. I did not confirm an absence of renewal in the 1966 or 1967 Catalog of Copyright Entries. Score, story and any restoration additions were not researched. Check the renewal volumes by hand before relying on any copy.",
+  "faq": [
+    [
+      "Is The Flying Deuces confirmed public domain in the US?",
+      "Not by this dossier. An Internet Archive uploader claims non-renewal, but I did not confirm it in the 1966 or 1967 Catalog of Copyright Entries or the Stanford renewal database. Search those yourself first."
+    ],
+    [
+      "Can I use any copy I find online?",
+      "Not safely. Some uploads are colorized, remastered or cut down (one Internet Archive copy runs about 44 minutes against about 68 for another). Any added music, colorization or new titles can carry their own protection even if the underlying film is free."
+    ]
+  ]
+}
