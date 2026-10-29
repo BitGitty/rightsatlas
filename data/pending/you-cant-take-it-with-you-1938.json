@@ -1,0 +1,92 @@
+{
+  "id": "you-cant-take-it-with-you-1938",
+  "title": "You Can't Take It with You",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-10-29",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A web search summary of the AFI Catalog said the film was copyrighted in 1938 and renewed in 1966 by Columbia Pictures Industries, Inc. I could not fetch the AFI page (HTTP 403) or the Stanford renewal database, so the renewal is unconfirmed. If it holds, it contradicts the queue's 'renewal_absent_likely' flag and the print is probably not public domain.",
+          "source": "AFI Catalog (search snippet only; page not fetched)",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/6329"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to Dimitri Tiomkin. A sound film's recorded track normally shares the film's copyright status, which is unresolved.",
+          "source": "Wikipedia, You Can't Take It with You (film)",
+          "url": "https://en.wikipedia.org/wiki/You_Can%27t_Take_It_with_You_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the 1936 Kaufman and Hart play, which won the Pulitzer Prize for Drama. I did not check the play's copyright or renewal.",
+          "source": "Wikipedia, You Can't Take It with You (film)",
+          "url": "https://en.wikipedia.org/wiki/You_Can%27t_Take_It_with_You_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 2015 digital restoration from surviving film elements, which removed dirt, tears and scratches, was done by Sony Pictures Studios with Cineric, MTI Film and Chace Audio by Deluxe. It appears to be a cleanup rather than new added material.",
+          "source": "Wikipedia, You Can't Take It with You (film)",
+          "url": "https://en.wikipedia.org/wiki/You_Can%27t_Take_It_with_You_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “You Can't Take It with You” (renewals ~1965, 1966, 1967)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=You+Can't+Take+It+with+You"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Frank Capra's 1938 Columbia Pictures adaptation of the Kaufman and Hart play won the Academy Award for Best Picture, and Capra took Best Director. Dimitri Tiomkin wrote the music. A creator would want it for the Capra and Tiomkin pedigree and the Best Picture standing.\n\nThe rights trap is the renewal. A search summary of the AFI Catalog reports a 1966 renewal by Columbia Pictures Industries, Inc. I could not confirm it in a primary record. If it is real, the print is likely still protected and the queue's 'renewal absent' flag is wrong. The 1936 play is a separate copyrighted source, and Sony's 2015 restoration is a further layer to check. Treat the film as not cleared until the renewal is checked by hand.",
+  "faq": [
+    [
+      "Is You Can't Take It with You (1938) public domain?",
+      "Not established. A search summary of the AFI Catalog reports a 1966 renewal by Columbia Pictures Industries, Inc. I could not verify it in a primary record. Check the Stanford renewal database and the 1966 Catalog of Copyright Entries before relying on it."
+    ],
+    [
+      "Can I use the Sony 2015 restoration?",
+      "Not without clearing the underlying film first. The restoration is reported as a cleanup of surviving elements. The film's own copyright status is unresolved, so the restored copy should be treated as controlled by Sony."
+    ]
+  ]
+}

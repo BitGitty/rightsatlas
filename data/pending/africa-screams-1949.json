@@ -1,0 +1,109 @@
+{
+  "id": "africa-screams-1949",
+  "title": "Africa Screams",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-10-29",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 30 (Motion Pictures, 1976). The A-to-CBS portion of the index was scanned for 'Africa Screams' and no entry was found. Only the first part of this very large file was read.",
+          "source": "Library of Congress CCE, Motion Pictures 1976, via Internet Archive",
+          "url": "https://archive.org/details/1976motionpictur3301213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 31 (Motion Pictures, 1977), the volume for the film's 28th-year renewal window. The A-to-CHI portion of the index was scanned and no 'Africa Screams' registration or renewal was found. Only the first part of this very large file was read, so a full manual check of the renewal listings is still advisable.",
+          "source": "Library of Congress CCE, Motion Pictures 1977, via Internet Archive",
+          "url": "https://archive.org/details/1977motionpictur3311213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track would normally share the print's status. I did not confirm the music credits or whether any cue was separately published or renewed, so I am leaving this layer undetermined.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/africa-screams-1949"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credited to Earl Baldwin (story) and Martin Ragaway and Leonard B. Stern (screenplay), with Charles Barton as director. I did not confirm whether it adapts any earlier published work, so I am leaving this layer undetermined.",
+          "source": "Wikipedia, Africa Screams",
+          "url": "https://en.wikipedia.org/wiki/Africa_Screams"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports that Bob Furmanek obtained the original nitrate and transferred it to 35mm for preservation in the late 1980s. It also reports a Kickstarter-funded Blu-ray restoration released in June 2020. I did not confirm what that release adds, such as new titles, commentary, or extras. A faithful restoration adds no new US copyright, but any added material could be protected.",
+          "source": "Wikipedia, Africa Screams",
+          "url": "https://en.wikipedia.org/wiki/Africa_Screams"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1976,
+      1977,
+      1978
+    ],
+    "negative_result": "No renewal found in the scanned index sections of the 1976 and 1977 CCE motion-picture volumes. The scan covered A to CBS in the 1976 volume and A to CHI in the 1977 volume. I did not run a Copyright Office public-catalog search, so that check is still open.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Africa Screams” (renewals ~1976, 1977, 1978)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Africa+Screams"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/africa-screams-1949",
+      "label": "Africa Screams (1949), Internet Archive, tagged Public Domain Mark 1.0",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/AfricaScreams",
+      "label": "Africa Screams, Internet Archive, Comedy Films collection",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Africa Screams is a 1949 Abbott and Costello safari comedy directed by Charles Barton. Wikipedia credits it to Huntington Hartford Productions and Nassour Studios, with United Artists as distributor. The Internet Archive description of the film mentions Clyde Beatty and Shemp Howard in the cast. A creator might want it for a recognizable comedy-team feature that is rarely licensed.\n\nThe print's status rests on a missing renewal. The 1949 copyright would have had to be renewed in 1977, and I found no renewal in the parts of the 1976 and 1977 Catalog of Copyright Entries indexes I read. Wikipedia reports that the film entered the public domain in 1977 after the distributor failed to renew. The trap is the modern restoration. A Kickstarter-funded Blu-ray appeared in 2020, and anything it adds, such as new titles or commentary, could be protected. A reuser should take footage from an older or archive-sourced copy, not from the Blu-ray. Music and story rights were not confirmed.",
+  "faq": [
+    [
+      "Can I reuse footage from Africa Screams?",
+      "The print appears to be free of US copyright because I found no renewal in the 1976 and 1977 catalog indexes I scanned. Treat that as strong but not final until the Copyright Office catalog and the full renewal listings are checked by hand. Music and story rights are undetermined."
+    ],
+    [
+      "Is the 2020 Blu-ray restoration safe to copy?",
+      "Don't assume so. A faithful restoration of a public-domain film adds no US copyright. But any added material, such as new titles, commentary, or extras, could be protected. Ripping a copy-protected disc can also break the DMCA, 17 U.S.C. 1201. Use the older archive.org copies instead."
+    ]
+  ]
+}
