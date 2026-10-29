@@ -3,7 +3,7 @@
   "title": "The Monster",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-10-27",
+  "last_verified": "2026-10-30",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The Monster was released in 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021.",
+          "note": "The Monster was released in 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021. Duke CSPD states that works from 1925 entered the US public domain on that date.",
           "source": "Duke CSPD Public Domain Day 2021 (works from 1925)",
           "url": "https://cspd.law.duke.edu//publicdomainday/2021/"
         }
@@ -49,7 +49,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No dedicated modern restoration was confirmed. A faithful copy adds no new US copyright, but a new score or added titles on a restored copy would be separately protected."
+          "note": "No dedicated modern restoration was confirmed. The Wikipedia film page mentions only a Turner Classic Movies presentation with an alternative, uncredited score. A faithful copy adds no new US copyright, but a new score or added titles on a restored copy would be separately protected."
         }
       ]
     }
@@ -63,7 +63,7 @@
     {
       "url": "https://archive.org/details/silent-the-monster",
       "label": "The Monster (1925) on the Internet Archive",
-      "quality": "Internet Archive MP4 (about 454 MB), silent print"
+      "quality": "Internet Archive silent-era print; check the copy for added music before reuse"
     }
   ],
   "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and starring Lon Chaney as Dr. Gustave Ziska. Johnny Arthur plays Johnny Goodlittle, an amateur detective, with Gertrude Olmstead and Hallam Cooley in support. It was produced by Roland West Productions and Tec-Art and distributed by Metro-Goldwyn Pictures. A creator would want it for the Chaney performance and its mix of laughs and thrills.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications expired at the end of 2020. The trap is the layers around the print. Any score on a modern copy is a separate work. The film adapts Crane Wilbur's 1922 stage play, and whether that play was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
