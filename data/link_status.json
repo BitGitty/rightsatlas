@@ -46,6 +46,11 @@
    "film": "beyond-tomorrow-1940",
    "kind": "evidence"
   },
+  "blotto_1930": {
+   "ok": true,
+   "film": "blotto-1930",
+   "kind": "watch"
+  },
   "Camille1921": {
    "ok": true,
    "film": "camille-1921",
