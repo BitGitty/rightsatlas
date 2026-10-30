@@ -313,3 +313,5 @@
 {"date": "2026-10-30", "id": "bride-of-the-monster-1955", "result": "queued", "reasons": []}
 {"date": "2026-10-30", "id": "santa-claus-conquers-the-martians-1964", "result": "refreshed", "reasons": []}
 {"date": "2026-10-30", "id": "scrooge-1935", "result": "refreshed", "reasons": []}
+{"date": "2026-10-31", "id": "city-lights-1931", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-10-31", "id": "m-1931", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
