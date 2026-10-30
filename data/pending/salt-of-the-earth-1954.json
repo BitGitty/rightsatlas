@@ -1,0 +1,96 @@
+{
+  "id": "salt-of-the-earth-1954",
+  "title": "Salt of the Earth",
+  "year": 1954,
+  "country": "US",
+  "last_verified": "2026-10-30",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A search result cites a copyright notice dated March 8, 1954, registration LP3558, held by Independent Productions Corp. Wikipedia and an Internet Archive uploader's description both say the copyright was not renewed (Wikipedia gives 1982). I could not fetch the Catalog of Copyright Entries renewal volumes or a Copyright Office record to confirm that, so the non-renewal is unverified here.",
+          "source": "Internet Archive item description (uploader's claim, not a primary record)",
+          "url": "https://archive.org/details/salt-of-the-earth-1954-by-herbert-biberman"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the composer as Sol Kaplan. It is a sound film, so the recorded track would normally share the film's status. I did not verify who owns the underlying music rights, or whether they were renewed separately.",
+          "source": "Internet Archive item page for the film",
+          "url": "https://archive.org/details/SaltOfTheEarth1954"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a digitally restored print released on DVD in 1999 by Organa through Geneon (Pioneer), packaged with a documentary about the Hollywood Ten, and says the Museum of Modern Art preserves the film. I did not confirm what that release added, such as new titles, subtitles or other material.",
+          "source": "Internet Archive item page for the film",
+          "url": "https://archive.org/details/salt-of-the-earth-1954-by-herbert-biberman"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1981,
+      1982,
+      1983
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Salt of the Earth” (renewals ~1981, 1982, 1983)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Salt+of+the+Earth"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/salt-of-the-earth-1954-by-herbert-biberman",
+      "label": "Salt of the Earth (1954), Internet Archive, 1080p, about 92 min, tagged Public Domain Mark",
+      "quality": "1080p MPEG4"
+    },
+    {
+      "url": "https://archive.org/details/SaltOfTheEarth1954",
+      "label": "Salt of the Earth (1954), Internet Archive, uploaded under Independent Productions",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Salt of the Earth (1954) was made by Independent Productions Corporation. Herbert J. Biberman directed from a screenplay by Michael Wilson, with music by Sol Kaplan. It tells of Mexican workers at a zinc mine who call a general strike. The women around them, their wives, mothers and daughters, are central to the win. The Library of Congress selected it for the National Film Registry in 1992. A creator would want it as a well-documented 1950s independent feature with a clear history and an easy-to-find source copy.\n\nThe rights question is the renewal. The film carried a 1954 copyright notice, registered as LP3558 to Independent Productions Corp., so it did not lose protection for a missing notice. Its status depends on whether anyone renewed the copyright in its 28th year. Wikipedia and an Internet Archive uploader both say the copyright was not renewed in 1982. This dossier could not confirm that against a Catalog of Copyright Entries volume or a Copyright Office record. Until someone runs that check, do not treat the print as cleared. Separately, the Sol Kaplan score and any added material in the 1999 Organa DVD release should be checked on their own.",
+  "faq": [
+    [
+      "Is Salt of the Earth in the public domain?",
+      "Wikipedia and an Internet Archive uploader both say its copyright was not renewed, which would put the film in the public domain. This dossier could not confirm that against a Copyright Office record or a Catalog of Copyright Entries renewal volume. The film did carry a 1954 notice and registration (LP3558), so it depends entirely on the missing renewal. Check the Stanford renewal database and the Copyright Office public records before reusing it commercially."
+    ],
+    [
+      "Can I use the Organa 1999 DVD restoration or the Internet Archive copy?",
+      "The Internet Archive copy is tagged Public Domain Mark by its uploader, but that tag is not proof. A faithful restoration adds no new US copyright. Anything it added, such as new titles, subtitles or music, could be protected. This dossier did not verify what the 1999 release added. Using the Internet Archive file avoids ripping a copy-protected disc."
+    ]
+  ]
+}

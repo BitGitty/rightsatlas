@@ -1,0 +1,77 @@
+{
+  "id": "bride-of-the-monster-1955",
+  "title": "Bride of the Monster",
+  "year": 1955,
+  "country": "US",
+  "last_verified": "2026-10-30",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal record was located: the Stanford renewal database and the Copyright Office public catalog could not be read in this session, and no Catalog of Copyright Entries renewal volume for 1982-1984 was found on archive.org. Renewal absence is therefore unproven. The queue marks it renewal_absent_likely.",
+          "source": "U.S. Copyright Office public records",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1982,
+      1983,
+      1984
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Bride of the Monster” (renewals ~1982, 1983, 1984)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Bride+of+the+Monster"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Popcornarchive-brideOfTheMonster1955",
+      "label": "Bride Of The Monster (1955) — Popcorn Archive upload, 720p, about 68 minutes",
+      "quality": "720p MP4"
+    }
+  ],
+  "editorial": "Bride of the Monster is the 1955 Ed Wood film in which Bela Lugosi plays a mad scientist who tries to create giant superhumans in his basement laboratory. Wood produced, directed and co-wrote it. Creators look for it because it is one of Lugosi's last major roles and is widely circulated online, including on the Internet Archive.\n\nThe trap is that wide circulation is not a copyright clearance. This dossier has not confirmed that the 1955 copyright went unrenewed in 1982-1984, because the renewal volumes and the Copyright Office catalog could not be checked here. Do the renewal search yourself before reusing the film. Any particular copy may also carry uploader edits: one Internet Archive upload says the uploader cleaned up damaged video spots. The music, the story and any restoration layers are not assessed here.",
+  "faq": [
+    [
+      "Is Bride of the Monster safe to reuse?",
+      "Not yet confirmed. The print's status depends on whether a renewal was filed in 1982-1984. Run the Stanford and Copyright Office searches linked above, and treat the score, any restoration and any trademark as separate questions."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Hosting on the Internet Archive is not a rights clearance. Use the copy only after the renewal check comes back clean, and be aware that uploaders sometimes clean up or alter a copy."
+    ]
+  ]
+}
