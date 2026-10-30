@@ -3,7 +3,7 @@
   "title": "Santa Claus Conquers the Martians",
   "year": 1964,
   "country": "US",
-  "last_verified": "2026-10-28",
+  "last_verified": "2026-10-30",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Renewal absence cannot make this 1964 film public domain. For a work first published in 1964, 17 U.S.C. 304(a)(3)(B) says a renewal application 'is not a condition of the renewal and extension of the copyright', so the renewal term attaches automatically. Public domain would have to rest on a missing copyright notice on the 1964 release prints, and I could not verify that from any source I fetched. Plagiarism Today and Wikipedia say the film is public domain in the US but do not document the basis.",
+          "note": "Renewal absence cannot make this 1964 film public domain. For a work first published in 1964, 17 U.S.C. 304(a)(3)(B) says a renewal application 'is not a condition of the renewal and extension of the copyright', so the renewal term attaches automatically. Public domain would have to rest on a missing copyright notice on the 1964 release prints, and I could not verify that from any source I fetched. Wikipedia and Plagiarism Today say the film is public domain in the US but do not document the basis.",
           "source": "Cornell LII, 17 U.S.C. 304",
           "url": "https://www.law.cornell.edu/uscode/text/17/304"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Sound film. The recorded soundtrack normally shares the film's status, so it is undetermined for the same reason as the print. I did not verify any separate music copyright or registration.",
+          "note": "Sound film. The recorded soundtrack normally shares the film's status, so it is undetermined for the same reason as the print. Wikipedia credits the music to Milton DeLugg. I did not verify any separate music copyright or registration.",
           "source": "Cornell LII, 17 U.S.C. 304",
           "url": "https://www.law.cornell.edu/uscode/text/17/304"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "I did not confirm the source of the story or whether it was published or registered separately from the film, so the story layer is undetermined.",
+          "note": "Wikipedia credits the story to Glenville Mareth and the screenplay to Paul L. Jacobson, so this looks like an original screenplay rather than an adaptation of an older published work. I did not find any separate publication or registration of the story, so the story layer follows the print and is undetermined.",
           "source": "Cornell LII, 17 U.S.C. 304",
           "url": "https://www.law.cornell.edu/uscode/text/17/304"
         }
@@ -81,10 +81,10 @@
     {
       "url": "https://archive.org/details/SantaClausConquersTheMartians1964_201712",
       "label": "Santa Claus Conquers The Martians (1964), Internet Archive community upload, about 81 minutes",
-      "quality": "MPEG4 original upload, tagged Public Domain Mark by the uploader"
+      "quality": "Community upload tagged with the Creative Commons Public Domain Mark by the uploader; not a verified restoration"
     }
   ],
-  "editorial": "Santa Claus Conquers the Martians is a 1964 children's science-fiction comedy directed by Nicholas Webster, with John Call as Santa Claus. Martian leaders fear their children have gone lazy and joyless from watching Earth TV, so they abduct Santa. It was made on a roughly $200,000 budget in about two weeks in July and August 1964 at Michael Myerberg Studios on Long Island. It later became a cult title and was featured on Mystery Science Theater 3000 in 1991.\n\nThe rights trap is the usual shortcut that an old film was never renewed. A film published in 1964 got its renewal term automatically under 17 U.S.C. 304(a), so renewal is not what decides this one. It would have to be free for another reason, such as a missing notice, and I found no document establishing that. Secondary sources call it public domain in the US only, and Plagiarism Today says STUDIOCANAL holds and enforces rights abroad. Check the notice on an actual print before reusing it, and keep it out of non-US distribution.",
+  "editorial": "Santa Claus Conquers the Martians is a 1964 American children's science-fiction comedy directed by Nicholas Webster, with John Call as Santa Claus. Martian leaders fear their children have gone lazy and joyless from watching Earth TV, so they abduct Santa. Wikipedia credits the story to Glenville Mareth, the screenplay to Paul L. Jacobson, the music to Milton DeLugg and the US release to Embassy Pictures on November 14, 1964, on an estimated $200,000 budget. It became a cult title and was featured on Mystery Science Theater 3000 in 1991.\n\nThe rights trap is the shortcut that an old film was never renewed. A film published in 1964 got its renewal term automatically under 17 U.S.C. 304(a), so renewal does not decide this one. It would have to be free for another reason, such as a missing notice, and I found no document establishing that. Secondary sources call it public domain in the US only, and Plagiarism Today says STUDIOCANAL holds and enforces rights abroad. Check the notice on an actual print before reusing it, and keep it out of non-US distribution.",
   "faq": [
     [
       "Is Santa Claus Conquers the Martians public domain because the copyright was not renewed?",
@@ -92,7 +92,7 @@
     ],
     [
       "Can I use the Internet Archive copy, including outside the US?",
-      "The Internet Archive copy is a community upload, and I have not verified its source or quality beyond its metadata. Plagiarism Today reports that outside the US, STUDIOCANAL holds and enforces the copyright. For anything beyond US use, get a clearance first."
+      "The Internet Archive copy is a community upload carrying the uploader's Public Domain Mark; I have not verified its source or quality beyond its metadata. Plagiarism Today reports that outside the US, STUDIOCANAL holds and enforces the copyright. For anything beyond US use, get a clearance first."
     ]
   ]
 }

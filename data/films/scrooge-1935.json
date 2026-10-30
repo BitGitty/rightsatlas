@@ -3,7 +3,7 @@
   "title": "Scrooge",
   "year": 1935,
   "country": "GB",
-  "last_verified": "2026-10-28",
+  "last_verified": "2026-10-30",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "British film produced by Julius Hagen for Twickenham Film Studios and released in the UK on 26 November 1935. Paramount Pictures handled US distribution. A US public-domain claim would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked, so no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA, which depends on its US publication history and was not established. Wikipedia says the film has entered the public domain, but that is not a primary source.",
+          "note": "British film produced by Julius Hagen for Twickenham Film Studios and released on 26 November 1935. Paramount Pictures handled US distribution. A US public-domain claim for a post-1930 film would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked, so no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA, which depends on its US publication history and was not established.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a sound film, so the recorded track normally shares the film's own status, which is unresolved. Wikipedia credits the music to W.L. Trytel. No separate rights research was done on the music.",
+          "note": "This is a sound film, so the recorded track normally shares the film's own status, which is unresolved. No separate rights research was done on the music.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -45,7 +45,7 @@
         {
           "type": "research_note",
           "note": "No active trademark on the title or the character was identified, and none was searched for in a trademark database. Status is unresolved.",
-          "source": "No source consulted for trademarks",
+          "source": "No trademark source consulted",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
       ]
@@ -55,7 +55,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports that David Shepard of Blackhawk Films prepared a restored version of the original 78-minute film from 35mm, released on DVD by Image Entertainment on 29 October 2002. It also reports a 60-minute version made by Kent D. Eastin in 1941, later issued in a colorized version by Legend Films in 2007 and on Blu-ray in 2011. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, music or a new edit can be protected.",
+          "note": "Wikipedia reports the film exists in several versions: a shortened 60-minute edition, a restored 78-minute version on DVD, and colorized editions. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, new music or a new edit can be protected.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -91,15 +91,15 @@
       "quality": "full 78-minute feature"
     }
   ],
-  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it and Julius Hagen produced it for Twickenham Film Studios. Seymour Hicks plays Scrooge opposite Donald Calthrop as Bob Cratchit. It opened in the UK on 26 November 1935, and Paramount Pictures handled US distribution.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved even though the Internet Archive hosts a 78-minute copy. The 60-minute 1941 edit by Kent D. Eastin and the 2002 Image Entertainment DVD, prepared by David Shepard of Blackhawk Films, may carry protected additions that the original film does not.",
+  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol, billed by the Internet Archive as the first sound version of the story. Henry Edwards directed it and Julius Hagen produced it for Twickenham Film Studios. Seymour Hicks plays Scrooge opposite Donald Calthrop as Bob Cratchit. It opened on 26 November 1935, and Paramount Pictures handled US distribution.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved even though the Internet Archive hosts a 78-minute copy. The shortened 60-minute edition, the colorized editions and the restored DVD are different versions and may carry protected additions that the original film does not.",
   "faq": [
     [
       "Is the 1935 Scrooge safe to reuse in the US?",
-      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here. Wikipedia says the film is in the public domain, but that is not a primary source."
+      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here."
     ],
     [
       "Does a DVD or edited copy change the answer?",
-      "It can. A faithful copy of the film adds no new US copyright, but colorization, new titles, new music or a re-edit can be protected. The 60-minute 1941 edit, its 2007 colorized release and the 2002 restored DVD are different editions, so check which one you are using. Ripping a copy-protected disc can break 17 U.S.C. 1201."
+      "It can. A faithful copy of the film adds no new US copyright, but colorization, new titles, new music or a re-edit can be protected. The 60-minute edit, the colorized editions and the restored 78-minute DVD are different versions, so check which one you are using. Ripping a copy-protected disc can break 17 U.S.C. 1201."
     ]
   ]
 }
