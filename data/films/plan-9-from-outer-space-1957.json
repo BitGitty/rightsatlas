@@ -3,7 +3,7 @@
   "title": "Plan 9 from Outer Space",
   "year": 1957,
   "country": "US",
-  "last_verified": "2026-10-28",
+  "last_verified": "2026-10-30",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Public Domain Review catalogs the film under 1959 and lists the underlying work's rights status as 'PD U.S.', but the page cites no registration or renewal search. It marks the digital copy's rights as 'Unclear'. We could not search the Copyright Office catalog or the renewal volumes for this film in this session. No primary record was checked, so this layer stays undetermined.",
+          "note": "The Public Domain Review lists the film's underlying-work rights as 'PD U.S.' and the digital copy's rights as 'Unclear'. It cites no registration or renewal search. We did not find a Copyright Office registration or renewal record for the film in this session, so no primary record settles the question.",
           "source": "Public Domain Review",
           "url": "https://publicdomainreview.org/collection/plan-9-from-outer-space-1959/"
         },
         {
           "type": "research_note",
-          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (archive.org identifier catalogofcopyrig3121213li). We did not search its text for this film, so it does not settle the question.",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (archive.org identifier catalogofcopyrig3121213li). We only read the first 100,000 characters of a roughly 913,000-character text, and nothing for this film turned up in that part. This is not a complete search and does not settle the question.",
           "source": "Internet Archive / Library of Congress Copyright Office",
           "url": "https://archive.org/details/catalogofcopyrig3121213li"
         }
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The soundtrack follows the film's own status, which is undetermined (see the print layer). According to Wikipedia's article on the film, Gordon Zahler compiled the score from stock recordings in his late father Lee Zahler's mood-music library, tracks that had been used in other features, westerns and serials. Those compositions and recordings may have their own copyright histories. Check them before licensing the music for new synchronization or commercial release.",
+          "note": "The soundtrack follows the film's own status, which is undetermined (see the print layer). According to Wikipedia's article on the film, Gordon Zahler compiled the score from his late father Lee Zahler's stock-music library. Those compositions and recordings may have their own copyright histories. Check them before licensing the music for new synchronization or commercial release.",
           "source": null,
           "url": null
         }
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Ed Wood is credited as writer, producer, director and editor. We found nothing showing the film was adapted from an earlier published work, so the story takes the film's own status, which is undetermined (see the print layer).",
+          "note": "Ed Wood is credited as the film's creator on the Internet Archive item. We found nothing showing the film was adapted from an earlier published work, so the story takes the film's own status, which is undetermined (see the print layer).",
           "source": "Internet Archive",
           "url": "https://archive.org/details/plan-9-from-outer-space-1959"
         }
@@ -61,7 +61,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A faithful restoration of a public-domain film adds no new US copyright. Slavish reproduction of public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Original additions such as a new score, colorization, or new titles can be protected. The Internet Archive item includes a colourised version, and any such colorization can carry its own protection. Use archival prints rather than ripping a commercial disc, because ripping a copy-protected disc can implicate 17 U.S.C. § 1201.",
+          "note": "A faithful restoration of a public-domain film adds no new US copyright. Slavish reproduction of public-domain images without original creative additions is not protected (Bridgeman Art Library v. Corel Corp., S.D.N.Y. 1999, following Feist v. Rural, 1991). Original additions can be protected. The Internet Archive item includes a colourised version, and colorization can carry its own protection. Wikipedia reports that Turner Classic Movies released a high-definition transfer in 1.85:1 widescreen, with stock footage shots adjusted for framing, so such releases may add protectable material. Use archival prints rather than ripping a commercial disc, because ripping a copy-protected disc can implicate 17 U.S.C. § 1201.",
           "source": "Bridgeman Art Library v. Corel Corp.",
           "url": "https://en.wikipedia.org/wiki/Bridgeman_Art_Library_v._Corel_Corp."
         },
@@ -81,15 +81,15 @@
       "quality": "Community upload with black-and-white and colourised versions; an upload does not settle copyright status"
     }
   ],
-  "editorial": "Plan 9 from Outer Space is a science-fiction horror film that Ed Wood produced, wrote, directed and edited for Reynolds Pictures, Inc. Wikipedia reports that it was shot in black and white in November 1956 at Quality Studios in Los Angeles on a $60,000 budget. It previewed at the Carlton Theatre in Los Angeles on March 15, 1957, and was released in July 1958. It is known as an alleged 'worst film ever made'. The Public Domain Review catalogs it under 1959 and lists the underlying work as 'PD U.S.', but cites no registration or renewal search and marks the digital copy's rights as 'Unclear'.\n\nThe rights trap is that nobody has shown the status with a primary record. We could not run a Copyright Office registration or renewal search, so the print is undetermined. The soundtrack is also a compilation: Gordon Zahler assembled it from stock recordings in Lee Zahler's mood-music library, and those tracks may have their own histories. The Internet Archive item also carries a colourised version, which can be protected on its own. Treat the film as unverified until a registration and renewal search is done, and get advice before reusing footage commercially.",
+  "editorial": "Plan 9 from Outer Space is a science-fiction horror film that Ed Wood made. Wikipedia reports that it was shot in November 1956 at Quality Studios in Los Angeles on a $60,000 budget. It previewed at the Carlton Theatre in Los Angeles on March 15, 1957, under the title Grave Robbers from Outer Space. General release began in July 1958, and the film was sold to television in 1961. Creators want it for its cult status as an alleged 'worst film ever made'. The Public Domain Review lists the film as 'PD U.S.' but cites no registration or renewal search, and it marks the digital copy's rights as 'Unclear'.\n\nThe rights trap is that nobody has shown the status with a primary record. We found no Copyright Office registration or renewal record, so the print stays undetermined. The soundtrack is also a compilation. Gordon Zahler assembled it from his late father Lee Zahler's stock-music library, and those tracks may have their own histories. The Internet Archive item carries a colourised version, which can be protected on its own, and Turner Classic Movies has released a widescreen high-definition transfer. Treat the film as unverified until a registration and renewal search is done, and get advice before reusing footage commercially.",
   "faq": [
     [
       "Can I use Plan 9 from Outer Space footage in my own film or video?",
-      "Not safely, as far as we can verify. The Public Domain Review lists the film as 'PD U.S.', but cites no registration or renewal search, and we could not run one. The status is undetermined until a Copyright Office search is done. Get advice before reusing footage commercially."
+      "Not safely, as far as we can verify. The Public Domain Review lists the film as 'PD U.S.', but it cites no registration or renewal search, and we found no primary record either way. The status is undetermined until a Copyright Office search is done. Get advice before reusing footage commercially."
     ],
     [
       "Does an Internet Archive copy or a Creative Commons label mean I can reuse it?",
-      "No. A hosting label on an uploaded copy does not decide the film's copyright status. The Public Domain Review marks the digital copy's rights as 'Unclear', and added material such as the colourised version or a new score can be protected on its own."
+      "No. A hosting label on an uploaded copy does not decide the film's copyright status. The Public Domain Review marks the digital copy's rights as 'Unclear'. Added material such as the colourised version or a new score can also be protected on its own."
     ]
   ]
 }
