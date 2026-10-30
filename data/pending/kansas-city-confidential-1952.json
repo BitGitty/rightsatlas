@@ -1,0 +1,91 @@
+{
+  "id": "kansas-city-confidential-1952",
+  "title": "Kansas City Confidential",
+  "year": 1952,
+  "country": "US",
+  "last_verified": "2026-10-30",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia and the uploader's Internet Archive description both say the copyright was not renewed in the 28th year, which would put the film in the public domain in 1980. I could not confirm this in a primary record. The 1980 renewal volumes of the Catalog of Copyright Entries are not on archive.org: the motion-picture series I found stops at 1977. I could not run a Copyright Office catalog search either. The claim is unverified until someone checks the Copyright Office public catalog for a 1979-1981 renewal.",
+          "source": "Internet Archive item description (Creative Commons Public Domain Mark 1.0 label)",
+          "url": "https://archive.org/details/kansas-city-confidential-1952-by-phil-karlson"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Paul Sawtell is credited as composer. As a sound film, the recorded track would normally share the film's own copyright status, but that status is unconfirmed. I did not check whether the music was registered or renewed separately.",
+          "source": "Wikipedia production credits (not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/Kansas_City_Confidential"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credited story is by Rowland Brown and Harold Greene, with a screenplay by George Bruce and Harry Essex. Edward Small separately bought the title from Jack Lait and Lee Mortimer. I did not check the copyright status of the story, the screenplay or the title purchase.",
+          "source": "Wikipedia production credits (not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/Kansas_City_Confidential"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1979,
+      1980,
+      1981
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Kansas City Confidential” (renewals ~1979, 1980, 1981)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Kansas+City+Confidential"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/kansas-city-confidential-1952-by-phil-karlson",
+      "label": "Kansas City Confidential (1952), directed by Phil Karlson, 1080p, about 99 min",
+      "quality": "1080p transfer from a Blu-ray source"
+    }
+  ],
+  "editorial": "Kansas City Confidential is a 1952 crime picture directed by Phil Karlson. It was made by Associated Players and Producers, Edward Small's company, and released through United Artists on November 11, 1952. The story credit goes to Rowland Brown and Harold Greene, and the screenplay to George Bruce and Harry Essex. Paul Sawtell composed the score. It ran about 99 minutes, and the Internet Archive has several copies, which is why it is easy to find and reuse.\n\nThe rights trap is that the film's public-domain status rests only on a reported lack of renewal, and I could not confirm that in a primary record. Wikipedia and an Archive uploader both say no renewal was filed in 1980. The Catalog of Copyright Entries volumes for the renewal years are not online, and I could not query the Copyright Office catalog. Check that catalog for a 1979-1981 renewal before reusing the film commercially. Edward Small also bought the title from Jack Lait and Lee Mortimer, so confirm the title and story rights too. Any colorized or retitled copy adds its own protected material.",
+  "faq": [
+    [
+      "Is Kansas City Confidential in the public domain?",
+      "It is reported to be, because the copyright was supposedly not renewed in the 28th year. I could not verify that in a primary record, so the print layer stays undetermined. Search the Copyright Office public catalog for a 1979-1981 renewal before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copies, including the colorized one?",
+      "Only after the print status is confirmed. Even then, a colorized version or one with new titles or music adds material that can be protected separately. The black-and-white 1080p copy listed here is the safer choice for reuse."
+    ]
+  ]
+}
