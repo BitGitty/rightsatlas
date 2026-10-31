@@ -323,3 +323,5 @@
 {"date": "2026-10-31", "id": "little-shop-of-horrors-1960", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
 {"date": "2026-10-31", "id": "the-beast-of-yucca-flats-1961", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message. I left every layer `undetermined` because I couldn't confirm a missing notice or renewal from a primary record.\n\n"]}
 {"date": "2026-10-31", "id": "tarzan-and-his-mate-1934", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is final. Nothing was left open."]}
+{"date": "2026-10-31", "id": "last-man-on-earth-1964", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full result, and it has no changes."]}
+{"date": "2026-10-31", "id": "the-great-rupert-1950", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The corrected dossier JSON is in my previous message.\n\nClosed: nothing left open. I fetched two pages and wrote no files."]}
