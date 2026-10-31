@@ -77,7 +77,7 @@
    "kind": "watch"
   },
   "turner_video_341": {
-   "ok": false,
+   "ok": true,
    "film": "charade-1963",
    "kind": "evidence"
   },
@@ -136,8 +136,8 @@
    "film": "his-girl-friday-1940",
    "kind": "evidence"
   },
-  "house_on_haunted_hill_1959-fhd": {
-   "ok": false,
+  "turner_video_252": {
+   "ok": true,
    "film": "house-on-haunted-hill-1959",
    "kind": "watch"
   },
@@ -487,19 +487,7 @@
    "kind": "evidence"
   }
  },
- "repaired": [
-  {
-   "film": "house-on-haunted-hill-1959",
-   "was": "house_on_haunted_hill_1959-fhd",
-   "now": "turner_video_252",
-   "kind": "watch"
-  }
- ],
+ "repaired": [],
  "dropped": [],
- "unrepaired_evidence": [
-  {
-   "film": "charade-1963",
-   "was": "turner_video_341"
-  }
- ]
+ "unrepaired_evidence": []
 }
