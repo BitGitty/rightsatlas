@@ -319,3 +319,5 @@
 {"date": "2026-10-31", "id": "carnival-of-souls-1962", "result": "refreshed", "reasons": []}
 {"date": "2026-10-31", "id": "m-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: Peace. The JSON dossier in my last message is unchanged. The hook's required \"Peace\" opener and \"No action needed\" line conflict with your script's JSON-only rule. If the scri"]}
 {"date": "2026-10-31", "id": "the-beast-of-yucca-flats-1961", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the deliverable. Print status is undetermined because I couldn't open the renewal catalogs or run the Copyright Office search. Noth"]}
+{"date": "2026-10-31", "id": "last-man-on-earth-1964", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message.\n\nClosed: nothing opened."]}
+{"date": "2026-10-31", "id": "little-shop-of-horrors-1960", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
