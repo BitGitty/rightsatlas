@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-30",
+  "last_release": "2026-10-31",
   "log": [
     {
       "date": "2026-08-31",
@@ -244,6 +244,10 @@
     {
       "date": "2026-10-30",
       "film": "body-and-soul-1925"
+    },
+    {
+      "date": "2026-10-31",
+      "film": "bride-of-the-monster-1955"
     }
   ]
 }
