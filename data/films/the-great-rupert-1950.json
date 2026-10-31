@@ -3,7 +3,7 @@
   "title": "The Great Rupert",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-10-29",
+  "last_verified": "2026-11-01",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia states the film entered the public domain in 1978 when its 28-year copyright term ended without renewal. That is a secondary claim. No Catalog of Copyright Entries renewal volume or Copyright Office record was retrieved in this session, so non-renewal is not established here. The Internet Archive item carries a Public Domain Mark 1.0 tag, which is an uploader label and not a rights record.",
+          "note": "Wikipedia states the film entered the public domain in 1978 when its 28-year copyright term lapsed without renewal. That is a secondary claim. No Catalog of Copyright Entries renewal volume or Copyright Office record was retrieved in this session, so non-renewal is not established here. The Internet Archive item carries a Public Domain Mark 1.0 license tag, which is an uploader label and not a rights record.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia says Ted Allan wrote the original story, bought by George Pal in June 1948, and László Vadnay adapted it for the screen. It also says the story was published as a children's book, Willie the Squowse. The book's publication date and any renewal of its copyright were not verified in this session.",
+          "note": "Wikipedia says the Ted Allan story was also published as a children's book, Willie the Squowse. The book's publication date and any renewal of its copyright were not verified in this session.",
           "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
@@ -81,10 +81,10 @@
     {
       "url": "https://archive.org/details/the-great-rupert-1950",
       "label": "The Great Rupert (1950) on the Internet Archive",
-      "quality": "Internet Archive item, metadata lists Irving Pichel as creator and a Public Domain Mark 1.0 tag. Primary file is an MPEG4 at 448×336, about 264 MB. Picture quality not viewed."
+      "quality": "Internet Archive item, metadata lists Irving Pichel as creator and a Public Domain Mark 1.0 license tag. Primary file is an MP4 of about 264 MB. Picture quality not viewed."
     }
   ],
-  "editorial": "The Great Rupert (1950) is an American comedy-fantasy produced by George Pal and directed by Irving Pichel, with Jimmy Durante, Tom Drake and Terry Moore. It was released in the United States on March 1, 1950. Rupert is a squirrel, animated in stop-motion. Wikipedia says Pal received many inquiries about where he had found a trained squirrel. The screenplay is by László Vadnay, from an original story by Ted Allan.\n\nWikipedia reports that the film entered the public domain in 1978, when its 28-year term ended without renewal. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries and the Copyright Office catalog yourself. Two layers are open. The Ted Allan story also appeared as a children's book, Willie the Squowse, and its status is unchecked. The 2003 colorized release from Fox and Legend Films, titled A Christmas Wish, may be protected separately, so source a black-and-white print.",
+  "editorial": "The Great Rupert (1950) is an American comedy-fantasy produced by George Pal and directed by Irving Pichel, with Jimmy Durante, Tom Drake and Terry Moore. Rupert is a squirrel, animated in stop-motion. The screenplay is by László Vadnay, from an original story by Ted Allan.\n\nWikipedia reports that the film entered the public domain in 1978, when its 28-year term lapsed without renewal. This dossier could not confirm that from the renewal records, so treat the print as unverified until you check the Catalog of Copyright Entries and the Copyright Office catalog yourself. Two layers are open. The Ted Allan story also appeared as a children's book, Willie the Squowse, and its status is unchecked. The 2003 colorized release from Fox and Legend Films, titled A Christmas Wish, may be protected separately, so source a black-and-white print.",
   "faq": [
     [
       "Is The Great Rupert free to use?",

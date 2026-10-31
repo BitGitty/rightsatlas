@@ -327,3 +327,5 @@
 {"date": "2026-10-31", "id": "the-great-rupert-1950", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The corrected dossier JSON is in my previous message.\n\nClosed: nothing left open. I fetched two pages and wrote no files."]}
 {"date": "2026-11-01", "id": "it-happened-one-night-1934", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the final answer. The film looks renewed, so no layer is marked public domain.\n\nClosed: nothing opened."]}
 {"date": "2026-11-01", "id": "the-man-who-knew-too-much-1934", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message."]}
+{"date": "2026-11-01", "id": "the-great-rupert-1950", "result": "refreshed", "reasons": []}
+{"date": "2026-11-01", "id": "beyond-tomorrow-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message. I made no file changes and opened nothing, so there is nothing to close."]}
