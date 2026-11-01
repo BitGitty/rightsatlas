@@ -1,0 +1,91 @@
+{
+  "id": "it-happened-one-night-1934",
+  "title": "It Happened One Night",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-01",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released 22 February 1934 by Columbia Pictures, directed by Frank Capra. A 1934 film is public domain only if its notice was missing or its renewal was never filed. I could not load the Stanford renewal database (JavaScript page and CAPTCHA) or the Catalog of Copyright Entries renewal volumes in this session, so no renewal check was done.",
+          "source": "Wikipedia: It Happened One Night",
+          "url": "https://en.wikipedia.org/wiki/It_Happened_One_Night"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the short story 'Night Bus' by Samuel Hopkins Adams, published in Cosmopolitan in August 1933. A 1933 story needed its own renewal, and I did not check whether it was renewed.",
+          "source": "Wikipedia: It Happened One Night",
+          "url": "https://en.wikipedia.org/wiki/It_Happened_One_Night"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sony Pictures made a 4K master in 2013, scanned wet-gate at Prasad Corporation, with digital cleanup meant to preserve the original look. A faithful restoration adds no new copyright of its own. I did not confirm whether any added material exists.",
+          "source": "Wikipedia: It Happened One Night",
+          "url": "https://en.wikipedia.org/wiki/It_Happened_One_Night"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “It Happened One Night” (renewals ~1961, 1962, 1963)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=It+Happened+One+Night"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/it-happened-one-night-1934_202501",
+      "label": "It Happened One Night 1934 (Internet Archive, user upload, about 101 min). Hosting on the Archive does not establish that the film is public domain.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "It Happened One Night is Frank Capra's 1934 Columbia Pictures romantic comedy. Clark Gable plays a reporter and Claudette Colbert plays a runaway heiress. It was the first of only three films to win all five major Academy Awards: Best Picture, Director, Actor, Actress and Adapted Screenplay. A creator would want it for the bus scenes and the title's place in Hollywood history, and clips of it are in steady demand.\n\nThe rights question is open, not settled. As a 1934 film, it is free only if its copyright notice was missing or its renewal was never filed in the 28th-year window, around 1961 to 1963. That check has not been completed here, so no layer is marked public domain. The story, 'Night Bus' by Samuel Hopkins Adams (Cosmopolitan, August 1933), would need its own renewal check. Sony's 2013 4K master should be treated as a separate source whose rights are unverified. An Internet Archive upload is not evidence of status.",
+  "faq": [
+    [
+      "Is It Happened One Night in the public domain in the US?",
+      "Not established. A 1934 film is public domain only if its notice was missing or its renewal was not filed in the 1961 to 1963 window. That search is still to be done by hand using the Stanford renewal database and the Catalog of Copyright Entries. Until it is done, treat the film as protected."
+    ],
+    [
+      "Can I use the Internet Archive copy or the Sony restoration?",
+      "The Internet Archive copy is a user upload, and being hosted there says nothing about its legal status. Sony's 2013 4K master is a faithful restoration, so it adds no new copyright of its own. If the underlying film is still protected, though, the restored master is protected as part of it. Do not rip a copy-protected disc: doing so can violate 17 U.S.C. 1201."
+    ]
+  ]
+}
