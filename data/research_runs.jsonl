@@ -339,3 +339,5 @@
 {"date": "2026-11-01", "id": "scrooge-1935", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON in my previous message is the final output. I'm not adding text to it, because the calling script parses that message as one JSON object."]}
 {"date": "2026-11-02", "id": "the-man-who-knew-too-much-1934", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message, and I opened nothing that needs closing."]}
 {"date": "2026-11-02", "id": "the-39-steps-1935", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
+{"date": "2026-11-02", "id": "scrooge-1935", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message, and this line is not part of it."]}
+{"date": "2026-11-02", "id": "scrooge-1951", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the full answer. I added nothing to it because the calling script expects only JSON.\n\nClosed: nothing was opened."]}
