@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-31",
+  "last_release": "2026-11-01",
   "log": [
     {
       "date": "2026-08-31",
@@ -248,6 +248,10 @@
     {
       "date": "2026-10-31",
       "film": "bride-of-the-monster-1955"
+    },
+    {
+      "date": "2026-11-01",
+      "film": "africa-screams-1949"
     }
   ]
 }
