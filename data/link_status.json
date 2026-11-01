@@ -26,6 +26,26 @@
    "film": "a-christmas-carol-1910",
    "kind": "evidence"
   },
+  "africa-screams-1949": {
+   "ok": true,
+   "film": "africa-screams-1949",
+   "kind": "evidence"
+  },
+  "AfricaScreams": {
+   "ok": true,
+   "film": "africa-screams-1949",
+   "kind": "watch"
+  },
+  "1976motionpictur3301213libr": {
+   "ok": true,
+   "film": "africa-screams-1949",
+   "kind": "evidence"
+  },
+  "1977motionpictur3311213libr": {
+   "ok": true,
+   "film": "africa-screams-1949",
+   "kind": "evidence"
+  },
   "catalogofcopyrig3121213li": {
    "ok": true,
    "film": "plan-9-from-outer-space-1957",
