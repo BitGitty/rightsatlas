@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-01",
+  "last_release": "2026-11-02",
   "log": [
     {
       "date": "2026-08-31",
@@ -252,6 +252,10 @@
     {
       "date": "2026-11-01",
       "film": "africa-screams-1949"
+    },
+    {
+      "date": "2026-11-02",
+      "film": "flash-gordon-1936"
     }
   ]
 }
