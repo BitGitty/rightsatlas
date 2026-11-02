@@ -1,0 +1,77 @@
+{
+  "id": "freaks-1932",
+  "title": "Freaks",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-02",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I could not read the Stanford renewal database or the Catalog of Copyright Entries in this session. I found no renewal record and also no proof that none exists. The film was published after 1930, so public domain would need a missing notice or a missing renewal, and neither is established.",
+          "source": "Internet Archive item metadata (existence of a copy only)",
+          "url": "https://archive.org/details/freaks-1932_202506"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Freaks” (renewals ~1959, 1960, 1961)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Freaks"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/freaks-1932_202506",
+      "label": "FREAKS [1932] (Internet Archive, full feature, about 61 min)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Freaks is the 1932 horror drama directed by Tod Browning, listed on the Internet Archive as a full 61-minute feature. Its story follows a trapeze artist who marries a circus performer for his inheritance. A creator would want it for its cast of real sideshow performers and its place in early sound horror.\n\nThe rights question for this film is not settled here. A 1932 film is not public domain by age alone. It is free only if its copyright notice was missing or its 28th-year renewal was never filed, and this dossier did not find proof of either. The Stanford renewal database and the Catalog of Copyright Entries could not be read in this session. Check both by hand using the links in the renewal search before you reuse the film. The Internet Archive copy being online does not show the film is free to reuse.",
+  "faq": [
+    [
+      "Is Freaks (1932) public domain in the US?",
+      "Not confirmed. A 1932 film needs a missing notice or a missing renewal to be public domain, and this research found neither. Search the renewal records for 1959 to 1961 first, using the links in the renewal search."
+    ],
+    [
+      "Can I reuse the Internet Archive copy of Freaks?",
+      "Not safely yet. Uploaded copies are not a rights clearance. Settle the renewal question before use. Even if the print is free, a restoration or new score on a copy can carry its own protection."
+    ]
+  ]
+}
