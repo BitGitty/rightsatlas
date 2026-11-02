@@ -351,3 +351,5 @@
 {"date": "2026-11-02", "id": "his-girl-friday-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer. The print layer is undetermined because I only partly read the 1968 renewal catalog and did not search the Copyright Offic"]}
 {"date": "2026-11-03", "id": "the-corpse-vanishes-1942", "result": "queued", "reasons": []}
 {"date": "2026-11-03", "id": "glen-or-glenda-1953", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. Closed: nothing opened."]}
+{"date": "2026-11-03", "id": "his-girl-friday-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is the deliverable. The print and score layers are undetermined because I couldn't confirm a renewal search. The story layer is verifi"]}
+{"date": "2026-11-03", "id": "broken-blossoms-1919", "result": "refreshed", "reasons": ["now Clear: story"]}

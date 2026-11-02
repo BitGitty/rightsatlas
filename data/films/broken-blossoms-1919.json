@@ -3,7 +3,7 @@
   "title": "Broken Blossoms",
   "year": 1919,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-11-03",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,27 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1919; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1919 (New York premiere May 13, 1919; US release October 20, 1919); the 95-year US copyright term for works published that year has run, so the film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images are free. Any music on a modern copy is a separate recording or composition that may be protected; check the credits of the specific copy."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Thomas Burke's short story 'The Chink and the Child' from the 1916 collection Limehouse Nights. A work published in 1916 has passed its 95-year US term, so the source story is public domain in the US by term expiry."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +39,12 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No specific modern restoration was confirmed in this session. A faithful restoration adds no new US copyright; any new score, new or translated titles, or added material on a restored release can be protected. Check the particular release."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -54,7 +69,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Broken Blossoms, or The Yellow Man and the Girl, is a 1919 American silent drama produced and directed by D. W. Griffith and released through United Artists, starring Lillian Gish and Richard Barthelmess in a tragedy set in London's Limehouse district. Published in 1919, the film print's 95-year US copyright term has run, so the photoplay is in the US public domain by term expiry. The music, any later restorations, and the underlying story are assessed on their own layers.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/BrokenBlossoms",
+      "label": "Broken Blossoms (1919) — Internet Archive",
+      "quality": "Internet Archive copy credited to D. W. Griffith; confirm which score, if any, is on this copy before reuse"
+    }
+  ],
+  "editorial": "Broken Blossoms, or The Yellow Man and the Girl, is a 1919 silent drama produced and directed by D. W. Griffith and distributed by United Artists. Lillian Gish plays Lucy Burrows, Richard Barthelmess plays Cheng Huan and Donald Crisp plays her father, \"Battling\" Burrows. Griffith adapted Thomas Burke's 1916 story \"The Chink and the Child\" from Limehouse Nights and changed the Chinese protagonist into a Buddhist missionary. The film premiered in New York on May 13, 1919.\n\nThe film image and the 1916 source story are both in the US public domain by term expiry, because both were published long enough ago for the 95-year term to run. The rights trap is the music. A silent film is shown with a score, and any score on a modern copy is a separate work that can still be protected. A restored release can also carry new titles or other added material. Use a copy whose soundtrack you can trace, or add your own music.",
+  "faq": [
+    [
+      "Can I reuse footage from Broken Blossoms?",
+      "The 1919 film itself is public domain in the US by term expiry. Check the music on the copy you take it from, because a score or recording added to that copy can still be protected."
+    ],
+    [
+      "Is the Thomas Burke story also free to adapt?",
+      "The story \"The Chink and the Child\", published in 1916 in Limehouse Nights, has passed its 95-year US term. That makes the source story public domain in the US by term expiry."
+    ]
+  ]
 }
