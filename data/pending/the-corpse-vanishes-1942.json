@@ -1,0 +1,88 @@
+{
+  "id": "the-corpse-vanishes-1942",
+  "title": "The Corpse Vanishes",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-03",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Monogram Pictures release of May 8, 1942, so not public domain by term. Two Catalog of Copyright Entries motion-picture volumes (Jan-Dec 1969 and Jan-Dec 1970) were opened. A text search of only the first ~100,000 characters of each (about a tenth) found no renewal for this title. The rest of those volumes and the Copyright Office public catalog were not searched, so non-renewal is not established.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1969 (Vol 23)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion volume, Jan-Dec 1970 (Vol 24); same partial text search with no hit.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1970 (Vol 24)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Corpse Vanishes” (renewals ~1969, 1970, 1971)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Corpse+Vanishes"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheCorpseVanishes",
+      "label": "The Corpse Vanishes (1942), Internet Archive, about 63 minutes",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/the-corpse-vanishes-1942",
+      "label": "The Corpse Vanishes (1942), Internet Archive, about 63 minutes",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Corpse Vanishes is a Monogram Pictures horror release of May 8, 1942, directed by Wallace Fox and produced by Sam Katzman and Jack Dietz. Bela Lugosi plays Dr. Lorenz, a scientist who sends orchids to brides on their wedding day and takes glandular fluid from them to keep his wife young. The screenplay is by Harvey Gates, from a story by Sam Robins and Gerald Schnitzer. The film is short, has a recognizable star and is widely circulated, which is why creators ask about it.\n\nThe rights question is whether Monogram's 1942 copyright was renewed in its 28th year, which falls in 1969 or 1970. This dossier does not settle that. I opened the 1969 and 1970 Catalog of Copyright Entries motion-picture volumes, but my text search covered only about a tenth of each, so the absence of a renewal is not proven. Widespread free copies on the Internet Archive are not evidence of status. Until the full renewal volumes are checked, treat the print as unconfirmed. The score, story and any restoration additions have not been separately assessed.",
+  "faq": [
+    [
+      "Is The Corpse Vanishes (1942) public domain?",
+      "Not confirmed. The film was published in 1942, so it is not public domain by term. Its status depends on whether Monogram renewed the copyright in 1969 or 1970. My check of the 1969 and 1970 renewal catalogs covered only part of each volume and found no renewal. That is not enough to rely on, so check the Stanford renewal database and the full catalog volumes yourself."
+    ],
+    [
+      "Can I use the Internet Archive copies of The Corpse Vanishes?",
+      "Do not assume so. Being hosted online does not show a film is free of copyright. The two copies I confirmed exist are about 63 minutes long. I did not check them for added material such as new titles, a new score or intros, which could carry their own rights. Confirm the renewal status first, then use a copy with no added material."
+    ]
+  ]
+}
