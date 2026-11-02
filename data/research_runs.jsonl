@@ -345,3 +345,5 @@
 {"date": "2026-11-02", "id": "the-lady-vanishes-1938", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-02", "id": "scrooge-1951", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message, and I opened nothing that needs closing."]}
 {"date": "2026-11-02", "id": "santa-claus-conquers-the-martians-1964", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message. I opened nothing, so there is nothing to close."]}
+{"date": "2026-11-02", "id": "the-lady-vanishes-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the complete answer, and the stop hook's extra line doesn't apply to its script consumer."]}
+{"date": "2026-11-02", "id": "flash-gordons-trip-to-mars-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is final. Closed: nothing left open."]}
