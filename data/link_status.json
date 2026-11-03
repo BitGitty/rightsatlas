@@ -166,6 +166,16 @@
    "film": "haxan-1922",
    "kind": "evidence"
   },
+  "he-who-gets-slapped-1924_202006": {
+   "ok": true,
+   "film": "he-who-gets-slapped-1924",
+   "kind": "watch"
+  },
+  "hewhogetsslapped1924correctedframerate": {
+   "ok": true,
+   "film": "he-who-gets-slapped-1924",
+   "kind": "watch"
+  },
   "his_girl_friday": {
    "ok": true,
    "film": "his-girl-friday-1940",
@@ -224,6 +234,21 @@
   "OrphansOfTheStorm_201312": {
    "ok": true,
    "film": "orphans-of-the-storm-1921",
+   "kind": "evidence"
+  },
+  "our-hospitality-1923-by-buster-keaton-and-john-g.-blystone": {
+   "ok": true,
+   "film": "our-hospitality-1923",
+   "kind": "watch"
+  },
+  "ourhospitality_202302": {
+   "ok": true,
+   "film": "our-hospitality-1923",
+   "kind": "evidence"
+  },
+  "ourhospitality4k": {
+   "ok": true,
+   "film": "our-hospitality-1923",
    "kind": "evidence"
   },
   "plan-9-from-outer-space-1959": {
