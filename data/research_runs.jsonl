@@ -363,3 +363,5 @@
 {"date": "2026-11-03", "id": "the-kid-1921", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
 {"date": "2026-11-04", "id": "a-night-at-the-opera-1935", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
 {"date": "2026-11-04", "id": "the-stranger-1946", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
+{"date": "2026-11-04", "id": "the-kid-1921", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
+{"date": "2026-11-04", "id": "the-magic-cloak-1914", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
