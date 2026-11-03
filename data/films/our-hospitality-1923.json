@@ -3,7 +3,7 @@
   "title": "Our Hospitality",
   "year": 1923,
   "country": "US",
-  "last_verified": "2026-07-15",
+  "last_verified": "2026-11-03",
   "byline": null,
   "layers": {
     "print": {
@@ -11,13 +11,22 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1923; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released in the US on November 19, 1923; the 95-year US copyright term for works published in 1923 has expired, so the film print is public domain in the US by term expiry.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019 (works from 1923)",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2019/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images carry no soundtrack. Modern copies often add a later score, such as Carl Davis's score performed by the Thames Silents Orchestra, or Scott Glasgow's 2018 score commissioned by the Dallas Chamber Symphony. Those compositions and recordings are separate works with their own rights.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/ourhospitality_202302"
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
@@ -28,33 +37,38 @@
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of the public-domain print adds no new US copyright. Material added to the film can be protected, including new scores, colorization and new titles. Colorized and re-scored versions of this film circulate online.",
+          "source": "Internet Archive listing of the colorized version",
+          "url": "https://archive.org/details/ourhospitality4k"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1950,
-      1951,
-      1952
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “Our Hospitality” (renewals ~1950, 1951, 1952)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Our+Hospitality"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
-  "watch": [],
-  "editorial": "Our Hospitality is a 1923 American silent comedy directed by and starring Buster Keaton, built around a Southern blood-feud premise and Keaton's celebrated stunt work, distributed by Metro Pictures. Published in 1923, the film print's US copyright term has expired, placing the photoplay in the public domain by term expiry. Later restorations may carry their own separate rights.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/our-hospitality-1923-by-buster-keaton-and-john-g.-blystone",
+      "label": "Our Hospitality (1923), Internet Archive, silent print marked Public Domain Mark 1.0",
+      "quality": "approx. 75 min, silent"
+    }
+  ],
+  "editorial": "Our Hospitality is a 1923 American silent comedy co-directed by Buster Keaton and John G. Blystone, with Keaton playing Willie McKay. Willie travels south to claim an inheritance and falls for the daughter of the family feuding with his own. The feud echoes the Hatfield–McCoy story, moved back to the 1830s. It was released in the US on November 19, 1923 by Joseph M. Schenck Productions and Metro Pictures. It was shot partly in Truckee, California, and includes a replica of Stephenson's Rocket locomotive and a waterfall and dam sequence. A creator would want it for the stunt set pieces.\n\nThe 1923 print is public domain in the US because its copyright term has expired. The rights trap is the music. Popular online copies carry later scores, such as Carl Davis's, performed by the Thames Silents Orchestra, or Scott Glasgow's 2018 commission. Colorized versions also circulate. Reusing one of those copies takes the added score or colour with it. Use a plain silent print and supply your own music.",
+  "faq": [
+    [
+      "Can I reuse the footage of Our Hospitality in my own project?",
+      "The 1923 print is public domain in the US because its copyright term has expired. Use a plain silent copy, such as the Internet Archive print marked Public Domain Mark 1.0. Avoid copies that include a later score or colorization."
+    ],
+    [
+      "Can I use the Carl Davis score or a colorized version?",
+      "Not automatically. A later score and its recording are separate works with their own rights, and colorization adds new material. Only the original film images are free. Clear the score or colour layer separately, or replace it with your own."
+    ]
+  ]
 }
