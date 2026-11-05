@@ -1,0 +1,102 @@
+{
+  "id": "of-human-bondage-1934",
+  "title": "Of Human Bondage",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-05",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the 1934 RKO film lapsed into the US public domain in 1962 when its registration was not renewed. I could not confirm that against a primary record. The Catalog of Copyright Entries 1962 motion-picture volume is a very large text, and I read only its first ~100,000 characters (entries A to F, January to June 1962), which cannot show an 'H' entry. No Stanford renewal-database record page loaded. Treat the renewal absence as unverified until the CCE renewal volumes and the Copyright Office catalog are checked by hand.",
+          "source": "Wikipedia, Of Human Bondage (1934 film); CCE 1962 Motion Pictures volume (partially read)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the score to Max Steiner. The recorded track normally shares the film's status, so it follows the print result, but that result is unverified. Steiner's music was written for the film, so its status depends on the film's renewal. Not independently confirmed.",
+          "source": "Wikipedia, Of Human Bondage (1934 film)",
+          "url": "https://archive.org/details/of-human-bondage-1934"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on W. Somerset Maugham's novel Of Human Bondage, published in 1915. A work published in 1915 is past its US copyright term. This is my own term calculation; I did not fetch a page on the novel's own copyright. Wikipedia's remark that 'literary rights remain protected' conflicts with this and is unexplained.",
+          "source": "Duke CSPD Public Domain Day",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the original materials were destroyed when Howard Hughes sold RKO, and that the Library of Congress preserved the film from archival elements. Colorised and 4K upscaled versions exist on the Internet Archive. Colour, added titles or a new score would be separately protectable, but I did not examine any of them.",
+          "source": "Internet Archive search listing and Wikipedia",
+          "url": "https://archive.org/details/of-human-bondage-1934"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Of Human Bondage” (renewals ~1961, 1962, 1963)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Of+Human+Bondage"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962 Motion Pictures (archive.org) — check renewals by hand",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/of-human-bondage-1934",
+      "label": "Of Human Bondage (1934), about 83 min, uploaded by retroflix.org, tagged Public Domain Mark 1.0",
+      "quality": "unverified; the metadata matched the title and runtime but I did not view the file"
+    }
+  ],
+  "editorial": "Of Human Bondage (RKO Radio Pictures, 1934) was directed by John Cromwell and stars Leslie Howard as Philip Carey. Bette Davis plays the waitress Mildred Rogers, the role that made her a star. Max Steiner is credited with the score. The film adapts W. Somerset Maugham's 1915 novel. Wikipedia reports that the original film materials were destroyed when Howard Hughes sold RKO, and that the Library of Congress preserved the film from archival elements.\n\nThe rights question is whether RKO's 1934 copyright was renewed in its 28th year (1961 to 1963). Wikipedia says it was not and that the film lapsed in 1962, but I could not confirm that from a primary record. I only partly read the 1962 Catalog of Copyright Entries volume, and no renewal record loaded. Until the renewal volumes and the Copyright Office catalog have been checked by hand, treat the print as unconfirmed, not as free to use. The Internet Archive copies carry a Public Domain Mark, but that label is the uploader's, not evidence. Colorised and 4K versions are listed there too, and any colour or new material in them would be separately protected.",
+  "faq": [
+    [
+      "Is the 1934 Of Human Bondage in the public domain?",
+      "Not yet confirmed. Wikipedia says the 1934 copyright lapsed in 1962 because it was never renewed. I could not verify that against the Catalog of Copyright Entries renewal volumes or the Copyright Office catalog. Check them before relying on it."
+    ],
+    [
+      "Can I use the colorised or 4K versions on the Internet Archive?",
+      "Not without checking. Even if the 1934 film itself is public domain, colourisation, a new score or added titles can carry their own copyright. Use a plain, uncoloured transfer, and be careful with any upload that adds material."
+    ]
+  ]
+}
