@@ -379,3 +379,5 @@
 {"date": "2026-11-05", "id": "the-sheik-1921", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the final answer. I left it unchanged because adding text to it would break the script that reads it.\n\nClosed: nothing was left open."]}
 {"date": "2026-11-05", "id": "horse-feathers-1932", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
 {"date": "2026-11-05", "id": "of-human-bondage-1934", "result": "queued", "reasons": []}
+{"date": "2026-11-05", "id": "the-patchwork-girl-of-oz-1914", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is complete. I opened nothing, so there is nothing to close."]}
+{"date": "2026-11-05", "id": "the-sheik-1921", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
