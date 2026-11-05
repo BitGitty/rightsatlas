@@ -1,0 +1,96 @@
+{
+  "id": "algiers-1938",
+  "title": "Algiers",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-06",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1938 film is public domain only if its notice or renewal is missing. A web search summary says the claimants did not renew in 1966, but I did not confirm this in a primary source. I read only the first 100,000 of about 837,000 characters of the 1966 CCE motion-picture volume (no ALGIERS entry in that portion). I did not search the 1965 or 1967 windows, or the Stanford renewal database, to completion.",
+          "source": "Internet Archive, CCE Motion Pictures 1966",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the film's status. Its status depends on the unresolved print question. I did not research the music credits.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/Algiers_1938"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive item descriptions and search results describe the film as a remake of the French film Pépé le Moko. Wanger bought the rights to that French film. The French film and the source novel have their own rights chain, which I did not research. Any reuser should clear that chain separately.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/algiers-1938_202503"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Algiers” (renewals ~1965, 1966, 1967)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Algiers"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Algiers_1938",
+      "label": "Algiers (1938) — Internet Archive, directed by John Cromwell, 99 min",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/algiers-1938_202503",
+      "label": "Algiers (1938) — Internet Archive, alternate upload",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Algiers is Walter Wanger's 1938 United Artists remake of the French film Pépé le Moko, directed by John Cromwell and starring Charles Boyer and Hedy Lamarr. It was Lamarr's first American film. Several copies are on the Internet Archive, which makes it an obvious candidate for reuse.\n\nThe open question is whether the 1938 copyright was renewed in its 28th year. Secondary sources say it was not, but I have not confirmed that in the CCE or the Stanford renewal database, so the print is marked undetermined. The second trap is the story: the film is a remake, and the French film and novel behind it have their own rights, which a clean US print status would not cover.",
+  "faq": [
+    [
+      "Is the Internet Archive copy of Algiers safe to reuse?",
+      "Not yet confirmed. The print's status depends on whether the 1938 copyright was renewed. That has not been verified in a primary source, so check the Stanford renewal database and the 1965–1967 CCE volumes first."
+    ],
+    [
+      "Does the remake status matter?",
+      "Yes. Algiers adapts Pépé le Moko, so the French film and the novel behind it may carry their own rights. Check them separately from the US print status."
+    ]
+  ]
+}

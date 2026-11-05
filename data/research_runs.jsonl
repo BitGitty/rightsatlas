@@ -385,3 +385,5 @@
 {"date": "2026-11-05", "id": "block-heads-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed.\n\nClosed: nothing opened. The JSON dossier is in my previous message."]}
 {"date": "2026-11-05", "id": "the-son-of-the-sheik-1926", "result": "refreshed", "reasons": ["now Clear: story"]}
 {"date": "2026-11-05", "id": "the-ten-commandments-1923", "result": "refreshed", "reasons": ["now Clear: story"]}
+{"date": "2026-11-06", "id": "algiers-1938", "result": "queued", "reasons": []}
+{"date": "2026-11-06", "id": "block-heads-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
