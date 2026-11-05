@@ -3,7 +3,7 @@
   "title": "The Ten Commandments",
   "year": 1923,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-05",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,31 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1923; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released December 1923; the 95-year US term expired, and Duke CSPD states works from 1923 entered the US public domain on January 1, 2019.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2019/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1923 film is silent. Its images are free, but any music on a modern copy is a separate recording or composition that may be protected. Check the credits of the specific copy you use."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The biblical prologue draws on the Book of Exodus, which is ancient and in the public domain. The modern story was written for the screen by Jeanie Macpherson for the film itself, so it falls under the same 1923 term expiry as the print.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/TheTenCommandments1923NR_201503"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -54,7 +68,22 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "The Ten Commandments is a 1923 American silent religious epic produced and directed by Cecil B. DeMille for Famous Players-Lasky (Paramount), written by Jeanie Macpherson. Structured as a biblical prologue filmed partly in early two-color Technicolor, with a celebrated parting of the Red Sea, plus a modern morality tale, it was a major box-office success and the first of DeMille's biblical spectacles. Published in 1923, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheTenCommandments1923NR_201503",
+      "label": "The Ten Commandments (1923), Internet Archive",
+      "quality": "full feature, about 136 minutes"
+    }
+  ],
+  "editorial": "The Ten Commandments is a 1923 silent epic made by Cecil B. DeMille for Famous Players-Lasky and distributed by Paramount. Jeanie Macpherson wrote it as two parts: a biblical prologue on the Exodus, shot in two-color Technicolor (Process 2), and a modern story about two brothers who see the commandments differently. It premiered at Grauman's Egyptian Theatre in Hollywood on December 4, 1923, and the New York premiere followed on December 21. It grossed about $4.2 million on a $1.5 million budget. For a creator, the parting of the Red Sea and the two-color Technicolor sequences are the draw. The film print is public domain in the US because its 95-year term has expired.\n\nThe rights trap is the music. The film is silent, so any soundtrack on a modern copy is a separate recording or composition that may be protected, and you should not assume a score you hear is free. Disc releases, such as the 2006 DVD bonus feature and the 2011 Blu-ray set, may also add material of their own. Take the images from a source that carries no added score or titles, or pair them with music you have cleared.",
+  "faq": [
+    [
+      "Can I use footage from the 1923 Ten Commandments in my own video?",
+      "Yes for the film's own images, since the 95-year US term has expired. Check that the copy you use has no added score, titles or other new material, because those can be protected."
+    ],
+    [
+      "Is the 1956 Ten Commandments also free to use?",
+      "No. This record covers only the 1923 film. The 1956 version is a different production with its own copyright status."
+    ]
+  ]
 }

@@ -3,7 +3,7 @@
   "title": "The Son of the Sheik",
   "year": 1926,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-05",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,29 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1926; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released in the US in 1926. The 95-year US term for works published that year ended on December 31, 2021, and 1926 works entered the public domain on January 1, 2022.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2022",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2022/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1926 images are free. The film was silent, so any music on a modern copy is a separate work. Scores later written for it include Artur Guttmann (1937), Jack Ward (1969) and the Alloy Orchestra (2014). A modern score and its recording can be protected, so use a copy without a score or one whose score is licensed."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on Edith Maude Hull's novel The Sons of the Sheik, published in 1925. A 1925 publication's 95-year US term has also expired."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -57,9 +69,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-son-of-the-sheik-1926",
-      "label": "Internet Archive — The Son of the Sheik (1926), full film"
+      "label": "Internet Archive — The Son of the Sheik (1926), full film",
+      "quality": "unrated"
     }
   ],
-  "editorial": "The Son of the Sheik is a 1926 American silent adventure romance directed by George Fitzmaurice for United Artists, starring Rudolph Valentino in a dual role opposite Vilma Banky. A sequel to 'The Sheik,' it was Valentino's final film, released just after his sudden death at 31, and was later selected for the National Film Registry. Published in 1926, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "The Son of the Sheik is a 1926 American silent adventure romance directed by George Fitzmaurice and distributed by United Artists. Rudolph Valentino plays both Ahmed and his father the Sheik, opposite Vilma Banky as Yasmin. It was Valentino's last film. The Library of Congress later selected it for the National Film Registry. It is based on Edith Maude Hull's 1925 novel The Sons of the Sheik.\n\nThe film was published in 1926, so its 95-year US term has expired and the picture itself is free to use. The trap is the music. Silent-era copies circulate with scores added later, and a modern score and its recording are separate protected works. Check what is on the copy before you reuse its soundtrack.",
+  "faq": [
+    [
+      "Can I use The Son of the Sheik in my own project?",
+      "In the US, yes for the 1926 picture. It was published in 1926, and its term expired at the end of 2021. Do not reuse the music on a copy you find unless you know who owns the score."
+    ],
+    [
+      "Does the 1925 novel it is based on block reuse?",
+      "No. Hull's novel The Sons of the Sheik was published in 1925, and its US term has also expired."
+    ]
+  ]
 }
