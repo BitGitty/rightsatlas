@@ -3,7 +3,7 @@
   "title": "The Unholy Three",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-06",
   "byline": null,
   "layers": {
     "print": {
@@ -11,55 +11,69 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released in 1925. Duke CSPD confirms works published in 1925 entered the US public domain on January 1, 2021, when the 95-year term expired.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2021/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1925 film is silent, so the images are free. Any score on a modern copy, such as a DVD release or an uploaded copy with added music, is a separate protected recording or composition. The Internet Archive copy cited here says it has no soundtrack."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the 1917 novel The Unholy Three by Tod Robbins. A work published in 1917 is also public domain in the US. Scenario by Waldemar Young. Source: Wikipedia article on the film, used as a pointer only.",
+          "source": "Wikipedia, The Unholy Three (1925 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Unholy_Three_(1925_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive copy 'The Unholy Three 1925 Colorized' was colorized with DeOldify. The uploader claims copyright in the colorization and asks viewers not to republish it on commercial platforms. The colorization is added material. A faithful, uncolorized copy of the print adds no new US copyright.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-unholy-three-1925-colorized"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1952,
-      1953,
-      1954
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “The Unholy Three” (renewals ~1952, 1953, 1954)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Unholy+Three"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
   "watch": [
     {
       "url": "https://archive.org/details/the-unholy-three-1925-colorized",
-      "label": "Internet Archive (full film)"
+      "label": "Internet Archive (colorized copy, no soundtrack)",
+      "quality": "colorized copy; colorization claimed by uploader"
     }
   ],
-  "editorial": "The Unholy Three is a 1925 American silent crime melodrama directed by Tod Browning for Metro-Goldwyn-Mayer, starring Lon Chaney as a sideshow ventriloquist who leads a trio of circus grifters into a robbery-and-murder spree. It cemented the Browning-Chaney partnership and was successful enough that Chaney remade it as his only sound film in 1930 (a separate, later work with its own rights). As a 1925 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "editorial": "The Unholy Three is a 1925 silent crime melodrama directed by Tod Browning for Metro-Goldwyn-Mayer. Lon Chaney plays Professor Echo, a ventriloquist who also poses as Mrs. O'Grady, and Mae Busch, Matt Moore, Victor McLaglen and Harry Earles play the others. Waldemar Young wrote the scenario from Tod Robbins' 1917 novel. The film was remade in 1930 as a talkie directed by Jack Conway, with Chaney and Earles repeating their roles. That remake is a separate work with its own rights.\n\nThe print is public domain in the US. It was published in 1925, and works from that year entered the public domain on January 1, 2021. The 1917 source novel is also public domain. The trap is in the copies. The easiest free copy on the Internet Archive is a DeOldify colorization, and its uploader claims copyright in that color and asks that it not go on commercial platforms. Any score added to a copy is also protected separately. Reusers who want to avoid both should work from an uncolorized, unscored copy of the print and add their own music.",
+  "faq": [
+    [
+      "Can I use the 1925 Unholy Three in my own video?",
+      "Yes for the picture itself: the 1925 film print is public domain in the US. Don't use the colorized Internet Archive copy for commercial work, because its uploader claims the colorization and asks that it not be republished on commercial platforms. Use an uncolorized copy and add your own score."
+    ],
+    [
+      "Does this cover the 1930 sound remake?",
+      "No. The 1930 version directed by Jack Conway is a separate, later film with its own copyright status, which this dossier does not research."
+    ]
+  ]
 }
