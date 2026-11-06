@@ -389,3 +389,5 @@
 {"date": "2026-11-06", "id": "block-heads-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
 {"date": "2026-11-06", "id": "the-thief-of-bagdad-1924", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message, and I'm keeping it free of extra text because a script reads it."]}
 {"date": "2026-11-06", "id": "the-unholy-three-1925", "result": "refreshed", "reasons": ["now Clear: story"]}
+{"date": "2026-11-06", "id": "gullivers-travels-1939", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
+{"date": "2026-11-06", "id": "brideless-groom-1947", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier in my last message is the complete answer for the script. This line is for the owner only, so ignore it when parsing."]}
