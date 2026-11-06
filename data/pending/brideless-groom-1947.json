@@ -1,0 +1,90 @@
+{
+  "id": "brideless-groom-1947",
+  "title": "Brideless Groom",
+  "year": 1947,
+  "country": "US",
+  "last_verified": "2026-11-06",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive item metadata for brideless-groom-1947 carries a Public Domain Mark tag and gives director Edward Bernds and date September 11, 1947. That tag is the uploader's assertion, not a renewal search. I did not complete a renewal-absence check: of the 1975 Catalog of Copyright Entries motion-pictures volume (about 1.65 million characters of text) I read only the first 100,000, and they showed no Brideless Groom entry.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/brideless-groom-1947"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1974,
+      1975,
+      1976
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Brideless Groom” (renewals ~1974, 1975, 1976)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Brideless+Groom"
+      },
+      {
+        "label": "CCE Motion Pictures 1975 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1974 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      },
+      {
+        "label": "CCE Motion Pictures 1976 (archive.org)",
+        "url": "https://archive.org/details/1976motionpictur3301213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/brideless-groom-1947",
+      "label": "Brideless Groom (1947) — Internet Archive, Public Domain Mark",
+      "quality": "720p"
+    },
+    {
+      "url": "https://archive.org/details/BridelessGroom1947720p",
+      "label": "Brideless Groom (1947) — Internet Archive, alternate upload",
+      "quality": "720p"
+    }
+  ],
+  "editorial": "Brideless Groom is a 1947 Three Stooges comedy short directed by Edward Bernds. Shemp plays a voice teacher who must marry before six o'clock to inherit a fortune, and nobody will accept his proposal. A short with this much circulation is an easy pick for a compilation, a classic-comedy channel or a remix.\n\nThe rights trap is that the film is the layer you can't yet call free. The Internet Archive tags one upload with a Public Domain Mark, but that is the uploader's claim. This dossier did not complete a search of the 1974–1976 Catalog of Copyright Entries renewal volumes. Check the Stanford renewal database and those volumes yourself before relying on the film. Don't assume that a Public Domain Mark on one copy covers every version.",
+  "faq": [
+    [
+      "Is Brideless Groom safe to reuse?",
+      "Not yet confirmed here. The Internet Archive tags one upload as public domain, but this dossier did not finish a renewal search. Search the Stanford renewal database and the 1974–1976 Catalog of Copyright Entries volumes first."
+    ],
+    [
+      "Which copy should I use?",
+      "Use a plain black-and-white upload and keep a record of the item page. Avoid any version with added material, such as colorization or new music, because those additions can carry their own copyright."
+    ]
+  ]
+}
