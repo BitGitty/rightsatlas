@@ -3,7 +3,7 @@
   "title": "The Wishing Ring",
   "year": 1914,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-06",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,27 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1914; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released November 9, 1914 in the US by World Film Company; the 95-year US copyright term for works published in 1914 has expired, so the film print is public domain in the US by term expiry."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images carry no soundtrack of their own. Any music on a modern copy is a separate recording or composition and may be protected by its own copyright or licence."
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Owen Davis's 1910 play 'The Wishing Ring', which premiered on Broadway. I could not confirm the play's publication or registration history, so the story layer is not marked as cleared."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,7 +39,12 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was believed lost. A 16mm print found in England by film historian Kevin Brownlow was later recovered, and the film was selected for the National Film Registry in 2012. I found no specific modern restoration release. If one exists, any new score or titles it adds could be protected."
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +72,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/silent-the-wishing-ring-an-idyll-of-old-england",
-      "label": "Internet Archive (full film)"
+      "label": "Internet Archive (full film)",
+      "quality": "Internet Archive copy; the metadata page lists Maurice Tourneur as director and Vivian Martin, Alec B. Francis and Chester Barnett in the cast"
     }
   ],
-  "editorial": "The Wishing Ring: An Idyll of Old England is a 1914 American silent comedy-drama directed by Maurice Tourneur for the World Film Corporation and shot in Fort Lee, New Jersey, starring Vivian Martin. Though French-born Tourneur directed it, it is a US production; long thought lost, a print was later recovered and the film was added to the Library of Congress National Film Registry in 2012. As a 1914 US publication, the film print is public domain by expiry of the 95-year US copyright term; other layers remain undetermined.",
-  "faq": []
+  "editorial": "The Wishing Ring: An Idyll of Old England is a silent comedy-drama released November 9, 1914 by World Film Company. Maurice Tourneur directed it, with Vivian Martin as Sally, Alec B. Francis as the Earl of Bateson and Chester Barnett as Giles. It was shot in Fort Lee, New Jersey. Tourneur was French-born, but the production is American. The film was believed lost until a 16mm print turned up in England, found by film historian Kevin Brownlow. The National Film Registry selected it in 2012. A creator gets a well-known early Tourneur picture with a surviving print.\n\nThe film print is public domain in the US because the 95-year term for 1914 publications has expired. Other layers are not cleared. It adapts Owen Davis's 1910 Broadway play, and I could not confirm that play's publication or registration history, so check it before relying on the story. Any music on a modern copy is a separate work, so use the images with your own score or a score you have cleared.",
+  "faq": [
+    [
+      "Can I reuse the 1914 film footage of The Wishing Ring in the US?",
+      "The film print is public domain in the US because the 95-year term for 1914 publications has expired. Check separately for any added score, titles or other new material in the copy you use."
+    ],
+    [
+      "Is the story free to adapt too?",
+      "Not confirmed. The film is based on Owen Davis's 1910 play, and I could not verify that play's publication or registration history. Check it before making a new adaptation of the story itself."
+    ]
+  ]
 }
