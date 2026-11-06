@@ -3,7 +3,7 @@
   "title": "The Thief of Bagdad",
   "year": 1924,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-06",
   "byline": null,
   "layers": {
     "print": {
@@ -16,12 +16,24 @@
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1924 images are free, but a score on a modern copy is a separate work. The Internet Archive item lists an organ score by Gaylord Carter, and one reviewer there says that soundtrack is a recent addition still under copyright. I could not confirm the copyright status myself, so check any music track before reuse.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/ThiefOfBagdad1924"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is freely adapted from the One Thousand and One Nights, an ancient folk-tale collection with no surviving copyright. The film's own screen story was published in 1924, so its term has also expired."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,37 +41,37 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item is described as the original public-domain version without the additional footage, interviews or new music added and copyrighted in the 1980s. That implies a 1980s edition exists with protectable additions. I did not confirm any specific restoration, so this layer stays undetermined.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/ThiefOfBagdad1924"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1951,
-      1952,
-      1953
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “The Thief of Bagdad” (renewals ~1951, 1952, 1953)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Thief+of+Bagdad"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
   "watch": [
     {
       "url": "https://archive.org/details/ThiefOfBagdad1924",
-      "label": "Internet Archive — The Thief of Bagdad (1924), full film (original public-domain version)"
+      "label": "Internet Archive — The Thief of Bagdad (1924), original public-domain version (carries a RETRO watermark and an organ score)",
+      "quality": "standard"
     }
   ],
-  "editorial": "The Thief of Bagdad is a 1924 American silent fantasy adventure directed by Raoul Walsh and produced by and starring Douglas Fairbanks, released through United Artists. Freely adapted from the One Thousand and One Nights, its enormous studio sets and elaborate special effects made it one of the most expensive and visually ambitious films of the silent era; it was selected for the National Film Registry in 1996. Published in 1924, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "The Thief of Bagdad is a 1924 American silent fantasy adventure directed by Raoul Walsh and produced by and starring Douglas Fairbanks, released through United Artists. Freely adapted from the One Thousand and One Nights, it is known for enormous studio sets and elaborate special effects, and it was selected for the National Film Registry in 1996. A creator would want it for those images, which can be reused, sampled and re-scored without permission.\n\nThe print is public domain in the US because it was published in 1924 and its 95-year term has expired. The trap is the copy you choose. The Internet Archive item has an organ score by Gaylord Carter, and a reviewer there says that soundtrack is a recent addition still under copyright. The same page says 1980s versions added footage, interviews and new music that were copyrighted. Use a clean silent transfer and add your own music, or license the one you use.",
+  "faq": [
+    [
+      "Can I use The Thief of Bagdad (1924) in my own video?",
+      "Yes for the 1924 images. The print is public domain in the US by term expiry. Check the specific copy you take: any music track, added titles or new footage on it may be separately protected."
+    ],
+    [
+      "Is the music on the Internet Archive copy free to reuse?",
+      "Not safely. The item lists an organ score by Gaylord Carter, and a reviewer there says the soundtrack is a recent addition still under copyright. I could not confirm the copyright status myself. Strip the audio and use your own or a licensed score."
+    ]
+  ]
 }
