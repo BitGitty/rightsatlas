@@ -397,3 +397,5 @@
 {"date": "2026-11-06", "id": "brideless-groom-1947", "result": "queued", "reasons": []}
 {"date": "2026-11-06", "id": "the-wind-1928", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message. I left this line out of it so the script can still parse it.\n\nClosed: nothing was left open."]}
 {"date": "2026-11-06", "id": "the-wishing-ring-1914", "result": "refreshed", "reasons": []}
+{"date": "2026-11-07", "id": "horror-express-1972", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The fact-check is done, and the verdict is fail with one issue. For a 1972 film, renewal is automatic, so the renewal-search framing in the dossier is wrong."]}
+{"date": "2026-11-07", "id": "monkey-business-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is complete and I opened nothing.\n\nTwo details to know. The 1959 renewal comes only from Wikipedia, and I never found the renewal reco"]}
