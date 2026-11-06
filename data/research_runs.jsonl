@@ -399,3 +399,5 @@
 {"date": "2026-11-06", "id": "the-wishing-ring-1914", "result": "refreshed", "reasons": []}
 {"date": "2026-11-07", "id": "horror-express-1972", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The fact-check is done, and the verdict is fail with one issue. For a 1972 film, renewal is automatic, so the renewal-search framing in the dossier is wrong."]}
 {"date": "2026-11-07", "id": "monkey-business-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is complete and I opened nothing.\n\nTwo details to know. The 1959 renewal comes only from Wikipedia, and I never found the renewal reco"]}
+{"date": "2026-11-07", "id": "way-down-east-1920", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message; this line is only to satisfy the stop hook and isn't part of it.\n\nClosed: nothing left open."]}
+{"date": "2026-11-07", "id": "mclintock-1963", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
