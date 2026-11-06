@@ -26,6 +26,16 @@
    "film": "a-christmas-carol-1910",
    "kind": "evidence"
   },
+  "a-star-is-born-1937": {
+   "ok": true,
+   "film": "a-star-is-born-1937",
+   "kind": "evidence"
+  },
+  "catalogofc19653191213libr": {
+   "ok": true,
+   "film": "christmas-comes-but-once-a-year-1936",
+   "kind": "evidence"
+  },
   "abraham-lincoln-1930-by-d.-w.-griffith": {
    "ok": true,
    "film": "abraham-lincoln-1930",
@@ -119,11 +129,6 @@
   "catalogofc19643181213libr": {
    "ok": true,
    "film": "the-terror-1963",
-   "kind": "evidence"
-  },
-  "catalogofc19653191213libr": {
-   "ok": true,
-   "film": "christmas-comes-but-once-a-year-1936",
    "kind": "evidence"
   },
   "Motionpict19601969librrich0013": {
@@ -524,7 +529,7 @@
   "ThiefOfBagdad1924": {
    "ok": true,
    "film": "the-thief-of-bagdad-1924",
-   "kind": "watch"
+   "kind": "evidence"
   },
   "the-unholy-three-1925-colorized": {
    "ok": true,
