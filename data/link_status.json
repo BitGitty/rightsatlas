@@ -36,6 +36,11 @@
    "film": "christmas-comes-but-once-a-year-1936",
    "kind": "evidence"
   },
+  "a-woman-of-paris-a-drama-of-fate-1923-by-charlie-chaplin": {
+   "ok": true,
+   "film": "a-woman-of-paris-1923",
+   "kind": "watch"
+  },
   "abraham-lincoln-1930-by-d.-w.-griffith": {
    "ok": true,
    "film": "abraham-lincoln-1930",
