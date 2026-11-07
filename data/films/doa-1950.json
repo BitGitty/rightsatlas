@@ -3,7 +3,7 @@
   "title": "D.O.A.",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-10-16",
+  "last_verified": "2026-11-07",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Public Domain Review says D.O.A. entered the US public domain through a copyright renewal error. This is a secondary source. I could not open the Catalog of Copyright Entries renewal volumes or the Copyright Office catalog to confirm that no renewal exists, so the print is not marked verified_pd.",
+          "note": "The Public Domain Review says D.O.A. is in the US public domain 'due to an error related to the renewal of the copyright.' This is a secondary source. I could not open the Catalog of Copyright Entries renewal volumes or the Copyright Office public catalog to confirm that no renewal exists, so the print is not marked verified_pd.",
           "source": "The Public Domain Review",
           "url": "https://publicdomainreview.org/collection/d-o-a-1950"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Dimitri Tiomkin is credited with the score. I did not check whether the music was separately registered or renewed. The soundtrack probably follows the film's own status, but this is unconfirmed.",
+          "note": "I did not check who composed the score or whether the music was separately registered or renewed. A sound film's recorded track normally shares the film's own status, but this is unconfirmed here.",
           "source": "The Public Domain Review",
           "url": "https://publicdomainreview.org/collection/d-o-a-1950"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The screenplay is credited to Clarence Greene and Russell Rouse. I did not confirm whether it was based on an earlier published work.",
+          "note": "I did not confirm the screenplay credits or whether the film was based on an earlier published work, so the story layer is unresolved.",
           "source": "The Public Domain Review",
           "url": "https://publicdomainreview.org/collection/d-o-a-1950"
         }
@@ -61,10 +61,6 @@
         "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=D.O.A."
       },
       {
-        "label": "Catalog of Copyright Entries, Motion Pictures & Filmstrips, Jan–June 1978 (archive.org)",
-        "url": "https://archive.org/details/catalogofcopyrig14libr"
-      },
-      {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
         "url": "https://publicrecords.copyright.gov/"
       }
@@ -74,18 +70,18 @@
     {
       "url": "https://archive.org/details/DOA1950",
       "label": "D.O.A. (1950) on the Internet Archive",
-      "quality": "Metadata confirms the title and year. Print quality and source were not checked."
+      "quality": "Metadata confirms the title and year. It is a community upload of an MP4 about 83 minutes long at 640x480. The source of the print is not stated."
     }
   ],
-  "editorial": "D.O.A. is a 1950 film noir directed by Rudolph Maté and starring Edmond O'Brien and Pamela Britton. Harry Popkin Productions and Cardinal Pictures made it. Clarence Greene and Russell Rouse wrote the screenplay, and Dimitri Tiomkin is credited with the score. A poisoned man walks into a police station to report his own murder, and he spends the rest of the film finding out who did it. That opening tracking shot is among the most recognisable in noir. The Library of Congress chose the film for the National Film Registry in 2004. Creators reuse it often for clips, remixes and noir-themed edits.\n\nThe Public Domain Review says the film is in the public domain in the US because its copyright was not renewed. That is a secondary claim. This dossier could not check the renewal records themselves, so the print stays undetermined until someone searches the Catalog of Copyright Entries and the Copyright Office catalog. The rights trap is the layers beyond the picture. The Tiomkin score and the underlying screenplay may carry their own registrations. Any restored or re-scored release may also add protected material. Check each of those before commercial reuse.",
+  "editorial": "D.O.A. is a 1950 film noir directed by Rudolph Maté, who had been nominated for the Academy Award for Best Cinematography five years in a row in the 1940s. A poisoned man walks into a police station to report his own murder, then spends the rest of the film finding out who did it. Creators reuse it for clips, remixes and noir-themed edits.\n\nThe Public Domain Review says the film is in the US public domain because of an error in renewing its copyright. That is a secondary claim. This dossier could not check the renewal records themselves, so the print stays undetermined until someone searches the Copyright Office catalog and the Stanford renewal database. The rights trap is the layers beyond the picture. The music and the underlying screenplay were not checked and may carry their own registrations. Any restored or re-scored release may also add protected material. Check each of those before commercial reuse.",
   "faq": [
     [
       "Is D.O.A. (1950) free to reuse?",
-      "Secondary sources say its copyright lapsed through a missed renewal. This dossier could not confirm that in the primary renewal records, so search the Stanford renewal database and the Copyright Office catalog yourself before relying on it. The score, the story and any modern restoration should be checked separately."
+      "The Public Domain Review says its copyright lapsed through a renewal error. This dossier could not confirm that in the primary renewal records, so search the Stanford renewal database and the Copyright Office catalog yourself before relying on it. The music, the story and any modern restoration should be checked separately."
     ],
     [
       "Where can I watch or download a copy?",
-      "The Internet Archive has an item at archive.org/details/DOA1950, and its metadata confirms the title and year. The quality of that copy was not verified. A restored release may include added material, such as new titles or a new score, that is protected separately."
+      "The Internet Archive has an item at https://archive.org/details/DOA1950. It is a community upload, and its metadata confirms the title and year. The source and quality of that print were not verified. A restored release may include added material, such as new titles or a new score, that is protected separately."
     ]
   ]
 }
