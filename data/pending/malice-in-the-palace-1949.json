@@ -1,0 +1,103 @@
+{
+  "id": "malice-in-the-palace-1949",
+  "title": "Malice in the Palace",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-11-08",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Columbia short directed by Jules White, released September 1, 1949, so the renewal window was 1977. I could not open a Catalog of Copyright Entries renewal volume or a Copyright Office record that confirms a renewal is absent. The renewal check is still open. Wikipedia says the short entered the public domain, but that claim is unsourced here and gives 1964 as the expiry year, which does not fit a 1949 release.",
+          "source": "Wikipedia, Malice in the Palace",
+          "url": "https://en.wikipedia.org/wiki/Malice_in_the_Palace"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track normally shares the print's status, so it stays undetermined until the print question is settled. I could not confirm the composer or any separate music copyright.",
+          "source": "Wikipedia, Malice in the Palace",
+          "url": "https://en.wikipedia.org/wiki/Malice_in_the_Palace"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original Three Stooges comedy short. I found no source material identified, so I could not check any underlying work.",
+          "source": "Wikipedia, Malice in the Palace",
+          "url": "https://en.wikipedia.org/wiki/Malice_in_the_Palace"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive also hosts a 'Colorized Enhanced' upload. Colorization is added material that can carry its own claim. I did not check who made it or whether any claim exists.",
+          "source": "Internet Archive search",
+          "url": "https://archive.org/advancedsearch.php?q=title%3A%28malice+in+the+palace%29&fl%5B%5D=identifier&fl%5B%5D=title&rows=10&output=json"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1976,
+      1977,
+      1978
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Malice in the Palace” (renewals ~1976, 1977, 1978)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Malice+in+the+Palace"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/malice-in-the-palace-1949",
+      "label": "Malice in the Palace (1949), Internet Archive",
+      "quality": "unverified copy; metadata credits Jules White, dated September 1, 1949"
+    },
+    {
+      "url": "https://archive.org/details/malice_in_the_palace",
+      "label": "Malice in the Palace, Internet Archive",
+      "quality": "unverified copy; metadata credits Jules White, dated 1949"
+    }
+  ],
+  "editorial": "Malice in the Palace is a Columbia Pictures Three Stooges short directed by Jules White and released September 1, 1949. It was the 117th Stooges entry, with Moe, Larry and Shemp Howard and Vernon Dent. The Stooges run a desert restaurant and go after an Emir's stolen diamond dressed as Santa Clauses. It was remade in 1956 as Rumpus in the Harem using stock footage from this film. It appears on budget home-video compilations and in several Internet Archive uploads, which makes it an easy pick for a reuser.\n\nThe rights trap is the renewal. Wikipedia says this short is public domain, but it gives 1964 as the expiry year. A 1949 release would have needed renewal in 1977, so that date looks wrong and I treat the claim as unconfirmed. Until someone checks the 1977 Catalog of Copyright Entries renewal volumes and the Copyright Office records, the print is undetermined. A free Internet Archive upload does not prove a clear copyright status. The colorized upload may carry added material.",
+  "faq": [
+    [
+      "Is Malice in the Palace public domain in the US?",
+      "Not confirmed. It was released in 1949, so a renewal would have been due in 1977. I could not open the renewal records. Wikipedia calls it public domain, but its stated 1964 expiry does not fit a 1949 release. Search the Stanford renewal database and the 1977 Catalog of Copyright Entries renewal volumes yourself before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copies or the colorized version?",
+      "The Internet Archive hosting a copy does not settle the rights. The colorized upload adds material that may carry its own claim. Check the print's renewal status first, and avoid reusing the colorization unless you know who made it."
+    ]
+  ]
+}

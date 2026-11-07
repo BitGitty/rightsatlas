@@ -409,3 +409,5 @@
 {"date": "2026-11-07", "id": "the-screaming-skull-1958", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message. I left it unchanged so the script can read it as-is.\n\nClosed: nothing was left open."]}
 {"date": "2026-11-07", "id": "detour-1945", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed.\n\nThe dossier JSON above is the deliverable. All five layers stay `undetermined`, because I could not confirm the renewal records.\n\nClosed: nothing opened."]}
 {"date": "2026-11-07", "id": "doa-1950", "result": "refreshed", "reasons": []}
+{"date": "2026-11-08", "id": "vampyr-1932", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message, and I left it unchanged so the script can parse it."]}
+{"date": "2026-11-08", "id": "malice-in-the-palace-1949", "result": "queued", "reasons": []}
