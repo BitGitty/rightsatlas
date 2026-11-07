@@ -401,3 +401,5 @@
 {"date": "2026-11-07", "id": "monkey-business-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is complete and I opened nothing.\n\nTwo details to know. The 1959 renewal comes only from Wikipedia, and I never found the renewal reco"]}
 {"date": "2026-11-07", "id": "way-down-east-1920", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message; this line is only to satisfy the stop hook and isn't part of it.\n\nClosed: nothing left open."]}
 {"date": "2026-11-07", "id": "mclintock-1963", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
+{"date": "2026-11-07", "id": "horror-express-1972", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-07", "id": "monkey-business-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message."]}
