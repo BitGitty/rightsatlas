@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-06",
+  "last_release": "2026-11-07",
   "log": [
     {
       "date": "2026-08-31",
@@ -272,6 +272,10 @@
     {
       "date": "2026-11-06",
       "film": "a-star-is-born-1937"
+    },
+    {
+      "date": "2026-11-07",
+      "film": "a-woman-of-paris-1923"
     }
   ]
 }
