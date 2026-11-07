@@ -405,3 +405,5 @@
 {"date": "2026-11-07", "id": "monkey-business-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message."]}
 {"date": "2026-11-07", "id": "way-down-east-1920", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is final, and I opened nothing that needs closing."]}
 {"date": "2026-11-07", "id": "mclintock-1963", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
+{"date": "2026-11-07", "id": "malice-in-the-palace-1949", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is the deliverable. I held the print layer at \"undetermined\" because I couldn't confirm that no renewal was filed. I never read the 19"]}
+{"date": "2026-11-07", "id": "the-screaming-skull-1958", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message. I left it unchanged so the script can read it as-is.\n\nClosed: nothing was left open."]}
