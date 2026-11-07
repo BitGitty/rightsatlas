@@ -411,3 +411,5 @@
 {"date": "2026-11-07", "id": "doa-1950", "result": "refreshed", "reasons": []}
 {"date": "2026-11-08", "id": "vampyr-1932", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message, and I left it unchanged so the script can parse it."]}
 {"date": "2026-11-08", "id": "malice-in-the-palace-1949", "result": "queued", "reasons": []}
+{"date": "2026-11-08", "id": "detour-1945", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is complete. I opened no browser or background jobs and wrote no files."]}
+{"date": "2026-11-08", "id": "attack-of-the-50-foot-woman-1958", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. Closed: nothing was opened."]}
