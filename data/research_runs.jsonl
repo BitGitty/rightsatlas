@@ -403,3 +403,5 @@
 {"date": "2026-11-07", "id": "mclintock-1963", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
 {"date": "2026-11-07", "id": "horror-express-1972", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-07", "id": "monkey-business-1931", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message."]}
+{"date": "2026-11-07", "id": "way-down-east-1920", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is final, and I opened nothing that needs closing."]}
+{"date": "2026-11-07", "id": "mclintock-1963", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
