@@ -419,3 +419,5 @@
 {"date": "2026-11-08", "id": "a-bucket-of-blood-1959", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the full output. I'm adding nothing to it because a script will parse it."]}
 {"date": "2026-11-08", "id": "red-zone-cuba-1966", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the deliverable. I opened nothing, so nothing is left open.\n\nThe dossier's print layer is undetermined. A missing renewal doesn't m"]}
 {"date": "2026-11-08", "id": "the-hound-of-the-baskervilles-1939", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON in my previous message is the complete output."]}
+{"date": "2026-11-08", "id": "a-bucket-of-blood-1959", "result": "refreshed", "reasons": []}
+{"date": "2026-11-08", "id": "a-star-is-born-1937", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed.\n\nI returned the JSON for A Star Is Born (1937) above. I set the print layer to undetermined, not verified_pd. I read only the first 100,000 of about 913,000 "]}
