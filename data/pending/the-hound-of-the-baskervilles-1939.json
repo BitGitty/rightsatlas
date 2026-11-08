@@ -1,0 +1,85 @@
+{
+  "id": "the-hound-of-the-baskervilles-1939",
+  "title": "The Hound of the Baskervilles",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-09",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released in 1939, so it is not public domain by term. Public domain would need a missing notice or a missing renewal. I could not load the Stanford renewal database or the Catalog of Copyright Entries renewal volumes in this session, so no renewal check was done. A web search only turned up unsourced 'public domain' labels, which are not evidence.",
+          "source": "Research session 2026-11-09",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film from 1939. The recorded track would normally share the film's own copyright status, which is unresolved (see the print layer). I did not confirm any separate music rights.",
+          "source": "Research session 2026-11-09",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The source novel by Arthur Conan Doyle was serialized in 1901-1902. Project Gutenberg lists it as public domain in the USA. The underlying story is free, but the 1939 film's own screenplay and added material are not covered by this layer.",
+          "source": "Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/2852"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Hound of the Baskervilles” (renewals ~1966, 1967, 1968)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Hound+of+the+Baskervilles"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Hound of the Baskervilles (1939) was made by Twentieth Century-Fox and directed by Sidney Lanfield. Basil Rathbone plays Sherlock Holmes and Nigel Bruce plays Dr. Watson. It is based on Arthur Conan Doyle's novel, which ran as a serial in 1901-1902. A creator would want it for the Rathbone and Bruce pairing and for its gothic Dartmoor mystery.\n\nThe novel is free in the US, but the film is a separate 1939 work with its own copyright. I found no verified evidence that it lapsed, and I could not check whether it was renewed in the 1966-1968 window. Some sites and uploaders label copies 'public domain' without citing a record, so that label should not be relied on. One Internet Archive upload carries a Creative Commons BY-NC-ND tag, but that is the uploader's own label and does not settle who owns the film. Before reusing footage, search the renewal records yourself.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1939 Hound of the Baskervilles?",
+      "Not safely yet. The Doyle novel it adapts is public domain, but the 1939 film is a separate work. I could not confirm whether it was renewed, so check the Stanford renewal database and the Copyright Office records first."
+    ],
+    [
+      "Can I make my own Hound of the Baskervilles adaptation?",
+      "Yes, from the Doyle novel. The novel was serialized in 1901-1902 and is listed as public domain in the USA. Do not copy the 1939 film's screenplay, dialogue changes or other added material unless that film is cleared."
+    ]
+  ]
+}
