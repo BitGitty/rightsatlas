@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-07",
+  "last_release": "2026-11-08",
   "log": [
     {
       "date": "2026-08-31",
@@ -276,6 +276,10 @@
     {
       "date": "2026-11-07",
       "film": "a-woman-of-paris-1923"
+    },
+    {
+      "date": "2026-11-08",
+      "film": "batman-and-robin-1949"
     }
   ]
 }
