@@ -425,3 +425,5 @@
 {"date": "2026-11-09", "id": "the-hound-of-the-baskervilles-1939", "result": "queued", "reasons": []}
 {"date": "2026-11-09", "id": "a-star-is-born-1937", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer, and the calling script runs the gates.\n\nThe print is marked \"undetermined\" because I could only read part of the 1965 rene"]}
 {"date": "2026-11-09", "id": "flash-gordon-1936", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is final."]}
+{"date": "2026-11-09", "id": "the-shadow-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets Nov 11, 8am (Asia/Singapore)"]}
+{"date": "2026-11-09", "id": "sylvester-1923", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets Nov 11, 8am (Asia/Singapore)"]}
