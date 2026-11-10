@@ -441,3 +441,5 @@
 {"date": "2026-11-10", "id": "jail-bait-1954", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
 {"date": "2026-11-10", "id": "manos-the-hands-of-fate-1966", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
 {"date": "2026-11-10", "id": "house-on-haunted-hill-1959", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
+{"date": "2026-11-10", "id": "the-wasp-woman-1959", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
+{"date": "2026-11-10", "id": "the-creeping-terror-1964", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
