@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-10",
+  "last_release": "2026-11-11",
   "log": [
     {
       "date": "2026-08-31",
@@ -288,6 +288,10 @@
     {
       "date": "2026-11-10",
       "film": "manos-the-hands-of-fate-1966"
+    },
+    {
+      "date": "2026-11-11",
+      "film": "applause-1929"
     }
   ]
 }
