@@ -453,3 +453,5 @@
 {"date": "2026-11-11", "id": "lost-horizon-1937", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON in my last message is the final answer. I kept it JSON-only because a script reads it. The renewal status is unverified, so the print layer "]}
 {"date": "2026-11-11", "id": "the-monster-1925", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my previous message, and I added nothing after it so the script can still parse it."]}
 {"date": "2026-11-11", "id": "carnival-of-souls-1962", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed.\n\nClosed: nothing was opened."]}
+{"date": "2026-11-11", "id": "captain-blood-1935", "result": "queued", "reasons": []}
+{"date": "2026-11-11", "id": "lost-horizon-1937", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the full answer."]}

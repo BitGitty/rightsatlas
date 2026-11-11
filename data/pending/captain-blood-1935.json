@@ -1,0 +1,85 @@
+{
+  "id": "captain-blood-1935",
+  "title": "Captain Blood",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-11",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. Pictures, Inc. released the film in December 1935 (New York premiere Dec 26, 1935). A 1935 release is not public domain by term. I could not retrieve a Catalog of Copyright Entries renewal volume or a Copyright Office record showing a renewal for the 1962-1964 window, so I cannot confirm that the renewal is absent. A major studio that kept its library in circulation is more likely to have renewed. Treat the print as protected until a renewal search is completed by hand.",
+          "source": "Stanford Copyright Renewal Database (search page; fetch returned no content)",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Captain+Blood"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally follows the film's own copyright status, which is unresolved. I did not confirm any separate music registration or renewal.",
+          "source": "RightsAtlas research",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on Rafael Sabatini's 1922 novel Captain Blood. Duke CSPD states that the only works clearly in the US public domain as of 2018 are those published before 1923, so the 1922 novel is public domain by term. This covers the novel only, not the 1935 screenplay or the film's own expression.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2018",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2018/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Captain Blood” (renewals ~1962, 1963, 1964)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Captain+Blood"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Captain Blood is Michael Curtiz's 1935 swashbuckler for Warner Bros., with Errol Flynn and Olivia de Havilland. It is adapted from Rafael Sabatini's 1922 novel. A creator might want it for its pirate imagery and for Flynn's breakout role.\n\nThe rights trap is the film itself. The novel is public domain because it was published before 1923, so you can adapt the book freely. The 1935 film is a separate work. I could not confirm that its renewal was missed, and a Warner Bros. title is likely to have been renewed. Until someone searches the 1962-1964 renewal records by hand, do not reuse footage, the soundtrack or the screenplay. Use the novel instead.",
+  "faq": [
+    [
+      "Can I use clips from the 1935 Captain Blood?",
+      "Not safely on current evidence. I found no confirmation that the 1935 film's renewal lapsed, and it is a Warner Bros. release. Search the 1962-1964 renewal records first. Until then, assume the footage and soundtrack are protected."
+    ],
+    [
+      "Can I make my own Captain Blood adaptation?",
+      "Yes, from the book. Sabatini's 1922 novel was published before 1923, so it is public domain in the US. Do not copy the 1935 screenplay's original scenes, dialogue or visuals."
+    ]
+  ]
+}
