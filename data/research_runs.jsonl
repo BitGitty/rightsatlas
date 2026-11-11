@@ -449,3 +449,5 @@
 {"date": "2026-11-11", "id": "the-creeping-terror-1964", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
 {"date": "2026-11-11", "id": "plan-9-from-outer-space-1957", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
 {"date": "2026-11-11", "id": "the-monster-1925", "result": "blocked", "reasons": ["ValueError: no JSON in model output: You've hit your weekly limit · resets 8am (Asia/Singapore)"]}
+{"date": "2026-11-11", "id": "captain-blood-1935", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON is in my last message. I couldn't confirm a renewal or non-renewal, so every layer is \"undetermined\" and the watch list is empty."]}
+{"date": "2026-11-11", "id": "lost-horizon-1937", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON in my last message is the final answer. I kept it JSON-only because a script reads it. The renewal status is unverified, so the print layer "]}
