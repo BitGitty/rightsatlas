@@ -457,3 +457,5 @@
 {"date": "2026-11-11", "id": "lost-horizon-1937", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is the full answer."]}
 {"date": "2026-11-11", "id": "carnival-of-souls-1962", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier is in my previous message. I left this line out of it so a script can parse it."]}
 {"date": "2026-11-11", "id": "freaks-1932", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer, and nothing was opened."]}
+{"date": "2026-11-12", "id": "the-revenge-of-tarzan-1920", "result": "queued", "reasons": []}
+{"date": "2026-11-12", "id": "nothing-sacred-1937", "result": "queued", "reasons": []}

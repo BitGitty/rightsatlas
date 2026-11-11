@@ -1,0 +1,98 @@
+{
+  "id": "nothing-sacred-1937",
+  "title": "Nothing Sacred",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-12",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1965 (vol. 19 nos. 1-2), which carries the Renewal Registrations section. I read the full text and found no renewal entry for Nothing Sacred. The only Selznick International entries were for other films, The Adventures of Tom Sawyer and The Young in Heart. The 1964 and 1966 volumes were not checked. The film was released Nov 25, 1937, so the renewal was due in 1965.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1965 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Oscar Levant composed the primary score, with additions by Alfred Newman and Max Steiner. A sound film's recorded track normally shares the film's status. I did not check whether the underlying compositions had separate music registrations or renewals.",
+          "source": "Wikipedia, Nothing Sacred (film)",
+          "url": "https://en.wikipedia.org/wiki/Nothing_Sacred_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on 'Letter to the Editor', a 1937 short story by James H. Street, published in Hearst's International-Cosmopolitan. I did not check whether that story's copyright was renewed. The 1953 Broadway musical Hazel Flagg is a separate derivative work.",
+          "source": "Wikipedia, Nothing Sacred (film)",
+          "url": "https://en.wikipedia.org/wiki/Nothing_Sacred_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Lorber released the film on DVD and Blu-ray in 2011, mastered from a 2K scan of Selznick's personal nitrate print preserved by George Eastman House. A 2018 Kino reissue used a 2K scan of Disney's 1999 restoration, made for ABC, which holds most Selznick library rights. A faithful transfer adds no new copyright in the film. Any added material, such as new titles, new graphics or commentary, can be protected.",
+          "source": "Wikipedia, Nothing Sacred (film)",
+          "url": "https://en.wikipedia.org/wiki/Nothing_Sacred_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": "No renewal for Nothing Sacred appears in the 1965 Catalog of Copyright Entries motion picture volume (Renewal Registrations section). The 1964 and 1966 volumes were not checked.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Nothing Sacred” (renewals ~1964, 1965, 1966)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Nothing+Sacred"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/nothing-sacred-1937-by-william-a.-wellman",
+      "label": "Nothing Sacred (1937), Internet Archive",
+      "quality": "unrestored circulating copy; quality unverified"
+    }
+  ],
+  "editorial": "Nothing Sacred is the 1937 Technicolor screwball comedy from Selznick International Pictures. William Wellman directed, Ben Hecht wrote the credited screenplay, and Carole Lombard and Fredric March star. It was released on Nov 25, 1937. It is adapted from James H. Street's short story 'Letter to the Editor'. Oscar Levant wrote the main score, with additions from Alfred Newman and Max Steiner.\n\nThe film's copyright was not renewed in its 28th year. I found no renewal in the 1965 Catalog of Copyright Entries, and the Internet Archive item is tagged as public domain for lack of renewal. So the print is free to reuse. The trap is that this clearance covers the film only. The source story, the score's underlying compositions, and anything added in the Kino and Disney/ABC transfers were not cleared here. The 1964 and 1966 renewal volumes were also not checked.",
+  "faq": [
+    [
+      "Can I use clips from the Internet Archive copy of Nothing Sacred?",
+      "The film's copyright appears not to have been renewed. I found no renewal in the 1965 Catalog of Copyright Entries, and I did not check the 1964 and 1966 volumes. Clips from an unrestored copy should therefore be safe for the film itself. The story and music layers are not confirmed as free."
+    ],
+    [
+      "Can I use the Kino Lorber or Disney restoration?",
+      "The film itself is not newly protected by a faithful restoration. Anything the restorers added, such as new titles, graphics or commentary, can still be protected. Ripping a copy-protected disc can also break the DMCA, 17 U.S.C. 1201. A circulating public-domain copy avoids both problems."
+    ]
+  ]
+}

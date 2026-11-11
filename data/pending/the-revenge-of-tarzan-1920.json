@@ -1,0 +1,85 @@
+{
+  "id": "the-revenge-of-tarzan-1920",
+  "title": "The Revenge of Tarzan",
+  "year": 1920,
+  "country": "US",
+  "last_verified": "2026-11-12",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "First published in the US in 1920. Works published before 1931 are in the US public domain because the copyright term has expired (Cornell copyright chart).",
+          "source": "Cornell University Library, Copyright Term and the Public Domain in the United States",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Silent film, so there is no original recorded track. The 1920 images are free. Any music on a modern copy or release is a separate work and may be protected.",
+          "source": "Analysis of the film's silent status",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Edgar Rice Burroughs' novel The Return of Tarzan. Project Gutenberg lists it as originally published in 1913 and public domain in the USA. That is before the cutoff, so the source has also expired by term.",
+          "source": "Project Gutenberg, The Return of Tarzan",
+          "url": "https://www.gutenberg.org/ebooks/81"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1947,
+      1948,
+      1949
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Revenge of Tarzan” (renewals ~1947, 1948, 1949)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Revenge+of+Tarzan"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Revenge of Tarzan is a silent adventure film that premiered on May 30, 1920. Harry Revier and George M. Merrick directed it for the Great Western Film Producing Company, and Goldwyn Pictures distributed it. Gene Pollar played Tarzan and Karla Schramm played Jane. Pollar was a former firefighter and made no other films. The cast also includes Estelle Taylor and an orangutan named Joe Martin. Robert Saxmar adapted Edgar Rice Burroughs' novel The Return of Tarzan. The film was shot in New York, Florida and Balboa, California. The plot follows Tarzan and Jane to Paris, where the villain Nikolas Rokoff throws Tarzan overboard, and ends with Tarzan rescuing Jane in Africa and defeating Rokoff. A creator might want it as an early screen Tarzan with a one-film lead actor.\n\nThe print is free because it was published in 1920, well before the current cutoff for published works. The story is also free, since the novel is from 1913. The rights trap is the Tarzan character and franchise. Trademarks can outlast copyright, and I have not confirmed whether any active mark covers this use. Any music on a modern copy is separate from the 1920 images. I found no Internet Archive copy of the film to cite. Wikipedia says the BFI National Film Archive in London holds a complete print, but that is an archive holding, not a licence to reuse. Check the source and any added material of whatever copy you use.",
+  "faq": [
+    [
+      "Can I reuse footage from The Revenge of Tarzan?",
+      "The 1920 print is free in the US because it was published before the current cutoff for published works. Check the copy you use for added music, new titles or other material. Those additions can carry their own rights. The Tarzan character and name may also carry trademark rights, which I have not checked."
+    ],
+    [
+      "Does the Burroughs novel it is based on have a copyright problem?",
+      "No. The film adapts The Return of Tarzan. Project Gutenberg lists it as first published in 1913 and public domain in the USA, so the story has expired by term. Trademark rights in Tarzan are a separate question."
+    ]
+  ]
+}
