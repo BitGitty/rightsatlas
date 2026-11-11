@@ -3,7 +3,7 @@
   "title": "Freaks",
   "year": 1932,
   "country": "US",
-  "last_verified": "2026-11-02",
+  "last_verified": "2026-11-12",
   "byline": null,
   "layers": {
     "print": {
@@ -19,11 +19,25 @@
     },
     "score": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the film's own status, so it stays undetermined until the print's renewal status is settled. I did not research the music credits.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/freaks-1932_202506"
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive description gives the plot, but I did not confirm any source work or its publication date in this session, so the story layer is not determined.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/freaks-1932_202506"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -63,7 +77,7 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "Freaks is the 1932 horror drama directed by Tod Browning, listed on the Internet Archive as a full 61-minute feature. Its story follows a trapeze artist who marries a circus performer for his inheritance. A creator would want it for its cast of real sideshow performers and its place in early sound horror.\n\nThe rights question for this film is not settled here. A 1932 film is not public domain by age alone. It is free only if its copyright notice was missing or its 28th-year renewal was never filed, and this dossier did not find proof of either. The Stanford renewal database and the Catalog of Copyright Entries could not be read in this session. Check both by hand using the links in the renewal search before you reuse the film. The Internet Archive copy being online does not show the film is free to reuse.",
+  "editorial": "Freaks is a 1932 film directed by Tod Browning, listed on the Internet Archive as a full feature of about 61 minutes. Its plot, per the archive's description, follows the trapeze artist Cleopatra, who marries the circus performer Hans once she learns of his inheritance, while planning to steal his fortune and run off with her lover.\n\nThe rights question for this film is not settled here. A 1932 film is not public domain by age alone. It is free only if its copyright notice was missing or its 28th-year renewal was never filed, and this dossier found proof of neither. The Stanford renewal database and the Catalog of Copyright Entries could not be read in this session. Check both by hand, using the links in the renewal search, before you reuse the film. The Internet Archive copy being online does not show the film is free to reuse.",
   "faq": [
     [
       "Is Freaks (1932) public domain in the US?",
