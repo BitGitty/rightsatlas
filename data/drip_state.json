@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-11",
+  "last_release": "2026-11-12",
   "log": [
     {
       "date": "2026-08-31",
@@ -292,6 +292,10 @@
     {
       "date": "2026-11-11",
       "film": "applause-1929"
+    },
+    {
+      "date": "2026-11-12",
+      "film": "civilization-1915"
     }
   ]
 }
