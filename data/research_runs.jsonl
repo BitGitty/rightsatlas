@@ -461,3 +461,5 @@
 {"date": "2026-11-12", "id": "nothing-sacred-1937", "result": "queued", "reasons": []}
 {"date": "2026-11-12", "id": "freaks-1932", "result": "refreshed", "reasons": []}
 {"date": "2026-11-12", "id": "the-navigator-1924", "result": "refreshed", "reasons": []}
+{"date": "2026-11-12", "id": "room-service-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is final, and I added nothing to it so the script can still parse it. Nothing was opened, so nothing needs closing."]}
+{"date": "2026-11-12", "id": "saps-at-sea-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer. The print layer is still undetermined because I only partly checked the renewal records."]}
