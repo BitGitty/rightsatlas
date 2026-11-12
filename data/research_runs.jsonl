@@ -465,3 +465,5 @@
 {"date": "2026-11-12", "id": "saps-at-sea-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer. The print layer is still undetermined because I only partly checked the renewal records."]}
 {"date": "2026-11-12", "id": "the-wishing-ring-1914", "result": "refreshed", "reasons": []}
 {"date": "2026-11-12", "id": "doa-1950", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full output. The script should ignore this line. I opened nothing, so there is nothing to close."]}
+{"date": "2026-11-12", "id": "room-service-1938", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer, and the renewal check was left unverified for the reason it gives."]}
+{"date": "2026-11-12", "id": "saps-at-sea-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is the deliverable, and the print layer is still undetermined because I couldn't finish the renewal check."]}
