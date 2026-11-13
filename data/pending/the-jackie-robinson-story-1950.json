@@ -1,0 +1,102 @@
+{
+  "id": "the-jackie-robinson-story-1950",
+  "title": "The Jackie Robinson Story",
+  "year": 1950,
+  "country": "US",
+  "last_verified": "2026-11-13",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists the film among US public-domain films, and the Internet Archive item is tagged Public Domain. Neither is a primary source. I did not confirm the missing notice or missing renewal in the Catalog of Copyright Entries or the Copyright Office catalog. The first 100,000 characters of the 1977 and Jan-Jun 1978 motion-picture CCE volumes showed no renewal, but those volumes are about 3 million characters each and I did not read the rest.",
+          "source": "Wikipedia, The Jackie Robinson Story",
+          "url": "https://en.wikipedia.org/wiki/The_Jackie_Robinson_Story"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to Herschel Burke Gilbert. A sound film's recorded track normally shares the film's own status, so this layer follows the print layer, which is unresolved. I did not check any separate music copyright.",
+          "source": "Wikipedia, The Jackie Robinson Story",
+          "url": "https://en.wikipedia.org/wiki/The_Jackie_Robinson_Story"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is in part based on Robinson's autobiography 'My Own Story'. I did not check that book's publication date or copyright status. The screenplay is credited to Arthur Mann and Lawrence Taylor.",
+          "source": "Wikipedia, The Jackie Robinson Story",
+          "url": "https://en.wikipedia.org/wiki/The_Jackie_Robinson_Story"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A colorized version was released on April 19, 2005 by 20th Century Fox and Legend Films, with proceeds going to the Jackie Robinson Foundation. The colorization is added material that can carry its own copyright. An MGM version is also offered on Amazon Prime Video.",
+          "source": "Wikipedia, The Jackie Robinson Story",
+          "url": "https://en.wikipedia.org/wiki/The_Jackie_Robinson_Story"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1977,
+      1978,
+      1979
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Jackie Robinson Story” (renewals ~1977, 1978, 1979)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Jackie+Robinson+Story"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — CCE Motion Pictures Jan-Dec 1977 volume",
+        "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — CCE Motion Pictures Jan-Jun 1978 volume",
+        "url": "https://archive.org/details/catalogofcopyrig14libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Jackie_Robinson_Story_The",
+      "label": "The Jackie Robinson Story (1950), Internet Archive, 1h16m, tagged Public Domain",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "The Jackie Robinson Story is a 1950 biographical drama in which Robinson plays himself. It follows him from his youth through college football, WWII service and the minor leagues to his 1949 season with the Brooklyn Dodgers. Alfred E. Green directed. Green had made The Jolson Story. Arthur Mann and Lawrence Taylor wrote it, and Herschel Burke Gilbert composed the music. It was released in the US on May 16, 1950, and Wikipedia credits Jewel Pictures as the production company. A creator would want it for baseball and civil-rights history, because it is a rare film in which Robinson plays himself.\n\nThe trap is that the print's status has not been confirmed from primary records. Secondary sources and the Internet Archive tag call the film public domain, but nobody has yet cited the Catalog of Copyright Entries renewal volumes or the Copyright Office catalog. The 2005 colorized release by Legend Films adds new material that can be protected, so use a black-and-white copy and not that version. The autobiography the film partly draws on has not been checked either.",
+  "faq": [
+    [
+      "Is The Jackie Robinson Story public domain in the US?",
+      "It is widely described that way, but this dossier has not confirmed it. The 1950 film's status depends on a missing notice or a missing renewal, and I did not finish the renewal search. Search the Stanford renewal database and the 1977 and 1978 Catalog of Copyright Entries volumes yourself before relying on it."
+    ],
+    [
+      "Can I use the colorized version?",
+      "Not on the same assumption. The 2005 colorization by Legend Films and 20th Century Fox is added material that can carry its own copyright. If you want the underlying film, start from an unaltered black-and-white copy, such as the Internet Archive item."
+    ]
+  ]
+}

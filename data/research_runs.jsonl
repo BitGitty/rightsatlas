@@ -477,3 +477,5 @@
 {"date": "2026-11-13", "id": "sing-a-song-of-six-pants-1947", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON in my previous message is the deliverable. Print status stays undetermined because I could only read part of the 1975 renewal volume.\n\nClose"]}
 {"date": "2026-11-13", "id": "flash-gordon-conquers-the-universe-1940", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is the full answer. I'm not adding text to it because a script reads that output.\n\nClosed: nothing was opened."]}
 {"date": "2026-11-13", "id": "the-navigator-1924", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The corrected dossier JSON is in my previous message."]}
+{"date": "2026-11-13", "id": "the-jackie-robinson-story-1950", "result": "queued", "reasons": []}
+{"date": "2026-11-13", "id": "the-brain-from-planet-arous-1957", "result": "queued", "reasons": []}

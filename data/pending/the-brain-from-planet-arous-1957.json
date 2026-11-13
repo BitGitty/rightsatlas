@@ -1,0 +1,91 @@
+{
+  "id": "the-brain-from-planet-arous-1957",
+  "title": "The Brain from Planet Arous",
+  "year": 1957,
+  "country": "US",
+  "last_verified": "2026-11-13",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item carries a Public Domain Mark 1.0 tag, but that tag is an uploader label and is not a copyright record. I could not confirm that no renewal was filed in the 1985 window. The Copyright Office public catalog and the Stanford renewal database would not load for me, so I did not complete that search.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/TheBrainFromPlanetArous"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Walter Greene is credited as composer. The score is part of the film's recorded track and would normally share the film's status. I did not confirm that the film's status is settled, so I am not calling the score public domain.",
+          "source": "Wikipedia, fetched for the production credits only",
+          "url": "https://en.wikipedia.org/wiki/The_Brain_from_Planet_Arous"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Ray Buffum is credited as writer. I found no source saying the film adapts an earlier published work. I did not check for an earlier registration of the screenplay.",
+          "source": "Wikipedia, fetched for the production credits only",
+          "url": "https://en.wikipedia.org/wiki/The_Brain_from_Planet_Arous"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1984,
+      1985,
+      1986
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Brain from Planet Arous” (renewals ~1984, 1985, 1986)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Brain+from+Planet+Arous"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheBrainFromPlanetArous",
+      "label": "The Brain from Planet Arous (1957) on the Internet Archive, about 71 min, directed by Nathan Juran",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Brain from Planet Arous is a low-budget American science-fiction feature. Nathan H. Juran directed it under the pseudonym \"Nathan Hertz\". Jacques R. Marquette produced it, Ray Buffum wrote it and Walter Greene composed the music. John Agar plays a scientist possessed by an alien brain, and Joyce Meadows and Robert Fuller are in the cast. Howco International released it on a double bill with Teenage Monster, with a premiere on December 26, 1957. It has a cult following and has been sampled in many modern music tracks, which makes it attractive for clips, remixes and commentary.\n\nThe rights question is whether a renewal was filed in the 1985 window, 28 years after publication. I could not complete that check. The Internet Archive's Public Domain Mark is an uploader's label, not proof. I would not treat any layer as cleared until the Copyright Office public catalog and the Stanford renewal database have been searched for the title and for the claimants Howco and Marquette. A separate trap is that a newer \"HD restoration\" upload may add protectable material. I did not inspect any such upload.",
+  "faq": [
+    [
+      "Is The Brain from Planet Arous in the public domain in the US?",
+      "Not confirmed. The Internet Archive copy is tagged as public domain, but I could not verify the absence of a renewal. Search the Stanford renewal database and the Copyright Office public catalog yourself before relying on it."
+    ],
+    [
+      "Can I use a clip from the Internet Archive copy?",
+      "Only after the renewal check is done. If it shows no renewal, the picture and its soundtrack would be free to use. Any added titles, new music or colorization in a particular upload would still be separate material to check."
+    ]
+  ]
+}
