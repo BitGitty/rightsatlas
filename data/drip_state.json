@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-12",
+  "last_release": "2026-11-13",
   "log": [
     {
       "date": "2026-08-31",
@@ -296,6 +296,10 @@
     {
       "date": "2026-11-12",
       "film": "civilization-1915"
+    },
+    {
+      "date": "2026-11-13",
+      "film": "flash-gordon-conquers-the-universe-1940"
     }
   ]
 }
