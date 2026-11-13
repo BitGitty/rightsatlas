@@ -3,7 +3,7 @@
   "title": "Flash Gordon Conquers the Universe",
   "year": 1940,
   "country": "US",
-  "last_verified": "2026-11-13",
+  "last_verified": "2026-11-14",
   "byline": null,
   "layers": {
     "print": {
@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not free by term, because it was released as a Universal Pictures serial in the 1940s. Public domain would depend on a missing renewal in the film's 28th-year window. I could not confirm whether a renewal exists. The Stanford renewal database search page returned no usable content in this session, and I did not check the Catalog of Copyright Entries volumes or the Copyright Office catalog.",
-          "source": "Stanford Copyright Renewal DB (search page, no usable result)",
-          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+          "note": "Credited to Universal Pictures. Published after 1930, so it is free only if its copyright was not renewed in the 28th-year window. I could not confirm a renewal or its absence: the Stanford renewal database page returned no usable content in this session, and I did not check the Catalog of Copyright Entries volumes or the Copyright Office catalog.",
+          "source": "Internet Archive item metadata (no license or copyright finding given)",
+          "url": "https://archive.org/details/flash_gordon1"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a sound serial. The recorded track would normally share the print's status, which is unresolved. I did not confirm any composer credits.",
+          "note": "This is a sound serial, so the recorded track would normally share the print's status, which is unresolved. I did not confirm any composer credits or the origin of the music.",
           "source": "Internet Archive item metadata",
           "url": "https://archive.org/details/flash_gordon1"
         }
@@ -33,8 +33,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The serial adapts Alex Raymond's Flash Gordon comic strip, syndicated by King Features. The strip's copyright and the character rights are separate from the film's copyright and are not shown to be expired.",
-          "source": "Wikipedia summary of the serial, used as a lead only",
+          "note": "The Internet Archive item lists the subject 'Flash Gordon'. The serial adapts the Flash Gordon character and comic-strip property, whose rights are separate from the film's copyright. I did not fetch any record showing those rights have expired, so I treat them as not cleared.",
+          "source": "Internet Archive item metadata",
           "url": "https://archive.org/details/flash_gordon1"
         }
       ]
@@ -73,15 +73,15 @@
   "watch": [
     {
       "url": "https://archive.org/details/flash_gordon1",
-      "label": "Flash Gordon Conquers the Universe, Part 1 (Universal Pictures; directors Ford Beebe and Ray Taylor; 19 min)",
-      "quality": "MPEG2 original (734 MB) with MPEG4 and Ogg derivatives, 320x240 MP4"
+      "label": "Flash Gordon Conquers the Universe, Part 1 (Universal Pictures)",
+      "quality": "Internet Archive item in the Short films and Movies and films collections"
     }
   ],
-  "editorial": "Flash Gordon Conquers the Universe is a Universal Pictures sound serial directed by Ford Beebe and Ray Taylor. The Internet Archive holds its chapters. Part 1 runs 19 minutes, and its description has Flash, Dale and Zarkov returning to Planet Mongo to find an antidote for the Purple Death. A creator would want the footage as ready-made period adventure material.\n\nThe rights question is unresolved. The film is from the 1940s, so it is free only if its copyright was not renewed in the 28th-year window. I could not confirm a renewal or its absence. The Archive's own metadata gives no license for the item and has no copyright finding. Check the renewal records before reusing the footage. Also check separately for any character or source-material rights, which a film's expiry would not end.",
+  "editorial": "Flash Gordon Conquers the Universe is a Universal Pictures sound serial. The Internet Archive holds Part 1, whose description has Flash, Dale and Zarkov returning to Planet Mongo to find an antidote for the Purple Death. A creator would want it as ready-made period science-fiction adventure footage.\n\nThe rights question is unresolved. The serial dates from the 1940s, so its print is free only if its copyright was not renewed in the 28th-year window. I could not confirm a renewal or its absence, and the Archive item gives no license. Check the renewal records before reusing the footage. The Flash Gordon characters and source material carry their own rights, and the film's copyright expiring would not end them.",
   "faq": [
     [
       "Is Flash Gordon Conquers the Universe public domain?",
-      "Not established. It is a 1940s Universal serial, so it is free only if its copyright was never renewed. I could not confirm that either way. The Internet Archive item metadata specifies no license."
+      "Not established. It is a 1940s Universal serial, so it is free only if its copyright was never renewed. I could not confirm that either way, and the Internet Archive item specifies no license."
     ],
     [
       "Can I use the Flash Gordon characters in a new work?",
