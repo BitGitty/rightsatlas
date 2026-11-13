@@ -479,3 +479,5 @@
 {"date": "2026-11-13", "id": "the-navigator-1924", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The corrected dossier JSON is in my previous message."]}
 {"date": "2026-11-13", "id": "the-jackie-robinson-story-1950", "result": "queued", "reasons": []}
 {"date": "2026-11-13", "id": "the-brain-from-planet-arous-1957", "result": "queued", "reasons": []}
+{"date": "2026-11-13", "id": "flash-gordon-conquers-the-universe-1940", "result": "refreshed", "reasons": []}
+{"date": "2026-11-13", "id": "the-navigator-1924", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is complete, so the script can run its gates on it. I opened nothing, so there is nothing to close."]}
