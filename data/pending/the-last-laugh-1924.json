@@ -1,0 +1,109 @@
+{
+  "id": "the-last-laugh-1924",
+  "title": "The Last Laugh",
+  "year": 1924,
+  "country": "DE",
+  "last_verified": "2026-11-14",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Published in 1924. US copyright lasts 95 years from publication, so 1924 works entered the US public domain on January 1, 2020. Duke CSPD states that works from 1924 entered the US public domain on that date.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2020/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "German-origin film. Even if its US copyright was restored under the URAA, a restored work only gets the term a US work of the same publication date would have. For a 1924 publication that term ran out at the end of 2019, so restoration does not keep the print protected today.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://cspd.law.duke.edu/publicdomainday/2020/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The 2017 Kino Lorber Blu-ray offers the original 1924 score by Giuseppe Becce and a new score by the Berklee Silent Film Orchestra. The unrestored export version carries a Timothy Brock score performed by the Olympia Chamber Orchestra. Modern recordings and new scores are separate works that can be protected.",
+          "source": "Movies Silently, Unboxing the Silents: The Last Laugh on Blu-ray",
+          "url": "https://moviessilently.com/2017/10/31/unboxing-the-silents-the-last-laugh-on-bluray/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Archive.org metadata credits the screenplay to Carl Mayer, so the film is an original screenplay and not an adaptation of an earlier work. The screenplay was produced with the 1924 film, and its US term ended with the film's, at the end of 2019.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-last-laugh-restored-720p-hd"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Kino Lorber's 2017 Blu-ray is a 2K restoration by the Murnau Stiftung that assembles pieces from three filmed versions. A faithful restoration adds no new US copyright. The new Berklee score and any added or translated titles on that release can be protected.",
+          "source": "Movies Silently, Unboxing the Silents: The Last Laugh on Blu-ray",
+          "url": "https://moviessilently.com/2017/10/31/unboxing-the-silents-the-last-laugh-on-bluray/"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1951,
+      1952,
+      1953
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Last Laugh” (renewals ~1951, 1952, 1953)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Last+Laugh"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-last-laugh_eng",
+      "label": "The Last Laugh (1924), Internet Archive, marked Public Domain (CC Mark 1.0)",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/the-last-laugh-restored-720p-hd",
+      "label": "The Last Laugh (restored), Internet Archive upload of July 30, 2021",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Last Laugh (Der letzte Mann) is F. W. Murnau's 1924 German silent about a hotel doorman, played by Emil Jannings, who loses his job and his uniform. Carl Mayer wrote it and Karl Freund shot it. It is known for its roaming \"free camera\" and for telling the story almost without intertitles, which makes it easy to reuse across languages. Clips work for film-history videos, essays and teaching.\n\nThe 1924 images are free in the US: the 95-year term ended on January 1, 2020, and the German origin does not change that. The trap is the copy you pick. The Kino Lorber release of the Murnau Stiftung's 2K restoration comes with the Becce score and a 2017 Berklee Silent Film Orchestra score, and the Brock score is on the export version. Those recordings and any new titles are separate works. Use a copy with no score, or one you score yourself, and avoid ripping the disc, since circumventing its copy protection can breach 17 U.S.C. 1201.",
+  "faq": [
+    [
+      "Can I use clips from The Last Laugh in a monetized video?",
+      "The 1924 images are in the US public domain, since the 95-year term ended on January 1, 2020. Check the copy you take them from. A Kino Lorber or Murnau Stiftung restoration includes scores and possibly titles that can be protected, so strip the audio and check the titles, or start from a plain archive copy."
+    ],
+    [
+      "Is the music on The Last Laugh free to use?",
+      "Not automatically. The film is silent, and the scores on the 2017 Kino Lorber Blu-ray (Becce's 1924 score, the Berklee Silent Film Orchestra score and the Brock score on the export version) are separate works and recordings. Use your own score or a recording you have cleared."
+    ]
+  ]
+}

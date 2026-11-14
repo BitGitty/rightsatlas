@@ -489,3 +489,5 @@
 {"date": "2026-11-14", "id": "the-killer-shrews-1959", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The dossier JSON above is the deliverable. The stop hook asked for a plain line, so I added one. If your script parses only the final message, take the JSON "]}
 {"date": "2026-11-14", "id": "captain-blood-1935", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON dossier above is final.\n\nClosed: nothing left open."]}
 {"date": "2026-11-14", "id": "the-wishing-ring-1914", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed."]}
+{"date": "2026-11-14", "id": "the-killer-shrews-1959", "result": "blocked", "reasons": ["ValueError: no JSON in model output: No action needed. The JSON above is the full answer. The print layer is undetermined because I couldn't find 1986–88 renewal records online. The Copyright Office search still "]}
+{"date": "2026-11-14", "id": "the-last-laugh-1924", "result": "queued", "reasons": []}
