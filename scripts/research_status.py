@@ -86,6 +86,7 @@ def gather() -> dict:
                         if l.endswith(".json")]),
         "ci": ci,
         "lanes": lanes(today),
+        "traffic": traffic(),
         "renewal_audit": renewal_audit(),
         "suggestions": new_suggestions(),
     }
@@ -107,6 +108,25 @@ def new_suggestions():
     rows = [r.split(" | ") for r in out[2:] if " | " in r]
     return [f"[{k}] " + " ".join(x for x in (f, f"({y})" if y else "", p, m) if x).strip()
             + (" · wants a reply" if e.strip() == "t" else "") for k, f, y, p, m, e in rows]
+
+
+def traffic():
+    """2026-11-15 owner: 'how can I see / monitor Atlas traffic?' -> one line in the daily Telegram.
+    Views in the last 7 days vs the 7 before, and how many came from search engines. None = could not read."""
+    sql = ("select sum(case when ts > now() - interval '7 days' then 1 else 0 end), "
+           "sum(case when ts <= now() - interval '7 days' then 1 else 0 end), "
+           "sum(case when ts > now() - interval '7 days' and (referrer ilike '%google.%' or referrer ilike '%bing.%' "
+           "or referrer ilike '%duckduckgo%') then 1 else 0 end), "
+           "sum(case when ts > now() - interval '1 day' then 1 else 0 end) "
+           "from pageviews where site = 'rightsatlas' and ts > now() - interval '14 days'")
+    try:
+        out = subprocess.run([sys.executable, "D:/roomkaki/backend/run_sql.py", "-c", sql], capture_output=True,
+                             text=True, encoding="utf-8", errors="replace", timeout=60).stdout.splitlines()
+        week, prev, search, day = (int(x or 0) for x in out[2].split(" | "))
+    except Exception:
+        return None
+    trend = f"{(week - prev) * 100 // prev:+d}%" if prev else "new"
+    return f"Traffic: {day} views today · {week} this week ({trend} vs last week) · {search} from Google/Bing"
 
 
 SHORTS = Path("D:/viral-shorts-factory/extras/rightsatlas_shorts")
@@ -205,6 +225,7 @@ def evaluate(f: dict):
         fails.append(f"last site build: {ci.get('conclusion')}")
     ln, stale = f.get("lanes") or {}, (date.fromisoformat(f["today"]) - timedelta(days=2)).isoformat()
     if ln:
+        lines.insert(0, f.get("traffic") or "Traffic: could not read (Supabase)")
         sg = f.get("suggestions", [])
         if sg is None:
             warns.append("could not read visitor suggestions (Supabase)")
