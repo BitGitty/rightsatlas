@@ -1,0 +1,98 @@
+{
+  "id": "tarzan-and-his-mate-1934",
+  "title": "Tarzan and His Mate",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1934, so it is protected unless a notice was missing or the renewal lapsed. A search-result snippet (AFI catalog, which returned 403 when fetched) said the film was renewed in April 1961. I could not open a CCE volume or a Stanford renewal record to confirm it. Treat the print as probably renewed and not public domain until the 1961 renewal entry is checked.",
+          "source": "Stanford Copyright Renewal Database (the search page returned no content when fetched)",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Composer William Axt, per the film's Wikipedia entry. A sound film's recorded track normally shares the film's own copyright status, so the score follows the print.",
+          "source": "Wikipedia, Tarzan and His Mate",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_and_His_Mate"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on characters created by Edgar Rice Burroughs, per the film's Wikipedia entry. This is an original MGM screenplay, not an adaptation of one novel. I did not check which Burroughs publications are in the public domain. The 1934 screenplay is covered by the film's own copyright.",
+          "source": "Wikipedia, Tarzan and His Mate",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_and_His_Mate"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Per Wikipedia, an unedited print was found in the MGM vaults and released in 1986 after Ted Turner acquired the MGM library. TCM says Turner's 1991 video release restored the original uncensored version, including the underwater swimming scene. The film was selected for the National Film Registry in 2003. I found no evidence of added score or colorization in these sources.",
+          "source": "TCM article and Wikipedia",
+          "url": "https://www.tcm.com/articles/76281/tarzan-and-his-mate"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Tarzan and His Mate” (renewals ~1961, 1962, 1963)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Tarzan+and+His+Mate"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/tarzan-and-his-mate-1934",
+      "label": "Tarzan And His Mate (1934) — user upload on the Internet Archive, about 99 min",
+      "quality": "unverified user upload; check for the uncensored cut"
+    }
+  ],
+  "editorial": "Tarzan and His Mate is the second MGM Tarzan film with Johnny Weissmuller and Maureen O'Sullivan. It was released by Loew's, Inc. on April 16, 1934. Jack Conway and Cedric Gibbons are credited as directors, and it is Gibbons's only directing credit. It is a pre-Code title. MGM cut three versions for different markets, and the original underwater swimming scene with nudity was only restored when Ted Turner released it on video in 1991. Creators want it for the jungle set pieces and for that censorship history.\n\nThe trap is the copyright. I found no verified evidence that the 1934 film lapsed into the public domain. A search snippet reported an April 1961 renewal, and I could not confirm it from a primary record. Until the 1961 renewal entry is checked in the Catalog of Copyright Entries or the Stanford database, treat the print as protected. Even if the print were free, the Burroughs characters could carry separate rights, and I did not check trademarks. Selection for the National Film Registry in 2003 is a preservation honor and does not affect copyright. The Internet Archive has uploads of the film, but being hosted there does not make a title free to reuse.",
+  "faq": [
+    [
+      "Can I reuse clips from Tarzan and His Mate?",
+      "Not safely yet. A 1961 renewal was reported in a search snippet that I could not confirm. Check the Stanford renewal database or the 1961 Catalog of Copyright Entries yourself. If the renewal is confirmed, the film is protected and you need a license from the rights holder. Treat the Burroughs characters and any Tarzan marks as a separate question."
+    ],
+    [
+      "Does the National Film Registry listing or the Internet Archive upload make it public domain?",
+      "No. The 2003 Registry selection is a preservation honor and has no effect on copyright. Anyone can upload a film to the Internet Archive, so an upload does not show that the film is free."
+    ]
+  ]
+}

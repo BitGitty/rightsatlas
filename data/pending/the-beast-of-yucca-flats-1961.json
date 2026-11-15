@@ -1,0 +1,91 @@
+{
+  "id": "the-beast-of-yucca-flats-1961",
+  "title": "The Beast of Yucca Flats",
+  "year": 1961,
+  "country": "US",
+  "last_verified": "2026-11-15",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not cleared. I could not read any Catalog of Copyright Entries renewal volume or run a Copyright Office public catalog search in this session. The Internet Archive item labels the film public domain, but that is an uploader's label, not a renewal search.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/TheBeastOfYuccaFlats1961"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Gene Kauer, Irwin Nafshun and Al Remington. A sound film's recorded track would normally share the film's own status, but the print status is unresolved, so the score is too. No separate music registration was checked.",
+          "source": "Wikipedia, The Beast of Yucca Flats",
+          "url": "https://en.wikipedia.org/wiki/The_Beast_of_Yucca_Flats"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Coleman Francis is credited as writer and director. I found nothing in the sources fetched showing the film is based on earlier published material, and I did not check for a separate screenplay registration.",
+          "source": "Wikipedia, The Beast of Yucca Flats",
+          "url": "https://en.wikipedia.org/wiki/The_Beast_of_Yucca_Flats"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1988,
+      1989,
+      1990
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Beast of Yucca Flats” (renewals ~1988, 1989, 1990)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Beast+of+Yucca+Flats"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheBeastOfYuccaFlats1961",
+      "label": "The Beast Of Yucca Flats (1961), 53 min 56 s, Internet Archive",
+      "quality": "full feature, upload of unknown source quality"
+    }
+  ],
+  "editorial": "The Beast of Yucca Flats is a 54-minute 1961 feature written and directed by Coleman Francis. It stars Tor Johnson as a scientist who is caught in a nuclear blast and turned into a homicidal maniac. Cinema Associates distributed it from May 2, 1961, on a reported budget of about $34,000. It was shot mostly without synchronized dialogue and relies on narration. That gives a reuser a short, easily clipped feature with a recognizable cult lead.\n\nThe rights trap is that the print is not cleared. The Internet Archive labels its copy public domain, but I found no renewal search to support that. I could not run the Catalog of Copyright Entries or Copyright Office search here. A film published in 1961 had to be renewed in its 28th year, so the work is public domain only if no renewal exists. Run that search yourself before relying on the film. The score, any other music and any added titles or restoration material would still need separate clearance.",
+  "faq": [
+    [
+      "Is The Beast of Yucca Flats in the public domain?",
+      "Not confirmed. The Internet Archive item says public domain, but no renewal search of the Catalog of Copyright Entries or the Copyright Office catalog has been verified here. Run the linked searches for renewals around 1989 before reuse."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Only after the renewal check. Even if the print is clear, the score and any titles or other material added to that particular copy could carry their own rights, so use a clean source and check the music."
+    ]
+  ]
+}
