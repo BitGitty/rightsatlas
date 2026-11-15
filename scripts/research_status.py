@@ -152,6 +152,12 @@ def evaluate(f: dict):
         warns.append(f"research ran but all {len(blocked)} title(s) were blocked")
     if not f["made_2d"]:
         fails.append("nothing researched or refreshed in 2 days (check logs/daily_research.log)")
+    # 2026-11-15: ~85% of runs failed for 2 weeks with "no JSON in model output" (owner-rules Stop hook rewrote
+    # the headless answer) while this check stayed quiet. A tool error is not a research verdict: alarm on it.
+    broken = [b for b in blocked if any(("no JSON" in x) or ("Error" in x[:40]) for x in (b.get("reasons") or []))]
+    if f["runs_today"] and len(broken) * 2 >= len(f["runs_today"]):
+        fails.append(f"{len(broken)} of {len(f['runs_today'])} runs today failed with a TOOL error "
+                     f"(e.g. {(broken[0]['reasons'] or ['?'])[0][:90]}) - the pipeline is broken, not the films")
     ra = f.get("renewal_audit", [])
     if ra is None:
         warns.append("renewal audit could not run (archive.org / copyright.gov unreachable)")
