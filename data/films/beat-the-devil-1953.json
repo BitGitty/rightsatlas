@@ -3,7 +3,7 @@
   "title": "Beat the Devil",
   "year": 1953,
   "country": "US",
-  "last_verified": "2026-10-22",
+  "last_verified": "2026-11-15",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "registration",
-          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1954 volume lists the film: 'Santana Pictures, Los Angeles, and Romulus Films, London. Released in the U.S. by United Artists Corp. 93 min., sd., b&w, 35mm. Based on the novel of the same title by James Helvick. © Santana Pictures, inc.; 3Mar54 (in notice: 1953); LP3658.' The notice was present, so the copyright was valid at the start. Whether the 28-year renewal was filed was NOT confirmed. The renewal-year CCE volumes were not found on archive.org, and the Copyright Office public catalog could not be queried from this session.",
+          "note": "The Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1954 volume lists the film: 'Santana Pictures, Los Angeles, and Romulus Films, London. Released in the U.S. by United Artists Corp. 93 min., sd., b&w, 35mm. Based on the novel of the same title by James Helvick. © Santana Pictures, inc.; 3Mar54 (in notice: 1953); LP3658.' The notice was present, so the copyright was valid at the start. Whether the 28-year renewal was filed was NOT confirmed. The renewal-year CCE volumes could not be located on archive.org, and the Copyright Office public catalog could not be queried from this session.",
           "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Jan-Dec 1954",
           "url": "https://archive.org/details/catalogofcopyrig381213lib"
         },
@@ -91,7 +91,7 @@
     },
     {
       "url": "https://archive.org/details/beat-the-devil-1953_20250321",
-      "label": "Beat the Devil (1953), Internet Archive, about 89 min, 512x384",
+      "label": "Beat the Devil (1953), Internet Archive, about 89 min, Public Domain Mark",
       "quality": "low"
     }
   ],
