@@ -218,8 +218,8 @@ def evaluate(f: dict):
             warns.append("TBTF comments off: web login missing - run rightsatlas_shorts/yt_web_login.py")
         elif not ln.get("comments") or ln["comments"] < stale:
             warns.append("no TBTF comments posted in 2 days")
-        if not ln.get("reddit") or ln["reddit"][:10] < stale:
-            warns.append("Reddit reply job has not run in 2 days")
+        # 2026-11-14: RightsAtlas-RedditWatch disabled on purpose (Reddit blocks it with 403 since 10-22);
+        # re-add this warning when it is re-enabled with an official Reddit API app
     verdict = "FAIL" if fails else "WARN" if warns else "OK"
     return verdict, [f"FAIL: {x}" for x in fails] + [f"WARN: {x}" for x in warns] + lines
 
