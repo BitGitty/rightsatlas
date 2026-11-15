@@ -3,7 +3,7 @@
   "title": "Beyond Tomorrow",
   "year": 1940,
   "country": "US",
-  "last_verified": "2026-10-30",
+  "last_verified": "2026-11-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive metadata dates the film May 10, 1940. A 1940 US film is free only if its notice was missing or its copyright was not renewed. I could not read a renewal record or a CCE entry for this title, so I cannot cite a renewal-absence result. The uploader's statement that the film is believed to be public domain is not a rights determination.",
+          "note": "The Internet Archive metadata dates the film May 10, 1940. A 1940 US film is free only if its notice was missing or its copyright was not renewed. I opened the 1968 Catalog of Copyright Entries motion-picture volume but could read only its first 100,000 of about 890,000 characters. No Beyond Tomorrow renewal appeared in that portion, which is not a full search. I cannot cite a renewal-absence result. The uploader's public-domain belief is not a rights determination.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive metadata credits an original story by Mildred Cram and Adele Comandini, and a screenplay by Adele Comandini. I did not find whether the story was published separately or when, so its term is unconfirmed.",
+          "note": "The Internet Archive metadata credits an original story by Mildred Cram and Adele Comandini. I did not find whether the story was published separately or when, so its term is unconfirmed.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -89,18 +89,18 @@
     {
       "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS",
       "label": "Beyond Tomorrow (1940) on the Internet Archive, about 84 min",
-      "quality": "Black-and-white MP4, 466x360"
+      "quality": "MP4, 466x360"
     }
   ],
-  "editorial": "Beyond Tomorrow, also listed as And So Goodbye, is a 1940 Christmas fantasy directed by A. Edward Sutherland and produced by Lee Garmes. The story is credited to Mildred Cram and Adele Comandini, with a screenplay by Adele Comandini. The ghosts of three elderly industrialists killed in an airplane crash return to help reunite a young couple. The Christmas setting is why people look for a free copy.\n\nI could not confirm the print's status from a primary record. A 1940 film is free in the US only if its notice was missing or its copyright was not renewed, so the print, score, story and trademark layers stay undetermined. The renewal catalogs for 1967 to 1969 are the place to check. The trap is the colorized edition: Legend Films produced a colorized version in 2004. That colorization is a separate layer and should not be assumed free, even if the black-and-white original turns out to be.",
+  "editorial": "Beyond Tomorrow, also listed as And So Goodbye, is a 1940 fantasy film directed by A. Edward Sutherland and produced by Lee Garmes. The story is credited to Mildred Cram and Adele Comandini. The ghosts of three elderly industrialists killed in an airplane crash return to Earth to help reunite a young couple. The Internet Archive describes it as a B film built around veteran character actors with a Christmas theme.\n\nI could not confirm the print's status from a primary record. A 1940 film is free in the US only if its notice was missing or its copyright was not renewed. I could read only part of one renewal catalog, so the print, score, story and trademark layers stay undetermined. The rights trap is the Internet Archive's own label: the upload says it is believed to be public domain, but that is a belief, not a rights check. Check the 1967 to 1969 renewal catalogs before reusing it.",
   "faq": [
     [
       "Is Beyond Tomorrow (1940) free to use?",
       "Not confirmed. It is a 1940 film, so it is free only if its notice was missing or its copyright was not renewed. I could not verify either from a primary record. Check the 1967-1969 renewal catalogs using the links in the dossier. The uploader's public-domain statement on the Internet Archive is not a rights determination."
     ],
     [
-      "Can I use the colorized version of Beyond Tomorrow?",
-      "Use a black-and-white print instead. The Internet Archive page says Legend Films produced a colorized version in 2004. The colorization can be separately protected even if the original film is free."
+      "Does a copy on the Internet Archive prove the film is public domain?",
+      "No. Anyone can upload a film to the Internet Archive and label it public domain. The label is not a rights check. The renewal records are what decide it."
     ]
   ]
 }
