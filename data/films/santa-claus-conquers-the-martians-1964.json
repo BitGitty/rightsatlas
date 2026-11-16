@@ -3,7 +3,7 @@
   "title": "Santa Claus Conquers the Martians",
   "year": 1964,
   "country": "US",
-  "last_verified": "2026-11-01",
+  "last_verified": "2026-11-16",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Renewal absence cannot make this 1964 film public domain. For a work first published in 1964, 17 U.S.C. 304(a)(3)(B) says a renewal application 'is not a condition of the renewal and extension of the copyright', so the renewal term attaches automatically. Public domain would have to rest on a missing copyright notice on the 1964 release prints, and I could not verify that from any source I fetched. Wikipedia and Plagiarism Today say the film is public domain in the US but do not document the basis.",
+          "note": "Renewal absence cannot make this 1964 film public domain. For a work first published in 1964, 17 U.S.C. 304(a)(3)(B) says a renewal application 'is not a condition of the renewal and extension of the copyright', so the renewal term attaches automatically. Public domain would have to rest on a missing copyright notice on the 1964 release prints, and I could not verify that from any source I fetched. Wikipedia says the film is public domain in the US but does not document the basis.",
           "source": "Cornell LII, 17 U.S.C. 304",
           "url": "https://www.law.cornell.edu/uscode/text/17/304"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Plagiarism Today says that outside the US, STUDIOCANAL holds the copyright and enforces it. I did not confirm any specific restoration or its added material. Any cleaned-up transfer, new titles or added commentary would be protectable even if the underlying print were free.",
+          "note": "Plagiarism Today says that outside the US, STUDIOCANAL holds the copyright and enforces it. Wikipedia likewise says StudioCanal holds ancillary rights. I did not confirm any specific restoration or its added material. Any cleaned-up transfer, new titles or added commentary would be protectable even if the underlying print were free.",
           "source": "Plagiarism Today",
           "url": "https://www.plagiarismtoday.com/2020/11/30/5-public-domain-christmas-movies/"
         }
@@ -84,7 +84,7 @@
       "quality": "Community upload tagged with the Public Domain Mark 1.0 in its Internet Archive metadata; not a verified restoration"
     }
   ],
-  "editorial": "Santa Claus Conquers the Martians is a 1964 American children's science-fiction comedy directed by Nicholas Webster, with John Call as Santa Claus and ten-year-old Pia Zadora as the Martian child Girmar. Martian leaders fear their children have gone lazy and joyless from watching Earth TV, so they abduct Santa. It was shot over two weeks in July and August 1964 at Michael Myerberg Studios on Long Island, released by Embassy Pictures on November 14, 1964, on an estimated $200,000 budget. It became a cult title and was featured on Mystery Science Theater 3000 in 1991, which is why a creator might want clips of it.\n\nThe rights trap is the shortcut that an old film was never renewed. A film published in 1964 got its renewal term automatically under 17 U.S.C. 304(a), so renewal does not decide this one. It would have to be free for another reason, such as a missing notice, and I found no document establishing that. Wikipedia and the Internet Archive metadata call it public domain in the US, but neither documents the basis, and Plagiarism Today says STUDIOCANAL holds and enforces rights abroad. Check the notice on an actual print before reusing it, and keep it out of non-US distribution.",
+  "editorial": "Santa Claus Conquers the Martians is a 1964 American children's science-fiction comedy directed by Nicholas Webster, with John Call as Santa Claus and Pia Zadora as the Martian child Girmar. Martian leaders fear their children have gone lazy and joyless from watching Earth TV, so they abduct Santa. It was shot over two weeks in July and August 1964 at Michael Myerberg Studios on Long Island, released by Embassy Pictures on November 14, 1964, on an estimated $200,000 budget. It became a cult title and was featured on Mystery Science Theater 3000 in 1991, which is why a creator might want clips of it.\n\nThe rights trap is the shortcut that an old film was never renewed. A film published in 1964 got its renewal term automatically under 17 U.S.C. 304(a), so renewal does not decide this one. It would have to be free for another reason, such as a missing notice, and I found no document establishing that. Wikipedia and the Internet Archive metadata call it public domain in the US, but neither documents the basis, and Wikipedia and Plagiarism Today say StudioCanal holds rights abroad. Check the notice on an actual print before reusing it, and keep it out of non-US distribution.",
   "faq": [
     [
       "Is Santa Claus Conquers the Martians public domain because the copyright was not renewed?",
