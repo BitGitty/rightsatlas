@@ -510,3 +510,5 @@
 {"date": "2026-11-16", "id": "the-39-steps-1935", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-16", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
 {"date": "2026-11-16", "id": "scrooge-1935", "result": "refreshed", "reasons": []}
+{"date": "2026-11-16", "id": "flash-gordons-trip-to-mars-1938", "result": "queued", "reasons": []}
+{"date": "2026-11-16", "id": "popeye-the-sailor-meets-sindbad-the-sailor-1936", "result": "queued", "reasons": []}

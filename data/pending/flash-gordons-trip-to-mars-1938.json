@@ -1,0 +1,91 @@
+{
+  "id": "flash-gordons-trip-to-mars-1938",
+  "title": "Flash Gordon's Trip to Mars",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Pictures released the 15-chapter serial on March 21, 1938. I did not find or check any registration or renewal record, so the print's status is unresolved. A 1938 film is public domain only if it was not renewed in its 28th year (1965-1966).",
+          "source": "Wikipedia, Flash Gordon's Trip to Mars",
+          "url": "https://en.wikipedia.org/wiki/Flash_Gordon%27s_Trip_to_Mars"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track would normally share the film's status, and that status is unresolved. The music is a separate matter and I did not check it.",
+          "source": "Reasoning from the print layer",
+          "url": "https://en.wikipedia.org/wiki/Flash_Gordon%27s_Trip_to_Mars"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is based on the Flash Gordon comic strip by Alex Raymond and was made by Universal with King Features Syndicate. The strip is a separate underlying work with its own copyright. I did not confirm its ownership or renewal history, so the layer is marked not_pd as a cautious call.",
+          "source": "Wikipedia, Flash Gordon's Trip to Mars",
+          "url": "https://en.wikipedia.org/wiki/Flash_Gordon%27s_Trip_to_Mars"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Flash Gordon's Trip to Mars” (renewals ~1965, 1966, 1967)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Flash+Gordon's+Trip+to+Mars"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/flash-gordons-trip-to-mars",
+      "label": "Flash Gordon's Trip to Mars (1938), 15 chapters, Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Flash Gordon's Trip to Mars is a 15-chapter Universal serial that ran about 299 minutes. It was released on March 21, 1938, with Buster Crabe as Flash, Jean Rogers as Dale Arden, Charles B. Middleton as Ming the Merciless and Beatrice Roberts as Queen Azura. Universal made it with King Features Syndicate, from Alex Raymond's comic strip. A creator would want it for the Ming and Queen Azura material and for the serial's cliffhanger format. A feature version, Mars Attacks the World, was released in October 1938.\n\nThe rights trap is that this film has two layers of ownership. I did not find or check any registration or renewal record, so I cannot say the print is free. The Internet Archive hosts copies, but a copy being online says nothing about its copyright. Even if the print turned out to be unrenewed, the Flash Gordon characters come from Raymond's strip, which is a separate work and may carry its own protection. Check the renewal records and the strip's status before you reuse any footage.",
+  "faq": [
+    [
+      "Is Flash Gordon's Trip to Mars free to reuse?",
+      "That is not established. The serial was released in 1938. I found no renewal record either way, so the print's status is unresolved. The Flash Gordon characters come from Alex Raymond's comic strip, which is a separate work and may still be protected. Search the 1965-1966 renewal records yourself before relying on it."
+    ],
+    [
+      "Does being on the Internet Archive make it public domain?",
+      "No. The Internet Archive lists a copy of the serial, but uploads do not show that a work is free of copyright. Treat the upload as a place to watch the film, not as a rights clearance."
+    ]
+  ]
+}

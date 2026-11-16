@@ -1,0 +1,97 @@
+{
+  "id": "popeye-the-sailor-meets-sindbad-the-sailor-1936",
+  "title": "Popeye the Sailor Meets Sindbad the Sailor",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-11-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film states it entered the public domain. I could not open the Stanford renewal database or the Catalog of Copyright Entries renewal volumes for 1963-1965 in this session, so I have not confirmed non-renewal myself. The two primary citations the gate requires are missing.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Sindbad_the_Sailor"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item for the film carries a Creative Commons Public Domain Mark 1.0 label. That label is an uploader's claim, not a copyright record.",
+          "source": "Internet Archive metadata",
+          "url": "https://archive.org/metadata/popeye-the-sailor-meets-sindbad-the-sailor-1936"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the film's status, so it depends on the print finding. Wikipedia credits the film's music to Sammy Timberg and lyrics to Sammy Lerner. Any music or lyrics, including the Popeye theme song, may be a separate musical composition whose renewal status was not checked.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Sindbad_the_Sailor"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says a restored version with the original opening and closing titles is on Warner Bros.' Popeye the Sailor: 1933-1938, Volume 1 DVD set. I found no confirmation of what that release adds, such as new score, titles or other material. Any such additions could be protected. A faithful restoration would add no new copyright.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Sindbad_the_Sailor"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Popeye the Sailor Meets Sindbad the Sailor” (renewals ~1963, 1964, 1965)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Popeye+the+Sailor+Meets+Sindbad+the+Sailor"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/popeye-the-sailor-meets-sindbad-the-sailor-1936",
+      "label": "Popeye the Sailor Meets Sindbad the Sailor (1936) — Internet Archive",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "Popeye the Sailor Meets Sindbad the Sailor is a two-reel Technicolor cartoon of over 16 minutes. Dave Fleischer directed it at Fleischer Studios, and Paramount released it on November 27, 1936. Wikipedia calls it the first Popeye cartoon in color. A creator wants it for its animation and its place in Popeye history. Wikipedia says the film entered the public domain.\n\nThe rights question is not settled by that claim. Public domain here depends on the 28-year renewal not having been filed, in the 1963-1965 window. I could not check the renewal records in this research pass, so confirm them before you rely on the film. Even if the print is free, the music and any songs are separate compositions, and the Popeye character name may carry trademark rights. A restored copy, such as the Warner Bros. DVD version, may add material of its own.",
+  "faq": [
+    [
+      "Is this Popeye cartoon free to reuse?",
+      "Probably the print is, but I have not confirmed it. Wikipedia says the film entered the public domain. Check the Stanford renewal database and the 1963-1965 Catalog of Copyright Entries renewal volumes yourself before relying on it."
+    ],
+    [
+      "Can I use the Warner Bros. restored DVD copy?",
+      "Ripping a copy-protected disc can break the DMCA (17 U.S.C. 1201), whatever the film's status. A faithful restoration adds no new copyright, but any added material could be protected. Use a copy from the Internet Archive instead."
+    ]
+  ]
+}
