@@ -1,0 +1,98 @@
+{
+  "id": "the-green-hornet-1940",
+  "title": "The Green Hornet",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-16",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal serial released January 9, 1940. I did not confirm a renewal or a lack of one in the Catalog of Copyright Entries or the Copyright Office catalog. The Internet Archive hosts copies, but an upload does not show the film's copyright status.",
+          "source": "Wikipedia, The Green Hornet (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Green_Hornet_(serial)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the soundtrack should share the print's status. That status is unresolved, so the score is too.",
+          "source": "Wikipedia, The Green Hornet (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Green_Hornet_(serial)"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is based on The Green Hornet radio series created by George W. Trendle and Fran Striker. The characters come from that source, not from Universal's film, so the film's status does not settle the story layer. I did not confirm the source's copyright status.",
+          "source": "Wikipedia, The Green Hornet (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Green_Hornet_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Home video releases include a 1990 GoodTimes Home Video VHS compilation of the final six chapters and a 2011 VCI Entertainment DVD, 'The Green Hornet: Movie Edition'. I did not confirm what those releases add, such as new titles or music.",
+          "source": "Wikipedia, The Green Hornet (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Green_Hornet_(serial)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Green Hornet” (renewals ~1967, 1968, 1969)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Green+Hornet"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Green_Hornet_-_Chapter_1_-_The_Tunnel_Of_Terror",
+      "label": "The Green Hornet (1940), Chapter 1: The Tunnel of Terror (Internet Archive)",
+      "quality": "unrated; the uploader is a private user, not an archive"
+    }
+  ],
+  "editorial": "The Green Hornet is a 13-chapter Universal serial released January 9, 1940. Henry MacRae produced it, Ford Beebe and Ray Taylor directed it, and Gordon Jones plays Britt Reid with Keye Luke as Kato. It adapts the Trendle and Fran Striker radio series. The serial made Kato Korean rather than Japanese, a change tied to rising anti-Japanese sentiment before Pearl Harbor. Copies circulate on the Internet Archive, and it has had VHS and DVD releases.\n\nThe rights trap is that the film's copyright does not settle who owns the character. The Green Hornet and Kato come from the Trendle and Striker radio property, not from Universal. This dossier has not confirmed whether the 1940 print's copyright was renewed in the 1967 to 1969 window. A reuser should check that first, and a remake or new story built on the characters needs separate clearance whatever the print's status.",
+  "faq": [
+    [
+      "Can I use clips from the 1940 Green Hornet serial?",
+      "Not safely yet. This dossier did not confirm whether the print's copyright was renewed in 1967 to 1969. Search the Stanford renewal database and the Catalog of Copyright Entries yourself before using clips. An Internet Archive upload does not show that the film is free to use."
+    ],
+    [
+      "Can I make a new Green Hornet story if the serial turns out to be free?",
+      "Not on that basis alone. The characters originate in the Trendle and Striker radio series, so the serial's status does not clear them. Trademarks may also apply, and this dossier did not research them."
+    ]
+  ]
+}
