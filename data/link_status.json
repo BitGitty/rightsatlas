@@ -256,6 +256,16 @@
    "film": "in-old-arizona-1929",
    "kind": "evidence"
   },
+  "it-1927": {
+   "ok": true,
+   "film": "it-1927",
+   "kind": "watch"
+  },
+  "it-comedy-1927": {
+   "ok": true,
+   "film": "it-1927",
+   "kind": "watch"
+  },
   "silent-jaccuse": {
    "ok": true,
    "film": "j-accuse-1919",
