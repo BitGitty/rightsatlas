@@ -518,3 +518,5 @@
 {"date": "2026-11-16", "id": "my-favorite-brunette-1947", "result": "queued", "reasons": []}
 {"date": "2026-11-16", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
 {"date": "2026-11-16", "id": "santa-claus-conquers-the-martians-1964", "result": "refreshed", "reasons": []}
+{"date": "2026-11-17", "id": "the-man-who-knew-too-much-1934", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-17", "id": "the-39-steps-1935", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
