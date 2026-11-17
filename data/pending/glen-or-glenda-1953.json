@@ -1,0 +1,103 @@
+{
+  "id": "glen-or-glenda-1953",
+  "title": "Glen or Glenda",
+  "year": 1953,
+  "country": "US",
+  "last_verified": "2026-11-18",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not confirmed. I could not locate the Catalog of Copyright Entries renewal volumes for the 1980-1982 window on archive.org in this session. I also could not run a record-level search of the Copyright Office catalog. The queue flags renewal as likely absent, but no primary record has been checked, so the print is not marked verified_pd. The renewal search must be done by hand using the links in renewal_search.",
+          "source": "RightsAtlas research pass, 2026-11-18",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "William Lava composed the music but was not credited on screen. The recorded track is part of the film, so it most likely shares the print's status. That has not been confirmed independently, and it depends on the unresolved print question.",
+          "source": "Wikipedia, Glen or Glenda (background only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Glen_or_Glenda"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is an original screenplay by Ed Wood. I found no source work in the pages I fetched. It also uses stock footage, especially in the Alan or Anne segment, and the ownership of that footage was not traced.",
+          "source": "Wikipedia, Glen or Glenda (background only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Glen_or_Glenda"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Modern releases include a 2009 Legend Films colorized version on DVD and a 2020 restored HD print (60-minute version) from Something Weird Video and the American Genre Film Archive. Colorization and any added material can carry their own protection. A faithful restoration of the black-and-white picture adds no new copyright. I have not seen the terms of these releases.",
+          "source": "Wikipedia, Glen or Glenda (background only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Glen_or_Glenda"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1980,
+      1981,
+      1982
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Glen or Glenda” (renewals ~1980, 1981, 1982)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Glen+or+Glenda"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/glenorglenda_201305",
+      "label": "Glen Or Glenda (1953), directed by Edward D. Wood Jr. (about 71 min)",
+      "quality": "unrated"
+    },
+    {
+      "url": "https://archive.org/details/glen-or-glenda-1953-720p",
+      "label": "Glen or Glenda (1953) 720p (about 68 min)",
+      "quality": "720p"
+    }
+  ],
+  "editorial": "Glen or Glenda is Ed Wood's directorial debut. It is a 1953 docudrama about cross-dressing, shot on a $20,000 budget in four days. Producer George Weiss commissioned it, and Screen Classics was the distributor. It is the only film Wood directed without also producing. Bela Lugosi appears in it, and Wood's girlfriend Dolores Fuller co-stars. William Lava wrote the uncredited music. The film is mostly stock footage in places. The Alan or Anne segment was added to meet the distributor's demand for sex-change content. It was released under several titles, including I Led Two Lives, He or She? and I Changed My Sex.\n\nIts rights status is not settled in this dossier. The queue marks the renewal as probably absent, but I could not reach the Catalog of Copyright Entries volumes or a Copyright Office record to confirm it. Do the renewal check by hand before treating the print as free. The film also contains stock footage whose owners were not traced. Anything added by a modern release is a separate matter. That includes the 2009 colorized Legend Films edition and the 2020 restored HD print, whose terms I have not seen.",
+  "faq": [
+    [
+      "Is the Internet Archive copy of Glen or Glenda safe to reuse?",
+      "Not confirmed yet. The queue suggests the 1953 copyright may never have been renewed, but this dossier has no primary record showing it. Search the Stanford renewal database and the Copyright Office catalog for renewals filed around 1980 to 1982 before you reuse it. Even if no renewal turns up, the stock footage inside the film has not been cleared."
+    ],
+    [
+      "Can I use the colorized or restored versions?",
+      "Use the plain black-and-white print where you can. The 2009 colorized release and the 2020 restored HD print may include additions that carry their own rights. Check the terms of each release. Do not rip a copy-protected disc, because that can violate 17 U.S.C. 1201."
+    ]
+  ]
+}
