@@ -53,6 +53,7 @@ NAV = [
     ("films", "Films", f"{BASE}films/"),
     ("collections", "Collections", f"{BASE}collections/"),
     ("class2027", f"Class of {CLASS_YEAR}", f"{BASE}entering-public-domain-{CLASS_YEAR}/"),
+    ("blog", "Blog", f"{BASE}blog/"),
     ("how", "How it works", f"{BASE}methodology/"),
     ("corrections", "Corrections", f"{BASE}corrections/"),
     ("suggest", "Suggestions", f"{BASE}suggest/"),
@@ -101,7 +102,7 @@ def collections_subnav(collections, current_slug=None):
     return f'<div class="subnav-wrap"><nav class="subnav" aria-label="Collections">{links}</nav></div>'
 
 
-def page(title, desc, body, extra_head="", nav=None, path="", subnav=""):
+def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="summary"):
     canon = f"{HOST}{BASE}{path}"
     head = f"""<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -112,7 +113,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav=""):
 <meta property="og:title" content="{e(title)}">
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{canon}">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="{card}">
 {extra_head}"""
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -697,6 +698,58 @@ page goes live.</span></li>
                 body, nav="suggest", path="suggest/")
 
 
+BLOG = ROOT / "content" / "blog"
+
+
+def blog_posts(today=None):
+    """Published blog posts, newest first. File: content/blog/YYYY-MM-DD-slug.html with
+    line 1 = title, line 2 = description, line 3 = "hero.jpg | alt text" (file in
+    content/blog/img/, or blank), rest = body HTML ({{BASE}} is replaced). A post dated in the future stays
+    hidden until the nightly build on/after that date: that is the scheduler (owner 2026-11-18)."""
+    today = today or date.today()
+    posts = []
+    for src in sorted(BLOG.glob("????-??-??-*.html")):
+        day = date.fromisoformat(src.name[:10])
+        if day > today:
+            continue
+        title, desc, hero, body = (src.read_text(encoding="utf-8").split("\n", 3) + ["", "", ""])[:4]
+        hero, _, alt = hero.partition("|")
+        posts.append({"slug": src.stem[11:], "date": day, "title": title.strip(), "desc": desc.strip(),
+                      "hero": hero.strip(), "alt": alt.strip(), "body": body.replace("{{BASE}}", BASE)})
+    return sorted(posts, key=lambda p: p["date"], reverse=True)
+
+
+def blog_post_page(p):
+    path = f"blog/{p['slug']}/"
+    img = f"{HOST}{BASE}blog/img/{p['hero']}" if p["hero"] else ""
+    ld = {"@context": "https://schema.org", "@type": "BlogPosting", "headline": p["title"],
+          "description": p["desc"], "datePublished": p["date"].isoformat(),
+          "author": {"@type": "Organization", "name": "RightsAtlas"},
+          "mainEntityOfPage": f"{HOST}{BASE}{path}", **({"image": img} if img else {})}
+    head = (f'<meta property="article:published_time" content="{p["date"].isoformat()}">\n'
+            + (f'<meta property="og:image" content="{img}">\n<meta name="twitter:image" content="{img}">\n' if img else "")
+            + f'<script type="application/ld+json">{json.dumps(ld)}</script>')
+    hero = (f'<img class="blog-hero" src="{BASE}blog/img/{e(p["hero"])}" alt="{e(p["alt"])}" loading="eager">'
+            if p["hero"] else "")
+    body = (f'<article class="blog"><p class="backlink"><a href="{BASE}blog/">← All posts</a> · '
+            f'<time datetime="{p["date"].isoformat()}">{p["date"].strftime("%d %B %Y").lstrip("0")}</time></p>'
+            f'<h1>{e(p["title"])}</h1>{hero}{p["body"]}</article>')
+    return page(f'{p["title"]} — RightsAtlas', p["desc"], body, extra_head=head, nav="blog", path=path,
+                card="summary_large_image" if img else "summary")
+
+
+def blog_index(posts):
+    items = "".join(
+        f'<li class="blog-item"><a href="{BASE}blog/{p["slug"]}/">'
+        + (f'<img src="{BASE}blog/img/{e(p["hero"])}" alt="" loading="lazy">' if p["hero"] else "")
+        + f'<span><strong>{e(p["title"])}</strong><br><small>{p["date"].strftime("%d %B %Y").lstrip("0")}'
+        f'</small><br>{e(p["desc"])}</span></a></li>' for p in posts)
+    body = ('<h1>Blog</h1><p>Short, sourced notes on classic films and US public domain: what is really '
+            f'free, what is a trap, and how to check it yourself.</p><ul class="blog-list">{items}</ul>')
+    return page("Blog — RightsAtlas", "Sourced notes on classic films and the US public domain.",
+                body, nav="blog", path="blog/")
+
+
 def build():
     films = []
     errors = []
@@ -773,6 +826,15 @@ def build():
             (d / "index.html").write_text(
                 page(title.strip(), title.strip(), rest, nav=nav_key, path=f"{extra}/"), encoding="utf-8")
 
+    posts = blog_posts()
+    (OUT / "blog").mkdir()
+    if (BLOG / "img").exists():
+        shutil.copytree(BLOG / "img", OUT / "blog" / "img")
+    (OUT / "blog" / "index.html").write_text(blog_index(posts), encoding="utf-8")
+    for p in posts:
+        (OUT / "blog" / p["slug"]).mkdir()
+        (OUT / "blog" / p["slug"] / "index.html").write_text(blog_post_page(p), encoding="utf-8")
+
     # research packets (generated by scripts/export_evidence.py --all) — served for download
     packets = ROOT / "packets"
     if packets.exists():
@@ -801,7 +863,8 @@ def build():
             + [f"{BASE}films/{d}s/" for d in sorted(decades)]
             + [f"{BASE}film/{f['id']}/" for f in films]
             + [f"{BASE}{x}/" for x in extras + ["corrections", "collections"]]
-            + [f"{BASE}collections/{c['slug']}/" for c in collections])
+            + [f"{BASE}collections/{c['slug']}/" for c in collections]
+            + [f"{BASE}blog/"] + [f"{BASE}blog/{p['slug']}/" for p in posts])
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'

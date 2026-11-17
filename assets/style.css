@@ -227,3 +227,16 @@ footer{border-top:3px solid var(--ink);margin-top:40px}
   .rf-row .rf-label{font-size:.92rem}
   .mainnav{flex-wrap:nowrap;overflow-x:auto;width:100%}
 }
+
+/* blog (2026-11-18) */
+article.blog{max-width:760px}
+article.blog h1{font-size:clamp(2rem,5vw,3.2rem)}
+article.blog h2{font-size:clamp(1.4rem,3vw,1.9rem)}
+.blog-hero{display:block;width:100%;height:auto;border:3px solid var(--ink);margin:14px 0 6px}
+article.blog figure{margin:22px 0}
+article.blog figure img{display:block;width:100%;height:auto;border:2px solid var(--ink)}
+article.blog figcaption,.credit{font-family:var(--mono);font-size:.75rem;color:var(--mut);margin-top:6px}
+.blog-list{list-style:none;padding:0;margin:24px 0;display:grid;gap:18px;max-width:860px}
+.blog-item a{display:flex;gap:16px;text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:18px}
+.blog-item img{width:180px;height:120px;object-fit:cover;border:2px solid var(--ink);flex:0 0 auto}
+@media (max-width:560px){.blog-item a{flex-direction:column}.blog-item img{width:100%;height:180px}}

@@ -103,6 +103,23 @@ def t13_candidates_are_gitignored():
     assert r.returncode == 0, "data/candidates/ must be gitignored"
 
 
+def t14_blog_schedule_and_links():
+    """A future-dated post never ships early; every internal link/image in a live post resolves."""
+    import re
+    site = ROOT / "site"
+    if not (site / "blog" / "index.html").exists():
+        return  # site not built; skipped
+    for src in (ROOT / "content" / "blog").glob("????-??-??-*.html"):
+        live = (site / "blog" / src.stem[11:] / "index.html")
+        if date.fromisoformat(src.name[:10]) > date.today():
+            assert not live.exists(), f"scheduled post {src.name} was published early"
+            continue
+        assert live.exists(), f"post {src.name} is due but was not built"
+        for ref in re.findall(r'(?:href|src)="/([^"#?]*)"', live.read_text(encoding="utf-8")):
+            target = site / ref
+            assert target.exists() or (target / "index.html").exists(), f"{src.name}: broken link /{ref}"
+
+
 def t_all_live_films_validate():
     errs = []
     for p in sorted(FILMS.glob("*.json")):
