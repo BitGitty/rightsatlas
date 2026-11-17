@@ -41,3 +41,4 @@ data/cce_cache/
 AGENTS.md
 .cursor/
 .github/copilot-instructions.md
+data/heartbeat.log

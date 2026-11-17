@@ -9,7 +9,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 EXITS = Path(r"D:\shared-tools\taskrun\exits.jsonl")
-WINDOWS = {"RightsAtlas-Research": 9, "RightsAtlas-ResearchStatus": 26, "RightsAtlas-Shorts": 26}  # max hours
+WINDOWS = {"RightsAtlas-Research": 9, "RightsAtlas-ResearchStatus": 26, "RightsAtlas-Shorts": 26,
+           "RightsAtlas-RedditWeekly": 8 * 24 + 6}  # max hours since last run (weekly post: 8 days)
 
 
 def problems(lines, now):
