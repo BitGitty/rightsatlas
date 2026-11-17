@@ -1,0 +1,91 @@
+{
+  "id": "the-amazing-colossal-man-1957",
+  "title": "The Amazing Colossal Man",
+  "year": 1957,
+  "country": "US",
+  "last_verified": "2026-11-17",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released August 28, 1957 by American International Pictures, so a renewal was due in the 28th year (1985). I could not fetch a Catalog of Copyright Entries renewal volume for that window or a Copyright Office record, so I cannot say whether a renewal exists. The Wikipedia article gives no renewal information.",
+          "source": "Wikipedia, The Amazing Colossal Man (background only, not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Colossal_Man"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Albert Glasser composed the music. It is a sound film, so the recorded track normally shares the film's status, which is itself unresolved.",
+          "source": "Wikipedia, The Amazing Colossal Man (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Colossal_Man"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia describes the film as an uncredited adaptation of Homer Eon Flint's 1928 story The Nth Man. I did not confirm that source's publication or renewal history from a primary record, and the film's screenplay is separately credited to Mark Hanna and Bert I. Gordon.",
+          "source": "Wikipedia, The Amazing Colossal Man (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Colossal_Man"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1984,
+      1985,
+      1986
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Amazing Colossal Man” (renewals ~1984, 1985, 1986)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Amazing+Colossal+Man"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/amazing-colossal-man-1957",
+      "label": "Amazing Colossal Man 1957 (Internet Archive, about 80 min feature)",
+      "quality": "MPEG4 original, about 1.16 GB"
+    }
+  ],
+  "editorial": "The Amazing Colossal Man is a black-and-white science fiction feature from 1957, directed and co-written by Bert I. Gordon (screenplay with Mark Hanna) and released by American International Pictures. It premiered on August 28, 1957 at the Paulo Drive-in in Anaheim, California. An Army officer is exposed to plutonium radiation and grows to giant size. Glen Langan and Cathy Downs star, and Albert Glasser composed the music. Its sequel, War of the Colossal Beast (1958), reuses footage from it in a flashback. A creator might want it for its drive-in-era effects and its reputation as a cult title.\n\nThe rights trap is the print. The film is not a pre-1931 title. Whether it is free in the US depends on whether AIP or its successors renewed the copyright in 1985, and I did not locate a renewal record or a confirmed absence. Treat the print as undetermined until you run the Stanford, Catalog of Copyright Entries and Copyright Office searches linked here. An Internet Archive upload, including the one listed, is not evidence of public domain status. Wikipedia also says the film is an uncredited adaptation of a 1928 story, and that source's status has not been checked either.",
+  "faq": [
+    [
+      "Is The Amazing Colossal Man public domain in the US?",
+      "Not confirmed. It was released in 1957, so it needed a renewal in 1985 to stay protected. I could not verify either a renewal or its absence, so the print is marked undetermined. Run the linked Stanford, Catalog of Copyright Entries and Copyright Office searches before reusing it."
+    ],
+    [
+      "Does an Internet Archive copy mean I can reuse it?",
+      "No. Anyone can upload to the Internet Archive, and the upload does not settle copyright. The linked copy is a feature-length rip of the 1957 film, but its presence there says nothing about renewal or rights. Check the renewal records first."
+    ]
+  ]
+}

@@ -522,3 +522,5 @@
 {"date": "2026-11-17", "id": "the-39-steps-1935", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-17", "id": "scrooge-1951", "result": "refreshed", "reasons": []}
 {"date": "2026-11-17", "id": "the-great-rupert-1950", "result": "refreshed", "reasons": []}
+{"date": "2026-11-17", "id": "the-lady-vanishes-1938", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-17", "id": "the-amazing-colossal-man-1957", "result": "queued", "reasons": []}
