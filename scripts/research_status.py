@@ -27,7 +27,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 RUNS = ROOT / "data" / "research_runs.jsonl"
-SITE = "https://bitgitty.github.io/rightsatlas"
+SITE = "https://rightsatlas.net"
 ENV = Path("D:/Aurora/aurora-twin/.env")
 
 

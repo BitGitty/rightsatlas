@@ -24,7 +24,7 @@ import engine  # noqa: E402
 
 QUEUE = ROOT / "data" / "queues" / "research_queue_500.json"
 STATIC = ROOT / "static"
-SITE = "https://bitgitty.github.io/rightsatlas"
+SITE = "https://rightsatlas.net"
 FIELDS = ["id", "title", "year", "country", "us_public_domain_date", "print_status",
           "trademark_watch", "uraa_note", "score_note", "dossier_url"]
 

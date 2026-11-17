@@ -28,7 +28,7 @@ import engine  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 FILMS = ROOT / "data" / "films"
 PACKETS = ROOT / "packets"
-LIVE_URL = "https://bitgitty.github.io/rightsatlas/film/{id}/"
+LIVE_URL = "https://rightsatlas.net/film/{id}/"
 
 
 def git_sha() -> str:
