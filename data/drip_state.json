@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-17",
+  "last_release": "2026-11-18",
   "log": [
     {
       "date": "2026-08-31",
@@ -316,6 +316,10 @@
     {
       "date": "2026-11-17",
       "film": "frankenstein-1931"
+    },
+    {
+      "date": "2026-11-18",
+      "film": "male-and-female-1919"
     }
   ]
 }
