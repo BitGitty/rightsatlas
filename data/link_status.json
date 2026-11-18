@@ -296,6 +296,16 @@
    "film": "love-1927",
    "kind": "watch"
   },
+  "MALEANDFEMALE1919GloriaSwansonThomasMeighanLilaLeeDir.ByCecilB.DeMille": {
+   "ok": true,
+   "film": "male-and-female-1919",
+   "kind": "watch"
+  },
+  "MaleAndFemale": {
+   "ok": true,
+   "film": "male-and-female-1919",
+   "kind": "evidence"
+  },
   "ManosTheHandsofFate_201508": {
    "ok": true,
    "film": "manos-the-hands-of-fate-1966",
