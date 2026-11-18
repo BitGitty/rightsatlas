@@ -2,6 +2,8 @@
 
   python scripts/x_post.py "text"          # posts, prints the post URL
   python scripts/x_post.py --check         # verifies the keys (GET /2/users/me, one paid read)
+  python scripts/x_post.py --mentions [since_id]     # replies/mentions of @RightsAtlas (paid per post read)
+  python scripts/x_post.py --reply <tweet_id> "text" # reply in a thread (~$0.015, $0.20 with a link)
   python scripts/x_post.py --selftest      # signs a known request offline (no network, no cost)
 
 Keys live in ~/.rightsatlas/x.json (never in the repo). Pay-per-use: about $0.015 per post,
@@ -53,8 +55,21 @@ def call(method, path, body=None):
         return e.code, json.loads(e.read() or b"{}")
 
 
-def post(text):
-    status, data = call("POST", "/tweets", {"text": text})
+def mentions(since_id=None):
+    """Posts that mention @RightsAtlas (replies included), newest first. Paid per post read (~$0.005),
+    so callers pass since_id and run it once a day."""
+    uid = keys().get("user_id") or call("GET", "/users/me")[1]["data"]["id"]
+    q = f"/users/{uid}/mentions?max_results=20&tweet.fields=created_at,conversation_id,author_id&expansions=author_id"
+    status, data = call("GET", q + (f"&since_id={since_id}" if since_id else ""))
+    if status != 200:
+        raise SystemExit(f"X mentions failed: HTTP {status} {json.dumps(data)[:300]}")
+    users = {u["id"]: u["username"] for u in data.get("includes", {}).get("users", [])}
+    return [{**t, "author": users.get(t["author_id"], "?")} for t in data.get("data", [])]
+
+
+def post(text, reply_to=None):
+    body = {"text": text, **({"reply": {"in_reply_to_tweet_id": reply_to}} if reply_to else {})}
+    status, data = call("POST", "/tweets", body)
     if status != 201:
         raise SystemExit(f"X post failed: HTTP {status} {json.dumps(data)[:300]}")
     return f"https://x.com/{keys().get('handle', 'RightsAtlas')}/status/{data['data']['id']}"
@@ -79,5 +94,9 @@ if __name__ == "__main__":
         selftest()
     elif arg == "--check":
         print(call("GET", "/users/me"))
+    elif arg == "--mentions":  # [since_id]
+        print(json.dumps(mentions(sys.argv[2] if len(sys.argv) > 2 else None), ensure_ascii=False, indent=1))
+    elif arg == "--reply":     # <tweet_id> "text"
+        print(post(sys.argv[3], reply_to=sys.argv[2]))
     else:
         print(post(arg))
