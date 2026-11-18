@@ -1,0 +1,83 @@
+{
+  "id": "the-stranger-1946",
+  "title": "The Stranger",
+  "year": 1946,
+  "country": "US",
+  "last_verified": "2026-11-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not verified as public domain. I fetched the Catalog of Copyright Entries 1973 and 1974 motion-picture volumes, which cover the film's 28th-year renewal window. The fetch tool read only the first ~10% of each OCR text (about 100,000 of ~950,000 characters), and in that portion neither volume had an entry for 'Stranger'. That does not show the film was never renewed. A full-volume check is still needed, and the original copyright notice has not been checked either.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1973 (Vol 27)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion 1974 volume (Vol 28). Same partial read and same limit as above.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1974 (Vol 28)",
+          "url": "https://archive.org/details/catalogofcopyrig3281213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1973,
+      1974,
+      1975
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Stranger” (renewals ~1973, 1974, 1975)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Stranger"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-stranger-1946",
+      "label": "The Stranger (1946) — Internet Archive, approx. 94 min feature",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Stranger is Orson Welles's 1946 film noir. Its Internet Archive record describes an investigator from the War Crimes Commission who travels to Connecticut to find an infamous Nazi. The Nazi may be hiding in a small town as a distinguished professor engaged to a Supreme Court Justice's daughter. Free copies circulate widely online, which is why it is often called public domain.\n\nThe rights trap is that this circulation is not proof. A film from 1946 is public domain only if its notice was missing or its renewal was never filed, and its renewal window was 1973-1974. The dossier's check of those two Catalog of Copyright Entries volumes was partial, so the print layer is left undetermined until the complete volumes are searched. The score, source story and any restoration additions have not been separately cleared. Check the Stanford renewal database and the full CCE volumes yourself before relying on any copy.",
+  "faq": [
+    [
+      "Is The Stranger (1946) safe to reuse in a commercial project?",
+      "Not yet confirmed. The print's status rests on whether a renewal was filed in 1973-1974. This dossier read only the first ~10% of each of those two catalog volumes and found nothing there, which is not enough to rely on. Search the full volumes and the Stanford renewal database, and confirm the original notice, before you rely on it."
+    ],
+    [
+      "Does a free Internet Archive copy mean the film is public domain?",
+      "No. Upload to the Internet Archive does not establish copyright status. Treat the upload as a source for a copy, not as a rights finding, and clear the film, its score and any restoration additions separately."
+    ]
+  ]
+}
