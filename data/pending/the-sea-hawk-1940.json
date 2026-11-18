@@ -1,0 +1,85 @@
+{
+  "id": "the-sea-hawk-1940",
+  "title": "The Sea Hawk",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-18",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. feature released in 1940, so it is not public domain by term. Its status depends on whether the 28th-year renewal (due 1967-68) was filed. I could not retrieve the Stanford renewal database or Catalog of Copyright Entries pages this session, so no renewal was confirmed or ruled out.",
+          "source": "TCM, The Big Idea: The Sea Hawk",
+          "url": "https://www.tcm.com/articles/288874/the-big-idea-the-sea-hawk"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the film's own copyright status, which is unresolved. The composer could not be confirmed from a fetched page.",
+          "source": "TCM, The Big Idea: The Sea Hawk",
+          "url": "https://www.tcm.com/articles/288874/the-big-idea-the-sea-hawk"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner acquired Rafael Sabatini's 1915 novel in 1929, but the 1940 screenplay was not based on it. It used an original story by Seton I. Miller titled Beggars of the Sea, and Sabatini's name was dropped from the credits. The 1915 novel's own term is separate from the film's new story and screenplay material.",
+          "source": "TCM, The Big Idea: The Sea Hawk",
+          "url": "https://www.tcm.com/articles/288874/the-big-idea-the-sea-hawk"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Sea Hawk” (renewals ~1967, 1968, 1969)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Sea+Hawk"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Sea Hawk (1940) is a Warner Bros. swashbuckler directed by Michael Curtiz, with Hal B. Wallis as executive producer and Errol Flynn as an English privateer on the eve of the Spanish Armada. Creators are drawn to it for the sea battles and the Elizabethan setting. Warner had bought Rafael Sabatini's 1915 novel in 1929, but the screenplay was built on an original Seton I. Miller story, Beggars of the Sea.\n\nThe rights trap is that the novel's age does not free the film. The 1940 screenplay and film are separate material, and I could not confirm whether the 1967-68 renewal was filed. Treat the print as protected until a Catalog of Copyright Entries renewal volume or the Stanford database shows no renewal. Warner Bros. is a major studio that still markets the film, which makes an unchecked clip risky to use.",
+  "faq": [
+    [
+      "Can I use clips from The Sea Hawk (1940) freely?",
+      "Not on current evidence. The film was published in 1940, and no renewal search could be completed here. Check the renewal records before using it, and assume it is protected until they show no renewal."
+    ],
+    [
+      "Does Sabatini's novel being old make the film free?",
+      "No. Sabatini's 1915 novel is a separate work. The 1940 screenplay was not based on it. It used an original story by Seton I. Miller, so the film carries its own copyright question."
+    ]
+  ]
+}

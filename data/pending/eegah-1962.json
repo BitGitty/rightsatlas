@@ -1,0 +1,103 @@
+{
+  "id": "eegah-1962",
+  "title": "Eegah",
+  "year": 1962,
+  "country": "US",
+  "last_verified": "2026-11-18",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not confirmed. I could not fetch the Catalog of Copyright Entries renewal volumes for 1989-1991 or run a Copyright Office public-catalog search, so there is no primary renewal-absence citation. An Internet Archive uploader tags a copy with a Creative Commons Public Domain license, which is not a rights determination.",
+          "source": "Internet Archive item metadata, PhantasmagoriaTheater-Eegah1962878",
+          "url": "https://archive.org/details/PhantasmagoriaTheater-Eegah1962878"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article credits the music to André Brummer, who used the name Henri Price for the library music. I did not confirm the cue sheet, the cue ownership or whether the cues were separately registered or renewed, so the score layer is open.",
+          "source": "Wikipedia, Eegah (secondary source, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Eegah"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article says the story is by Arch Hall Sr. under the pseudonym Nicholas Merriwether, with Bob Wehling co-writing the screenplay. It appears to be an original story, not an adaptation of an earlier published work. I did not check a separate registration.",
+          "source": "Wikipedia, Eegah (secondary source, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Eegah"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "According to Wikipedia, The Film Detective announced a 4K restoration released November 26, 2019 on DVD and a 1,500-copy limited Blu-ray, working with Shout Factory and Something Weird Video. Extras include the MST3K version and interviews with Joel Hodgson and Arch Hall Jr. A faithful restoration adds no new US copyright in the film, but the added extras and any new material can be protected.",
+          "source": "Wikipedia, Eegah (secondary source, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Eegah"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1989,
+      1990,
+      1991
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Eegah” (renewals ~1989, 1990, 1991)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Eegah"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/PhantasmagoriaTheater-Eegah1962878",
+      "label": "Eegah (1962) — Internet Archive, 1h30m copy",
+      "quality": "unverified-source copy of unknown transfer quality"
+    },
+    {
+      "url": "https://archive.org/details/Eegah.1962",
+      "label": "Eegah (1962) — Internet Archive, 90-minute copy",
+      "quality": "unverified-source copy of unknown transfer quality"
+    }
+  ],
+  "editorial": "Eegah is a 1962 desert-monster picture produced and directed by Arch Hall Sr., who wrote the story as Nicholas Merriwether, with Bob Wehling credited as co-writer on the screenplay. Arch Hall Jr. stars with Marilyn Manning and Richard Kiel, later Jaws in the Bond films, as the giant. Fairway International released it on June 8, 1962. Its trash-cinema reputation grew through a 1993 Mystery Science Theater 3000 episode, which makes it a ready source of clips, commentary and remix material.\n\nThe rights question is unresolved in this dossier. The film was released in the 1962 window, so its status depends on whether the original notice was proper and whether anyone filed a renewal in 1989-1991. I could not reach the Catalog of Copyright Entries renewal volumes or the Copyright Office catalog, so no renewal-absence finding is recorded. Run the three search links in this file first. Two things sit on top of the film itself: the music credited to André Brummer under the name Henri Price, and the 2019 Film Detective 4K restoration, whose added extras and any new material can carry their own protection. Use a plain Internet Archive copy, not the MST3K cut or the restoration disc.",
+  "faq": [
+    [
+      "Is Eegah safe to reuse in a video?",
+      "Not yet confirmed. The film's status depends on its notice and on whether a 1989-1991 renewal exists, and this dossier did not complete that search. Run the Stanford and Copyright Office search links first. Even if the film proves free, clear the music and avoid the MST3K version, which adds its own material."
+    ],
+    [
+      "Can I use the 2019 Film Detective 4K restoration or the MST3K episode?",
+      "Take the plain film from an Internet Archive copy instead. A faithful restoration adds no new US copyright in the underlying film, but the Film Detective release includes interviews and the MST3K cut, and those additions can be protected. The MST3K episode adds the show's own riffs and framing."
+    ]
+  ]
+}
