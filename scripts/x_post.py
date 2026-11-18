@@ -41,8 +41,10 @@ def oauth_header(method, url, k, nonce=None, ts=None, params=None):
 def call(method, path, body=None):
     url = API + path
     k = keys()
+    base, _, query = url.partition("?")  # OAuth 1.0a signs query params, over the URL without them
+    params = dict(urllib.parse.parse_qsl(query, keep_blank_values=True))
     req = urllib.request.Request(url, method=method, data=json.dumps(body).encode() if body else None,
-                                 headers={"Authorization": oauth_header(method, url, k),
+                                 headers={"Authorization": oauth_header(method, base, k, params=params),
                                           "Content-Type": "application/json"})
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
