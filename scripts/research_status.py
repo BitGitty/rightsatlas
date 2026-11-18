@@ -89,7 +89,23 @@ def gather() -> dict:
         "traffic": traffic(),
         "renewal_audit": renewal_audit(),
         "suggestions": new_suggestions(),
+        "blog": blog_status(),
     }
+
+
+def blog_status():
+    """2026-11-18 owner: daily scheduled blog posts must roll out without anyone. The nightly build
+    (02:17 UTC) publishes posts dated <= the UTC date, and this report runs before it, so the newest
+    post that must already be live is the one dated <= yesterday (UTC). A failed build stops the posts
+    silently - this line is the alarm. Returns (newest due slug, its HTTP status, posts still scheduled)."""
+    utc_yday = (datetime.now(timezone.utc).date() - timedelta(days=1)).isoformat()
+    files = sorted(p.name for p in (ROOT / "content" / "blog").glob("????-??-??-*.html"))
+    due = [n for n in files if n[:10] <= utc_yday]
+    ahead = len([n for n in files if n[:10] > utc_yday])
+    if not due:
+        return None, None, ahead
+    slug = due[-1][11:-5]
+    return slug, http_status(f"{SITE}/blog/{slug}/"), ahead
 
 
 def new_suggestions():
@@ -213,6 +229,14 @@ def evaluate(f: dict):
         lines.append(f"Thin pages upgraded: {', '.join(f['refreshed_1d'])}")
     if f["in_season"]:
         lines.append(f"In season (prioritised): {', '.join(f['in_season'])}")
+    slug, code, ahead = f.get("blog") or (None, None, 0)
+    if slug:
+        lines.append(f"Blog: newest post {slug} " + ("live" if code == 200 else f"NOT live ({code})")
+                     + f" · {ahead} scheduled ahead")
+        if code != 200:
+            fails.append(f"blog post {slug} is due but not live (did the nightly build fail?)")
+    if ahead < 7:
+        warns.append(f"only {ahead} blog posts left in the schedule - write more or decide to stop")
     if f["class_page_missing"]:
         warns.append(f"Public Domain Day page for {f['next_class']} not written yet")
     if f["pending"] < 5:

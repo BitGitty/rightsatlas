@@ -109,7 +109,17 @@ def t14_blog_schedule_and_links():
     site = ROOT / "site"
     if not (site / "blog" / "index.html").exists():
         return  # site not built; skipped
+    film_ids = {p.stem for p in FILMS.glob("*.json")}
     for src in (ROOT / "content" / "blog").glob("????-??-??-*.html"):
+        # every post, scheduled or live: its film links and images must exist, or the build on its
+        # release day fails and blocks the whole site deploy
+        text = src.read_text(encoding="utf-8")
+        lines = text.split("\n", 3)
+        assert len(lines) == 4 and lines[0].strip() and lines[1].strip(), f"{src.name}: header lines missing"
+        for img in [lines[2].partition("|")[0].strip()] + re.findall(r'\{\{BASE\}\}blog/img/([^"]+)"', text):
+            assert not img or (ROOT / "content" / "blog" / "img" / img).exists(), f"{src.name}: missing image {img}"
+        for fid in re.findall(r'\{\{BASE\}\}film/([^/"]+)/', text):
+            assert fid in film_ids, f"{src.name}: links to unknown film {fid}"
         live = (site / "blog" / src.stem[11:] / "index.html")
         if date.fromisoformat(src.name[:10]) > date.today():
             assert not live.exists(), f"scheduled post {src.name} was published early"
