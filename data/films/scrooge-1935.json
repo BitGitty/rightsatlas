@@ -3,7 +3,7 @@
   "title": "Scrooge",
   "year": 1935,
   "country": "UK",
-  "last_verified": "2026-11-17",
+  "last_verified": "2026-11-18",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "British film produced by Julius Hagen and directed by Henry Edwards, released on 26 November 1935. Paramount Pictures handled US distribution. A US public-domain claim for a post-1930 film would need a missing notice or a missing renewal. No Catalog of Copyright Entries renewal volume and no Copyright Office record was checked, so no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA, which depends on its US publication history and was not established. Wikipedia's infobox calls the film public domain, but it cites no renewal or URAA analysis, so that is not relied on.",
+          "note": "British film produced by Julius Hagen and directed by Henry Edwards, released on 26 November 1935. Wikipedia names Twickenham Film Studios as the producing studio and Paramount Pictures as US distributor. A US public-domain claim for a post-1930 film would need a missing notice or a missing renewal. The 28th-year renewal window falls in the 1962 to 1964 Catalog of Copyright Entries volumes. The attempt to open the Motion Pictures 1960-1969 volume failed (Project Gutenberg returned HTTP 503), so no renewal volume was read and no absence of renewal is shown. As a British work it may also have had US copyright restored under the URAA. That depends on its US publication history and was not established. Wikipedia's infobox calls the film public domain, but it cites no renewal or URAA analysis, so that is not relied on.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -55,7 +55,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports the original 78-minute version was released on DVD by Image Entertainment in 2002. It also lists a 60-minute shortened version edited in 1941 for non-theatrical use, and a colorized version released by Legend Films on DVD in 2007 and Blu-ray in 2011. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, new music or a new edit can be protected.",
+          "note": "Wikipedia reports the original 78-minute version was restored and released on DVD by Image Entertainment on 29 October 2002. It also lists a 60-minute shortened version edited in 1941 that became widely available on VHS and DVD, and a colorized version released by Legend Films in 2007 and on Blu-ray in 2011. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, new music or a new edit can be protected.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
@@ -91,11 +91,11 @@
       "quality": "full 78-minute feature"
     }
   ],
-  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol. Henry Edwards directed it and Julius Hagen produced it. Seymour Hicks plays Scrooge opposite Donald Calthrop as Bob Cratchit. It opened on 26 November 1935, and Paramount Pictures handled US distribution. The Internet Archive hosts a 78-minute copy.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were checked here, so the print is unresolved even though the Internet Archive hosts a copy. The trap is the versions. The 60-minute edit from 1941, the Legend Films colorized releases (DVD 2007, Blu-ray 2011) and the Image Entertainment DVD (2002) may carry protected additions that the original film does not.",
+  "editorial": "Scrooge is the 1935 British adaptation of Dickens's A Christmas Carol, billed as the first sound feature of the story. Henry Edwards directed and Julius Hagen produced. Seymour Hicks plays Scrooge opposite Donald Calthrop as Bob Cratchit. It opened on 26 November 1935, and Paramount Pictures handled US distribution. The Internet Archive hosts a 78-minute copy.\n\nThe story is free because it rests on Dickens's 1843 novella. The film is a separate matter. As a 1935 British production, its US status turns on notice, renewal and possible URAA restoration. None of those were established here, so the print is unresolved even though the Internet Archive hosts a copy. The trap is the versions. The 60-minute edit from 1941, the Legend Films colorized releases (DVD 2007, Blu-ray 2011) and the Image Entertainment DVD (2002) may carry protected additions that the original film does not.",
   "faq": [
     [
       "Is the 1935 Scrooge safe to reuse in the US?",
-      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was done here."
+      "Not yet confirmed. The Dickens story is free, but the film's own US status was not established. It needs a renewal check in the 1962 to 1964 volumes and a URAA restoration check, and neither was completed here."
     ],
     [
       "Does a DVD or edited copy change the answer?",
