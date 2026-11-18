@@ -536,3 +536,5 @@
 {"date": "2026-11-18", "id": "santa-claus-conquers-the-martians-1964", "result": "refreshed", "reasons": []}
 {"date": "2026-11-18", "id": "the-front-page-1931", "result": "queued", "reasons": []}
 {"date": "2026-11-18", "id": "the-terror-from-beyond-space-1958", "result": "queued", "reasons": []}
+{"date": "2026-11-18", "id": "scrooge-1935", "result": "blocked", "reasons": ["crash PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\_tmp\\\\wintemp\\\\tmpu77_b5x2'"]}
+{"date": "2026-11-18", "id": "scrooge-1951", "result": "refreshed", "reasons": []}
