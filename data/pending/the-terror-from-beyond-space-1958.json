@@ -1,0 +1,91 @@
+{
+  "id": "the-terror-from-beyond-space-1958",
+  "title": "The Terror from Beyond Space",
+  "year": 1958,
+  "country": "US",
+  "last_verified": "2026-11-18",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1958 US release. Public domain status depends on a missing notice or a missing renewal in the 1985-1987 window. I could not fetch the Stanford renewal database or the Copyright Office catalog in this session, so no renewal-absence check was completed. The Internet Archive item below carries a Public Domain Mark label set by the uploader, which is not a rights determination.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/it-the-terror-from-beyond-space-1958_202409"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to Paul Sawtell and Bert Shefter. The recorded track is part of the film's soundtrack, so it should share the film's status. That status is unresolved.",
+          "source": "Wikipedia (production credits)",
+          "url": "https://en.wikipedia.org/wiki/It!_The_Terror_from_Beyond_Space"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is by Jerome Bixby. The Internet Archive holds a screenplay draft dated November 11, 1957. I found no earlier source work, but I did not confirm whether the screenplay or story was separately registered or renewed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/it-the-terror-from-beyond-space_202505"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1985,
+      1986,
+      1987
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “It! The Terror from Beyond Space” (renewals ~1985, 1986, 1987)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Terror+from+Beyond+Space"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/it-the-terror-from-beyond-space-1958_202409",
+      "label": "It! The Terror From Beyond Space (1958), 69 min, Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The film's actual title is It! The Terror from Beyond Space. Edward L. Cahn directed it for United Artists, and it was released in August 1958 as a 69-minute black-and-white feature. Jerome Bixby wrote it, Vogue Pictures was the production company, and Paul Blaisdell built the creature suit. A rescue ship brings home the sole survivor of a Mars expedition, and a Martian stows away and kills the crew one by one. Dan O'Bannon's screenplay for Alien (1979) drew on it, which is why creators go looking for it.\n\nThe print's status is not settled. A 1958 film is free only if its notice was missing or its 28th-year renewal was never filed. Renewals for 1958 films fell due in 1985-1987. I could not complete that search here, so I am not calling this print public domain. An uploader's Public Domain Mark on an Internet Archive page does not settle it. Before reusing the film, search the Stanford renewal database and the Copyright Office public catalog for the title and for Vogue Pictures. Treat the Bixby screenplay, the score and any later restoration or colorized version as separate questions.",
+  "faq": [
+    [
+      "Is It! The Terror from Beyond Space in the public domain in the US?",
+      "Not confirmed. The film is from 1958, so it is free only if its notice was missing or its renewal was never filed. The Internet Archive copy is labelled Public Domain by the uploader, but that is not proof. Search the renewal records for 1985-1987 before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Only after the renewal check comes back clean. Even then, a colorized version, a new score or added titles on a modern release could carry their own protection. Check which version you are copying."
+    ]
+  ]
+}
