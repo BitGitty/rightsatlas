@@ -163,7 +163,7 @@
   },
   "Motionpict19601969librrich0013": {
    "ok": true,
-   "film": "dementia-13-1963",
+   "film": "meet-john-doe-1941",
    "kind": "evidence"
   },
   "dementia-13-1963-horror-full-movie-francis-ford-coppola": {
@@ -309,6 +309,16 @@
   "ManosTheHandsofFate_201508": {
    "ok": true,
    "film": "manos-the-hands-of-fate-1966",
+   "kind": "watch"
+  },
+  "MeetJohnDoeHD": {
+   "ok": true,
+   "film": "meet-john-doe-1941",
+   "kind": "watch"
+  },
+  "meet-john-doe-1941_202309": {
+   "ok": true,
+   "film": "meet-john-doe-1941",
    "kind": "watch"
   },
   "nanook-of-the-north-1922-tmdb669": {
