@@ -1,0 +1,78 @@
+{
+  "id": "horse-feathers-1932",
+  "title": "Horse Feathers",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-20",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Queue flagged renewal as likely absent, but I could not confirm that. Secondary web sources report a 1960 renewal (an Emka Ltd. notice appears on a soundtrack reissue) and a US expiry of 1 January 2028. I did not locate the renewal record itself. I read only the first 100,000 of about 912,000 characters of the Jan-Jun 1960 motion pictures CCE volume and found no Horse Feathers entry there. Treat as probably renewed and not free to use until a CCE renewal entry or a Copyright Office record is checked by hand.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1960 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film with a recorded track, which normally shares the film's copyright status. The print status is unresolved, so the score is too.",
+          "source": "Internet Archive item record for a Horse Feathers upload",
+          "url": "https://archive.org/details/19FreeDownloadAmpStreamingInternetArchive"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Horse Feathers” (renewals ~1959, 1960, 1961)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Horse+Feathers"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Horse Feathers is a Paramount comedy with Groucho, Harpo, Chico and Zeppo Marx, directed by Norman Z. McLeod and released in August 1932. Groucho plays Professor Quincy Adams Wagstaff, the new head of Huxley College. It is one of the most quoted Marx Brothers films, and clips of it circulate widely.\n\nThe rights trap is that the queue's \"renewal absent\" flag looks wrong. Several Internet Archive uploads label the film public domain, but that is the uploader's label and not a legal finding. Secondary sources report a 1960 renewal and a 2028 expiry. Until a primary renewal record is checked, assume the print is still protected. Do not rely on the Internet Archive license tag.",
+  "faq": [
+    [
+      "Is Horse Feathers in the public domain in the US?",
+      "Probably not yet. I found no primary record either way. Secondary sources report that it was renewed in 1960, which would put US expiry at 1 January 2028. Check the Catalog of Copyright Entries renewal volumes by hand before reusing it."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "Not on the strength of the upload's public-domain label. That label comes from the uploader and does not establish the film's copyright status. Wait for confirmation of the renewal record, or for the term to expire."
+    ]
+  ]
+}

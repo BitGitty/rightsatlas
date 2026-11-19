@@ -554,3 +554,5 @@
 {"date": "2026-11-19", "id": "at-the-circus-1939", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
 {"date": "2026-11-19", "id": "scrooge-1951", "result": "refreshed", "reasons": []}
 {"date": "2026-11-19", "id": "the-great-rupert-1950", "result": "refreshed", "reasons": []}
+{"date": "2026-11-20", "id": "horse-feathers-1932", "result": "queued", "reasons": []}
+{"date": "2026-11-20", "id": "block-heads-1938", "result": "queued", "reasons": []}

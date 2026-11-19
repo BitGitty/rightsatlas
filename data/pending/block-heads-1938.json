@@ -1,0 +1,95 @@
+{
+  "id": "block-heads-1938",
+  "title": "Block-Heads",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-20",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Registration notice reads c1938 by Hal Roach Studios, Inc., per the AFI Catalog entry. I could not read the Catalog of Copyright Entries renewal volumes (1965-1967) for a Block-Heads renewal, so print status is not confirmed either way.",
+          "source": "AFI Catalog",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/7701"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Marvin Hatley's score, which earned an Academy Award nomination, is part of the film's recorded soundtrack. It most likely shares the print's copyright status. This was not independently confirmed.",
+          "source": "AFI Catalog",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/7701"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is an original feature, not a direct adaptation of one source. It reworks elements from the Laurel and Hardy shorts We Faw Down (1928) and Unaccustomed As We Are (1929). It also uses battle footage from the 1925 MGM silent film The Big Parade, so the reused material has its own copyright history. I did not verify the term of those sources.",
+          "source": "AFI Catalog",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/7701"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Block-Heads” (renewals ~1965, 1966, 1967)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Block-Heads"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1966 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/LaurelAndHardyBlockHeads",
+      "label": "Block-Heads on the Internet Archive (community upload, about 56 min)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Block-Heads (1938) is a Laurel and Hardy feature directed by John G. Blystone. Hal Roach Studios produced it for Metro-Goldwyn-Mayer, and it was released on August 19, 1938. It was Roach's last production for MGM. It reworks gags from the shorts We Faw Down (1928) and Unaccustomed As We Are (1929). Its opening battle scenes come from the 1925 MGM silent The Big Parade. Marvin Hatley's score was nominated for an Academy Award.\n\nThe registration notice reads c1938 by Hal Roach Studios, Inc. As a 1938 film it is not free by term alone. Whether it is free to reuse depends on whether the copyright was renewed in its 28th year, around 1965 to 1967. I could not confirm a renewal or the lack of one from the records I could read, so treat the film as unverified. Check the Catalog of Copyright Entries renewal volumes before reusing it. The Big Parade footage and the earlier shorts have their own copyright histories.",
+  "faq": [
+    [
+      "Is Block-Heads (1938) public domain?",
+      "Not confirmed. The copyright notice is c1938 by Hal Roach Studios, Inc. Public domain status would require that no renewal was filed around 1965 to 1967. I could not verify that either way. Search the Catalog of Copyright Entries renewal volumes yourself before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "An upload being on the Internet Archive does not clear its rights. This upload is a community upload, so its source and quality are unknown. Confirm the renewal status first. Also check the Big Parade battle footage and any added music or titles."
+    ]
+  ]
+}
