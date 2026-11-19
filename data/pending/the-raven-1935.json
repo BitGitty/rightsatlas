@@ -1,0 +1,92 @@
+{
+  "id": "the-raven-1935",
+  "title": "The Raven",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Pictures Corp. copyrighted the film in 1935 and released it July 8, 1935. A 1935 film is public domain only through a missing notice or a missing renewal. I could not fetch the Stanford renewal database or the Catalog of Copyright Entries renewal volumes in this session, so no renewal-absence result is confirmed.",
+          "source": "Wikipedia, The Raven (1935 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Raven_(1935_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score credited to Clifford Vaughan. As a sound film, the recorded track normally shares the film's own copyright status, which is unresolved until the renewal question is settled.",
+          "source": "Wikipedia, The Raven (1935 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Raven_(1935_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is an original by David Boehm, only 'suggested by' Poe's 1845 poem. Poe's poem is old enough to be free, but the screenplay and plot are Universal's and follow the film's own copyright status.",
+          "source": "Wikipedia, The Raven (1935 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Raven_(1935_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Home video releases listed: a 2005 DVD in 'The Bela Lugosi Collection', a 2019 Shout Factory Blu-ray (Universal Horror Collection) and a 2020 Eureka Masters of Cinema Blu-ray. I did not confirm what, if anything, these editions add beyond the film itself.",
+          "source": "Wikipedia, The Raven (1935 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Raven_(1935_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Raven” (renewals ~1962, 1963, 1964)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Raven"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Raven (1935) is a Universal Pictures horror film directed by Lew Landers, with Bela Lugosi as a surgeon obsessed with Poe and Boris Karloff as a fugitive he disfigures. David Boehm wrote the screenplay, which is only 'suggested by' Poe's 1845 poem, and Clifford Vaughan is credited with the music. It is a draw for horror compilations, Poe-themed projects and Lugosi/Karloff retrospectives.\n\nThe rights trap is the renewal. A 1935 film is free only if Universal never renewed it in the 1962–1964 window, and I could not confirm that either way. Until someone checks the Stanford renewal database and the Catalog of Copyright Entries renewal volumes, treat the film as protected. Poe's poem is old, but the screenplay is Universal's own work. The 2019 Shout Factory and 2020 Eureka Blu-rays are copy-protected discs, so ripping them could also raise DMCA issues.",
+  "faq": [
+    [
+      "Is The Raven (1935) safe to reuse in the US?",
+      "Not yet confirmed. Universal copyrighted it in 1935, and it is free only if the 28-year renewal was never filed. That search is still open. Run the three DIY links, and do not rely on the film's age."
+    ],
+    [
+      "Does Poe's poem make the film free?",
+      "No. The poem is old, but the film's screenplay by David Boehm and Universal's footage are separate works. Their term depends on the film's own renewal status."
+    ]
+  ]
+}
