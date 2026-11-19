@@ -546,3 +546,5 @@
 {"date": "2026-11-19", "id": "the-stranger-1946", "result": "queued", "reasons": []}
 {"date": "2026-11-19", "id": "beyond-tomorrow-1940", "result": "refreshed", "reasons": []}
 {"date": "2026-11-19", "id": "santa-claus-conquers-the-martians-1964", "result": "blocked", "reasons": ["crash PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\_tmp\\\\wintemp\\\\tmppalynqgs'"]}
+{"date": "2026-11-19", "id": "a-night-at-the-opera-1935", "result": "blocked", "reasons": ["crash PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\_tmp\\\\wintemp\\\\tmps9zvkpqm'"]}
+{"date": "2026-11-19", "id": "the-most-dangerous-game-1932", "result": "queued", "reasons": []}

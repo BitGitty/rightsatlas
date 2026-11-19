@@ -1,0 +1,97 @@
+{
+  "id": "the-most-dangerous-game-1932",
+  "title": "The Most Dangerous Game",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-19",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1960 volume (Vol 14, Nos 1-2), the film's 28th-year renewal window. A scan of the full OCR text for the title 'Most Dangerous Game' found no renewal entry. The OCR is imperfect; the volume's printed indexes should also be checked by hand.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1960 Motion Pictures",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1959 volume (Vol 13, Nos 1-2). A scan of the full OCR text for the title 'Most Dangerous Game' found no renewal entry. The only near match was an unrelated 'Most dangerous man alive'.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1959 Motion Pictures",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded soundtrack normally shares the film's status. Separate rights in the underlying music were not researched.",
+          "source": "Analysis",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on Richard Connell's short story 'The Most Dangerous Game', first published in Collier's magazine and later in O. Henry Memorial Award Prize Stories of 1924 (Doubleday, Page & Co.). Wikisource states the story is in the US public domain because it was published before 1931. Duke CSPD states that works from 1924 entered the US public domain on January 1, 2020.",
+          "source": "Wikisource; Duke CSPD Public Domain Day 2020",
+          "url": "https://cspd.law.duke.edu//publicdomainday/2020/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": "No renewal for 'The Most Dangerous Game' was found in the full text of the 1959 or 1960 Catalog of Copyright Entries motion-picture volumes. The 1961 volume was not checked.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Most Dangerous Game” (renewals ~1959, 1960, 1961)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Most+Dangerous+Game"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Most_Dangerous_Game_32",
+      "label": "The Most Dangerous Game (RKO, 1932) on the Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Most Dangerous Game is an RKO Radio Pictures adventure thriller released in the US on September 16, 1932. It is about a shipwreck survivor, Bob Rainsford, who lands on an island where Count Zaroff hunts castaways for sport. The Internet Archive's records credit Irving Pichel and Ernest B. Schoedsack as directors and David O. Selznick and Merian C. Cooper as producers. A creator might want it for its short 63-minute running time and its pre-Code tone. Several copies are already posted online.\n\nThe film's copyright status turns on renewal. It was made in 1932, so it depends on whether anyone renewed it in its 28th year. The 1959 and 1960 Catalog of Copyright Entries motion-picture volumes show no renewal under the title. The source story, Richard Connell's 1924 Collier's tale, is in the public domain because of its age. The rights trap is the soundtrack and the copy you pick. The score layer is undetermined because music rights were not researched. Check any restored or re-released copy for added material before reuse.",
+  "faq": [
+    [
+      "Is the 1932 film The Most Dangerous Game free to use in the US?",
+      "The print appears to be free. I found no renewal entry in the 1959 or 1960 Catalog of Copyright Entries volumes, and the source story is in the public domain. Search the printed indexes and the 1961 volume by hand before relying on this. The score, trademarks and any restoration additions are still open."
+    ],
+    [
+      "Can I use any copy from the Internet Archive?",
+      "Not automatically. Where a copy comes from matters: a faithful scan adds no new US copyright, but added titles, a new score, subtitles or colorization can be protected. This dossier did not examine which uploaded copy is faithful, so check the copy you choose."
+    ]
+  ]
+}
