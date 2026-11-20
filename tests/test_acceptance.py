@@ -138,6 +138,18 @@ def t14_blog_schedule_and_links():
             assert target.exists() or (target / "index.html").exists(), f"{src.name}: broken link /{ref}"
 
 
+def t15_songs_have_sources():
+    """Every song dossier names its writers and backs its status with at least one sourced evidence line."""
+    for p in sorted((ROOT / "data" / "songs").glob("*.json")):
+        s = json.loads(p.read_text(encoding="utf-8"))
+        assert s.get("id") == p.stem and s.get("title") and isinstance(s.get("year"), int), f"{p.name}: id/title/year"
+        c = s.get("composition", {})
+        assert c.get("status") in ("verified_pd", "not_pd", "undetermined") or str(c.get("status")).startswith(
+            "enters_pd_"), f"{p.name}: bad status {c.get('status')}"
+        assert c.get("evidence") and all(x.get("url", "").startswith("http") for x in c["evidence"]), \
+            f"{p.name}: status without a sourced evidence line"
+
+
 def t_all_live_films_validate():
     errs = []
     for p in sorted(FILMS.glob("*.json")):

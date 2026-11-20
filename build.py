@@ -853,6 +853,57 @@ page goes live.</span></li>
                 body, nav="suggest", path="suggest/")
 
 
+SONGS = ROOT / "data" / "songs"
+SONG_LABEL = {"verified_pd": ("Public domain (US)", "ok"), "not_pd": ("Still protected", "no"),
+              "undetermined": ("Not verified", "unk")}
+
+
+def song_label(s):
+    st = s["composition"]["status"]
+    if st.startswith("enters_pd_"):
+        y = int(st.rsplit("_", 1)[1])
+        return (f"Public domain since 1 January {y}", "ok") if date.today().year >= y else \
+               (f"Enters the public domain on 1 January {y}", "warn")
+    return SONG_LABEL.get(st, ("Not verified", "unk"))
+
+
+def song_page(s):
+    """2026-11-20 owner 'go music': song (composition) dossiers, same evidence-first idea as films."""
+    label, cls = song_label(s)
+    ev = "".join(f'<li>{e(x["note"])} <a href="{e(x["url"])}" rel="nofollow noopener">{e(x["source"])}</a></li>'
+                 for x in s["composition"].get("evidence", []))
+    rec_year = YEAR - 101  # US sound recordings: published 100+ years ago are free (Music Modernization Act)
+    body = f"""<article class="dossier">
+<p class="backlink"><a href="{BASE}songs/">← All songs</a></p>
+<h1>{e(s["title"])}</h1>
+<p class="lead">Is <em>{e(s["title"])}</em> ({s["year"]}) public domain?</p>
+<p class="meta">Written by {e(s.get("writers", "unknown"))} · first published {s["year"]} · last verified {e(s.get("last_verified", "—"))}</p>
+<div class="verdict {cls}"><span class="vhead">The song (music and lyrics):</span> <strong>{e(label)}</strong>
+<span class="vsub">— this covers the composition only, not any recording of it.</span></div>
+<h2>The evidence</h2><ul class="evidence">{ev}</ul>
+<h2>Recordings are a separate right</h2>
+<p>A song and a recording of it are two different copyrights. In the US, sound recordings follow the Music
+Modernization Act: recordings published in {rec_year} or earlier are public domain, and each later year frees one more
+year of recordings. A modern recording of a public domain song is still protected, so to use the song freely, record
+or perform it yourself, or use a recording that is itself public domain.</p>
+{f'<h2>Where you have heard it</h2><p>{e(s["famous_use"])} (<a href="{e(s["use_source"])}" rel="nofollow noopener">source</a>)</p>' if s.get("famous_use") else ""}
+<p class="tool-note">Research, not legal advice. US status only; other countries differ. Spotted an error?
+<a href="{BASE}suggest/">Send a correction</a>.</p>
+</article>"""
+    return page(f'Is {s["title"]} ({s["year"]}) public domain? — RightsAtlas',
+                f'{s["title"]} ({s["year"]}), by {s.get("writers", "")}: US public domain status of the song, with '
+                f'sources, and why recordings are separate.', body, nav="class2027", path=f'song/{s["id"]}/')
+
+
+def songs_index(songs):
+    rows = "".join(f'<li><a href="{BASE}song/{s["id"]}/">{e(s["title"])}</a> ({s["year"]}), {e(s.get("writers", ""))}'
+                   f' — {e(song_label(s)[0])}</li>' for s in sorted(songs, key=lambda x: (x["year"], x["title"])))
+    body = (f'<h1>Songs</h1><p class="lead">The US public domain status of famous songs (the music and lyrics), '
+            f'with sources. Recordings are a separate right, explained on each page.</p><ul class="songlist">{rows}</ul>')
+    return page("Public domain songs — RightsAtlas", "Which famous songs are public domain in the US, with sources: "
+                "the song and its recordings checked separately.", body, nav="class2027", path="songs/")
+
+
 BLOG = ROOT / "content" / "blog"
 
 
@@ -983,6 +1034,14 @@ def build():
             (d / "index.html").write_text(
                 page(title.strip(), title.strip(), rest, nav=nav_key, path=f"{extra}/"), encoding="utf-8")
 
+    songs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(SONGS.glob("*.json"))] if SONGS.exists() else []
+    if songs:
+        (OUT / "songs").mkdir()
+        (OUT / "songs" / "index.html").write_text(songs_index(songs), encoding="utf-8")
+        for s in songs:
+            (OUT / "song" / s["id"]).mkdir(parents=True)
+            (OUT / "song" / s["id"] / "index.html").write_text(song_page(s), encoding="utf-8")
+
     posts = blog_posts()
     (OUT / "blog").mkdir()
     if (BLOG / "img").exists():
@@ -1048,7 +1107,8 @@ def build():
             + [f"{BASE}film/{f['id']}/" for f in films]
             + [f"{BASE}{x}/" for x in extras + ["corrections", "collections", "tools"]]
             + [f"{BASE}collections/{c['slug']}/" for c in collections]
-            + [f"{BASE}blog/"] + [f"{BASE}blog/{p['slug']}/" for p in posts])
+            + [f"{BASE}blog/"] + [f"{BASE}blog/{p['slug']}/" for p in posts]
+            + ([f"{BASE}songs/"] + [f"{BASE}song/{s['id']}/" for s in songs] if songs else []))
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
