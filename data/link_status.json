@@ -282,12 +282,12 @@
    "kind": "watch"
   },
   "TheLastManOnEarth_72": {
-   "ok": false,
+   "ok": true,
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
-  "TheLastManOnEarthHD": {
-   "ok": false,
+  "the-last-man-on-earth-1964_202606": {
+   "ok": true,
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
@@ -657,28 +657,7 @@
    "kind": "evidence"
   }
  },
- "repaired": [
-  {
-   "film": "last-man-on-earth-1964",
-   "was": "TheLastManOnEarthHD",
-   "now": "the-last-man-on-earth-1964_202606",
-   "kind": "evidence"
-  }
- ],
- "dropped": [
-  {
-   "film": "last-man-on-earth-1964",
-   "was": "TheLastManOnEarth_72"
-  },
-  {
-   "film": "last-man-on-earth-1964",
-   "was": "TheLastManOnEarthHD"
-  }
- ],
- "unrepaired_evidence": [
-  {
-   "film": "last-man-on-earth-1964",
-   "was": "TheLastManOnEarth_72"
-  }
- ]
+ "repaired": [],
+ "dropped": [],
+ "unrepaired_evidence": []
 }
