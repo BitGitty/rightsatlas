@@ -56,6 +56,7 @@ NAV = [
     ("blog", "Blog", f"{BASE}blog/"),
     ("how", "How it works", f"{BASE}methodology/"),
     ("corrections", "Corrections", f"{BASE}corrections/"),
+    ("tools", "Tools", f"{BASE}tools/"),
     ("suggest", "Suggestions", f"{BASE}suggest/"),
 ]
 
@@ -241,7 +242,8 @@ def film_page(f):
         "@context": "https://schema.org",
         "@graph": [
             {"@type": "Movie", "name": f["title"], "datePublished": str(f["year"]),
-             "countryOfOrigin": f.get("country", "US")},
+             "countryOfOrigin": f.get("country", "US"), "url": f"{HOST}{BASE}film/{f['id']}/",
+             **({"isAccessibleForFree": True} if arch else {})},
             {"@type": "FAQPage", "mainEntity": faq_ld} if faq_ld else {},
         ],
     }
@@ -330,6 +332,15 @@ No green checkmarks without proof.</p>
 <p class="asksuggest">Not here yet? <a href="{BASE}suggest/?kind=film">Ask us to research it</a>.</p>
 </div>
 </div>
+</section>
+<section class="callout tools-callout">
+<h2>Free tools</h2>
+<ul>
+<li><a href="{BASE}tools/#calculator">Public domain calculator</a>: enter a year and country, get the likely US status.</li>
+<li><a href="{BASE}tools/#renewal-finder">Renewal record finder</a>: open the exact copyright catalog pages for any 1931-1963 film.</li>
+<li><a href="{BASE}tools/#movie-night">Free movie night picker</a>: a random verified public domain film, ready to watch.</li>
+<li><a href="{BASE}tools/#by-year">What becomes public domain each year</a>, and <a href="{BASE}blog/">our blog</a>: a new sourced post every day.</li>
+</ul>
 </section>
 <section>
 <h2>Researched films</h2>
@@ -642,6 +653,125 @@ SUGGEST_JS = ("""
 """) % (SUPABASE_URL, SUPABASE_KEY, _LABELS_JS)
 
 
+TOOLS_JS = r"""
+(function(){
+var BASE=%BASE%, Y=new Date().getFullYear(), FILMS=[];
+var VOLS=%VOLS%;
+function $(id){return document.getElementById(id);}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function norm(s){return String(s).toLowerCase().replace(/^(the|a|an)\s+/,'').replace(/[^a-z0-9]/g,'');}
+function match(t,y){var n=norm(t);return FILMS.filter(function(f){return n&&norm(f.t)===n&&(!y||Math.abs(f.y-y)<=1);});}
+function dbLine(t,y){var m=match(t,y);return m.length?'<p class="tool-db">We have checked this film: '+m.map(function(f){return '<a href="'+BASE+'film/'+f.id+'/">'+esc(f.t)+' ('+f.y+')</a> &rarr; '+esc(f.l);}).join(', ')+'</p>':'';}
+var free=Y-96;  // works published in or before this year are public domain by age
+// 1. calculator
+function calc(){
+  var y=parseInt($('cy').value,10), foreign=$('cc').value==='foreign', r=$('cr').value, n=$('cn').value, out;
+  if(!y||y<1800||y>Y){$('cout').innerHTML='<p>Enter the year it was first published.</p>';return;}
+  $('crw').hidden=!(y>free&&y<=1963); $('cnw').hidden=!(y>=1964&&y<=1977);
+  var until='protected until 1 January '+(y+96);
+  if(y<=free) out='<strong>Public domain in the US.</strong> Works published in '+free+' or earlier have finished their copyright term.';
+  else if(foreign&&y<=1977) out='<strong>Probably still protected in the US.</strong> Most foreign works from these years had their US copyright restored on 1 January 1996 (URAA), even without a renewal or notice. If so, it is '+until+'.';
+  else if(y<=1963){
+    if(r==='no') out='<strong>Public domain in the US</strong>, if the copyright was really not renewed: it lapsed at the end of '+(y+28)+'.';
+    else if(r==='yes') out='<strong>Protected.</strong> A renewed work from '+y+' is '+until+'.';
+    else out='<strong>It depends on the renewal.</strong> Not renewed: public domain since '+(y+29)+'. Renewed: '+until+'. Use the renewal record finder below.';
+  } else if(y<=1977){
+    if(n==='no') out='<strong>Public domain in the US</strong>, if it was published without a valid copyright notice.';
+    else if(n==='yes') out='<strong>Protected.</strong> Renewal was automatic for works from 1964 on, so it is '+until+'.';
+    else out='<strong>It depends on the copyright notice.</strong> Renewal was automatic from 1964, so only a missing notice can make it free.';
+  } else if(y<1989) out='<strong>Most likely protected.</strong> A missing notice could still be fixed by registering within five years, so few works from these years are free.';
+  else out='<strong>Protected.</strong> Works published from March 1989 on need no notice.';
+  $('cout').innerHTML='<p>'+out+'</p><p class="tool-note">This covers the main work only. Music, the underlying story, restorations and trademarks are separate. US only; not legal advice.</p>'+dbLine($('ct').value,y);
+}
+// 2. renewal record finder
+function renew(){
+  var t=$('rt').value.trim(), y=parseInt($('ry').value,10), h='';
+  if(!t||!y){$('rout').innerHTML='<p>Enter the title and the year it was published.</p>';return;}
+  if(y<=free) h='<p>No renewal needed: works from '+y+' are already public domain by age.</p>';
+  else if(y>=1964) h='<p>Renewal became automatic for works from 1964 on, so there is nothing to look up. Check the copyright notice instead.</p>';
+  else {
+    h='<p>The renewal had to be filed in '+(y+27)+' or '+(y+28)+'. Look for "'+esc(t)+'" in these records:</p><ul>';
+    [y+27,y+28].forEach(function(v){ if(VOLS[v]) h+='<li><a href="https://archive.org/details/'+VOLS[v]+'?q='+encodeURIComponent(t)+'" rel="nofollow noopener" target="_blank">Catalog of Copyright Entries, '+v+', motion pictures (renewals section)</a></li>'; });
+    if(y+28>=1978) h+='<li><a href="https://publicrecords.copyright.gov/" rel="nofollow noopener" target="_blank">US Copyright Office public records</a>: search "'+esc(t)+'" (renewals filed from 1978 on are here)</li>';
+    h+='</ul><p class="tool-note">An entry starting with "R" and a number is a renewal. No entry for the film in either year usually means it was not renewed; also check the music and story.</p>';
+  }
+  $('rout').innerHTML=h+dbLine(t,y);
+}
+// 3. movie night picker
+function pick(){
+  var w=FILMS.filter(function(f){return f.a;}); if(!w.length) return;
+  var f=w[Math.floor(Math.random()*w.length)];
+  $('pout').innerHTML='<h3>'+esc(f.t)+' ('+f.y+')</h3><div class="embed"><iframe loading="lazy" src="https://archive.org/embed/'+encodeURIComponent(f.a)+'" title="'+esc(f.t)+'" allowfullscreen></iframe></div><p><a href="'+BASE+'film/'+f.id+'/">Why it is public domain, with the evidence</a></p>';
+}
+// 4. free in year X
+function year(){
+  var x=parseInt($('xy').value,10); if(!x||x<1923){$('xout').innerHTML='<p>Enter a year from 1923 on.</p>';return;}
+  var c=x-96, list=FILMS.filter(function(f){return f.y===c;});
+  var h='<p>On 1 January '+x+', US works published in <strong>'+c+'</strong> '+(x<=Y?'entered':'enter')+' the public domain.</p>';
+  h+=list.length?'<p>Films from '+c+' we have checked:</p><ul>'+list.map(function(f){return '<li><a href="'+BASE+'film/'+f.id+'/">'+esc(f.t)+'</a></li>';}).join('')+'</ul>':'<p>We have no films from '+c+' in our database yet. <a href="'+BASE+'suggest/">Suggest one</a>.</p>';
+  $('xout').innerHTML=h;
+}
+fetch(BASE+'assets/tools.json').then(function(r){return r.json();}).then(function(d){FILMS=d;}).catch(function(){});
+['cy','cc','cr','cn','ct'].forEach(function(i){$(i).addEventListener('input',calc);});
+$('rgo').addEventListener('click',renew); $('pgo').addEventListener('click',pick); $('xgo').addEventListener('click',year);
+$('xy').value=Y+1;
+})();
+"""
+
+
+def tools_page():
+    from cce_check import VOLS
+    js = TOOLS_JS.replace("%VOLS%", json.dumps(VOLS)).replace("%BASE%", json.dumps(BASE))
+    sel = lambda i, opts: f'<select id="{i}">' + "".join(f'<option value="{v}">{e(t)}</option>' for v, t in opts) + "</select>"
+    ld = {"@context": "https://schema.org", "@type": "WebApplication", "name": "RightsAtlas public domain tools",
+          "url": f"{HOST}{BASE}tools/", "applicationCategory": "ReferenceApplication", "operatingSystem": "Any",
+          "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
+          "description": "Free public domain calculator, copyright renewal record finder, free movie picker and "
+                         "a public-domain-by-year lookup for films."}
+    body = f"""<article class="dossier tools">
+<h1>Free public domain tools</h1>
+<p class="lead">Four free tools for checking whether a film is public domain in the US, finding the copyright renewal
+records yourself, and watching verified free films.</p>
+
+<section class="tool" id="calculator"><h2>1. Public domain calculator</h2>
+<p>Answer a few questions about a film (or any published work) and get its likely US status.</p>
+<div class="toolform">
+<label>Title (optional) <input id="ct" type="text" autocomplete="off"></label>
+<label>Year first published <input id="cy" type="number" min="1800" max="2100" inputmode="numeric"></label>
+<label>Country {sel("cc", [("us", "United States"), ("foreign", "Outside the US")])}</label>
+<label id="crw" hidden>Was the copyright renewed in its 28th year? {sel("cr", [("unknown", "I don't know"), ("no", "No"), ("yes", "Yes")])}</label>
+<label id="cnw" hidden>Did it carry a copyright notice? {sel("cn", [("unknown", "I don't know"), ("yes", "Yes"), ("no", "No")])}</label>
+</div><div id="cout" class="toolout" aria-live="polite"></div></section>
+
+<section class="tool" id="renewal-finder"><h2>2. Renewal record finder</h2>
+<p>For films published 1931 to 1963, the copyright had to be renewed in its 28th year. Enter the title and year, and we
+open the exact catalog volumes to search.</p>
+<div class="toolform"><label>Title <input id="rt" type="text" autocomplete="off"></label>
+<label>Year published <input id="ry" type="number" min="1900" max="2100" inputmode="numeric"></label>
+<button id="rgo" type="button">Find the records</button></div>
+<div id="rout" class="toolout" aria-live="polite"></div></section>
+
+<section class="tool" id="movie-night"><h2>3. Free movie night picker</h2>
+<p>One click picks a film whose US print we have verified as public domain, with a free copy to watch.</p>
+<div class="toolform"><button id="pgo" type="button">Pick a free film</button></div>
+<div id="pout" class="toolout" aria-live="polite"></div></section>
+
+<section class="tool" id="by-year"><h2>4. What becomes public domain in a given year?</h2>
+<p>Pick a year to see which works enter the US public domain on 1 January, and the films from that class we cover.</p>
+<div class="toolform"><label>Year <input id="xy" type="number" min="1923" max="2200" inputmode="numeric"></label>
+<button id="xgo" type="button">Show</button></div>
+<div id="xout" class="toolout" aria-live="polite"></div></section>
+
+<p class="tool-note">These tools apply the US rules explained in <a href="{BASE}methodology/">how it works</a>.
+They are research aids, not legal advice.</p>
+</article>
+<script type="application/ld+json">{json.dumps(ld)}</script>
+<script>{js}</script>"""
+    return page("Free public domain calculator and film tools — RightsAtlas",
+                "Free tools: a public domain calculator, a copyright renewal record finder, a free movie picker, "
+                "and what enters the US public domain each year.", body, nav="tools", path="tools/")
+
+
 def suggest_page(backlog_count):
     tiles = "".join(
         f'<label class="skind"><input type="radio" name="kind" value="{v}"{" checked" if v == "film" else ""}>'
@@ -877,10 +1007,23 @@ def build():
                   + [{"id": r["id"], "title": r["title"], "year": r["year"], "kind": "queue"} for r in backlog])
     (OUT / "assets" / "index.json").write_text(json.dumps(search_idx), encoding="utf-8")
 
+    # /tools/ (owner 2026-11-20 "go tools"): calculator, renewal finder, movie picker, by-year lookup.
+    # tools.json = our films with their print verdict label and (verified + watchable only) archive id
+    def arch_id(f):
+        if f["layers"]["print"]["status"] != "verified_pd":
+            return None
+        return next((w["url"].rsplit("/details/", 1)[1].strip("/") for w in f.get("watch", [])
+                     if "archive.org/details/" in w["url"]), None)
+    tools_idx = [{"id": f["id"], "t": f["title"], "y": f["year"],
+                  "l": engine.public_label(f["layers"]["print"]["status"])[0], "a": arch_id(f)} for f in films]
+    (OUT / "assets" / "tools.json").write_text(json.dumps(tools_idx), encoding="utf-8")
+    (OUT / "tools").mkdir(parents=True, exist_ok=True)
+    (OUT / "tools" / "index.html").write_text(tools_page(), encoding="utf-8")
+
     urls = ([f"{BASE}", f"{BASE}films/", f"{BASE}suggest/"]
             + [f"{BASE}films/{d}s/" for d in sorted(decades)]
             + [f"{BASE}film/{f['id']}/" for f in films]
-            + [f"{BASE}{x}/" for x in extras + ["corrections", "collections"]]
+            + [f"{BASE}{x}/" for x in extras + ["corrections", "collections", "tools"]]
             + [f"{BASE}collections/{c['slug']}/" for c in collections]
             + [f"{BASE}blog/"] + [f"{BASE}blog/{p['slug']}/" for p in posts])
     (OUT / "sitemap.xml").write_text(
