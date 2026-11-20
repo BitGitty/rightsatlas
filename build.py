@@ -116,6 +116,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
 <meta property="og:url" content="{canon}">
 <meta name="twitter:card" content="{card}">
 <meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="RightsAtlas blog" href="{BASE}blog/feed.xml">
 {extra_head}"""
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -986,6 +987,20 @@ def build():
     if (BLOG / "img").exists():
         shutil.copytree(BLOG / "img", OUT / "blog" / "img")
     (OUT / "blog" / "index.html").write_text(blog_index(posts), encoding="utf-8")
+    # RSS (2026-11-20): Pinterest business accounts auto-pin from a feed (their API needs weeks of review and
+    # browser automation breaks their rules); feed readers and Bing use it too. Image = the post's hero.
+    items = "".join(
+        f'<item><title>{e(p["title"])}</title><link>{HOST}{BASE}blog/{p["slug"]}/</link>'
+        f'<guid isPermaLink="true">{HOST}{BASE}blog/{p["slug"]}/</guid>'
+        f'<pubDate>{p["date"].strftime("%a, %d %b %Y")} 02:17:00 +0000</pubDate><description>{e(p["desc"])}</description>'
+        + (f'<enclosure url="{HOST}{BASE}blog/img/{e(p["hero"])}" type="image/jpeg" length="0"/>'
+           f'<media:content url="{HOST}{BASE}blog/img/{e(p["hero"])}" medium="image"/>' if p["hero"] else "")
+        + "</item>" for p in posts[:30])
+    (OUT / "blog" / "feed.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">'
+        f'<channel><title>RightsAtlas blog</title><link>{HOST}{BASE}blog/</link>'
+        '<description>Sourced notes on classic films and the US public domain.</description><language>en</language>'
+        f'{items}</channel></rss>', encoding="utf-8")
     for p in posts:
         (OUT / "blog" / p["slug"]).mkdir()
         (OUT / "blog" / p["slug"] / "index.html").write_text(blog_post_page(p), encoding="utf-8")
