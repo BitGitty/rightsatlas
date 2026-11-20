@@ -230,7 +230,7 @@ def film_page(f, post=None):
     verified = f["layers"]["print"]["status"] == "verified_pd"
     arch = next((w["url"].rsplit("/details/", 1)[1].strip("/") for w in f.get("watch", [])
                  if "archive.org/details/" in w["url"]), None) if verified else None
-    player = (f'<section class="embed watchnow"><h2>Watch {e(f["title"])} ({f["year"]}) free</h2>'
+    player = (f'<section class="embed watchnow" id="watch"><h2>Watch {e(f["title"])} ({f["year"]}) free</h2>'
               f'<iframe loading="lazy" src="https://archive.org/embed/{e(arch)}" title="{e(f["title"])} '
               f'on the Internet Archive" allowfullscreen></iframe>'
               f'<p class="credit">Streamed from the <a href="https://archive.org/details/{e(arch)}" '
@@ -322,8 +322,22 @@ def index_page(films, backlog_count):
     for f in sorted(films, key=lambda x: x["title"]):
         g = engine.guidance(f)
         cards += (f'<a class="card {g["reuse"][0]}" href="{BASE}film/{f["id"]}/">'
-                  f'<strong>{e(f["title"])}</strong><span>{f["year"]}</span></a>')
-    n_songs = len(list(SONGS.glob("*.json"))) if SONGS.exists() else 0
+                  f'<strong>{e(f["title"])}</strong><span>{f["year"]}'
+                  f'{" · <b class=\"watchmini\">▶ Watch free</b>" if watch_id(f) else ""}</span></a>')
+    songs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(SONGS.glob("*.json"))] if SONGS.exists() else []
+    n_songs = len(songs)
+    song_cards = "".join(
+        f'<a class="card {song_label(s)[1]}" href="{BASE}song/{s["id"]}/"><strong>{e(s["title"])}</strong>'
+        f'<span>{s["year"]} · {e(song_label(s)[0])}</span></a>' for s in sorted(songs, key=lambda x: x["title"]))
+    # the free player was only visible deep inside film pages (owner 2026-11-20): show it on the front page
+    famous = ["nosferatu-1922", "metropolis-1927", "the-general-1926", "the-gold-rush-1925", "steamboat-willie-1928",
+              "night-of-the-living-dead-1968", "safety-last-1923", "the-phantom-of-the-opera-1925"]
+    by_id = {f["id"]: f for f in films}
+    watch_cards = "".join(
+        f'<a class="watchcard" href="{BASE}film/{i}/#watch"><img src="https://archive.org/services/img/{e(watch_id(by_id[i]))}" '
+        f'alt="" loading="lazy"><span>▶ {e(by_id[i]["title"])} ({by_id[i]["year"]})</span></a>'
+        for i in famous if i in by_id and watch_id(by_id[i]))
+    n_watch = sum(1 for f in films if watch_id(f))
     body = f"""<section class="hero">
 <div class="hero-main">
 <p class="kicker">Free answers, with sources</p>
@@ -346,6 +360,12 @@ Every answer shows where it comes from.</p>
 <span class="cov-note">(waiting = no answer yet, not a list of free films)</span></p>
 </div>
 </section>
+<section class="watchfree">
+<h2>▶ Watch free classic films</h2>
+<p>{n_watch} films on this site are verified public domain in the US, and you can watch them right here, free.</p>
+<div class="watchgrid">{watch_cards}</div>
+<p><a href="{BASE}films/?watch=1">See all {n_watch} films you can watch free →</a></p>
+</section>
 {seasonal}
 <section class="callout tools-callout">
 <h2>Free tools</h2>
@@ -360,6 +380,10 @@ Every answer shows where it comes from.</p>
 <section>
 <h2>Films we have checked</h2>
 <div class="grid">{cards}</div>
+</section>
+<section>
+<h2>Songs we have checked</h2>
+<div class="grid">{song_cards}</div>
 </section>
 <section class="callout">
 <h2>January 1, {NEXT_CLASS + 96}: the next public domain class</h2>
@@ -413,21 +437,35 @@ def collections_index(collections, by_id):
                 subnav=collections_subnav(collections, None))
 
 
+def watch_id(f):
+    """archive.org id of a free copy, only when the film print is verified public domain (else None)."""
+    if f["layers"]["print"]["status"] != "verified_pd":
+        return None
+    return next((w["url"].rsplit("/details/", 1)[1].strip("/") for w in f.get("watch", [])
+                 if "archive.org/details/" in w["url"]), None)
+
+
 def films_index(films):
     rows = ""
     for f in sorted(films, key=lambda x: (x["year"], x["title"])):
         p = f["layers"]["print"]["status"]
-        rows += (f'<tr><td><a href="{BASE}film/{f["id"]}/">{e(f["title"])}</a></td>'
+        w = watch_id(f)
+        rows += (f'<tr{" class=\"canwatch\"" if w else ""}><td><a href="{BASE}film/{f["id"]}/">{e(f["title"])}</a></td>'
                  f'<td>{f["year"]}</td><td>{e(f.get("country", "US"))}</td>'
-                 f'<td>{status_badge(p)}</td></tr>')
+                 f'<td>{status_badge(p)}</td><td>{f"<a class=\"watchtag\" href=\"{BASE}film/{f["id"]}/#watch\">▶ Watch free</a>" if w else ""}</td></tr>')
+    n_watch = sum(1 for f in films if watch_id(f))
     decades = sorted({(f["year"] // 10) * 10 for f in films})
     dec_links = " · ".join(f'<a href="{BASE}films/{d}s/">{d}s</a>' for d in decades)
-    body = f"""<h1>All researched films</h1>
+    body = f"""<h1>All films we have checked</h1>
 <p class="decnav">Browse by decade: {dec_links}</p>
+<p><label class="inclq"><input type="checkbox" id="onlywatch"> Show only the {n_watch} films you can watch free here</label></p>
 <p class="sorthint">Click a column heading to sort.</p>
 <div class="tablewrap"><table class="listing" id="filmtable">
-<tr><th data-s="text">Title ↕</th><th data-s="num">Year ↕</th><th data-s="text">Origin ↕</th><th data-s="text">Film print status ↕</th></tr>
+<tr><th data-s="text">Title ↕</th><th data-s="num">Year ↕</th><th data-s="text">Origin ↕</th><th data-s="text">Is the film free? ↕</th><th data-s="text">Watch ↕</th></tr>
 {rows}</table></div>
+<script>document.getElementById('onlywatch').onchange=function(){{var on=this.checked;
+document.querySelectorAll('#filmtable tr:not(:first-child)').forEach(function(r){{r.hidden=on&&!r.classList.contains('canwatch');}});}};
+if(/watch=1/.test(location.search)){{var c=document.getElementById('onlywatch');c.checked=true;c.onchange();}}</script>
 <script>
 (function() {{
   var t = document.getElementById('filmtable'), asc = {{}};
@@ -446,8 +484,9 @@ def films_index(films):
   }});
 }})();
 </script>"""
-    return page("All films — RightsAtlas", "Every film researched by RightsAtlas.", body,
-                nav="films", path="films/")
+    return page("All films we have checked — RightsAtlas",
+                f"Every classic film RightsAtlas has checked, with its US public domain status. {n_watch} can be "
+                f"watched free.", body, nav="films", path="films/")
 
 
 def decade_hub(decade, films):
@@ -934,10 +973,41 @@ or perform it yourself, or use a recording that is itself public domain.</p>
 
 
 def songs_index(songs):
-    rows = "".join(f'<li><a href="{BASE}song/{s["id"]}/">{e(s["title"])}</a> ({s["year"]}), {e(s.get("writers", ""))}'
-                   f' — {e(song_label(s)[0])}</li>' for s in sorted(songs, key=lambda x: (x["year"], x["title"])))
-    body = (f'<h1>Songs</h1><p class="lead">The US public domain status of famous songs (the music and lyrics), '
-            f'with sources. Recordings are a separate right, explained on each page.</p><ul class="songlist">{rows}</ul>')
+    """Same table design as /films/ (owner 2026-11-20: 'why songs page design is different from films?')."""
+    def badge(s):
+        label, cls = song_label(s)
+        return f'<span class="badge {cls}">{e(label)}</span>'
+    rows = "".join(
+        f'<tr><td><a href="{BASE}song/{s["id"]}/">{e(s["title"])}</a>'
+        + (f' <span lang="my">{e(s["title_my"])}</span>' if s.get("title_my") and s["title_my"] not in s["title"] else "")
+        + f'</td><td>{s["year"]}</td><td>{e(s.get("writers", ""))}</td><td>{badge(s)}</td>'
+        f'<td>{e(s["mm"]["label_en"]) if s.get("mm") else "—"}</td></tr>'
+        for s in sorted(songs, key=lambda x: (x["year"], x["title"])))
+    body = f"""<h1>All songs we have checked</h1>
+<p class="lead">Is a song free to use in the US? We check the song itself (music and lyrics), with sources. Every
+recording of a song is a separate right, explained on each page. For Burmese songs we also show the Myanmar status.</p>
+<p class="sorthint">Click a column heading to sort.</p>
+<div class="tablewrap"><table class="listing" id="songtable">
+<tr><th data-s="text">Song ↕</th><th data-s="num">Year ↕</th><th data-s="text">Written by ↕</th><th data-s="text">Is the song free? (US) ↕</th><th data-s="text">In Myanmar ↕</th></tr>
+{rows}</table></div>
+<script>
+(function() {{
+  var t = document.getElementById('songtable'), asc = {{}};
+  t.rows[0].querySelectorAll('th').forEach(function(th, i) {{
+    th.style.cursor = 'pointer';
+    th.onclick = function() {{
+      asc[i] = !asc[i];
+      var rows = Array.prototype.slice.call(t.rows, 1);
+      rows.sort(function(a, b) {{
+        var x = a.cells[i].textContent.trim(), y = b.cells[i].textContent.trim();
+        if (th.dataset.s === 'num') {{ x = +x; y = +y; return asc[i] ? x - y : y - x; }}
+        return asc[i] ? x.localeCompare(y) : y.localeCompare(x);
+      }});
+      rows.forEach(function(r) {{ t.appendChild(r); }});
+    }};
+  }});
+}})();
+</script>"""
     return page("Public domain songs — RightsAtlas", "Which famous songs are public domain in the US, with sources: "
                 "the song and its recordings checked separately.", body, nav="songs", path="songs/")
 

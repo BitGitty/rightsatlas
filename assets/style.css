@@ -282,3 +282,13 @@ article.blog figcaption,.credit{font-family:var(--mono);font-size:.75rem;color:v
 @media(max-width:640px){.homecards{grid-template-columns:1fr}}
 .mainnav{overflow:visible}
 .bigsearch button{white-space:nowrap}
+/* watch-free visibility + song cards (2026-11-20) */
+.watchfree{border-top:3px solid var(--ink);margin-top:28px}
+.watchgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin:14px 0}
+.watchcard{display:flex;flex-direction:column;text-decoration:none;color:var(--ink);border:3px solid var(--ink);background:var(--white)}
+.watchcard img{width:100%;aspect-ratio:4/3;object-fit:cover;background:#000;display:block}
+.watchcard span{padding:10px 12px;font-family:var(--sans);font-weight:700}
+.watchcard:hover{border-color:var(--no)}
+.watchmini{color:var(--ok);font-family:var(--sans)}
+.watchtag{font-family:var(--sans);font-weight:700;color:var(--ok);white-space:nowrap}
+.card.warn{border-left:6px solid var(--warn)}
