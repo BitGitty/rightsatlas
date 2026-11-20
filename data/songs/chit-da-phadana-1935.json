@@ -1,0 +1,44 @@
+{
+  "id": "chit-da-phadana-1935",
+  "title": "Chit Da Phadana",
+  "title_my": "ချစ်ထာပဓာန",
+  "year": 1935,
+  "writers": "Myoma Nyein (မြို့မငြိမ်း)",
+  "country": "Myanmar",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "undetermined",
+    "evidence": [
+      {
+        "note": "The song was recorded on gramophone around 1935-38 (exact year not confirmed). For the US: Myanmar works still protected in Myanmar on 1 January 1996 had their US copyright restored for 95 years from first publication; if this song was first published in 1935, it is protected in the US until 31 December 2030. We have not confirmed the year of first publication, so we do not give a US verdict yet.",
+        "source": "US Copyright Office, Circular 38B",
+        "url": "https://www.copyright.gov/circs/circ38b.pdf"
+      },
+      {
+        "note": "Song year: recorded on gramophone around 1935-38 (exact year not confirmed).",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Myoma_Nyein"
+      }
+    ]
+  },
+  "mm": {
+    "label_en": "Public domain in Myanmar since 1 January 2006",
+    "label_my": "မြန်မာနိုင်ငံတွင် ၂၀၀၆ ခုနှစ် ဇန်နဝါရီလ ၁ ရက်နေ့မှစ၍ အများပိုင် (public domain) ဖြစ်ပါသည်။",
+    "note_en": "The composer, Myoma Nyein, died in 1955. Myanmar protects songs for the author's life plus 50 years, counted from 1 January after the death, so the song's Myanmar copyright ended on 31 December 2005. The US can give a different answer: see the evidence above.",
+    "note_my": "တေးရေးဆရာ မြို့မငြိမ်းသည် ၁၉၅၅ ခုနှစ်တွင် ကွယ်လွန်ခဲ့ပါသည်။ မြန်မာ့မူပိုင်ခွင့်ဥပဒေအရ သီချင်းများကို ရေးသူ၏ သက်တမ်းတစ်လျှောက်နှင့် ကွယ်လွန်ပြီးနောက် နှစ် ၅၀ အထိ ကာကွယ်ပေးပါသည်။ အမေရိကန်တွင်မူ ပထမဆုံး ထုတ်ဝေသည့်နှစ်ပေါ် မူတည်၍ အဖြေ ကွဲပြားနိုင်ပါသည်။",
+    "evidence": [
+      {
+        "note": "Myoma Nyein died in 1955.",
+        "source": "Wikipedia",
+        "url": "https://my.wikipedia.org/wiki/မြို့မငြိမ်း"
+      },
+      {
+        "note": "Copyright Law 2019, section 17: life of the author plus 50 years, counted from 1 January of the following year (the Burma Copyright Act 1914 had the same term).",
+        "source": "WIPO Lex: Myanmar Copyright Law 2019",
+        "url": "https://www.wipo.int/wipolex/en/text/589524"
+      }
+    ]
+  },
+  "famous_use": "Described as Myoma Nyein's greatest love song.",
+  "use_source": "https://en.wikipedia.org/wiki/Myoma_Nyein"
+}
