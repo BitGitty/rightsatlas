@@ -347,6 +347,7 @@ No green checkmarks without proof.</p>
 <li><a href="{BASE}tools/#renewal-finder">Renewal record finder</a>: open the exact copyright catalog pages for any 1931-1963 film.</li>
 <li><a href="{BASE}tools/#movie-night">Free movie night picker</a>: a random verified public domain film, ready to watch.</li>
 <li><a href="{BASE}tools/#by-year">What becomes public domain each year</a>, and <a href="{BASE}blog/">our blog</a>: a new sourced post every day.</li>
+<li><a href="{BASE}songs/">Public domain songs</a>: famous songs checked with sources, like the 1931 class that becomes free on 1 January 2027.</li>
 </ul>
 </section>
 <section>
@@ -862,8 +863,9 @@ def song_label(s):
     st = s["composition"]["status"]
     if st.startswith("enters_pd_"):
         y = int(st.rsplit("_", 1)[1])
-        return (f"Public domain since 1 January {y}", "ok") if date.today().year >= y else \
-               (f"Enters the public domain on 1 January {y}", "warn")
+        # an unrenewed song lapsed decades earlier, so the term date is the LATEST it becomes free
+        return (f"Public domain since 1 January {y} (at the latest)", "ok") if date.today().year >= y else \
+               (f"Public domain from 1 January {y} (at the latest)", "warn")
     return SONG_LABEL.get(st, ("Not verified", "unk"))
 
 
