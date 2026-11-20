@@ -161,6 +161,13 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
       <a href="{BASE}about/">About</a>
     </nav>
   </div>
+  <div class="footin follow"><span>Follow us:</span>
+    <a href="https://bsky.app/profile/rightsatlas.net" rel="me noopener">Bluesky</a>
+    <a href="https://mastodon.social/@rightsatlas" rel="me noopener">Mastodon</a>
+    <a href="https://x.com/RightsAtlas" rel="me noopener">X</a>
+    <a href="https://www.pinterest.com/rightsatlas/" rel="me noopener">Pinterest</a>
+    <a href="{BASE}blog/feed.xml">RSS</a>
+  </div>
 </footer>
 <script>/* first-party analytics */(function(){{try{{fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/track_view",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null}}),keepalive:true}}).catch(function(){{}})}}catch(e){{}}}})();</script>
 </body>

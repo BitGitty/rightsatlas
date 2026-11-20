@@ -292,3 +292,5 @@ article.blog figcaption,.credit{font-family:var(--mono);font-size:.75rem;color:v
 .watchmini{color:var(--ok);font-family:var(--sans)}
 .watchtag{font-family:var(--sans);font-weight:700;color:var(--ok);white-space:nowrap}
 .card.warn{border-left:6px solid var(--warn)}
+.follow{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center;font-family:var(--sans);font-weight:600;padding-top:0;margin-top:-8px}
+.follow span{color:var(--mut)}
