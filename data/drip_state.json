@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-19",
+  "last_release": "2026-11-20",
   "log": [
     {
       "date": "2026-08-31",
@@ -324,6 +324,10 @@
     {
       "date": "2026-11-19",
       "film": "meet-john-doe-1941"
+    },
+    {
+      "date": "2026-11-20",
+      "film": "horse-feathers-1932"
     }
   ]
 }
