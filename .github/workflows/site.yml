@@ -58,3 +58,12 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+      # 2026-11-20: tell Bing/Yandex/Seznam (IndexNow) about every page after each deploy, so new blog posts
+      # and tools are crawled within hours instead of weeks. Key file: static/<key>.txt. Never fails the deploy.
+      - name: IndexNow ping
+        continue-on-error: true
+        run: |
+          sleep 60
+          KEY=e9a181090cd34e9cfbf915cc9d11a6d9
+          curl -s https://rightsatlas.net/sitemap.txt | python3 -c "import sys,json; u=[l.strip() for l in sys.stdin if l.strip()]; print(json.dumps({'host':'rightsatlas.net','key':'$KEY','keyLocation':'https://rightsatlas.net/$KEY.txt','urlList':u[:10000]}))" > body.json
+          curl -s -o /dev/null -w "IndexNow HTTP %{http_code}\n" -X POST https://api.indexnow.org/indexnow -H "Content-Type: application/json; charset=utf-8" --data @body.json

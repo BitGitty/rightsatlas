@@ -115,6 +115,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{canon}">
 <meta name="twitter:card" content="{card}">
+<meta name="robots" content="max-image-preview:large">
 {extra_head}"""
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -174,7 +175,7 @@ def evidence_list(evidence):
     return f'<ul class="ev">{"".join(items)}</ul>'
 
 
-def film_page(f):
+def film_page(f, post=None):
     g = engine.guidance(f)
     decade = (f["year"] // 10) * 10
     breadcrumb = (f'<nav class="breadcrumb" aria-label="Breadcrumb">'
@@ -281,6 +282,7 @@ answers are wrong so often.</p>
 
 {f'<h2>Watch it free (archival copies)</h2><ul class="watch">{watch_html}</ul>' if watch_html else ''}
 
+{f'<p class="readpost">Read our article: <a href="{BASE}blog/{post["slug"]}/">{e(post["title"])}</a></p>' if post else ''}
 <h2>Background</h2>
 {"".join(f"<p>{e(p)}</p>" for p in f.get("editorial", "").split(chr(10) * 2) if p.strip())}
 
@@ -295,7 +297,10 @@ answers are wrong so often.</p>
         title = f'Is {f["title"]} ({f["year"]}) public domain? Yes: watch it free — RightsAtlas'
         desc = (f'Watch {f["title"]} ({f["year"]}) free and legally. Its US film print is verified public '
                 f'domain; here is the evidence, plus the music and story layers to check before reuse.')
-    return page(title, desc, body,
+    # 2026-11-20: share previews + film<->blog internal links (Google ranks pages that link each other)
+    img = f'{HOST}{BASE}blog/img/{post["hero"]}' if post else ""
+    head = f'<meta property="og:image" content="{img}">\n<meta name="twitter:image" content="{img}">' if img else ""
+    return page(title, desc, body, extra_head=head, card="summary_large_image" if img else "summary",
                 nav="films", path=f"film/{f['id']}/")
 
 
@@ -947,10 +952,12 @@ def build():
         d = OUT / "films" / f"{dec}s"
         d.mkdir(parents=True)
         (d / "index.html").write_text(decade_hub(dec, fs), encoding="utf-8")
+    # a film spotlight post's hero image is "<film-id>.jpg": only LIVE posts are linked from film pages
+    post_by_film = {p["hero"][:-4]: p for p in reversed(blog_posts()) if p["hero"].endswith(".jpg")}
     for f in films:
         d = OUT / "film" / f["id"]
         d.mkdir(parents=True)
-        (d / "index.html").write_text(film_page(f), encoding="utf-8")
+        (d / "index.html").write_text(film_page(f, post_by_film.get(f["id"])), encoding="utf-8")
 
     by_id = {f["id"]: f for f in films}
     collections = [c for c in seasons.load() if len(seasons.published(c, set(by_id))) >= seasons.MIN_FILMS]
