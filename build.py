@@ -333,8 +333,11 @@ def index_page(films, backlog_count):
     famous = ["nosferatu-1922", "metropolis-1927", "the-general-1926", "the-gold-rush-1925", "steamboat-willie-1928",
               "night-of-the-living-dead-1968", "safety-last-1923", "the-phantom-of-the-opera-1925"]
     by_id = {f["id"]: f for f in films}
+    def thumb(i):  # our own public-domain still from the blog when we have one, else archive.org's frame
+        return (f"{BASE}blog/img/{i}.jpg" if (BLOG / "img" / f"{i}.jpg").exists()
+                else f"https://archive.org/services/img/{watch_id(by_id[i])}")
     watch_cards = "".join(
-        f'<a class="watchcard" href="{BASE}film/{i}/#watch"><img src="https://archive.org/services/img/{e(watch_id(by_id[i]))}" '
+        f'<a class="watchcard" href="{BASE}film/{i}/#watch"><img src="{e(thumb(i))}" '
         f'alt="" loading="lazy"><span>▶ {e(by_id[i]["title"])} ({by_id[i]["year"]})</span></a>'
         for i in famous if i in by_id and watch_id(by_id[i]))
     n_watch = sum(1 for f in films if watch_id(f))
