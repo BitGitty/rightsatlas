@@ -886,6 +886,19 @@ def song_label(s):
     return SONG_LABEL.get(st, ("Not verified", "unk"))
 
 
+def mm_block(s):
+    """Burmese songs (owner 2026-11-20): Myanmar status (life + 50 under the Copyright Law 2019 / Act 1914) next to
+    the US one, which can differ because of the 1996 URAA restoration. English + Burmese, Unicode only."""
+    m = s.get("mm")
+    if not m:
+        return ""
+    ev = "".join(f'<li>{e(x["note"])} <a href="{e(x["url"])}" rel="nofollow noopener">{e(x["source"])}</a></li>'
+                 for x in m.get("evidence", []))
+    return (f'<h2>In Myanmar</h2><div class="verdict"><span class="vhead">Myanmar status:</span> '
+            f'<strong>{e(m["label_en"])}</strong></div><p lang="my">{e(m["label_my"])}</p>'
+            f'<p>{e(m["note_en"])}</p><p lang="my">{e(m["note_my"])}</p><ul class="evidence">{ev}</ul>')
+
+
 def song_page(s):
     """2026-11-20 owner 'go music': song (composition) dossiers, same evidence-first idea as films."""
     label, cls = song_label(s)
@@ -895,6 +908,7 @@ def song_page(s):
     body = f"""<article class="dossier">
 <p class="backlink"><a href="{BASE}songs/">← All songs</a></p>
 <h1>{e(s["title"])}</h1>
+{f'<p class="lead" lang="my">{e(s["title_my"])}</p>' if s.get("title_my") else ""}
 <p class="lead">Is <em>{e(s["title"])}</em> ({s["year"]}) public domain?</p>
 <p class="meta">Written by {e(s.get("writers", "unknown"))} · first published {s["year"]} · last verified {e(s.get("last_verified", "—"))}</p>
 <div class="verdict {cls}"><span class="vhead">The song (music and lyrics):</span> <strong>{e(label)}</strong>
@@ -905,6 +919,7 @@ def song_page(s):
 Modernization Act: recordings published in {rec_year} or earlier are public domain, and each later year frees one more
 year of recordings. A modern recording of a public domain song is still protected, so to use the song freely, record
 or perform it yourself, or use a recording that is itself public domain.</p>
+{mm_block(s)}
 {f'<h2>Where you have heard it</h2><p>{e(s["famous_use"])} (<a href="{e(s["use_source"])}" rel="nofollow noopener">source</a>)</p>' if s.get("famous_use") else ""}
 <p class="tool-note">Research, not legal advice. US status only; other countries differ. Spotted an error?
 <a href="{BASE}suggest/">Send a correction</a>.</p>

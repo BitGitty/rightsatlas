@@ -1,0 +1,42 @@
+{
+  "id": "kaba-ma-kyei-1930",
+  "title": "Kaba Ma Kyei (national anthem of Myanmar)",
+  "title_my": "ကမ္ဘာမကျေ",
+  "year": 1930,
+  "writers": "YMB Saya Tin (ဝိုင်အမ်ဘီ ဆရာတင်)",
+  "country": "Myanmar",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "undetermined",
+    "evidence": [
+      {
+        "note": "Composed in 1930 by YMB Saya Tin and adopted as the national anthem of independent Burma in 1947.",
+        "source": "Wikipedia: YMB Saya Tin",
+        "url": "https://en.wikipedia.org/wiki/YMB_Saya_Tin"
+      },
+      {
+        "note": "US status: Myanmar has been a WTO member since 1995, so Myanmar works still protected in Myanmar on 1 January 1996 had their US copyright restored, for 95 years from first publication. If this song was first published in 1930, its US term ended on 31 December 2025. We have not confirmed the year of first publication, so we do not call it free in the US yet.",
+        "source": "US Copyright Office, Circular 38B",
+        "url": "https://www.copyright.gov/circs/circ38b.pdf"
+      }
+    ]
+  },
+  "mm": {
+    "label_en": "Public domain in Myanmar since 1 January 2001",
+    "label_my": "မြန်မာနိုင်ငံတွင် ၂၀၀၁ ခုနှစ် ဇန်နဝါရီလ ၁ ရက်နေ့မှစ၍ အများပိုင် (public domain) ဖြစ်ပါသည်။",
+    "note_en": "The composer, YMB Saya Tin, died on 8 August 1950. Myanmar protects songs for the author's life plus 50 years, counted from 1 January after the death, so the song's Myanmar copyright ended on 31 December 2000. Separately, Myanmar's National Anthem Law (2010) regulates how the anthem may be sung and used, so use it with care.",
+    "note_my": "တေးရေးဆရာ ဝိုင်အမ်ဘီ ဆရာတင်သည် ၁၉၅၀ ပြည့်နှစ် ဩဂုတ်လ ၈ ရက်နေ့တွင် ကွယ်လွန်ခဲ့ပါသည်။ မြန်မာ့မူပိုင်ခွင့်ဥပဒေအရ သီချင်းများကို ရေးသူ၏ သက်တမ်းတစ်လျှောက်နှင့် ကွယ်လွန်ပြီးနောက် နှစ် ၅၀ အထိ ကာကွယ်ပေးပါသည်။ ထို့ကြောင့် ဤသီချင်း၏ မြန်မာ့မူပိုင်ခွင့်သည် ၂၀၀၀ ပြည့်နှစ် ဒီဇင်ဘာ ၃၁ ရက်နေ့တွင် ကုန်ဆုံးခဲ့ပါသည်။ သို့ရာတွင် ၂၀၁၀ ခုနှစ် နိုင်ငံတော်သီချင်းဥပဒေက သီချင်းကို သီဆိုအသုံးပြုပုံကို သီးခြားထိန်းချုပ်ထားသဖြင့် ဂရုစိုက်၍ အသုံးပြုပါ။",
+    "evidence": [
+      {
+        "note": "YMB Saya Tin died on 8 August 1950.",
+        "source": "Wikipedia: YMB Saya Tin",
+        "url": "https://en.wikipedia.org/wiki/YMB_Saya_Tin"
+      },
+      {
+        "note": "Copyright Law 2019, section 17: life of the author plus 50 years, counted from 1 January of the following year (the Burma Copyright Act 1914 had the same life plus 50 term).",
+        "source": "WIPO Lex: Myanmar Copyright Law 2019",
+        "url": "https://www.wipo.int/wipolex/en/text/589524"
+      }
+    ]
+  }
+}

@@ -148,6 +148,13 @@ def t15_songs_have_sources():
             "enters_pd_"), f"{p.name}: bad status {c.get('status')}"
         assert c.get("evidence") and all(x.get("url", "").startswith("http") for x in c["evidence"]), \
             f"{p.name}: status without a sourced evidence line"
+        m = s.get("mm")  # Burmese songs: both languages and a sourced Myanmar status
+        if m:
+            for k in ("label_en", "label_my", "note_en", "note_my"):
+                assert m.get(k), f"{p.name}: mm.{k} missing"
+            assert any("က" <= ch <= "႟" for ch in m["note_my"]), f"{p.name}: mm.note_my has no Burmese"
+            assert m.get("evidence") and all(x.get("url", "").startswith("http") for x in m["evidence"]), \
+                f"{p.name}: Myanmar status without a sourced evidence line"
 
 
 def t_all_live_films_validate():
