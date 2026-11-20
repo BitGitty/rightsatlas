@@ -562,3 +562,5 @@
 {"date": "2026-11-20", "id": "march-of-the-wooden-soldiers-1950", "result": "queued", "reasons": []}
 {"date": "2026-11-20", "id": "scrooge-1935", "result": "refreshed", "reasons": []}
 {"date": "2026-11-20", "id": "scrooge-1951", "result": "blocked", "reasons": ["crash PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\_tmp\\\\wintemp\\\\tmp2nw1s07u'"]}
+{"date": "2026-11-20", "id": "woman-on-the-run-1950", "result": "queued", "reasons": []}
+{"date": "2026-11-20", "id": "road-to-bali-1952", "result": "queued", "reasons": []}

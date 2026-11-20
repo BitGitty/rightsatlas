@@ -89,7 +89,12 @@
       }
     ]
   },
-  "watch": [],
+  "watch": [
+    {
+      "url": "https://archive.org/details/Applause_1929",
+      "label": "Applause (1929) on the Internet Archive"
+    }
+  ],
   "editorial": "Applause (1929) is Rouben Mamoulian's directorial debut, shot at Paramount's Astoria Studios in Queens, New York, with Helen Morgan as Kitty Darling, an aging burlesque performer trying to shield her convent-raised daughter from the backstage world that is destroying her. Adapted from Beth Brown's 1928 novel of the same name, it was one of the first talkies to liberate the camera from the fixed recording booth, using two Movietone channels recorded simultaneously so that dialogue and ambient sound could be layered separately — a technique that unsettled Paramount's own sound engineers but that film historians now cite as a foundational moment in sound-film grammar.\n\nThe 1929 print and its original recorded soundtrack entered the US public domain on January 1, 2025 when the 95-year copyright term expired. The rights question for creators is the restoration chain: UCLA Film & Television Archive rebuilt the picture with funding from Universal Pictures (which controls the pre-1948 Paramount library), and Kino Video released that reconstruction on DVD circa 2003 under a Universal license. A faithful restoration of public-domain images does not add new US copyright to the underlying footage, but any original elements Kino introduced — such as a newly recorded score or newly written title cards — can carry separate protection. High-quality digital copies of Applause circulating online are predominantly sourced from this restoration, not from the bare public domain elements. Using the cleaned-up Kino transfer therefore raises two distinct questions: whether it contains such original additions, and whether obtaining it requires circumventing copy-protection on the disc — which can implicate the DMCA anti-circumvention rules even when the underlying film is in the public domain.",
   "faq": [
     [

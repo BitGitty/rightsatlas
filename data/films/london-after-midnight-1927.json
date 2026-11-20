@@ -78,7 +78,12 @@
       }
     ]
   },
-  "watch": [],
+  "watch": [
+    {
+      "url": "https://archive.org/details/london-after-midnight_1927",
+      "label": "London After Midnight (1927) on the Internet Archive"
+    }
+  ],
   "editorial": "London After Midnight is a 1927 American silent mystery-horror produced by Metro-Goldwyn-Mayer and directed by Tod Browning, with Lon Chaney in the lead. Its story, 'The Hypnotist,' was an original creation by Browning, adapted for the screen by Waldemar Young with titles by Joseph W. Farnham. The film's US copyright — renewed in its 28th year by Loew's Inc. — ran 95 years total and expired at the end of 2022, placing the film and its underlying scenario in the public domain as of January 1, 2023. A creator wanting to adapt the premise, remake it, or publish the scenario has a clear runway: no prior published work underlies the story, and the copyright term is definitively expired.\n\nThe practical obstacle is that no original print survives. The film is one of cinema's most sought-after lost works; only production stills remain after a 1965 MGM vault fire destroyed the last known print. The only accessible version is the 2002 TCM photographic reconstruction produced by Rick Schmidlin, which assembles surviving stills with applied camera motion. The reconstruction's original creative elements — its assembly choices and any accompanying musical recording — carry their own copyright and are not freed by the print's public-domain status. A reuser drawing from the reconstruction rather than from original 1927 production stills is working with material that is only partially free.",
   "faq": [
     [

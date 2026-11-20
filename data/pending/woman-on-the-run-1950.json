@@ -1,0 +1,109 @@
+{
+  "id": "woman-on-the-run-1950",
+  "title": "Woman on the Run",
+  "year": 1950,
+  "country": "US",
+  "last_verified": "2026-11-20",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia article states the film exists in the public domain. This session could not confirm the two primary citations a post-1930 film needs. The Stanford renewal database is JavaScript-rendered and returned nothing. The Catalog of Copyright Entries 1977 motion-picture volume and the Jan-June 1978 volume were only partly searchable: OCR was incomplete, no 'Woman on the Run' entry was found in the portions read, and no July-Dec 1978 volume was located. The Copyright Office public catalog was not searched. Renewal absence is therefore unproven, not disproven.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1977 (partial text search)",
+          "url": "https://archive.org/details/1977motionpictur3311213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Fourth Series, Part 4: Motion Pictures and Filmstrips, Jan-June 1978. Partial text search only; this covers just the first half of the film's 1978 renewal year.",
+          "source": "Catalog of Copyright Entries 1978",
+          "url": "https://archive.org/details/catalogofcopyrig14libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to Arthur Lange and Emil Newman per the Wikipedia article. It is a sound film, so the recorded track normally shares the film's status. A separately registered or renewed score composition was not checked.",
+          "source": "Wikipedia: Woman on the Run (film)",
+          "url": "https://en.wikipedia.org/wiki/Woman_on_the_Run"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the story 'Man on the Run' by Sylvia Tate, published in American Magazine in 1948 per the Wikipedia article. The magazine's copyright notice and any renewal of the story were not checked. Its term is independent of the film's.",
+          "source": "Wikipedia: Woman on the Run (film)",
+          "url": "https://en.wikipedia.org/wiki/Woman_on_the_Run"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Per the Wikipedia article, the Film Noir Foundation and the Hollywood Foreign Press Association funded a restoration by the UCLA Film and Television Archive, which premiered in August 2015. The article says the negative and soundtrack were located in the British Film Institute's collection. Whether the restoration added protectable material such as new titles or subtitles was not confirmed.",
+          "source": "Wikipedia: Woman on the Run (film)",
+          "url": "https://en.wikipedia.org/wiki/Woman_on_the_Run"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1977,
+      1978,
+      1979
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Woman on the Run” (renewals ~1977, 1978, 1979)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Woman+on+the+Run"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/1950-ann-sheridan-na-noite-do-crime-woman-on-the-run",
+      "label": "Woman on the Run (1950), Portuguese-language version, about 77 min",
+      "quality": "Portuguese-language copy, not a clean English original"
+    },
+    {
+      "url": "https://archive.org/details/woman-on-the-run-1950-colorized",
+      "label": "Woman on the Run (1950), colorized, about 74 min",
+      "quality": "Colorized derivative; the colorization is added material and may carry its own protection"
+    }
+  ],
+  "editorial": "Woman on the Run is a 1950 San Francisco thriller from Fidelity Pictures, released through Universal. Norman Foster directed. Ann Sheridan plays Eleanor Johnson, who searches the city for her husband after he witnesses a gangland murder. Dennis O'Keefe plays the newspaperman who helps her. It premiered in New York on November 29, 1950. The story is 'Man on the Run' by Sylvia Tate, from American Magazine in 1948. It runs about 77 minutes, and the Arthur Lange and Emil Newman score is on the same soundtrack as the dialogue.\n\nThe film is widely described as public domain, but this dossier could not confirm that from primary records. Its renewal window was 1978. The archive.org copies of the Catalog of Copyright Entries searched for 1977 and the first half of 1978 were only partly readable, and the Copyright Office catalog was not searched. The rights trap is the derivative layers. A UCLA Film and Television Archive restoration, funded by the Film Noir Foundation, premiered in 2015. One of the archive.org copies is a colorized version. Colorization is added material that can be protected even if the underlying black-and-white film is free. The 1948 magazine story also has its own term, which was not checked.",
+  "faq": [
+    [
+      "Can I reuse Woman on the Run in my own project?",
+      "Not yet on a confirmed basis. Most sources call the film public domain, but this dossier could not confirm the missing renewal from primary records. Search the Copyright Office public catalog and the 1978 Catalog of Copyright Entries motion-picture renewal volumes for the title before relying on it. Also check the story and score layers."
+    ],
+    [
+      "Is the colorized archive.org version free to use?",
+      "Treat it with caution. Colorization is added material that can carry its own copyright even if the underlying black-and-white print is free. Use a clean black-and-white copy, or check the restoration's terms, before reusing the colorized or UCLA-restored versions."
+    ]
+  ]
+}
