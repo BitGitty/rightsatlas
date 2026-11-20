@@ -14,6 +14,10 @@ INK, PAPER, OK, WARN, NO = "#141414", "#F6F6F3", "#0E6B57", "#EDB045", "#B23A17"
 
 
 def card(name, title, year, tag="Verified public domain (US)"):
+    # PIL has neither Burmese glyphs in these fonts nor complex-script shaping: Burmese would render as boxes or in
+    # the wrong order (2026-11-20). Keep cards Latin; put Burmese in the page text, where browsers shape it.
+    if any("က" <= ch <= "႟" for ch in f"{title}{year}{tag}"):
+        raise SystemExit("blog_card: Burmese text cannot be drawn correctly on a card; use English on the card")
     W, H = 1200, 675
     im = Image.new("RGB", (W, H), PAPER)
     d = ImageDraw.Draw(im)
