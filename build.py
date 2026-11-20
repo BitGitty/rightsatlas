@@ -49,15 +49,20 @@ SUGGEST_URL = "https://github.com/BitGitty/rightsatlas/issues/new?template=film-
 
 # v3 sticky top nav (owner feature A). "class2027" always points at whichever
 # entering-public-domain-YYYY page is actually live (CLASS_YEAR, computed above).
+# 2026-11-20 owner redesign: 5 main tabs + "More" + an always-visible search button; phones get a ☰ menu.
 NAV = [
     ("films", "Films", f"{BASE}films/"),
-    ("collections", "Collections", f"{BASE}collections/"),
-    ("class2027", f"Class of {CLASS_YEAR}", f"{BASE}entering-public-domain-{CLASS_YEAR}/"),
-    ("blog", "Blog", f"{BASE}blog/"),
-    ("how", "How it works", f"{BASE}methodology/"),
-    ("corrections", "Corrections", f"{BASE}corrections/"),
+    ("songs", "Songs", f"{BASE}songs/"),
     ("tools", "Tools", f"{BASE}tools/"),
-    ("suggest", "Suggestions", f"{BASE}suggest/"),
+    ("blog", "Blog", f"{BASE}blog/"),
+    ("about", "About", f"{BASE}about/"),
+]
+NAV_MORE = [
+    ("class2027", f"Free on 1 January {CLASS_YEAR}", f"{BASE}entering-public-domain-{CLASS_YEAR}/"),
+    ("collections", "Collections", f"{BASE}collections/"),
+    ("how", "How we check", f"{BASE}methodology/"),
+    ("corrections", "Corrections", f"{BASE}corrections/"),
+    ("suggest", "Suggest a title", f"{BASE}suggest/"),
 ]
 
 # short tab labels for the collections sub-nav (owner feature B) — real names/order,
@@ -81,13 +86,14 @@ def e(s):
 
 
 def main_nav(current):
-    parts = []
-    for key, label, href in NAV:
-        cur = key == current
-        cls = "tab current" if cur else "tab"
-        aria = ' aria-current="page"' if cur else ""
-        parts.append(f'<a href="{href}" class="{cls}"{aria}>{e(label)}</a>')
-    return "".join(parts)
+    def links(items):
+        return "".join(f'<a href="{href}" class="{"tab current" if key == current else "tab"}"'
+                       f'{" aria-current=\"page\"" if key == current else ""}>{e(label)}</a>' for key, label, href in items)
+    more_cur = " current" if any(k == current for k, _, _ in NAV_MORE) else ""
+    return (f'<nav class="mainnav" aria-label="Main">{links(NAV)}'
+            f'<details class="more"><summary class="tab{more_cur}">More ▾</summary><div class="moremenu">{links(NAV_MORE)}</div></details></nav>'
+            f'<a class="searchbtn" href="{BASE}search/" aria-label="Search films and songs">🔎<span> Search</span></a>'
+            f'<details class="mobmenu"><summary aria-label="Menu">☰</summary><nav aria-label="Menu">{links(NAV + NAV_MORE)}</nav></details>')
 
 
 def collections_subnav(collections, current_slug=None):
@@ -136,7 +142,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
       <span class="bars" aria-hidden="true"><span class="b1"></span><span class="b2"></span><span class="b3"></span><span class="b4"></span><span class="b5"></span></span>
       <span class="word">RightsAtlas</span>
     </a>
-    <nav class="mainnav" aria-label="Main">{main_nav(nav)}</nav>
+    {main_nav(nav)}
   </div>
 {subnav}</header>
 <main>
@@ -260,7 +266,7 @@ def film_page(f, post=None):
 
 <div class="verdict {engine.public_label(f["layers"]["print"]["status"])[1]}">
   <span class="vhead">Film print:</span> <strong>{e(engine.public_label(f["layers"]["print"]["status"])[0])}</strong>
-  <span class="vsub">— this verdict covers the film print only, not the layers below.</span>
+  <span class="vsub">— this answer is about the film itself only, not its music, story or restorations (see below).</span>
 </div>
 {player}
 {'<p class="whyunclear">Why <b>Unclear</b>, not Clear? This film is widely treated as public domain, but we have not yet attached a primary renewal-search citation — so the verdict stays Unclear until that evidence is on this page. The background and notes below describe the widely-understood status; the label above is the conservative, evidence-gated verdict.</p>' if f["layers"]["print"]["status"] in ("likely_pd", "undetermined") else ''}
@@ -317,29 +323,30 @@ def index_page(films, backlog_count):
         g = engine.guidance(f)
         cards += (f'<a class="card {g["reuse"][0]}" href="{BASE}film/{f["id"]}/">'
                   f'<strong>{e(f["title"])}</strong><span>{f["year"]}</span></a>')
-    body = f"""{seasonal}
-<section class="hero">
+    n_songs = len(list(SONGS.glob("*.json"))) if SONGS.exists() else 0
+    body = f"""<section class="hero">
 <div class="hero-main">
-<p class="kicker">US film copyright, checked layer by layer</p>
-<h1>A film is not one copyright.</h1>
-<p class="lead">The picture can be free while the music, the story or the restoration is not.
-Every verdict here shows its receipts: renewal records, case law, and working archival links.
-No green checkmarks without proof.</p>
-<div class="hero-stat"><b>{len(films)}</b><span>films fully researched</span></div>
+<p class="kicker">Free answers, with sources</p>
+<h1>Is it public domain?</h1>
+<p class="lead">We check classic films and songs in the US, part by part: the film itself, its music, its story.
+Every answer shows where it comes from.</p>
+<form class="bigsearch" action="{BASE}search/" method="get" role="search">
+<label for="hq" class="sr">Search a film or a song</label>
+<input id="hq" name="q" type="search" placeholder="Search a film or a song, e.g. Nosferatu" autocomplete="off">
+<button type="submit">🔎 Search</button></form>
+<div class="homecards">
+<a class="homecard" href="{BASE}films/"><b>{len(films)}</b><span>Films</span><small>Which classic films are free, and why</small></a>
+<a class="homecard" href="{BASE}songs/"><b>{n_songs}</b><span>Songs</span><small>Songs and recordings, checked separately</small></a>
+<a class="homecard" href="{BASE}tools/"><b>4</b><span>Tools</span><small>Calculator, record finder, free movie picker</small></a>
+</div>
 <p id="ra-usage">🔎 <strong id="ra-usecount">0</strong> research lookups and counting</p>
 <script>fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/stats",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas"}})}}).then(function(r){{return r.json()}}).then(function(n){{var el=document.getElementById("ra-usecount"),w=document.getElementById("ra-usage");if(el&&w&&Number(n)>0){{el.textContent=Number(n).toLocaleString();w.style.display="block";}}}}).catch(function(){{}});</script>
-<p class="coverage"><strong>{len(films)} fully-researched dossiers</strong> ·
-<a href="{BASE}queue/">{backlog_count} titles in the research backlog</a>
-<span class="cov-note">(backlog = not yet researched — not a public-domain list)</span></p>
-<div class="searchwrap">
-<label for="q">Search a researched film</label>
-<div class="searchbox"><input id="q" type="search" placeholder="Search a film title…" autocomplete="off"></div>
-<label class="inclq"><input type="checkbox" id="inclq"> also search the unresearched backlog</label>
-<div id="results"></div>
-<p class="asksuggest">Not here yet? <a href="{BASE}suggest/?kind=film">Ask us to research it</a>.</p>
-</div>
+<p class="coverage">{len(films)} films checked in full ·
+<a href="{BASE}queue/">{backlog_count} more films waiting to be researched</a>
+<span class="cov-note">(waiting = no answer yet, not a list of free films)</span></p>
 </div>
 </section>
+{seasonal}
 <section class="callout tools-callout">
 <h2>Free tools</h2>
 <ul>
@@ -351,7 +358,7 @@ No green checkmarks without proof.</p>
 </ul>
 </section>
 <section>
-<h2>Researched films</h2>
+<h2>Films we have checked</h2>
 <div class="grid">{cards}</div>
 </section>
 <section class="callout">
@@ -365,13 +372,10 @@ January 1, {NEXT_CLASS + 96}. <a href="{BASE}entering-public-domain-{CLASS_YEAR}
 link or error, or pitch a feature — it goes straight to our research queue.</p>
 <a class="suggest-btn" href="{BASE}suggest/">💡 Suggest a film or improvement</a>
 </section>"""
-    extra = (f'<script src="{BASE}assets/fuse.min.js"></script>'
-             f'<script src="{BASE}assets/search.js" defer></script>')
-    return page("RightsAtlas — evidence-backed public domain checker for films",
-                "Layered US copyright status for classic films with primary-source "
-                "evidence, renewal records, and free legal watch links. Suggest a film "
-                "or improvement — the research queue is community-driven.", body, extra,
-                nav=None, path="")
+    return page("Is it public domain? Free checks of classic films and songs — RightsAtlas",
+                "Free, sourced answers: is a classic film or song public domain in the US? We check the film, "
+                "its music and its story separately, and link a free copy to watch where the film is free.",
+                body, nav=None, path="")
 
 
 def collection_page(c, by_id, collections):
@@ -458,7 +462,7 @@ def decade_hub(decade, films):
     body = f"""{breadcrumb}
 <h1>{decade}s films — US copyright status</h1>
 <p>Evidence-backed US copyright status for {len(fs)} researched film{'s' if len(fs)!=1 else ''}
-from the {decade}s — each with primary-source citations and layer-by-layer verdicts. This is a
+from the {decade}s — each with sources and a part-by-part answer. This is a
 research list, <strong>not</strong> a public-domain list: “Clear” means the film print is public
 domain in the US, “Unclear” means researched-but-not-yet-evidenced, “Active rights” means
 protected. Always check the music and story layers before reuse.</p>
@@ -476,10 +480,10 @@ def queue_page(backlog):
     for r in sorted(backlog, key=lambda x: (x["year"], x["title"])):
         rows += (f'<tr id="{e(r["id"])}"><td>{e(r["title"])}</td>'
                  f'<td>{r["year"]}</td><td class="unr">not researched</td></tr>')
-    body = f"""<h1>Research backlog — <em>not</em> a public-domain list</h1>
+    body = f"""<h1>Films waiting to be researched (<em>not</em> a list of free films)</h1>
 <p class="hint">These are titles queued for future research. <strong>A row here means
 nothing about a film's copyright status</strong> — we have not verified it. Only the
-<a href="{BASE}films/">researched dossiers</a> carry evidence-backed conclusions.
+Only <a href="{BASE}films/">films we have checked</a> have answers, with sources.
 Want one prioritised? <a href="{BASE}suggest/?kind=film">Suggest it →</a></p>
 <div class="tablewrap"><table class="listing queue" id="queuetable">
 <tr><th>Title</th><th>Year</th><th>Status</th></tr>
@@ -505,9 +509,9 @@ Want one prioritised? <a href="{BASE}suggest/?kind=film">Suggest it →</a></p>
   }}
 }})();
 </script>"""
-    return page("Research backlog — RightsAtlas",
+    return page("Films waiting to be researched — RightsAtlas",
                 "Titles queued for future copyright research. Not a public-domain list — "
-                "no conclusions here, only researched dossiers carry verdicts.", body,
+                "no answers here yet; only checked films have answers.", body,
                 extra_head='<meta name="robots" content="noindex">', nav="films", path="queue/")
 
 
@@ -859,8 +863,8 @@ No account needed.</p>
 <h2>What happens next</h2>
 <ol class="nextsteps">
 <li><b>1</b><span>We read every suggestion.</span></li>
-<li><b>2</b><span>Film requests join the <a href="{BASE}queue/">research backlog</a>
-({backlog_count} titles currently queued) and get a full layer-by-layer dossier before the
+<li><b>2</b><span>Film requests join the <a href="{BASE}queue/">waiting list</a>
+({backlog_count} titles currently waiting) and get a full part-by-part check before the
 page goes live.</span></li>
 <li><b>3</b><span>Corrections are fixed and logged on the <a href="{BASE}corrections/">Corrections</a> page.</span></li>
 </ol>
@@ -926,7 +930,7 @@ or perform it yourself, or use a recording that is itself public domain.</p>
 </article>"""
     return page(f'Is {s["title"]} ({s["year"]}) public domain? — RightsAtlas',
                 f'{s["title"]} ({s["year"]}), by {s.get("writers", "")}: US public domain status of the song, with '
-                f'sources, and why recordings are separate.', body, nav="class2027", path=f'song/{s["id"]}/')
+                f'sources, and why recordings are separate.', body, nav="songs", path=f'song/{s["id"]}/')
 
 
 def songs_index(songs):
@@ -935,7 +939,7 @@ def songs_index(songs):
     body = (f'<h1>Songs</h1><p class="lead">The US public domain status of famous songs (the music and lyrics), '
             f'with sources. Recordings are a separate right, explained on each page.</p><ul class="songlist">{rows}</ul>')
     return page("Public domain songs — RightsAtlas", "Which famous songs are public domain in the US, with sources: "
-                "the song and its recordings checked separately.", body, nav="class2027", path="songs/")
+                "the song and its recordings checked separately.", body, nav="songs", path="songs/")
 
 
 BLOG = ROOT / "content" / "blog"
@@ -1056,7 +1060,7 @@ def build():
             collection_page(c, by_id, collections), encoding="utf-8")
 
     extras = []
-    extra_nav = {"methodology": "how", "about": None}
+    extra_nav = {"methodology": "how", "about": "about"}
     for extra in ("methodology", "about", *(f"entering-public-domain-{y}" for y in CLASSES)):
         src = ROOT / "content" / f"{extra}.html"
         if src.exists():
@@ -1120,7 +1124,19 @@ def build():
 
     # unified search index: verified dossiers + backlog rows (kind tags the section)
     search_idx = ([{"id": f["id"], "title": f["title"], "year": f["year"], "kind": "verified"} for f in films]
+                  + [{"id": s["id"], "title": s["title"], "year": s["year"], "kind": "song",
+                      "alt": s.get("title_my", "")} for s in songs]
                   + [{"id": r["id"], "title": r["title"], "year": r["year"], "kind": "queue"} for r in backlog])
+    # /search/ (2026-11-20 redesign): the header 🔎 button lands here; ?q= comes from the home-page search form
+    (OUT / "search").mkdir(parents=True, exist_ok=True)
+    (OUT / "search" / "index.html").write_text(page(
+        "Search films and songs — RightsAtlas", "Search every film and song RightsAtlas has checked.",
+        f'<h1>Search</h1><div class="searchwrap"><label for="q">Search a film or a song</label>'
+        f'<div class="searchbox"><input id="q" type="search" placeholder="Type a title…" autocomplete="off" autofocus></div>'
+        f'<label class="inclq"><input type="checkbox" id="inclq"> also show films we have not researched yet</label>'
+        f'<div id="results"></div><p class="asksuggest">Not here yet? <a href="{BASE}suggest/">Ask us to check it</a>.</p></div>',
+        extra_head=f'<script src="{BASE}assets/fuse.min.js"></script><script src="{BASE}assets/search.js" defer></script>',
+        path="search/"), encoding="utf-8")
     (OUT / "assets" / "index.json").write_text(json.dumps(search_idx), encoding="utf-8")
 
     # /tools/ (owner 2026-11-20 "go tools"): calculator, renewal finder, movie picker, by-year lookup.
