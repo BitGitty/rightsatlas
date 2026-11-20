@@ -1,0 +1,102 @@
+{
+  "id": "march-of-the-wooden-soldiers-1950",
+  "title": "March of the Wooden Soldiers",
+  "year": 1950,
+  "country": "US",
+  "last_verified": "2026-11-20",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was made in 1934 as Babes in Toyland (MGM, released November 30, 1934). The 1950 date is the Robert L. Lippert re-release under the title March of the Wooden Soldiers, a cut version. Wikipedia says the original 79-minute version is under copyright to Prime TV Inc., whose assets are owned by WPIX, and that home-video companies have distributed the 1950 version as if it were public domain. I could not load a renewal record. The Stanford renewal database search pages returned no readable content, so no renewal or non-renewal is confirmed.",
+          "source": "Wikipedia, Babes in Toyland (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1934_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the film's own copyright status, which is unconfirmed. The music is Victor Herbert's, from his 1903 operetta. That underlying music is old, but the 1934 arrangements and recording were not checked.",
+          "source": "Wikipedia, Babes in Toyland (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1934_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The story is based on Victor Herbert's 1903 operetta Babes in Toyland, with book by Glen MacDonough and Anna Alice Chapin. A work published in 1903 is out of copyright by term. This covers only the source operetta. The film's own screenplay and added material are not covered.",
+          "source": "Wikipedia, Babes in Toyland (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1934_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Computer-colorized versions exist, from American Film Technologies and the Samuel Goldwyn Company (1991) and from Legend Films (2006). Colorization is added material and can carry its own copyright. A faithful black-and-white restoration would add none.",
+          "source": "Wikipedia, Babes in Toyland (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1934_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Babes in Toyland” (1934 film, renewal due 1961-62)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Babes+in+Toyland"
+      },
+      {
+        "label": "Stanford Copyright Renewal DB — search “March of the Wooden Soldiers”",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=March+of+the+Wooden+Soldiers"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volumes by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/BabesInToylandBW",
+      "label": "March of the Wooden Soldiers starring Laurel & Hardy (Internet Archive, about 78 min)",
+      "quality": "unverified print; the uploader's source is not stated"
+    },
+    {
+      "url": "https://archive.org/details/march-of-the-wooden-soldiers-babes-in-toyland-1934-by-charley-rogers-and-gus-meins",
+      "label": "March of the Wooden Soldiers (1934) (Internet Archive, about 77 min)",
+      "quality": "unverified print; the uploader's source is not stated"
+    }
+  ],
+  "editorial": "March of the Wooden Soldiers is the 1950 re-release title of Babes in Toyland, the Laurel and Hardy film made at Hal Roach and released by MGM on November 30, 1934. Robert L. Lippert reissued it in 1950 in a cut version. According to Wikipedia, that version dropped the opening song \"Toyland\", the \"Go to Sleep\" number and the Barnaby abduction and fistfight scenes, after the Victor Herbert estate insisted on changes. It has circulated on cheap home video for decades, and Archive.org hosts several copies. The queue lists it as 1950, but the film itself dates from 1934.\n\nThe trap is that wide circulation does not mean the film is free. Wikipedia reports that the original 79-minute version is under copyright to Prime TV Inc., whose assets are now owned by WPIX. I could not load a renewal record to confirm or refute that. Only the story layer is clearly free: it rests on Herbert's 1903 operetta. Colorized versions from 1991 and 2006 add their own protectable material. Check the 1934 film's renewal record yourself before reusing any print.",
+  "faq": [
+    [
+      "Is March of the Wooden Soldiers free to reuse?",
+      "Not confirmed. It is the 1950 reissue of the 1934 film Babes in Toyland. Wikipedia says the original version is under copyright to Prime TV Inc. (now WPIX) and that home-video companies have sold the reissue as if it were public domain. I could not check a renewal record, so treat the print as undetermined until you do."
+    ],
+    [
+      "Does the Victor Herbert source matter?",
+      "Only for the story. The 1903 operetta is out of copyright, so the underlying story and music are free. The film's own screenplay, recording and any colorization are separate layers."
+    ]
+  ]
+}
