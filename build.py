@@ -669,12 +669,23 @@ function $(id){return document.getElementById(id);}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
 function norm(s){return String(s).toLowerCase().replace(/^(the|a|an)\s+/,'').replace(/[^a-z0-9]/g,'');}
 function match(t,y){var n=norm(t);return FILMS.filter(function(f){return n&&norm(f.t)===n&&(!y||Math.abs(f.y-y)<=1);});}
-function dbLine(t,y){var m=match(t,y);return m.length?'<p class="tool-db">We have checked this film: '+m.map(function(f){return '<a href="'+BASE+'film/'+f.id+'/">'+esc(f.t)+' ('+f.y+')</a> &rarr; '+esc(f.l);}).join(', ')+'</p>':'';}
+function href(f){return BASE+(f.k==='song'?'song/':'film/')+f.id+'/';}
+function dbLine(t,y){var m=match(t,y);return m.length?'<p class="tool-db">We have checked this: '+m.map(function(f){return '<a href="'+href(f)+'">'+esc(f.t)+' ('+f.y+(f.k==='song'?', song':'')+')</a> &rarr; '+esc(f.l);}).join(', ')+'</p>':'';}
+// US sound recordings (Music Modernization Act 2018 for pre-1972 recordings): a different clock from songs/films
+function recording(y){
+  if(y<1923) return '<strong>Public domain in the US.</strong> Sound recordings published before 1923 are free.';
+  if(y<=1946) return (y+100<Y)?'<strong>Public domain in the US.</strong> Recordings published 1923-1946 are protected for 100 years; this one was freed on 1 January '+(y+101)+'.':'<strong>Protected</strong> until 1 January '+(y+101)+' (recordings published 1923-1946 get 100 years).';
+  if(y<=1956) return (y+110<Y)?'<strong>Public domain in the US</strong> (110-year term for 1947-1956 recordings).':'<strong>Protected</strong> until 1 January '+(y+111)+' (recordings published 1947-1956 get 110 years).';
+  if(y<1972) return '<strong>Protected</strong> until 15 February 2067: all recordings from 1957 to 15 February 1972 stay protected until then.';
+  return '<strong>Protected.</strong> Recordings from 1972 on have federal copyright, generally 95 years from publication or longer.';
+}
 var free=Y-96;  // works published in or before this year are public domain by age
 // 1. calculator
 function calc(){
-  var y=parseInt($('cy').value,10), foreign=$('cc').value==='foreign', r=$('cr').value, n=$('cn').value, out;
+  var y=parseInt($('cy').value,10), foreign=$('cc').value==='foreign', r=$('cr').value, n=$('cn').value, out, kind=$('ck').value;
   if(!y||y<1800||y>Y){$('cout').innerHTML='<p>Enter the year it was first published.</p>';return;}
+  if(kind==='recording'){ $('crw').hidden=true; $('cnw').hidden=true;
+    $('cout').innerHTML='<p>'+recording(y)+'</p><p class="tool-note">This is the recording only. The song itself (music and lyrics) has its own term: choose "Song" to check it. US only; not legal advice.</p>'+dbLine($('ct').value,y); return; }
   $('crw').hidden=!(y>free&&y<=1963); $('cnw').hidden=!(y>=1964&&y<=1977);
   var until='protected until 1 January '+(y+96);
   if(y<=free) out='<strong>Public domain in the US.</strong> Works published in '+free+' or earlier have finished their copyright term.';
@@ -689,7 +700,8 @@ function calc(){
     else out='<strong>It depends on the copyright notice.</strong> Renewal was automatic from 1964, so only a missing notice can make it free.';
   } else if(y<1989) out='<strong>Most likely protected.</strong> A missing notice could still be fixed by registering within five years, so few works from these years are free.';
   else out='<strong>Protected.</strong> Works published from March 1989 on need no notice.';
-  $('cout').innerHTML='<p>'+out+'</p><p class="tool-note">This covers the main work only. Music, the underlying story, restorations and trademarks are separate. US only; not legal advice.</p>'+dbLine($('ct').value,y);
+  var note=kind==='song'?'This covers the song (music and lyrics) only. Every recording of it is a separate right: choose "Sound recording" to check one.':'This covers the main work only. Music, the underlying story, restorations and trademarks are separate.';
+  $('cout').innerHTML='<p>'+out+'</p><p class="tool-note">'+note+' US only; not legal advice.</p>'+dbLine($('ct').value,y);
 }
 // 2. renewal record finder
 function renew(){
@@ -699,7 +711,8 @@ function renew(){
   else if(y>=1964) h='<p>Renewal became automatic for works from 1964 on, so there is nothing to look up. Check the copyright notice instead.</p>';
   else {
     h='<p>The renewal had to be filed in '+(y+27)+' or '+(y+28)+'. Look for "'+esc(t)+'" in these records:</p><ul>';
-    [y+27,y+28].forEach(function(v){ if(VOLS[v]) h+='<li><a href="https://archive.org/details/'+VOLS[v]+'?q='+encodeURIComponent(t)+'" rel="nofollow noopener" target="_blank">Catalog of Copyright Entries, '+v+', motion pictures (renewals section)</a></li>'; });
+    if($('rk').value==='song') [y+27,y+28].forEach(function(v){ if(v<1978) h+='<li><a href="https://archive.org/search?query='+encodeURIComponent('"catalog of copyright entries" music '+v)+'" rel="nofollow noopener" target="_blank">Catalog of Copyright Entries, '+v+', music volumes (renewals)</a>: open the '+v+' volume and search "'+esc(t)+'"</li>'; });
+    else [y+27,y+28].forEach(function(v){ if(VOLS[v]) h+='<li><a href="https://archive.org/details/'+VOLS[v]+'?q='+encodeURIComponent(t)+'" rel="nofollow noopener" target="_blank">Catalog of Copyright Entries, '+v+', motion pictures (renewals section)</a></li>'; });
     if(y+28>=1978) h+='<li><a href="https://publicrecords.copyright.gov/" rel="nofollow noopener" target="_blank">US Copyright Office public records</a>: search "'+esc(t)+'" (renewals filed from 1978 on are here)</li>';
     h+='</ul><p class="tool-note">An entry starting with "R" and a number is a renewal. No entry for the film in either year usually means it was not renewed; also check the music and story.</p>';
   }
@@ -707,7 +720,7 @@ function renew(){
 }
 // 3. movie night picker
 function pick(){
-  var w=FILMS.filter(function(f){return f.a;}); if(!w.length) return;
+  var w=FILMS.filter(function(f){return f.a&&f.k!=='song';}); if(!w.length) return;
   var f=w[Math.floor(Math.random()*w.length)];
   $('pout').innerHTML='<h3>'+esc(f.t)+' ('+f.y+')</h3><div class="embed"><iframe loading="lazy" src="https://archive.org/embed/'+encodeURIComponent(f.a)+'" title="'+esc(f.t)+'" allowfullscreen></iframe></div><p><a href="'+BASE+'film/'+f.id+'/">Why it is public domain, with the evidence</a></p>';
 }
@@ -716,11 +729,12 @@ function year(){
   var x=parseInt($('xy').value,10); if(!x||x<1923){$('xout').innerHTML='<p>Enter a year from 1923 on.</p>';return;}
   var c=x-96, list=FILMS.filter(function(f){return f.y===c;});
   var h='<p>On 1 January '+x+', US works published in <strong>'+c+'</strong> '+(x<=Y?'entered':'enter')+' the public domain.</p>';
-  h+=list.length?'<p>Films from '+c+' we have checked:</p><ul>'+list.map(function(f){return '<li><a href="'+BASE+'film/'+f.id+'/">'+esc(f.t)+'</a></li>';}).join('')+'</ul>':'<p>We have no films from '+c+' in our database yet. <a href="'+BASE+'suggest/">Suggest one</a>.</p>';
+  h+=list.length?'<p>Films and songs from '+c+' we have checked:</p><ul>'+list.map(function(f){return '<li><a href="'+href(f)+'">'+esc(f.t)+'</a>'+(f.k==='song'?' (song)':'')+'</li>';}).join('')+'</ul>':'<p>We have no films or songs from '+c+' in our database yet. <a href="'+BASE+'suggest/">Suggest one</a>.</p>';
+  h+='<p class="tool-note">Sound recordings follow a different clock: on 1 January '+x+', US recordings published in '+(x-101)+' become free.</p>';
   $('xout').innerHTML=h;
 }
 fetch(BASE+'assets/tools.json').then(function(r){return r.json();}).then(function(d){FILMS=d;}).catch(function(){});
-['cy','cc','cr','cn','ct'].forEach(function(i){$(i).addEventListener('input',calc);});
+['cy','cc','cr','cn','ct','ck'].forEach(function(i){$(i).addEventListener('input',calc);});
 $('rgo').addEventListener('click',renew); $('pgo').addEventListener('click',pick); $('xgo').addEventListener('click',year);
 $('xy').value=Y+1;
 })();
@@ -735,15 +749,17 @@ def tools_page():
           "url": f"{HOST}{BASE}tools/", "applicationCategory": "ReferenceApplication", "operatingSystem": "Any",
           "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
           "description": "Free public domain calculator, copyright renewal record finder, free movie picker and "
-                         "a public-domain-by-year lookup for films."}
+                         "a public-domain-by-year lookup for films, songs and sound recordings."}
     body = f"""<article class="dossier tools">
 <h1>Free public domain tools</h1>
-<p class="lead">Four free tools for checking whether a film is public domain in the US, finding the copyright renewal
-records yourself, and watching verified free films.</p>
+<p class="lead">Four free tools for checking whether a film, a song or a sound recording is public domain in the US,
+finding the copyright renewal records yourself, and watching verified free films.</p>
 
 <section class="tool" id="calculator"><h2>1. Public domain calculator</h2>
-<p>Answer a few questions about a film (or any published work) and get its likely US status.</p>
+<p>Answer a few questions about a film, a song, a sound recording or any published work, and get its likely US status.
+Songs and recordings are checked separately, because they follow different rules.</p>
 <div class="toolform">
+<label>What is it? {sel("ck", [("film", "Film, book or other work"), ("song", "Song (music and lyrics)"), ("recording", "Sound recording")])}</label>
 <label>Title (optional) <input id="ct" type="text" autocomplete="off"></label>
 <label>Year first published <input id="cy" type="number" min="1800" max="2100" inputmode="numeric"></label>
 <label>Country {sel("cc", [("us", "United States"), ("foreign", "Outside the US")])}</label>
@@ -752,9 +768,10 @@ records yourself, and watching verified free films.</p>
 </div><div id="cout" class="toolout" aria-live="polite"></div></section>
 
 <section class="tool" id="renewal-finder"><h2>2. Renewal record finder</h2>
-<p>For films published 1931 to 1963, the copyright had to be renewed in its 28th year. Enter the title and year, and we
-open the exact catalog volumes to search.</p>
-<div class="toolform"><label>Title <input id="rt" type="text" autocomplete="off"></label>
+<p>For films and songs published 1931 to 1963, the copyright had to be renewed in its 28th year. Enter the title and
+year, and we open the right catalog volumes to search.</p>
+<div class="toolform"><label>Type {sel("rk", [("film", "Film"), ("song", "Song")])}</label>
+<label>Title <input id="rt" type="text" autocomplete="off"></label>
 <label>Year published <input id="ry" type="number" min="1900" max="2100" inputmode="numeric"></label>
 <button id="rgo" type="button">Find the records</button></div>
 <div id="rout" class="toolout" aria-live="polite"></div></section>
@@ -1098,8 +1115,10 @@ def build():
             return None
         return next((w["url"].rsplit("/details/", 1)[1].strip("/") for w in f.get("watch", [])
                      if "archive.org/details/" in w["url"]), None)
-    tools_idx = [{"id": f["id"], "t": f["title"], "y": f["year"],
+    tools_idx = [{"id": f["id"], "t": f["title"], "y": f["year"], "k": "film",
                   "l": engine.public_label(f["layers"]["print"]["status"])[0], "a": arch_id(f)} for f in films]
+    tools_idx += [{"id": s["id"], "t": s["title"], "y": s["year"], "k": "song", "l": song_label(s)[0]}
+                  for s in (json.loads(p.read_text(encoding="utf-8")) for p in sorted(SONGS.glob("*.json")))]
     (OUT / "assets" / "tools.json").write_text(json.dumps(tools_idx), encoding="utf-8")
     (OUT / "tools").mkdir(parents=True, exist_ok=True)
     (OUT / "tools" / "index.html").write_text(tools_page(), encoding="utf-8")
