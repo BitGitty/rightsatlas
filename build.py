@@ -349,6 +349,10 @@ def index_page(films, backlog_count):
         f'alt="" loading="lazy"><span>▶ {e(by_id[i]["title"])} ({by_id[i]["year"]})</span></a>'
         for i in famous if i in by_id and watch_id(by_id[i]))
     n_watch = sum(1 for f in films if watch_id(f))
+    listen_cards = "".join(
+        f'<a class="card ok" href="{BASE}song/{s["id"]}/#listen"><strong>▶ {e(s["title"])}</strong>'
+        f'<span>{e(s["listen"][0]["performer"])}, {s["listen"][0]["year"]}</span></a>'
+        for s in sorted(songs, key=lambda x: x["listen"][0]["year"] if x.get("listen") else 0) if s.get("listen"))
     body = f"""<section class="hero">
 <div class="hero-main">
 <p class="kicker">Free answers, with sources</p>
@@ -376,6 +380,11 @@ Every answer shows where it comes from.</p>
 <p>{n_watch} films on this site are verified public domain in the US, and you can watch them right here, free.</p>
 <div class="watchgrid">{watch_cards}</div>
 <p><a href="{BASE}films/?watch=1">See all {n_watch} films you can watch free →</a></p>
+</section>
+<section class="watchfree">
+<h2>▶ Listen free: old recordings that are public domain</h2>
+<p>US recordings published before {YEAR - 100} are free. Play them on each song's page.</p>
+<div class="grid">{listen_cards}</div>
 </section>
 {seasonal}
 <section class="callout tools-callout">
