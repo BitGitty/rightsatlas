@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "The Harlem Globetrotters' theme song since 1949.",
-  "use_source": "https://en.wikipedia.org/wiki/Sweet_Georgia_Brown"
+  "use_source": "https://en.wikipedia.org/wiki/Sweet_Georgia_Brown",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1925_%28USA%29_Archives_1925_03_19_Ben_Bernie_Orchestra_-_Sweet_Georgia_Brown.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:1925_(USA)_Archives_1925_03_19_Ben_Bernie_Orchestra_-_Sweet_Georgia_Brown.mp3",
+      "performer": "Ben Bernie Orchestra",
+      "year": 1925
+    }
+  ]
 }

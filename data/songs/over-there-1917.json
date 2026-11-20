@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "The signature American song of World War I.",
-  "use_source": "https://en.wikipedia.org/wiki/Over_There"
+  "use_source": "https://en.wikipedia.org/wiki/Over_There",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Over_There_%281917%29.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Over_There_(1917).mp3",
+      "performer": "Billy Murray",
+      "year": 1917
+    }
+  ]
 }

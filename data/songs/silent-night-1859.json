@@ -15,5 +15,13 @@
     ]
   },
   "famous_use": "Bing Crosby recorded 'Silent Night' with Paul Whiteman's orchestra, one of the earliest well-known commercial recordings of the song.",
-  "use_source": "https://en.wikipedia.org/wiki/Silent_Night"
+  "use_source": "https://en.wikipedia.org/wiki/Silent_Night",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gruber_-_Schumann-Heink_-_Stille_Nacht.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gruber_-_Schumann-Heink_-_Stille_Nacht.ogg",
+      "performer": "Ernestine Schumann-Heink",
+      "year": 1925
+    }
+  ]
 }

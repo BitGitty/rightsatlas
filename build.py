@@ -335,7 +335,8 @@ def index_page(films, backlog_count):
     n_songs = len(songs)
     song_cards = "".join(
         f'<a class="card {song_label(s)[1]}" href="{BASE}song/{s["id"]}/"><strong>{e(s["title"])}</strong>'
-        f'<span>{s["year"]} · {e(song_label(s)[0])}</span></a>' for s in sorted(songs, key=lambda x: x["title"]))
+        f'<span>{s["year"]} · {e(song_label(s)[0])}{" · <b class=\"watchmini\">▶ Listen</b>" if s.get("listen") else ""}</span></a>'
+        for s in sorted(songs, key=lambda x: x["title"]))
     # the free player was only visible deep inside film pages (owner 2026-11-20): show it on the front page
     famous = ["nosferatu-1922", "metropolis-1927", "the-general-1926", "the-gold-rush-1925", "steamboat-willie-1928",
               "night-of-the-living-dead-1968", "safety-last-1923", "the-phantom-of-the-opera-1925"]
@@ -939,6 +940,20 @@ def song_label(s):
     return SONG_LABEL.get(st, ("Not verified", "unk"))
 
 
+def listen_block(s):
+    """2026-11-20 owner: 'play for music like films'. Only recordings that are themselves public domain in the US
+    (published before 1926, Music Modernization Act), from Wikimedia Commons, with the year quoted from the file page."""
+    items = [x for x in s.get("listen", []) if int(x.get("year", 9999)) <= YEAR - 101]
+    if not items:
+        return ""
+    players = "".join(
+        f'<figure class="listen"><figcaption>{e(x["performer"])} ({x["year"]})</figcaption>'
+        f'<audio controls preload="none" src="{e(x["audio"])}"></audio>'
+        f'<p class="credit">Public domain recording, via <a href="{e(x["page"])}" rel="nofollow noopener">Wikimedia Commons</a>.'
+        f' US sound recordings published in {YEAR - 101} or earlier are free.</p></figure>' for x in items)
+    return f'<section id="listen"><h2>▶ Listen free</h2>{players}</section>'
+
+
 def mm_block(s):
     """Burmese songs (owner 2026-11-20): Myanmar status (life + 50 under the Copyright Law 2019 / Act 1914) next to
     the US one, which can differ because of the 1996 URAA restoration. English + Burmese, Unicode only."""
@@ -966,6 +981,7 @@ def song_page(s):
 <p class="meta">Written by {e(s.get("writers", "unknown"))} · first published {s["year"]} · last verified {e(s.get("last_verified", "—"))}</p>
 <div class="verdict {cls}"><span class="vhead">The song (music and lyrics):</span> <strong>{e(label)}</strong>
 <span class="vsub">— this covers the composition only, not any recording of it.</span></div>
+{listen_block(s)}
 <h2>The evidence</h2><ul class="evidence">{ev}</ul>
 <h2>Recordings are a separate right</h2>
 <p>A song and a recording of it are two different copyrights. In the US, sound recordings follow the Music
@@ -990,6 +1006,7 @@ def songs_index(songs):
     rows = "".join(
         f'<tr><td><a href="{BASE}song/{s["id"]}/">{e(s["title"])}</a>'
         + (f' <span lang="my">{e(s["title_my"])}</span>' if s.get("title_my") and s["title_my"] not in s["title"] else "")
+        + (f' <a class="watchtag" href="{BASE}song/{s["id"]}/#listen">▶ Listen</a>' if s.get("listen") else "")
         + f'</td><td>{s["year"]}</td><td>{e(s.get("writers", ""))}</td><td>{badge(s)}</td>'
         f'<td>{e(s["mm"]["label_en"]) if s.get("mm") else "—"}</td></tr>'
         for s in sorted(songs, key=lambda x: (x["year"], x["title"])))

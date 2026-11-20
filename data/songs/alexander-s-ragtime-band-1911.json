@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "The 1938 film Alexander's Ragtime Band.",
-  "use_source": "https://en.wikipedia.org/wiki/Alexander%27s_Ragtime_Band"
+  "use_source": "https://en.wikipedia.org/wiki/Alexander%27s_Ragtime_Band",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Arthur_Collins_and_Byron_Harlan_-_Alexander%27s_Ragtime_Band_-_1911.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Arthur_Collins_and_Byron_Harlan_-_Alexander%27s_Ragtime_Band_-_1911.ogg",
+      "performer": "Arthur Collins and Byron Harlan",
+      "year": 1911
+    }
+  ]
 }

@@ -7,10 +7,26 @@
   "composition": {
     "status": "enters_pd_2006",
     "evidence": [
-      {"note": "Wikipedia states Tell Taylor wrote the song in 1908 but it was copyrighted and published on August 12, 1910 by Tell Taylor Music Publisher, Chicago.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Down_by_the_Old_Mill_Stream"},
-      {"note": "IMSLP catalog lists the first editions as 1910 (M. Witmark & Sons, New York, and Star Music, Chicago), confirming 1910 as the publication year even though the tune was written in 1908.", "source": "IMSLP", "url": "https://imslp.org/wiki/Down_by_the_Old_Mill_Stream_(Taylor,_Tell)"}
+      {
+        "note": "Wikipedia states Tell Taylor wrote the song in 1908 but it was copyrighted and published on August 12, 1910 by Tell Taylor Music Publisher, Chicago.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Down_by_the_Old_Mill_Stream"
+      },
+      {
+        "note": "IMSLP catalog lists the first editions as 1910 (M. Witmark & Sons, New York, and Star Music, Chicago), confirming 1910 as the publication year even though the tune was written in 1908.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/Down_by_the_Old_Mill_Stream_(Taylor,_Tell)"
+      }
     ]
   },
   "famous_use": "Groucho and Chico Marx sing it a cappella while posing as doctors in A Day at the Races (1937).",
-  "use_source": "https://en.wikipedia.org/wiki/Down_by_the_Old_Mill_Stream"
+  "use_source": "https://en.wikipedia.org/wiki/Down_by_the_Old_Mill_Stream",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Down_by_the_Old_Mill_Stream_%281911_recording%29.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Down_by_the_Old_Mill_Stream_(1911_recording).mp3",
+      "performer": "Brunswick Quartette",
+      "year": 1911
+    }
+  ]
 }

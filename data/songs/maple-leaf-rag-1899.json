@@ -7,9 +7,21 @@
   "composition": {
     "status": "enters_pd_1995",
     "evidence": [
-      {"note": "Wikipedia states the copyright was registered September 18, 1899, and the piece was published that year by John Stillwell Stark after Joplin signed with him on August 10, 1899.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maple_Leaf_Rag"}
+      {
+        "note": "Wikipedia states the copyright was registered September 18, 1899, and the piece was published that year by John Stillwell Stark after Joplin signed with him on August 10, 1899.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maple_Leaf_Rag"
+      }
     ]
   },
   "famous_use": "Featured in the 1973 film The Sting.",
-  "use_source": "https://en.wikipedia.org/wiki/Maple_Leaf_Rag"
+  "use_source": "https://en.wikipedia.org/wiki/Maple_Leaf_Rag",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1906_-_Scott_Joplin%27s_Maple_Leaf_Rag_%281899%29_played_by_the_United_States_Marine_Band.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:1906_-_Scott_Joplin%27s_Maple_Leaf_Rag_(1899)_played_by_the_United_States_Marine_Band.ogg",
+      "performer": "United States Marine Band",
+      "year": 1906
+    }
+  ]
 }

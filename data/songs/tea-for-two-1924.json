@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "The hit of the musical No, No, Nanette (1925).",
-  "use_source": "https://en.wikipedia.org/wiki/Tea_for_Two_(song)"
+  "use_source": "https://en.wikipedia.org/wiki/Tea_for_Two_(song)",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tea_for_Two-Victor-Helen_Clark_%26_Lewis_James.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Tea_for_Two-Victor-Helen_Clark_%26_Lewis_James.mp3",
+      "performer": "Helen Clark and Lewis James",
+      "year": 1924
+    }
+  ]
 }

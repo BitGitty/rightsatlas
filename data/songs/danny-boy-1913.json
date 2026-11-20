@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "Judy Garland sang it in Little Nellie Kelly (1940).",
-  "use_source": "https://en.wikipedia.org/wiki/Danny_Boy"
+  "use_source": "https://en.wikipedia.org/wiki/Danny_Boy",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Schumann-Heink_-_Danny_Boy_%28Londonderry_air%29_%281917%29.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Schumann-Heink_-_Danny_Boy_(Londonderry_air)_(1917).ogg",
+      "performer": "Ernestine Schumann-Heink",
+      "year": 1917
+    }
+  ]
 }

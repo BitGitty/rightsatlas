@@ -148,6 +148,11 @@ def t15_songs_have_sources():
             "enters_pd_"), f"{p.name}: bad status {c.get('status')}"
         assert c.get("evidence") and all(x.get("url", "").startswith("http") for x in c["evidence"]), \
             f"{p.name}: status without a sourced evidence line"
+        for x in s.get("listen", []):  # only public domain recordings, sourced from Commons
+            assert int(x.get("year", 9999)) <= date.today().year - 101, f"{p.name}: listen recording too recent"
+            assert x.get("page", "").startswith("https://commons.wikimedia.org/") and \
+                x.get("audio", "").startswith("https://upload.wikimedia.org/"), f"{p.name}: listen source must be Commons"
+            assert x.get("performer"), f"{p.name}: listen without performer"
         m = s.get("mm")  # Burmese songs: both languages and a sourced Myanmar status
         if m:
             for k in ("label_en", "label_my", "note_en", "note_my"):

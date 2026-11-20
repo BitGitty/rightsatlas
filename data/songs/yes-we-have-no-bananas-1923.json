@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "One of the biggest novelty hits of 1923.",
-  "use_source": "https://en.wikipedia.org/wiki/Yes!_We_Have_No_Bananas"
+  "use_source": "https://en.wikipedia.org/wiki/Yes!_We_Have_No_Bananas",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Yes%21_We_have_no_bananas_-_Furman_and_Nash.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Yes!_We_have_no_bananas_-_Furman_and_Nash.mp3",
+      "performer": "Eddie Furman and William Nash",
+      "year": 1923
+    }
+  ]
 }

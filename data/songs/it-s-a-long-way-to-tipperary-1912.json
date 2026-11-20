@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "Sung by British soldiers marching to war in 1914.",
-  "use_source": "https://en.wikipedia.org/wiki/It%27s_a_Long_Way_to_Tipperary"
+  "use_source": "https://en.wikipedia.org/wiki/It%27s_a_Long_Way_to_Tipperary",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/4/48/Billy_Murray_and_the_American_Quartet_-_It%27s_a_Long_Way_to_Tipperary_%281914%29.opus",
+      "page": "https://commons.wikimedia.org/wiki/File:Billy_Murray_and_the_American_Quartet_-_It%27s_a_Long_Way_to_Tipperary_(1914).opus",
+      "performer": "Billy Murray and the American Quartet",
+      "year": 1914
+    }
+  ]
 }

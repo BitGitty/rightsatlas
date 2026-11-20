@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "The seventh-inning-stretch anthem of American baseball; also the 1949 MGM musical with Gene Kelly and Frank Sinatra.",
-  "use_source": "https://en.wikipedia.org/wiki/Take_Me_Out_to_the_Ball_Game"
+  "use_source": "https://en.wikipedia.org/wiki/Take_Me_Out_to_the_Ball_Game",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/c/cd/MeekerBallGame.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:MeekerBallGame.ogg",
+      "performer": "Edward Meeker",
+      "year": 1908
+    }
+  ]
 }

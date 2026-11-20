@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "Al Jolson's 1920 hit recording.",
-  "use_source": "https://en.wikipedia.org/wiki/Swanee_(song)"
+  "use_source": "https://en.wikipedia.org/wiki/Swanee_(song)",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Al_Jolson%2C_George_Gershwin%2C_Irving_Caesar%2C_Swanee_1920.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Al_Jolson,_George_Gershwin,_Irving_Caesar,_Swanee_1920.ogg",
+      "performer": "Al Jolson",
+      "year": 1920
+    }
+  ]
 }

@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "Bessie Smith's 1925 recording with Louis Armstrong.",
-  "use_source": "https://en.wikipedia.org/wiki/St._Louis_Blues_(song)"
+  "use_source": "https://en.wikipedia.org/wiki/St._Louis_Blues_(song)",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bessie_Smith_and_Louis_Armstrong_-_The_St._Louis_Blues_%281925%29.mp3",
+      "page": "https://commons.wikimedia.org/wiki/File:Bessie_Smith_and_Louis_Armstrong_-_The_St._Louis_Blues_(1925).mp3",
+      "performer": "Bessie Smith and Louis Armstrong",
+      "year": 1925
+    }
+  ]
 }

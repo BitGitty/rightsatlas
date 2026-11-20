@@ -7,10 +7,26 @@
   "composition": {
     "status": "enters_pd_2020",
     "evidence": [
-      {"note": "Wikipedia states the song 'was published on May 9, 1924 by Jerome H. Remick & Co. of New York.'", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/It_Had_to_Be_You_(song)"},
-      {"note": "IMSLP's catalog entry for the sheet music lists the publisher info as 'New York: Jerome H. Remick & Co., 1924', confirming 1924 publication.", "source": "IMSLP", "url": "https://imslp.org/wiki/It_Had_to_Be_You_(Jones,_Isham)"}
+      {
+        "note": "Wikipedia states the song 'was published on May 9, 1924 by Jerome H. Remick & Co. of New York.'",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/It_Had_to_Be_You_(song)"
+      },
+      {
+        "note": "IMSLP's catalog entry for the sheet music lists the publisher info as 'New York: Jerome H. Remick & Co., 1924', confirming 1924 publication.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/It_Had_to_Be_You_(Jones,_Isham)"
+      }
     ]
   },
   "famous_use": "Theme song of the 1989 film When Harry Met Sally...",
-  "use_source": "https://en.wikipedia.org/wiki/It_Had_to_Be_You_(song)"
+  "use_source": "https://en.wikipedia.org/wiki/It_Had_to_Be_You_(song)",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/2/21/IT_HAD_TO_BE_YOU_-_MARION_HARRIS_-_Phil_Ohman.flac",
+      "page": "https://commons.wikimedia.org/wiki/File:IT_HAD_TO_BE_YOU_-_MARION_HARRIS_-_Phil_Ohman.flac",
+      "performer": "Marion Harris with Phil Ohman",
+      "year": 1924
+    }
+  ]
 }

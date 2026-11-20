@@ -20,5 +20,13 @@
     ]
   },
   "famous_use": "The opening Manhattan montage of Woody Allen's film Manhattan (1979).",
-  "use_source": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"
+  "use_source": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue",
+  "listen": [
+    {
+      "audio": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rhapsody_in_Blue_-_Original_1924_Recording.opus",
+      "page": "https://commons.wikimedia.org/wiki/File:Rhapsody_in_Blue_-_Original_1924_Recording.opus",
+      "performer": "George Gershwin with the Paul Whiteman Orchestra",
+      "year": 1924
+    }
+  ]
 }
