@@ -116,6 +116,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
 <meta property="og:url" content="{canon}">
 <meta name="twitter:card" content="{card}">
 <meta name="robots" content="max-image-preview:large">
+<meta name="p:domain_verify" content="0a3a02be80579a322d28fc07d6c05c25">
 <link rel="alternate" type="application/rss+xml" title="RightsAtlas blog" href="{BASE}blog/feed.xml">
 {extra_head}"""
     return f"""<!DOCTYPE html>
