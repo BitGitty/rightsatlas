@@ -3,7 +3,7 @@
   "title": "Beyond Tomorrow",
   "year": 1940,
   "country": "US",
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a 1940 US film released by RKO Radio Pictures. It is free only if its notice was missing or its copyright was not renewed. I could not confirm either from a primary record. The Stanford renewal database search page returned no usable content. The 1967, 1968 and 1969 Catalog of Copyright Entries volumes were only partly readable, and I did not find the title in the parts I could read. That is not a confirmed absence. The Internet Archive uploader says they own no rights and believe the film is public domain. That is a belief, not a rights determination.",
+          "note": "This is a 1940 US film. It is free only if its notice was missing or its copyright was not renewed. I could not confirm either from a primary record. The Stanford renewal database search page returned no content. The 1967, 1968 and 1969 Catalog of Copyright Entries volumes were only partly readable. I read only the first part of each, which stopped in the current-registrations section, and never reached the renewal sections. That is not a confirmed absence. The Internet Archive uploader says they own no rights to the movie and describe the upload as public domain. That is the uploader's claim, not a rights determination.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive metadata says the black-and-white print was digitally remastered and preserved by the National Film Museum. It also says Legend Films produced a colorized version, released by 20th Century Fox in 2004 as Beyond Christmas. A faithful black-and-white copy adds no new US copyright (Bridgeman v. Corel). The colorization and any added material can carry their own protection.",
+          "note": "The Internet Archive metadata says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. It also says Legend Films produced a colorized version in 2004, released by 20th Century Fox as Beyond Christmas. A faithful black-and-white copy adds no new US copyright (Bridgeman v. Corel). The colorization and any added material can carry their own protection.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -92,7 +92,7 @@
       "quality": "MP4"
     }
   ],
-  "editorial": "Beyond Tomorrow is a 1940 black-and-white fantasy released by RKO Radio Pictures. It was directed by A. Edward Sutherland and produced by Lee Garmes, from an original story by Mildred Cram and Adele Comandini. In it, the ghosts of three elderly industrialists killed in an airplane crash return to Earth to help reunite a young couple. The Internet Archive copy runs about 84 minutes and is titled as a Christmas film, which makes it a natural seasonal pick.\n\nI could not confirm the print's status from a primary record. A 1940 film is free in the US only if its notice was missing or its copyright was not renewed. The print, score, story and trademark layers therefore stay undetermined. The rights trap is the Internet Archive upload itself. The uploader says they own no rights and believe the film is public domain, which is not a rights check. Check the 1967 to 1969 renewal catalogs before reusing the film. Also avoid the colorized 2004 release, which can carry its own protection.",
+  "editorial": "Beyond Tomorrow is a 1940 black-and-white US feature. The Internet Archive metadata dates it 10 May 1940 and credits the original story to Mildred Cram and Adele Comandini. The archive copy runs about 84 minutes, and its title carries the word \"CHRISTMAS\", which suits seasonal programming.\n\nI could not confirm the print's status from a primary record. A 1940 film is free in the US only if its notice was missing or its copyright was not renewed, and I could not read the renewal sections of the 1967 to 1969 catalogs. The print, score, story and trademark layers therefore stay undetermined. The rights trap is the Internet Archive upload itself. The uploader says they own no rights and calls it public domain, which is not a rights check. Check the renewal catalogs before reusing the film. Also avoid the colorized 2004 release, Beyond Christmas, which can carry its own protection.",
   "faq": [
     [
       "Is Beyond Tomorrow (1940) free to use?",
