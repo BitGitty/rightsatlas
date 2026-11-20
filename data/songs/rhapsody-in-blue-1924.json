@@ -1,0 +1,24 @@
+{
+  "id": "rhapsody-in-blue-1924",
+  "title": "Rhapsody in Blue",
+  "year": 1924,
+  "writers": "George Gershwin (instrumental; orchestrated by Ferde Grofe)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2020",
+    "evidence": [
+      {
+        "note": "The score was published June 12, 1924 by Harms, Inc.; IMSLP lists the 1924 first publication (the February 1924 premiere was a performance, not publication).",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/Rhapsody_in_Blue_(Gershwin,_George)"
+      }
+    ]
+  },
+  "famous_use": "The opening Manhattan montage of Woody Allen's film Manhattan (1979).",
+  "use_source": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "swanee-1919",
+  "title": "Swanee",
+  "year": 1919,
+  "writers": "George Gershwin (music), Irving Caesar (lyrics)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2015",
+    "evidence": [
+      {
+        "note": "Published October 31, 1919 by T. B. Harms & Francis, Day & Hunter; IMSLP lists the 1919 Harms first edition.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Swanee_(song)"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/Swanee_(Gershwin,_George)"
+      }
+    ]
+  },
+  "famous_use": "Al Jolson's 1920 hit recording.",
+  "use_source": "https://en.wikipedia.org/wiki/Swanee_(song)"
+}

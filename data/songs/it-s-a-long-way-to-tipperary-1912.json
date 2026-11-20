@@ -1,0 +1,24 @@
+{
+  "id": "it-s-a-long-way-to-tipperary-1912",
+  "title": "It's a Long Way to Tipperary",
+  "year": 1912,
+  "writers": "Jack Judge, Harry Williams",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2008",
+    "evidence": [
+      {
+        "note": "Published by Bert Feldman in October 1912; IMSLP lists 1912 first editions. First published in the UK.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/It%27s_a_Long_Way_to_Tipperary"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/It's_a_Long_Way_to_Tipperary_(Judge,_Jack)"
+      }
+    ]
+  },
+  "famous_use": "Sung by British soldiers marching to war in 1914.",
+  "use_source": "https://en.wikipedia.org/wiki/It%27s_a_Long_Way_to_Tipperary"
+}

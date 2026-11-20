@@ -1,0 +1,24 @@
+{
+  "id": "tea-for-two-1924",
+  "title": "Tea for Two",
+  "year": 1924,
+  "writers": "Vincent Youmans (music), Irving Caesar (lyrics)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2020",
+    "evidence": [
+      {
+        "note": "Copyright June 10, 1924, E 589297, Harms, Inc., New York (Catalog of Copyright Entries, cited on Wikipedia); IMSLP lists the 1924 Harms edition.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tea_for_Two_(song)"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/No%2C_No%2C_Nanette_%28Youmans%2C_Vincent%29"
+      }
+    ]
+  },
+  "famous_use": "The hit of the musical No, No, Nanette (1925).",
+  "use_source": "https://en.wikipedia.org/wiki/Tea_for_Two_(song)"
+}

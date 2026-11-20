@@ -1,0 +1,16 @@
+{
+  "id": "shine-on-harvest-moon-1908",
+  "title": "Shine On, Harvest Moon",
+  "year": 1908,
+  "writers": "Nora Bayes and Jack Norworth",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2004",
+    "evidence": [
+      {"note": "Wikipedia states the song debuted in the Ziegfeld Follies of 1908, crediting Nora Bayes (music) and Jack Norworth (lyrics), with sheet music dated 1908.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Shine_on_Harvest_Moon"},
+      {"note": "Library catalog record for the original sheet music lists it as 'New York: Jerome H. Remick & Co., 1908,' crediting composer Nora Bayes and lyricist Jack Norworth.", "source": "York University Libraries (John Arpin Sheet Music Collection)", "url": "https://yorkspace.library.yorku.ca/items/bfad8400-4e61-4e1a-877e-a727fabda50e"}
+    ]
+  },
+  "famous_use": "Laurel and Hardy's song-and-dance routine in the 1939 RKO film The Flying Deuces.",
+  "use_source": "https://en.wikipedia.org/wiki/Shine_on_Harvest_Moon"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "over-there-1917",
+  "title": "Over There",
+  "year": 1917,
+  "writers": "George M. Cohan",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2013",
+    "evidence": [
+      {
+        "note": "Written April 1917 and published June 1917; the sheet music carries the line Copyright MCMXVII by Leo. Feist, Inc.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Over_There"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "Sheet-music archive",
+        "url": "https://digitalcommons.conncoll.edu/sheetmusic/1893"
+      }
+    ]
+  },
+  "famous_use": "The signature American song of World War I.",
+  "use_source": "https://en.wikipedia.org/wiki/Over_There"
+}

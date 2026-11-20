@@ -1,0 +1,16 @@
+{
+  "id": "charleston-1923",
+  "title": "Charleston",
+  "year": 1923,
+  "writers": "James P. Johnson (music), Cecil Mack (lyrics)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2019",
+    "evidence": [
+      {"note": "Wikipedia states the song was composed in 1923, music by James P. Johnson and lyrics by Cecil Mack, and premiered in the Broadway musical Runnin' Wild on October 29, 1923.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Charleston_(1923_song)"},
+      {"note": "IMSLP's catalog entry for the sheet music lists the original publisher info as 'New York City: T.B. Harms, 1923', confirming 1923 publication.", "source": "IMSLP", "url": "https://imslp.org/wiki/Charleston_(Mack,_Cecil)"}
+    ]
+  },
+  "famous_use": "A 1925 recording by The Golden Gate Orchestra was inducted into the National Recording Registry.",
+  "use_source": "https://en.wikipedia.org/wiki/Charleston_(1923_song)"
+}

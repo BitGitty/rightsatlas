@@ -1,0 +1,24 @@
+{
+  "id": "alexander-s-ragtime-band-1911",
+  "title": "Alexander's Ragtime Band",
+  "year": 1911,
+  "writers": "Irving Berlin",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2007",
+    "evidence": [
+      {
+        "note": "Registered for copyright (E252990) and published March 18, 1911 via the Ted Snyder Company.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alexander%27s_Ragtime_Band"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/Alexander's_Ragtime_Band_(Berlin,_Irving)"
+      }
+    ]
+  },
+  "famous_use": "The 1938 film Alexander's Ragtime Band.",
+  "use_source": "https://en.wikipedia.org/wiki/Alexander%27s_Ragtime_Band"
+}

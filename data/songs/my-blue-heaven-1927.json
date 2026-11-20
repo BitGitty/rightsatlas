@@ -1,0 +1,16 @@
+{
+  "id": "my-blue-heaven-1927",
+  "title": "My Blue Heaven",
+  "year": 1927,
+  "writers": "Walter Donaldson (music), George A. Whiting (lyrics)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2023",
+    "evidence": [
+      {"note": "Wikipedia's infobox lists the song as published October 10, 1927 by Leo Feist Inc., and the article states the composition entered the public domain on January 1, 2023, which is consistent with a 1927 publication.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/My_Blue_Heaven_(song)"},
+      {"note": "The University of Wisconsin's sheet music catalog dates the published sheet music to 1927, published by Leo Feist Inc., crediting Walter Donaldson (composer) and George Whiting (lyricist).", "source": "UW-Madison Mills Music Library (Popular Sheet Music catalog)", "url": "https://popularmusic.library.wisc.edu/catalog/pop011218"}
+    ]
+  },
+  "famous_use": "Gene Austin's 1927 recording sold over five million copies and was inducted into the Grammy Hall of Fame in 1978.",
+  "use_source": "https://en.wikipedia.org/wiki/My_Blue_Heaven_(song)"
+}

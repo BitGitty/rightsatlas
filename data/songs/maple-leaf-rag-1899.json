@@ -1,0 +1,15 @@
+{
+  "id": "maple-leaf-rag-1899",
+  "title": "Maple Leaf Rag",
+  "year": 1899,
+  "writers": "Scott Joplin",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_1995",
+    "evidence": [
+      {"note": "Wikipedia states the copyright was registered September 18, 1899, and the piece was published that year by John Stillwell Stark after Joplin signed with him on August 10, 1899.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Maple_Leaf_Rag"}
+    ]
+  },
+  "famous_use": "Featured in the 1973 film The Sting.",
+  "use_source": "https://en.wikipedia.org/wiki/Maple_Leaf_Rag"
+}

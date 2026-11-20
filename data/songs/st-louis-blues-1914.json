@@ -1,0 +1,24 @@
+{
+  "id": "st-louis-blues-1914",
+  "title": "St. Louis Blues",
+  "year": 1914,
+  "writers": "W. C. Handy",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2010",
+    "evidence": [
+      {
+        "note": "Published in September 1914, copyright registered by Pace & Handy Music Co.; IMSLP lists the 1914 first publication.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/St._Louis_Blues_(song)"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/St._Louis_Blues_(Handy,_W._C.)"
+      }
+    ]
+  },
+  "famous_use": "Bessie Smith's 1925 recording with Louis Armstrong.",
+  "use_source": "https://en.wikipedia.org/wiki/St._Louis_Blues_(song)"
+}

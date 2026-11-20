@@ -1,0 +1,15 @@
+{
+  "id": "the-entertainer-1902",
+  "title": "The Entertainer",
+  "year": 1902,
+  "writers": "Scott Joplin",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_1998",
+    "evidence": [
+      {"note": "Wikipedia states the copyright on The Entertainer was registered December 29, 1902, along with two other Joplin rags, and it was published that year by John Stark & Son.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Entertainer_(rag)"}
+    ]
+  },
+  "famous_use": "The Sting (1973); Marvin Hamlisch's orchestral adaptation reached No. 3 on the Billboard Hot 100 in 1974 and won an Academy Award for the film's score.",
+  "use_source": "https://en.wikipedia.org/wiki/The_Entertainer_(rag)"
+}

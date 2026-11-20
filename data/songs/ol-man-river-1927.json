@@ -1,0 +1,16 @@
+{
+  "id": "ol-man-river-1927",
+  "title": "Ol' Man River",
+  "year": 1927,
+  "writers": "Jerome Kern (music), Oscar Hammerstein II (lyrics)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2023",
+    "evidence": [
+      {"note": "Wikipedia states the song was published in 1927 by T. B. Harms Co. and premiered in the original Broadway production of Show Boat on December 27, 1927; Hammerstein had drafted the lyrics as early as 1925 while the show was being written, but publication was with the show in 1927.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Ol%27_Man_River"},
+      {"note": "The official Rodgers & Hammerstein organization site credits the song '©1927 by Chappel & Co., Inc.'", "source": "RodgersAndHammerstein.com", "url": "https://rodgersandhammerstein.com/song/show-boat/ol-man-river/"}
+    ]
+  },
+  "famous_use": "Paul Robeson's performance in the 1936 film adaptation of Show Boat is widely considered the most famous rendition.",
+  "use_source": "https://en.wikipedia.org/wiki/Ol%27_Man_River"
+}

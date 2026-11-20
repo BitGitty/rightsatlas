@@ -1,0 +1,16 @@
+{
+  "id": "blue-skies-1927",
+  "title": "Blue Skies",
+  "year": 1927,
+  "writers": "Irving Berlin",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2023",
+    "evidence": [
+      {"note": "IMSLP's catalog entry lists the original sheet-music publisher info as 'New York: Irving Berlin Inc., 1927'. Berlin wrote the song in late 1926 (dated December 16, 1926) as a last-minute addition to the musical Betsy, but it was copyrighted/published in 1927, which Wikipedia's article text also states ('In 1927, the music was published').", "source": "IMSLP", "url": "https://imslp.org/wiki/Blue_Skies_(Berlin,_Irving)"},
+      {"note": "The University of Wisconsin-Madison Mills Music Library sheet-music catalog lists the original edition as published 'New York: Irving Berlin', dated 1927.", "source": "UW-Madison Mills Music Library catalog", "url": "https://popularmusic.library.wisc.edu/catalog/pop003290"}
+    ]
+  },
+  "famous_use": "Performed by Al Jolson in The Jazz Singer (1927), one of the first feature films with synchronized sound ('talkies').",
+  "use_source": "https://en.wikipedia.org/wiki/Blue_Skies_(Irving_Berlin_song)"
+}

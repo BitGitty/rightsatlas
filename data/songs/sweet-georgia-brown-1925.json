@@ -1,0 +1,24 @@
+{
+  "id": "sweet-georgia-brown-1925",
+  "title": "Sweet Georgia Brown",
+  "year": 1925,
+  "writers": "Ben Bernie, Maceo Pinkard (music), Kenneth Casey (lyrics)",
+  "last_verified": "2026-11-20",
+  "composition": {
+    "status": "enters_pd_2021",
+    "evidence": [
+      {
+        "note": "Published March 20, 1925 by Jerome H. Remick & Co.; IMSLP lists the same 1925 edition.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sweet_Georgia_Brown"
+      },
+      {
+        "note": "Second source for the publication year.",
+        "source": "IMSLP",
+        "url": "https://imslp.org/wiki/Sweet_Georgia_Brown_(Bernie,_Ben)"
+      }
+    ]
+  },
+  "famous_use": "The Harlem Globetrotters' theme song since 1949.",
+  "use_source": "https://en.wikipedia.org/wiki/Sweet_Georgia_Brown"
+}
