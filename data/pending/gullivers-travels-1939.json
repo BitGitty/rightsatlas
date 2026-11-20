@@ -1,0 +1,115 @@
+{
+  "id": "gullivers-travels-1939",
+  "title": "Gulliver's Travels",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1967 (Vol 21). The film was released in December 1939, so its 28th-year renewal window falls in 1967. I ran the archive.org in-book OCR search on this volume for 'gulliver' and for 'fleischer'. Both returned no matches, so no renewal entry for the film was found. This is an OCR index search, not a page-by-page read.",
+          "source": "Library of Congress / Internet Archive scan",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Motion Pictures and Filmstrips, Jan-Dec 1966 (Vol 20). Searched the archive.org in-book OCR index for 'gulliver'. No matches, so no renewal listed.",
+          "source": "Library of Congress / Internet Archive scan",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Motion Pictures and Filmstrips, Jan-Dec 1968 (Vol 22). Searched the archive.org in-book OCR index for 'gulliver'. The only hits were an unrelated TV-episode title and a filmstrip cross-reference ('Gulliver's Travels to Lilliput. See Hero Legends of Many Lands'). No renewal of the 1939 Fleischer/Paramount film was found.",
+          "source": "Library of Congress / Internet Archive scan",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film credits Victor Young for the score. The songs are credited to Leo Robin and Ralph Rainger, plus Sammy Timberg, Al Neiburg and Winston Sharples. The soundtrack as part of the film shares the print's status. I did not check whether the songs or the score were separately registered or renewed as music. Treat that as open.",
+          "source": "Wikipedia article on the film (secondary, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels_(1939_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is loosely based on the first part of Jonathan Swift's novel Gulliver's Travels, published in 1726. A work published that long ago is public domain in the US by term expiry. The film's own screenplay (Dan Gordon, Cal Howard, Tedd Pierce, I. Sparber, Edmond Seward) is covered by the print layer.",
+          "source": "Duke Center for the Study of the Public Domain",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Thunderbean Animation released a restored version in March 2014 as the Blu-ray/DVD combo 'Fleischer Classics Featuring Gulliver's Travels'. The disc also carries several Fleischer shorts. A faithful restoration adds no new US copyright. Any added material, such as new titles, menus, extras or commentary, can be protected. I did not review what the 2014 release adds.",
+          "source": "Wikipedia article on the film (secondary, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels_(1939_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": "No renewal for Gulliver's Travels (1939, Fleischer Studios / Paramount) was found in the archive.org OCR index of the CCE motion-picture volumes for 1966, 1967 and 1968. The 1967 volume is the expected one. The Stanford renewal database search page did not render, so it was not checked.",
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Gulliver's Travels” (renewals ~1966, 1967, 1968)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Gulliver's+Travels"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/gullivers-travels-1939",
+      "label": "Gulliver's Travels (1939) — Internet Archive upload, 1436x1080 video, Public Domain Mark",
+      "quality": "unrestored upload of unknown provenance"
+    },
+    {
+      "url": "https://archive.org/details/gullivers-travels-1939-fleischer",
+      "label": "Gulliver's Travels (1939) — second Internet Archive upload (same video file)",
+      "quality": "unrestored upload of unknown provenance"
+    }
+  ],
+  "editorial": "Gulliver's Travels is Fleischer Studios' first feature, made in Miami for Paramount. It opened in New York on December 20, 1939 and went into general release on December 22. Max Fleischer produced and Dave Fleischer directed. It is loosely based on the first part of Swift's novel. Victor Young's score and the Robin and Rainger songs were nominated for Oscars, including 'Faithful Forever' for Best Original Song. The film also has Fleischer's Technicolor look and a long list of animation directors. That makes it a standard pick for animation compilations and for anyone studying the pre-Disney feature field.\n\nThe print is the free part. A search of the 1966, 1967 and 1968 Catalog of Copyright Entries volumes found no renewal for the film. The 1967 volume is the one that should carry it. The source novel dates from 1726 and is free too. The traps are the layers around the print. The music (Young's score, the Robin/Rainger songs, and Timberg, Neiburg and Sharples's 'It's a Hap-Hap-Happy Day') may have been registered separately, and I did not check that. A modern restoration such as Thunderbean's 2014 release can carry protected extras. The film passed from Paramount to Leo McCarey and then to National Telefilm Associates, so many circulating copies are old TV-print dupes. For a clean source, use a copy you can trace to a print and not a copy-protected disc.",
+  "faq": [
+    [
+      "Was the copyright on the 1939 Gulliver's Travels renewed?",
+      "I found no renewal. The film was released in December 1939, so renewal was due in 1967. An archive.org OCR search of the 1966, 1967 and 1968 Catalog of Copyright Entries volumes for 'gulliver' returned no renewal of the film. OCR can miss entries, so check the 1967 volume by hand, and use the Stanford renewal database, which did not load for me."
+    ],
+    [
+      "Can I reuse the songs and score along with the picture?",
+      "Not safely until you check them. The soundtrack as it appears in the film shares the print's status. The songs and Victor Young's score could have been registered or renewed separately as music. I did not check that. Also, a modern restoration like Thunderbean's 2014 disc may add protected material, so use an unrestored print and avoid ripping a copy-protected disc."
+    ]
+  ]
+}

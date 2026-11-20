@@ -1,0 +1,91 @@
+{
+  "id": "the-giant-gila-monster-1959",
+  "title": "The Giant Gila Monster",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-11-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive hosts a 1:14 copy of the 1959 film tagged as public domain by the uploader. That tag is not proof. I could not confirm the notice on the print or the lack of a 1986-1988 renewal, so the print is not marked verified_pd.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/giant_gila_monster"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Jack Marshall as composer, with songs by Don Sullivan. This is a sound film, so the score would normally share the film's status. That status is unresolved.",
+          "source": "Wikipedia, The Giant Gila Monster",
+          "url": "https://en.wikipedia.org/wiki/The_Giant_Gila_Monster"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists the story as by Ray Kellogg and the screenplay by Jay Simms. I found no pre-existing source work. The story's copyright status is unresolved because it rests on the film's own copyright status.",
+          "source": "Wikipedia, The Giant Gila Monster",
+          "url": "https://en.wikipedia.org/wiki/The_Giant_Gila_Monster"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1986,
+      1987,
+      1988
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Giant Gila Monster” (renewals ~1986, 1987, 1988)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Giant+Gila+Monster"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/giant_gila_monster",
+      "label": "The Giant Gila Monster (1959), Internet Archive, 1:14",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Giant Gila Monster is a 1959 drive-in creature feature directed by Ray Kellogg. Ken Curtis, B. R. McLendon and Gordon McLendon produced it, and McLendon-Radio Pictures Distributing Company released it. It premiered on June 25, 1959 and opened wider on July 15. Jay Simms wrote the screenplay from a Kellogg story, and Jack Marshall composed the music. Don Sullivan also contributed songs. A reuser might want it for its cheap-monster appeal and because it was featured on Mystery Science Theater 3000 in season 4.\n\nThe rights trap is that the film was published after 1930, so it has no automatic term expiry. Its status depends on a missing notice or a missing renewal. I could not confirm either from a primary record. The Internet Archive copy carries a public-domain tag, but the uploader applied it and it is not proof. Do not treat the film as free until you have checked the renewal records for 1986 to 1988 yourself. Even if the print is free, the MST3K episode is a separate work with its own added material and is not covered by the film's status.",
+  "faq": [
+    [
+      "Is The Giant Gila Monster in the public domain?",
+      "Unconfirmed. It was released in 1959, so it is free only if the notice was missing or the copyright was not renewed. I could not verify either from a primary record. The Internet Archive's public-domain tag is the uploader's label, not a legal finding. Search the Stanford renewal database and the Copyright Office public records before you rely on it."
+    ],
+    [
+      "Can I reuse clips from the MST3K episode?",
+      "No, not on the strength of the film's status. The MST3K episode adds new riffs and host segments, which are separate material and may be protected whatever happens to the film. Use a clean copy of the film itself, and only after you have verified its status."
+    ]
+  ]
+}
