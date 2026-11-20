@@ -120,6 +120,14 @@ def t14_blog_schedule_and_links():
             assert not img or (ROOT / "content" / "blog" / "img" / img).exists(), f"{src.name}: missing image {img}"
         for fid in re.findall(r'\{\{BASE\}\}film/([^/"]+)/', text):
             assert fid in film_ids, f"{src.name}: links to unknown film {fid}"
+        # a post may only link to posts released on or before its own date (2026-11-20: a post linked
+        # to a guide scheduled 5 days later, which broke the build the day it went live)
+        for slug in re.findall(r'\{\{BASE\}\}blog/([a-z0-9-]+)/', text):
+            if slug == "img":
+                continue
+            target = sorted((ROOT / "content" / "blog").glob(f"????-??-??-{slug}.html"))
+            assert target, f"{src.name}: links to unknown post {slug}"
+            assert target[0].name[:10] <= src.name[:10], f"{src.name}: links to {slug}, released later"
         live = (site / "blog" / src.stem[11:] / "index.html")
         if date.fromisoformat(src.name[:10]) > date.today():
             assert not live.exists(), f"scheduled post {src.name} was published early"
