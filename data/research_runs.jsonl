@@ -560,3 +560,5 @@
 {"date": "2026-11-20", "id": "santa-claus-conquers-the-martians-1964", "result": "refreshed", "reasons": []}
 {"date": "2026-11-20", "id": "at-the-circus-1939", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
 {"date": "2026-11-20", "id": "march-of-the-wooden-soldiers-1950", "result": "queued", "reasons": []}
+{"date": "2026-11-20", "id": "scrooge-1935", "result": "refreshed", "reasons": []}
+{"date": "2026-11-20", "id": "scrooge-1951", "result": "blocked", "reasons": ["crash PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\_tmp\\\\wintemp\\\\tmp2nw1s07u'"]}
