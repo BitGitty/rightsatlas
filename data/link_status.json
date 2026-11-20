@@ -246,6 +246,16 @@
    "film": "his-girl-friday-1940",
    "kind": "evidence"
   },
+  "catalogofcopyr3141213libr": {
+   "ok": true,
+   "film": "white-zombie-1932",
+   "kind": "evidence"
+  },
+  "19FreeDownloadAmpStreamingInternetArchive": {
+   "ok": true,
+   "film": "horse-feathers-1932",
+   "kind": "evidence"
+  },
   "turner_video_252": {
    "ok": true,
    "film": "house-on-haunted-hill-1959",
@@ -272,12 +282,12 @@
    "kind": "watch"
   },
   "TheLastManOnEarth_72": {
-   "ok": true,
+   "ok": false,
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
   "TheLastManOnEarthHD": {
-   "ok": true,
+   "ok": false,
    "film": "last-man-on-earth-1964",
    "kind": "evidence"
   },
@@ -506,11 +516,6 @@
    "film": "the-old-dark-house-1932",
    "kind": "watch"
   },
-  "catalogofcopyr3141213libr": {
-   "ok": true,
-   "film": "white-zombie-1932",
-   "kind": "evidence"
-  },
   "the_old_dark_house": {
    "ok": true,
    "film": "the-old-dark-house-1932",
@@ -652,7 +657,28 @@
    "kind": "evidence"
   }
  },
- "repaired": [],
- "dropped": [],
- "unrepaired_evidence": []
+ "repaired": [
+  {
+   "film": "last-man-on-earth-1964",
+   "was": "TheLastManOnEarthHD",
+   "now": "the-last-man-on-earth-1964_202606",
+   "kind": "evidence"
+  }
+ ],
+ "dropped": [
+  {
+   "film": "last-man-on-earth-1964",
+   "was": "TheLastManOnEarth_72"
+  },
+  {
+   "film": "last-man-on-earth-1964",
+   "was": "TheLastManOnEarthHD"
+  }
+ ],
+ "unrepaired_evidence": [
+  {
+   "film": "last-man-on-earth-1964",
+   "was": "TheLastManOnEarth_72"
+  }
+ ]
 }
