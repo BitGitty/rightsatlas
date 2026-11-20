@@ -240,3 +240,5 @@ article.blog figcaption,.credit{font-family:var(--mono);font-size:.75rem;color:v
 .blog-item a{display:flex;gap:16px;text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:18px}
 .blog-item img{width:180px;height:120px;object-fit:cover;border:2px solid var(--ink);flex:0 0 auto}
 @media (max-width:560px){.blog-item a{flex-direction:column}.blog-item img{width:100%;height:180px}}
+.watchnow iframe{border:3px solid var(--ink);background:#000}
+.watchnow h2{margin-top:24px}

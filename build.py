@@ -214,6 +214,18 @@ def film_page(f):
         watch_html += (f'<li><a href="{e(w["url"])}" rel="nofollow noopener">'
                        f'{e(w.get("label", "Watch on archive.org"))}</a>'
                        f'{" · " + e(w["quality"]) if w.get("quality") else ""}</li>')
+    # 2026-11-20 owner "go": people search "watch <film> free" far more than "is it public domain".
+    # Embed the archive.org player, but only when the print is verified public domain (never on
+    # unverified pages: that would read as our endorsement of copying it).
+    verified = f["layers"]["print"]["status"] == "verified_pd"
+    arch = next((w["url"].rsplit("/details/", 1)[1].strip("/") for w in f.get("watch", [])
+                 if "archive.org/details/" in w["url"]), None) if verified else None
+    player = (f'<section class="embed watchnow"><h2>Watch {e(f["title"])} ({f["year"]}) free</h2>'
+              f'<iframe loading="lazy" src="https://archive.org/embed/{e(arch)}" title="{e(f["title"])} '
+              f'on the Internet Archive" allowfullscreen></iframe>'
+              f'<p class="credit">Streamed from the <a href="https://archive.org/details/{e(arch)}" '
+              f'rel="nofollow noopener">Internet Archive</a>. The film print is public domain in the US; '
+              f'a copy with a newer added score may carry separate music rights.</p></section>') if arch else ""
     faq_html, faq_ld = "", []
     for q, a in f.get("faq", []):
         faq_html += f"<h3>{e(q)}</h3><p>{e(a)}</p>"
@@ -245,6 +257,7 @@ def film_page(f):
   <span class="vhead">Film print:</span> <strong>{e(engine.public_label(f["layers"]["print"]["status"])[0])}</strong>
   <span class="vsub">— this verdict covers the film print only, not the layers below.</span>
 </div>
+{player}
 {'<p class="whyunclear">Why <b>Unclear</b>, not Clear? This film is widely treated as public domain, but we have not yet attached a primary renewal-search citation — so the verdict stays Unclear until that evidence is on this page. The background and notes below describe the widely-understood status; the label above is the conservative, evidence-gated verdict.</p>' if f["layers"]["print"]["status"] in ("likely_pd", "undetermined") else ''}
 
 <div class="risk">⚠️ <strong>Planning to upload or monetize?</strong> A public-domain film print does
@@ -275,7 +288,12 @@ answers are wrong so often.</p>
 <script type="application/ld+json">{json.dumps(ld)}</script>"""
     desc = (f'{f["title"]} ({f["year"]}) US copyright status, layer by layer, '
             f'with primary-source evidence and free legal watch links.')
-    return page(f'Is {f["title"]} ({f["year"]}) public domain? — RightsAtlas', desc, body,
+    title = f'Is {f["title"]} ({f["year"]}) public domain? — RightsAtlas'
+    if arch:
+        title = f'Is {f["title"]} ({f["year"]}) public domain? Yes: watch it free — RightsAtlas'
+        desc = (f'Watch {f["title"]} ({f["year"]}) free and legally. Its US film print is verified public '
+                f'domain; here is the evidence, plus the music and story layers to check before reuse.')
+    return page(title, desc, body,
                 nav="films", path=f"film/{f['id']}/")
 
 

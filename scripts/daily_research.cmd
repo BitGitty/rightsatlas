@@ -20,6 +20,9 @@ echo ==== %date% %time% start %MODE% >> %LOG%
 REM a run that died mid-rebase blocks every later run (2026-10-04): clear it, then start
 REM from the latest main so a title the drip just released is not researched again
 git rebase --abort >nul 2>&1
+REM 2026-11-20: a run committed someone's half-finished hand edits in data/films (it stages the whole
+REM folder). While hand edits are pending, skip this run; the daily status flags a whole skipped day.
+git status --porcelain data/films data/pending | findstr . >nul && (echo hand edits pending in data/films or data/pending - run skipped >> %LOG% & exit /b 0)
 git pull --rebase --autostash -q >> %LOG% 2>&1 || (echo pull failed >> %LOG% & exit /b 1)
 python scripts\research_one.py %MODE% >> %LOG% 2>&1
 git add data/pending data/films data/promote_log.jsonl data/research_runs.jsonl
