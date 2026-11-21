@@ -3,7 +3,7 @@
   "title": "Scrooge",
   "year": 1935,
   "country": "UK",
-  "last_verified": "2026-11-20",
+  "last_verified": "2026-11-21",
   "byline": null,
   "layers": {
     "print": {
@@ -55,7 +55,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports the original 78-minute version was restored and released on DVD by Image Entertainment on 29 October 2002. It also lists a 60-minute shortened version edited in 1941, and a colorized version released by Legend Films in 2007 and on Blu-ray in 2011. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, new music or a new edit can be protected.",
+          "note": "Wikipedia reports a restored 78-minute version made from 35mm source material was released on DVD by Image Entertainment on 29 October 2002. It also lists a 60-minute shortened version prepared in 1941 for non-theatrical use, a VCI Entertainment DVD of that short version in 2007, and a colorized version released by Legend Films in 2007 and on Blu-ray in 2011. A faithful copy of a film adds no new US copyright, but added material such as colorization, new titles, new music or a new edit can be protected.",
           "source": "Wikipedia article on the film, used for background only",
           "url": "https://en.wikipedia.org/wiki/Scrooge_(1935_film)"
         }
