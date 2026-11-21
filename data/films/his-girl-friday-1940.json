@@ -3,32 +3,38 @@
   "title": "His Girl Friday",
   "year": 1940,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-11-22",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "verified_pd",
       "evidence": [
         {
-          "type": "renewal_absence",
-          "note": "Columbia failed to renew the film's copyright in 1968; its public-domain status is among the best-documented of the studio era and it is a fixture of every PD film list. Primary CCE renewal-search scan not yet attached — held at 'likely'.",
-          "source": "Wikipedia summary with sources",
-          "url": "https://en.wikipedia.org/wiki/His_Girl_Friday#Public_domain_status"
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1967 volume (Vol 21, Parts 12-13). The renewal section was read alphabetically under H and in Columbia Pictures Corp.'s name-index list. Columbia renewed several films first copyrighted in January 1940 (for example Convicted Woman and The Lone Wolf Strikes), but no renewal for His Girl Friday is listed and no garbled variant sits between Hired Wife and Historic Cities of India. The film was released in January 1940, so its 28th-year renewal window fell in 1967-68.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1967 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
         },
         {
-          "type": "hosting",
-          "note": "Long-standing Internet Archive hosting and countless budget releases.",
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1968 volume (Vol 22, Parts 12-13). The H renewals and Columbia's name-index entries were read, including a batch of Columbia 1940 titles renewed in 1968 (for example His Bridal Fright and The Heckler). No renewal for His Girl Friday is listed. The 1967 and 1968 volumes together cover the film's renewal window. Because the volumes are OCR text, a badly garbled entry in an unread region cannot be fully excluded.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1968 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Columbia Pictures produced and released the film; the Internet Archive item credits Columbia Pictures. A US copy is widely circulated there.",
           "source": "Internet Archive",
           "url": "https://archive.org/details/his_girl_friday"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
+      "status": "verified_pd",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Studio score (Sidney Cutner, uncredited); separate registration status not verified here. Studio-era cues are less commonly claimed than pop songs, but not risk-free.",
+          "note": "This is a sound film with an unusually sparse score: the film has almost no music except the cue leading into the final fade-out. The recorded track is part of the film's own copyright and shares the print's status (no renewal found in the CCE volumes cited under print). Any music added to a modern release (a new soundtrack or re-scoring) would be separate and could be protected.",
           "source": null,
           "url": null
         }
@@ -39,18 +45,18 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Based on the play 'The Front Page' by Ben Hecht and Charles MacArthur, first published/produced in 1928 — the play's US copyright term (95 years) expired, placing it in the public domain on January 1, 2024. The Stewart v. Abend trap that once applied to this film has since dissolved by expiry.",
+          "note": "Based on the play The Front Page by Ben Hecht and Charles MacArthur (1928). Duke's Public Domain Day 2024 page lists the play among the 1928 works that entered the US public domain on January 1, 2024, which removes the Stewart v. Abend problem that applied to the film's underlying story.",
           "source": "Duke Center for the Study of the Public Domain — Public Domain Day 2024",
           "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
         }
       ]
     },
     "trademark": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "No known active marks on title or characters.",
+          "note": "No trademark registrations on the title were checked in this research, so none can be ruled in or out. The film's title and Columbia's studio marks are separate from copyright expiry.",
           "source": null,
           "url": null
         }
@@ -80,16 +86,22 @@
       ]
     }
   },
-  "watch": [],
-  "editorial": "The fastest-talking comedy in Hollywood history is also a story about copyright layers healing over time. Columbia forgot to renew the film in 1968 — which is widely read as putting the picture in the public domain — but for decades the underlying play, The Front Page (1928), remained protected, meaning the film sat in the classic Stewart v. Abend trap: free print, protected story.\n\nThen January 1, 2024 arrived, the play's 95-year term expired, and the trap dissolved. His Girl Friday today is one of the rare studio-era films where print and story are both widely treated as free — a status that got stronger with time, which is exactly why verdicts need dates on them.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/his_girl_friday",
+      "label": "His Girl Friday (1940) — Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "His Girl Friday is Howard Hawks's 1940 Columbia comedy, adapted from Ben Hecht and Charles MacArthur's 1928 play The Front Page, and a favourite for clips, remixes, teaching and re-releases. Columbia released it in January 1940. The Catalog of Copyright Entries volumes for 1967 and 1968 show Columbia renewing other 1940 titles but not this one, so the film's own copyright lapsed.\n\nThe play was the catch. For decades it stayed protected, so the free print sat on top of a protected story. The play entered the US public domain on January 1, 2024, which removed that problem. What is left is the edition you use. The original recorded track is part of the film, but a modern release can carry a new score, subtitles or other added material that is protected. No trademark search was run on the title.",
   "faq": [
     [
       "Can I upload or reuse His Girl Friday?",
-      "The print is widely treated as public domain (Columbia's 1968 non-renewal), but RightsAtlas hasn't attached a primary CCE renewal-search scan yet — so the print verdict stays Unclear until that evidence is on the dossier. The underlying play, The Front Page, entered the public domain in 2024. The studio score's status is unverified, so keep evidence handy for audio claims."
+      "The 1940 film and its underlying play, The Front Page, are both out of copyright in the US: the film lapsed when Columbia did not renew it in the 1967-68 window, and the play expired January 1, 2024. Use a copy without added material, and check any modern release for new music, subtitles or other additions. Trademarks were not searched."
     ],
     [
-      "Why do you show a date on every verdict?",
-      "Because status changes: this film's underlying play was protected until January 1, 2024, then expired. A 2023 answer and a 2026 answer are different — dates keep verdicts honest."
+      "Why does a verdict need a date?",
+      "Because status changes. The play behind this film was protected until January 1, 2024, so an answer given in 2023 was different from one given now."
     ]
   ]
 }

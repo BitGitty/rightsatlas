@@ -3,7 +3,7 @@
   "title": "The Iron Horse",
   "year": 1924,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,33 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1924; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published August 28, 1924 by Fox Film Corporation. The 95-year US copyright term for 1924 publications ran out at the end of 2019, so the film print entered the US public domain on January 1, 2020.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. Its images are free, but any music on a modern copy is a separate recording and may be protected. Ernö Rapée is reported to have composed an uncredited orchestral score for the New York run; that 1924 score is not itself a modern recording. Check the rights status of the specific soundtrack on any copy you use.",
+          "source": "Wikipedia, The Iron Horse (film)",
+          "url": "https://en.wikipedia.org/wiki/The_Iron_Horse_(film)"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is reported as based on an original story, not on a pre-existing novel. Edwin C. Hill's novelization came out in 1924, after the film. Both date from 1924, so the 95-year US term has expired for the story and the novelization.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -29,37 +45,37 @@
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 2011 UK DVD reportedly includes the US and International versions plus a video essay by Tag Gallagher. The essay is added material and may be protected. No specific restoration was confirmed, so this layer stays undetermined. A faithful restoration of a public-domain print adds no new US copyright; added scores, titles or commentary can be protected.",
+          "source": "Wikipedia, The Iron Horse (film)",
+          "url": "https://en.wikipedia.org/wiki/The_Iron_Horse_(film)"
+        }
+      ]
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1951,
-      1952,
-      1953
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Stanford Copyright Renewal DB — search “The Iron Horse” (renewals ~1951, 1952, 1953)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Iron+Horse"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": []
   },
   "watch": [
     {
       "url": "https://archive.org/details/the-iron-horse-1924-john-ford",
-      "label": "The Iron Horse (1924) on the Internet Archive"
+      "label": "The Iron Horse (1924) on the Internet Archive",
+      "quality": "MP4 derivative; the metadata resolves and names the film as the 1924 John Ford silent Western"
     }
   ],
-  "editorial": "The Iron Horse is a 1924 American silent epic Western directed by John Ford and produced by Fox Film Corporation, starring George O'Brien and Madge Bellamy. Fox's large-scale answer to 'The Covered Wagon,' it dramatizes the building of the first transcontinental railroad, was the top-grossing film of 1924, and marked Ford's emergence as a major director of Westerns; it entered the National Film Registry in 2011. Published in 1924, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "The Iron Horse is a 1924 silent Western produced by Fox Film Corporation and released on August 28, 1924. John Ford directed it, and George O'Brien and Madge Bellamy star. It follows the building of the first transcontinental railroad. The cast includes Charles Edward Bull as Abraham Lincoln and George Waggner as Buffalo Bill Cody. The Library of Congress added it to the National Film Registry in 2011. For a creator it is a large-scale Ford silent with period spectacle, and the print is free to reuse in the US.\n\nThe rights trap is the audio and any added material, not the picture. The film was published in 1924, so its US copyright term has run out and the print and the original story are free. A modern copy, though, may carry a newly composed or recorded score, new intertitles, or commentary, and those can be protected on their own. The 2011 UK DVD, for example, reportedly adds a Tag Gallagher video essay. Take the picture from a clean source, such as the Internet Archive copy, and either score it yourself or confirm the license on any music.",
+  "faq": [
+    [
+      "Can I use The Iron Horse (1924) in my own video or documentary?",
+      "In the US, yes for the film images and story. It was published in 1924, and the 95-year term has expired. Check the music on the copy you use, because a modern score or added commentary can be separately protected."
+    ],
+    [
+      "Is a restored or DVD version of The Iron Horse free to copy?",
+      "A faithful restoration adds no new US copyright to the underlying film. New scores, titles, essays or other added material can be protected. Use a clean source without those additions, and do not rip a copy-protected disc, which can breach 17 U.S.C. 1201."
+    ]
+  ]
 }
