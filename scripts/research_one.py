@@ -142,7 +142,7 @@ def recently_blocked(days=14, times=2) -> set:
     since, n = (date.today() - timedelta(days=days)).isoformat(), {}
     for line in RUNS.read_text(encoding="utf-8").splitlines():
         r = json.loads(line)
-        if r["date"] >= since and r["result"] == "blocked":
+        if r["date"] >= since and r["result"] == "blocked" and not INFRA.search(" ".join(map(str, r.get("reasons") or []))):
             # a timeout says the title is slow, not wrong: it counts half (skip after 4)
             w = 0.5 if str((r.get("reasons") or [""])[0]).startswith("TimeoutExpired") else 1
             n[_key(r["id"])] = n.get(_key(r["id"]), 0) + w
@@ -171,7 +171,11 @@ def thin_films(count=1) -> list:
     """Published dossiers with 3+ layers never researched (60 of 103 on 2026-10-05: only the
     print layer was done). In-season ones first, then the longest unverified."""
     season = {_key(i) for i in seasons.priority_ids()}
-    skip = recently_blocked()
+    # 11-21 audit R6: 186 refreshes hit only 59 films (Beyond Tomorrow 24x). Skip a page refreshed in the last 14 days.
+    since = (date.today() - timedelta(days=14)).isoformat()
+    fresh = {_key(json.loads(l)["id"]) for l in (RUNS.read_text(encoding="utf-8").splitlines() if RUNS.exists() else [])
+             if '"refreshed"' in l and json.loads(l)["date"] >= since}
+    skip = recently_blocked() | fresh
     thin = []
     for p in FILMS.glob("*.json"):
         d = _load(p)
@@ -221,7 +225,15 @@ class UsageLimit(RuntimeError):
     marked 'blocked' (two blocks skip a title for 14 days)."""
 
 
-LIMIT_WORDS = ("usage limit", "rate limit", "limit reached", "out of extra usage", "quota")
+LIMIT_WORDS = ("usage limit", "rate limit", "limit reached", "out of extra usage", "quota",
+               "weekly limit", "hit your", "resets ")   # 11-21: 54 runs said "You've hit your weekly limit"
+# 11-21 (audit R3/R8/R13): machine failures are NOT the title's fault and must never hide a title for 14 days
+INFRA = re.compile(r"weekly limit|hit your|usage limit|PermissionError|WinError 32|No action needed|^Peace|"
+                   r"Closed:|background agent|KeyError|OSError", re.I)
+
+
+class MachineError(Exception):
+    """The model or the machine failed (not the title): deferred, never counted as a block."""
 
 
 def _claude(prompt: str, model: str = MODEL, timeout: int = 1200) -> str:
@@ -232,7 +244,9 @@ def _claude(prompt: str, model: str = MODEL, timeout: int = 1200) -> str:
     # Everything it needs is in the prompt, so an empty cwd costs nothing.
     # prompt goes on stdin, not argv: Windows truncates a ~6KB command line and the
     # researcher then answers a half-prompt ("which film?") instead of failing loudly.
-    with tempfile.TemporaryDirectory() as sandbox:
+    # ignore_cleanup_errors: a child process can still hold the folder for a moment; the answer is already in hand
+    # (11-21 audit R8: WinError 32 threw away finished research and blamed the title)
+    with tempfile.TemporaryDirectory(ignore_cleanup_errors=True) as sandbox:
         proc = subprocess.Popen([cli, "-p", "--model", model, "--output-format", "json",
                                  "--allowedTools", "WebSearch,WebFetch",
                                  "--disallowedTools", "Write,Edit,MultiEdit,NotebookEdit,Bash"],
@@ -250,8 +264,12 @@ def _claude(prompt: str, model: str = MODEL, timeout: int = 1200) -> str:
     except (json.JSONDecodeError, TypeError):
         env = None
     text = env.get("result", out) if isinstance(env, dict) else (out or "")
-    if (not env or env.get("is_error")) and any(w in str(text).lower() for w in LIMIT_WORDS):
+    low = str(text).lower()
+    # a limit message can arrive as a normal (is_error=false) result: judge by the text, not the flag (11-21 R3)
+    if "{" not in str(text)[:3000] and any(w in low for w in LIMIT_WORDS):
         raise UsageLimit(str(text)[:200])
+    if "{" not in str(text) and len(str(text)) < 600:   # "Peace. No action needed." etc: no answer at all
+        raise MachineError(str(text)[:200])
     return text
 
 
@@ -392,6 +410,10 @@ def research(row: dict, old: dict | None = None):
         print(f"  DEFERRED {row['id']}: Claude usage limit - {e}")
         log_run(row["id"], "deferred", [str(e)])
         raise
+    except MachineError as e:
+        print(f"  DEFERRED {row['id']}: no usable answer from the model - {e}")
+        log_run(row["id"], "deferred", [f"machine: {e}"])
+        return None
     except (subprocess.TimeoutExpired, ValueError) as e:  # JSONDecodeError is a ValueError
         reasons = [f"{type(e).__name__}: {str(e)[:200]}"]
     if old and not reasons:
@@ -438,7 +460,9 @@ def check() -> None:
     season = {_key(i) for i in seasons.priority_ids()}
     rest = [r for r in rows if _key(r["id"]) not in season]
     assert all(_key(r["id"]) in season for r in rows[:len(rows) - len(rest)]), "in-season titles first"
-    assert not rest or rest[0]["year"] <= cutoff, "then bright-line titles"
+    bright = [r for r in rest if (r.get("country") or "US").upper() in ("US", "USA") and r["year"] <= cutoff]
+    # (11-22: once every bright-line title is researched, the next ones are post-cutoff - that is correct)
+    assert not bright or rest[0]["year"] <= cutoff, "then bright-line titles"
     # a well-formed researched candidate passes both gates
     good = {"id": "fixture-1928", "title": "Fixture", "year": 1928, "country": "US",
             "editorial": "x", "watch": [], "faq": [],
@@ -529,8 +553,10 @@ def main() -> int:
             print("stopping this run: Claude usage limit (the rest waits for the next run)")
             break
         except Exception as e:   # one bad title must not sink the batch (AGF P2 OBJ-8, P2b OBJ-10: KeyError)
-            print(f"  BLOCKED {row['id']}: crashed {type(e).__name__}: {e}")
-            log_run(row["id"], "blocked", [f"crash {type(e).__name__}: {str(e)[:200]}"])
+            # 11-21: a machine crash (OSError, KeyError...) is "deferred", not the title's block
+            res = "deferred" if isinstance(e, (OSError, KeyError)) else "blocked"
+            print(f"  {res.upper()} {row['id']}: crashed {type(e).__name__}: {e}")
+            log_run(row["id"], res, [f"crash {type(e).__name__}: {str(e)[:200]}"])
             made.append(None)
     print(f"done: {sum(1 for m in made if m)}/{len(jobs)} succeeded; "
           f"pending pool = {len(list(PENDING.glob('*.json')))}")

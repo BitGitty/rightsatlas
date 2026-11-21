@@ -14,7 +14,8 @@ set MODE=-n 2
 set MSG=research: top up drip pool
 if /i "%~1"=="refresh" set MODE=--refresh 2
 if /i "%~1"=="refresh" set MSG=research: refresh thin dossiers
-if /i "%~1"=="auto" set MODE=--auto 2
+rem 11-22 owner: free weekly Claude refresh until 2027-03-01 -> 3 titles per run, every 2 h (was 2 per 4 h)
+if /i "%~1"=="auto" set MODE=--auto 3
 if /i "%~1"=="auto" set MSG=research: rolling batch
 echo ==== %date% %time% start %MODE% >> %LOG%
 REM a run that died mid-rebase blocks every later run (2026-10-04): clear it, then start
