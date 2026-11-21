@@ -349,10 +349,19 @@ def index_page(films, backlog_count):
         f'alt="" loading="lazy"><span>▶ {e(by_id[i]["title"])} ({by_id[i]["year"]})</span></a>'
         for i in famous if i in by_id and watch_id(by_id[i]))
     n_watch = sum(1 for f in films if watch_id(f))
-    listen_cards = "".join(
-        f'<a class="card ok" href="{BASE}song/{s["id"]}/#listen"><strong>▶ {e(s["title"])}</strong>'
-        f'<span>{e(s["listen"][0]["performer"])}, {s["listen"][0]["year"]}</span></a>'
-        for s in sorted(songs, key=lambda x: x["listen"][0]["year"] if x.get("listen") else 0) if s.get("listen"))
+    # 2026-11-21 owner: "put music players together with the film player ... better design by adding artwork".
+    # Each card: public-domain artwork (data/song_art.json, Commons sheet-music covers) + a real player on the home page.
+    art = json.loads((ROOT / "data" / "song_art.json").read_text(encoding="utf-8")) \
+        if (ROOT / "data" / "song_art.json").exists() else {}
+    def music_card(s):
+        L, a = s["listen"][0], art.get(s["id"])
+        pic = (f'<img src="{BASE}{e(a["img"])}" alt="{e(a.get("what", s["title"]))}" loading="lazy">' if a else
+               f'<div class="noart" aria-hidden="true"><span>♪</span><b>{s["year"]}</b></div>')
+        return (f'<div class="musiccard">{pic}<div class="mc-body"><a href="{BASE}song/{s["id"]}/"><strong>{e(s["title"])}'
+                f'</strong></a><span>{e(L["performer"])}, {L["year"]}</span>'
+                f'<audio controls preload="none" src="{e(L["audio"])}"></audio></div></div>')
+    listen_cards = "".join(music_card(s) for s in
+                           sorted(songs, key=lambda x: x["listen"][0]["year"] if x.get("listen") else 0) if s.get("listen"))
     body = f"""<section class="hero">
 <div class="hero-main">
 <p class="kicker">Free answers, with sources</p>
@@ -381,10 +390,10 @@ Every answer shows where it comes from.</p>
 <div class="watchgrid">{watch_cards}</div>
 <p><a href="{BASE}films/?watch=1">See all {n_watch} films you can watch free →</a></p>
 </section>
-<section class="watchfree">
-<h2>▶ Listen free: old recordings that are public domain</h2>
-<p>US recordings published before {YEAR - 100} are free. Play them on each song's page.</p>
-<div class="grid">{listen_cards}</div>
+<section class="watchfree listenfree" id="listen">
+<h2>♪ Listen free: old recordings that are public domain</h2>
+<p>US recordings published before {YEAR - 100} are free. Press play right here; tap a title for the full story.</p>
+<div class="musicgrid">{listen_cards}</div>
 </section>
 {seasonal}
 <section class="callout tools-callout">
@@ -1144,8 +1153,9 @@ def build():
     if OUT.exists():
         shutil.rmtree(OUT)
     (OUT / "assets").mkdir(parents=True)
-    for a in (ROOT / "assets").iterdir():
-        shutil.copy(a, OUT / "assets" / a.name)
+    for a in (ROOT / "assets").iterdir():  # 11-21: assets/art/ (song artwork) is a folder
+        (shutil.copytree(a, OUT / "assets" / a.name, dirs_exist_ok=True) if a.is_dir()
+         else shutil.copy(a, OUT / "assets" / a.name))
     static = ROOT / "static"
     if static.exists():
         for a in static.iterdir():
