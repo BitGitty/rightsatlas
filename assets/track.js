@@ -44,11 +44,13 @@
         addEventListener("scroll", function () { if (!engaged && scrollY > 300) { engaged = true; send(); } }, { passive: true });
       }).catch(function () {});
     // what people search for on our site
-    document.addEventListener("submit", function (ev) {
-      var f = ev.target, i = f && f.querySelector('input[type="search"], input[name="q"]');
-      if (i && i.value) window.raEvent("search", i.value);
-    }, true);
+    // a search from the home page arrives here as /search/?q=... (counted once); typing on the search page itself is
+    // counted when the box is left or Enter is pressed ("change"), not on every key
     if (q.get("q") && /\/search\//.test(location.pathname)) window.raEvent("search", q.get("q"));
+    document.addEventListener("change", function (ev) {
+      var i = ev.target;
+      if (i && i.matches && i.matches('input[type="search"]') && i.value && /\/search\//.test(location.pathname)) window.raEvent("search", i.value);
+    }, true);
     // play clicks: our own audio players; the archive.org film player is an iframe (a click on it blurs the page)
     document.addEventListener("play", function (ev) { if (ev.target && ev.target.tagName === "AUDIO") window.raEvent("play_song"); }, true);
     addEventListener("blur", function () {
