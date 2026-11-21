@@ -1,0 +1,77 @@
+{
+  "id": "the-pride-of-the-yankees-1942",
+  "title": "The Pride of the Yankees",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal status could not be confirmed this session. The Stanford Copyright Renewal DB search page returned no readable content, so no renewal record was found and none was ruled out. A film published in 1942 is not public domain by term. It is free only if its renewal (due in the 1969-1971 window) is absent. That check has not been done.",
+          "source": "Stanford Copyright Renewal Database (search page returned no readable content)",
+          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Pride of the Yankees” (renewals ~1969, 1970, 1971)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Pride+of+the+Yankees"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-pride-of-the-yankees-1942",
+      "label": "The Pride of the Yankees (1942), full-length upload on the Internet Archive. A user upload, not a rights clearance.",
+      "quality": "user upload, MPEG4, about 129 minutes"
+    }
+  ],
+  "editorial": "The Pride of the Yankees (1942) is the Sam Wood-directed biopic of baseball player Lou Gehrig. Its Internet Archive upload runs about 129 minutes. A creator would want it for 1940s baseball footage and as a well-known studio biopic.\n\nThe rights trap is the status of the film's copyright. A 1942 film is public domain only if its 28-year renewal, due around 1969 to 1971, was never filed. This dossier has not confirmed that. The Stanford renewal database page did not load in this session, so no renewal record was found and none was ruled out. The Internet Archive copy being online says nothing about its rights status. Treat the film as protected until someone checks the renewal volumes of the Catalog of Copyright Entries by hand. The score, source story, restorations and any marks are also unchecked.",
+  "faq": [
+    [
+      "Is The Pride of the Yankees in the public domain?",
+      "Not established. It was published in 1942, so it is free only if its renewal was never filed. That check could not be completed here. Search the Stanford renewal database and the Catalog of Copyright Entries before reusing it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Not on the strength of the upload alone. The uploader's own description says the rights status is uncertain. Confirm the renewal status first. Separately, the score, source material and any restoration have not been cleared."
+    ]
+  ]
+}

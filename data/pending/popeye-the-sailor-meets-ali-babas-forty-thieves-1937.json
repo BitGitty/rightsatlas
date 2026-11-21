@@ -1,0 +1,102 @@
+{
+  "id": "popeye-the-sailor-meets-ali-babas-forty-thieves-1937",
+  "title": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released November 26, 1937 by Paramount from Fleischer Studios. A 1937 film is not covered by term expiry. Its US status depends on notice and a 28th-year renewal in 1964-65. The Wikipedia article calls it public domain, which is not a primary source. The renewal databases did not return a result I could rely on: the Stanford renewal DB search page returned no records, and only the first ~39,000 characters of each CCE motion-picture volume (1964: catalogofc19643181213libr; 1965: catalogofc19653191213libr) were readable. That is about 4% of each volume, and the renewals section was not reached, so no absence finding is claimed.",
+          "source": "Wikipedia article on the film; Internet Archive CCE volume metadata",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound cartoon with music credited to Sammy Timberg and Sammy Lerner, and 'Abu Hassan Song' credited to lyricist Tot Seymour and composer Vee Lawnhurst. The track would normally share the film's status, which is itself undetermined. The separate status of the song was not checked.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Ali_Baba%27s_Forty_Thieves"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The plot is based on the folk tale 'Ali Baba and the Forty Thieves'. The Popeye character comes from a separate source with its own rights chain, which was not checked in this session.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Ali_Baba%27s_Forty_Thieves"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Per Wikipedia, a version restored with the original Paramount mountain intro and the original opening and closing titles is on disc four of the 'Popeye the Sailor: 1933-1938, Volume 1' set. A faithful restoration adds no new US copyright, but anything the release adds (new transfer credits, extras, packaging) may be protected. Which additions apply was not confirmed.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Ali_Baba%27s_Forty_Thieves"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Popeye the Sailor Meets Ali Baba's Forty Thieves” (renewals ~1964, 1965, 1966)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Popeye+the+Sailor+Meets+Ali+Baba's+Forty+Thieves"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964 Motion Pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1965 Motion Pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/PopeyeAliBabaRestored512kb",
+      "label": "Popeye Ali Baba (Internet Archive upload, 2018; title and uploader checked, picture not viewed)",
+      "quality": "unverified-copy"
+    }
+  ],
+  "editorial": "This is the 1937 Technicolor-era Popeye two-reeler directed by Dave Fleischer for Fleischer Studios and released by Paramount on November 26, 1937. Willard Bowsky headed the animation. Music is credited to Sammy Timberg and Sammy Lerner, with 'Abu Hassan Song' credited to Tot Seymour and Vee Lawnhurst. It retells the Ali Baba tale with Popeye and Bluto, which makes it a popular pick for compilations and remixes.\n\nThe rights trap is the print itself. A 1937 release is free only if its notice was missing or the 1964-65 renewal was never filed, and this review could not confirm either. The Wikipedia page says the film is in the public domain, but that is not a primary source. A reuser should search the 1964 and 1965 Catalog of Copyright Entries renewals and the Stanford renewal database by hand before relying on the status. The Popeye character is a further question with its own rights chain, and a trademark can outlast any copyright. Restored disc releases may carry protectable additions.",
+  "faq": [
+    [
+      "Is this cartoon safe to reuse?",
+      "Not confirmed. The 1937 film's status depends on a missing notice or a missing 1964-65 renewal, and no primary record of either was verified here. Check the CCE renewal volumes and the Stanford renewal database yourself first."
+    ],
+    [
+      "Does an Internet Archive copy settle it?",
+      "No. An upload does not prove the cartoon's copyright status. Treat the copy as a viewing source only, and note that the restored official disc may include added material that is separately protected."
+    ]
+  ]
+}
