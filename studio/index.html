@@ -68,8 +68,27 @@ a{color:var(--acc)}
         '<div class="card"><h2>Plays (films and songs)</h2>'+table(x.plays,[{h:"Type",k:"kind"},{h:"Times",k:"n",n:1},{h:"Page",k:"path",link:1}])+'</div>'+
         '<div class="card"><h2>Device</h2>'+table(x.devices,[{h:"Device",k:"device"},{h:"Views",k:"n",n:1}])+'</div>'+
         '<div class="card"><h2>Region (browser time zone)</h2>'+table(x.regions,[{h:"Time zone",k:"tz"},{h:"Views",k:"n",n:1}])+'</div>'+
-        '</div><p class="note" style="margin-top:14px">Live data, last '+x.days+' day(s). No cookies, no names, no IP addresses are stored.</p>';
+        '</div><div id="gsc"></div><p class="note" style="margin-top:14px">Live data, last '+x.days+' day(s). No cookies, no names, no IP addresses are stored.</p>';
+      loadGsc(d);
     }).catch(function(){ out.innerHTML='<p class="err">Could not load the numbers. Try again.</p>'; });
+  }
+  // Google Search Console (pulled daily by gsc_pull.py; Google's data is 2-3 days behind)
+  function loadGsc(d){
+    var gd=Math.max(d,28);
+    fetch(U.replace("studio_data","studio_gsc"),{method:"POST",headers:{"apikey":K,"Authorization":"Bearer "+K,"Content-Type":"application/json"},body:JSON.stringify({p_site:"rightsatlas",p_key:key,p_days:gd})})
+    .then(function(r){return r.json();}).then(function(g){
+      var el=document.getElementById("gsc"); if(!el||!g||!g.totals) return; var t=g.totals;
+      var ctr=t.impressions?(100*t.clicks/t.impressions).toFixed(1)+'%':'—';
+      el.innerHTML='<h2 style="margin:22px 0 10px">Google search (last '+gd+' days, data up to '+esc(g.last_day||'—')+')</h2>'+
+        '<div class="kpis"><div class="kpi"><b>'+num(t.impressions)+'</b><span>times shown on Google</span></div>'+
+        '<div class="kpi"><b>'+num(t.clicks)+'</b><span>clicks from Google</span></div>'+
+        '<div class="kpi"><b>'+ctr+'</b><span>click rate</span></div>'+
+        '<div class="kpi"><b>'+(t.avg_position==null?'—':t.avg_position)+'</b><span>avg position (1 = top)</span></div>'+
+        '<div class="kpi"><b>'+num(t.queries)+'</b><span>different searches</span></div></div>'+
+        '<div class="grid"><div class="card"><h2>What people searched on Google</h2>'+table(g.queries,[{h:"Search",k:"query"},{h:"Shown",k:"impressions",n:1},{h:"Clicks",k:"clicks",n:1},{h:"Pos",k:"position",n:1}])+
+        '<p class="note">Shown a lot but few clicks = improve that page\'s title and description. Position above 10 = page 2 of Google.</p></div>'+
+        '<div class="card"><h2>Pages Google shows</h2>'+table(g.pages,[{h:"Page",k:"page",link:1},{h:"Shown",k:"impressions",n:1},{h:"Clicks",k:"clicks",n:1},{h:"Pos",k:"position",n:1}])+'</div></div>';
+    }).catch(function(){});
   }
   var bar=document.getElementById("range");
   bar.addEventListener("click",function(e){ var b=e.target.closest("button"); if(!b) return;
