@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1922; even for foreign works, the URAA could not restore what the full US term has outlived — any 95-year term from 1922 expired long ago. Nosferatu is public domain in the US by expiry, regardless of its German origin.",
+          "note": "Published 1922; the maximum US copyright term for a pre-1923 work is 75 years, so even counting any URAA restoration for a German work still protected abroad in 1996, the term fully ran out no later than 1 January 1998. Nosferatu is public domain in the US by expiry, regardless of its German origin.",
           "source": "Cornell Copyright Term chart",
           "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         }
@@ -84,7 +84,7 @@
   "faq": [
     [
       "Is Nosferatu public domain even though it's German?",
-      "Yes. The URAA restored many foreign works that failed US formalities, but it cannot restore a work whose entire 95-year US term has expired — 1922 is safely out."
+      "Yes. The maximum US copyright term for a pre-1923 work like this one is 75 years, so even with URAA factored in, the German work's hypothetical US protection ran out no later than 1 January 1998 — 1922 is safely clear by 2026."
     ],
     [
       "Can I use the music from a Nosferatu Blu-ray?",

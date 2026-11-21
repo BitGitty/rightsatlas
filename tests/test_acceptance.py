@@ -6,6 +6,7 @@ Covers the gates this codebase actually enforces (T-01, T-02, T-05, T-06, T-07,
 T-08, T-10, T-12, T-13). Publish/CI runs this on every push.
 """
 import json
+import re
 import subprocess
 import sys
 from datetime import date
@@ -148,6 +149,20 @@ def t15_songs_have_sources():
             "enters_pd_"), f"{p.name}: bad status {c.get('status')}"
         assert c.get("evidence") and all(x.get("url", "").startswith("http") for x in c["evidence"]), \
             f"{p.name}: status without a sourced evidence line"
+        # 2026-11-21 (audit N3): the term rule depends on the publication year. Pre-1923 = free by Y+76 at the
+        # latest (75-year max); from 1923 = Y+96. A Y+96 date on a pre-1923 song was published 22 times.
+        st = str(c.get("status"))
+        if st.startswith("enters_pd_"):
+            want = s["year"] + (76 if s["year"] < 1923 else 96)
+            assert int(st.rsplit("_", 1)[1]) <= want, f"{p.name}: {st} is later than the legal maximum {want}"
+            for post in (ROOT / "content" / "blog").glob(f"*-song-{s['id']}.html"):
+                body = post.read_text(encoding="utf-8")
+                for y in re.findall(r"(?:since|on|from) (?:1 January )?(\d{4})", body):
+                    assert int(y) <= want, f"{post.name}: says free since {y}, legal maximum is {want}"
+        # 2026-11-21 (Crucible R2): URAA restoration needs ALL its conditions; a song text that claims a restoration
+        # must state them (the "30 days" US-publication condition is the marker), never a one-condition rule
+        if re.search(r"copyright (back|restored)", json.dumps(s, ensure_ascii=False)):
+            assert "30 days" in json.dumps(s, ensure_ascii=False), f"{p.name}: URAA restoration stated without its conditions"
         for x in s.get("listen", []):  # only public domain recordings, sourced from Commons
             assert int(x.get("year", 9999)) <= date.today().year - 101, f"{p.name}: listen recording too recent"
             assert x.get("page", "").startswith("https://commons.wikimedia.org/") and \
@@ -167,6 +182,28 @@ def t_all_live_films_validate():
     for p in sorted(FILMS.glob("*.json")):
         errs += engine.validate(json.loads(p.read_text(encoding="utf-8")))
     assert not errs, f"live dossiers failed validate: {errs}"
+
+
+def t16_pre1923_no_95_year_term():
+    """2026-11-21 (audit N3): works published before 1923 had a 75-year maximum US term (free by 1998 at the
+    latest). Dossier prose claimed '95-year term ... expired 2014/2015' 69 times. No pre-1923 film may say that."""
+    bad = re.compile(r"95[- ]year|95 years|\+ ?95\b", re.I)
+    for d in ("films", "pending"):
+        for p in sorted((ROOT / "data" / d).glob("*.json")):
+            f = json.loads(p.read_text(encoding="utf-8"))
+            if f.get("year", 9999) < 1923:
+                m = bad.search(json.dumps(f, ensure_ascii=False))
+                assert not m, f"{d}/{p.name}: pre-1923 work mentions a 95-year term"
+    # posts: the subject is the hero image name (= film id) or the -song-<id> slug
+    years = {q.stem: json.loads(q.read_text(encoding="utf-8"))["year"]
+             for d in ("films", "pending", "songs") for q in (ROOT / "data" / d).glob("*.json")}
+    for p in (ROOT / "content" / "blog").glob("*.html"):
+        lines = p.read_text(encoding="utf-8").splitlines()
+        song = re.search(r"-song-(.+)$", p.stem)
+        wid = song.group(1) if song else (lines[2].split("|")[0].strip()[:-4] if len(lines) > 2 else "")
+        y = years.get(wid)
+        if y and y < 1923:
+            assert not bad.search("\n".join(lines)), f"{p.name}: post on a {y} work mentions a 95-year term"
 
 
 TESTS = [v for k, v in sorted(globals().items()) if k.startswith(("t0", "t1", "t_"))]

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1921; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1921; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1997."
         }
       ]
     },
@@ -60,6 +60,6 @@
       "label": "Internet Archive — The Sheik (1921), full film"
     }
   ],
-  "editorial": "The Sheik is a 1921 American silent romantic drama directed by George Melford and produced by Famous Players-Lasky (Paramount), starring Rudolph Valentino and Agnes Ayres. Adapted from Edith Maude Hull's bestselling novel, its runaway success made Valentino an international star and a defining screen idol of the 1920s. Published in 1921, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "editorial": "The Sheik is a 1921 American silent romantic drama directed by George Melford and produced by Famous Players-Lasky (Paramount), starring Rudolph Valentino and Agnes Ayres. Adapted from Edith Maude Hull's bestselling novel, its runaway success made Valentino an international star and a defining screen idol of the 1920s. Published in 1921, the film print's 75-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
   "faq": []
 }

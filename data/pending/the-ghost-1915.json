@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "A US film published in 1915 is past the maximum US copyright term, which covers works published 95 years back from the current year. Works published in 1930 entered the public domain on 1 January 2026, so a 1915 release is well past that. The Duke Center for the Study of the Public Domain lists the annual cutoff. I could not identify the producing studio or confirm the release details of this specific title.",
+          "note": "A US film published in 1915 predates the 1923 cutoff for the modern rolling maximum term (which today reaches back to 1930 releases, per the Duke Center's Public Domain Day 2026). Works published before 1923, including this 1915 release, instead carried a flat maximum US copyright term of 75 years, so it was already public domain by 1 January 1991 at the latest. I could not identify the producing studio or confirm the release details of this specific title.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
           "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/"
         }

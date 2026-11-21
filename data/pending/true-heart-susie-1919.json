@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published June 1, 1919 in the US. Under the Sonny Bono Copyright Term Extension Act the maximum possible US term for any pre-1978 work is 95 years from publication; for a 1919 work that ceiling fell on January 1, 2015. The print is unambiguously public domain as of 2026 regardless of whether Artcraft filed or renewed a registration.",
+          "note": "Published June 1, 1919 in the US. Works published before 1923, including this one, carried a flat maximum US copyright term of 75 years — the Sonny Bono Act's later extension applies only to works published 1923 or after. For this 1919 work the 75-year ceiling fell on January 1, 1995. The print is unambiguously public domain as of 2026 regardless of whether Artcraft filed or renewed a registration.",
           "source": "Duke Center for the Study of the Public Domain — Public Domain Day",
           "url": "https://web.law.duke.edu/cspd/publicdomainday/"
         }
@@ -39,7 +39,7 @@
         },
         {
           "type": "term_expiry",
-          "note": "As an original 1919 US work with no identified underlying source, the story shares the film's term ceiling of 95 years from publication, expiring January 1, 2015.",
+          "note": "As an original 1919 US work with no identified underlying source, the story shares the film's term ceiling of 75 years from publication, expiring January 1, 1995.",
           "source": "Duke Center for the Study of the Public Domain — Public Domain Day",
           "url": "https://web.law.duke.edu/cspd/publicdomainday/"
         }
@@ -95,7 +95,7 @@
       "quality": "good"
     }
   ],
-  "editorial": "True Heart Susie is a 1919 silent melodrama produced by D.W. Griffith Productions and released through Artcraft Pictures Corporation, Paramount's prestige subsidiary. Griffith directed from an original screenplay by Marian Fremont, with Lillian Gish as Susie—a farm girl who secretly sells a cow to finance the education of the oblivious young man she loves—and Robert Harron as that young man, William. Cinematography was by Billy Bitzer. The film was completed before Griffith's move to United Artists and sits at the quieter, domestic end of his output, in contrast to his more contentious epics. The print passed into US public domain by term expiry: even assuming Artcraft timely registered and renewed the 1919 copyright, the maximum term under the Sonny Bono Act capped at 95 years from publication, placing expiry on January 1, 2015.\n\nThe one live rights trap is the score layer. Because True Heart Susie is a silent film, its photographic images and intertitles are free; but every home-video copy ships with a separately protected musical accompaniment. The Grapevine Video DVD carries a 70-minute orchestral score copyrighted 2007 by Film Preservation—a work entirely independent of the film's expired term. A documentary maker or video essayist pulling clips from that disc and retaining its audio track would be infringing that score copyright, not the film copyright. The practical fix is to source footage from one of the score-free Internet Archive versions, or to use a CC-licensed or commissioned accompaniment and explicitly not copy the DVD audio.",
+  "editorial": "True Heart Susie is a 1919 silent melodrama produced by D.W. Griffith Productions and released through Artcraft Pictures Corporation, Paramount's prestige subsidiary. Griffith directed from an original screenplay by Marian Fremont, with Lillian Gish as Susie—a farm girl who secretly sells a cow to finance the education of the oblivious young man she loves—and Robert Harron as that young man, William. Cinematography was by Billy Bitzer. The film was completed before Griffith's move to United Artists and sits at the quieter, domestic end of his output, in contrast to his more contentious epics. The print passed into US public domain by term expiry: even assuming Artcraft timely registered and renewed the 1919 copyright, the maximum term under the pre-1978 rule capped at 75 years from publication, placing expiry on January 1, 1995.\n\nThe one live rights trap is the score layer. Because True Heart Susie is a silent film, its photographic images and intertitles are free; but every home-video copy ships with a separately protected musical accompaniment. The Grapevine Video DVD carries a 70-minute orchestral score copyrighted 2007 by Film Preservation—a work entirely independent of the film's expired term. A documentary maker or video essayist pulling clips from that disc and retaining its audio track would be infringing that score copyright, not the film copyright. The practical fix is to source footage from one of the score-free Internet Archive versions, or to use a CC-licensed or commissioned accompaniment and explicitly not copy the DVD audio.",
   "faq": [
     [
       "Can I use True Heart Susie footage commercially without a license?",
@@ -103,7 +103,7 @@
     ],
     [
       "Does it matter whether Artcraft Pictures renewed the copyright in the mid-1940s?",
-      "No practical effect on current US status. Even a timely renewal in 1946–1947 could only extend the term to the statutory ceiling of 95 years from the 1919 publication date, which expired on January 1, 2015. Renewal records are relevant if you are reconstructing the chain of title or researching foreign jurisdictions with different term rules, but they cannot extend US copyright beyond that ceiling."
+      "No practical effect on current US status. Even a timely renewal in 1946–1947 could only extend the term to the statutory ceiling of 75 years from the 1919 publication date, which expired on January 1, 1995. Renewal records are relevant if you are reconstructing the chain of title or researching foreign jurisdictions with different term rules, but they cannot extend US copyright beyond that ceiling."
     ]
   ]
 }

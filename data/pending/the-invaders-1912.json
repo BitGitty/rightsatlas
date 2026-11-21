@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "The film was released in the US on November 29, 1912. US copyright on works published before 1978 lasts 95 years, so a 1912 release expired by term long ago. Duke CSPD's Public Domain Day 2026 page states the 95-year term and that 1930 works entered the public domain on January 1, 2026, so 1912 works are well inside it.",
+          "note": "The film was released in the US on November 29, 1912. Works published before 1923 carried a flat maximum US copyright term of 75 years, so this 1912 release expired by term no later than 1 January 1988 — long before the longer term that Duke CSPD's Public Domain Day 2026 page describes for 1923-and-later works, which only reached 1930 releases in 2026.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2026",
           "url": "https://cspd.law.duke.edu//publicdomainday/2026/"
         }

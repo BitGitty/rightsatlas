@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1919 (New York premiere May 13, 1919; US release October 20, 1919); the 95-year US copyright term for works published that year has run, so the film print is public domain in the US by term expiry."
+          "note": "Published 1919 (New York premiere May 13, 1919; US release October 20, 1919); the 75-year US copyright term for works published that year has run, so the film print is public domain in the US by term expiry."
         }
       ]
     },
@@ -29,7 +29,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Based on Thomas Burke's short story 'The Chink and the Child' from the 1916 collection Limehouse Nights. A work published in 1916 has passed its 95-year US term, so the source story is public domain in the US by term expiry."
+          "note": "Based on Thomas Burke's short story 'The Chink and the Child' from the 1916 collection Limehouse Nights. A work published in 1916 has passed its 75-year US term, so the source story is public domain in the US by term expiry."
         }
       ]
     },
@@ -76,7 +76,7 @@
       "quality": "Internet Archive copy credited to D. W. Griffith; confirm which score, if any, is on this copy before reuse"
     }
   ],
-  "editorial": "Broken Blossoms, or The Yellow Man and the Girl, is a 1919 silent drama produced and directed by D. W. Griffith and distributed by United Artists. Lillian Gish plays Lucy Burrows, Richard Barthelmess plays Cheng Huan and Donald Crisp plays her father, \"Battling\" Burrows. Griffith adapted Thomas Burke's 1916 story \"The Chink and the Child\" from Limehouse Nights and changed the Chinese protagonist into a Buddhist missionary. The film premiered in New York on May 13, 1919.\n\nThe film image and the 1916 source story are both in the US public domain by term expiry, because both were published long enough ago for the 95-year term to run. The rights trap is the music. A silent film is shown with a score, and any score on a modern copy is a separate work that can still be protected. A restored release can also carry new titles or other added material. Use a copy whose soundtrack you can trace, or add your own music.",
+  "editorial": "Broken Blossoms, or The Yellow Man and the Girl, is a 1919 silent drama produced and directed by D. W. Griffith and distributed by United Artists. Lillian Gish plays Lucy Burrows, Richard Barthelmess plays Cheng Huan and Donald Crisp plays her father, \"Battling\" Burrows. Griffith adapted Thomas Burke's 1916 story \"The Chink and the Child\" from Limehouse Nights and changed the Chinese protagonist into a Buddhist missionary. The film premiered in New York on May 13, 1919.\n\nThe film image and the 1916 source story are both in the US public domain by term expiry, because both were published long enough ago for the 75-year term to run. The rights trap is the music. A silent film is shown with a score, and any score on a modern copy is a separate work that can still be protected. A restored release can also carry new titles or other added material. Use a copy whose soundtrack you can trace, or add your own music.",
   "faq": [
     [
       "Can I reuse footage from Broken Blossoms?",
@@ -84,7 +84,7 @@
     ],
     [
       "Is the Thomas Burke story also free to adapt?",
-      "The story \"The Chink and the Child\", published in 1916 in Limehouse Nights, has passed its 95-year US term. That makes the source story public domain in the US by term expiry."
+      "The story \"The Chink and the Child\", published in 1916 in Limehouse Nights, has passed its 75-year US term. That makes the source story public domain in the US by term expiry."
     ]
   ]
 }

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1914; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1914; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1990."
         }
       ]
     },
@@ -67,6 +67,6 @@
       "label": "Internet Archive (full film)"
     }
   ],
-  "editorial": "The Magic Cloak of Oz is a 1914 American silent fantasy film directed by J. Farrell MacDonald and written and produced by L. Frank Baum for his Oz Film Manufacturing Company, adapting Baum's novel Queen Zixi of Ix. Distribution troubles delayed its release to 1917, and it survives only in truncated, re-edited form. As a 1914 US publication, the film print is public domain by expiry of the 95-year US copyright term; the Oz brand may carry separate trademark rights, so that layer is left undetermined.",
+  "editorial": "The Magic Cloak of Oz is a 1914 American silent fantasy film directed by J. Farrell MacDonald and written and produced by L. Frank Baum for his Oz Film Manufacturing Company, adapting Baum's novel Queen Zixi of Ix. Distribution troubles delayed its release to 1917, and it survives only in truncated, re-edited form. As a 1914 US publication, the film print is public domain by expiry of the 75-year US copyright term; the Oz brand may carry separate trademark rights, so that layer is left undetermined.",
   "faq": []
 }

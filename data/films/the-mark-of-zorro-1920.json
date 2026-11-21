@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1920; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1920; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1996."
         }
       ]
     },
@@ -61,6 +61,6 @@
       "label": "Internet Archive — The Mark of Zorro (1920), full film"
     }
   ],
-  "editorial": "The Mark of Zorro is a 1920 American silent swashbuckler directed by Fred Niblo and produced by and starring Douglas Fairbanks for his own company, released as the first feature through United Artists. Adapted from Johnston McCulley's 1919 story 'The Curse of Capistrano,' it established Fairbanks as the screen's premier action hero and launched the enduring masked-avenger archetype; it entered the National Film Registry in 2015. Published in 1920, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "editorial": "The Mark of Zorro is a 1920 American silent swashbuckler directed by Fred Niblo and produced by and starring Douglas Fairbanks for his own company, released as the first feature through United Artists. Adapted from Johnston McCulley's 1919 story 'The Curse of Capistrano,' it established Fairbanks as the screen's premier action hero and launched the enduring masked-avenger archetype; it entered the National Film Registry in 2015. Published in 1920, the film print's 75-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
   "faq": []
 }

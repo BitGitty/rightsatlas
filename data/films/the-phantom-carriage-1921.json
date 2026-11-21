@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Swedish theatrical release January 1, 1921; US release February 1922 (re-edited as 'The Stroke of Midnight' by Metro Pictures Corporation). Both publications predate 1923. The maximum US copyright term of 95 years from the 1921 publication date expired January 1, 2017.",
+          "note": "Swedish theatrical release January 1, 1921; US release February 1922 (re-edited as 'The Stroke of Midnight' by Metro Pictures Corporation). Both publications predate 1923. The maximum US copyright term of 75 years from the 1921 publication date expired January 1, 1997.",
           "source": "Duke CSPD Public Domain Day 2017 — 'only works published before 1923 are clearly in the US public domain'",
           "url": "https://cspd.law.duke.edu/publicdomainday/2017/"
         },
         {
           "type": "uraa_analysis",
-          "note": "Produced by AB Svensk Filmindustri in Sweden, a Berne Convention member country. Had the URAA (17 U.S.C. §104A, restoration date January 1, 1996) restored US copyright — because the film remained protected in Sweden under that country's life-plus-70 term as of that date — the restored term would run only to the end of what the original US copyright term would have been: 95 years from the 1921 publication date, expiring January 1, 2017. As of 2026 the print is public domain in the US regardless of whether URAA restoration occurred.",
+          "note": "Produced by AB Svensk Filmindustri in Sweden, a Berne Convention member country. Had the URAA (17 U.S.C. §104A, restoration date January 1, 1996) restored US copyright — because the film remained protected in Sweden under that country's life-plus-70 term as of that date — the restored term would run only to the end of what the original US copyright term would have been: 75 years from the 1921 publication date, expiring January 1, 1997. As of 2026 the print is public domain in the US regardless of whether URAA restoration occurred.",
           "source": "17 U.S.C. §104A — Restored copyright: subsistence and term",
           "url": "https://www.copyright.gov/title17/92chap1.html#104a"
         }
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Based on Selma Lagerlöf's novel 'Körkarlen' (Thy Soul Shall Bear Witness), published in 1912. Works published before 1923 are in the US public domain by term. The 95-year US copyright term from the 1912 publication date expired January 1, 2008.",
+          "note": "Based on Selma Lagerlöf's novel 'Körkarlen' (Thy Soul Shall Bear Witness), published in 1912. Works published before 1923 are in the US public domain by term. The 75-year US copyright term from the 1912 publication date expired January 1, 1988.",
           "source": "Internet Archive — korkarlen_1921 item metadata (source novel and 1912 date credited)",
           "url": "https://archive.org/details/korkarlen_1921"
         }
@@ -95,7 +95,7 @@
       "quality": "standard"
     }
   ],
-  "editorial": "The Phantom Carriage (Körkarlen) is a 1921 Swedish silent fantasy film produced by AB Svensk Filmindustri and directed by Victor Sjöström, who also stars as David Holm — a drunkard compelled on New Year's Eve to confront the ruin he has caused before assuming the duty of driving Death's carriage. Based on Selma Lagerlöf's 1912 novel Thy Soul Shall Bear Witness, the film used double-exposure photography to render its ghostly carriage and built its narrative through flashbacks nested inside flashbacks. Metro Pictures Corporation acquired US distribution rights and released a heavily re-edited version in February 1922 under the title The Stroke of Midnight, altering the story's structure for American audiences.\n\nThe original silent print is public domain in the US: published in 1921, its 95-year copyright term expired January 1, 2017, and any URAA restoration (possible because Sweden's life-plus-70 term would have kept the film protected there as of January 1, 1996) carries the same expiry ceiling under 17 U.S.C. §104A. The practical trap for a creator is the score. Every significant distribution copy since 1995 carries a freshly commissioned soundtrack: Elena Kats-Chernin's score for the ZDF/Arte color-tinted restoration, Matti Bye's score on the Swedish release, and KTL's score on a 2008 UK DVD. Criterion Collection's 2011 US Blu-ray/DVD includes both the Bye and KTL scores, each separately protected. A raw print downloaded from Internet Archive is free to use; reproducing the audio from any modern restoration is not.",
+  "editorial": "The Phantom Carriage (Körkarlen) is a 1921 Swedish silent fantasy film produced by AB Svensk Filmindustri and directed by Victor Sjöström, who also stars as David Holm — a drunkard compelled on New Year's Eve to confront the ruin he has caused before assuming the duty of driving Death's carriage. Based on Selma Lagerlöf's 1912 novel Thy Soul Shall Bear Witness, the film used double-exposure photography to render its ghostly carriage and built its narrative through flashbacks nested inside flashbacks. Metro Pictures Corporation acquired US distribution rights and released a heavily re-edited version in February 1922 under the title The Stroke of Midnight, altering the story's structure for American audiences.\n\nThe original silent print is public domain in the US: published in 1921, its 75-year copyright term expired January 1, 1997, and any URAA restoration (possible because Sweden's life-plus-70 term would have kept the film protected there as of January 1, 1996) carries the same expiry ceiling under 17 U.S.C. §104A. The practical trap for a creator is the score. Every significant distribution copy since 1995 carries a freshly commissioned soundtrack: Elena Kats-Chernin's score for the ZDF/Arte color-tinted restoration, Matti Bye's score on the Swedish release, and KTL's score on a 2008 UK DVD. Criterion Collection's 2011 US Blu-ray/DVD includes both the Bye and KTL scores, each separately protected. A raw print downloaded from Internet Archive is free to use; reproducing the audio from any modern restoration is not.",
   "faq": [
     [
       "Can I use this film in a video or commercial project?",
@@ -103,7 +103,7 @@
     ],
     [
       "Does the URAA complicate the public domain status of this Swedish film?",
-      "Not as of 2026. Even if the URAA (effective January 1, 1996) restored US copyright in this Swedish production — because Sweden's life-plus-70 term kept the film protected there on that date — the restored term under 17 U.S.C. §104A runs only to the end of what the original US copyright would have been: 95 years from the 1921 publication date. That clock expired January 1, 2017."
+      "Not as of 2026. Even if the URAA (effective January 1, 1996) restored US copyright in this Swedish production — because Sweden's life-plus-70 term kept the film protected there on that date — the restored term under 17 U.S.C. §104A runs only to the end of what the original US copyright would have been: 75 years from the 1921 publication date. That clock expired January 1, 1997."
     ]
   ]
 }

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1920; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Published 1920; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1996."
         }
       ]
     },
@@ -60,6 +60,6 @@
       "label": "Internet Archive — Way Down East (1920), full film"
     }
   ],
-  "editorial": "Way Down East is a 1920 American silent melodrama produced and directed by D. W. Griffith and released through United Artists, starring Lillian Gish and Richard Barthelmess. Adapted from Lottie Blair Parker's stage play, it was one of the highest-grossing films of the silent era and is famous for its climactic ice-floe rescue. Published in 1920, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
+  "editorial": "Way Down East is a 1920 American silent melodrama produced and directed by D. W. Griffith and released through United Artists, starring Lillian Gish and Richard Barthelmess. Adapted from Lottie Blair Parker's stage play, it was one of the highest-grossing films of the silent era and is famous for its climactic ice-floe rescue. Published in 1920, the film print's 75-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
   "faq": []
 }

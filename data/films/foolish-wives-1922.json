@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published January 11, 1922 by Universal. Under the 95-year US term, works published in 1923 were the first to enter the public domain in 2019 (per Duke CSPD), so a 1922 publication has already expired and the print is public domain in the US.",
+          "note": "Published January 11, 1922 by Universal. Works published in 1923 first entered the public domain in 2019, under the longer maximum term that runs from 1923 onward (per Duke CSPD); a 1922 publication predates that cutoff and instead carried a flat 75-year maximum term, so it was already public domain by 1 January 1998 — well before 2019.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
           "url": "https://cspd.law.duke.edu//publicdomainday/2019/"
         }

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Registered March 25, 1918 by Famous Players-Lasky Corporation [LP12216]; all US works published through 1930 are PD as of 2026 — maximum 95-year term (with renewal) expired 2013",
+          "note": "Registered March 25, 1918 by Famous Players-Lasky Corporation [LP12216]; works published before 1923 carried a flat maximum US copyright term of 75 years (with renewal) — expired 1994",
           "source": "Silent Era Film Reference — The Blue Bird (1918)",
           "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
         },
@@ -51,7 +51,7 @@
         },
         {
           "type": "uraa_analysis",
-          "note": "Maeterlinck was Belgian (d. 1949); Belgian copyright runs to 2019 (life+70), meaning the 1908 play was still protected in Belgium in 1996 when URAA took effect and could notionally have been restored in the US. However, even a restored US copyright on a 1908 work would have carried a maximum 95-year term expiring 2003; the story is definitively PD in the US as of 2026 under any scenario",
+          "note": "Maeterlinck was Belgian (d. 1949); Belgian copyright runs to 2019 (life+70), so the 1908 play was still protected in Belgium when URAA took effect on January 1, 1996. That Belgian protection is beside the point, though: URAA restoration only revives whatever US term a foreign work would otherwise still have had on that date, and the maximum US term for a work first published in 1908 — 75 years under the pre-1978 rule — had already run out in 1984, twelve years before URAA existed. The play was therefore never eligible for restoration; the story is definitively PD in the US as of 2026 by ordinary term expiration",
           "source": "Silent Era Film Reference — The Blue Bird (1918)",
           "url": "https://silentera.com/PSFL/data/B/BlueBird1918.html"
         }
@@ -119,7 +119,7 @@
       "quality": "community"
     }
   ],
-  "editorial": "Maurice Tourneur's The Blue Bird was produced by Famous Players-Lasky Corporation at Fort Lee, New Jersey and released through Paramount on March 31, 1918. The film adapts Maurice Maeterlinck's Belgian fantasy play, following two children guided by a fairy through spirit realms in search of the Blue Bird of Happiness; production designer Ben Carré and cinematographer John van den Broek created the elaborate dream settings. Famous Players-Lasky registered the copyright on March 25, 1918 (LP12216). In 2004 the Library of Congress added the film to the National Film Registry as culturally and historically significant.\n\nThe 1918 print is in the US public domain — Famous Players-Lasky's copyright was never renewed (no entry in the 1945 or 1946 Catalog of Copyright Entries), and the maximum possible term of 95 years expired in 2013. The practical rights trap is the 1990 reconstruction by George Eastman Museum curators Paolo Cherchi Usai and Edward Stratmann: GEM holds the authoritative preservation materials (35mm nitrate positive, fine-grain negative, preservation positive), and MoMA also holds prints. Any copy traceable to those institutional holdings may carry GEM's or MoMA's institutional rights. Community copies on Archive.org are freely streamable, but a reuser who needs provenance certainty should confirm the specific print's source before publication.",
+  "editorial": "Maurice Tourneur's The Blue Bird was produced by Famous Players-Lasky Corporation at Fort Lee, New Jersey and released through Paramount on March 31, 1918. The film adapts Maurice Maeterlinck's Belgian fantasy play, following two children guided by a fairy through spirit realms in search of the Blue Bird of Happiness; production designer Ben Carré and cinematographer John van den Broek created the elaborate dream settings. Famous Players-Lasky registered the copyright on March 25, 1918 (LP12216). In 2004 the Library of Congress added the film to the National Film Registry as culturally and historically significant.\n\nThe 1918 print is in the US public domain — Famous Players-Lasky's copyright was never renewed (no entry in the 1945 or 1946 Catalog of Copyright Entries), and the maximum possible term of 75 years expired in 1994. The practical rights trap is the 1990 reconstruction by George Eastman Museum curators Paolo Cherchi Usai and Edward Stratmann: GEM holds the authoritative preservation materials (35mm nitrate positive, fine-grain negative, preservation positive), and MoMA also holds prints. Any copy traceable to those institutional holdings may carry GEM's or MoMA's institutional rights. Community copies on Archive.org are freely streamable, but a reuser who needs provenance certainty should confirm the specific print's source before publication.",
   "faq": [
     [
       "Is the footage of The Blue Bird (1918) free to use?",

@@ -740,6 +740,7 @@ function recording(y){
   if(y<=1946) return (y+100<Y)?'<strong>Public domain in the US.</strong> Recordings published 1923-1946 are protected for 100 years; this one was freed on 1 January '+(y+101)+'.':'<strong>Protected</strong> until 1 January '+(y+101)+' (recordings published 1923-1946 get 100 years).';
   if(y<=1956) return (y+110<Y)?'<strong>Public domain in the US</strong> (110-year term for 1947-1956 recordings).':'<strong>Protected</strong> until 1 January '+(y+111)+' (recordings published 1947-1956 get 110 years).';
   if(y<1972) return '<strong>Protected</strong> until 15 February 2067: all recordings from 1957 to 15 February 1972 stay protected until then.';
+  if(y===1972) return '<strong>Protected.</strong> If it was recorded before 15 February 1972 it is protected until 15 February 2067; if later in 1972, it has federal copyright (95 years from publication).';
   return '<strong>Protected.</strong> Recordings from 1972 on have federal copyright, generally 95 years from publication or longer.';
 }
 var free=Y-96;  // works published in or before this year are public domain by age
@@ -749,13 +750,15 @@ function calc(){
   if(!y||y<1800||y>Y){$('cout').innerHTML='<p>Enter the year it was first published.</p>';return;}
   if(kind==='recording'){ $('crw').hidden=true; $('cnw').hidden=true;
     $('cout').innerHTML='<p>'+recording(y)+'</p><p class="tool-note">This is the recording only. The song itself (music and lyrics) has its own term: choose "Song" to check it. US only; not legal advice.</p>'+dbLine($('ct').value,y); return; }
-  $('crw').hidden=!(y>free&&y<=1963); $('cnw').hidden=!(y>=1964&&y<=1977);
+  // 2026-11-21 (Crucible): a missing notice freed a work at publication in ANY year up to 1977, renewal or not
+  $('crw').hidden=!(y>free&&y<=1963); $('cnw').hidden=!(y>free&&y<=1977);
   var until='protected until 1 January '+(y+96);
   if(y<=free) out='<strong>Public domain in the US.</strong> Works published in '+free+' or earlier have finished their copyright term.';
   else if(foreign&&y<=1977) out='<strong>Probably still protected in the US.</strong> Most foreign works from these years had their US copyright restored on 1 January 1996 (URAA), even without a renewal or notice. If so, it is '+until+'.';
   else if(y<=1963){
-    if(r==='no') out='<strong>Public domain in the US</strong>, if the copyright was really not renewed: it lapsed at the end of '+(y+28)+'.';
-    else if(r==='yes') out='<strong>Protected.</strong> A renewed work from '+y+' is '+until+'.';
+    if(n==='no') out='<strong>Public domain in the US</strong>, if it was really published without a copyright notice: it lost protection on publication.';
+    else if(r==='no') out='<strong>Public domain in the US</strong>, if the copyright was really not renewed: it lapsed at the end of '+(y+28)+'.';
+    else if(r==='yes') out='<strong>Protected</strong>, if it carried a copyright notice. A renewed work from '+y+' is '+until+'.';
     else out='<strong>It depends on the renewal.</strong> Not renewed: public domain since '+(y+29)+'. Renewed: '+until+'. Use the renewal record finder below.';
   } else if(y<=1977){
     if(n==='no') out='<strong>Public domain in the US</strong>, if it was published without a valid copyright notice.';
@@ -787,13 +790,25 @@ function pick(){
   var f=w[Math.floor(Math.random()*w.length)];
   $('pout').innerHTML='<h3>'+esc(f.t)+' ('+f.y+')</h3><div class="embed"><iframe loading="lazy" src="https://archive.org/embed/'+encodeURIComponent(f.a)+'" title="'+esc(f.t)+'" allowfullscreen></iframe></div><p><a href="'+BASE+'film/'+f.id+'/">Why it is public domain, with the evidence</a></p>';
 }
+// which US recordings become free on 1 January x (Music Modernization Act bands)
+function recYear(x){
+  if(x<2022) return 'no US recordings were federally public domain before 1 January 2022.';
+  if(x===2022) return 'on 1 January 2022 all US recordings published before 1923 became free.';
+  if(x===2023) return 'no new recordings became free on 1 January 2023.';
+  if(x<=2047) return 'on 1 January '+x+', US recordings published in '+(x-101)+' become free.';
+  if(x<=2057) return 'no new recordings become free on 1 January '+x+' (recordings from 1947-1956 get 110 years).';
+  if(x<=2067) return 'on 1 January '+x+', US recordings published in '+(x-111)+' become free; the rest fixed before 15 February 1972 follow on 15 February 2067.';
+  return 'recordings from after 15 February 1972 follow the normal federal term.';
+}
 // 4. free in year X
 function year(){
-  var x=parseInt($('xy').value,10); if(!x||x<1923){$('xout').innerHTML='<p>Enter a year from 1923 on.</p>';return;}
-  var c=x-96, list=FILMS.filter(function(f){return f.y===c;});
-  var h='<p>On 1 January '+x+', US works published in <strong>'+c+'</strong> '+(x<=Y?'entered':'enter')+' the public domain.</p>';
+  var x=parseInt($('xy').value,10); if(!x||x<1978){$('xout').innerHTML='<p>Enter a year from 1978 on. (Before 1978 the term was 28 or 56 years, so it depended on renewal.)</p>';return;}
+  // 2026-11-21 (Crucible): 1978-1998 -> renewed works from x-76 (75-year term); 1999-2018 -> nothing new (1998 term extension); 2019 on -> x-96
+  if(x>=1999&&x<=2018){$('xout').innerHTML='<p>Nothing new entered the US public domain on 1 January '+x+'. The 1998 term extension added 20 years, so the next class (works from 1923) only became free on 1 January 2019.</p>';return;}
+  var c=x>=2019?x-96:x-76, list=FILMS.filter(function(f){return f.y===c;});
+  var h='<p>On 1 January '+x+', US works published in <strong>'+c+'</strong> '+(x<=Y?'entered':'enter')+' the public domain'+(x<2019?' (the ones still protected that long; most older works had already lapsed)':'')+'.</p>';
   h+=list.length?'<p>Films and songs from '+c+' we have checked:</p><ul>'+list.map(function(f){return '<li><a href="'+href(f)+'">'+esc(f.t)+'</a>'+(f.k==='song'?' (song)':'')+'</li>';}).join('')+'</ul>':'<p>We have no films or songs from '+c+' in our database yet. <a href="'+BASE+'suggest/">Suggest one</a>.</p>';
-  h+='<p class="tool-note">Sound recordings follow a different clock: on 1 January '+x+', US recordings published in '+(x-101)+' become free.</p>';
+  h+='<p class="tool-note">Sound recordings follow a different clock: '+recYear(x)+'</p>';
   $('xout').innerHTML=h;
 }
 fetch(BASE+'assets/tools.json').then(function(r){return r.json();}).then(function(d){FILMS=d;}).catch(function(){});
@@ -846,7 +861,7 @@ year, and we open the right catalog volumes to search.</p>
 
 <section class="tool" id="by-year"><h2>4. What becomes public domain in a given year?</h2>
 <p>Pick a year to see which works enter the US public domain on 1 January, and the films from that class we cover.</p>
-<div class="toolform"><label>Year <input id="xy" type="number" min="1923" max="2200" inputmode="numeric"></label>
+<div class="toolform"><label>Year <input id="xy" type="number" min="1978" max="2200" inputmode="numeric"></label>
 <button id="xgo" type="button">Show</button></div>
 <div id="xout" class="toolout" aria-live="polite"></div></section>
 

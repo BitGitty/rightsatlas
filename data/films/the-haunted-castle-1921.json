@@ -11,13 +11,13 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published April 7, 1921. Applying the 95-year maximum US copyright term (28-year initial + maximum renewal, extended by the Sonny Bono Act), the copyright expired January 1, 2017. Wikimedia Commons explicitly documents the PD basis as 'published (or registered with the U.S. Copyright Office) before January 1, 1931'.",
+          "note": "Published April 7, 1921. Applying the 75-year maximum US copyright term (28-year first term + 47-year renewal under the pre-1978 rule), the copyright expired January 1, 1997. Wikimedia Commons explicitly documents the PD basis as 'published (or registered with the U.S. Copyright Office) before January 1, 1931'.",
           "source": "Wikimedia Commons — File:The Haunted Castle (1921) by F. W. Murnau.webm",
           "url": "https://commons.wikimedia.org/wiki/File:The_Haunted_Castle_(1921)_by_F._W._Murnau.webm"
         },
         {
           "type": "uraa_analysis",
-          "note": "German production (Uco-Film / Decla-Bioscop, Weimar Republic). Director F.W. Murnau died 1931; German copyright (life+70) ran until 2001, meaning the work was still under German copyright on January 1, 1996 (the URAA eligibility date). Any URAA restoration of the US copyright would have set the term at 95 years from publication (1921 + 95 = 2016), so even under maximum URAA restoration that term expired January 1, 2017. As of September 2026 the print is unambiguously in the US public domain.",
+          "note": "German production (Uco-Film / Decla-Bioscop, Weimar Republic). Director F.W. Murnau died 1931; German copyright (life+70) ran until 2001, meaning the work was still under German copyright on January 1, 1996 (the URAA eligibility date). Any URAA restoration of the US copyright would have set the term at 75 years from publication (1921 + 75 = 1996), so even under maximum URAA restoration that term expired January 1, 1997. As of September 2026 the print is unambiguously in the US public domain.",
           "source": "Wikimedia Commons — File:The Haunted Castle (1921) by F. W. Murnau.webm (PD-1996 + life+70 analysis)",
           "url": "https://commons.wikimedia.org/wiki/File:The_Haunted_Castle_(1921)_by_F._W._Murnau.webm"
         }
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Screenplay by Carl Mayer, adapted from a novel by Rudolf Stratz (1864–1936) serialized in Berliner Illustrirte Zeitung circa 1920–1921. Stratz died 1936; German copyright (life+70) expired 2006. As a German work published circa 1921, maximum US copyright term of 95 years from publication expired by 2017. The underlying source story is in the US public domain.",
+          "note": "Screenplay by Carl Mayer, adapted from a novel by Rudolf Stratz (1864–1936) serialized in Berliner Illustrirte Zeitung circa 1920–1921. Stratz died 1936; German copyright (life+70) expired 2006. As a German work published circa 1921, maximum US copyright term of 75 years from publication expired by 1997. The underlying source story is in the US public domain.",
           "source": "Wikimedia Commons — File:The Haunted Castle (1921) by F. W. Murnau.webm (PD statement covers the work and its authored basis as a pre-1931 publication)",
           "url": "https://commons.wikimedia.org/wiki/File:The_Haunted_Castle_(1921)_by_F._W._Murnau.webm"
         }
@@ -105,7 +105,7 @@
   "faq": [
     [
       "Can I use footage from this film in a video, documentary, or commercial without licensing it?",
-      "Yes, for the footage. The 1921 film's US copyright expired no later than January 1, 2017 (95-year maximum term from 1921). The Archive.org copy (silent-the-haunted-castle, uploaded by Archive staff) can be used freely for the picture. If your source copy includes a newly composed musical score — as the Kino Lorber Blu-ray does — that score is a separate protected work; mute it or substitute your own before publishing."
+      "Yes, for the footage. The 1921 film's US copyright expired no later than January 1, 1997 (75-year maximum term from 1921). The Archive.org copy (silent-the-haunted-castle, uploaded by Archive staff) can be used freely for the picture. If your source copy includes a newly composed musical score — as the Kino Lorber Blu-ray does — that score is a separate protected work; mute it or substitute your own before publishing."
     ],
     [
       "Does the Friedrich Wilhelm Murnau Foundation or Kino Lorber own rights to this film?",

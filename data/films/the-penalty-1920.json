@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1920. Duke CSPD explains that no published work entered the US public domain in 2016, and that the 95-year term applies to works published from 1923 onward, with 1923 works first entering on January 1, 2019. A 1920 work predates that range and was already in the public domain, so the film print is public domain in the US.",
+          "note": "Published 1920. Duke CSPD explains that no published work entered the US public domain in 2016, and that the longer modern term applies only to works published from 1923 onward, with 1923 works first entering on January 1, 2019. A 1920 work predates that range: it instead carried a flat maximum US copyright term of 75 years and was already in the public domain by 1 January 1996, so the film print is public domain in the US.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2016",
           "url": "https://cspd.law.duke.edu/publicdomainday/2016/"
         }
@@ -58,7 +58,7 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "The Penalty is a 1920 silent crime melodrama directed by Wallace Worsley for Goldwyn Pictures. It stars Lon Chaney as Blizzard, a legless San Francisco crime boss bent on revenge against the surgeon whose error cost him his legs. It is a good source of period footage and one of the films that established Chaney before The Hunchback of Notre Dame and The Phantom of the Opera. The film was based on Gouverneur Morris's novel, which Project Gutenberg lists as public domain in the USA.\n\nThe film print is in the US public domain because a 1920 publication predates the 1923 start of the 95-year term. The rights trap is the soundtrack. Any score on a modern copy is a separate work or recording, so check the specific copy before you reuse its audio.",
+  "editorial": "The Penalty is a 1920 silent crime melodrama directed by Wallace Worsley for Goldwyn Pictures. It stars Lon Chaney as Blizzard, a legless San Francisco crime boss bent on revenge against the surgeon whose error cost him his legs. It is a good source of period footage and one of the films that established Chaney before The Hunchback of Notre Dame and The Phantom of the Opera. The film was based on Gouverneur Morris's novel, which Project Gutenberg lists as public domain in the USA.\n\nThe film print is in the US public domain because a 1920 publication predates 1923: it carried the earlier flat maximum term of 75 years instead of the longer term that began with 1923 publications. The rights trap is the soundtrack. Any score on a modern copy is a separate work or recording, so check the specific copy before you reuse its audio.",
   "faq": [
     [
       "Can I reuse footage from The Penalty?",
