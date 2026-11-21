@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive"><title>RightsAtlas Studio</title>
+<style>
+:root{--ink:#14181f;--muted:#5d6672;--line:#dfe3e8;--bg:#f6f7f9;--card:#fff;--acc:#0f6b5c;--warn:#a5520b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:16px}
+h1{font-size:22px;margin:4px 0 2px}h2{font-size:16px;margin:0 0 10px}.sub{color:var(--muted);margin:0 0 14px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 16px}.bar button{border:1px solid var(--line);background:var(--card);padding:6px 12px;border-radius:999px;cursor:pointer}
+.bar button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:16px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}.kpi b{display:block;font-size:26px}.kpi span{color:var(--muted);font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14px}td,th{padding:5px 6px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.03em}td.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.barcell{position:relative}.barcell i{position:absolute;left:0;top:3px;bottom:3px;background:#d6ece8;border-radius:3px;z-index:0}.barcell span{position:relative;z-index:1}
+svg text{font-size:11px;fill:var(--muted)}.note{color:var(--muted);font-size:13px}.err{color:var(--warn);font-weight:600}
+a{color:var(--acc)}
+</style></head><body><div class="wrap">
+<h1>RightsAtlas Studio</h1>
+<p class="sub">Your website's numbers, like YouTube Studio. "Real readers" = a real browser that stayed 15 seconds or scrolled. Bots and our own test runs are counted apart.</p>
+<div class="bar" id="range"><button data-d="1">24 hours</button><button data-d="7" class="on">7 days</button><button data-d="28">28 days</button><button data-d="90">90 days</button></div>
+<div id="out"><p class="note">Loading…</p></div>
+</div>
+<script>
+(function(){
+  var K="sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b", U="https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/studio_data";
+  var key=decodeURIComponent((location.hash||"").replace(/^#/,""));
+  var out=document.getElementById("out");
+  function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+  function num(n){return (n||0).toLocaleString();}
+  function table(rows, cols){ if(!rows||!rows.length) return '<p class="note">No data yet.</p>';
+    var max=Math.max.apply(null, rows.map(function(r){return r[cols[1].k]||0;}))||1;
+    return '<table><tr>'+cols.map(function(c){return '<th>'+c.h+'</th>';}).join('')+'</tr>'+rows.map(function(r){
+      return '<tr>'+cols.map(function(c,i){ var v=r[c.k];
+        if(i===1) return '<td class="n barcell"><i style="width:'+Math.round(100*(v||0)/max)+'%"></i><span>'+num(v)+'</span></td>';
+        return c.n?'<td class="n">'+(v==null?'—':num(v))+'</td>':'<td>'+(c.link?'<a href="/'+esc(String(v).replace(/^\//,''))+'" target="_blank">'+esc(v)+'</a>':esc(v))+'</td>'; }).join('')+'</tr>'; }).join('')+'</table>'; }
+  function chart(days){ if(!days||!days.length) return '<p class="note">No data yet.</p>';
+    var W=640,H=180,P=28, max=Math.max.apply(null,days.map(function(d){return Math.max(d.human||0,d.old_unknown||0,d.bots||0);}))||1;
+    var x=function(i){return P+i*(W-2*P)/Math.max(days.length-1,1);}, y=function(v){return H-P-(v/max)*(H-2*P);};
+    function line(k,c){return '<polyline fill="none" stroke="'+c+'" stroke-width="2" points="'+days.map(function(d,i){return x(i)+','+y(d[k]||0);}).join(' ')+'"/>';}
+    return '<svg viewBox="0 0 '+W+' '+H+'" width="100%" role="img" aria-label="views per day">'+
+      '<line x1="'+P+'" y1="'+(H-P)+'" x2="'+(W-P)+'" y2="'+(H-P)+'" stroke="#dfe3e8"/>'+
+      line('old_unknown','#c9ced6')+line('bots','#e6a15a')+line('human','#7fb8ad')+line('readers','#0f6b5c')+
+      '<text x="'+P+'" y="'+(H-8)+'">'+esc(days[0].day)+'</text><text x="'+(W-P)+'" y="'+(H-8)+'" text-anchor="end">'+esc(days[days.length-1].day)+'</text>'+
+      '<text x="'+P+'" y="14">max '+num(max)+' / day</text></svg>'+
+      '<p class="note"><b style="color:#0f6b5c">■</b> real readers &nbsp; <b style="color:#7fb8ad">■</b> human views &nbsp; <b style="color:#e6a15a">■</b> bots / tests &nbsp; <b style="color:#c9ced6">■</b> older views (before 21 Nov, not sorted)</p>'; }
+  function load(d){
+    if(!key){ out.innerHTML='<p class="err">This page needs your private link (with the key after #). Ask Claude for it.</p>'; return; }
+    out.innerHTML='<p class="note">Loading…</p>';
+    fetch(U,{method:"POST",headers:{"apikey":K,"Authorization":"Bearer "+K,"Content-Type":"application/json"},body:JSON.stringify({p_site:"rightsatlas",p_key:key,p_days:d})})
+    .then(function(r){return r.json();}).then(function(x){
+      if(!x||!x.totals){ out.innerHTML='<p class="err">Wrong or missing key.</p>'; return; }
+      var t=x.totals;
+      out.innerHTML='<div class="kpis">'+
+        '<div class="kpi"><b>'+num(t.readers)+'</b><span>real readers</span></div>'+
+        '<div class="kpi"><b>'+num(t.human)+'</b><span>human views</span></div>'+
+        '<div class="kpi"><b>'+(t.avg_secs==null?'—':num(t.avg_secs)+' s')+'</b><span>avg time on page</span></div>'+
+        '<div class="kpi"><b>'+num(t.returning)+'</b><span>returning-visitor views</span></div>'+
+        '<div class="kpi"><b>'+num(t.bots)+'</b><span>bots + our tests</span></div>'+
+        '<div class="kpi"><b>'+num(t.unknown_old)+'</b><span>older views (not sorted)</span></div></div>'+
+        '<div class="card" style="margin-bottom:14px"><h2>Per day</h2>'+chart(x.by_day)+'</div>'+
+        '<div class="grid">'+
+        '<div class="card"><h2>Top pages (what people read)</h2>'+table(x.top_pages,[{h:"Page",k:"path",link:1},{h:"Views",k:"views",n:1},{h:"Readers",k:"readers",n:1},{h:"Avg s",k:"avg_secs",n:1}])+'</div>'+
+        '<div class="card"><h2>Where they come from</h2>'+table(x.sources,[{h:"Source",k:"src"},{h:"Views",k:"views",n:1},{h:"Readers",k:"readers",n:1}])+'</div>'+
+        '<div class="card"><h2>What they search on our site</h2>'+table(x.searches,[{h:"Search words",k:"label"},{h:"Times",k:"n",n:1}])+'<p class="note">Words with no matching page = content to make next.</p></div>'+
+        '<div class="card"><h2>Plays (films and songs)</h2>'+table(x.plays,[{h:"Type",k:"kind"},{h:"Times",k:"n",n:1},{h:"Page",k:"path",link:1}])+'</div>'+
+        '<div class="card"><h2>Device</h2>'+table(x.devices,[{h:"Device",k:"device"},{h:"Views",k:"n",n:1}])+'</div>'+
+        '<div class="card"><h2>Region (browser time zone)</h2>'+table(x.regions,[{h:"Time zone",k:"tz"},{h:"Views",k:"n",n:1}])+'</div>'+
+        '</div><p class="note" style="margin-top:14px">Live data, last '+x.days+' day(s). No cookies, no names, no IP addresses are stored.</p>';
+    }).catch(function(){ out.innerHTML='<p class="err">Could not load the numbers. Try again.</p>'; });
+  }
+  var bar=document.getElementById("range");
+  bar.addEventListener("click",function(e){ var b=e.target.closest("button"); if(!b) return;
+    [].forEach.call(bar.children,function(c){c.classList.toggle("on",c===b);}); load(+b.getAttribute("data-d")); });
+  load(7);
+})();
+</script></body></html>

@@ -169,7 +169,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
     <a href="{BASE}blog/feed.xml">RSS</a>
   </div>
 </footer>
-<script>/* first-party analytics v2 (2026-11-21): human/bot/automation, source tag, real reader = 15 s or scroll. No cookies, no identity. */(function(){{try{{var K="sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b",U="https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/",H={{"apikey":K,"Authorization":"Bearer "+K,"Content-Type":"application/json"}};var ua=navigator.userAgent||"",kind=navigator.webdriver?"automation":(/bot|crawl|spider|slurp|headless|preview|lighthouse|facebookexternalhit|embedly|python|curl/i.test(ua)?"bot":"human");var q=new URLSearchParams(location.search),utm=q.get("utm_source")||q.get("ref")||null,v=null;try{{v=sessionStorage.getItem("ra_v");if(!v){{v=Math.random().toString(36).slice(2,12);sessionStorage.setItem("ra_v",v)}}}}catch(e){{}}fetch(U+"track_view2",{{method:"POST",headers:H,body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null,p_kind:kind,p_utm:utm,p_visit:v}}),keepalive:true}}).then(function(r){{return r.json()}}).then(function(id){{if(!id||!v)return;var done=false;function eng(){{if(done)return;done=true;fetch(U+"track_engaged",{{method:"POST",headers:H,body:JSON.stringify({{p_id:id,p_visit:v}}),keepalive:true}}).catch(function(){{}})}}setTimeout(function(){{if(document.visibilityState==="visible")eng()}},15000);addEventListener("scroll",function(){{if(scrollY>300)eng()}},{{passive:true}})}}).catch(function(){{}})}}catch(e){{}}}})();</script>
+<script src="{BASE}assets/track.js" defer></script>
 </body>
 </html>"""
 
@@ -1318,7 +1318,12 @@ def build():
     # plain-text twin: Search Console has shown the XML one as "Couldn't fetch" since July; a new
     # URL in the simplest format Google accepts forces a fresh fetch
     (OUT / "sitemap.txt").write_text("".join(f"{HOST}{u}\n" for u in urls), encoding="utf-8")
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {HOST}{BASE}sitemap.xml\n", encoding="utf-8")
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /studio/\nSitemap: {HOST}{BASE}sitemap.xml\n",
+                                    encoding="utf-8")
+    # 11-21 owner: website "studio" (like YouTube Studio). Static shell, no data inside; numbers come from the
+    # database only with the owner's key (in the link after #). Not in the sitemap, noindex, disallowed above.
+    (OUT / "studio").mkdir(parents=True, exist_ok=True)
+    shutil.copy(ROOT / "studio" / "index.html", OUT / "studio" / "index.html")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built {len(films)} dossiers -> {OUT} (cutoff year: {CUTOFF})")
 
