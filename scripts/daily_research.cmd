@@ -25,6 +25,8 @@ REM folder). While hand edits are pending, skip this run; the daily status flags
 git status --porcelain data/films data/pending | findstr . >nul && (echo hand edits pending in data/films or data/pending - run skipped >> %LOG% & exit /b 0)
 git pull --rebase --autostash -q >> %LOG% 2>&1 || (echo pull failed >> %LOG% & exit /b 1)
 python scripts\research_one.py %MODE% >> %LOG% 2>&1
+REM 2026-11-21 owner: commit times must not show his time zone in this PUBLIC repo -> git runs in UTC
+set TZ=UTC
 git add data/pending data/films data/promote_log.jsonl data/research_runs.jsonl
 git diff --cached --quiet && (echo nothing to commit >> %LOG% & exit /b 0)
 git commit -q -m "%MSG%" >> %LOG% 2>&1 || (echo commit failed >> %LOG% & exit /b 1)

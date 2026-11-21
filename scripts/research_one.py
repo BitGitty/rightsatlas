@@ -344,10 +344,16 @@ def finish(cand: dict, verify=True):
     return cand, reasons
 
 
+def scrub(text: str) -> str:
+    """research_runs.jsonl is PUBLIC: drop time zones ("(Asia/...)") and local user paths (owner 2026-11-21)."""
+    text = re.sub(r"\((?:Africa|America|Asia|Atlantic|Australia|Europe|Indian|Pacific|Etc)/[A-Za-z_+\-]+\)", "(tz)", text)
+    return re.sub(r"[A-Za-z]:(?:\\\\|\\|/)+Users(?:\\\\|\\|/)+[^\\/'\"]+", "~", text)
+
+
 def log_run(rid: str, result: str, reasons: list) -> None:
     with RUNS.open("a", encoding="utf-8") as f:
         f.write(json.dumps({"date": date.today().isoformat(), "id": rid, "result": result,
-                            "reasons": reasons}, ensure_ascii=False) + "\n")
+                            "reasons": [scrub(str(r)) for r in reasons]}, ensure_ascii=False) + "\n")
 
 
 SETTLED = ("verified_pd", "not_pd", "partially_protected", "likely_restored")

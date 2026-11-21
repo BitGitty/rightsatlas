@@ -2,7 +2,7 @@ name: watchdog
 # Independent of the owner's PC: alerts on Telegram if research or publishing stopped.
 on:
   schedule:
-    - cron: "0 5 * * *"   # 13:00 Singapore, after the 06:10 research run and the nightly release
+    - cron: "0 5 * * *"   # 05:00 UTC, after the morning research run and the nightly release
   workflow_dispatch:
 jobs:
   check:
