@@ -1,0 +1,98 @@
+{
+  "id": "the-phantom-planet-1961",
+  "title": "The Phantom Planet",
+  "year": 1961,
+  "country": "US",
+  "last_verified": "2026-11-21",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released in the US on December 13, 1961 by American International Pictures (production company Four Crown Productions). The film is widely described as public domain, but I could not confirm a missing notice or a missing renewal from a primary record. The renewal would fall due 1989, after the Catalog of Copyright Entries volumes on archive.org end (they cover through December 1977). The Copyright Office public catalog is a script-driven search and I could not run it, so no renewal-absence search result is cited.",
+          "source": "Wikipedia: The Phantom Planet",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_Planet"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is credited to Leith Stevens. It is a sound film, so the recorded track would normally share the print's copyright status. Because the print's status is unconfirmed, the score's status is unconfirmed too.",
+          "source": "Wikipedia: The Phantom Planet",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_Planet"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credited as an original story by Fred Gebhardt, with a screenplay by William Telaak, Fred De Gorter and Gebhardt. I found no earlier source work, so the story's term follows the film's own copyright, which is unconfirmed.",
+          "source": "Wikipedia: The Phantom Planet",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_Planet"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Later releases add material that can carry its own protection. These include a colorized version from Legend Films and a widescreen version remastered from a 35 mm print, released on BD-R on December 10, 2017 by Snappy Video, a Thunderbean Animation imprint. A 3D Blu-ray appeared May 1, 2025. A faithful remaster adds no copyright to the underlying film, but the colorization and any new 3D conversion work can be protected.",
+          "source": "Wikipedia: The Phantom Planet",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_Planet"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1988,
+      1989,
+      1990
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “The Phantom Planet” (renewals ~1988, 1989, 1990)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Phantom+Planet"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-phantom-planet-full-movie-public-domain-1",
+      "label": "The Phantom Planet (1961), Internet Archive, uploaded by Fred Gebhardt Productions",
+      "quality": "full feature"
+    }
+  ],
+  "editorial": "The Phantom Planet is a 1961 science-fiction feature produced by Fred Gebhardt through Four Crown Productions and distributed in the US by American International Pictures. William Marshall directed, and Leith Stevens composed the score. It is a low-budget space adventure, and it later became a Mystery Science Theater 3000 episode. A creator would want it for its pulp visuals and its long history as a bargain-bin staple.\n\nThe rights trap is that popular \"public domain\" labelling is not a record. I found no primary evidence of a missing notice or a missing renewal. Any renewal would have been due in 1989, in the Copyright Office's online records rather than the printed catalogs on archive.org. Check that catalog yourself before relying on the print. Separately, the Legend Films colorization, the 2017 Thunderbean widescreen release and the 2025 3D Blu-ray may carry their own protection. Prefer the plain black-and-white print.",
+  "faq": [
+    [
+      "Is The Phantom Planet safe to reuse?",
+      "Not confirmed. It is widely sold as public domain, but I could not confirm a missing notice or renewal from a primary record. Search the Copyright Office public catalog for a 1989 renewal before reuse."
+    ],
+    [
+      "Can I use the colorized or restored versions?",
+      "Not by default. The Legend Films colorization and any new 3D conversion add work that can be protected. Use an uncolored print, and do not assume a faithful remaster adds anything new."
+    ]
+  ]
+}
