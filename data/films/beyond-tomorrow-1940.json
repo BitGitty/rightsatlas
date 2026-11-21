@@ -3,7 +3,7 @@
   "title": "Beyond Tomorrow",
   "year": 1940,
   "country": "US",
-  "last_verified": "2026-11-21",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a 1940 US film. It is free only if its notice was missing or its copyright was not renewed. I could not confirm either from a primary record. A search of the Stanford renewal database for \"Beyond Tomorrow\" returned no results, but a search result is not a primary record. The 1967, 1968 and 1969 Catalog of Copyright Entries volumes are very large, and I could read only parts of them. I never reached or fully searched their renewal sections, so this is not a confirmed absence. The Internet Archive uploader says they own no rights to the movie and describe the upload as public domain. That is the uploader's claim, not a rights determination.",
+          "note": "This is a 1940 US film distributed by RKO Radio Pictures. It is free in the US only if its notice was missing or its copyright was not renewed. I could not confirm either from a primary record. The Stanford renewal database could not be read in this session because its search results load by script, so I have no result from it. I did not read the 1967, 1968 or 1969 Catalog of Copyright Entries renewal sections. This is not a confirmed absence of renewal. The Internet Archive description calls the item a family movie and says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. It makes no rights statement that I could verify.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -22,8 +22,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a sound film, so the recorded track normally shares the film's own copyright status. That status is undetermined for the same reason as the print. I found no separate music-copyright record.",
-          "source": "Internet Archive item page",
+          "note": "This is a sound film, so the recorded track normally shares the film's own copyright status, which is undetermined for the same reason as the print. The Internet Archive description credits the song 'It's Raining Dreams' to Harold Spina and Charles Newman. I did not check whether that song was registered or renewed separately.",
+          "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
       ]
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive metadata says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. It also says Legend Films produced a colorized version in 2004, released by 20th Century Fox as Beyond Christmas. A faithful black-and-white copy adds no new US copyright (Bridgeman v. Corel). The colorization and any added material can carry their own protection.",
+          "note": "The Internet Archive description says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. It also says Legend Films produced a colorized version in 2004, released by 20th Century Fox as Beyond Christmas. A faithful black-and-white copy adds no new US copyright (Bridgeman v. Corel). The colorization and any added material can carry their own protection.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -92,11 +92,11 @@
       "quality": "MP4"
     }
   ],
-  "editorial": "Beyond Tomorrow is a 1940 black-and-white US fantasy feature directed by A. Edward Sutherland and produced by the cinematographer Lee Garmes. Its plot has three elderly industrialists die in a plane crash and return as ghosts to reunite a young couple. The Internet Archive metadata credits the original story to Mildred Cram and Adele Comandini. The archive copy runs about 84 minutes, and its title carries the word \"CHRISTMAS\", which suits seasonal programming.\n\nI could not confirm the print's status from a primary record. A 1940 film is free in the US only if its notice was missing or its copyright was not renewed. I could not fully read the renewal sections of the 1967 to 1969 catalogs. The print, score, story and trademark layers therefore stay undetermined. The rights trap is the Internet Archive upload itself. The uploader says they own no rights and calls it public domain, which is not a rights check. Check the renewal catalogs before reusing the film. Also avoid the colorized 2004 release, Beyond Christmas, which can carry its own protection.",
+  "editorial": "Beyond Tomorrow, also released as And So Goodbye, is a 1940 black-and-white US fantasy feature distributed by RKO Radio Pictures. A. Edward Sutherland directed it, and the cinematographer Lee Garmes produced it. Three elderly industrialists die in a plane crash and return as ghosts to reunite a young couple. The cast includes Charles Winninger, Maria Ouspenskaya, C. Aubrey Smith, Harry Carey, Richard Carlson and Jean Parker. The plot runs through the Christmas season, which suits seasonal programming. The archive copy runs about 84 minutes.\n\nI could not confirm the print's status from a primary record. A 1940 film is free in the US only if its notice was missing or its copyright was not renewed, and I verified neither. The print, score, story and trademark layers therefore stay undetermined. The rights trap is the renewal question itself. A copy sitting on the Internet Archive does not settle it. Check the 1967 to 1969 renewal catalogs before reusing the film. Also avoid the 2004 colorized release by Legend Films, Beyond Christmas, which can carry its own protection.",
   "faq": [
     [
       "Is Beyond Tomorrow (1940) free to use?",
-      "Not confirmed. It is a 1940 film, so it is free only if its notice was missing or its copyright was not renewed. I could not verify either from a primary record. Check the 1967-1969 renewal catalogs using the links in the dossier. The uploader's statement on the Internet Archive is not a rights determination."
+      "Not confirmed. It is a 1940 film, so it is free only if its notice was missing or its copyright was not renewed. I could not verify either from a primary record. Check the 1967-1969 renewal catalogs using the links in the dossier before reusing it."
     ],
     [
       "Does the story have a separate copyright?",
