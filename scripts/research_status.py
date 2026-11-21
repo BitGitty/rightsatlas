@@ -142,7 +142,22 @@ def traffic():
     except Exception:
         return None
     trend = f"{(week - prev) * 100 // prev:+d}%" if prev else "new"
-    return f"Traffic: {day} views today · {week} this week ({trend} vs last week) · {search} from Google/Bing"
+    line = f"Traffic: {day} views today · {week} this week ({trend} vs last week) · {search} from Google/Bing"
+    # v2 (11-21 owner: "understand the views with no source"): real readers = a human browser that stayed 15 s or
+    # scrolled; bots and automated browsers (incl. our own tests) are counted apart; source = our ?utm_source tag
+    sql2 = ("select sum(case when kind='human' and engaged then 1 else 0 end), sum(case when kind='human' then 1 else 0 end), "
+            "sum(case when kind in ('bot','automation') then 1 else 0 end), "
+            "coalesce(string_agg(distinct utm, ','), '') from pageviews where site='rightsatlas' "
+            "and ts > now() - interval '1 day' and kind is not null")
+    try:
+        out = subprocess.run([sys.executable, "D:/roomkaki/backend/run_sql.py", "-c", sql2], capture_output=True,
+                             text=True, encoding="utf-8", errors="replace", timeout=60).stdout.splitlines()
+        readers, humans, robots, tags = (out[2].split(" | ") + ["", "", "", ""])[:4]
+        line += (f"\nLast 24 h: {readers or 0} real readers (of {humans or 0} human views) · {robots or 0} bot/test views"
+                 + (f" · tagged sources: {tags}" if tags.strip() else ""))
+    except Exception:
+        pass
+    return line
 
 
 SHORTS = Path("D:/viral-shorts-factory/extras/rightsatlas_shorts")

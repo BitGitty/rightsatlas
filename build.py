@@ -169,7 +169,7 @@ def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="s
     <a href="{BASE}blog/feed.xml">RSS</a>
   </div>
 </footer>
-<script>/* first-party analytics */(function(){{try{{fetch("https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/track_view",{{method:"POST",headers:{{"apikey":"sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Authorization":"Bearer sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b","Content-Type":"application/json"}},body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null}}),keepalive:true}}).catch(function(){{}})}}catch(e){{}}}})();</script>
+<script>/* first-party analytics v2 (2026-11-21): human/bot/automation, source tag, real reader = 15 s or scroll. No cookies, no identity. */(function(){{try{{var K="sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b",U="https://uumiwuvbxzmtxuwmutis.supabase.co/rest/v1/rpc/",H={{"apikey":K,"Authorization":"Bearer "+K,"Content-Type":"application/json"}};var ua=navigator.userAgent||"",kind=navigator.webdriver?"automation":(/bot|crawl|spider|slurp|headless|preview|lighthouse|facebookexternalhit|embedly|python|curl/i.test(ua)?"bot":"human");var q=new URLSearchParams(location.search),utm=q.get("utm_source")||q.get("ref")||null,v=null;try{{v=sessionStorage.getItem("ra_v");if(!v){{v=Math.random().toString(36).slice(2,12);sessionStorage.setItem("ra_v",v)}}}}catch(e){{}}fetch(U+"track_view2",{{method:"POST",headers:H,body:JSON.stringify({{p_site:"rightsatlas",p_path:location.pathname,p_ref:document.referrer||null,p_kind:kind,p_utm:utm,p_visit:v}}),keepalive:true}}).then(function(r){{return r.json()}}).then(function(id){{if(!id||!v)return;var done=false;function eng(){{if(done)return;done=true;fetch(U+"track_engaged",{{method:"POST",headers:H,body:JSON.stringify({{p_id:id,p_visit:v}}),keepalive:true}}).catch(function(){{}})}}setTimeout(function(){{if(document.visibilityState==="visible")eng()}},15000);addEventListener("scroll",function(){{if(scrollY>300)eng()}},{{passive:true}})}}).catch(function(){{}})}}catch(e){{}}}})();</script>
 </body>
 </html>"""
 
@@ -1237,7 +1237,7 @@ def build():
     # RSS (2026-11-20): Pinterest business accounts auto-pin from a feed (their API needs weeks of review and
     # browser automation breaks their rules); feed readers and Bing use it too. Image = the post's hero.
     items = "".join(
-        f'<item><title>{e(p["title"])}</title><link>{HOST}{BASE}blog/{p["slug"]}/</link>'
+        f'<item><title>{e(p["title"])}</title><link>{HOST}{BASE}blog/{p["slug"]}/?utm_source=feed</link>'
         f'<guid isPermaLink="true">{HOST}{BASE}blog/{p["slug"]}/</guid>'
         f'<pubDate>{p["date"].strftime("%a, %d %b %Y")} 02:17:00 +0000</pubDate><description>{e(p["desc"])}</description>'
         + (f'<enclosure url="{HOST}{BASE}blog/img/{e(p["hero"])}" type="image/jpeg" length="0"/>'
