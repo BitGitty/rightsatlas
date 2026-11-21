@@ -300,6 +300,9 @@ article.blog figcaption,.credit{font-family:var(--mono);font-size:.75rem;color:v
 .mc-body a:hover strong{text-decoration:underline}
 .mc-body span{font-size:14px;color:#555}
 .mc-body audio{width:100%;height:36px}
+.listen-art{margin:0 0 12px;max-width:320px}
+.listen-art img{width:100%;border:3px solid var(--ink);display:block}
+.songthumb{width:40px;height:40px;object-fit:cover;vertical-align:middle;margin-right:8px;border:2px solid var(--ink)}
 .watchcard:hover{border-color:var(--no)}
 .watchmini{color:var(--ok);font-family:var(--sans)}
 .watchtag{font-family:var(--sans);font-weight:700;color:var(--ok);white-space:nowrap}

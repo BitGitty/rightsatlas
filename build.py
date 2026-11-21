@@ -973,13 +973,30 @@ def song_label(s):
     return SONG_LABEL.get(st, ("Not verified", "unk"))
 
 
+_ART = None
+
+
+def song_art(sid):
+    """Public-domain cover for a song (data/song_art.json, Commons sheet-music covers, checked per file 11-21)."""
+    global _ART
+    if _ART is None:
+        p = ROOT / "data" / "song_art.json"
+        _ART = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+    return _ART.get(sid)
+
+
 def listen_block(s):
     """2026-11-20 owner: 'play for music like films'. Only recordings that are themselves public domain in the US
-    (published before 1926, Music Modernization Act), from Wikimedia Commons, with the year quoted from the file page."""
+    (published before 1926, Music Modernization Act), from Wikimedia Commons, with the year quoted from the file page.
+    11-21 owner: 'why music player doesn't have thumbnails?' -> the song's cover sits next to the player."""
     items = [x for x in s.get("listen", []) if int(x.get("year", 9999)) <= YEAR - 101]
     if not items:
         return ""
-    players = "".join(
+    a = song_art(s["id"])
+    cover = (f'<figure class="listen-art"><img src="{BASE}{e(a["img"])}" alt="{e(a.get("what", s["title"]))}">'
+             f'<figcaption class="credit">{e(a.get("what", "Cover"))}, public domain, via '
+             f'<a href="{e(a["page"])}" rel="nofollow noopener">Wikimedia Commons</a></figcaption></figure>') if a else ""
+    players = cover + "".join(
         f'<figure class="listen"><figcaption>{e(x["performer"])} ({x["year"]})</figcaption>'
         f'<audio controls preload="none" src="{e(x["audio"])}"></audio>'
         f'<p class="credit">Public domain recording, via <a href="{e(x["page"])}" rel="nofollow noopener">Wikimedia Commons</a>.'
@@ -1037,7 +1054,8 @@ def songs_index(songs):
         label, cls = song_label(s)
         return f'<span class="badge {cls}">{e(label)}</span>'
     rows = "".join(
-        f'<tr><td><a href="{BASE}song/{s["id"]}/">{e(s["title"])}</a>'
+        f'<tr><td>' + (f'<img class="songthumb" src="{BASE}{e(song_art(s["id"])["img"])}" alt="" loading="lazy">'
+                         if song_art(s["id"]) else "") + f'<a href="{BASE}song/{s["id"]}/">{e(s["title"])}</a>'
         + (f' <span lang="my">{e(s["title_my"])}</span>' if s.get("title_my") and s["title_my"] not in s["title"] else "")
         + (f' <a class="watchtag" href="{BASE}song/{s["id"]}/#listen">▶ Listen</a>' if s.get("listen") else "")
         + f'</td><td>{s["year"]}</td><td>{e(s.get("writers", ""))}</td><td>{badge(s)}</td>'
