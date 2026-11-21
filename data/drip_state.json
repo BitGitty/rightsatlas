@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-20",
+  "last_release": "2026-11-21",
   "log": [
     {
       "date": "2026-08-31",
@@ -328,6 +328,10 @@
     {
       "date": "2026-11-20",
       "film": "horse-feathers-1932"
+    },
+    {
+      "date": "2026-11-21",
+      "film": "of-human-bondage-1934"
     }
   ]
 }
