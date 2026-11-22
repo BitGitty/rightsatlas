@@ -3,7 +3,7 @@
   "title": "Meet John Doe",
   "year": 1941,
   "country": "US",
-  "last_verified": "2026-10-22",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,9 +11,15 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film was produced by Frank Capra Productions and released and distributed by Warner Bros. on May 3, 1941. A 28th-year renewal would have been due in 1968-1969. Secondary sources say it was not renewed. I could not confirm that against the Catalog of Copyright Entries (CCE) renewal volumes. The automated reading of the full text of the 1968 and 1969 motion-picture volumes was incomplete, so the print is left undetermined until a hand search confirms no renewal.",
-          "source": "Catalog of Copyright Entries, Motion Pictures 1960-1969",
-          "url": "https://archive.org/details/Motionpict19601969librrich0013"
+          "note": "A 1941 film needed a 28th-year renewal around 1968-1969. I read the 1968 and 1969 Catalog of Copyright Entries motion-picture volumes by automated text fetch, but only about 20% of each file was readable. The renewal sections were not reached, so I found no renewal entry but cannot call that a negative search. A hand search of the renewal sections, plus the Copyright Office records, is still needed.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1968",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1969 volume: same truncation limit, no renewal entry seen in the portion read, renewal sections not reached.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1969",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
         }
       ]
     },
@@ -22,9 +28,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The score is credited to Dimitri Tiomkin. In a sound film the recorded track normally shares the film's own status, so the score follows the print result. It is not independently confirmed.",
-          "source": "Wikipedia, Meet John Doe",
-          "url": "https://en.wikipedia.org/wiki/Meet_John_Doe"
+          "note": "The recorded soundtrack normally shares the film's own status, so it follows the print result. Any separately published score or music rights were not checked.",
+          "source": "Internet Archive item metadata, Meet John Doe [HD]",
+          "url": "https://archive.org/details/MeetJohnDoeHD"
         }
       ]
     },
@@ -33,9 +39,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film is based on a 1939 treatment, 'The Life and Death of John Doe', by Richard Connell and Robert Presnell. The treatment derived from Connell's 1922 Century Magazine story 'A Reputation'. The 1922 story is old enough to be free by term. The 1939 treatment is a separate, later work, and I did not confirm its registration or renewal status.",
-          "source": "Wikipedia, Meet John Doe",
-          "url": "https://en.wikipedia.org/wiki/Meet_John_Doe"
+          "note": "The source material and its registration and renewal history were not confirmed in this pass. A film adapted from an earlier work can still carry that work's separate copyright.",
+          "source": "Internet Archive item metadata, Meet John Doe [HD]",
+          "url": "https://archive.org/details/MeetJohnDoeHD"
         }
       ]
     },
@@ -64,10 +70,6 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Meet John Doe” (renewals ~1968, 1969, 1970)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
         "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1968 (archive.org)",
         "url": "https://archive.org/details/catalogofc19683221213libr"
       },
@@ -93,15 +95,15 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "Meet John Doe is Frank Capra's 1941 drama, produced by Frank Capra Productions and released by Warner Bros. on May 3, 1941. Gary Cooper plays a man hired to pose as 'John Doe', an invented letter-writer who threatens suicide, and Barbara Stanwyck plays the reporter behind the stunt. Robert Riskin wrote the screenplay, and Dimitri Tiomkin is credited with the score.\n\nSecondary sources say the film's copyright lapsed because no 28th-year renewal was filed around 1968-1969. This dossier has not confirmed that against the Catalog of Copyright Entries, so the print stays undetermined until a hand search of the 1968-1970 renewal volumes is done. Even if the print is free, other layers need checking. The 1939 treatment 'The Life and Death of John Doe' by Richard Connell and Robert Presnell sits between the 1922 story and the film. Restored or re-released copies may add material that is still protected. A 2001 digital restoration is reported, but I did not confirm it on a primary page.",
+  "editorial": "Meet John Doe is a 1941 Frank Capra film starring Gary Cooper and Barbara Stanwyck. The Internet Archive lists Frank Capra Productions, Inc. as the creator of one copy. Creators look for it because copies are easy to find online.\n\nThe rights trap is that the print's status is not settled here. A film from 1941 is free only if its 28th-year renewal was never filed. I could not read the renewal sections of the 1968 and 1969 Catalog of Copyright Entries volumes in full, so no non-renewal is confirmed. Score, source story and any restored copy each need separate checks.",
   "faq": [
     [
       "Is Meet John Doe in the public domain?",
-      "The film's copyright reportedly lapsed because no renewal was filed in its 28th year, but I have not confirmed that in the Catalog of Copyright Entries, so the print stays undetermined here. Check the 1968-1970 renewal volumes and the Copyright Office records yourself before relying on it."
+      "Not confirmed. A 1941 film is free only if no renewal was filed in its 28th year. My check of the 1968 and 1969 Catalog of Copyright Entries volumes was incomplete, so the print stays undetermined. Search the renewal sections and the Copyright Office records yourself before relying on it."
     ],
     [
       "Can I use any copy I find online?",
-      "Not automatically. A faithful copy of a free print adds no new copyright, but added titles, a new score or other added material can still be protected. Use a copy whose provenance you can check, and do not rip a copy-protected disc, because that can violate 17 U.S.C. 1201."
+      "Not automatically. Even if the print is free, a copy can add protected material such as new titles, a new score or other additions. Use a copy whose source you can check, and do not rip a copy-protected disc, because that can violate 17 U.S.C. 1201."
     ]
   ]
 }

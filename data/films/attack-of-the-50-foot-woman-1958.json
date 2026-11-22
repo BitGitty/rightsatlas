@@ -3,7 +3,7 @@
   "title": "Attack of the 50 Foot Woman",
   "year": 1958,
   "country": "US",
-  "last_verified": "2026-10-21",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "1958 release, so public domain would depend on a missing notice or a missing renewal (window about 1985-1987). I could not open the CCE renewal volumes or query the Copyright Office catalog in this session, so no renewal-absence finding is made. Wikipedia reports no renewal information either way.",
+          "note": "Released May 18, 1958, so public domain would depend on a missing notice or a missing renewal (window about 1985-1987). I could not open the Catalog of Copyright Entries renewal volumes or query the Copyright Office public catalog in this session, so I make no renewal-absence finding. The Wikipedia article gives no copyright or renewal information either way.",
           "source": "Researcher note",
           "url": "https://publicrecords.copyright.gov/"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original score by Ronald Stein per the film's credits. The recorded track normally shares the film's status, which is itself unresolved.",
+          "note": "Original music score credited to Ronald Stein. The recorded track normally shares the film's own status, which is unresolved.",
           "source": "Wikipedia film article",
           "url": "https://en.wikipedia.org/wiki/Attack_of_the_50_Foot_Woman"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Screenplay credited to Mark Hanna; I did not confirm whether any earlier source work exists.",
+          "note": "Screenplay credited to Mark Hanna. I did not confirm whether any earlier source work exists.",
           "source": "Wikipedia film article",
           "url": "https://en.wikipedia.org/wiki/Attack_of_the_50_Foot_Woman"
         }
@@ -48,7 +48,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A Warner Archive Collection Blu-ray exists (reviewed by The Digital Bits). I did not verify what, if anything, it adds beyond the film itself.",
+          "note": "A Warner Archive Collection Blu-ray is reported by The Digital Bits. I did not verify what, if anything, it adds beyond the film itself.",
           "source": "The Digital Bits",
           "url": "https://digitalbits.com/item/attack-of-the-50-foot-woman-wac-2022-bd"
         }
@@ -70,10 +70,6 @@
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
       }
     ]
   },
@@ -84,15 +80,15 @@
       "quality": "low-res 500x280"
     }
   ],
-  "editorial": "Attack of the 50 Foot Woman is a Woolner Brothers production directed by Nathan Hertz (a credit for Nathan H. Juran), written by Mark Hanna, scored by Ronald Stein, and released by Allied Artists on May 18, 1958. Allison Hayes stars as a woman who grows to giant size after meeting a spacecraft. It is a cult favorite with a well-known poster, and it has been remade for HBO (1993, with Daryl Hannah) and again in development at Warner Bros. as of 2024.\n\nThe rights trap is that being easy to find online proves nothing. A 1958 release is not free by age alone; it depends on notice and on whether the copyright was renewed around 1985 to 1987. I could not confirm either point here. The film is on Internet Archive, but it is also sold on Warner Archive Blu-ray. Treat the print as unresolved until you have checked the renewal records yourself. Separately, the 1993 and later remakes are new works with their own copyrights.",
+  "editorial": "Attack of the 50 Foot Woman is a Woolner Bros. Pictures production released by Allied Artists on May 18, 1958. Nathan H. Juran directed it under the credit Nathan Hertz, Mark Hanna wrote the screenplay, and Ronald Stein composed the score. The Internet Archive item describes the plot: Hayes meets a satellite on Route 66, grows to title size, and seeks revenge on her philandering husband and his girlfriend.\n\nThe rights trap is that a copy being easy to find online proves nothing. A 1958 release is not free by age alone. It depends on whether the film carried a valid notice and whether the copyright was renewed in the 1985-1987 window. I could not check either point here, and the Internet Archive item carries no license or copyright statement. Treat the print as unresolved until you have checked the renewal records yourself.",
   "faq": [
     [
       "Is Attack of the 50 Foot Woman (1958) in the public domain?",
-      "Not established here. A 1958 film is free only if it lacked a valid notice or its copyright was not renewed in the 1985-1987 window. I could not verify either, so check the US Copyright Office's public records (publicrecords.copyright.gov) before relying on it."
+      "Not established here. A 1958 film is free only if it lacked a valid notice or its copyright was not renewed in the 1985-1987 window. I could not verify either, so check the Catalog of Copyright Entries renewal volumes and the Copyright Office public records (publicrecords.copyright.gov) before relying on it."
     ],
     [
       "Can I reuse the Internet Archive copy?",
-      "Being hosted there is not a rights clearance. Confirm the renewal status first. Also note that the 1993 HBO remake and any planned remake are separate works that you cannot reuse on the strength of the 1958 film."
+      "Being hosted there is not a rights clearance. The item's metadata has no license or copyright statement. Confirm the renewal status first, and treat the score, story and any restored or re-released versions as separate questions."
     ]
   ]
 }

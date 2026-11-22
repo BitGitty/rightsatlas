@@ -3,17 +3,17 @@
   "title": "Frankenstein",
   "year": 1931,
   "country": "US",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
       "status": "undetermined",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "1931 US sound film by Universal. Published after the term-expiry cutoff, so its status depends on notice and renewal. I could not fetch a Catalog of Copyright Entries renewal volume or a Copyright Office record showing either a renewal or its absence, so no conclusion is drawn. Check the 1958-1960 renewal volumes by hand before treating the print as free. Stanford's Copyright Renewal Database indexes book renewals only and does not cover this film or its 1818 source novel, which predates Stanford's 1950–1992 renewal-era coverage.",
-          "source": "Catalog of Copyright Entries motion-picture renewal volumes (archive.org) — manual check needed",
-          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+          "type": "cce_renewal_entry",
+          "note": "Verified 2026-11-22 in the full text of the Catalog of Copyright Entries, Third Series, Vol. 13, Parts 12-13 (1959), Renewal Registrations. Entry text as read: \"FRANKENSTEIN, a photoplay in eight reels by Universal Pictures Corp. © 16Nov31; LP2631. Universal Pictures Co., Inc. (PWH); 120ct59; R243591.\" That gives original registration LP2631 (16 Nov 1931), renewal number R243591, claimant Universal Pictures Co., Inc. (PWH, work made for hire), and a renewal date printed as '120ct59' (read as 12 Oct 1959). I did not record the page number. This renewal falls in the 28th year of the term, which ran 16 Nov 1958 to 15 Nov 1959. A renewed 1931 work has a 95-year term, which runs through 31 December 2026, so the film would enter the US public domain on 1 January 2027. If no renewal had been filed in 1958 or 1959, the copyright would have ended on 31 December 1959 and the film would have entered the public domain on 1 January 1960. This entry shows a renewal was filed. Status stays undetermined only because I did not check the rest of the chain, such as the original publication and notice. Check the entry yourself in the linked volume before relying on it.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 13, Parts 12-13 (1959), Renewal Registrations (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
         }
       ]
     },
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A sound film's recorded track normally shares the film's own copyright status, so this layer follows the print layer. Not verified separately.",
+          "note": "No music or score registration was examined. Whether the soundtrack was covered by the film's registration or renewal was not checked. This layer is unexamined, and any assumption that it follows the print layer is my analysis, not a sourced fact.",
           "source": "Analysis",
           "url": "https://www.copyright.gov/"
         }
@@ -64,12 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Frankenstein” (renewals ~1958, 1959, 1960)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "Catalog of Copyright Entries 1959 volume (archive.org), where the Frankenstein renewal R243591 appears",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
       },
       {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
@@ -78,15 +74,15 @@
     ]
   },
   "watch": [],
-  "editorial": "Universal's 1931 Frankenstein, with Boris Karloff as the monster, is a studio sound film made after Universal's Dracula. Its screenplay was adapted mainly from Peggy Webling's 1927 stage play, in John L. Balderston's version, which was itself based on Mary Shelley's 1818 novel. The novel is long out of copyright, so a creator can adapt the underlying story freely. What people usually want, though, is the flat-topped, bolted-neck monster seen on screen.\n\nThe rights trap is that the story is free but the film's look may not be. Commentators note that Universal created that design for the film, so Universal may still hold rights in it if the film's copyright was renewed. That is unconfirmed here. A lookalike monster is therefore risky even in a story-based project. I could not confirm whether the 1931 film's own copyright was renewed in the 1958-1960 window, so treat the print as unresolved until you check the renewal volumes yourself. I found no verified free copy to link, so the watch list is empty.",
+  "editorial": "Universal's 1931 Frankenstein is a sought-after title for filmmakers and archivists.\n\nThe rights trap is that the film's copyright was renewed. The 1959 Catalog of Copyright Entries lists renewal R243591 by Universal Pictures Co., Inc. for the photoplay registered 16 November 1931 (LP2631). A renewed 1931 work has a 95-year term that runs through 31 December 2026, so the film would enter the US public domain on 1 January 2027. Until then, treat the film as protected. Whether the soundtrack or music has separate rights was not checked. Trademark claims on the monster were also not checked. The 1818 novel is free only as a story source, not the film's look, and I did not verify any other sources the film drew on.",
   "faq": [
     [
-      "Can I adapt Mary Shelley's Frankenstein story?",
-      "The 1818 novel is long out of copyright, so its plot, characters and text are free. The 1931 film was adapted mainly from Peggy Webling's 1927 play, so do not assume the film's own details came straight from the novel. Avoid copying the film's distinctive monster design, which Universal may still hold rights in. That is unconfirmed here."
+      "Can I use footage from the 1931 Universal film?",
+      "Not yet, as far as I can tell. The 1959 renewal (R243591) was found in the Catalog of Copyright Entries. The film stays protected through 31 December 2026, and the public-domain date is 1 January 2027. Music or soundtrack rights and trademark claims were not checked, so check them before using clips."
     ],
     [
-      "Is the 1931 Universal film itself free to use?",
-      "Not established. I could not confirm whether its copyright was renewed, so check the Catalog of Copyright Entries renewal volumes for 1958-1960 before using any footage. Also check any trademark claims on the monster."
+      "Can I adapt Mary Shelley's Frankenstein story now?",
+      "Yes, for the 1818 novel's own text and plot, which are long out of copyright. Do not copy the 1931 film's own additions, such as its distinctive visual designs, until the film itself is free. I did not verify other sources the film drew on or any trademark claims on the monster."
     ]
   ]
 }
