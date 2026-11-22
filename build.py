@@ -354,6 +354,10 @@ answers are wrong so often.</p>
     else:
         sig = signup_box(f"Get an e-mail when we confirm the answer for {ft}", f["id"])
     body = body.replace("</article>", sig + "</article>", 1)
+    # 11-22: a page with no answer and almost no evidence stays out of Google until research fills it (thin pages
+    # are what Google's "scaled content" demotion targets). It is still reachable on the site.
+    if ps == "undetermined" and sum(len(L.get("evidence", [])) for L in f["layers"].values()) <= 2:
+        head += '\n<meta name="robots" content="noindex,follow">'
     return page(title, desc, body, extra_head=head, card="summary_large_image" if img else "summary",
                 nav="films", path=f"film/{f['id']}/")
 
@@ -1351,7 +1355,9 @@ def build():
 
     urls = ([f"{BASE}", f"{BASE}films/", f"{BASE}suggest/"]
             + [f"{BASE}films/{d}s/" for d in sorted(decades)]
-            + [f"{BASE}film/{f['id']}/" for f in films]
+            + [f"{BASE}film/{f['id']}/" for f in films  # 11-22: thin (noindex) pages stay out of the sitemap
+               if not (f["layers"]["print"]["status"] == "undetermined"
+                       and sum(len(L.get("evidence", [])) for L in f["layers"].values()) <= 2)]
             + [f"{BASE}{x}/" for x in extras + ["corrections", "collections", "tools"]]
             + [f"{BASE}collections/{c['slug']}/" for c in collections]
             + [f"{BASE}blog/"] + [f"{BASE}blog/{p['slug']}/" for p in posts]
