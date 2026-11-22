@@ -624,3 +624,6 @@
 {"date": "2026-11-22", "id": "a-star-is-born-1937", "result": "blocked", "reasons": ["refresh has less evidence (4) than the live page (5)"]}
 {"date": "2026-11-22", "id": "flash-gordon-1936", "result": "refreshed", "reasons": []}
 {"date": "2026-11-22", "id": "manos-the-hands-of-fate-1966", "result": "refreshed", "reasons": []}
+{"date": "2026-11-22", "id": "a-star-is-born-1937", "result": "blocked", "reasons": ["refresh has less evidence (3) than the live page (5)"]}
+{"date": "2026-11-22", "id": "africa-screams-1949", "result": "blocked", "reasons": ["renewal check could not run (HTTPError) - retry before publishing"]}
+{"date": "2026-11-22", "id": "bride-of-the-monster-1955", "result": "refreshed", "reasons": []}

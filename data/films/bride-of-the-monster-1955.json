@@ -3,7 +3,7 @@
   "title": "Bride of the Monster",
   "year": 1955,
   "country": "US",
-  "last_verified": "2026-10-30",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No renewal record was located: the Copyright Office's public-records site could not be read in this session, and no Catalog of Copyright Entries renewal volume for 1982-1984 was found on archive.org (Stanford's renewal database covers books, not films, so it does not apply here). Renewal absence is therefore unproven. The queue marks it renewal_absent_likely.",
+          "note": "No renewal search was completed. A catalog script flagged an entry: RE0000216687 (1984), 'Bride of the monster', claimant Packing Service Corporation (Sidney Barton). Nobody opened that record, because publicrecords.copyright.gov needs an interactive search, and no Catalog of Copyright Entries renewal volume was found. It is not confirmed that the entry is this film. A 1984 registration also falls outside the normal renewal window for a 1955 work (1982-1983), so it may be a late or unrelated filing, and its legal effect is unresolved until the record is read. The print stays undetermined. Wikipedia says the ending credits name 'Filmakers Releasing Organization' as the copyright holder.",
           "source": "U.S. Copyright Office public records",
           "url": "https://publicrecords.copyright.gov/"
         }
@@ -19,59 +19,75 @@
     },
     "score": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Frank Worth as composer. The soundtrack's copyright was not checked separately. A sound film's recorded track normally shares the film's own status, so it depends on the print question.",
+          "source": "Wikipedia: Bride of the Monster",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_the_Monster"
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writing to Alex Gordon and Ed Wood and names no source material. The screenplay was not checked separately. If it is an original script, it would follow the film's own copyright.",
+          "source": "Wikipedia: Bride of the Monster",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_the_Monster"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports that Legend Films released a colorized version in 2008. Colorization is added material that can carry its own copyright, even where the black-and-white original does not.",
+          "source": "Wikipedia: Bride of the Monster",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_the_Monster"
+        }
+      ]
     }
   },
   "renewal_search": {
     "renewal_years": [
       1982,
-      1983,
-      1984
+      1983
     ],
-    "negative_result": null,
+    "negative_result": "No renewal search was completed. The Copyright Office 1978+ public records could not be opened without an interactive search, and no Catalog of Copyright Entries renewal volume was found. This is not a finding that no renewal exists.",
     "diy_links": [
       {
-        "label": "US Copyright Office public records (1978+) — search “Bride of the Monster” (renewals ~1982, 1983, 1984)",
+        "label": "US Copyright Office public records (1978+) — look up renewal RE0000216687 and search “Bride of the Monster”",
         "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
       }
     ]
   },
   "watch": [
     {
       "url": "https://archive.org/details/Popcornarchive-brideOfTheMonster1955",
-      "label": "Bride Of The Monster (1955) — Popcorn Archive upload, 720p, about 68 minutes",
-      "quality": "720p MP4"
+      "label": "Bride Of The Monster (1955) — Popcorn Archive upload",
+      "quality": "unverified"
     }
   ],
-  "editorial": "Bride of the Monster is the 1955 Ed Wood film in which Bela Lugosi plays a mad scientist who tries to create giant superhumans in his basement laboratory. Wood produced, directed and co-wrote it. Creators look for it because it is one of Lugosi's last major roles and is widely circulated online, including on the Internet Archive.\n\nThe trap is that wide circulation is not a copyright clearance. This dossier has not confirmed that the 1955 copyright went unrenewed in 1982-1984, because the renewal volumes and the Copyright Office catalog could not be checked here. Do the renewal search yourself before reusing the film. Any particular copy may also carry uploader edits: one Internet Archive upload says the uploader cleaned up damaged video spots. The music, the story and any restoration layers are not assessed here.",
+  "editorial": "Bride of the Monster is a 1955 science-fiction horror film written by Alex Gordon and Ed Wood. Per Wikipedia, it was made by Rolling M. Productions and premiered at Hollywood's Paramount theater on May 11, 1955. Creators look for it because it is an Ed Wood title that is available online, including an upload on the Internet Archive.\n\nThe open question is the copyright renewal. A catalog script flagged a 1984 entry, RE0000216687, titled 'Bride of the monster' and filed by Packing Service Corporation. No renewal search was completed, and nobody could open the record to confirm that it is this film. A 1984 registration for a 1955 film is outside the normal renewal window (1982-1983), so it may be a late or unrelated filing. Its legal effect is unresolved until the record is read. Free availability on the Internet Archive is not a clearance. A 2008 colorized release from Legend Films adds a separate layer. The score and screenplay were not independently checked.",
   "faq": [
     [
       "Is Bride of the Monster safe to reuse?",
-      "Not yet confirmed. The print's status depends on whether a renewal was filed in 1982-1984. Run the US Copyright Office public-records search linked above, and treat the score, any restoration and any trademark as separate questions."
+      "Not confirmed. A 1984 entry, RE0000216687, titled 'Bride of the monster' was flagged. It may be a late or unrelated filing, because 1984 is outside the normal 1982-1983 renewal window for a 1955 film. Its legal effect is unresolved until the record is read. Pull that record from the Copyright Office public records before reusing the film. The score, screenplay, any colorization and any trademark are separate questions."
     ],
     [
-      "Can I use the Internet Archive copy?",
-      "Hosting on the Internet Archive is not a rights clearance. Use the copy only after the renewal check comes back clean, and be aware that uploaders sometimes clean up or alter a copy."
+      "Can I use the Internet Archive copy or the colorized version?",
+      "Hosting on the Internet Archive is not a rights clearance. Do not use the copy until the renewal question is resolved. The 2008 Legend Films colorized version adds material that can have its own copyright, so do not treat it as free either."
     ]
   ]
 }
