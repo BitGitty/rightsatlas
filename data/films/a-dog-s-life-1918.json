@@ -3,7 +3,7 @@
   "title": "A Dog's Life",
   "year": 1918,
   "country": "US",
-  "last_verified": "2026-10-03",
+  "last_verified": "2026-11-23",
   "byline": "Written, produced and directed by Charles Chaplin; distributed by First National Pictures, released 14 April 1918",
   "layers": {
     "print": {
@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1918 in the US. Maximum copyright term under the 1909 Act as extended by the 1976 Act is 75 years (28-year first term + 47-year renewal term). The copyright on the original 1918 print — even assuming timely renewal in 1945–1946 — ran to December 31, 1993. As of 2026 the term is fully exhausted.",
-          "source": "US Copyright Office FAQ on copyright duration for pre-1978 works",
-          "url": "https://copyright.gov/help/faq/faq-duration.html"
+          "note": "Published 1918 in the US. 17 U.S.C. § 304 sets a 28-year original term plus a 47-year renewal term (75 years total) for a pre-1978 work under the 1976 Act; a later extension Act lengthened the renewal term further, but only for works still under copyright on that later Act's effective date. Even assuming timely renewal in 1945-1946, this film's 28+47-year term ran out on December 31, 1993, already expired before the later extension could reach it, so 75 years is the correct maximum here, not a longer figure. (This replaces an earlier citation to a US Copyright Office FAQ page that did not actually state a duration figure.)",
+          "source": "17 U.S.C. § 304",
+          "url": "https://www.copyright.gov/title17/92chap3.html"
         }
       ]
     },
@@ -33,9 +33,9 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Original screenplay written solely by Chaplin; no prior literary or dramatic source work identified. The screenplay was created and published as an integral part of the 1918 film, sharing its 1918 publication date and the same 75-year maximum US copyright term, now fully exhausted.",
-          "source": "US Copyright Office FAQ on copyright duration for pre-1978 works; no source adaptation noted in any scholarly reference to the film",
-          "url": "https://copyright.gov/help/faq/faq-duration.html"
+          "note": "Original screenplay written solely by Chaplin; no prior literary or dramatic source work identified. The screenplay was created and published as an integral part of the 1918 film, sharing its 1918 publication date and the same 75-year maximum US copyright term (see print layer, 17 U.S.C. § 304), now fully exhausted. No source adaptation is noted in any scholarly reference to the film.",
+          "source": "17 U.S.C. § 304",
+          "url": "https://www.copyright.gov/title17/92chap3.html"
         }
       ]
     },

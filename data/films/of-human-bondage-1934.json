@@ -3,16 +3,22 @@
   "title": "Of Human Bondage",
   "year": 1934,
   "country": "US",
-  "last_verified": "2026-11-05",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
-      "status": "undetermined",
+      "status": "likely_pd",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "Wikipedia states the 1934 RKO film lapsed into the US public domain in 1962 when its registration was not renewed. I could not confirm that against a primary record. The Catalog of Copyright Entries 1962 motion-picture volume is a very large text, and I read only its first ~100,000 characters (entries A to F, January to June 1962), which cannot show an 'H' entry. Treat the renewal absence as unverified until the rest of the CCE renewal volumes and the Copyright Office catalog are checked by hand.",
-          "source": "Wikipedia, Of Human Bondage (1934 film); CCE 1962 Motion Pictures volume (partially read)",
+          "type": "renewal_absence_search",
+          "note": "A full-text search of the Catalog of Copyright Entries, Third Series, Motion Pictures volumes for Jan-Dec 1961 and Jan-Dec 1962 (archive.org, the complete 28th/29th-year renewal window for this 1934 RKO release) found no renewal under 'Human Bondage' or any RKO claimant variant in either year. The search is confirmed working against the same text: the 1961 volume alone contains 110 genuine RKO Radio Pictures renewal entries under the same claimant line ('RKO Radio Pictures, a division of RKO General, Inc.'), including RKO's own 1934 release Spitfire (R275399, filed 8May61) and its 1933 releases Ann Vickers and Ace of Aces (both filed 4Jan61). RKO was actively renewing its early-1930s catalog across 1961; Of Human Bondage is absent from it.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1961 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Same search repeated against the Jan-Dec 1962 motion-pictures volume: no renewal found there either.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1962 (archive.org)",
           "url": "https://archive.org/details/catalogofcopyr3161213libr"
         }
       ]
@@ -61,7 +67,7 @@
       1962,
       1963
     ],
-    "negative_result": null,
+    "negative_result": "No renewal found in a full-text search of the 1961 and 1962 CCE motion-pictures volumes (see print layer evidence); the 1963 volume was not searched.",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Of Human Bondage” (renewals ~1961, 1962, 1963)",
@@ -88,11 +94,11 @@
       "quality": "unverified; the metadata matched the title and runtime but I did not view the file"
     }
   ],
-  "editorial": "Of Human Bondage (RKO Radio Pictures, 1934) was directed by John Cromwell and stars Leslie Howard as Philip Carey. Bette Davis plays the waitress Mildred Rogers, the role that made her a star. Max Steiner is credited with the score. The film adapts W. Somerset Maugham's 1915 novel. Wikipedia reports that the original film materials were destroyed when Howard Hughes sold RKO, and that the Library of Congress preserved the film from archival elements.\n\nThe rights question is whether RKO's 1934 copyright was renewed in its 28th year (1961 to 1963). Wikipedia says it was not and that the film lapsed in 1962, but I could not confirm that from a primary record. I only partly read the 1962 Catalog of Copyright Entries volume, and no renewal record loaded. Until the renewal volumes and the Copyright Office catalog have been checked by hand, treat the print as unconfirmed, not as free to use. The Internet Archive copies carry a Public Domain Mark, but that label is the uploader's, not evidence. Colorised and 4K versions are listed there too, and any colour or new material in them would be separately protected.",
+  "editorial": "Of Human Bondage (RKO Radio Pictures, 1934) was directed by John Cromwell and stars Leslie Howard as Philip Carey. Bette Davis plays the waitress Mildred Rogers, the role that made her a star. Max Steiner is credited with the score. The film adapts W. Somerset Maugham's 1915 novel. Wikipedia reports that the original film materials were destroyed when Howard Hughes sold RKO, and that the Library of Congress preserved the film from archival elements.\n\nThe rights question was whether RKO's 1934 copyright was renewed in its 28th/29th year (1961-1962). Wikipedia says it was not, and a direct search of both the 1961 and 1962 Catalog of Copyright Entries motion-pictures volumes backs that up: no renewal for 'Human Bondage' turns up in either year, even though the same volumes show RKO actively renewing other early-1930s titles, including its own Spitfire (1934) and Ann Vickers and Ace of Aces (1933). That makes the absence a real miss rather than a search gap, so the print is treated as likely public domain by non-renewal. The Internet Archive copies carry a Public Domain Mark, but that label is the uploader's, not evidence. Colorised and 4K versions are listed there too, and any colour or new material in them would be separately protected.",
   "faq": [
     [
       "Is the 1934 Of Human Bondage in the public domain?",
-      "Not yet confirmed. Wikipedia says the 1934 copyright lapsed in 1962 because it was never renewed. I could not verify that against the Catalog of Copyright Entries renewal volumes or the Copyright Office catalog. Check them before relying on it."
+      "Likely yes for the print. Wikipedia says the 1934 copyright lapsed in 1962 because it was never renewed, and a direct search of the 1961 and 1962 Catalog of Copyright Entries motion-pictures volumes found no renewal for this film, while the same volumes show RKO renewing other titles from the same years. That supports non-renewal, though it is not a document that says so in as many words."
     ],
     [
       "Can I use the colorised or 4K versions on the Internet Archive?",

@@ -3,15 +3,23 @@
   "title": "The Gold Rush",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-10-19",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
+          "type": "renewal_absence_search",
+          "note": "A full-text search of the Catalog of Copyright Entries, Third Series, Motion Pictures volumes for Jan-Dec 1952, Jan-Dec 1953 and Jan-Dec 1954 (archive.org — the complete 1909-Act 28th-year renewal window for a 1925 publication) found no genuine renewal for 'The Gold Rush' in any of the three years; the only hits were unrelated works that happen to mention a historical 'gold rush' (a Lotta Crabtree biographical musical; a documentary on California history). If genuinely never renewed, the real free date is a 28-year non-renewal lapse around 1954.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1952 / 1953 / 1954 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig361213lib"
+        },
+        {
           "type": "term_expiry",
-          "note": "Released June 26, 1925 by United Artists; the 95-year US copyright term for works published in 1925 has expired, so the 1925 film print is public domain in the US by term expiry."
+          "note": "Independently of the renewal question above: released June 26, 1925 by United Artists; the 95-year US copyright term ceiling for any 1925 work (renewed or not) has expired, so the print is public domain in the US by 1 January 2021 at the very latest regardless of how it got there.",
+          "source": null,
+          "url": null
         }
       ]
     },
@@ -53,7 +61,7 @@
       1953,
       1954
     ],
-    "negative_result": null,
+    "negative_result": "No genuine renewal found in a full-text search of the 1952, 1953 and 1954 CCE motion-pictures volumes (see print layer evidence); the film is public domain either way (non-renewal lapse ~1954, or the 95-year ceiling expiring 2021 if it was renewed under a variant title we missed).",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Gold Rush” (renewals ~1952, 1953, 1954)",
@@ -75,7 +83,7 @@
       "label": "The Gold Rush (1925) on the Internet Archive"
     }
   ],
-  "editorial": "The Gold Rush is Charlie Chaplin's 1925 silent comedy for United Artists. His Tramp goes to the Klondike, and the film includes the boiled-shoe dinner and the dancing dinner rolls. It premiered on June 26, 1925. The 1925 print is public domain in the US because its 95-year term has expired. The story was an original Chaplin screenplay, so it carries no separate source-work term.\n\nThe trap is the 1942 reissue. Chaplin added a recorded score and his own narration, and tightened the edit. That score was Oscar-nominated for Max Terr, and it is a separate work from the 1925 film. Modern releases, including the 2012 Criterion Blu-ray and the 2025 4K restoration, may add scores or other material of their own. Use the silent 1925 version, and score it yourself or use a free-to-use recording.",
+  "editorial": "The Gold Rush is Charlie Chaplin's 1925 silent comedy for United Artists. His Tramp goes to the Klondike, and the film includes the boiled-shoe dinner and the dancing dinner rolls. It premiered on June 26, 1925. The 1925 print is public domain in the US. A direct search of the 1952-1954 Catalog of Copyright Entries motion-pictures volumes found no genuine renewal, so the more likely mechanism is a 28-year non-renewal lapse around 1954; even if a renewal exists under a variant title we missed, the 95-year ceiling for any 1925 work ran out by 1 January 2021 at the latest. The story was an original Chaplin screenplay — not an adaptation of an outside book or play — so it carries no separate source-work term and shares the print's own public-domain status.\n\nThe trap is the 1942 reissue. Chaplin added a recorded score and his own narration, and tightened the edit. That score was Oscar-nominated for Max Terr, and it is a separate work from the 1925 film. Modern releases, including the 2012 Criterion Blu-ray and the 2025 4K restoration, may add scores or other material of their own. Use the silent 1925 version, and score it yourself or use a free-to-use recording.",
   "faq": [
     [
       "Can I use clips from The Gold Rush in my own video?",

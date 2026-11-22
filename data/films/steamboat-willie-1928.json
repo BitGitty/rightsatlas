@@ -3,7 +3,7 @@
   "title": "Steamboat Willie",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-12",
+  "last_verified": "2026-11-23",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -21,10 +21,16 @@
       "status": "verified_pd",
       "evidence": [
         {
-          "type": "term_expiry",
-          "note": "The synchronized 1928 soundtrack is part of the published 1928 work and expired with it. Modern re-recordings are separately protected.",
-          "source": "Duke CSPD analysis",
-          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+          "type": "research_note",
+          "note": "17 U.S.C. § 101 defines 'motion picture' to include its accompanying sounds, and the Copyright Act treats a film's synchronized soundtrack as part of the single audiovisual work rather than a separate composition. On that basis the synchronized 1928 track shares the film's own copyright status.",
+          "source": "17 U.S.C. § 101 (definitions)",
+          "url": "https://www.copyright.gov/title17/92chap1.html"
+        },
+        {
+          "type": "cce_renewal_entry",
+          "note": "Confirms the point is moot either way: Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1956 (archive.org, searched directly): 'STEAMBOAT WILLIE, a motion picture in one reel by Walter E. Disney as employer for hire of U.B. Iwerks. (c) 21Nov28; M2124. Walt Disney Productions (PWH); 22Dec55; R162021.' Disney did renew in 1955, but a renewed 1928 work still tops out at the 95-year ceiling, which expired 1 January 2024 regardless — the same date Duke CSPD cites for the print.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1956 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3101213li"
         }
       ]
     },
@@ -32,8 +38,8 @@
       "status": "verified_pd",
       "evidence": [
         {
-          "type": "term_expiry",
-          "note": "Original 1928 short; no separate underlying work.",
+          "type": "research_note",
+          "note": "Plain note, no outside citation located for this specific claim: Steamboat Willie is an original 1928 short made for Disney by Ub Iwerks and Walt Disney; it adapts no earlier published book, play or comic, so there is no separate source work to clear. It shares the film print's own public-domain status above.",
           "source": null,
           "url": null
         }

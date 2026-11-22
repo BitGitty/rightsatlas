@@ -3,15 +3,21 @@
   "title": "The Big Parade",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-10-17",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
+          "type": "renewal_absence_search",
+          "note": "A full-text search of the Catalog of Copyright Entries, Third Series, Motion Pictures volumes for Jan-Dec 1952, Jan-Dec 1953 and Jan-Dec 1954 (archive.org — the complete 1909-Act 28th-year renewal window for a 1925 publication) found no genuine renewal for 'The Big Parade' in any of the three years; the only hits were an unrelated newsreel clip ('Greek independence celebrated in New York with big parade', 1952) and an unrelated musical about the California Gold Rush. If the film was genuinely never renewed, its real free date is a 28-year non-renewal lapse around 1954, not a 95-year term expiring in 2021 — but either way it has been public domain for decades.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1952 / 1953 / 1954 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig361213lib"
+        },
+        {
           "type": "term_expiry",
-          "note": "Published 1925; the 95-year US copyright term expired at the end of 2020, so the film itself entered the US public domain on 1 January 2021 by term expiry.",
+          "note": "Independently of the renewal question above: published 1925, the 95-year US copyright term ceiling for any 1925 work (renewed or not) expired at the end of 2020, so the film is public domain in the US by 1 January 2021 at the very latest regardless of how it got there.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2021",
           "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
         }
@@ -31,7 +37,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The story was written by Laurence Stallings, a World War I veteran, for the film itself (scenario by Harry Behn, intertitles by Joseph W. Farnham). It is not an adaptation of an earlier book or play, so it has no separate source copyright. It was published with the 1925 film and shares the film's expired term."
+          "note": "Plain note, no outside citation located for this specific claim: the story was written by Laurence Stallings, a World War I veteran, for the film itself (scenario by Harry Behn, intertitles by Joseph W. Farnham). It is not an adaptation of an earlier published book or play, so there is no separate source work to clear. It was created for and published with the 1925 film, so it shares the film print's own public-domain status above regardless of the exact renewal mechanism.",
+          "source": null,
+          "url": null
         }
       ]
     },
@@ -55,7 +63,7 @@
       1953,
       1954
     ],
-    "negative_result": null,
+    "negative_result": "No genuine renewal found in a full-text search of the 1952, 1953 and 1954 CCE motion-pictures volumes (see print layer evidence); the film is public domain either way (non-renewal lapse ~1954, or the 95-year ceiling expiring 2021 if it was renewed under a variant title we missed).",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Big Parade” (renewals ~1952, 1953, 1954)",
@@ -77,7 +85,7 @@
       "label": "The Big Parade (1925) on the Internet Archive"
     }
   ],
-  "editorial": "The Big Parade is a 1925 silent war drama directed by King Vidor for Metro-Goldwyn-Mayer. John Gilbert and Renée Adorée star, and the story is by Laurence Stallings, a World War I veteran. It was chosen for the National Film Registry in 1992, and it heavily influenced later war films such as All Quiet on the Western Front (1930). The picture itself entered the US public domain on 1 January 2021, when the 95-year term for 1925 publications ran out.\n\nThe trap is the music, not the images. The original Axt/Mendoza score belongs to the 1925 release, but the DVD and Blu-ray editions use a later score. Carl Davis composed one for the film in the 1980s, and a modern score recording is a separate protected work. Lift the picture from a source whose soundtrack you have checked, or add your own music. The story layer has no outside source to worry about.",
+  "editorial": "The Big Parade is a 1925 silent war drama directed by King Vidor for Metro-Goldwyn-Mayer. John Gilbert and Renée Adorée star, and the story is by Laurence Stallings, a World War I veteran. It was chosen for the National Film Registry in 1992, and it heavily influenced later war films such as All Quiet on the Western Front (1930). The picture itself is public domain in the US. A direct search of the 1952-1954 Catalog of Copyright Entries motion-pictures volumes found no genuine renewal, so the more likely mechanism is a 28-year non-renewal lapse around 1954; even if a renewal exists under a variant title we missed, the 95-year ceiling for any 1925 work ran out by 1 January 2021 at the latest. Either way it has been free for decades.\n\nThe trap is the music, not the images. The original Axt/Mendoza score belongs to the 1925 release, but the DVD and Blu-ray editions use a later score. Carl Davis composed one for the film in the 1980s, and a modern score recording is a separate protected work. Lift the picture from a source whose soundtrack you have checked, or add your own music. The story layer has no outside source to worry about.",
   "faq": [
     [
       "Can I reuse footage from The Big Parade in my own video?",

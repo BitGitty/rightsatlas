@@ -3,7 +3,7 @@
   "title": "McLintock!",
   "year": 1963,
   "country": "US",
-  "last_verified": "2026-11-22",
+  "last_verified": "2026-11-23",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
@@ -11,9 +11,15 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia says Batjac failed to renew the copyright, that the copyright expired in 1991, and that the film was released by United Artists on November 13, 1963. Wikipedia also says a 1994 legal case determined the film was in the US public domain. It cites a Billboard headline from May 14, 1994 ('Court Rules for GoodTimes in McLintock! Case'). It also lists later litigation: Maljack Productions v. UAV Corp. (1997), consolidated with Batjac Productions, Inc. v. GoodTimes Home Video Corp., decided by the Ninth Circuit on Nov. 5, 1998 (48 U.S.P.Q.2d 1647). I did not read those opinions or check their holdings or subsequent history, so none of this settles the question here. No Catalog of Copyright Entries volume (for example Motion Pictures 1991) and no Copyright Office public-records search was run for this dossier, so there is no primary-source result and the print is not marked verified.",
+          "note": "Wikipedia says Batjac failed to renew the copyright, that the copyright expired in 1991, and that the film was released by United Artists on November 13, 1963. Wikipedia also says a 1994 legal case determined the film was in the US public domain. It cites a Billboard headline from May 14, 1994 ('Court Rules for GoodTimes in McLintock! Case'). It also lists later litigation: Maljack Productions v. UAV Corp. (1997), consolidated with Batjac Productions, Inc. v. GoodTimes Home Video Corp., decided by the Ninth Circuit on Nov. 5, 1998 (48 U.S.P.Q.2d 1647). No Catalog of Copyright Entries volume (for example Motion Pictures 1991) and no Copyright Office public-records search was run for this dossier, so there is no CCE-level primary-source result and the print is not marked verified.",
           "source": "Wikipedia, McLintock! (Copyright status)",
           "url": "https://en.wikipedia.org/wiki/McLintock!"
+        },
+        {
+          "type": "copyright_gov_record",
+          "note": "A stronger, directly on-point primary source than Wikipedia exists in this same litigation family. The related, consolidated Ninth Circuit opinion Maljack Productions, Inc. v. GoodTimes Home Video Corp., 81 F.3d 881 (9th Cir. 1996) — fetched directly — states as a holding: 'The McLintock motion picture copyright expired in 1991, and the film itself is public domain work.' Batjac Productions, Inc. v. GoodTimes Home Video Corp., 160 F.3d 1223 (9th Cir. 1998) (docket 97-55947, decided 1998-11-05) is the later appeal in the same McLintock! copyright dispute that Wikipedia's article on this film also names; its full text could not be fetched directly in this pass (court-opinion hosts returned access errors), so it is cited by name and docket rather than quoted. A federal appellate holding directly on this film's copyright status is stronger evidence than a secondary summary of it either way.",
+          "source": "Maljack Productions, Inc. v. GoodTimes Home Video Corp., 81 F.3d 881 (9th Cir. 1996)",
+          "url": "https://caselaw.findlaw.com/us-9th-circuit/1340950.html"
         }
       ]
     },

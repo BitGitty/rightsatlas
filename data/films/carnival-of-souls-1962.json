@@ -3,21 +3,33 @@
   "title": "Carnival of Souls",
   "year": 1962,
   "country": "US",
-  "last_verified": "2026-10-31",
+  "last_verified": "2026-11-23",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "undetermined",
+      "status": "likely_pd",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "Wikipedia reports that the US release failed to include a copyright notice on the prints, which would place the US prints in the public domain, while foreign releases were protected. No primary record (Copyright Office catalog, Catalog of Copyright Entries, or a copy of the prints) was fetched, so the layer is held at undetermined.",
+          "type": "registration_absence_search",
+          "note": "The Catalog of Copyright Entries, Third Series, Motion Pictures volumes for both Jan-Dec 1962 and Jan-Dec 1963 (archive.org, full text searched directly for 'Carnival of Souls', for director Herk Harvey, and for distributor Herts-Lion International/Harcourt) show no registration at all for this film in either year. The search method is confirmed working against these same volumes: a parallel search found zero matches for a different film while correctly finding over a hundred genuine renewal entries for other studios' pictures in the same text.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "registration_absence_search",
+          "note": "Same search repeated against the Jan-Dec 1963 motion-pictures volume: no registration found there either.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1963 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "notice_failure_doc",
+          "note": "Wikipedia reports that the US release failed to include a copyright notice on the prints, which would place the US prints in the public domain, while foreign releases were protected. That claim traces to a 2014 New York Times piece and a 2013 book. Combined with the absence of any registration in the primary record above, the film is treated as likely public domain rather than verified: a missing registration is consistent with a no-notice release, but no document stating 'no notice' was examined directly.",
           "source": "Wikipedia: Carnival of Souls",
           "url": "https://en.wikipedia.org/wiki/Carnival_of_Souls"
         },
         {
           "type": "research_note",
-          "note": "The Internet Archive item CarnivalofSouls (runtime 01:22:59) lists creator Herk Harvey, year 1962, and carries a Creative Commons public-domain license URL. This is the uploader's tag, not a rights determination.",
+          "note": "The Internet Archive item CarnivalofSouls (runtime 01:22:59) lists creator Herk Harvey, year 1962, and carries a Creative Commons public-domain license URL. This is the uploader's tag, not a rights determination, but it is consistent with the primary-record result above.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/metadata/CarnivalofSouls"
         }
@@ -87,11 +99,11 @@
       "quality": "Internet Archive item credited to Herk Harvey, 1962; runtime about 83 minutes; uploader's public-domain license tag"
     }
   ],
-  "editorial": "Carnival of Souls was made for about $33,000, shot in Douglas County, Kansas and Salt Lake City, Utah, including the Saltair Pavilion, which Herk Harvey rented for $50. Harvey directed it from a John Clifford screenplay, with Gene Moore's organ score and Maurice Prather's cinematography. It premiered on September 26, 1962, at the Granada Theatre in Lawrence, Kansas, with Herts-Lion International as distributor. A reuser wants it because Wikipedia reports that the US prints carried no copyright notice, which would put the US release in the public domain, and the Internet Archive hosts a copy tagged with a public-domain license.\n\nThe trap is that this status rests on a secondary source. Wikipedia also reports that foreign releases were protected. This dossier did not check the Copyright Office catalog or the Catalog of Copyright Entries, so print, score, story and trademark all stay undetermined. Criterion's 2000 DVD set and its 2016 Blu-ray restoration may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. The Internet Archive copy is the safer source to use.",
+  "editorial": "Carnival of Souls was made for about $33,000, shot in Douglas County, Kansas and Salt Lake City, Utah, including the Saltair Pavilion, which Herk Harvey rented for $50. Harvey directed it from a John Clifford screenplay, with Gene Moore's organ score and Maurice Prather's cinematography. It premiered on September 26, 1962, at the Granada Theatre in Lawrence, Kansas, with Herts-Lion International as distributor. A reuser wants it because Wikipedia reports that the US prints carried no copyright notice, which would put the US release in the public domain, and the Internet Archive hosts a copy tagged with a public-domain license.\n\nThe trap used to be that this status rested only on a secondary source. It no longer does: a direct search of the Catalog of Copyright Entries' own Motion Pictures volumes for 1962 and 1963 found no registration for this film at all, under its title, its director, or its distributor — consistent with the no-notice report and not just resting on it. That upgrades the print from unconfirmed to likely public domain, though 'likely' and not 'verified' because no document stating the US release actually lacked a notice was examined directly. Wikipedia also reports that foreign releases were protected. Score, story and trademark were not checked against a primary record and stay undetermined. Criterion's 2000 DVD set and its 2016 Blu-ray restoration may carry protectable additions, and ripping a copy-protected disc can raise a DMCA issue. The Internet Archive copy is the safer source to use.",
   "faq": [
     [
       "Can I upload or reuse Carnival of Souls?",
-      "The US release is reported to have lacked a copyright notice on its prints, but no primary record was checked here, so treat the status as unconfirmed. Foreign releases are reported to have been protected. The Internet Archive copy is the safest source. Avoid ripping Criterion discs, which may include protected additions and copy protection."
+      "Likely yes for the print, but not certain. The US release is reported to have lacked a copyright notice, and a direct search of the Catalog of Copyright Entries' 1962 and 1963 motion-pictures volumes found no registration for this film at all — consistent with that report. Foreign releases are reported to have been protected. The Internet Archive copy is the safest source. Avoid ripping Criterion discs, which may include protected additions and copy protection."
     ],
     [
       "Is the 1998 remake also public domain?",

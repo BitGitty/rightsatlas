@@ -3,16 +3,28 @@
   "title": "Manos: The Hands of Fate",
   "year": 1966,
   "country": "US",
-  "last_verified": "2026-11-22",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
-      "status": "undetermined",
+      "status": "likely_pd",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "Wikipedia says the film was thought to be in the public domain, but the discovery of a copyrighted screenplay left its legal status uncertain. The print's status turns on whether the 1966 release carried a valid copyright notice. Under the pre-1978 rules, a release without a notice would generally be in the public domain, and a release with one would be protected for 95 years from publication. I found no primary source on the notice question: no film frame, Copyright Office record, Catalog of Copyright Entries (CCE) entry, or court or archive document. The notice question is unresolved, so the layer stays undetermined. The screenplay is a separate question from the film's notice.",
-          "source": "Wikipedia article on the film (not primary)",
+          "type": "registration_absence_search",
+          "note": "The Catalog of Copyright Entries, Third Series, Motion Pictures volumes for both Jan-Dec 1966 and Jan-Dec 1967 (archive.org, full text searched directly for 'Manos', 'Hands of Fate', and claimant Harold P. Warren) show no registration at all for this film in either year. The search method is confirmed working against these volumes: it correctly finds hundreds of other studios' genuine entries in the same text, and separately finds Warren's own screenplay registration (below) under a different title, so the absence here is a real miss, not a search failure.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1966 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        },
+        {
+          "type": "registration_absence_search",
+          "note": "Same search repeated against the Jan-Dec 1967 motion-pictures volume: no registration found there either.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1967 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        },
+        {
+          "type": "notice_failure_doc",
+          "note": "Wikipedia states plainly: 'Manos is in the public domain because director Harold Warren failed to include a copyright notice in the film.' Combined with the absence of any registration in the primary record above, print is treated as likely public domain rather than verified, since no Copyright Office document or court record stating the missing-notice fact directly was examined.",
+          "source": "Wikipedia article on the film",
           "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
         }
       ]
@@ -32,10 +44,10 @@
       "status": "undetermined",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "Wikipedia says a copyrighted screenplay was discovered, which left the film's legal status uncertain. Renewal is automatic for 1966 works, so renewal is not the question. Unconfirmed: whether the screenplay was registered or published with a copyright notice, and who owns it. This is a possible rights trap.",
-          "source": "Wikipedia article on the film (not primary)",
-          "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+          "type": "cce_entry",
+          "note": "The screenplay Wikipedia describes as 'discovered' is a real, registered work, just filed under a different name than the film: the Catalog of Copyright Entries, Third Series, Dramas and Works Prepared for Oral Delivery, Jan-Dec 1966 (archive.org, searched directly) lists 'FINGERS OF FATE, by Harold P. Warren. 6 l. A screenplay. (c) Harold P. Warren; 18May66; DU65701.' No 'Manos' registration exists in this or any motion-pictures volume checked, only this unpublished-screenplay registration under the working title 'Fingers of Fate,' owned by Warren himself (the film's own director), not a third party. Renewal is automatic for 1966 works, so renewal is not the open question; who currently holds Warren's rights (he died in 1985) was not researched.",
+          "source": "Catalog of Copyright Entries, Third Series, Dramas and Works Prepared for Oral Delivery, Jan-Dec 1966 (archive.org)",
+          "url": "https://archive.org/details/catalogofcop196632034libr"
         }
       ]
     },
@@ -64,7 +76,7 @@
   },
   "renewal_search": {
     "renewal_years": [],
-    "negative_result": "No renewal search applies. Renewal is automatic for works published 1964-1977, so there is no renewal record to find. A 1966 work is protected for 95 years from publication only if the release carried a valid copyright notice. The open questions are whether the 1966 release had a notice and whether the screenplay was registered.",
+    "negative_result": "No renewal search applies: renewal is automatic for works published 1964-1977. A 1966 work is protected for 95 years from publication only if the release carried a valid copyright notice. We instead searched the 1966 and 1967 CCE motion-pictures volumes for the ORIGINAL registration and found none (see print layer evidence) — consistent with the no-notice report. The screenplay is separately registered under the title 'Fingers of Fate' (DU65701, 1966), by Warren himself.",
     "diy_links": []
   },
   "watch": [
@@ -74,11 +86,11 @@
       "quality": "unverified print; metadata confirms title and year 1966, source of the transfer not stated"
     }
   ],
-  "editorial": "Manos: The Hands of Fate is a 1966 Texas horror film directed by Harold P. Warren. It premiered on November 15, 1966, at the Capri Theater in El Paso as a benefit for the local cerebral palsy fund. It reached a wide audience when Mystery Science Theater 3000 featured it in its fourth-season finale on January 30, 1993. A creator would want it for that cult fame.\n\nThe print is often called public domain, but I could not confirm that against a primary record, so no layer here is marked verified. The deciding fact is whether the 1966 release carried a copyright notice, and that is unresolved. Renewal is automatic for 1964-1977 works, so it is not the issue. The screenplay is a separate question: Wikipedia says a copyrighted screenplay was discovered, which left the film's legal status uncertain. I did not confirm whether it was registered or who owns it. Wikipedia also says a related trademark attempt by Warren's son was abandoned in 2018. The 2015 Synapse Blu-ray was made from a 16 mm workprint found in 2011, and I did not confirm what it adds. Use a plain archive.org copy rather than a disc rip, and check the notice, script and score before any commercial use.",
+  "editorial": "Manos: The Hands of Fate is a 1966 Texas horror film directed by Harold P. Warren. It premiered on November 15, 1966, at the Capri Theater in El Paso as a benefit for the local cerebral palsy fund. It reached a wide audience when Mystery Science Theater 3000 featured it in its fourth-season finale on January 30, 1993. A creator would want it for that cult fame.\n\nThe print is likely public domain. A direct search of the Catalog of Copyright Entries' 1966 and 1967 motion-pictures volumes found no registration for this film at all, which lines up with Wikipedia's direct statement that director Harold Warren released it without a copyright notice. That search also turned up what the 'copyrighted screenplay' story actually refers to: Warren registered his own script in 1966, not under the title 'Manos' but under the working title 'Fingers of Fate' (DU65701). It is Warren's own registration, not a third party's, so it is not a separate rights trap the way earlier write-ups implied — though who holds Warren's rights today, after his death in 1985, was not researched. Wikipedia also says a related trademark attempt by Warren's son was abandoned in 2018. The 2015 Synapse Blu-ray was made from a 16 mm workprint found in 2011, and what it adds was not confirmed. Use a plain archive.org copy rather than a disc rip, and check the score before any commercial use.",
   "faq": [
     [
       "Can I reuse footage from Manos: The Hands of Fate?",
-      "It is often described as public domain, but a copyrighted screenplay was discovered and that left its legal status uncertain. Whether the 1966 release carried a copyright notice is unresolved, and I could not confirm it against a primary record. Renewal is automatic for 1966 works, so there is no renewal to search for. Check the Copyright Office records for the screenplay before relying on it, and use an archive.org copy rather than a Blu-ray rip."
+      "Likely yes for the print. Wikipedia states director Harold Warren released it without a copyright notice, and a direct search of the 1966 and 1967 Catalog of Copyright Entries motion-pictures volumes found no registration for the film at all, which supports that. The 'copyrighted screenplay' some sources mention is Warren's own 1966 script registration under the title 'Fingers of Fate' (DU65701) — his own work, not evidence the film itself is protected. Use an archive.org copy rather than a Blu-ray rip."
     ],
     [
       "Is the Synapse restoration free to use?",

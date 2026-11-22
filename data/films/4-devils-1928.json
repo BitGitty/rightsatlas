@@ -3,15 +3,21 @@
   "title": "4 Devils",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-09-01",
+  "last_verified": "2026-11-23",
   "byline": "F.W. Murnau, dir. | Fox Film Corporation, 1928",
   "layers": {
     "print": {
       "status": "verified_pd",
       "evidence": [
         {
+          "type": "cce_renewal_entry",
+          "note": "The film was in fact renewed: Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1955 (archive.org, searched directly): 'FOUR DEVILS, a photoplay in twelve reels by Fox Film Corp. (c) 1Oct28; L25737. Twentieth Century-Fox Film Corp. (PWH); 22Nov55; R160319.' This replaces an earlier, uncited 'renewal unlikely' framing.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1955 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig391213lib"
+        },
+        {
           "type": "term_expiry",
-          "note": "Published 1928 by Fox Film Corporation. Under US law the maximum copyright term for any pre-1978 work with notice and timely renewal is 95 years from publication (17 U.S.C. § 304(b)), placing the expiry date at January 1, 2024. As of 2026-09-01 the print is irrevocably public domain by term, regardless of whether Fox renewed the registration in 1955–1956.",
+          "note": "Published 1928 by Fox Film Corporation. Under US law the maximum copyright term for any pre-1978 work with notice and timely renewal is 95 years from publication (17 U.S.C. § 304(b)), placing the expiry date at January 1, 2024. The print is public domain by term since that date, and the confirmed 1955 renewal above does not change that — a renewed 1928 work still tops out at the same 95-year ceiling.",
           "source": "US Copyright Office Circular 15a — Duration of Copyright",
           "url": "https://www.copyright.gov/circs/circ15a.pdf"
         }
@@ -61,7 +67,7 @@
       1956,
       1957
     ],
-    "negative_result": null,
+    "negative_result": "Not negative: the CCE 1955 motion-pictures volume shows the film WAS renewed (R160319, 22Nov55, Twentieth Century-Fox Film Corp.) — see print layer evidence. Does not affect the verdict: the 95-year ceiling for a renewed 1928 work expired 1 January 2024 regardless.",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search '4 Devils' (renewals ~1955, 1956, 1957)",

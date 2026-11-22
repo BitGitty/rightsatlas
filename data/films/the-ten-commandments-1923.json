@@ -3,7 +3,7 @@
   "title": "The Ten Commandments",
   "year": 1923,
   "country": "US",
-  "last_verified": "2026-11-05",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
@@ -14,6 +14,12 @@
           "note": "Released December 1923; the 95-year US term expired, and Duke CSPD states works from 1923 entered the US public domain on January 1, 2019.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2019",
           "url": "https://cspd.law.duke.edu/publicdomainday/2019/"
+        },
+        {
+          "type": "cce_renewal_entry",
+          "note": "The copyright was in fact renewed: Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1951 (archive.org, searched directly): 'THE TEN COMMANDMENTS, a photoplay in fourteen reels by Famous Players-Lasky Corp. (c) 21Dec23, L19766. R78222, 8May51, Paramount Pictures Corp. (PWH)'. This does not change the outcome: a renewed 1923 work still tops out at the same 95-year ceiling, which expired 1 January 2019 regardless.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1951 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyri351213libr"
         }
       ]
     },
@@ -52,7 +58,7 @@
       1951,
       1952
     ],
-    "negative_result": null,
+    "negative_result": "Not negative: the CCE 1951 motion-pictures volume shows the film WAS renewed (R78222, 8May51, Paramount Pictures Corp.) — see print layer evidence. Does not affect the verdict: the 95-year ceiling for a renewed 1923 work expired 1 January 2019 regardless.",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Ten Commandments” (renewals ~1950, 1951, 1952)",

@@ -3,7 +3,7 @@
   "title": "Beyond the Rocks",
   "year": 1922,
   "country": "US",
-  "last_verified": "2026-09-13",
+  "last_verified": "2026-11-23",
   "byline": "Gloria Swanson and Rudolph Valentino's only film together — a Famous Players–Lasky picture lost for over 75 years, rediscovered in a Dutch collector's estate in 2000 and restored in 2005.",
   "layers": {
     "print": {
@@ -11,9 +11,15 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "US theatrical release May 1922 by Famous Players–Lasky (Paramount). The statutory 75-year ceiling for pre-1923 US works places the copyright expiry no later than 1 January 1998; as of 2026 that is long past, and 1922 falls safely inside the pre-1923 category. The film was considered completely lost for over 75 years with no commercial presence, making any renewal filing in 1949–1950 functionally impossible to have occurred.",
+          "note": "US theatrical release May 1922 by Famous Players-Lasky (Paramount). The statutory 75-year ceiling for pre-1923 US works places the copyright expiry no later than 1 January 1998; as of 2026 that is long past, and 1922 falls safely inside the pre-1923 category, regardless of renewal history.",
           "source": "U.S. Copyright Office — Duration of Copyright (Circular 15a)",
           "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        },
+        {
+          "type": "renewal_absence_search",
+          "note": "Replaces an earlier, uncited claim that a renewal filing was 'functionally impossible' because the film was lost: a full-text search of the Catalog of Copyright Entries, Cumulative Series, Motion Pictures 1940-1949 AND Motion Pictures 1950-1959 (archive.org, both searched directly for 'Beyond the Rocks') found zero matches in either volume. Not that it matters for the verdict, which rests on the pre-1923 bright line above regardless of renewal.",
+          "source": "Catalog of Copyright Entries, Cumulative Series, Motion Pictures 1940-1949 and 1950-1959 (archive.org)",
+          "url": "https://archive.org/details/Motionpict19401949librrich0010"
         }
       ]
     },
@@ -73,7 +79,7 @@
       1950,
       1951
     ],
-    "negative_result": null,
+    "negative_result": "Zero matches for 'Beyond the Rocks' in a full-text search of the CCE Cumulative Motion Pictures 1940-1949 and 1950-1959 volumes (see print layer evidence). Does not affect the verdict, which rests on the pre-1923 bright line regardless of renewal.",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'Beyond the Rocks' (renewals ~1949, 1950, 1951)",
@@ -95,7 +101,7 @@
       "label": "Beyond the Rocks (1922) on the Internet Archive"
     }
   ],
-  "editorial": "Beyond the Rocks is a 1922 Famous Players–Lasky romantic drama directed by Sam Wood, starring Gloria Swanson and Rudolph Valentino in the only film they made together. It was adapted by screenwriter Jack Cunningham from Elinor Glyn's 1906 Edwardian society novel of the same name. Paramount had no surviving print after 1922; the film was assumed entirely lost until staff at the Nederlands Filmmuseum discovered nitrate reels in 2000 during an inventory of a collector's estate, then spent three years locating all surviving reels before completing the restoration in 2005 with Haghefilm Conservation. The restored film premiered at Cannes that year, with a new score by Dutch musician Henny Vrienten. For a creator, the 1922 silent print is in the public domain in the United States: as a domestic theatrical release from that year, its copyright expired by the statutory ceiling regardless of renewal, and the film's 75-year commercial absence makes a 1949–1950 renewal filing effectively inconceivable. The silent images — star performances, Sam Wood's direction, Alfred Gilks's cinematography — can be freely used, remixed, or redistributed.\n\nThe single practical trap is the restoration layer. Every commercially available copy — the Milestone Film & Video DVD (2006), the EYE Film Player stream, any modern theatrical print — is the 2005 EYE Filmmuseum restoration; under Bridgeman v. Corel and Feist v. Rural, a faithful restoration of public-domain images adds no new copyright, so those silent frames are as free as the original. That restoration also embeds Henny Vrienten's score, itself a protected 21st-century composition whose rights now belong to Vrienten's estate. Creators who need a clean copy should start from the silent excerpt on Internet Archive (identifier: silent-beyond-the-rocks) and supply their own accompaniment; ripping a copy-protected Milestone disc to obtain those same frames, however, could still breach DMCA anti-circumvention rules regardless of the film's public-domain status.",
+  "editorial": "Beyond the Rocks is a 1922 Famous Players–Lasky romantic drama directed by Sam Wood, starring Gloria Swanson and Rudolph Valentino in the only film they made together. It was adapted by screenwriter Jack Cunningham from Elinor Glyn's 1906 Edwardian society novel of the same name. Paramount had no surviving print after 1922; the film was assumed entirely lost until staff at the Nederlands Filmmuseum discovered nitrate reels in 2000 during an inventory of a collector's estate, then spent three years locating all surviving reels before completing the restoration in 2005 with Haghefilm Conservation. The restored film premiered at Cannes that year, with a new score by Dutch musician Henny Vrienten. For a creator, the 1922 silent print is in the public domain in the United States: as a domestic theatrical release from that year, its copyright expired by the statutory ceiling regardless of renewal. A direct search of the Catalog of Copyright Entries' 1940-49 and 1950-59 cumulative Motion Pictures volumes found no registration under this title at all, backing that up, though the verdict does not depend on it either way. The silent images — star performances, Sam Wood's direction, Alfred Gilks's cinematography — can be freely used, remixed, or redistributed.\n\nThe single practical trap is the restoration layer. Every commercially available copy — the Milestone Film & Video DVD (2006), the EYE Film Player stream, any modern theatrical print — is the 2005 EYE Filmmuseum restoration; under Bridgeman v. Corel and Feist v. Rural, a faithful restoration of public-domain images adds no new copyright, so those silent frames are as free as the original. That restoration also embeds Henny Vrienten's score, itself a protected 21st-century composition whose rights now belong to Vrienten's estate. Creators who need a clean copy should start from the silent excerpt on Internet Archive (identifier: silent-beyond-the-rocks) and supply their own accompaniment; ripping a copy-protected Milestone disc to obtain those same frames, however, could still breach DMCA anti-circumvention rules regardless of the film's public-domain status.",
   "faq": [
     [
       "Can I freely use footage from Beyond the Rocks in my film or video?",

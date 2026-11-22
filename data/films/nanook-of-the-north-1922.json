@@ -3,7 +3,7 @@
   "title": "Nanook of the North",
   "year": 1922,
   "country": "US",
-  "last_verified": "2026-09-12",
+  "last_verified": "2026-11-23",
   "byline": "Dir. Robert J. Flaherty; prod. Revillon Frères; dist. Pathé Exchange (US, 1922)",
   "layers": {
     "print": {
@@ -11,9 +11,15 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published in the United States on 11 June 1922 via Pathé Exchange. Under the 1909 Copyright Act the maximum protection was 28 years (initial term) plus a 28-year renewal, totalling 56 years. The renewal window for this 1922 film closed in 1950. Neither producer Revillon Frères nor distributor Pathé Exchange—which underwent bankruptcy and reorganisation by the early 1930s—filed a renewal. The copyright therefore expired and the original print entered the US public domain no later than 1950, decades before any subsequent statutory extension could apply.",
+          "note": "Published in the United States on 11 June 1922 via Pathé Exchange. The pre-1923 bright line applies regardless of any renewal question: every US work published before 1923 is public domain today by term expiry, full stop, under any version of the maximum term the 1909 Act and its extensions ever allowed. This is the operative basis for the verdict below and does not depend on whether a renewal was ever filed.",
           "source": "US Copyright Office Circular 15a: Duration of Copyright (authority on pre-1978 term limits)",
           "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        },
+        {
+          "type": "research_note",
+          "note": "Whether a renewal was ever filed is NOT settled, and a flat 'no renewal was filed' claim is not supportable: a full-text search of the Catalog of Copyright Entries, Cumulative Series, Motion Pictures 1940-1949 (archive.org) turns up an entry reading 'NANOOK OF THE NORTH. Revillon Freres, c1922...' with a separate claimant-index line '*Nanook of the North, 1922, REYNOLDS, E. A.' This could be evidence of a later renewal or re-registration under claimant Reynolds, E.A., or could be an unrelated catalog cross-reference — the OCR and format do not resolve it either way. Because the pre-1923 bright line above already settles the print's status, this question does not need to be answered to reach the verdict.",
+          "source": "Catalog of Copyright Entries, Cumulative Series, Motion Pictures 1940-1949 (archive.org)",
+          "url": "https://archive.org/details/Motionpict19401949librrich0010"
         }
       ]
     },
@@ -33,7 +39,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Nanook of the North is an original observational documentary; Flaherty filmed actual Inuit life in the Ungava Peninsula region of northern Quebec (with staged elements) and did not adapt a pre-existing protected literary work. Flaherty's companion book 'My Eskimo Friends' (Doubleday, 1924) post-dates the film by two years and was not its narrative source. The editorial structure and content originate in the 1922 film itself, so the story copyright shares the film's 1922 US publication date and the same 28+28-year maximum term under the 1909 Act. It expired no later than 1978 (effectively in 1950 upon non-renewal of the initial term).",
+          "note": "Nanook of the North is an original observational documentary; Flaherty filmed actual Inuit life in the Ungava Peninsula region of northern Quebec (with staged elements) and did not adapt a pre-existing protected literary work. Flaherty's companion book 'My Eskimo Friends' (Doubleday, 1924) post-dates the film by two years and was not its narrative source. The editorial structure and content originate in the 1922 film itself, so the story shares the film's 1922 US publication date and is free by the same pre-1923 bright line as the print, regardless of whether a renewal was ever filed.",
           "source": "US Copyright Office Circular 15a: Duration of Copyright",
           "url": "https://www.copyright.gov/circs/circ15a.pdf"
         }
@@ -73,7 +79,7 @@
       1950,
       1951
     ],
-    "negative_result": null,
+    "negative_result": "Unresolved, not negative: the CCE 1940-1949 cumulative motion-pictures volume shows an ambiguous entry under claimant 'Reynolds, E. A.' that may or may not be a renewal (see print layer evidence). Does not affect the verdict, which rests on the pre-1923 bright line instead.",
     "diy_links": [
       {
         "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'Nanook of the North' (renewals ~1949, 1950, 1951)",
@@ -95,7 +101,7 @@
       "label": "Nanook of the North (1922) on the Internet Archive"
     }
   ],
-  "editorial": "Nanook of the North (1922) is Robert J. Flaherty's landmark observational documentary following Allakariallak and his family surviving in the Ungava Peninsula of northern Quebec. Financed by the French fur-trading firm Revillon Frères and distributed in the United States by Pathé Exchange—premiering theatrically on 11 June 1922—it became one of the first feature-length nonfiction films to achieve wide commercial release. The original print is public domain in the US: neither Revillon Frères nor Pathé Exchange, which entered bankruptcy proceedings by the early 1930s, renewed the copyright before the 1950 deadline. The visual content of the 1922 film has circulated without license ever since and may be freely recut, excerpted, or redistributed.\n\nThe practical rights trap is the score. Because this is a silent film, the original 1922 print contains no music—but virtually every commercially distributed copy carries a separately composed and copyrighted accompaniment. Stanley Silverman's 1973 orchestral arrangement appears on the Films Inc. educational version; Gabriel Thibaudeau's score accompanies the 2014 Flicker Alley Blu-ray, which was also restored from Fondation Pathé's original nitrate negative; a faithful restoration of public-domain images does not create a new US copyright in those images, but the score remains independently protected. A creator using footage from Archive.org should confirm the file is a mute or intertitle-only copy to avoid a copyrighted accompanying score; ripping from the Flicker Alley or Criterion Eclipse discs instead could violate DMCA anti-circumvention rules even though the underlying images are public domain.",
+  "editorial": "Nanook of the North (1922) is Robert J. Flaherty's landmark observational documentary following Allakariallak and his family surviving in the Ungava Peninsula of northern Quebec. Financed by the French fur-trading firm Revillon Frères and distributed in the United States by Pathé Exchange—premiering theatrically on 11 June 1922—it became one of the first feature-length nonfiction films to achieve wide commercial release. The original print is public domain in the US on the simplest possible basis: every US work published before 1923 is free today by term expiry, regardless of renewal history. Whether a renewal was ever filed is not actually settled — a primary-source search turned up an ambiguous entry that may or may not be one — but it does not need to be, because the pre-1923 cutoff already covers it. The visual content of the 1922 film has circulated without license ever since and may be freely recut, excerpted, or redistributed.\n\nThe practical rights trap is the score. Because this is a silent film, the original 1922 print contains no music—but virtually every commercially distributed copy carries a separately composed and copyrighted accompaniment. Stanley Silverman's 1973 orchestral arrangement appears on the Films Inc. educational version; Gabriel Thibaudeau's score accompanies the 2014 Flicker Alley Blu-ray, which was also restored from Fondation Pathé's original nitrate negative; a faithful restoration of public-domain images does not create a new US copyright in those images, but the score remains independently protected. A creator using footage from Archive.org should confirm the file is a mute or intertitle-only copy to avoid a copyrighted accompanying score; ripping from the Flicker Alley or Criterion Eclipse discs instead could violate DMCA anti-circumvention rules even though the underlying images are public domain.",
   "faq": [
     [
       "Can I upload or monetize Nanook of the North footage on YouTube or Vimeo?",
@@ -103,7 +109,7 @@
     ],
     [
       "Does Revillon Frères or any estate still own rights to the original 1922 film?",
-      "No. Revillon Frères, the French fur-trading firm that financed the production, ceased meaningful media operations long before the question arose, and the US copyright was never renewed before the 1950 deadline. No entity—including Flaherty's estate—holds copyright in the original 1922 print. What does survive are the copyrights in separately composed scores and other original additions attached to distributed copies; a faithful image restoration of a public-domain film does not create a new US copyright in those images. The bare 1922 footage is unowned from a US copyright standpoint."
+      "No. The US print is public domain under the pre-1923 bright line regardless of renewal history, so no entity—including Revillon Frères, Pathé Exchange, or Flaherty's estate—holds a US copyright in it today. Whether a renewal was ever filed in the 1940s-50s is not fully settled from the record checked, but it does not matter: the pre-1923 cutoff covers the print either way. What does survive are the copyrights in separately composed scores and other original additions attached to distributed copies; a faithful image restoration of a public-domain film does not create a new US copyright in those images. The bare 1922 footage is unowned from a US copyright standpoint."
     ]
   ]
 }

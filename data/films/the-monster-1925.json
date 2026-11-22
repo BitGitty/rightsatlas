@@ -3,7 +3,7 @@
   "title": "The Monster",
   "year": 1925,
   "country": "US",
-  "last_verified": "2026-10-30",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
@@ -14,6 +14,12 @@
           "note": "The Monster was released in 1925. The 95-year US term for 1925 publications expired at the end of 2020, so the film print has been in the US public domain since January 1, 2021. Duke CSPD states that works from 1925 entered the US public domain on that date.",
           "source": "Duke CSPD Public Domain Day 2021 (works from 1925)",
           "url": "https://cspd.law.duke.edu//publicdomainday/2021/"
+        },
+        {
+          "type": "cce_renewal_entry",
+          "note": "The copyright was in fact renewed: Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1953 (archive.org, searched directly): 'THE MONSTER, a photoplay in seven reels by Metro-Goldwyn Pictures Corp. (c) 9Mar25, L21216. R106670, 3Feb53, Loew's Incorporated. (PWH)'. This does not change the outcome: a renewed 1925 work still tops out at the same 95-year ceiling, which expired 1 January 2021 regardless.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1953 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig371213lib"
         }
       ]
     },
@@ -55,8 +61,12 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [],
-    "negative_result": null,
+    "renewal_years": [
+      1952,
+      1953,
+      1954
+    ],
+    "negative_result": "Not negative: the CCE 1953 motion-pictures volume shows the film WAS renewed (R106670, 3Feb53, Loew's Incorporated) — see print layer evidence. Does not affect the verdict: the 95-year ceiling for a renewed 1925 work expired 1 January 2021 regardless.",
     "diy_links": []
   },
   "watch": [

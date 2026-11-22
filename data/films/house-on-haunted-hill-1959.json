@@ -3,23 +3,23 @@
   "title": "House on Haunted Hill",
   "year": 1959,
   "country": "US",
-  "last_verified": "2026-10-30",
+  "last_verified": "2026-11-23",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "undetermined",
+      "status": "not_pd",
       "evidence": [
         {
-          "type": "renewal_registration",
-          "note": "Renewal registration RE0000318809 (filed 1986-01-12) exists at the U.S. Copyright Office for a motion picture titled 'House on a haunted hill. By Allied Artists Pictures Corporation.', renewing original registration LP0000012531 (filed 1958-12-29, notice year 1959). The renewing party is listed as Revival Pictures (PWH). The registration date and notice year match the 1959 William Castle film.",
-          "source": "U.S. Copyright Office Public Records System",
-          "url": "https://publicrecords.copyright.gov/detailed-record/voyager_7215258"
+          "type": "cce_entry",
+          "note": "The Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1959 (archive.org, searched directly) carries the ORIGINAL registration under the film's exact release title, with no 'a': 'HOUSE ON HAUNTED HILL. Allied Artists Pictures Corp. 75 min., sd., b&w, 35 mm. (c) Allied Artists Pictures Corp.; 29Dec58 (in notice: 1959); LP12531.' This matches registration LP0000012531 exactly (same claimant, same date, same notice year) cited in the 1986 renewal below.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1959 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
         },
         {
-          "type": "research_note",
-          "note": "The title in the renewal record, 'House on a haunted hill', differs from the film's release title 'House on Haunted Hill'. No renewal was found under the exact title. Whether RE0000318809 covers the William Castle film or a differently titled work is uncertain. Web sources conflict: some assert the copyright was never renewed, others say it was renewed, and none of them cite a Copyright Office record that settles the question.",
-          "source": null,
-          "url": null
+          "type": "renewal_registration",
+          "note": "Renewal registration RE0000318809 (filed 1986-01-12) exists at the U.S. Copyright Office for a motion picture titled 'House on a haunted hill. By Allied Artists Pictures Corporation.', renewing original registration LP0000012531 (filed 1958-12-29, notice year 1959). The renewing party is listed as Revival Pictures (PWH). The 'a' in the renewal filing's title is a clerical variant, not a different work: the original 1959 registration (above) uses the exact release title with no 'a', and the claimant, filing date and notice year are identical. The renewal also lands in the correct 28th-year window (1959+27=1986). The film is therefore still under US copyright, protected until 1 January 2055 (95 years from the 1959 notice year).",
+          "source": "U.S. Copyright Office Public Records System",
+          "url": "https://publicrecords.copyright.gov/detailed-record/voyager_7215258"
         }
       ]
     },
@@ -93,15 +93,15 @@
       "quality": "Full HD (1920x1080); uploader marks it Public Domain Mark 1.0 (an uploader claim, not a ruling)"
     }
   ],
-  "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive. A creator can find ready-to-use copies there. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is not settled. A 1986 renewal, RE0000318809, was filed by Revival Pictures for a motion picture titled 'House on a haunted hill' from Allied Artists, and that title does not match the film exactly, so it is unclear whether it covers this film. The clear trap is the theme song. Its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723. It is protected whatever the status of the film print.",
+  "editorial": "William Castle's 1959 film puts Vincent Price in a mansion as a wealthy host who offers five strangers $10,000 each if they survive the night. It is a compact black-and-white horror title with a famous lead and a simple premise, and it circulates widely on the Internet Archive with uploader 'public domain' labels. The copyright was registered as LP0000012531 on December 29, 1958 (notice year 1959).\n\nThe print is still under copyright. The Catalog of Copyright Entries' own 1959 motion-picture volume carries the original registration under the exact release title, 'House on Haunted Hill' (no 'a'), confirming it is the same work as the 1986 renewal, RE0000318809, filed by Revival Pictures under the slightly different clerical title 'House on a haunted hill.' The renewal lands in the correct 28th year after registration, so it is valid, and the film is protected in the US until 1 January 2055. Internet Archive 'Public Domain' tags are the uploader's claim, not a ruling. The theme song is a second, separate trap: its composition (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 as RE0000309723, so it stays protected on top of the film itself.",
   "faq": [
     [
       "Can I upload or distribute the 1959 House on Haunted Hill?",
-      "Copies are hosted on the Internet Archive with a Public Domain Mark label. That label is the uploader's claim, not a ruling. A 1986 Copyright Office renewal exists under the slightly different title 'House on a haunted hill', so the print status is undetermined. Use a plain copy of the original film, not a colorized or newly scored edition. Weigh the risk before commercial use."
+      "No, not without a license. Copies are hosted on the Internet Archive with a Public Domain Mark label, but that label is the uploader's claim, not a ruling. The film's 1958 registration (LP0000012531) was validly renewed in 1986 (RE0000318809), landing in the correct 28th-year window, so the print is still under US copyright and will not enter the public domain until 1 January 2055."
     ],
     [
       "Is the theme song in the film public domain?",
-      "No. The composition 'House on Haunted Hill' (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 (RE0000309723), so it is still protected. Using the track as it sits in the film depends on the film's own uncertain status. Any new recording of the song needs separate clearance."
+      "No. The composition 'House on Haunted Hill' (music by Richard Loring, lyrics by Richard Kayne) was registered in 1958 and renewed in 1986 (RE0000309723), so it is still protected — on top of the film print itself also being under copyright until 2055. Any new recording of the song needs separate clearance."
     ]
   ]
 }
