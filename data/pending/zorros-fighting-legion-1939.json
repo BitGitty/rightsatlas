@@ -1,0 +1,72 @@
+{
+  "id": "zorros-fighting-legion-1939",
+  "title": "Zorro's Fighting Legion",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Republic Pictures serial, 1939. This run found no renewal record for the renewal window (a 1939 work's renewal year is 1967, filed 1966-67) and did not read the CCE Motion Pictures volumes for this title, so no non-renewal claim is made. The CCE 1967 motion-picture volume is listed on archive.org but was not read for this title.",
+          "source": "Internet Archive: Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1967",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1966-68 by hand (a 1939 film's renewal would be listed there, renewal year 1967, filed 1966-67)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records — online records cover 1978 and later only; use for 1978+ renewals or assignments",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/zorros_fighting_legion_chapter_1",
+      "label": "Zorro's Fighting Legion: Chapter 1 - Golden God (Republic Pictures, 1939)",
+      "quality": "single chapter (Chapter 1 only; the uploader's public-domain tag is not verified)"
+    }
+  ],
+  "editorial": "Zorro's Fighting Legion is a 1939 Republic Pictures serial directed by John English and William Witney.\n\nThe print's status is not settled here. A 1939 work's renewal would fall in 1967 (filed 1966-67), and that record would be in the printed Catalog of Copyright Entries, Motion Pictures volumes for 1966-68. This run did not read them for this title, so treat the film as unverified until someone checks. The Copyright Office online records cover only 1978 and later, so they will not show a 1966-67 renewal. The Zorro character and name may also carry separate trademark claims, and those would survive any copyright result.",
+  "faq": [
+    [
+      "Can I reuse clips from Zorro's Fighting Legion?",
+      "Not safely yet. Nobody has confirmed whether the 1939 copyright was renewed (renewal year 1967, filed 1966-67). Check the CCE Motion Pictures volumes for 1966-68 first. Clips from archive.org copies are only as free as that check shows."
+    ],
+    [
+      "Can I use the name Zorro in a new project built on this serial?",
+      "Treat it with caution. Trademark rights in character and franchise names are separate from copyright and do not expire with it. This dossier did not confirm who holds any active Zorro mark, so clear the name before using it as a title or brand."
+    ]
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "the-killer-shrews-1959",
+  "title": "The Killer Shrews",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's lead calls the film 'now in the public domain' but cites no registration or renewal record, and the page does not mention a copyright notice or renewal. This session could not read the Catalog of Copyright Entries renewal volumes or the Copyright Office public records, so non-renewal is not confirmed.",
+          "source": "Wikipedia: The Killer Shrews",
+          "url": "https://en.wikipedia.org/wiki/The_Killer_Shrews"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film. The recorded track normally shares the film's own status, so the score cannot be called free until the print's status is settled. No separate score copyright was checked.",
+          "source": "Internet Archive item for the film",
+          "url": "https://archive.org/details/thekillershrews1959scifihorror"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox credits the film as written by Jay Simms. This session did not confirm from the page whether a source book or story exists, so the story layer should follow the film's own status. This was not checked against a registration record.",
+          "source": "Wikipedia: The Killer Shrews",
+          "url": "https://en.wikipedia.org/wiki/The_Killer_Shrews"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's Home media section lists a colorized DVD from Legend Films (2007). Colorization is added material that can carry its own copyright, so the colorized version is not safe to reuse from the black-and-white print. The same section also lists releases from Diamond Entertainment Corporation (1999), Madacy Entertainment (2001), K-Tel Entertainment (2001) and a Film Masters Blu-ray (September 26, 2023). These were not checked for added material.",
+          "source": "Wikipedia: The Killer Shrews",
+          "url": "https://en.wikipedia.org/wiki/The_Killer_Shrews"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1986,
+      1987
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Killer Shrews”, 1986–1987)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/thekillershrews1959scifihorror",
+      "label": "The Killer Shrews (1959) — full feature, Internet Archive",
+      "quality": "full feature, about 68 minutes"
+    }
+  ],
+  "editorial": "According to Wikipedia, The Killer Shrews was released on July 15, 1959 by McLendon-Radio Pictures Distributing Company. Ray Kellogg directed it from a Jay Simms screenplay, and Ken Curtis and Gordon McLendon produced it. Wikipedia says it was shot outside Dallas, Texas, back-to-back with The Giant Gila Monster, and that the two played in theaters as a double feature. It is a low-budget island creature picture, and Wikipedia notes it was lampooned in the fourth season of Mystery Science Theater 3000. It is widely available on the Internet Archive and was featured on MST3K.\n\nThe rights trap is that its public-domain status is asserted widely but not documented here. A 1959 film is free only if it was released without a valid copyright notice or its copyright was not renewed in the 28th year. For a 1959 work, the 28th year is 1987, so the 1986–1987 filing window is the one to search. This dossier has no primary record for either point, so the print stays undetermined until someone checks the renewal volumes and the Copyright Office catalog by hand. Separately, the 2007 Legend Films release is colorized, and that colorization is added material, so reusers should work from a black-and-white print.",
+  "faq": [
+    [
+      "Is The Killer Shrews in the public domain?",
+      "It is widely available and often described as public domain, but this review found no primary record confirming a missing notice or missing renewal. Check the Copyright Office public records and the Catalog of Copyright Entries renewal volumes for 1986 to 1987 before relying on it."
+    ],
+    [
+      "Can I use the colorized DVD or Blu-ray versions?",
+      "Not safely. Wikipedia lists a colorized Legend Films DVD from 2007, and colorization is added material that can be protected. If the film's own copyright has lapsed, the underlying black-and-white images would be free but the colorization would not be."
+    ]
+  ]
+}
