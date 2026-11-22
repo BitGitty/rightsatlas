@@ -226,12 +226,27 @@
    "film": "dementia-13-1963",
    "kind": "evidence"
   },
+  "detour1945HD": {
+   "ok": true,
+   "film": "detour-1945",
+   "kind": "watch"
+  },
+  "Detour": {
+   "ok": true,
+   "film": "detour-1945",
+   "kind": "watch"
+  },
   "catalogofc19733271213libr": {
    "ok": true,
    "film": "the-shadow-returns-1946",
    "kind": "evidence"
   },
-  "detour1945HD": {
+  "catalogofcopyrig3281213li": {
+   "ok": true,
+   "film": "detour-1945",
+   "kind": "evidence"
+  },
+  "catalogofc19723261213libr": {
    "ok": true,
    "film": "detour-1945",
    "kind": "evidence"
