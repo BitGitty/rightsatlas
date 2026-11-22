@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-21",
+  "last_release": "2026-11-22",
   "log": [
     {
       "date": "2026-08-31",
@@ -332,6 +332,10 @@
     {
       "date": "2026-11-21",
       "film": "of-human-bondage-1934"
+    },
+    {
+      "date": "2026-11-22",
+      "film": "sylvester-1923"
     }
   ]
 }

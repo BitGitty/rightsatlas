@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21",
+ "checked": "2026-11-22",
  "items": {
   "7th-heaven-1927_202506": {
    "ok": true,
@@ -326,6 +326,16 @@
    "film": "his-girl-friday-1940",
    "kind": "evidence"
   },
+  "catalogofc19673211213libr": {
+   "ok": true,
+   "film": "the-devil-bat-1940",
+   "kind": "evidence"
+  },
+  "catalogofc19683221213libr": {
+   "ok": true,
+   "film": "the-devil-bat-1940",
+   "kind": "evidence"
+  },
   "catalogofcopyr3141213libr": {
    "ok": true,
    "film": "white-zombie-1932",
@@ -445,11 +455,6 @@
    "ok": true,
    "film": "night-of-the-living-dead-1968",
    "kind": "watch"
-  },
-  "catalogofc19683221213libr": {
-   "ok": true,
-   "film": "the-devil-bat-1940",
-   "kind": "evidence"
   },
   "Nosferatu_most_complete_version_93_mins.": {
    "ok": true,
@@ -661,11 +666,6 @@
    "film": "the-devil-bat-1940",
    "kind": "watch"
   },
-  "catalogofc19673211213libr": {
-   "ok": true,
-   "film": "the-devil-bat-1940",
-   "kind": "evidence"
-  },
   "the-divorcee_1930": {
    "ok": true,
    "film": "the-divorcee-1930",
@@ -755,6 +755,11 @@
    "ok": true,
    "film": "the-jazz-singer-1927",
    "kind": "evidence"
+  },
+  "the-kid_202509": {
+   "ok": true,
+   "film": "the-kid-1921",
+   "kind": "watch"
   },
   "the-kid-brother_1927": {
    "ok": true,
