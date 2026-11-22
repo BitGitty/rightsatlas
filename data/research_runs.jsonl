@@ -585,3 +585,6 @@
 {"date": "2026-11-22", "id": "his-girl-friday-1940", "result": "refreshed", "reasons": ["now Clear: print", "now Clear: score"]}
 {"date": "2026-11-22", "id": "the-iron-horse-1924", "result": "refreshed", "reasons": ["now Clear: story"]}
 {"date": "2026-11-22", "id": "the-kid-1921", "result": "refreshed", "reasons": ["now Clear: story"]}
+{"date": "2026-11-22", "id": "sylvester-1923", "result": "queued", "reasons": []}
+{"date": "2026-11-22", "id": "dracula-1931", "result": "queued", "reasons": []}
+{"date": "2026-11-22", "id": "city-lights-1931", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}

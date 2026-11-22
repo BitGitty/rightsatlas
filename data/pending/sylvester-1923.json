@@ -1,0 +1,97 @@
+{
+  "id": "sylvester-1923",
+  "title": "Sylvester (New Year's Eve)",
+  "year": 1923,
+  "country": "DE",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film was released 3 January 1924 (Wikipedia, New Year's Eve (1924 film)). Duke CSPD states that works from 1924 entered the US public domain on 1 January 2020 under the 95-year term. Its footnote 2 says foreign works from 1924 stay protected only if they complied with US formalities, were published in the US within 30 days of foreign publication, or were still protected at home on 1/1/1996. The queue year of 1923 is the production year. Publication was 1924, and that publication year is what sets the term.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "Carl Mayer (screenwriter) died in 1944 and Lupu Pick (director) died in 1931. The film was probably still protected in Germany on 1/1/1996, which was the URAA restoration date, so the US copyright was likely restored. The restored term is 95 years from publication in 1924, which ended on 31 December 2019. The only restoration route Duke's footnote describes therefore ran out, and the print is in the US public domain whether or not it was restored. This is my reading of the Duke footnote, not a quoted holding.",
+          "source": "Duke CSPD Public Domain Day 2020, footnote 2",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording with its own rights. Check the credits of the specific copy you reuse.",
+          "source": "RightsAtlas analysis",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2020/"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is by Carl Mayer, per Wikipedia. The page does not say the film is based on an earlier play or novel, so the story was treated as original to the film. It was first released in January 1924, so its term matches the print's. I could not confirm in this session that no earlier source exists.",
+          "source": "Wikipedia, New Year's Eve (1924 film)",
+          "url": "https://en.wikipedia.org/wiki/New_Year%27s_Eve_(1924_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1950,
+      1951,
+      1952
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Sylvester (New Year's Eve)” (renewals ~1950, 1951, 1952)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Sylvester+(New+Year's+Eve)"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/silent-new-years-eve",
+      "label": "New Year's Eve (Lupu Pick, 1924) on the Internet Archive silent films collection",
+      "quality": "unknown; the item has VOB and MP4 files, and I did not check picture quality or which print or score it carries"
+    }
+  ],
+  "editorial": "Sylvester (New Year's Eve) is a German silent directed by Lupu Pick from a screenplay by Carl Mayer. Eugen Klöpfer, Edith Posca and Frida Richard play the man, the wife and the mother. Rex-Film GmbH produced it. It was released on 3 January 1924 and premiered in Berlin on 4 January 1924. Wikipedia lists two running times, 66 and 74 minutes, which suggests more than one cut is in circulation. A creator can use the images freely, and the cut matters more than any other choice here.\n\nThe trap is the date and the music. The queue lists the film as 1923, but it was published in 1924, and the 1924 date is the one that sets the term. Duke's footnote shows why a foreign film can raise doubts: the film was probably restored in 1996 under the URAA, but the restored term ended with 2019. The print is free now. A silent film on a modern copy usually carries a score, so check what is on the copy you use. I found no information on restorations or releases, so treat any restored or re-scored edition as a separate item and check it.",
+  "faq": [
+    [
+      "Is Sylvester (New Year's Eve) free to use in the US?",
+      "The print is in the US public domain. The film was published in January 1924, and Duke's Public Domain Day 2020 page says 1924 works entered the US public domain on 1 January 2020. Foreign works kept protection only on conditions that this film's restored term does not outlast, and the term ended after 2019 at the latest. Check any score or added titles on the copy you use."
+    ],
+    [
+      "Which version of the film should I use?",
+      "Wikipedia gives two running times, 66 and 74 minutes, so more than one cut exists. The Internet Archive holds an item called silent-new-years-eve, and I did not check its cut or score. Look at it yourself, and check the credits for any music or new intertitles that a modern edition added."
+    ]
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "dracula-1931",
+  "title": "Dracula",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Premiered February 12, 1931 at the Roxy Theatre in New York and released across the US two days later, by Universal. The Wikipedia article states that, as a published work from 1931, the film enters the US public domain on January 1, 2027. A 95-year term of that kind applies to a renewed work, so this implies a renewed copyright. That inference is mine, not the article's. I could not retrieve a primary renewal record (the Stanford renewal database returned no readable results), so I am not claiming a status either way.",
+          "source": "Wikipedia, Dracula (1931 English-language film)",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1931 film has no original score. Per Wikipedia it uses excerpts from classical works: Tchaikovsky's Swan Lake (opening credits), the end of the overture to Wagner's Die Meistersinger von Nürnberg, and the opening of Schubert's Unfinished Symphony. The underlying compositions are separate works from the film's recorded track. The status of that track is unresolved and is likely tied to the film's own status.",
+          "source": "Wikipedia, Dracula (1931 English-language film)",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Bram Stoker's 1897 novel and on stage adaptations of it. Wikipedia credits \"the 1924 play by Hamilton Deane and John L. Balderston\". The usual account is that Hamilton Deane wrote the 1924 stage version alone, and that the Deane–Balderston rewrite was the version staged on Broadway in 1927. I did not confirm that split on the fetched page. The novel, Deane's 1924 play and the 1927 Deane–Balderston play are separate works, and each has its own copyright question. None of their US copyright statuses was checked.",
+          "source": "Wikipedia, Dracula (1931 English-language film)",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "In 1998 Philip Glass was commissioned to compose a new score for the film, performed by the Kronos Quartet. Universal released it in 1999, and its DVD releases let the viewer choose the unscored soundtrack or the Glass score. That score is added material and is protected separately from the film. A faithful restoration of the picture adds no new copyright.",
+          "source": "Wikipedia, Dracula (1931 English-language film)",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “Dracula” (renewals ~1958, 1959, 1960)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Dracula"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Dracula is Universal's 1931 sound film directed by Tod Browning and starring Bela Lugosi. It premiered in New York on February 12, 1931. A separate Spanish-language version, with Carlos Villarías as the Count, was shot at night on the same sets under George Melford. The English film is based on Bram Stoker's 1897 novel through stage adaptations: Hamilton Deane's 1924 play and the Deane–Balderston play staged on Broadway in 1927.\n\nThe trap is that this film is not free today. A 1931 film that has been renewed runs 95 years, and the Wikipedia article gives January 1, 2027 as its US entry date. I did not find a primary renewal record, so the print stays undetermined. Even if the film's print enters the public domain, the novel and each stage play are separate works with their own copyright questions, and I have not checked them. The 1998 Philip Glass and Kronos Quartet score is a separate protected work from the film.",
+  "faq": [
+    [
+      "Is Dracula (1931) in the public domain in the US?",
+      "Not confirmed. Today is November 22, 2026. The Wikipedia article says the film enters the US public domain on January 1, 2027, which implies a renewed 95-year term. I could not verify a renewal record myself, so check the renewal databases linked in the dossier before relying on any copy."
+    ],
+    [
+      "Can I use the Philip Glass score with the film?",
+      "No, not freely. Glass was commissioned in 1998 and the Kronos Quartet performed the score. It is added material, so it carries its own copyright and recording rights. The film's own track uses excerpts from Tchaikovsky, Wagner and Schubert, and does not include the Glass score."
+    ]
+  ]
+}
