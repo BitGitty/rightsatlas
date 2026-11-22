@@ -241,6 +241,17 @@ def film_page(f, post=None):
         watch_html += (f'<li><a href="{e(w["url"])}" rel="nofollow noopener">'
                        f'{e(w.get("label", "Watch on archive.org"))}</a>'
                        f'{" · " + e(w["quality"]) if w.get("quality") else ""}</li>')
+    # 11-22 (audit C1/C3, quality audit): "Watch it free" only when the film print is free. Not confirmed -> plain
+    # archival list with a caution; protected -> no watch list at all (it would read as our endorsement).
+    _ps = f["layers"]["print"]["status"]
+    if not watch_html or _ps in ("not_pd", "likely_restored", "partially_protected"):
+        watch_section = ""
+    elif _ps in ("verified_pd", "likely_pd"):
+        watch_section = f'<h2>Watch it free (archival copies)</h2><ul class="watch">{watch_html}</ul>'
+    else:
+        watch_section = (f'<h2>Archival copies online</h2><p class="caution">Rights not confirmed yet (see the answer '
+                         f'above). Watching is up to you; do not reuse or republish it until the status is clear.</p>'
+                         f'<ul class="watch">{watch_html}</ul>')
     # 2026-11-20 owner "go": people search "watch <film> free" far more than "is it public domain".
     # Embed the archive.org player, but only when the print is verified public domain (never on
     # unverified pages: that would read as our endorsement of copying it).
@@ -305,7 +316,7 @@ answers are wrong so often.</p>
 <section class="record"><h2 id="layers">The record behind each answer</h2>{record_rows}</section>
 {f'<h2>Automatic rule notes</h2><ul class="notes">{notes}</ul>' if notes else ''}
 
-{f'<h2>Watch it free (archival copies)</h2><ul class="watch">{watch_html}</ul>' if watch_html else ''}
+{watch_section}
 
 {f'<p class="readpost">Read our article: <a href="{BASE}blog/{post["slug"]}/">{e(post["title"])}</a></p>' if post else ''}
 <h2>Background</h2>
