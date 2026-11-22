@@ -606,3 +606,6 @@
 {"date": "2026-11-22", "id": "detour-1945", "result": "refreshed", "reasons": []}
 {"date": "2026-11-22", "id": "frankenstein-1931", "result": "blocked", "reasons": ["no evidence on any layer — nothing researched to publish"]}
 {"date": "2026-11-22", "id": "attack-of-the-50-foot-woman-1958", "result": "blocked", "reasons": ["refresh has less evidence (3) than the live page (4)"]}
+{"date": "2026-11-22", "id": "vampyr-1932", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-22", "id": "the-screaming-skull-1958", "result": "queued", "reasons": []}
+{"date": "2026-11-22", "id": "red-zone-cuba-1966", "result": "queued", "reasons": []}

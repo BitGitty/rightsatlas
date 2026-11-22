@@ -1,0 +1,75 @@
+{
+  "id": "red-zone-cuba-1966",
+  "title": "Red Zone Cuba",
+  "year": 1966,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released November 23, 1966. A 1966 work is in the 1964-1977 band, where renewal is automatic and the term is 95 years from publication, to the end of 2061. It is protected through 2061 whether or not a renewal was filed. Public domain could only come from a missing or defective copyright notice on the 1966 release. No source verifying the notice on the 1966 prints was found.",
+          "source": "Wikipedia (release date only)",
+          "url": "https://en.wikipedia.org/wiki/Red_Zone_Cuba"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film. The recorded track most likely shares the print's status, which depends only on whether the 1966 release carried a valid copyright notice. Otherwise it is protected through 2061. No composer or music rights were checked.",
+          "source": "research note",
+          "url": "https://en.wikipedia.org/wiki/Red_Zone_Cuba"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Coleman Francis is credited as writer and director, and no source work was found. The screenplay's status depends only on whether the 1966 release carried a valid copyright notice. Otherwise it is protected through 2061.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Red_Zone_Cuba"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The only archive.org item found was a 1997 Rhino VHS item for the Mystery Science Theater 3000 episode. It is not a restoration. Any riffed or re-released edition adds its own protected material.",
+          "source": "archive.org search",
+          "url": "https://archive.org/details/opening-to-mystery-science-theater-3000-red-zone-cuba-1997-vhs-by-rhino-home-video"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [],
+    "negative_result": null,
+    "diy_links": []
+  },
+  "watch": [],
+  "editorial": "Red Zone Cuba is a Coleman Francis film, released November 23, 1966, which he both wrote and directed. It also circulated as Night Train to Mundo Fine, and Hollywood Star Pictures is listed as distributor. It is a cult title, and its later appearance in a Mystery Science Theater 3000 episode is the reason many creators look for it.\n\nThe rights question is open. A 1966 work falls in the 1964-1977 band, where renewal is automatic and the term is 95 years from publication, to the end of 2061. So the film is protected through 2061 whether or not a renewal was filed. It could only be free if the 1966 release lacked a valid copyright notice. No source verifying the notice on the 1966 prints was found. Treat all five layers as protected through 2061 unless the notice question is settled. Each layer depends only on that notice. Do not reuse the film, or any MST3K-edited version of it, until then.",
+  "faq": [
+    [
+      "Is Red Zone Cuba in the public domain?",
+      "Not confirmed. It was released in 1966, and renewal was automatic, so it is protected for 95 years from publication, to the end of 2061, whether or not a renewal was filed. Public domain could only come from a missing or defective copyright notice on the 1966 release. No source verifying the notice was found."
+    ],
+    [
+      "Can I use clips from the Mystery Science Theater 3000 version?",
+      "No assumption of freedom is safe. The riffed episode adds its own commentary and production, which are separately protected, and the underlying film is presumed protected through 2061 unless the 1966 notice is shown to be missing or defective."
+    ]
+  ]
+}

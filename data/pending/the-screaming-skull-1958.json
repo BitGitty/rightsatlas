@@ -1,0 +1,91 @@
+{
+  "id": "the-screaming-skull-1958",
+  "title": "The Screaming Skull",
+  "year": 1958,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film \"was never registered with a copyright office, despite the presence of an onscreen copyright notice belonging to Madera Productions.\" I have not seen the title card myself, and I have not verified the registration claim. It is a secondary statement and I found no primary record for it. Wikipedia reporting no registration does not settle renewal. The renewal window for a 1958 work is calendar years 1985-86 (years 27 and 28). I did not search the Copyright Office public catalog or any Catalog of Copyright Entries volume for a renewal. Non-renewal is not confirmed.",
+          "source": "Wikipedia, The Screaming Skull",
+          "url": "https://en.wikipedia.org/wiki/The_Screaming_Skull"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Ernest Gold is credited as composer. This is a sound film, so the recorded track normally follows the print's status. That status is unresolved until renewal is checked.",
+          "source": "Wikipedia, The Screaming Skull",
+          "url": "https://en.wikipedia.org/wiki/The_Screaming_Skull"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts F. Marion Crawford's short story 'The Screaming Skull', first published in Collier's on 11 July 1908. A work published in 1908 is past its US term. The screenplay is credited to John Kneubuhl, so any new material he added is separate.",
+          "source": "Wikipedia, The Screaming Skull (short story)",
+          "url": "https://en.wikipedia.org/wiki/The_Screaming_Skull_(short_story)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1985,
+      1986
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records - search “The Screaming Skull” for renewals filed in 1985 and 1986",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) - browse the Motion Pictures volumes for 1985 and 1986 by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-screaming-skull-1958_202402",
+      "label": "The Screaming Skull (1958) - Internet Archive, MP4, uploader-tagged Public Domain Mark (uploaded by RetroFlixUploads)",
+      "quality": "resolution not stated on item page"
+    },
+    {
+      "url": "https://archive.org/details/TheScreamingSkull",
+      "label": "The Screaming Skull - Internet Archive, MP4/OGV, uploader-tagged public domain (uploaded by dondeeley)",
+      "quality": "resolution not stated on item page"
+    }
+  ],
+  "editorial": "The Screaming Skull is a 1958 American International Pictures release. Madera Productions made it. Alex Nicol directed, John Kneubuhl wrote and produced it, and Ernest Gold scored it. It follows newlyweds Eric and Jenni Whitlock, who move into the mansion where Eric's first wife died. Jenni has a history of mental illness and begins to see a skull. It is a low-budget haunted-house film that circulates widely in public-domain collections, and Wikipedia lists Alpha Video, Echo Bridge Home Entertainment and Mill Creek Entertainment among its DVD releasers. Creators wanting a short, quotable 1950s horror feature for clips, riffs or remixes will find plenty of copies.\n\nThe rights trap is the film's own copyright status. Wikipedia reports an onscreen copyright notice for Madera Productions and says the film was never registered. I have not seen the title card and could not verify the registration claim against the Copyright Office. For a 1958 work the renewal window is calendar years 1985-86, and I did not search it. Do not treat the film as cleared until you search renewals for those years yourself. The Crawford story it adapts was published in Collier's in 1908, so the source is free. Kneubuhl's screenplay and Gold's score are separate, film-era material and have no confirmed status. Archive.org's public-domain labels are uploader tags, not proof.",
+  "faq": [
+    [
+      "Is The Screaming Skull (1958) free to use?",
+      "Not yet confirmed. The Crawford story is old enough to be free, and the archive.org copies carry uploader-applied public-domain tags. Wikipedia reports an onscreen copyright notice and no registration, but I did not verify either, and I did not search renewal records. The renewal window for a 1958 work is calendar years 1985-86. Run the Copyright Office search for those years first."
+    ],
+    [
+      "Can I use the Ernest Gold score and the Kneubuhl screenplay?",
+      "Treat them like the film itself. The soundtrack is part of a sound film and normally shares the print's status. The screenplay's new material is separate from Crawford's 1908 story. Both stay unresolved until renewal is checked."
+    ]
+  ]
+}
