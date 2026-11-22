@@ -1,0 +1,104 @@
+{
+  "id": "the-outlaw-1943",
+  "title": "The Outlaw",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not confirmed. Wikipedia's article on the film says Hughes sued Classic Film Museum, Inc. and Alan J. Taylor, and that 'When it emerged that The Outlaw had fallen into the public domain in 1969 for lack of copyright renewal, the case was settled, with Classic Film Museum agreeing to stop distribution of the two copyrighted titles and Hughes withdrawing his claim on The Outlaw.' This is a secondary source, not a court ruling, and its 1969 date does not match a renewal window of about 1970-71 for a 1943 film. I did not read the renewal sections of the Catalog of Copyright Entries volumes and did not search the Copyright Office public catalog, so I cannot say whether a renewal is listed.",
+          "source": "Wikipedia, The Outlaw",
+          "url": "https://en.wikipedia.org/wiki/The_Outlaw"
+        },
+        {
+          "type": "research_note",
+          "note": "CCE volumes to read by hand for the renewal check: Motion Pictures and Filmstrips Jan-Dec 1971 (Vol 25), and the 1970 volume (Vol 24). Each lists renewals in a separate section at the end of each part.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not checked. The film's recorded soundtrack and the underlying musical score are separate rights questions, and the score can have its own copyright and renewal history. Wikipedia's infobox credits the music to Victor Young. I did not research the music's copyright or renewal status.",
+          "source": "Wikipedia, The Outlaw",
+          "url": "https://en.wikipedia.org/wiki/The_Outlaw"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox credits the screenplay to Jules Furthman. The portion of the article I read names no source work, so I did not establish whether the story has an older source.",
+          "source": "Wikipedia, The Outlaw",
+          "url": "https://en.wikipedia.org/wiki/The_Outlaw"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Per Wikipedia, the film was colorized twice: first by Hal Roach Studios, released in 1988, then by Legend Films, released to DVD on June 16, 2009, 'featuring both the newly colorized edition and a restored black-and-white edition'. The DVD also has an audio commentary by Jane Russell and Terry Moore. These dates are from Wikipedia only; I did not check them against a retailer or primary source. Colorization and added commentary are new material that can carry their own copyright. A faithful black-and-white restoration adds none.",
+          "source": "Wikipedia, The Outlaw",
+          "url": "https://en.wikipedia.org/wiki/The_Outlaw"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971,
+      1972
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Outlaw”, ~1970, 1971, 1972)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1971 (Vol 25) — renewal section at end of each part",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1970 (Vol 24)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-outlaw-1943-by-howard-hughes",
+      "label": "The Outlaw (1943) — Internet Archive, unverified third-party upload (YannF). Its Public Domain Mark and 'PD due to lack of copyright renewal' note are the uploader's claim and are not clearance.",
+      "quality": "unverified; title and year match; page does not say whether the print is black-and-white, colorized or restored (the download file name suggests a Blu-ray source)"
+    }
+  ],
+  "editorial": "The Outlaw is Howard Hughes's Western with Jack Buetel, Jane Russell, Thomas Mitchell and Walter Huston, written by Jules Furthman with music credited to Victor Young. Per Wikipedia, it opened at the Geary Theatre in San Francisco on February 5, 1943, then sat on the shelf. United Artists re-released it in March 1946, the Production Code seal was revoked in September 1946, and in 1948 RKO, by then owned by Hughes, acquired distribution rights. I did not check other release dates.\n\nThe rights trap is that the film's status rests on a renewal claim this dossier could not confirm from primary records. Wikipedia reports that in the Classic Film Museum suit, once it emerged the film had fallen into the public domain for lack of renewal, the case was settled and Hughes withdrew his claim on The Outlaw. That is a secondary report of a settlement, not a ruling or proof of status. Check the 1970-71 Catalog of Copyright Entries renewal sections and the Copyright Office catalog yourself before relying on it. The music is a separate question that was not checked. Also avoid the colorized editions: Wikipedia reports one from Hal Roach Studios in 1988 and another from Legend Films on DVD in 2009. Use a black-and-white source.",
+  "faq": [
+    [
+      "Can I use The Outlaw in my own video?",
+      "Not confirmed. Wikipedia reports that the Classic Film Museum suit was settled after it emerged the film had fallen into the public domain for lack of renewal, and that Hughes withdrew his claim on The Outlaw. That is not a court ruling or proof of status. I did not read the renewal records, and the music is a separate question I did not check. Do your own renewal check before commercial use."
+    ],
+    [
+      "Is the Legend Films colorized version free to reuse?",
+      "No. Colorization is added material that can carry its own copyright. Per Wikipedia, the 2009 Legend Films DVD also adds a commentary by Jane Russell and Terry Moore, which is separate material. Source a plain black-and-white print instead."
+    ]
+  ]
+}

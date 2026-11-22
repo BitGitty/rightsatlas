@@ -1,0 +1,91 @@
+{
+  "id": "jail-bait-1954",
+  "title": "Jail Bait",
+  "year": 1954,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released May 12, 1954 by Howco Productions. The renewal window for a 1954 work is the 1981-1982 window. No renewal search was performed: I did not search the Catalog of Copyright Entries or the Copyright Office public catalog. So no renewal-absence finding is claimed here.",
+          "source": "Wikipedia film article",
+          "url": "https://en.wikipedia.org/wiki/Jail_Bait_(1954_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the music was composed by Hoyt Curtin and previously used in Mesa of Lost Women (1953). I did not check any separate music rights or registration, so this layer stays undetermined.",
+          "source": "Wikipedia film article",
+          "url": "https://en.wikipedia.org/wiki/Jail_Bait_(1954_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the script to Ed Wood and Alex Gordon. I did not check the underlying script registration, so this layer stays undetermined.",
+          "source": "Wikipedia film article",
+          "url": "https://en.wikipedia.org/wiki/Jail_Bait_(1954_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1981,
+      1982
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “Jail Bait” for the 1981-1982 window",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/jail-bait-1954",
+      "label": "Jail Bait (1954) — Internet Archive",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/jailbait1954_202001",
+      "label": "Jail Bait (1954), Dir: Ed Wood — Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Jail Bait is Ed Wood's 1954 crime film, released May 12, 1954 by Howco Productions. It runs 71 minutes. Its working title was The Hidden Face. In the story, Vic Brady, a gangster, and the plastic surgeon's son, Don Gregor, break into a theater, and the night watchman is killed. Lyle Talbot, Clancy Malone, Timothy Farrell and Dolores Fuller appear. Steve Reeves has a small early role as a police lieutenant. It was Herbert Rawlinson's last film.\n\nThe trap is that the print's status is unconfirmed. The renewal window for a 1954 work is the 1981-1982 window. I did not search the Catalog of Copyright Entries or the Copyright Office catalog for those years. Check both by hand before you rely on it. Any new score, titles or added material in a particular upload would be protected separately.",
+  "faq": [
+    [
+      "Is Jail Bait (1954) safe to reuse?",
+      "Not yet. I did not search for a renewal in the 1981-1982 window, so no finding is made either way. Search the Copyright Office public catalog and the Catalog of Copyright Entries yourself before you reuse it."
+    ],
+    [
+      "Do the Internet Archive copies carry extra rights?",
+      "Possibly. A faithful transfer adds no new US copyright, but added music, new titles or other new material can be protected. Check what each upload adds, and prefer a clean copy of the original."
+    ]
+  ]
+}

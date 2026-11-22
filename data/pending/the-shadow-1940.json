@@ -1,0 +1,84 @@
+{
+  "id": "the-shadow-1940",
+  "title": "The Shadow",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I re-checked the Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1967 volume (archive.org text). A fetch of that text did not find any 'The Shadow' serial entries. The earlier chapter titles, copyright dates, LP numbers and R numbers could not be confirmed, so I removed them. Renewal status of all 15 chapters is unconfirmed. Each chapter is a separate registration and needs its own check, including the 1967 and 1968 volumes and the Copyright Office records.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips 1967 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music copyright was not checked. No separate music registration or renewal has been searched for, and the track's status is not assumed to follow the picture's.",
+          "source": "RightsAtlas research note",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is described in the queue as adapting a 'Pulp character'. The specific source property, its first publication and its renewal records were not checked here. The status of the underlying character and stories is unconfirmed.",
+          "source": "RightsAtlas queue row",
+          "url": null
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, 1967 Motion Pictures volume (archive.org): check for The Shadow chapters",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, 1968 Motion Pictures volume (archive.org): check for The Shadow chapters",
+        "url": "https://archive.org/details/catalogofc19683211213libr"
+      },
+      {
+        "label": "US Copyright Office public records (search 'The Shadow')",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Shadow (1940) is Columbia Pictures' 15-chapter cliffhanger serial starring Victor Jory as a masked crimefighter. A creator would want it for the serial format: fifteen chapters, each ending on a cliffhanger, with masked-vigilante action that is easy to clip, riff on or build a series around.\n\nThe copyright status is not established. I could not confirm a renewal entry for any chapter in the 1967 Catalog of Copyright Entries, and each of the 15 chapters is a separate registration that needs its own check, including the 1968 volume. Do not treat the serial as free to reuse until each chapter is cleared. The soundtrack, the underlying character and any trademark are separate questions that remain open.",
+  "faq": [
+    [
+      "Is the 1940 Columbia serial The Shadow in the public domain?",
+      "Undetermined. Renewal was not confirmed for any chapter in the 1967 Catalog of Copyright Entries volume checked. Each of the 15 chapters is a separate registration, so check each one in the 1967 and 1968 volumes and the Copyright Office records before reusing it."
+    ],
+    [
+      "Does an Internet Archive upload mean I can reuse The Shadow?",
+      "No. A posted copy does not show the film is free. Reuse depends on each chapter's renewal record. The soundtrack, the character and any trademark are separate questions."
+    ]
+  ]
+}
