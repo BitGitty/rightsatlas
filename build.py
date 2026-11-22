@@ -109,6 +109,16 @@ def collections_subnav(collections, current_slug=None):
     return f'<div class="subnav-wrap"><nav class="subnav" aria-label="Collections">{links}</nav></div>'
 
 
+def signup_box(text, topic=""):
+    """11-22 owner: our own audience (e-mail) that Google's AI answers cannot take. Handled by assets/track.js."""
+    return (f'<form class="ra-signup" data-topic="{e(topic)}"><p><strong>✉ {e(text)}</strong></p>'
+            f'<div class="ra-row"><label class="sr" for="em-{e(topic or "news")}">E-mail</label>'
+            f'<input id="em-{e(topic or "news")}" type="email" required placeholder="you@example.com" autocomplete="email">'
+            f'<button type="submit">Notify me</button></div>'
+            f'<p class="ra-note">Only your e-mail is stored, never shared. One click to unsubscribe in every e-mail.</p>'
+            f'<p class="ra-msg" role="status"></p></form>')
+
+
 def page(title, desc, body, extra_head="", nav=None, path="", subnav="", card="summary"):
     canon = f"{HOST}{BASE}{path}"
     head = f"""<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -336,6 +346,14 @@ answers are wrong so often.</p>
     # 2026-11-20: share previews + film<->blog internal links (Google ranks pages that link each other)
     img = f'{HOST}{BASE}blog/img/{post["hero"]}' if post else ""
     head = f'<meta property="og:image" content="{img}">\n<meta name="twitter:image" content="{img}">' if img else ""
+    # 11-22: e-mail sign-up, worded for the page's answer
+    if ps == "not_pd" and free_on and free_on > YEAR:
+        sig = signup_box(f"Get one e-mail when {ft} becomes free on 1 January {free_on}", f["id"])
+    elif ps in ("verified_pd", "likely_pd"):
+        sig = signup_box("New public-domain finds by e-mail, about once a month")
+    else:
+        sig = signup_box(f"Get an e-mail when we confirm the answer for {ft}", f["id"])
+    body = body.replace("</article>", sig + "</article>", 1)
     return page(title, desc, body, extra_head=head, card="summary_large_image" if img else "summary",
                 nav="films", path=f"film/{f['id']}/")
 
@@ -416,6 +434,7 @@ Every answer shows where it comes from.</p>
 <p>US recordings published before {YEAR - 100} are free. Press play right here; tap a title for the full story.</p>
 <div class="musicgrid">{listen_cards}</div>
 </section>
+<section class="signup-home">{signup_box('New public-domain finds by e-mail, about once a month')}</section>
 {seasonal}
 <section class="callout tools-callout">
 <h2>Free tools</h2>
@@ -1146,7 +1165,8 @@ def blog_post_page(p):
             if p["hero"] else "")
     body = (f'<article class="blog"><p class="backlink"><a href="{BASE}blog/">← All posts</a> · '
             f'<time datetime="{p["date"].isoformat()}">{p["date"].strftime("%d %B %Y").lstrip("0")}</time></p>'
-            f'<h1>{e(p["title"])}</h1>{hero}{p["body"]}</article>')
+            f'<h1>{e(p["title"])}</h1>{hero}{p["body"]}'
+            + signup_box("New public-domain finds by e-mail, about once a month") + '</article>')
     return page(f'{p["title"]} — RightsAtlas', p["desc"], body, extra_head=head, nav="blog", path=path,
                 card="summary_large_image" if img else "summary")
 

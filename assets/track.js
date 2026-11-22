@@ -58,6 +58,21 @@
       var i = ev.target;
       if (i && i.matches && i.matches('input[type="search"]') && i.value && /\/search\//.test(location.pathname)) window.raEvent("search", i.value);
     }, true);
+    // e-mail sign-up boxes (<form class="ra-signup" data-topic="...">), 11-22 owner: our own audience
+    document.addEventListener("submit", function (ev) {
+      var f = ev.target;
+      if (!f || !f.classList || !f.classList.contains("ra-signup")) return;
+      ev.preventDefault();
+      var i = f.querySelector('input[type="email"]'), msg = f.querySelector(".ra-msg");
+      if (!i || !i.value) return;
+      rpc("subscribe", { p_site: "rightsatlas", p_email: i.value, p_topic: f.getAttribute("data-topic") || null, p_path: location.pathname })
+        .then(function (r) { return r.json(); })
+        .then(function (res) {
+          if (msg) msg.textContent = res === "ok" ? "Thank you! We will e-mail you." : res === "invalid"
+            ? "That e-mail address does not look right." : "Please try again in a few minutes.";
+          if (res === "ok") { i.value = ""; window.raEvent("signup", f.getAttribute("data-topic") || "news"); }
+        }).catch(function () { if (msg) msg.textContent = "Please try again in a few minutes."; });
+    }, true);
     // play clicks: our own audio players; the archive.org film player is an iframe (a click on it blurs the page)
     document.addEventListener("play", function (ev) { if (ev.target && ev.target.tagName === "AUDIO") window.raEvent("play_song"); }, true);
     addEventListener("blur", function () {

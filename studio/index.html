@@ -69,8 +69,19 @@ a{color:var(--acc)}
         '<div class="card"><h2>Device</h2>'+table(x.devices,[{h:"Device",k:"device"},{h:"Views",k:"n",n:1}])+'</div>'+
         '<div class="card"><h2>Region (browser time zone)</h2>'+table(x.regions,[{h:"Time zone",k:"tz"},{h:"Views",k:"n",n:1}])+'</div>'+
         '</div><div id="posts"></div><div id="gsc"></div><p class="note" style="margin-top:14px">Live data, last '+x.days+' day(s). No cookies, no names, no IP addresses are stored.</p>';
-      loadGsc(d); loadPosts(d);
+      loadGsc(d); loadPosts(d); loadSubs();
     }).catch(function(){ out.innerHTML='<p class="err">Could not load the numbers. Try again.</p>'; });
+  }
+  // e-mail subscribers: our own audience (not dependent on Google)
+  function loadSubs(){
+    fetch(U.replace("studio_data","studio_subscribers"),{method:"POST",headers:{"apikey":K,"Authorization":"Bearer "+K,"Content-Type":"application/json"},body:JSON.stringify({p_site:"rightsatlas",p_key:key})})
+    .then(function(r){return r.json();}).then(function(s){
+      var el=document.getElementById("posts"); if(!el||!s) return;
+      var box=document.createElement("div"); box.className="card"; box.style.marginTop="14px";
+      box.innerHTML='<h2>E-mail subscribers (our own audience)</h2><div class="kpis"><div class="kpi"><b>'+num(s.total)+'</b><span>subscribers</span></div><div class="kpi"><b>'+num(s.last7)+'</b><span>new in 7 days</span></div></div>'+
+        table(s.topics,[{h:"Asked for",k:"topic"},{h:"People",k:"n",n:1}]);
+      el.parentNode.insertBefore(box, el);
+    }).catch(function(){});
   }
   // blog posts: how people read them (views, real readers, seconds, how far down, % who reached the end)
   function loadPosts(d){
