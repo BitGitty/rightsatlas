@@ -421,6 +421,11 @@
    "film": "manos-the-hands-of-fate-1966",
    "kind": "watch"
   },
+  "mclintock-producers-cut-1963-4k": {
+   "ok": true,
+   "film": "mclintock-1963",
+   "kind": "watch"
+  },
   "MeetJohnDoeHD": {
    "ok": true,
    "film": "meet-john-doe-1941",
@@ -944,7 +949,7 @@
   "way-down-east-1920-tmdb31509": {
    "ok": true,
    "film": "way-down-east-1920",
-   "kind": "watch"
+   "kind": "evidence"
   },
   "white_zombie": {
    "ok": true,
