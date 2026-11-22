@@ -3,7 +3,7 @@
   "title": "The Mark of Zorro",
   "year": 1920,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -12,55 +12,64 @@
         {
           "type": "term_expiry",
           "note": "Published 1920; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1996."
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item metadata gives the date as 1920 and its description states a release date of 5 December 1920. Other references may give late November 1920; either date falls in 1920, so the term reasoning above is unaffected.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/metadata/vidzo"
         }
       ]
     },
     "score": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1920 film is silent. The images are free, but any music on a modern copy or release is a separate work or recording with its own protection. No score has been identified. The Internet Archive metadata for the item cited under watch describes it as a silent film and names no music. Check who made and owns any score on the specific copy you use.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/metadata/vidzo"
+        }
+      ]
     },
     "story": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [],
+      "note": "The film is reported to be based on Johnston McCulley's 1919 serial 'The Curse of Capistrano'. This research did not confirm the source story, its publication date or its US copyright status from a fetched page, so no status is given. Later Zorro stories and films are separate works and are not covered by this entry."
     },
     "trademark": {
       "status": "undetermined",
       "evidence": [],
-      "note": "Zorro is a franchise character: expiry of this film's copyright does not extinguish trademark rights or rights in later Zorro works held by rights holders. Undetermined here; check marks before branded use."
+      "note": "Zorro is a franchise character: expiry of this film's copyright does not extinguish trademark rights or rights in later Zorro works held by rights holders. No mark was checked in this research. Check the USPTO register before any branded use of the Zorro name or logo."
     },
     "restorations": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [],
+      "note": "No restoration or preservation was identified in this research, and no source was found for any restoration credit. A faithful restoration adds no new US copyright, but any added music or new titles on a restored release could be protected. Check the specific release before reuse."
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1947,
-      1948,
-      1949
-    ],
+    "renewal_years": [],
     "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Mark of Zorro” (renewals ~1947, 1948, 1949)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "diy_links": [],
+    "note": "Renewal does not apply. The film was published before 1923 and its US term was a flat 75 years, so no renewal search is needed."
   },
   "watch": [
     {
       "url": "https://archive.org/details/vidzo",
-      "label": "Internet Archive — The Mark of Zorro (1920), full film"
+      "label": "Internet Archive — The Mark of Zorro (1920) (about 107 min, 640x480 MPEG4). This is longer than the roughly 90 minutes reported for the original, which could mean a slowed transfer or added material. Check the copy for added music or titles before treating it as a clean full print.",
+      "quality": "480p"
     }
   ],
-  "editorial": "The Mark of Zorro is a 1920 American silent swashbuckler directed by Fred Niblo and produced by and starring Douglas Fairbanks for his own company, released as the first feature through United Artists. Adapted from Johnston McCulley's 1919 story 'The Curse of Capistrano,' it established Fairbanks as the screen's premier action hero and launched the enduring masked-avenger archetype; it entered the National Film Registry in 2015. Published in 1920, the film print's 75-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "The Mark of Zorro is a 1920 silent swashbuckler directed by Fred Niblo and produced by Douglas Fairbanks, who also stars as Don Diego Vega and his masked alter ego. It was distributed by United Artists. For a creator it offers a ready-made masked-hero adventure, with Marguerite De La Motte, Noah Beery and Robert McKim in the cast.\n\nThe film was published in 1920, so its copyright term ran out in the US by term alone. The trap is everything around the print. A modern score or new titles on a restored release can be protected separately, and the Zorro name and later Zorro films and stories sit with their own rights holders. The source story's status was not confirmed here. Use a clean copy of the film and supply your own music.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1920 Mark of Zorro in my own video?",
+      "The 1920 film itself, as published, is out of copyright in the US because its 75-year term has expired. Use a faithful copy of the picture and avoid music or added titles from a modern release unless that release is also cleared."
+    ],
+    [
+      "Can I call my project 'Zorro' or use the Zorro logo?",
+      "Not safely on this basis. Expiry of the film's copyright does not end trademark rights, and later Zorro works are separate. No mark was checked here, so search the USPTO register before branded or merchandising use."
+    ]
+  ]
 }
