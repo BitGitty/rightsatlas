@@ -26,8 +26,9 @@ def diy_links(title: str, renewal_years: list) -> list:
     q = title.replace(" ", "+")
     yrs = ", ".join(str(y) for y in renewal_years)
     return [
-        {"label": f"Stanford Copyright Renewal DB — search “{title}” (renewals ~{yrs})",
-         "url": f"https://exhibits.stanford.edu/copyrightrenewals/catalog?q={q}"},
+        # 11-22: Stanford's renewal database covers BOOKS only (audit R7) - films use the CCE volumes / online records
+        {"label": f"US Copyright Office public records — renewals filed 1978 or later (search “{title}”, ~{yrs})",
+         "url": "https://publicrecords.copyright.gov/"},
         {"label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures "
                   "renewal-year volume by hand",
          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"},

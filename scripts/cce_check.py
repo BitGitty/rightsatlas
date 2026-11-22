@@ -50,7 +50,8 @@ def renewal_hits(title: str, year: int) -> list[str]:
     words = re.sub(r"^(THE|A|AN)\s+", "", re.sub(r"[^A-Z0-9 ]", " ", title.upper()).strip()).split()
     if not words:
         return []
-    pat = re.compile(r"\b" + r"\W+".join(map(re.escape, words)) + r"\b")
+    # \W* (not \W+): the catalog prints some titles joined, e.g. "BLOCKHEADS" for Block-Heads (audit R4, 11-21)
+    pat = re.compile(r"\b" + r"\W*".join(map(re.escape, words)) + r"\b")
     yy = str(year)[2:]
     hits = []
     for vy in (year + 27, year + 28):
@@ -93,7 +94,9 @@ def online_hits(title: str, year: int) -> list[str]:
                 continue
             if _norm(str(s.get("title_concatenated", ""))).startswith(want) and year + 25 <= int(rd) <= year + 30:
                 seen.add(rn)
-                kind = "film" if s.get("type_of_work") == "motion_picture" else "music/other"
+                # the API renamed the field (11-22: type_of_work -> type_of_work_to_english "Motion Pictures")
+                tw = str(s.get("type_of_work") or s.get("type_of_work_to_english") or "").lower()
+                kind = "film" if ("motion" in tw or "picture" in tw) else "music/other"
                 hits.append(f"[{kind}] {rn} ({rd}): {str(s.get('title_concatenated'))[:90]} - {str(s.get('claimants_list'))[:80]}")
     return hits
 
