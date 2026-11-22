@@ -3,7 +3,7 @@
   "title": "The Wind",
   "year": 1928,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,25 +11,60 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1928; the 95-year US copyright term has expired for works published through 1930, so the film print is public domain in the US by term expiry."
+          "note": "Released November 23, 1928; the 95-year US copyright term for works published in 1928 expired at the end of 2023, so the film entered the US public domain on January 1, 2024. Duke CSPD's Public Domain Day 2024 page lists The Wind (directed by Victor Sjöström) among the films.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released with a Movietone score and sound effects for theaters equipped with sound, so the original 1928 track shares the film's term status. Modern copies often carry newer scores, which are separate works. One example is Alain Mayrand's original score, commissioned by the Dallas Chamber Symphony in 2019 and premiered at a concert screening on November 23, 2019, at Moody Performance Hall. Duke CSPD cautions that newly added musical accompaniment may still be copyrighted.",
+          "source": "Wikipedia, The Wind (1928 film); Duke CSPD Public Domain Day 2024",
+          "url": "https://en.wikipedia.org/wiki/The_Wind_(1928_film)"
+        },
+        {
+          "type": "research_note",
+          "note": "Duke CSPD: while the original footage of the listed films is in the public domain, newly added material such as musical accompaniment might still be copyrighted.",
+          "source": "Duke CSPD Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Dorothy Scarborough's 1925 novel of the same name. A work published in 1925 passed out of US copyright by term at the end of 2020, so the source story is public domain in the US.",
+          "source": "Wikipedia, The Wind (1928 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Wind_(1928_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A faithful restoration of the public-domain picture adds no new US copyright. Added material can be protected, such as newly composed scores (for example the 2019 Dallas Chamber Symphony / Alain Mayrand score) and any new titles. I could not confirm a specific restoration label, archive or year, so reuse the public-domain print rather than a commercial restoration release.",
+          "source": "Wikipedia, The Wind (1928 film); Duke CSPD Public Domain Day 2024",
+          "url": "https://en.wikipedia.org/wiki/The_Wind_(1928_film)"
+        },
+        {
+          "type": "research_note",
+          "note": "Duke CSPD: newly added material such as musical accompaniment might still be copyrighted.",
+          "source": "Duke CSPD Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -57,9 +92,19 @@
   "watch": [
     {
       "url": "https://archive.org/details/the-wind_1928",
-      "label": "Internet Archive — The Wind (1928), full film"
+      "label": "Internet Archive — The Wind (1928)",
+      "quality": "about 75 minutes per the item's file metadata; completeness against the original release not verified"
     }
   ],
-  "editorial": "The Wind is a 1928 American silent drama directed by Victor Sjostrom for Metro-Goldwyn-Mayer, starring Lillian Gish, Lars Hanson and Montagu Love, adapted by Frances Marion from Dorothy Scarborough's novel. One of the last major silent films MGM released, it is widely regarded as a masterpiece of the silent form and one of Gish's finest performances. Published in 1928, the film print's 95-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "The Wind is a 1928 American silent-era drama released on November 23, 1928. Victor Sjöström directed Lillian Gish, Lars Hanson and Montagu Love, from a scenario by Frances Marion based on Dorothy Scarborough's 1925 novel. It was released with a Movietone score and sound effects for theaters equipped with sound. It was selected for the National Film Registry in 1993. A creator wants it for Gish's performance, which is free to reuse as part of the public-domain picture.\n\nThe picture entered the US public domain on January 1, 2024, and Duke's Public Domain Day 2024 page lists it. The novel it adapts, published in 1925, is also out of US copyright. The trap is the soundtrack. Circulating copies may carry a score added long after 1928, such as the Dallas Chamber Symphony's 2019 Alain Mayrand score, and that music can still be protected. Use a clean print and supply your own music, or confirm the score's rights first. Trademark rights were not researched.",
+  "faq": [
+    [
+      "Can I reuse footage from The Wind in my own project?",
+      "Yes for the 1928 picture in the US. Its copyright term has expired and Duke CSPD lists it among the films that entered the public domain in 2024. Check any copy's added music and titles before you use it."
+    ],
+    [
+      "Is the music on the Internet Archive copy free to use?",
+      "Not automatically. The Archive page shows no score credit, so the music's origin is unknown. Later scores written for modern releases or performances are separate works and can be protected. Replace the audio with music you have cleared, or confirm the specific score's status."
+    ]
+  ]
 }

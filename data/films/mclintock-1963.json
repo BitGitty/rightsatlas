@@ -3,17 +3,17 @@
   "title": "McLintock!",
   "year": 1963,
   "country": "US",
-  "last_verified": "2026-10-10",
+  "last_verified": "2026-11-22",
   "byline": "Bit Git — RightsAtlas research (AI-assisted, human-reviewed)",
   "layers": {
     "print": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
-          "type": "renewal_absence",
-          "note": "Batjac (the Wayne family company) failed to renew the film's copyright in 1991, a lapse that was litigated around home-video rights in the 1990s and is unusually well documented for a color star vehicle. Primary renewal-search scan not yet attached — held at 'likely'.",
-          "source": "Wikipedia summary with sources",
-          "url": "https://en.wikipedia.org/wiki/McLintock!#Copyright_status"
+          "type": "research_note",
+          "note": "Wikipedia says Batjac failed to renew the copyright, that the copyright expired in 1991, and that the film was released by United Artists on November 13, 1963. Wikipedia also says a 1994 legal case determined the film was in the US public domain. It cites a Billboard headline from May 14, 1994 ('Court Rules for GoodTimes in McLintock! Case'). It also lists later litigation: Maljack Productions v. UAV Corp. (1997), consolidated with Batjac Productions, Inc. v. GoodTimes Home Video Corp., decided by the Ninth Circuit on Nov. 5, 1998 (48 U.S.P.Q.2d 1647). I did not read those opinions or check their holdings or subsequent history, so none of this settles the question here. No Catalog of Copyright Entries volume (for example Motion Pictures 1991) and no Copyright Office public-records search was run for this dossier, so there is no primary-source result and the print is not marked verified.",
+          "source": "Wikipedia, McLintock! (Copyright status)",
+          "url": "https://en.wikipedia.org/wiki/McLintock!"
         }
       ]
     },
@@ -35,22 +35,22 @@
       ]
     },
     "story": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original screenplay by James Edward Grant (loosely riffing on The Taming of the Shrew, which is Shakespeare and free).",
-          "source": null,
-          "url": null
+          "note": "Wikipedia credits the screenplay to James Edward Grant and says the film is loosely based on Shakespeare's The Taming of the Shrew. The Shakespeare source is free. The screenplay itself is original and is tied to the film's own copyright, whose renewal record I did not verify from primary sources.",
+          "source": "Wikipedia, McLintock!",
+          "url": "https://en.wikipedia.org/wiki/McLintock!"
         }
       ]
     },
     "trademark": {
-      "status": "likely_pd",
+      "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "No known active marks.",
+          "note": "No trademark search was done, and no right-of-publicity research was done. These are separate issues. Trademark covers the title or other marks used in commerce. The right of publicity is a state-law right over a person's name and likeness, and it can be held by an estate or licensing company. Either can outlast copyright expiry. Neither was searched, so both are undetermined.",
           "source": null,
           "url": null
         }
@@ -80,16 +80,22 @@
       ]
     }
   },
-  "watch": [],
-  "editorial": "A John Wayne–Maureen O'Hara comedy in color from a major star's own company — and it still fell out of copyright, because in 1991 somebody at Batjac missed the renewal deadline. McLintock! became the highest-profile proof that renewal failure wasn't just a B-movie problem, and the family spent years fighting cut-rate VHS releases they couldn't stop.\n\nFor creators: the print circulates freely, the screenplay is original, and the risks are the era's usual pair — an unverified music chain, and restoration editions whose added elements (new score, colorization, new titles) may carry separate protection; ripping copy-protected discs also raises DMCA concerns even when the underlying film is free.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/mclintock-producers-cut-1963-4k",
+      "label": "McLintock! - Producer's Cut (1963) (4K), Internet Archive community upload",
+      "quality": "Unverified community upload (Oct 29, 2026). The uploader describes it as a 4K scan of the original camera negative and applied a Public Domain Mark themselves. The main file name (2160p ... WEB-DL ... SMURF.mkv) suggests a rip of a commercial streaming release, not an archival source. It may be a restored edition or an upscale with its own rights, and its provenance and rights are not confirmed."
+    }
+  ],
+  "editorial": "McLintock! is a 1963 comedy western directed by Andrew V. McLaglen and written by James Edward Grant. United Artists released it on November 13, 1963, and it loosely adapts Shakespeare's The Taming of the Shrew. According to Wikipedia, Batjac failed to renew the copyright, and the copyright expired in 1991. Wikipedia also reports a 1994 legal case and later Ninth Circuit litigation (Batjac Productions v. GoodTimes Home Video, 1998). We did not read those opinions or check their later history, and they should not be treated as settling anything. We also ran no Catalog of Copyright Entries or Copyright Office search, so the print layer stays undetermined here.\n\nThe music is the open question. Wikipedia says the score stayed under copyright and that Batjac retains the score rights. We could not verify any renewal record for the score or theme, so the score layer is undetermined. A creator who wants the footage should check or replace the soundtrack. Remastered releases exist (Paramount 2005 DVD, Olive Films 2013 Blu-ray, Paramount 2014 Blu-ray), and an edition may add protected material of its own. We did not research what those editions add.",
   "faq": [
     [
-      "How did a John Wayne movie end up public domain?",
-      "The same way as everyone else's: the 28-year renewal deadline (1991 for this film) was missed. Star power didn't file paperwork."
+      "Is McLintock! public domain?",
+      "Wikipedia says the copyright was not renewed and expired in 1991, and it reports a 1994 legal case on the question. We checked no renewal records and did not read the court opinions or their later history. Treat the print as unconfirmed and verify it before commercial use."
     ],
     [
-      "Can I use McLintock! footage?",
-      "Yes, from archival prints; prefer replacing the audio where the score is prominent, since the music chain is unverified."
+      "Can I reuse the music from McLintock!?",
+      "Not safely. Wikipedia says the score remained under copyright. We could not verify the renewal details for the score or theme, so check the full music cue sheet and the renewal records, or replace the audio."
     ]
   ]
 }

@@ -600,3 +600,6 @@
 {"date": "2026-11-22", "id": "the-magic-cloak-1914", "result": "blocked", "reasons": ["title/year does not match the queue row", "print verified_pd without a primary-source evidence entry"]}
 {"date": "2026-11-22", "id": "the-patchwork-girl-of-oz-1914", "result": "blocked", "reasons": ["print verified_pd without a primary-source evidence entry"]}
 {"date": "2026-11-22", "id": "the-sheik-1921", "result": "refreshed", "reasons": ["now Clear: story"]}
+{"date": "2026-11-22", "id": "the-wind-1928", "result": "refreshed", "reasons": ["now Clear: story"]}
+{"date": "2026-11-22", "id": "way-down-east-1920", "result": "refreshed", "reasons": ["now Clear: score", "now Clear: story"]}
+{"date": "2026-11-22", "id": "mclintock-1963", "result": "refreshed", "reasons": []}

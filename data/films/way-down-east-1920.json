@@ -3,7 +3,7 @@
   "title": "Way Down East",
   "year": 1920,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,33 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1920; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1996."
+          "note": "Published in 1920. US copyright in works published before 1923 ran out under the term rules by 1 January 1996 at the latest, so the film is out of copyright. The Internet Archive item carries a Public Domain Mark 1.0. That mark is the uploader's label and is not proof by itself. The status rests on the publication year and the term rule.",
+          "source": "Internet Archive item (Public Domain Mark 1.0 shown on the page)",
+          "url": "https://archive.org/details/way-down-east-1920-tmdb31509"
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1920 release is credited to composers Louis Silvers and William Frederick Peters. The 1920 score is itself a 1920 work and is public domain. Only a newer or re-recorded score on a modern copy may be protected independently of the images. What audio the Internet Archive copy carries has not been checked.",
+          "source": "Wikipedia, Way Down East (1920 film)",
+          "url": "https://en.wikipedia.org/wiki/Way_Down_East_(1920_film)"
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Lottie Blair Parker's 19th-century stage play, elaborated by Joseph R. Grismer. The play was associated with the actress Phoebe Davies from 1897, so the source is far older than the film and is itself out of copyright.",
+          "source": "Wikipedia, Way Down East (1920 film)",
+          "url": "https://en.wikipedia.org/wiki/Way_Down_East_(1920_film)"
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -33,33 +49,26 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1947,
-      1948,
-      1949
-    ],
-    "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Way Down East” (renewals ~1947, 1948, 1949)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "renewal_years": [],
+    "negative_result": "Not applicable. The film was published in 1920, before 1923, so its US term ran out by term expiry and no renewal search was run or is needed.",
+    "diy_links": []
   },
   "watch": [
     {
       "url": "https://archive.org/details/way-down-east-1920-tmdb31509",
-      "label": "Internet Archive — Way Down East (1920), full film"
+      "label": "Internet Archive — Way Down East (1920)",
+      "quality": "MPEG4, 1440x1080; cut and completeness not verified"
     }
   ],
-  "editorial": "Way Down East is a 1920 American silent melodrama produced and directed by D. W. Griffith and released through United Artists, starring Lillian Gish and Richard Barthelmess. Adapted from Lottie Blair Parker's stage play, it was one of the highest-grossing films of the silent era and is famous for its climactic ice-floe rescue. Published in 1920, the film print's 75-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "editorial": "Way Down East is D. W. Griffith's 1920 melodrama, adapted from Lottie Blair Parker's stage play. The 1920 release credits Louis Silvers and William Frederick Peters for the music. The Internet Archive hosts a 1440x1080 copy marked with a Public Domain Mark. That mark is the uploader's label. Which cut it is, and whether it is complete, has not been verified. The film was published in 1920, so its US copyright term ran out by term expiry. No renewal question arises.\n\nThe 1920 score is also public domain. The trap is the sound on a modern copy. A newly composed or re-recorded score is its own protected work. Take the images and supply your own music, or check the source of any copy's audio before you assume it is free. Trademark and restoration status have not been researched, so treat them as unknown.",
+  "faq": [
+    [
+      "Can I reuse footage from Way Down East in my own project?",
+      "Yes for the picture. The film was published in 1920, so its US copyright expired by term. Use a copy whose soundtrack you have cleared, or add your own music."
+    ],
+    [
+      "Is the music on a downloaded copy free too?",
+      "The 1920 score by Louis Silvers and William Frederick Peters is public domain. A modern copy may carry a different, newer score or recording, and that is a separate work with its own rights. Confirm what is on the copy you use."
+    ]
+  ]
 }
