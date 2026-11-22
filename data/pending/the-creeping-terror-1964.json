@@ -1,0 +1,109 @@
+{
+  "id": "the-creeping-terror-1964",
+  "title": "The Creeping Terror",
+  "year": 1964,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unverified third-party assertion: an earlier pass reported that a reviewer on the Internet Archive item says the film was renewed, citing Copyright Office record RE0000561567 (said to renew PA0000447201) with Crown International Pictures as claimant. The latest fetch of the Archive page showed a review titled 'Sorry, not PD' that disputes the public domain tag, citing a notice about 55 seconds in and a renewal, with Crown International Pictures, Inc. as claimant. This note did not confirm the record numbers from that review. No copyright database was searched and record RE0000561567 was never opened, so it is not known which work it covers. A 1992-era RE number is not by itself out of place for a 1964 work, whose year-28 renewal window fell in 1992. For a 1964 publication, renewal was automatic under the 1964-1977 rule, and protection runs 95 years, to the end of 2059, whether or not a renewal record exists. A renewal record does not change that term. The real open questions are whether the 1964 release carried a valid copyright notice and whether it was published without one.",
+          "source": "Internet Archive item page, TheCreepingTerror",
+          "url": "https://archive.org/details/TheCreepingTerror"
+        },
+        {
+          "type": "research_note",
+          "note": "Archive metadata fetched 2026-11-22 (metadata API): addeddate 2015-01-17 16:32:31, publicdate 2015-01-17 16:32:44, licenseurl http://creativecommons.org/publicdomain/mark/1.0/. The item page displays 'Public Domain Mark 1.0'. This is the uploader's tag, not a legal clearance.",
+          "source": "Internet Archive metadata API, TheCreepingTerror",
+          "url": "https://archive.org/metadata/TheCreepingTerror"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unsupported: no source was found showing the soundtrack's status. The Archive page does not mention the soundtrack. Any assumption that the music shares the print's status is untested. No music registration or cue sheet was searched.",
+          "source": "none (not searched)",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says: 'Although Robert Silliphant is the credited writer, the original story was written by his younger brother Allan.' This is a secondary credit reference only and was not checked against a primary source, such as a screen credit or Copyright Office record. Whether the screenplay was registered separately was not checked.",
+          "source": "Wikipedia, The Creeping Terror (credit reference only, not a primary citation)",
+          "url": "https://en.wikipedia.org/wiki/The_Creeping_Terror"
+        },
+        {
+          "type": "research_note",
+          "note": "Production and release facts in the editorial are taken from Wikipedia, fetched 2026-11-22: directing credit (Vic Savage as A. J. Nelson, also starring) and the Metropolitan International Pictures production credit (infobox); November 20, 1964 release date (infobox); principal photography beginning in late 1962, the Spahn Ranch pond in Simi Valley, and Savage vanishing (Production section); Crown International Pictures as distributor (infobox); and William Thourlby, the main financier, acquiring the remaining film stock and commissioning an edited version (Release section). All are secondary, unverified against primary sources.",
+          "source": "Wikipedia, The Creeping Terror (Infobox, Production and Release sections)",
+          "url": "https://en.wikipedia.org/wiki/The_Creeping_Terror"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not searched. No trademark database was checked.",
+          "source": "none (not searched)",
+          "url": null
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not searched. No restored or re-edited versions were checked.",
+          "source": "none (not searched)",
+          "url": null
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “The Creeping Terror” for any registration, and open record RE0000561567 to see which work it covers (not yet done)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1964 Motion Pictures volume; check for a registration under the title (browse by hand)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures+1964"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheCreepingTerror",
+      "label": "The Creeping Terror (Internet Archive, uploaded January 17, 2015; the item is tagged Public Domain Mark 1.0)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Creeping Terror was directed by Vic Savage, who is credited as A. J. Nelson. Savage also starred in it. Metropolitan International Pictures made it, and it was released in 1964 (Wikipedia). Robert Silliphant is the credited writer; the original story was by his brother Allan Silliphant. Per Wikipedia, principal photography began in late 1962, a muddy pond at Spahn Ranch in Simi Valley, California was used, and Crown International Pictures is listed as distributor. Wikipedia also says Savage vanished during production, and that William Thourlby, the main financier, acquired the remaining film stock and commissioned an edited version. These are secondary-source claims and were not checked against primary sources. The film is free to view and download at the Internet Archive.\n\nThe rights trap is the print's copyright status, which is unresolved. The Internet Archive copy carries a Public Domain Mark. A 1964 publication falls under the 1964-1977 rule: renewal was automatic, and protection runs 95 years, to the end of 2059. So a missing renewal cannot make the film public domain, and a renewal record does not change the term. The open questions are whether the 1964 release carried a valid copyright notice and whether it was published without one. An earlier pass reported a reviewer's cited record, RE0000561567. That is unverified: the record was not opened, and a 1992-era RE number is not by itself out of place for a 1964 work. Open it on publicrecords.copyright.gov to see which work it covers. Until someone checks the Copyright Office records, don't treat the Archive's mark as proof that the print is free.",
+  "faq": [
+    [
+      "Is The Creeping Terror in the public domain?",
+      "That is unconfirmed. The Internet Archive tags its copy as Public Domain Mark 1.0. A 1964 film was protected for 95 years, to the end of 2059, unless it was published without a valid copyright notice. Whether it carried a notice has not been checked. An unverified reviewer claim cites record RE0000561567. The record was not opened, so it is not known which work it covers. Check the Copyright Office records before reusing the film commercially."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy?",
+      "Only after the notice question is settled. The Archive's tag is not a legal clearance. The film is protected whether or not a renewal exists, unless it was published without a valid notice. Check the Copyright Office records first."
+    ]
+  ]
+}

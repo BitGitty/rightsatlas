@@ -1,0 +1,83 @@
+{
+  "id": "the-wasp-woman-1959",
+  "title": "The Wasp Woman",
+  "year": 1959,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia page for The Wasp Woman links to \"List of films in the public domain in the United States\" in its See also section. It does not discuss copyright status or renewal, and no primary record was checked. Printed Catalog of Copyright Entries (CCE) renewal volumes do not cover 1986-1988, because the printed CCE ended in 1977. Renewals filed from 1978 on are only in the Copyright Office online catalog (publicrecords.copyright.gov). That catalog was not searched in this session. Renewal status is therefore unconfirmed.",
+          "source": "Wikipedia, The Wasp Woman",
+          "url": "https://en.wikipedia.org/wiki/The_Wasp_Woman"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "note": "The composer is listed as Fred Katz. The recorded track is part of the film, so it most likely shares the print's status, but this is unconfirmed while the print itself is undetermined.",
+          "type": "research_note",
+          "source": "Wikipedia, The Wasp Woman",
+          "url": "https://en.wikipedia.org/wiki/The_Wasp_Woman"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is credited to Leo Gordon, with the story credited to Kinta Zertuche. Whether the story drew on any earlier published work was not checked, so its copyright status is unconfirmed.",
+          "source": "Wikipedia, The Wasp Woman",
+          "url": "https://en.wikipedia.org/wiki/The_Wasp_Woman"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1986,
+      1987,
+      1988
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Wasp Woman”, ~1986, 1987, 1988)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the.-wasp.-woman.-1959",
+      "label": "The Wasp Woman (1959), full film, Internet Archive",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "The Wasp Woman is a 1959 American film directed by Roger Corman. Production companies are listed as The Filmgroup and Santa Cruz Productions, and it was distributed by Allied Artists. Susan Cabot plays Janice Starlin, with Anthony Eisley as Bill Lane and Barboura Morris as Mary Dennison. Leo Gordon wrote the screenplay from a story by Kinta Zertuche, and Fred Katz composed the music.\n\nThe rights question is the film's renewal. A 1959 release would have needed a renewal filed in its 28th year, around 1987. Printed Catalog of Copyright Entries volumes ended in 1977, so a 1986-1988 renewal would appear only in the Copyright Office online records (publicrecords.copyright.gov). Those records were not searched in this session, so this dossier cannot confirm a renewal either way. Wikipedia links to its list of US public-domain films from the article, but that is not a primary record. Search the Copyright Office catalog for the title before relying on the print. The score and story layers are not independently cleared.",
+  "faq": [
+    [
+      "Is The Wasp Woman in the public domain in the US?",
+      "This dossier could not confirm it from a primary record. Wikipedia's article links to its list of US public-domain films, but that is not proof. A 1959 film needed a renewal around 1987, and that would be in the Copyright Office's online records. Search publicrecords.copyright.gov for the title before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Clear the renewal question first, because a copy being hosted online does not establish the film's status. The score by Fred Katz and the story credit are not separately cleared here. Any added titles or music on a particular transfer could carry their own rights."
+    ]
+  ]
+}

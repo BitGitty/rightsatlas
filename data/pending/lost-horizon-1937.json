@@ -1,0 +1,85 @@
+{
+  "id": "lost-horizon-1937",
+  "title": "Lost Horizon",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1965 (Vol 19, Nos 1-2) lists: LOST HORIZON, a photoplay in fourteen reels by Columbia Pictures Corp. of California, registered 2Mar37 as LP6952, renewed by Columbia Pictures Corp. (PWH) on 15Jan65 as R353874. The print is under a timely renewal.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1965",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The soundtrack is part of the film as registered and renewed, so it should follow the film's status. The separate rights in the underlying music were not checked.",
+          "source": "Inference from the renewal entry for LP6952",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The source-material copyright was not checked. Even if it lapsed, the renewed film's own copyright would still cover the screenplay and film as made.",
+          "source": "Research note",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Lost Horizon”, ~1964, 1965, 1966)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Lost Horizon is Columbia Pictures' 1937 fourteen-reel photoplay. Columbia registered it on 2 March 1937 as LP6952. A creator might see a famous 1937 feature and assume a missing renewal, since that is how many films from the period became free to use.\n\nThat assumption fails here. The Catalog of Copyright Entries for 1965 lists the film's renewal, filed by Columbia Pictures Corp. on 15 January 1965 as R353874, inside the 28th-year window. The film was renewed on time, so its US copyright was extended rather than lapsing, and no layer has been confirmed free to use. Anyone reusing footage needs a license from the rights holder.",
+  "faq": [
+    [
+      "Is Lost Horizon (1937) in the public domain in the US?",
+      "No. Columbia Pictures renewed the copyright on 15 January 1965 (R353874), as shown in the 1965 Catalog of Copyright Entries. We found no layer verified as free to use."
+    ],
+    [
+      "Did the renewal cover the film's soundtrack?",
+      "The soundtrack is part of the registered and renewed film, so it should follow the film's status. We did not check rights in any separate underlying music, so treat the score layer as undetermined."
+    ]
+  ]
+}
