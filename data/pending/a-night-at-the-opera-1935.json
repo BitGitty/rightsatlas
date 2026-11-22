@@ -1,0 +1,75 @@
+{
+  "id": "a-night-at-the-opera-1935",
+  "title": "A Night at the Opera",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not verified as public domain. I could not read the full 1962 and 1963 Catalog of Copyright Entries motion-picture volumes, and the Stanford renewal database page returned no readable content, so no renewal record was found or ruled out. The Wikipedia page says Turner Entertainment owns the rights to the film.",
+          "source": "Wikipedia, A Night at the Opera (film)",
+          "url": "https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Stanford Copyright Renewal DB — search “A Night at the Opera” (renewals ~1962, 1963, 1964)",
+        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Night+at+the+Opera"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1963, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "A Night at the Opera is the 1935 Marx Brothers comedy from Metro-Goldwyn-Mayer, directed by Sam Wood. The screenplay is credited to George S. Kaufman and Morrie Ryskind, from a story by James Kevin McGuinness, with additional dialogue by Al Boasberg, uncredited, and a score by Herbert Stothart. The contract scene is among the best-known Marx Brothers sequences, so creators want it for clips and essays. It was selected for the National Film Registry in 1993.\n\nThe rights trap is the film's copyright status. The queue flagged it as likely never renewed, but I could not confirm that. The full 1962 and 1963 renewal volumes did not load completely in this session, and the Stanford database returned nothing readable. Turner Entertainment is described as the rights owner, which points to an active claim. Treat the film as protected until you find a primary record showing the 28th-year renewal was missed. Do not reuse clips on the strength of the queue's guess.",
+  "faq": [
+    [
+      "Is A Night at the Opera in the public domain in the US?",
+      "Not established. The film was published in 1935, so it is free only if its copyright was never renewed. I could not find or rule out a renewal record. Check the 1962 and 1963 Catalog of Copyright Entries volumes and the Stanford renewal database before reuse."
+    ],
+    [
+      "Can I use a clip from an Internet Archive upload?",
+      "Not safely. A copy on the Internet Archive says nothing about whether the film's copyright was renewed. Rights depend on the renewal record, and Turner Entertainment is described as the film's owner. Get a primary renewal-absence record first."
+    ]
+  ]
+}
