@@ -1,0 +1,102 @@
+{
+  "id": "angel-and-the-badman-1947",
+  "title": "Angel and the Badman",
+  "year": 1947,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says it entered the US public domain in 1975 because National Telefilm Associates did not renew the copyright registration 28 years after release. This was not checked against the renewal-year Catalog of Copyright Entries text or the Copyright Office catalog in this session, so the print is left undetermined pending that check.",
+          "source": "Wikipedia, Angel and the Badman",
+          "url": "https://en.wikipedia.org/wiki/Angel_and_the_Badman"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track would normally share the print's status, but the composer and any separately registered music were not confirmed.",
+          "source": "research note",
+          "url": "https://archive.org/metadata/angel_and_the_badman"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits James Edward Grant as writer and director. Whether the screenplay was adapted from an earlier published source was not confirmed.",
+          "source": "Wikipedia, Angel and the Badman",
+          "url": "https://en.wikipedia.org/wiki/Angel_and_the_Badman"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "One Internet Archive upload (angel-and-the-badman-1947) is described as ripped from a remastered Blu-ray and converted to 720p MP4. A commercial remaster may add protectable material, but its contents were not checked.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/metadata/angel-and-the-badman-1947"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1974,
+      1975,
+      1976
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1974 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1975 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1976 (archive.org)",
+        "url": "https://archive.org/details/1976motionpictur3301213libr"
+      },
+      {
+        "label": "US Copyright Office public records (search “Angel and the Badman”)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/angel_and_the_badman",
+      "label": "Angel and the Badman (1947), Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Angel and the Badman is a 1947 Western starring John Wayne as the gunslinger Quirt Evans. Wounded, he is nursed back to health by a Quaker family and falls for Prudence Worth. Then an outlaw from his old life comes to kill him, and he has to choose between pacifism and revenge. James Edward Grant wrote and directed it, and John Wayne Productions and Patnal Productions made it. It was released on February 15, 1947. Wayne's name and a Western with a moral turn make it attractive for clips and screenings.\n\nThe rights question is whether the 28-year renewal was filed. Wikipedia says National Telefilm Associates did not renew in 1975. Treat that as a lead, not proof, until you check the 1974–1976 renewal volumes and the Copyright Office catalog yourself. Check the music and any remastered copy separately. Some uploads on the Internet Archive come from a Blu-ray remaster, and that transfer may carry its own additions.",
+  "faq": [
+    [
+      "Is Angel and the Badman in the public domain in the US?",
+      "Wikipedia says it became public domain in 1975 because the copyright was not renewed. This dossier did not verify that against the renewal catalogs, so check the 1974–1976 Catalog of Copyright Entries volumes and the Copyright Office catalog before relying on it."
+    ],
+    [
+      "Can I use any copy I find online?",
+      "Not automatically. One Internet Archive upload says it was ripped from a remastered Blu-ray. A commercial remaster may add protectable material, and ripping a copy-protected disc can raise DMCA issues. Prefer a copy made from an older print and check the source."
+    ]
+  ]
+}

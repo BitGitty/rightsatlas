@@ -1,0 +1,73 @@
+{
+  "id": "saps-at-sea-1940",
+  "title": "Saps at Sea",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1967 (Vol 21, Nos 1-2), Renewal Registrations section, under S (the fetched text places this section at roughly pages 107-114; the exact page was not isolated). Entry text as read: \"SAPS AT SEA, a photoplay in six reels by Hal Roach Studios. © 26Apr40; LP9591. Hal Roach Studios (PWH); 1Nov67; R420754.\" This gives original registration LP9591 (26 April 1940), renewal number R420754, renewal date 1 November 1967, and renewal claimant Hal Roach Studios (PWH, proprietor of a work made for hire).",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1967 (archive.org volume catalogofc19673211213libr, full text)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film's renewal is recorded (R420754), but no source has been checked on whether the music was separately registered, renewed or left unrenewed, so the score's status is not determined.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1967",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968
+    ],
+    "negative_result": "A renewal WAS found: the 1967 Catalog of Copyright Entries lists SAPS AT SEA as renewed on 1 November 1967 (R420754, claimant Hal Roach Studios). The film is not a non-renewal candidate.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1967, Motion Pictures (archive.org volume containing the Saps at Sea renewal)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Saps at Sea (1940) is a Laurel and Hardy feature from Hal Roach Studios. A creator would want it for the Laurel and Hardy slapstick, which is well known and easy to clip.\n\nThe rights trap is that this film was renewed. The 1967 Catalog of Copyright Entries records a renewal for it (R420754, 1 November 1967, claimant Hal Roach Studios), so the 1940 copyright was extended and the print should not be treated as free to reuse. Do not assume 'classic comedy' means public domain. Clear the film with the current rights holder, or find a different title. The status of the music score has not been checked separately.",
+  "faq": [
+    [
+      "Is Saps at Sea in the public domain in the US?",
+      "Probably not. The 1967 Catalog of Copyright Entries records a renewal for it (R420754, 1 November 1967, claimant Hal Roach Studios), so the 1940 copyright was extended. You can check the entry in the Renewal Registrations section of the archive.org volume yourself."
+    ],
+    [
+      "Can I use clips of Saps at Sea if a copy is on the Internet Archive?",
+      "An upload on archive.org does not change the film's copyright status. Because the film was renewed, a copy there may still be protected, so get a licence before you use it."
+    ]
+  ]
+}

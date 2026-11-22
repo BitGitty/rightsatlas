@@ -1,0 +1,84 @@
+{
+  "id": "room-service-1938",
+  "title": "Room Service",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-22",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal registration for ROOM SERVICE (1938) has been located. No renewal registration number (R-number), renewal date, claimant line or page has been recorded. The renewal window for a 1938 film is 1965-1966 (years 27-28 after publication), with 1966 the main year. The Catalog of Copyright Entries, Motion Pictures and Filmstrips volumes for 1966 and 1965 were opened, but the text could only be read as far as the early alphabetical entries and never reached the renewal sections or entries under R. Neither volume has been searched for this title. Until a renewal entry is found or ruled out by a full search, the print layer is unverified.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1966, Vol 20 No 1-2 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music credits and any separate registration or renewal of musical compositions were not checked. No source was consulted for the score, so its status is unconfirmed.",
+          "source": "Not checked",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts the 1937 stage play 'Room Service' by Allen Boretz and John Murray. I did not check the play's registration or renewal, so the source's own status is unconfirmed.",
+          "source": "Wikipedia article on the 1938 film (used only for the source-play credit)",
+          "url": "https://en.wikipedia.org/wiki/Room_Service_(1938_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1966 (archive.org) — primary renewal year; look for a ROOM SERVICE renewal entry",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1965 (archive.org) — also check for a ROOM SERVICE renewal entry",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "US Copyright Office public records (renewals filed 1978 or later; confirm no later filings)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Room Service is a 1938 RKO Radio Pictures comedy starring Groucho, Chico and Harpo Marx. It is adapted from the 1937 stage play by Allen Boretz and John Murray.\n\nThe trap: do not assume this film is free. No renewal has been located yet, but the search is not finished. The 1966 and 1965 Catalog of Copyright Entries volumes for Motion Pictures and Filmstrips were not read as far as the renewal sections, so this is not a finding that the film is unrenewed. Until a full search is done, treat the film as protected and clear any clip use with the current rightsholder. An upload on the Internet Archive or elsewhere is an uploader posting, not a clearance. The music and the play's own status were not checked here.",
+  "faq": [
+    [
+      "Is Room Service (1938) in the public domain in the US?",
+      "Not confirmed. No renewal has been located, but the 1965-1966 renewal volumes were not fully searched, so the print layer is unverified. Treat the film as protected and clear the rights with the current rightsholder before reusing it."
+    ],
+    [
+      "Can I use clips from the Internet Archive copies?",
+      "An upload on the Internet Archive does not give you a licence. Unless a short clip clearly qualifies as fair use, get clearance from the current rightsholder first."
+    ]
+  ]
+}
