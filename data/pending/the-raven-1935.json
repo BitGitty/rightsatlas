@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Universal Pictures Corp. copyrighted the film in 1935 and released it July 8, 1935. A 1935 film is public domain only through a missing notice or a missing renewal. I could not fetch the Stanford renewal database or the Catalog of Copyright Entries renewal volumes in this session, so no renewal-absence result is confirmed.",
+          "note": "Universal Pictures Corp. copyrighted the film in 1935 and released it July 8, 1935. A 1935 film is public domain only through a missing notice or a missing renewal. I could not fetch the Catalog of Copyright Entries renewal volumes in this session, so no renewal-absence result is confirmed.",
           "source": "Wikipedia, The Raven (1935 film)",
           "url": "https://en.wikipedia.org/wiki/The_Raven_(1935_film)"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Raven” (renewals ~1962, 1963, 1964)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Raven"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Raven” (renewals ~1962, 1963, 1964)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -78,7 +78,7 @@
     ]
   },
   "watch": [],
-  "editorial": "The Raven (1935) is a Universal Pictures horror film directed by Lew Landers, with Bela Lugosi as a surgeon obsessed with Poe and Boris Karloff as a fugitive he disfigures. David Boehm wrote the screenplay, which is only 'suggested by' Poe's 1845 poem, and Clifford Vaughan is credited with the music. It is a draw for horror compilations, Poe-themed projects and Lugosi/Karloff retrospectives.\n\nThe rights trap is the renewal. A 1935 film is free only if Universal never renewed it in the 1962–1964 window, and I could not confirm that either way. Until someone checks the Stanford renewal database and the Catalog of Copyright Entries renewal volumes, treat the film as protected. Poe's poem is old, but the screenplay is Universal's own work. The 2019 Shout Factory and 2020 Eureka Blu-rays are copy-protected discs, so ripping them could also raise DMCA issues.",
+  "editorial": "The Raven (1935) is a Universal Pictures horror film directed by Lew Landers, with Bela Lugosi as a surgeon obsessed with Poe and Boris Karloff as a fugitive he disfigures. David Boehm wrote the screenplay, which is only 'suggested by' Poe's 1845 poem, and Clifford Vaughan is credited with the music. It is a draw for horror compilations, Poe-themed projects and Lugosi/Karloff retrospectives.\n\nThe rights trap is the renewal. A 1935 film is free only if Universal never renewed it in the 1962–1964 window, and I could not confirm that either way. Until someone checks the Catalog of Copyright Entries renewal volumes, treat the film as protected. Poe's poem is old, but the screenplay is Universal's own work. The 2019 Shout Factory and 2020 Eureka Blu-rays are copy-protected discs, so ripping them could also raise DMCA issues.",
   "faq": [
     [
       "Is The Raven (1935) safe to reuse in the US?",

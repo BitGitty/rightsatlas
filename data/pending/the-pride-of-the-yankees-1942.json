@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Renewal status could not be confirmed this session. The Stanford Copyright Renewal DB search page returned no readable content, so no renewal record was found and none was ruled out. A film published in 1942 is not public domain by term. It is free only if its renewal (due in the 1969-1971 window) is absent. That check has not been done.",
-          "source": "Stanford Copyright Renewal Database (search page returned no readable content)",
-          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+          "note": "Renewal status could not be confirmed this session. The Catalog of Copyright Entries renewal volumes for 1969-1971 were not retrieved, so no renewal record was found and none was ruled out. A film published in 1942 is not public domain by term. It is free only if its renewal (due in the 1969-1971 window) is absent. That check has not been done. (Stanford's Copyright Renewal Database indexes book renewals only, not films, so it would not help here.)",
+          "source": "Catalog of Copyright Entries motion-picture renewal volumes (archive.org) — search page returned no readable content",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
         }
       ]
     },
@@ -43,8 +43,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Pride of the Yankees” (renewals ~1969, 1970, 1971)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Pride+of+the+Yankees"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Pride of the Yankees” (renewals ~1969, 1970, 1971)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -63,11 +63,11 @@
       "quality": "user upload, MPEG4, about 129 minutes"
     }
   ],
-  "editorial": "The Pride of the Yankees (1942) is the Sam Wood-directed biopic of baseball player Lou Gehrig. Its Internet Archive upload runs about 129 minutes. A creator would want it for 1940s baseball footage and as a well-known studio biopic.\n\nThe rights trap is the status of the film's copyright. A 1942 film is public domain only if its 28-year renewal, due around 1969 to 1971, was never filed. This dossier has not confirmed that. The Stanford renewal database page did not load in this session, so no renewal record was found and none was ruled out. The Internet Archive copy being online says nothing about its rights status. Treat the film as protected until someone checks the renewal volumes of the Catalog of Copyright Entries by hand. The score, source story, restorations and any marks are also unchecked.",
+  "editorial": "The Pride of the Yankees (1942) is the Sam Wood-directed biopic of baseball player Lou Gehrig. Its Internet Archive upload runs about 129 minutes. A creator would want it for 1940s baseball footage and as a well-known studio biopic.\n\nThe rights trap is the status of the film's copyright. A 1942 film is public domain only if its 28-year renewal, due around 1969 to 1971, was never filed. This dossier has not confirmed that. The Catalog of Copyright Entries renewal volumes were not checked in this session, so no renewal record was found and none was ruled out. The Internet Archive copy being online says nothing about its rights status. Treat the film as protected until someone checks the renewal volumes of the Catalog of Copyright Entries by hand. The score, source story, restorations and any marks are also unchecked.",
   "faq": [
     [
       "Is The Pride of the Yankees in the public domain?",
-      "Not established. It was published in 1942, so it is free only if its renewal was never filed. That check could not be completed here. Search the Stanford renewal database and the Catalog of Copyright Entries before reusing it."
+      "Not established. It was published in 1942, so it is free only if its renewal was never filed. That check could not be completed here. Search the Catalog of Copyright Entries renewal volumes for 1969-1971 before reusing it."
     ],
     [
       "Can I use the Internet Archive copy?",

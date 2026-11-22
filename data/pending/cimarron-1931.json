@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "RKO Radio Pictures released the film on 26 Jan 1931 (New York premiere), so publication falls in 1931, not 1930. Its 95-year term therefore runs through 31 Dec 2026, and the term does not expire until 1 Jan 2027. Until then public domain depends on a missing renewal. I could not load the Stanford renewal database or the CCE renewal volumes in this session, so no renewal-absence search is recorded.",
+          "note": "RKO Radio Pictures released the film on 26 Jan 1931 (New York premiere), so publication falls in 1931, not 1930. Its 95-year term therefore runs through 31 Dec 2026, and the term does not expire until 1 Jan 2027. Until then public domain depends on a missing renewal. I could not load the CCE renewal volumes in this session, so no renewal-absence search is recorded.",
           "source": "Wikipedia, Cimarron (1931 film)",
           "url": "https://en.wikipedia.org/wiki/Cimarron_(1931_film)"
         }
@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Cimarron” (renewals ~1957, 1958, 1959)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Cimarron"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Cimarron” (renewals ~1957, 1958, 1959)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -81,7 +81,7 @@
   "faq": [
     [
       "Is Cimarron (1931) public domain in the US today?",
-      "Not confirmed. The film was released in January 1931, so its term runs through the end of 2026 unless its copyright lapsed earlier through non-renewal. Check the Stanford renewal database and the Catalog of Copyright Entries renewal volumes before reusing it."
+      "Not confirmed. The film was released in January 1931, so its term runs through the end of 2026 unless its copyright lapsed earlier through non-renewal. Check the Catalog of Copyright Entries renewal volumes before reusing it."
     ],
     [
       "Does the free Internet Archive copy settle the question?",

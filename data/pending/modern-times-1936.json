@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Modern Times” (renewals ~1963, 1964, 1965)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Modern+Times"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Modern Times” (renewals ~1963, 1964, 1965)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1964 Motion Pictures (archive.org)",

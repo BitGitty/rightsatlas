@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No renewal record for this 1947 film could be confirmed in this session. The Stanford renewal database page returned no readable content, and the Catalog of Copyright Entries volumes were not read line by line. Print status stays undetermined until the renewal window (1974-1976) is checked by hand.",
+          "note": "No renewal record for this 1947 film could be confirmed in this session. The Catalog of Copyright Entries volumes were not read line by line (Stanford's renewal database would not help either, since it indexes book renewals, not films). Print status stays undetermined until the renewal window (1974-1976) is checked by hand.",
           "source": "Internet Archive: Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1975",
           "url": "https://archive.org/details/catalogofcopyrig3291213libr"
         }
@@ -43,8 +43,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “My Favorite Brunette” (renewals ~1974, 1975, 1976)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=My+Favorite+Brunette"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “My Favorite Brunette” (renewals ~1974, 1975, 1976)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -63,7 +63,7 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "My Favorite Brunette is a 1947 comedy-thriller in which a baby photographer gets caught up in espionage after he agrees to run a neighbor's private investigation business. It stars Bob Hope and Dorothy Lamour. The queue marks it as a likely case of renewal absence, which would make the film itself free to reuse. This session could not confirm that.\n\nThe Stanford renewal database returned nothing readable, and the Catalog of Copyright Entries was not checked line by line. Until someone searches the 1974-1976 renewal entries by hand, every layer here stays undetermined. Do not treat the many copies on the Internet Archive as proof of status. Uploads there say nothing about whether the copyright was renewed. The score and the underlying story have not been checked either.",
+  "editorial": "My Favorite Brunette is a 1947 comedy-thriller in which a baby photographer gets caught up in espionage after he agrees to run a neighbor's private investigation business. It stars Bob Hope and Dorothy Lamour. The queue marks it as a likely case of renewal absence, which would make the film itself free to reuse. This session could not confirm that.\n\nThe Catalog of Copyright Entries was not checked line by line. Until someone searches the 1974-1976 renewal entries by hand, every layer here stays undetermined. Do not treat the many copies on the Internet Archive as proof of status. Uploads there say nothing about whether the copyright was renewed. The score and the underlying story have not been checked either.",
   "faq": [
     [
       "Is My Favorite Brunette in the public domain?",

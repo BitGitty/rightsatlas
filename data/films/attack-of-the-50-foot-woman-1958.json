@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Attack of the 50 Foot Woman” (renewals ~1985, 1986, 1987)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Attack+of+the+50+Foot+Woman"
+        "label": "US Copyright Office public records (1978+) — search “Attack of the 50 Foot Woman” (renewals ~1985, 1986, 1987)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -88,7 +88,7 @@
   "faq": [
     [
       "Is Attack of the 50 Foot Woman (1958) in the public domain?",
-      "Not established here. A 1958 film is free only if it lacked a valid notice or its copyright was not renewed in the 1985-1987 window. I could not verify either, so check the Stanford renewal database and the Copyright Office catalog before relying on it."
+      "Not established here. A 1958 film is free only if it lacked a valid notice or its copyright was not renewed in the 1985-1987 window. I could not verify either, so check the US Copyright Office's public records (publicrecords.copyright.gov) before relying on it."
     ],
     [
       "Can I reuse the Internet Archive copy?",

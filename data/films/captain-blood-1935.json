@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Warner Bros. Pictures, Inc. released the film in December 1935 (New York premiere Dec 26, 1935). A 1935 release is not public domain by term. I could not retrieve a Catalog of Copyright Entries renewal volume or a Copyright Office record showing a renewal for the 1962-1964 window, so I cannot confirm that the renewal is absent. A major studio that kept its library in circulation is more likely to have renewed. Treat the print as protected until a renewal search is completed by hand.",
-          "source": "Stanford Copyright Renewal Database (search page; fetch returned no content)",
-          "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Captain+Blood"
+          "note": "Warner Bros. Pictures, Inc. released the film in December 1935 (New York premiere Dec 26, 1935). A 1935 release is not public domain by term. I could not retrieve a Catalog of Copyright Entries renewal volume or a Copyright Office record showing a renewal for the 1962-1964 window, so I cannot confirm that the renewal is absent. A major studio that kept its library in circulation is more likely to have renewed. Treat the print as protected until a renewal search is completed by hand. Stanford's Copyright Renewal Database indexes book renewals (Class A, 1950–1992) only; it could bear on a renewal of Rafael Sabatini's 1922 source novel, but not on this film, so it is not evidence about the print's status either way.",
+          "source": "Catalog of Copyright Entries motion-picture renewal volumes (archive.org) — not yet checked",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
         }
       ]
     },
@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Captain Blood” (renewals ~1962, 1963, 1964)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Captain+Blood"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Captain Blood” (renewals ~1962, 1963, 1964)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

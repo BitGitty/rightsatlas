@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "This is a 1940 US film distributed by RKO Radio Pictures. It is free in the US only if its notice was missing or its copyright was not renewed. I could not confirm either from a primary record. The Stanford renewal database could not be read in this session because its search results load by script, so I have no result from it. I did not read the 1967, 1968 or 1969 Catalog of Copyright Entries renewal sections. This is not a confirmed absence of renewal. The Internet Archive description calls the item a family movie and says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. It makes no rights statement that I could verify.",
+          "note": "This is a 1940 US film distributed by RKO Radio Pictures. It is free in the US only if its notice was missing or its copyright was not renewed. I could not confirm either from a primary record. Stanford's renewal database covers book renewals only, not films, so it is not a usable source here. I did not read the 1967, 1968 or 1969 Catalog of Copyright Entries renewal sections. This is not a confirmed absence of renewal. The Internet Archive description calls the item a family movie and says the original print was digitally remastered and preserved by the National Film Museum, Incorporated. It makes no rights statement that I could verify.",
           "source": "Internet Archive metadata",
           "url": "https://archive.org/details/Beyond-Tomorrow-1940-CHRISTMAS"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Beyond Tomorrow” (renewals ~1967, 1968, 1969)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Beyond+Tomorrow"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Beyond Tomorrow” (renewals ~1967, 1968, 1969)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "CCE Motion Pictures 1968 (archive.org)",

@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “It's a Wonderful Life” (renewals ~1973, 1974, 1975)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=It's+a+Wonderful+Life"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “It's a Wonderful Life” (renewals ~1973, 1974, 1975)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1974 Motion Pictures (archive.org) — check the renewal section by hand",

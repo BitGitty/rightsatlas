@@ -64,8 +64,8 @@
     "negative_result": "Not needed: the film was published in 1927 and is public domain by term, so no renewal search is required.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “It” (renewals ~1954, 1955, 1956)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=It"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “It” (renewals ~1954, 1955, 1956)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

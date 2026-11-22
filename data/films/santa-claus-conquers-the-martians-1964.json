@@ -64,8 +64,8 @@
     "negative_result": "Not run. Renewal is not the controlling question for a 1964 work under 17 U.S.C. 304(a), so a renewal-absence search would not establish public domain status here.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Santa Claus Conquers the Martians” (renewals ~1991, 1992, 1993)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Santa+Claus+Conquers+the+Martians"
+        "label": "US Copyright Office public records (1978+) — search “Santa Claus Conquers the Martians” (renewals ~1991, 1992, 1993)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

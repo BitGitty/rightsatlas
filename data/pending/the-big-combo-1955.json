@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Big Combo” (renewals ~1982, 1983, 1984)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+Combo"
+        "label": "US Copyright Office public records (1978+) — search “The Big Combo” (renewals ~1982, 1983, 1984)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

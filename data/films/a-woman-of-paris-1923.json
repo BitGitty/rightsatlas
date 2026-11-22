@@ -82,8 +82,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search \"A Woman of Paris\" (renewals ~1950, 1951, 1952)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Woman+of+Paris"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search \"A Woman of Paris\" (renewals ~1950, 1951, 1952)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

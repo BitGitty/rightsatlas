@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Released November 26, 1937 by Paramount from Fleischer Studios. A 1937 film is not covered by term expiry. Its US status depends on notice and a 28th-year renewal in 1964-65. The Wikipedia article calls it public domain, which is not a primary source. The renewal databases did not return a result I could rely on: the Stanford renewal DB search page returned no records, and only the first ~39,000 characters of each CCE motion-picture volume (1964: catalogofc19643181213libr; 1965: catalogofc19653191213libr) were readable. That is about 4% of each volume, and the renewals section was not reached, so no absence finding is claimed.",
+          "note": "Released November 26, 1937 by Paramount from Fleischer Studios. A 1937 film is not covered by term expiry. Its US status depends on notice and a 28th-year renewal in 1964-65. The Wikipedia article calls it public domain, which is not a primary source. Only the first ~39,000 characters of each CCE motion-picture volume (1964: catalogofc19643181213libr; 1965: catalogofc19653191213libr) were readable. That is about 4% of each volume, and the renewals section was not reached, so no absence finding is claimed.",
           "source": "Wikipedia article on the film; Internet Archive CCE volume metadata",
           "url": "https://archive.org/details/catalogofc19643181213libr"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Popeye the Sailor Meets Ali Baba's Forty Thieves” (renewals ~1964, 1965, 1966)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Popeye+the+Sailor+Meets+Ali+Baba's+Forty+Thieves"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Popeye the Sailor Meets Ali Baba's Forty Thieves” (renewals ~1964, 1965, 1966)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1964 Motion Pictures volume (archive.org)",
@@ -88,11 +88,11 @@
       "quality": "unverified-copy"
     }
   ],
-  "editorial": "This is the 1937 Technicolor-era Popeye two-reeler directed by Dave Fleischer for Fleischer Studios and released by Paramount on November 26, 1937. Willard Bowsky headed the animation. Music is credited to Sammy Timberg and Sammy Lerner, with 'Abu Hassan Song' credited to Tot Seymour and Vee Lawnhurst. It retells the Ali Baba tale with Popeye and Bluto, which makes it a popular pick for compilations and remixes.\n\nThe rights trap is the print itself. A 1937 release is free only if its notice was missing or the 1964-65 renewal was never filed, and this review could not confirm either. The Wikipedia page says the film is in the public domain, but that is not a primary source. A reuser should search the 1964 and 1965 Catalog of Copyright Entries renewals and the Stanford renewal database by hand before relying on the status. The Popeye character is a further question with its own rights chain, and a trademark can outlast any copyright. Restored disc releases may carry protectable additions.",
+  "editorial": "This is the 1937 Technicolor-era Popeye two-reeler directed by Dave Fleischer for Fleischer Studios and released by Paramount on November 26, 1937. Willard Bowsky headed the animation. Music is credited to Sammy Timberg and Sammy Lerner, with 'Abu Hassan Song' credited to Tot Seymour and Vee Lawnhurst. It retells the Ali Baba tale with Popeye and Bluto, which makes it a popular pick for compilations and remixes.\n\nThe rights trap is the print itself. A 1937 release is free only if its notice was missing or the 1964-65 renewal was never filed, and this review could not confirm either. The Wikipedia page says the film is in the public domain, but that is not a primary source. A reuser should search the 1964 and 1965 Catalog of Copyright Entries renewal volumes by hand before relying on the status. The Popeye character is a further question with its own rights chain, and a trademark can outlast any copyright. Restored disc releases may carry protectable additions.",
   "faq": [
     [
       "Is this cartoon safe to reuse?",
-      "Not confirmed. The 1937 film's status depends on a missing notice or a missing 1964-65 renewal, and no primary record of either was verified here. Check the CCE renewal volumes and the Stanford renewal database yourself first."
+      "Not confirmed. The 1937 film's status depends on a missing notice or a missing 1964-65 renewal, and no primary record of either was verified here. Check the full 1964 and 1965 CCE renewal volumes yourself first."
     ],
     [
       "Does an Internet Archive copy settle it?",

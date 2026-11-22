@@ -17,9 +17,9 @@
         },
         {
           "type": "research_note",
-          "note": "Stanford Copyright Renewal DB search for 'The Big Trail' returned no records (possible digitization gap or technical issue). Wikipedia's article on the film states 'The film's copyright was renewed, so the film finally entered the public domain in 2026.' Either way, the 95-year term ceiling applies and the work is PD by term as of 2026-09-01.",
-          "source": "Wikipedia secondary source; Stanford Copyright Renewal DB search (inconclusive)",
-          "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+Trail"
+          "note": "Catalog of Copyright Entries motion-picture renewal search for 'The Big Trail' was not completed in this session (archive.org volumes for the 1957–1959 renewal window were not read line by line). Wikipedia's article on the film states 'The film's copyright was renewed, so the film finally entered the public domain in 2026.' Either way, the 95-year term ceiling applies and the work is PD by term as of 2026-09-01. (Stanford's Copyright Renewal Database indexes book renewals only, not films, so it was never a usable source for this title.)",
+          "source": "Wikipedia secondary source; Catalog of Copyright Entries renewal search (not completed)",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
         }
       ]
     },
@@ -82,8 +82,8 @@
     "negative_result": false,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search 'The Big Trail' (renewals ~1957, 1958, 1959)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Big+Trail"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'The Big Trail' (renewals ~1957, 1958, 1959)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

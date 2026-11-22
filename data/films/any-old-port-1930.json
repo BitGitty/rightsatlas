@@ -83,8 +83,8 @@
     "negative_result": true,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB – search 'Any Old Port!' (renewals ~1957, 1958, 1959)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Any+Old+Port!"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes – search 'Any Old Port!' (renewals ~1957, 1958, 1959)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) – browse the Motion Pictures renewal-year volume by hand",

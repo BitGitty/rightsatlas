@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Eegah” (renewals ~1989, 1990, 1991)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Eegah"
+        "label": "US Copyright Office public records (1978+) — search “Eegah” (renewals ~1989, 1990, 1991)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -93,7 +93,7 @@
   "faq": [
     [
       "Is Eegah safe to reuse in a video?",
-      "Not yet confirmed. The film's status depends on its notice and on whether a 1989-1991 renewal exists, and this dossier did not complete that search. Run the Stanford and Copyright Office search links first. Even if the film proves free, clear the music and avoid the MST3K version, which adds its own material."
+      "Not yet confirmed. The film's status depends on its notice and on whether a 1989-1991 renewal exists, and this dossier did not complete that search. Run the US Copyright Office public-records search first. Even if the film proves free, clear the music and avoid the MST3K version, which adds its own material."
     ],
     [
       "Can I use the 2019 Film Detective 4K restoration or the MST3K episode?",

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Released Nov 17, 1933, so not public domain by term. Public domain would depend on a missing renewal. I could not confirm either way. The Stanford renewal database search page returned no readable result. The 1961 Catalog of Copyright Entries volumes on archive.org showed no 'Duck Soup' entry in the first 100,000 characters I read. That is not a full check, and the 1960 and 1962 volumes were not checked.",
+          "note": "Released Nov 17, 1933, so not public domain by term. Public domain would depend on a missing renewal. I could not confirm either way. The 1961 Catalog of Copyright Entries volumes on archive.org showed no 'Duck Soup' entry in the first 100,000 characters I read. That is not a full check, and the 1960 and 1962 volumes were not checked.",
           "source": "Catalog of Copyright Entries, Motion Pictures 1961 (partial read)",
           "url": "https://archive.org/details/CatalogOfCopyrightEntriesMotionPictures1961Jul-dec"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Duck Soup” (renewals ~1960, 1961, 1962)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Duck+Soup"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Duck Soup” (renewals ~1960, 1961, 1962)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1961 Jul-Dec, Motion Pictures (archive.org)",
@@ -86,7 +86,7 @@
     ],
     [
       "How can I check the renewal myself?",
-      "Search the Stanford Copyright Renewal Database for 'Duck Soup'. Then read the 1960, 1961 and 1962 Catalog of Copyright Entries motion-picture renewal volumes on archive.org."
+      "Read the 1960, 1961 and 1962 Catalog of Copyright Entries motion-picture renewal volumes on archive.org (Stanford's renewal database only covers books, not films, so it does not apply here)."
     ]
   ]
 }

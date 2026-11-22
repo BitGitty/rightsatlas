@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Green Hornet” (renewals ~1967, 1968, 1969)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Green+Hornet"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Green Hornet” (renewals ~1967, 1968, 1969)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -88,7 +88,7 @@
   "faq": [
     [
       "Can I use clips from the 1940 Green Hornet serial?",
-      "Not safely yet. This dossier did not confirm whether the print's copyright was renewed in 1967 to 1969. Search the Stanford renewal database and the Catalog of Copyright Entries yourself before using clips. An Internet Archive upload does not show that the film is free to use."
+      "Not safely yet. This dossier did not confirm whether the print's copyright was renewed in 1967 to 1969. Search the Catalog of Copyright Entries renewal volumes yourself before using clips. An Internet Archive upload does not show that the film is free to use."
     ],
     [
       "Can I make a new Green Hornet story if the serial turns out to be free?",

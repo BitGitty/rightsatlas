@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A web search summary of the AFI Catalog said the film was copyrighted in 1938 and renewed in 1966 by Columbia Pictures Industries, Inc. I could not fetch the AFI page (HTTP 403) or the Stanford renewal database, so the renewal is unconfirmed. If it holds, it contradicts the queue's 'renewal_absent_likely' flag and the print is probably not public domain.",
+          "note": "A web search summary of the AFI Catalog said the film was copyrighted in 1938 and renewed in 1966 by Columbia Pictures Industries, Inc. I could not fetch the AFI page (HTTP 403) or the 1966 Catalog of Copyright Entries volume, so the renewal is unconfirmed. If it holds, it contradicts the queue's 'renewal_absent_likely' flag and the print is probably not public domain.",
           "source": "AFI Catalog (search snippet only; page not fetched)",
           "url": "https://catalog.afi.com/Catalog/moviedetails/6329"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “You Can't Take It with You” (renewals ~1965, 1966, 1967)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=You+Can't+Take+It+with+You"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “You Can't Take It with You” (renewals ~1965, 1966, 1967)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -82,7 +82,7 @@
   "faq": [
     [
       "Is You Can't Take It with You (1938) public domain?",
-      "Not established. A search summary of the AFI Catalog reports a 1966 renewal by Columbia Pictures Industries, Inc. I could not verify it in a primary record. Check the Stanford renewal database and the 1966 Catalog of Copyright Entries before relying on it."
+      "Not established. A search summary of the AFI Catalog reports a 1966 renewal by Columbia Pictures Industries, Inc. I could not verify it in a primary record. Check the 1966 Catalog of Copyright Entries before relying on it."
     ],
     [
       "Can I use the Sony 2015 restoration?",

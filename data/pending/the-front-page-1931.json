@@ -43,8 +43,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Front Page” (renewals ~1958, 1959, 1960)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Front+Page"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Front Page” (renewals ~1958, 1959, 1960)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -72,7 +72,7 @@
   "faq": [
     [
       "Is the 1931 Front Page free to reuse?",
-      "Not confirmed. Its status depends on whether the 1931 film's copyright was renewed in its 28th year, around 1958 to 1960. The partial search found no renewal, but the check is incomplete. Search the Stanford renewal database and the full Copyright Office renewal volumes before relying on it."
+      "Not confirmed. Its status depends on whether the 1931 film's copyright was renewed in its 28th year, around 1958 to 1960. The partial search found no renewal, but the check is incomplete. Search the full Catalog of Copyright Entries renewal volumes before relying on it."
     ],
     [
       "Does the Internet Archive listing prove the film is free?",

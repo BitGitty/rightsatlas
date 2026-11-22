@@ -70,8 +70,8 @@
     "negative_result": false,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search 'The Divorcee' (renewal R197584 should appear)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Divorcee"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'The Divorcee' (renewal R197584 should appear)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "CCE Third Series Motion Pictures Jan-Dec 1957 (Vol. 11) — contains renewal R197584 for this film",

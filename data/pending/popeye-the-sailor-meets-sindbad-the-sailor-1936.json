@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia's article on the film states it entered the public domain. I could not open the Stanford renewal database or the Catalog of Copyright Entries renewal volumes for 1963-1965 in this session, so I have not confirmed non-renewal myself. The two primary citations the gate requires are missing.",
+          "note": "Wikipedia's article on the film states it entered the public domain. I could not open the Catalog of Copyright Entries renewal volumes for 1963-1965 in this session, so I have not confirmed non-renewal myself. The two primary citations the gate requires are missing.",
           "source": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Popeye_the_Sailor_Meets_Sindbad_the_Sailor"
         },
@@ -63,8 +63,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Popeye the Sailor Meets Sindbad the Sailor” (renewals ~1963, 1964, 1965)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Popeye+the+Sailor+Meets+Sindbad+the+Sailor"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Popeye the Sailor Meets Sindbad the Sailor” (renewals ~1963, 1964, 1965)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -87,7 +87,7 @@
   "faq": [
     [
       "Is this Popeye cartoon free to reuse?",
-      "Probably the print is, but I have not confirmed it. Wikipedia says the film entered the public domain. Check the Stanford renewal database and the 1963-1965 Catalog of Copyright Entries renewal volumes yourself before relying on it."
+      "Probably the print is, but I have not confirmed it. Wikipedia says the film entered the public domain. Check the full 1963-1965 Catalog of Copyright Entries renewal volumes yourself before relying on it."
     ],
     [
       "Can I use the Warner Bros. restored DVD copy?",

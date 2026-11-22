@@ -11,8 +11,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia states the film entered the public domain in 1978 when its 28-year copyright term lapsed without renewal. That is a secondary claim. No Catalog of Copyright Entries renewal page or Copyright Office record was read in this session, so non-renewal is not established here. A search of the Stanford Copyright Renewal Database for \"Great Rupert\" returned no results, but that search is not a primary citation. The Copyright Office public catalog could not be queried non-interactively. The Internet Archive item carries a Public Domain Mark 1.0 tag, which is an uploader label and not a rights record.",
-          "source": "Wikipedia, The Great Rupert; Stanford Copyright Renewal Database search",
+          "note": "Wikipedia states the film entered the public domain in 1978 when its 28-year copyright term lapsed without renewal. That is a secondary claim. No Catalog of Copyright Entries renewal page or Copyright Office record was read in this session, so non-renewal is not established here. Stanford's Copyright Renewal Database covers book renewals, not films, so it is not a usable source for this film's print status; a search of it for \"Great Rupert\" returned no results regardless. The Copyright Office public catalog could not be queried non-interactively. The Internet Archive item carries a Public Domain Mark 1.0 tag, which is an uploader label and not a rights record.",
+          "source": "Wikipedia, The Great Rupert",
           "url": "https://en.wikipedia.org/wiki/The_Great_Rupert"
         }
       ]
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Great Rupert” (renewals ~1977, 1978, 1979)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Great+Rupert"
+        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “The Great Rupert” (renewals ~1977, 1978, 1979)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -84,7 +84,7 @@
       "quality": "Internet Archive item crediting George Pal as creator, dated 1950-03-01, with a Public Domain Mark 1.0 tag. The main MP4 is about 1.58 GB and runs about 88 minutes, with an English subtitle file. Picture quality not viewed."
     }
   ],
-  "editorial": "The Great Rupert (1950) is an American family comedy produced by George Pal and directed by Irving Pichel, with Jimmy Durante, Tom Drake and Terry Moore. Rupert is an animated squirrel. It was distributed by Eagle-Lion Films and released in the United States on March 1, 1950. It is based on a story by Ted Allan that was also published as the children's book Willie the Squowse.\n\nWikipedia reports that the film entered the public domain in 1978, when its 28-year term lapsed without renewal. This dossier could not confirm that from the renewal records. A Stanford renewal database search for the title returned nothing, but that is not a primary record, so treat the print as unverified until you check the Catalog of Copyright Entries and the Copyright Office catalog yourself. Two other layers are open: the Willie the Squowse book, whose date and renewal status are unchecked, and the score. The 2003 colorized release from Fox and Legend Films, titled A Christmas Wish, may be protected separately, so use a black-and-white print.",
+  "editorial": "The Great Rupert (1950) is an American family comedy produced by George Pal and directed by Irving Pichel, with Jimmy Durante, Tom Drake and Terry Moore. Rupert is an animated squirrel. It was distributed by Eagle-Lion Films and released in the United States on March 1, 1950. It is based on a story by Ted Allan that was also published as the children's book Willie the Squowse.\n\nWikipedia reports that the film entered the public domain in 1978, when its 28-year term lapsed without renewal. This dossier could not confirm that from the renewal records. Treat the print as unverified until you check the Catalog of Copyright Entries and the Copyright Office's public records yourself. Two other layers are open: the Willie the Squowse book, whose date and renewal status are unchecked, and the score. The 2003 colorized release from Fox and Legend Films, titled A Christmas Wish, may be protected separately, so use a black-and-white print.",
   "faq": [
     [
       "Is The Great Rupert free to use?",

@@ -71,8 +71,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Batman and Robin” (renewals ~1976, 1977, 1978)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Batman+and+Robin"
+        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “Batman and Robin” (renewals ~1976, 1977, 1978)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -89,7 +89,7 @@
   "faq": [
     [
       "Can I upload clips of the 1949 Batman and Robin serial?",
-      "Not safely yet. The print's status is undetermined because the renewal records for 1976 to 1978 have not been checked here. Use the Stanford renewal database and the Catalog of Copyright Entries links in the renewal search first."
+      "Not safely yet. The print's status is undetermined because the renewal records for 1976 to 1978 have not been checked here. Use the Catalog of Copyright Entries and US Copyright Office public records links in the renewal search first."
     ],
     [
       "If the print were free, could I make a new Batman product from it?",

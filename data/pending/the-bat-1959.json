@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Bat” (renewals ~1986, 1987, 1988)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Bat"
+        "label": "US Copyright Office public records (1978+) — search “The Bat” (renewals ~1986, 1987, 1988)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -86,7 +86,7 @@
   "faq": [
     [
       "Can I use The Bat (1959) in my own project?",
-      "Not yet on this evidence. The film is widely described as public domain, but no primary renewal search has confirmed it. Search the Stanford renewal database and the Copyright Office public catalog yourself first. If both show no renewal, the print is likely free to reuse."
+      "Not yet on this evidence. The film is widely described as public domain, but no primary renewal search has confirmed it. Search the Copyright Office's public records (publicrecords.copyright.gov) yourself first. If both show no renewal, the print is likely free to reuse."
     ],
     [
       "Does the Rinehart and Hopwood source matter for reuse?",

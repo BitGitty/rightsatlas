@@ -82,8 +82,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search 'Lonesome' (renewals ~1955, 1956, 1957)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Lonesome"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'Lonesome' (renewals ~1955, 1956, 1957)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "CCE Motion Pictures 1950–1959 cumulative volume (archive.org) — search full text for 'Lonesome'",

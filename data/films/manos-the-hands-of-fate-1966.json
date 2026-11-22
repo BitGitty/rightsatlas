@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Manos: The Hands of Fate” (renewals ~1993, 1994, 1995)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Manos:+The+Hands+of+Fate"
+        "label": "US Copyright Office public records (1978+) — search “Manos: The Hands of Fate” (renewals ~1993, 1994, 1995)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "A 1932 MGM release. Public domain would depend on a missing notice or a missing renewal in the 1959-1961 window. I could not retrieve the Stanford renewal database or the Catalog of Copyright Entries volumes in this session, so no renewal check was completed.",
+          "note": "A 1932 MGM release. Public domain would depend on a missing notice or a missing renewal in the 1959-1961 window. I could not retrieve the Catalog of Copyright Entries volumes in this session, so no renewal check was completed.",
           "source": "Wikipedia: Tarzan the Ape Man (1932 film)",
           "url": "https://en.wikipedia.org/wiki/Tarzan_the_Ape_Man_(1932_film)"
         }
@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Tarzan the Ape Man” (renewals ~1959, 1960, 1961)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Tarzan+the+Ape+Man"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Tarzan the Ape Man” (renewals ~1959, 1960, 1961)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -75,7 +75,7 @@
   "faq": [
     [
       "Is Tarzan the Ape Man (1932) in the public domain?",
-      "Unconfirmed. As a 1932 film it is free only if it was published without notice or its copyright was not renewed in 1959-1961. I could not complete that renewal check, so treat it as protected until a Copyright Office or Stanford renewal record shows otherwise."
+      "Unconfirmed. As a 1932 film it is free only if it was published without notice or its copyright was not renewed in 1959-1961. I could not complete that renewal check, so treat it as protected until a Catalog of Copyright Entries renewal record shows otherwise."
     ],
     [
       "Does the 1912 source novel make the film free to use?",

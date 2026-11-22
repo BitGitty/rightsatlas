@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Released Dec 24, 1931 (Los Angeles) and Jan 3, 1932 (US wide). I could not retrieve the Catalog of Copyright Entries renewal volumes or the Stanford renewal database, so I could not confirm whether a renewal was filed in the 1959 window. Wikipedia's film article says it enters the US public domain on January 1, 2027, which implies the copyright was kept up. Do not treat it as free before then unless a renewal search proves absence.",
+          "note": "Released Dec 24, 1931 (Los Angeles) and Jan 3, 1932 (US wide). I could not retrieve the Catalog of Copyright Entries renewal volumes, so I could not confirm whether a renewal was filed in the 1959 window. Wikipedia's film article says it enters the US public domain on January 1, 2027, which implies the copyright was kept up. Do not treat it as free before then unless a renewal search proves absence.",
           "source": "Wikipedia, Dr. Jekyll and Mr. Hyde (1931 film)",
           "url": "https://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Dr. Jekyll and Mr. Hyde” (renewals ~1958, 1959, 1960)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Dr.+Jekyll+and+Mr.+Hyde"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Dr. Jekyll and Mr. Hyde” (renewals ~1958, 1959, 1960)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

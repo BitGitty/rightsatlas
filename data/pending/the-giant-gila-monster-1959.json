@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Giant Gila Monster” (renewals ~1986, 1987, 1988)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Giant+Gila+Monster"
+        "label": "US Copyright Office public records (1978+) — search “The Giant Gila Monster” (renewals ~1986, 1987, 1988)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -81,7 +81,7 @@
   "faq": [
     [
       "Is The Giant Gila Monster in the public domain?",
-      "Unconfirmed. It was released in 1959, so it is free only if the notice was missing or the copyright was not renewed. I could not verify either from a primary record. The Internet Archive's public-domain tag is the uploader's label, not a legal finding. Search the Stanford renewal database and the Copyright Office public records before you rely on it."
+      "Unconfirmed. It was released in 1959, so it is free only if the notice was missing or the copyright was not renewed. I could not verify either from a primary record. The Internet Archive's public-domain tag is the uploader's label, not a legal finding. Search the Copyright Office's public records (publicrecords.copyright.gov) before you rely on it."
     ],
     [
       "Can I reuse clips from the MST3K episode?",

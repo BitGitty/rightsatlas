@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive item carries a Public Domain Mark 1.0 tag, but that tag is an uploader label and is not a copyright record. I could not confirm that no renewal was filed in the 1985 window. The Copyright Office public catalog and the Stanford renewal database would not load for me, so I did not complete that search.",
+          "note": "The Internet Archive item carries a Public Domain Mark 1.0 tag, but that tag is an uploader label and is not a copyright record. I could not confirm that no renewal was filed in the 1985 window. The Copyright Office's public-records site would not load for me, so I did not complete that search (Stanford's renewal database would not have been useful anyway, since it indexes books, not films).",
           "source": "Internet Archive item metadata",
           "url": "https://archive.org/details/TheBrainFromPlanetArous"
         }
@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Brain from Planet Arous” (renewals ~1984, 1985, 1986)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Brain+from+Planet+Arous"
+        "label": "US Copyright Office public records (1978+) — search “The Brain from Planet Arous” (renewals ~1984, 1985, 1986)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -77,11 +77,11 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "The Brain from Planet Arous is a low-budget American science-fiction feature. Nathan H. Juran directed it under the pseudonym \"Nathan Hertz\". Jacques R. Marquette produced it, Ray Buffum wrote it and Walter Greene composed the music. John Agar plays a scientist possessed by an alien brain, and Joyce Meadows and Robert Fuller are in the cast. Howco International released it on a double bill with Teenage Monster, with a premiere on December 26, 1957. It has a cult following and has been sampled in many modern music tracks, which makes it attractive for clips, remixes and commentary.\n\nThe rights question is whether a renewal was filed in the 1985 window, 28 years after publication. I could not complete that check. The Internet Archive's Public Domain Mark is an uploader's label, not proof. I would not treat any layer as cleared until the Copyright Office public catalog and the Stanford renewal database have been searched for the title and for the claimants Howco and Marquette. A separate trap is that a newer \"HD restoration\" upload may add protectable material. I did not inspect any such upload.",
+  "editorial": "The Brain from Planet Arous is a low-budget American science-fiction feature. Nathan H. Juran directed it under the pseudonym \"Nathan Hertz\". Jacques R. Marquette produced it, Ray Buffum wrote it and Walter Greene composed the music. John Agar plays a scientist possessed by an alien brain, and Joyce Meadows and Robert Fuller are in the cast. Howco International released it on a double bill with Teenage Monster, with a premiere on December 26, 1957. It has a cult following and has been sampled in many modern music tracks, which makes it attractive for clips, remixes and commentary.\n\nThe rights question is whether a renewal was filed in the 1985 window, 28 years after publication. I could not complete that check. The Internet Archive's Public Domain Mark is an uploader's label, not proof. I would not treat any layer as cleared until the Copyright Office's public records have been searched for the title and for the claimants Howco and Marquette. A separate trap is that a newer \"HD restoration\" upload may add protectable material. I did not inspect any such upload.",
   "faq": [
     [
       "Is The Brain from Planet Arous in the public domain in the US?",
-      "Not confirmed. The Internet Archive copy is tagged as public domain, but I could not verify the absence of a renewal. Search the Stanford renewal database and the Copyright Office public catalog yourself before relying on it."
+      "Not confirmed. The Internet Archive copy is tagged as public domain, but I could not verify the absence of a renewal. Search the Copyright Office's public records (publicrecords.copyright.gov) yourself before relying on it."
     ],
     [
       "Can I use a clip from the Internet Archive copy?",

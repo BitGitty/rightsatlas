@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Attack of the Giant Leeches” (renewals ~1986, 1987, 1988)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Attack+of+the+Giant+Leeches"
+        "label": "US Copyright Office public records (1978+) — search “Attack of the Giant Leeches” (renewals ~1986, 1987, 1988)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1959 (archive.org) — check the July-December registration volume by hand",
@@ -93,7 +93,7 @@
   "faq": [
     [
       "Is Attack of the Giant Leeches in the public domain?",
-      "It is widely reported to be, because the copyright was supposedly never renewed. This dossier could not confirm that from the primary records, so check the Stanford renewal database and the Copyright Office catalog before you build on it."
+      "It is widely reported to be, because the copyright was supposedly never renewed. This dossier could not confirm that from the primary records, so check the US Copyright Office's public records (publicrecords.copyright.gov) before you build on it."
     ],
     [
       "Can I use a recent Blu-ray or streaming copy?",

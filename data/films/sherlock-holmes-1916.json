@@ -83,8 +83,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search 'Sherlock Holmes' (renewals ~1943, 1944, 1945)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Sherlock+Holmes"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'Sherlock Holmes' (renewals ~1943, 1944, 1945)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

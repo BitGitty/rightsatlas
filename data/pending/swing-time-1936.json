@@ -11,9 +11,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Stanford renewal database page returned no readable content in this session, and no Catalog of Copyright Entries volume or Copyright Office record was retrieved. A 1963-1965 renewal could not be confirmed or ruled out. The queue's 'renewal_absent_likely' flag is not verified.",
-          "source": "Stanford Copyright Renewal Database",
-          "url": "https://exhibits.stanford.edu/copyrightrenewals/"
+          "note": "No Catalog of Copyright Entries volume or Copyright Office record was retrieved in this session (Stanford's renewal database would not have helped regardless, since it indexes book renewals, not films). A 1963-1965 renewal could not be confirmed or ruled out. The queue's 'renewal_absent_likely' flag is not verified.",
+          "source": "Catalog of Copyright Entries motion-picture renewal volumes (archive.org) — not yet checked",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
         }
       ]
     },
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Swing Time” (renewals ~1963, 1964, 1965)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Swing+Time"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Swing Time” (renewals ~1963, 1964, 1965)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -82,7 +82,7 @@
   "faq": [
     [
       "Is Swing Time in the public domain?",
-      "Not confirmed. No renewal record could be retrieved in this session, so neither a renewal nor its absence is verified. Search the Stanford renewal database and the Catalog of Copyright Entries for 1963-1965 before relying on it."
+      "Not confirmed. No renewal record could be retrieved in this session, so neither a renewal nor its absence is verified. Search the Catalog of Copyright Entries for 1963-1965 before relying on it."
     ],
     [
       "Can I use a Criterion or Warner copy of Swing Time?",

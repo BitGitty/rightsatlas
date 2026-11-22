@@ -70,8 +70,8 @@
     "negative_result": false,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search \"Robot Monster\" (renewals ~1980, 1981, 1982)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Robot+Monster"
+        "label": "US Copyright Office public records (1978+) — search \"Robot Monster\" (renewals ~1980, 1981, 1982)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

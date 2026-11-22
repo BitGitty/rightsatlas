@@ -94,8 +94,8 @@
     "negative_result": true,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search \"The Blue Bird\" (renewals ~1945, 1946, 1947)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Blue+Bird"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search \"The Blue Bird\" (renewals ~1945, 1946, 1947)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

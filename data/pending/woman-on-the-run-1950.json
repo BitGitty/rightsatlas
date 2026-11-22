@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Wikipedia article states the film exists in the public domain. This session could not confirm the two primary citations a post-1930 film needs. The Stanford renewal database is JavaScript-rendered and returned nothing. The Catalog of Copyright Entries 1977 motion-picture volume and the Jan-June 1978 volume were only partly searchable: OCR was incomplete, no 'Woman on the Run' entry was found in the portions read, and no July-Dec 1978 volume was located. The Copyright Office public catalog was not searched. Renewal absence is therefore unproven, not disproven.",
+          "note": "The Wikipedia article states the film exists in the public domain. This session could not confirm the two primary citations a post-1930 film needs. The Catalog of Copyright Entries 1977 motion-picture volume and the Jan-June 1978 volume were only partly searchable: OCR was incomplete, no 'Woman on the Run' entry was found in the portions read, and no July-Dec 1978 volume was located. The Copyright Office's public records (for any 1978-on renewal) were not searched either. Renewal absence is therefore unproven, not disproven.",
           "source": "Catalog of Copyright Entries, Motion Pictures, 1977 (partial text search)",
           "url": "https://archive.org/details/1977motionpictur3311213libr"
         },
@@ -70,8 +70,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Woman on the Run” (renewals ~1977, 1978, 1979)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Woman+on+the+Run"
+        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “Woman on the Run” (renewals ~1977, 1978, 1979)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

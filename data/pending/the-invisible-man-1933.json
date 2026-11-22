@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Universal Pictures release, premiered October 31, 1933. I could not reach the Stanford renewal database or the Catalog of Copyright Entries renewal volumes in this session, so no renewal search was completed. The queue's 'renewal_absent_likely' flag is unconfirmed, and Universal has kept the film in its catalog.",
+          "note": "Universal Pictures release, premiered October 31, 1933. I could not reach the Catalog of Copyright Entries renewal volumes in this session, so no renewal search was completed. The queue's 'renewal_absent_likely' flag is unconfirmed, and Universal has kept the film in its catalog.",
           "source": "Wikipedia article on the film, used only for release and ownership facts",
           "url": "https://en.wikipedia.org/wiki/The_Invisible_Man_(1933_film)"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Invisible Man” (renewals ~1960, 1961, 1962)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Invisible+Man"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Invisible Man” (renewals ~1960, 1961, 1962)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -78,7 +78,7 @@
     ]
   },
   "watch": [],
-  "editorial": "James Whale's The Invisible Man was made by Universal Pictures and first shown on October 31, 1933, in Greeley, Colorado. Claude Rains stars. R.C. Sherriff wrote the script from H.G. Wells's 1897 novel, after Universal bought the rights from Wells in 1931 for $10,000. Heinz Roemheld composed the score. Universal commissioned a restoration in 2012 and has since put out Blu-ray and 4K releases.\n\nThe rights trap is the film itself. The Wells novel is free, but the 1933 film is a separate work, and I found no evidence that its copyright lapsed. A renewal search covering the 1960-1962 window was not completed, so the print cannot be treated as free. Do not assume Universal let the copyright lapse. Check the Catalog of Copyright Entries renewal volumes and the Stanford renewal database before using any footage. The 2012 restoration and later disc extras are a further risk, since new material on them can be protected.",
+  "editorial": "James Whale's The Invisible Man was made by Universal Pictures and first shown on October 31, 1933, in Greeley, Colorado. Claude Rains stars. R.C. Sherriff wrote the script from H.G. Wells's 1897 novel, after Universal bought the rights from Wells in 1931 for $10,000. Heinz Roemheld composed the score. Universal commissioned a restoration in 2012 and has since put out Blu-ray and 4K releases.\n\nThe rights trap is the film itself. The Wells novel is free, but the 1933 film is a separate work, and I found no evidence that its copyright lapsed. A renewal search covering the 1960-1962 window was not completed, so the print cannot be treated as free. Do not assume Universal let the copyright lapse. Check the Catalog of Copyright Entries renewal volumes before using any footage. The 2012 restoration and later disc extras are a further risk, since new material on them can be protected.",
   "faq": [
     [
       "Is the 1933 Invisible Man film in the public domain?",

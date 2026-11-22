@@ -63,8 +63,8 @@
     "negative_result": "No renewal for 'The Little Princess' was found in the 1967 Catalog of Copyright Entries motion-picture volume, which covers the film's 28th year. A partial read of the 1968 volume also found none.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Little Princess” (renewals ~1966, 1967, 1968)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Little+Princess"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Little Princess” (renewals ~1966, 1967, 1968)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -83,11 +83,11 @@
       "quality": "unverified"
     }
   ],
-  "editorial": "The Little Princess (1939) is Twentieth Century-Fox's adaptation of Frances Hodgson Burnett's 1905 novel A Little Princess, directed by Walter Lang with Shirley Temple as Sarah Crewe. Wikipedia describes it as her first film shot entirely in Technicolor and as costing over $1 million. It was released on March 10, 1939. Its main appeal to a reuser is the star and the color footage, and the Internet Archive hosts a roughly 93-minute copy.\n\nThe film appears to have entered the public domain through a missing renewal, not through age. In the 1967 Catalog of Copyright Entries, the volume for its 28th year, the search found no renewal entry. That finding rests on a text-extracted read of the catalog, so a manual check of the Stanford renewal database is worth doing before commercial use. The trap is the source of the copy. Newer Technicolor-derived transfers or restorations may add protected material such as new titles or color work, and no specific restoration was identified here. Use a clean source and check what the particular copy adds.",
+  "editorial": "The Little Princess (1939) is Twentieth Century-Fox's adaptation of Frances Hodgson Burnett's 1905 novel A Little Princess, directed by Walter Lang with Shirley Temple as Sarah Crewe. Wikipedia describes it as her first film shot entirely in Technicolor and as costing over $1 million. It was released on March 10, 1939. Its main appeal to a reuser is the star and the color footage, and the Internet Archive hosts a roughly 93-minute copy.\n\nThe film appears to have entered the public domain through a missing renewal, not through age. In the 1967 Catalog of Copyright Entries, the volume for its 28th year, the search found no renewal entry. That finding rests on a text-extracted read of the catalog, so a manual re-check of the 1967 Catalog of Copyright Entries volume is worth doing before commercial use. The trap is the source of the copy. Newer Technicolor-derived transfers or restorations may add protected material such as new titles or color work, and no specific restoration was identified here. Use a clean source and check what the particular copy adds.",
   "faq": [
     [
       "Is The Little Princess (1939) in the public domain in the US?",
-      "The evidence points that way. No copyright renewal was found in the 1967 Catalog of Copyright Entries, the volume for the film's 28th year. The novel it is based on dates from 1905. The check was a text-extracted read, so confirm against the Stanford renewal database before relying on it commercially."
+      "The evidence points that way. No copyright renewal was found in the 1967 Catalog of Copyright Entries, the volume for the film's 28th year. The novel it is based on dates from 1905. The check was a text-extracted read, so confirm by a manual check of the 1967 Catalog of Copyright Entries volume before relying on it commercially."
     ],
     [
       "Can I use the Internet Archive copy in my own project?",

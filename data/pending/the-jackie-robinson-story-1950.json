@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Jackie Robinson Story” (renewals ~1977, 1978, 1979)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Jackie+Robinson+Story"
+        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “The Jackie Robinson Story” (renewals ~1977, 1978, 1979)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — CCE Motion Pictures Jan-Dec 1977 volume",
@@ -92,7 +92,7 @@
   "faq": [
     [
       "Is The Jackie Robinson Story public domain in the US?",
-      "It is widely described that way, but this dossier has not confirmed it. The 1950 film's status depends on a missing notice or a missing renewal, and I did not finish the renewal search. Search the Stanford renewal database and the 1977 and 1978 Catalog of Copyright Entries volumes yourself before relying on it."
+      "It is widely described that way, but this dossier has not confirmed it. The 1950 film's status depends on a missing notice or a missing renewal, and I did not finish the renewal search. Search the 1977 Catalog of Copyright Entries volume, and the US Copyright Office's public records for 1978 on, yourself before relying on it."
     ],
     [
       "Can I use the colorized version?",

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No renewal record or Catalog of Copyright Entries volume was confirmed in this session. The Stanford renewal database page returned no readable content to the fetcher, so the renewal search was not completed. An Internet Archive uploader describes the film as 'PD due to lack of copyright renewal', but that is an uploader's claim, not a copyright record.",
+          "note": "No renewal record was confirmed in this session. The US Copyright Office's public-records site returned no readable content to the fetcher, so the renewal search was not completed (Stanford's renewal database would not apply regardless, since it covers book renewals only). An Internet Archive uploader describes the film as 'PD due to lack of copyright renewal', but that is an uploader's claim, not a copyright record.",
           "source": "Internet Archive item metadata, road-to-bali-1952-by-hal-walker",
           "url": "https://archive.org/details/road-to-bali-1952-by-hal-walker"
         }
@@ -50,8 +50,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Road to Bali” (renewals ~1979, 1980, 1981)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Road+to+Bali"
+        "label": "US Copyright Office public records (1978+) — search “Road to Bali” (renewals ~1979, 1980, 1981)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -70,11 +70,11 @@
       "quality": "unverified copy; the item is marked with a public-domain mark by its uploader"
     }
   ],
-  "editorial": "Road to Bali is the 1952 Hope/Crosby/Lamour entry in the Road series, directed by Hal Walker. The Internet Archive metadata describes it as two unemployed show-biz pals who take treasure-diving work in Bali for a local princess. Full-length copies run about 91 minutes, so a creator gets a complete feature to clip or screen.\n\nThe rights trap is that nobody has shown this film's copyright lapsed. Several Internet Archive uploads label it public domain for lack of renewal. That label comes from the uploaders and cites no renewal search. The renewal window runs 1979 to 1981, and the Stanford database could not be read in this session. Before reuse, search the Copyright Office public records and the Catalog of Copyright Entries yourself. Treat the film as protected until that search is done.",
+  "editorial": "Road to Bali is the 1952 Hope/Crosby/Lamour entry in the Road series, directed by Hal Walker. The Internet Archive metadata describes it as two unemployed show-biz pals who take treasure-diving work in Bali for a local princess. Full-length copies run about 91 minutes, so a creator gets a complete feature to clip or screen.\n\nThe rights trap is that nobody has shown this film's copyright lapsed. Several Internet Archive uploads label it public domain for lack of renewal. That label comes from the uploaders and cites no renewal search. The renewal window runs 1979 to 1981. Before reuse, search the Copyright Office's public records yourself. Treat the film as protected until that search is done.",
   "faq": [
     [
       "Is Road to Bali in the public domain?",
-      "Not established. Internet Archive uploads claim a missing renewal, but no primary renewal search was confirmed here. Search the Stanford renewal database and the Copyright Office public records for renewals filed 1979 to 1981 before reusing it."
+      "Not established. Internet Archive uploads claim a missing renewal, but no primary renewal search was confirmed here. Search the Copyright Office's public records (publicrecords.copyright.gov) for renewals filed 1979 to 1981 before reusing it."
     ],
     [
       "Can I use the Internet Archive copy?",

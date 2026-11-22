@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Premiered February 12, 1931 at the Roxy Theatre in New York and released across the US two days later, by Universal. The Wikipedia article states that, as a published work from 1931, the film enters the US public domain on January 1, 2027. A 95-year term of that kind applies to a renewed work, so this implies a renewed copyright. That inference is mine, not the article's. I could not retrieve a primary renewal record (the Stanford renewal database returned no readable results), so I am not claiming a status either way.",
+          "note": "Premiered February 12, 1931 at the Roxy Theatre in New York and released across the US two days later, by Universal. The Wikipedia article states that, as a published work from 1931, the film enters the US public domain on January 1, 2027. A 95-year term of that kind applies to a renewed work, so this implies a renewed copyright. That inference is mine, not the article's. I could not retrieve a primary renewal record (the Catalog of Copyright Entries 1958–1960 volumes were not checked), so I am not claiming a status either way.",
           "source": "Wikipedia, Dracula (1931 English-language film)",
           "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Dracula” (renewals ~1958, 1959, 1960)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Dracula"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Dracula” (renewals ~1958, 1959, 1960)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

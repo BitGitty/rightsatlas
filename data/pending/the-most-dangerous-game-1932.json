@@ -63,8 +63,8 @@
     "negative_result": "No renewal for 'The Most Dangerous Game' was found in the full text of the 1959 or 1960 Catalog of Copyright Entries motion-picture volumes. The 1961 volume was not checked.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Most Dangerous Game” (renewals ~1959, 1960, 1961)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Most+Dangerous+Game"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Most Dangerous Game” (renewals ~1959, 1960, 1961)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

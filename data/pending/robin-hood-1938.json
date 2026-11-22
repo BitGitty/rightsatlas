@@ -63,8 +63,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Adventures of Robin Hood” (renewals ~1965, 1966, 1967)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Adventures+of+Robin+Hood"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Adventures of Robin Hood” (renewals ~1965, 1966, 1967)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

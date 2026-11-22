@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Teenagers from Outer Space” (renewals ~1986, 1987, 1988)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Teenagers+from+Outer+Space"
+        "label": "US Copyright Office public records (1978+) — search “Teenagers from Outer Space” (renewals ~1986, 1987, 1988)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -84,11 +84,11 @@
       "quality": "standard"
     }
   ],
-  "editorial": "Teenagers from Outer Space is a 1959 black-and-white science-fiction film. Tom Graeff produced, wrote and directed it through Tom Graeff Productions, and Warner Bros. distributed it. In the story, a young alien falls for an Earth girl and tries to stop his cohorts' invasion. The Internet Archive lists a full 85-minute copy. Reusers want it for its cult standing and its Mystery Science Theater 3000 afterlife.\n\nThe rights question rests on renewal. Secondary sources say the copyright was not renewed in 1987, so the film lapsed. This dossier could not confirm that from the Copyright Office record or a renewal-year catalog, so the print is marked undetermined. Check the Stanford renewal database and the Copyright Office public catalog yourself before relying on it. Even if the print is free, the score's own rights are unconfirmed, and any edit with added material, such as the MST3K version, is a separate question.",
+  "editorial": "Teenagers from Outer Space is a 1959 black-and-white science-fiction film. Tom Graeff produced, wrote and directed it through Tom Graeff Productions, and Warner Bros. distributed it. In the story, a young alien falls for an Earth girl and tries to stop his cohorts' invasion. The Internet Archive lists a full 85-minute copy. Reusers want it for its cult standing and its Mystery Science Theater 3000 afterlife.\n\nThe rights question rests on renewal. Secondary sources say the copyright was not renewed in 1987, so the film lapsed. This dossier could not confirm that from the Copyright Office record or a renewal-year catalog, so the print is marked undetermined. Check the Copyright Office's public records (publicrecords.copyright.gov) yourself before relying on it. Even if the print is free, the score's own rights are unconfirmed, and any edit with added material, such as the MST3K version, is a separate question.",
   "faq": [
     [
       "Is Teenagers from Outer Space safe to reuse in the US?",
-      "Not confirmed here. Secondary sources say the copyright lapsed for lack of renewal in 1987. I could not confirm that against the Copyright Office record, and I did not check the print for a copyright notice. Run the Stanford and Copyright Office searches linked above before publishing."
+      "Not confirmed here. Secondary sources say the copyright lapsed for lack of renewal in 1987. I could not confirm that against the Copyright Office record, and I did not check the print for a copyright notice. Run the Copyright Office public-records search linked above before publishing."
     ],
     [
       "Can I use the Mystery Science Theater 3000 version?",

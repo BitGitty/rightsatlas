@@ -70,8 +70,8 @@
     "negative_result": true,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB – search 'The Dawn Patrol' (renewals ~1957, 1958, 1959)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Dawn+Patrol"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes – search 'The Dawn Patrol' (renewals ~1957, 1958, 1959)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "CCE Motion Pictures Jan–Dec 1957 (Vol 11) – full text on Archive.org, search 'Dawn Patrol' or 'Flight Commander'",

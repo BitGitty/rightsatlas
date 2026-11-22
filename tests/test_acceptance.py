@@ -216,6 +216,16 @@ def t16_pre1923_no_95_year_term():
             assert not bad.search("\n".join(lines)), f"{p.name}: post on a {y} work mentions a 95-year term"
 
 
+def t17_no_stanford_for_film_renewals():
+    """11-22 (audit R7): 115 film pages sent readers to the Stanford database to check a FILM renewal; it covers
+    books only. No film's do-it-yourself links may point there again."""
+    for d in ("films", "pending"):
+        for p in sorted((ROOT / "data" / d).glob("*.json")):
+            f = json.loads(p.read_text(encoding="utf-8"))
+            for link in (f.get("renewal_search") or {}).get("diy_links", []):
+                assert "stanford.edu" not in str(link.get("url", "")), f"{d}/{p.name}: Stanford link for a film renewal"
+
+
 TESTS = [v for k, v in sorted(globals().items()) if k.startswith(("t0", "t1", "t_"))]
 
 

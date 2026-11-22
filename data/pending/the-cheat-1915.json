@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Cheat” (renewals ~1942, 1943, 1944)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Cheat"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Cheat” (renewals ~1942, 1943, 1944)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -97,7 +97,7 @@
     ],
     [
       "Do I need to search for a copyright renewal for The Cheat?",
-      "No. A 1915 film is out of copyright by term, so the renewal search matters only for films published after the cutoff. The Stanford renewal database link in this dossier is there for reference only."
+      "No. A 1915 film is out of copyright by term, so the renewal search matters only for films published after the cutoff. The renewal-search links in this dossier are there for reference only."
     ]
   ]
 }

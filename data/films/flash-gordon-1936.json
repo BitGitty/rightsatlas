@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Flash Gordon” (renewals ~1963, 1964, 1965)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Flash+Gordon"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Flash Gordon” (renewals ~1963, 1964, 1965)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -82,11 +82,11 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "Flash Gordon is Universal's 13-chapter science-fiction serial, released April 6, 1936 and directed by Frederick Stephani. It stars Buster Crabbe and was made with King Features Syndicate. It adapts Alex Raymond's comic strip, which began in 1934. The Library of Congress added it to the National Film Registry in 1996. It runs about 245 minutes. A creator would want it for the Ming the Merciless sets and the cliffhanger structure. Sets and props came partly from Universal's earlier Frankenstein and The Mummy productions.\n\nThe rights trap is layered. The serial's own renewal status is unconfirmed: no renewal record or notice-failure document was found, and the Stanford renewal database could not be read in this session. The story layer is separate and stays protected: the comic strip dates from 1934, and its characters and franchise are still owned and commercially exploited. Many grey-market copies exist on video and the Internet Archive, but wide circulation is not proof of public-domain status. Clear the renewal record and the strip's rights before any commercial reuse.",
+  "editorial": "Flash Gordon is Universal's 13-chapter science-fiction serial, released April 6, 1936 and directed by Frederick Stephani. It stars Buster Crabbe and was made with King Features Syndicate. It adapts Alex Raymond's comic strip, which began in 1934. The Library of Congress added it to the National Film Registry in 1996. It runs about 245 minutes. A creator would want it for the Ming the Merciless sets and the cliffhanger structure. Sets and props came partly from Universal's earlier Frankenstein and The Mummy productions.\n\nThe rights trap is layered. The serial's own renewal status is unconfirmed: no renewal record or notice-failure document was found, and the Catalog of Copyright Entries motion-picture renewal volumes were not checked in this session. The story layer is separate and stays protected: the comic strip dates from 1934, and its characters and franchise are still owned and commercially exploited. Many grey-market copies exist on video and the Internet Archive, but wide circulation is not proof of public-domain status. Clear the renewal record and the strip's rights before any commercial reuse.",
   "faq": [
     [
       "Is the 1936 Flash Gordon serial public domain?",
-      "Not confirmed. We found no renewal record or notice-failure document, and the Stanford renewal database was unreachable. Even if the film print is free, the comic-strip characters are a separate matter."
+      "Not confirmed. We found no renewal record or notice-failure document, and the Catalog of Copyright Entries renewal volumes were not checked. Even if the film print is free, the comic-strip characters are a separate matter."
     ],
     [
       "Can I use Flash Gordon characters or the name in a new work?",

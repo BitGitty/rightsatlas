@@ -70,8 +70,8 @@
     "negative_result": "Renewal search is not required to establish public domain status: Häxan was published in 1922, and all works published before 1923 are in the US public domain by term expiry regardless of renewal history. The maximum possible US copyright term (75 years from 1922) expired January 1, 1998. Renewal records are provided as optional documentary confirmation only.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search \"Häxan\" or \"Witchcraft Through the Ages\" (renewals ~1949, 1950, 1951)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=H%C3%A4xan&search_field=all_fields"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search \"Häxan\" or \"Witchcraft Through the Ages\" (renewals ~1949, 1950, 1951)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse Motion Pictures renewal-year volumes by hand",

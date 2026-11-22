@@ -43,8 +43,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Brideless Groom” (renewals ~1974, 1975, 1976)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Brideless+Groom"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Brideless Groom” (renewals ~1974, 1975, 1976)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "CCE Motion Pictures 1975 (archive.org)",
@@ -76,11 +76,11 @@
       "quality": "720p"
     }
   ],
-  "editorial": "Brideless Groom is a 1947 Three Stooges comedy short directed by Edward Bernds. Shemp plays a voice teacher who must marry before six o'clock to inherit a fortune, and nobody will accept his proposal. A short with this much circulation is an easy pick for a compilation, a classic-comedy channel or a remix.\n\nThe rights trap is that the film is the layer you can't yet call free. The Internet Archive tags one upload with a Public Domain Mark, but that is the uploader's claim. This dossier did not complete a search of the 1974–1976 Catalog of Copyright Entries renewal volumes. Check the Stanford renewal database and those volumes yourself before relying on the film. Don't assume that a Public Domain Mark on one copy covers every version.",
+  "editorial": "Brideless Groom is a 1947 Three Stooges comedy short directed by Edward Bernds. Shemp plays a voice teacher who must marry before six o'clock to inherit a fortune, and nobody will accept his proposal. A short with this much circulation is an easy pick for a compilation, a classic-comedy channel or a remix.\n\nThe rights trap is that the film is the layer you can't yet call free. The Internet Archive tags one upload with a Public Domain Mark, but that is the uploader's claim. This dossier did not complete a search of the 1974–1976 Catalog of Copyright Entries renewal volumes. Check those volumes yourself before relying on the film. Don't assume that a Public Domain Mark on one copy covers every version.",
   "faq": [
     [
       "Is Brideless Groom safe to reuse?",
-      "Not yet confirmed here. The Internet Archive tags one upload as public domain, but this dossier did not finish a renewal search. Search the Stanford renewal database and the 1974–1976 Catalog of Copyright Entries volumes first."
+      "Not yet confirmed here. The Internet Archive tags one upload as public domain, but this dossier did not finish a renewal search. Search the full 1974–1976 Catalog of Copyright Entries volumes first."
     ],
     [
       "Which copy should I use?",

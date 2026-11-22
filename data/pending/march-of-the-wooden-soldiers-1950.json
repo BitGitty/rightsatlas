@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film was made in 1934 as Babes in Toyland (MGM, released November 30, 1934). The 1950 date is the Robert L. Lippert re-release under the title March of the Wooden Soldiers, a cut version. Wikipedia says the original 79-minute version is under copyright to Prime TV Inc., whose assets are owned by WPIX, and that home-video companies have distributed the 1950 version as if it were public domain. I could not load a renewal record. The Stanford renewal database search pages returned no readable content, so no renewal or non-renewal is confirmed.",
+          "note": "The film was made in 1934 as Babes in Toyland (MGM, released November 30, 1934). The 1950 date is the Robert L. Lippert re-release under the title March of the Wooden Soldiers, a cut version. Wikipedia says the original 79-minute version is under copyright to Prime TV Inc., whose assets are owned by WPIX, and that home-video companies have distributed the 1950 version as if it were public domain. I could not load a renewal record. The Catalog of Copyright Entries renewal-year volumes were not checked in this session, so no renewal or non-renewal is confirmed.",
           "source": "Wikipedia, Babes in Toyland (1934 film)",
           "url": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1934_film)"
         }
@@ -63,12 +63,12 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Babes in Toyland” (1934 film, renewal due 1961-62)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Babes+in+Toyland"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Babes in Toyland” (1934 film, renewal due 1961-62)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
-        "label": "Stanford Copyright Renewal DB — search “March of the Wooden Soldiers”",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=March+of+the+Wooden+Soldiers"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “March of the Wooden Soldiers”",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volumes by hand",

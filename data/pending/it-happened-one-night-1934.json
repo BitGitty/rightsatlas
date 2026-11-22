@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Released 22 February 1934 by Columbia Pictures, directed by Frank Capra. A 1934 film is public domain only if its notice was missing or its renewal was never filed. I could not load the Stanford renewal database (JavaScript page and CAPTCHA) or the Catalog of Copyright Entries renewal volumes in this session, so no renewal check was done.",
+          "note": "Released 22 February 1934 by Columbia Pictures, directed by Frank Capra. A 1934 film is public domain only if its notice was missing or its renewal was never filed. I could not load the Catalog of Copyright Entries renewal volumes in this session, so no renewal check was done.",
           "source": "Wikipedia: It Happened One Night",
           "url": "https://en.wikipedia.org/wiki/It_Happened_One_Night"
         }
@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “It Happened One Night” (renewals ~1961, 1962, 1963)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=It+Happened+One+Night"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “It Happened One Night” (renewals ~1961, 1962, 1963)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -81,7 +81,7 @@
   "faq": [
     [
       "Is It Happened One Night in the public domain in the US?",
-      "Not established. A 1934 film is public domain only if its notice was missing or its renewal was not filed in the 1961 to 1963 window. That search is still to be done by hand using the Stanford renewal database and the Catalog of Copyright Entries. Until it is done, treat the film as protected."
+      "Not established. A 1934 film is public domain only if its notice was missing or its renewal was not filed in the 1961 to 1963 window. That search is still to be done by hand using the Catalog of Copyright Entries renewal volumes. Until it is done, treat the film as protected."
     ],
     [
       "Can I use the Internet Archive copy or the Sony restoration?",

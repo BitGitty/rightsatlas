@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No renewal record could be retrieved or checked this session: the Stanford renewal database search page returned no readable content, and no Catalog of Copyright Entries volume was opened. The Wikipedia article does not state the film's copyright status. Treat the print as protected until a renewal-volume check shows otherwise.",
+          "note": "No renewal record could be retrieved or checked this session: no Catalog of Copyright Entries volume was opened (Stanford's renewal database would not have helped either, since it indexes books, not films). The Wikipedia article does not state the film's copyright status. Treat the print as protected until a renewal-volume check shows otherwise.",
           "source": "Wikipedia, Top Hat (film)",
           "url": "https://en.wikipedia.org/wiki/Top_Hat"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Top Hat” (renewals ~1962, 1963, 1964)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Top+Hat"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Top Hat” (renewals ~1962, 1963, 1964)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "renewal_registration",
-          "note": "The Lucky Corner's Our Gang film page for No. 104 lists the copyright as claimed by Metro-Goldwyn-Mayer Pictures Corporation (LP1681) and renewed January 13, 1958 (R206653). The film was released February 14, 1931. A renewed 1931 work runs 95 years from publication, to the end of 2026. That page's statement that the copyright 'expired at the end of 2025' counts from the 1930 registration date and does not match the 1931 release, so I did not rely on it. I could not retrieve the Copyright Office or Stanford renewal record itself, so this renewal entry still needs checking against a primary record.",
+          "note": "The Lucky Corner's Our Gang film page for No. 104 lists the copyright as claimed by Metro-Goldwyn-Mayer Pictures Corporation (LP1681) and renewed January 13, 1958 (R206653). The film was released February 14, 1931. A renewed 1931 work runs 95 years from publication, to the end of 2026. That page's statement that the copyright 'expired at the end of 2025' counts from the 1930 registration date and does not match the 1931 release, so I did not rely on it. I could not retrieve the Copyright Office's renewal record itself (Stanford's database would not help, since it covers books, not films), so this renewal entry still needs checking against a primary record.",
           "source": "The Lucky Corner, Our Gang Film No. 104",
           "url": "https://www.theluckycorner.com/rmt/104.html"
         }
@@ -57,8 +57,8 @@
     "negative_result": false,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Love Business” (renewals ~1958, 1959, 1960)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Love+Business"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Love Business” (renewals ~1958, 1959, 1960)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “7th Heaven” (renewals ~1954, 1955, 1956)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=7th+Heaven"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “7th Heaven” (renewals ~1954, 1955, 1956)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

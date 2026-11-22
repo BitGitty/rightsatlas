@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies” (renewals ~1991, 1992, 1993)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Incredibly+Strange+Creatures+Who+Stopped+Living+and+Became+Mixed-Up+Zombies"
+        "label": "US Copyright Office public records (1978+) — search “The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies” (renewals ~1991, 1992, 1993)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

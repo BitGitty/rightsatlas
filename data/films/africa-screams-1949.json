@@ -70,8 +70,8 @@
     "negative_result": "No renewal found in the scanned index sections of the 1976 and 1977 CCE motion-picture volumes. The scan covered A to CBS in the 1976 volume and A to CHI in the 1977 volume. I did not run a Copyright Office public-catalog search, so that check is still open.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Africa Screams” (renewals ~1976, 1977, 1978)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Africa+Screams"
+        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “Africa Screams” (renewals ~1976, 1977, 1978)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

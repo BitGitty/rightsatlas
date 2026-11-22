@@ -58,8 +58,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Ghost” (renewals ~1942, 1943, 1944)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Ghost"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Ghost” (renewals ~1942, 1943, 1944)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -80,7 +80,7 @@
     ],
     [
       "Is there a renewal I need to worry about?",
-      "No. A 1915 work's term ended without any renewal affecting it today, so the Stanford and Catalog of Copyright Entries links are only for curiosity. The open question is the identity of the film and its source story, not the renewal."
+      "No. A 1915 work's term ended without any renewal affecting it today, so the Catalog of Copyright Entries link is only for curiosity. The open question is the identity of the film and its source story, not the renewal."
     ]
   ]
 }

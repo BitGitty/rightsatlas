@@ -73,11 +73,11 @@
       1967,
       1968
     ],
-    "negative_result": "No renewal for Gulliver's Travels (1939, Fleischer Studios / Paramount) was found in the archive.org OCR index of the CCE motion-picture volumes for 1966, 1967 and 1968. The 1967 volume is the expected one. The Stanford renewal database search page did not render, so it was not checked.",
+    "negative_result": "No renewal for Gulliver's Travels (1939, Fleischer Studios / Paramount) was found in the archive.org OCR index of the CCE motion-picture volumes for 1966, 1967 and 1968. The 1967 volume is the expected one. (Stanford's renewal database covers books, not films, so it was not a usable source here.)",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Gulliver's Travels” (renewals ~1966, 1967, 1968)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Gulliver's+Travels"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Gulliver's Travels” (renewals ~1966, 1967, 1968)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -105,7 +105,7 @@
   "faq": [
     [
       "Was the copyright on the 1939 Gulliver's Travels renewed?",
-      "I found no renewal. The film was released in December 1939, so renewal was due in 1967. An archive.org OCR search of the 1966, 1967 and 1968 Catalog of Copyright Entries volumes for 'gulliver' returned no renewal of the film. OCR can miss entries, so check the 1967 volume by hand, and use the Stanford renewal database, which did not load for me."
+      "I found no renewal. The film was released in December 1939, so renewal was due in 1967. An archive.org OCR search of the 1966, 1967 and 1968 Catalog of Copyright Entries volumes for 'gulliver' returned no renewal of the film. OCR can miss entries, so check the 1967 volume by hand."
     ],
     [
       "Can I reuse the songs and score along with the picture?",

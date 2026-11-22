@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Invaders” (renewals ~1939, 1940, 1941)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Invaders"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Invaders” (renewals ~1939, 1940, 1941)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

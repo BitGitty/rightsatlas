@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not verified. The film opened in the UK on 22 Nov 1951 (Odeon Marble Arch) and in New York on 28 Nov 1951 as 'A Christmas Carol', six days later. Under 17 U.S.C. 104A(h)(6)(D), a restored work must not have been published in the US within 30 days of first publication in an eligible country, so URAA restoration may not apply. Whether a theatrical release counts as 'publication' in the legal sense is also unresolved. US status would then depend on whether the film carried a proper notice and was renewed (a renewal would have been due in 1979). The Stanford renewal database and the Copyright Office public records site both returned no usable content to a fetch because they need JavaScript. No Catalog of Copyright Entries renewal volume was checked. No renewal-absence finding is claimed.",
+          "note": "Not verified. The film opened in the UK on 22 Nov 1951 (Odeon Marble Arch) and in New York on 28 Nov 1951 as 'A Christmas Carol', six days later. Under 17 U.S.C. 104A(h)(6)(D), a restored work must not have been published in the US within 30 days of first publication in an eligible country, so URAA restoration may not apply. Whether a theatrical release counts as 'publication' in the legal sense is also unresolved. US status would then depend on whether the film carried a proper notice and was renewed (a renewal would have been due in 1979). The Copyright Office's public records site returned no usable content to a fetch because it needs JavaScript (Stanford's renewal database was not a usable alternative either, since it indexes book renewals, not films). No Catalog of Copyright Entries renewal volume was checked. No renewal-absence finding is claimed.",
           "source": "17 U.S.C. 104A (Cornell LII)",
           "url": "https://www.law.cornell.edu/uscode/text/17/104A"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Scrooge (A Christmas Carol)” (renewals ~1978, 1979, 1980)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Scrooge+(A+Christmas+Carol)"
+        "label": "US Copyright Office public records (1978+) — search “Scrooge (A Christmas Carol)” (renewals ~1978, 1979, 1980)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -84,7 +84,7 @@
       "quality": "full feature upload"
     }
   ],
-  "editorial": "Scrooge (1951) is George Minter Productions' British version of Dickens' story. It opened at the Odeon Marble Arch on 22 November 1951, with Renown Pictures as UK distributor. It reached New York on 28 November 1951 under the title 'A Christmas Carol', with United Artists handling US distribution. A reuser must search US records under that title.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US openings came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the Stanford renewal database and the Copyright Office records under both titles before treating the print as free. Separately, the 2009 Blu-ray and the 2011 remastered edition from VCI carry their own added material.",
+  "editorial": "Scrooge (1951) is George Minter Productions' British version of Dickens' story. It opened at the Odeon Marble Arch on 22 November 1951, with Renown Pictures as UK distributor. It reached New York on 28 November 1951 under the title 'A Christmas Carol', with United Artists handling US distribution. A reuser must search US records under that title.\n\nThe story layer is clear: Dickens published the novella in 1843. The print is the open question. The UK and US openings came six days apart, which may keep the film out of URAA restoration, so the US result turns on notice and a 1979 renewal. Neither has been confirmed here. Check the US Copyright Office's public records under both titles before treating the print as free. Separately, the 2009 Blu-ray and the 2011 remastered edition from VCI carry their own added material.",
   "faq": [
     [
       "Is the 1951 Scrooge in the public domain in the US?",

@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search 'The Cat and the Canary' (renewals ~1954–1956)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Cat+and+the+Canary"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search 'The Cat and the Canary' (renewals ~1954–1956)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse Motion Pictures renewal-year volumes by hand",

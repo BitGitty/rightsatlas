@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Credited to Universal Pictures. The Internet Archive item dates it 1941, while the queue row says 1940. It was published after 1930, so it is free only if its copyright was not renewed in the 28th-year window. I could not confirm a renewal or its absence. The Stanford renewal database search returned no usable content in this session. I did not check the Catalog of Copyright Entries volumes or the Copyright Office catalog.",
+          "note": "Credited to Universal Pictures. The Internet Archive item dates it 1941, while the queue row says 1940. It was published after 1930, so it is free only if its copyright was not renewed in the 28th-year window. I could not confirm a renewal or its absence. I did not check the Catalog of Copyright Entries volumes or the Copyright Office catalog (Stanford's renewal database is a book-renewal index and does not cover films, so it was not a usable source either way).",
           "source": "Internet Archive item metadata (no license or copyright finding given)",
           "url": "https://archive.org/details/flash_gordon1"
         }
@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Flash Gordon Conquers the Universe” (renewals ~1967, 1968, 1969)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Flash+Gordon+Conquers+the+Universe"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Flash Gordon Conquers the Universe” (renewals ~1967, 1968, 1969)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",

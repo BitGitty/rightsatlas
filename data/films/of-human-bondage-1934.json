@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia states the 1934 RKO film lapsed into the US public domain in 1962 when its registration was not renewed. I could not confirm that against a primary record. The Catalog of Copyright Entries 1962 motion-picture volume is a very large text, and I read only its first ~100,000 characters (entries A to F, January to June 1962), which cannot show an 'H' entry. No Stanford renewal-database record page loaded. Treat the renewal absence as unverified until the CCE renewal volumes and the Copyright Office catalog are checked by hand.",
+          "note": "Wikipedia states the 1934 RKO film lapsed into the US public domain in 1962 when its registration was not renewed. I could not confirm that against a primary record. The Catalog of Copyright Entries 1962 motion-picture volume is a very large text, and I read only its first ~100,000 characters (entries A to F, January to June 1962), which cannot show an 'H' entry. Treat the renewal absence as unverified until the rest of the CCE renewal volumes and the Copyright Office catalog are checked by hand.",
           "source": "Wikipedia, Of Human Bondage (1934 film); CCE 1962 Motion Pictures volume (partially read)",
           "url": "https://archive.org/details/catalogofcopyr3161213libr"
         }
@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Of Human Bondage” (renewals ~1961, 1962, 1963)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Of+Human+Bondage"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Of Human Bondage” (renewals ~1961, 1962, 1963)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1962 Motion Pictures (archive.org) — check renewals by hand",

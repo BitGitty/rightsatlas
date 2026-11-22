@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not verified as public domain. I could not read the full 1962 and 1963 Catalog of Copyright Entries motion-picture volumes, and the Stanford renewal database page returned no readable content, so no renewal record was found or ruled out. The Wikipedia page says Turner Entertainment owns the rights to the film.",
+          "note": "Not verified as public domain. I could not read the full 1962 and 1963 Catalog of Copyright Entries motion-picture volumes, so no renewal record was found or ruled out (Stanford's renewal database covers books, not films, so it would not have helped either). The Wikipedia page says Turner Entertainment owns the rights to the film.",
           "source": "Wikipedia, A Night at the Opera (film)",
           "url": "https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(film)"
         }
@@ -43,8 +43,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “A Night at the Opera” (renewals ~1962, 1963, 1964)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=A+Night+at+the+Opera"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “A Night at the Opera” (renewals ~1962, 1963, 1964)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1962, Motion Pictures and Filmstrips (archive.org)",
@@ -61,11 +61,11 @@
     ]
   },
   "watch": [],
-  "editorial": "A Night at the Opera is the 1935 Marx Brothers comedy from Metro-Goldwyn-Mayer, directed by Sam Wood. The screenplay is credited to George S. Kaufman and Morrie Ryskind, from a story by James Kevin McGuinness, with additional dialogue by Al Boasberg, uncredited, and a score by Herbert Stothart. The contract scene is among the best-known Marx Brothers sequences, so creators want it for clips and essays. It was selected for the National Film Registry in 1993.\n\nThe rights trap is the film's copyright status. The queue flagged it as likely never renewed, but I could not confirm that. The full 1962 and 1963 renewal volumes did not load completely in this session, and the Stanford database returned nothing readable. Turner Entertainment is described as the rights owner, which points to an active claim. Treat the film as protected until you find a primary record showing the 28th-year renewal was missed. Do not reuse clips on the strength of the queue's guess.",
+  "editorial": "A Night at the Opera is the 1935 Marx Brothers comedy from Metro-Goldwyn-Mayer, directed by Sam Wood. The screenplay is credited to George S. Kaufman and Morrie Ryskind, from a story by James Kevin McGuinness, with additional dialogue by Al Boasberg, uncredited, and a score by Herbert Stothart. The contract scene is among the best-known Marx Brothers sequences, so creators want it for clips and essays. It was selected for the National Film Registry in 1993.\n\nThe rights trap is the film's copyright status. The queue flagged it as likely never renewed, but I could not confirm that. The full 1962 and 1963 renewal volumes did not load completely in this session. Turner Entertainment is described as the rights owner, which points to an active claim. Treat the film as protected until you find a primary record showing the 28th-year renewal was missed. Do not reuse clips on the strength of the queue's guess.",
   "faq": [
     [
       "Is A Night at the Opera in the public domain in the US?",
-      "Not established. The film was published in 1935, so it is free only if its copyright was never renewed. I could not find or rule out a renewal record. Check the 1962 and 1963 Catalog of Copyright Entries volumes and the Stanford renewal database before reuse."
+      "Not established. The film was published in 1935, so it is free only if its copyright was never renewed. I could not find or rule out a renewal record. Check the full 1962 and 1963 Catalog of Copyright Entries volumes before reuse."
     ],
     [
       "Can I use a clip from an Internet Archive upload?",

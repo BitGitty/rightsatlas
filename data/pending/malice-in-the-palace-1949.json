@@ -64,8 +64,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Malice in the Palace” (renewals ~1976, 1977, 1978)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Malice+in+the+Palace"
+        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “Malice in the Palace” (renewals ~1976, 1977, 1978)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -93,7 +93,7 @@
   "faq": [
     [
       "Is Malice in the Palace public domain in the US?",
-      "Not confirmed. It was released in 1949, so a renewal would have been due in 1977. I could not open the renewal records. Wikipedia calls it public domain, but its stated 1964 expiry does not fit a 1949 release. Search the Stanford renewal database and the 1977 Catalog of Copyright Entries renewal volumes yourself before relying on it."
+      "Not confirmed. It was released in 1949, so a renewal would have been due in 1977. I could not open the renewal records. Wikipedia calls it public domain, but its stated 1964 expiry does not fit a 1949 release. Search the 1977 Catalog of Copyright Entries renewal volume yourself before relying on it."
     ],
     [
       "Can I use the Internet Archive copies or the colorized version?",

@@ -50,8 +50,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Flying Deuces” (renewals ~1966, 1967, 1968)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Flying+Deuces"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Flying Deuces” (renewals ~1966, 1967, 1968)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1966 (archive.org)",
@@ -78,7 +78,7 @@
   "faq": [
     [
       "Is The Flying Deuces confirmed public domain in the US?",
-      "Not by this dossier. An Internet Archive uploader claims non-renewal, but I did not confirm it in the 1966 or 1967 Catalog of Copyright Entries or the Stanford renewal database. Search those yourself first."
+      "Not by this dossier. An Internet Archive uploader claims non-renewal, but I did not confirm it in the 1966 or 1967 Catalog of Copyright Entries. Search those volumes yourself first."
     ],
     [
       "Can I use any copy I find online?",

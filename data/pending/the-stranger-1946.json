@@ -49,8 +49,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Stranger” (renewals ~1973, 1974, 1975)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Stranger"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Stranger” (renewals ~1973, 1974, 1975)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -69,11 +69,11 @@
       "quality": "unknown"
     }
   ],
-  "editorial": "The Stranger is Orson Welles's 1946 film noir. Its Internet Archive record describes an investigator from the War Crimes Commission who travels to Connecticut to find an infamous Nazi. The Nazi may be hiding in a small town as a distinguished professor engaged to a Supreme Court Justice's daughter. Free copies circulate widely online, which is why it is often called public domain.\n\nThe rights trap is that this circulation is not proof. A film from 1946 is public domain only if its notice was missing or its renewal was never filed, and its renewal window was 1973-1974. The dossier's check of those two Catalog of Copyright Entries volumes was partial, so the print layer is left undetermined until the complete volumes are searched. The score, source story and any restoration additions have not been separately cleared. Check the Stanford renewal database and the full CCE volumes yourself before relying on any copy.",
+  "editorial": "The Stranger is Orson Welles's 1946 film noir. Its Internet Archive record describes an investigator from the War Crimes Commission who travels to Connecticut to find an infamous Nazi. The Nazi may be hiding in a small town as a distinguished professor engaged to a Supreme Court Justice's daughter. Free copies circulate widely online, which is why it is often called public domain.\n\nThe rights trap is that this circulation is not proof. A film from 1946 is public domain only if its notice was missing or its renewal was never filed, and its renewal window was 1973-1974. The dossier's check of those two Catalog of Copyright Entries volumes was partial, so the print layer is left undetermined until the complete volumes are searched. The score, source story and any restoration additions have not been separately cleared. Check the full CCE volumes yourself before relying on any copy.",
   "faq": [
     [
       "Is The Stranger (1946) safe to reuse in a commercial project?",
-      "Not yet confirmed. The print's status rests on whether a renewal was filed in 1973-1974. This dossier read only the first ~10% of each of those two catalog volumes and found nothing there, which is not enough to rely on. Search the full volumes and the Stanford renewal database, and confirm the original notice, before you rely on it."
+      "Not yet confirmed. The print's status rests on whether a renewal was filed in 1973-1974. This dossier read only the first ~10% of each of those two catalog volumes and found nothing there, which is not enough to rely on. Search the full volumes, and confirm the original notice, before you rely on it."
     ],
     [
       "Does a free Internet Archive copy mean the film is public domain?",

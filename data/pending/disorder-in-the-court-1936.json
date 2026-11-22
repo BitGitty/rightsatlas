@@ -64,8 +64,8 @@
     "negative_result": "Partial only. I read about the first 100,000 characters and one later span of the OCR text of the CCE Motion Pictures Jan-Dec 1964 volume (Jan-Jun 1964). I found no 'Disorder in the court' entry in either. I did not read the whole renewal section, the Jul-Dec 1964 volume, or the 1963 and 1965 volumes. I did not search publicrecords.copyright.gov. Wikipedia states the copyright lapsed in 1964, but that is secondary. Treat the renewal result as unconfirmed.",
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Disorder in the Court” (renewals ~1963, 1964, 1965)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Disorder+in+the+Court"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Disorder in the Court” (renewals ~1963, 1964, 1965)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -93,7 +93,7 @@
   "faq": [
     [
       "Is Disorder in the Court in the public domain?",
-      "It is widely reported to be, because Columbia is said not to have renewed the 1936 copyright. I did not confirm that in a primary record. Check the Stanford renewal database and the 1964 CCE volumes yourself before relying on it. Even if the print is free, the Stooges' name and likeness and any modern transfer are separate questions."
+      "It is widely reported to be, because Columbia is said not to have renewed the 1936 copyright. I did not confirm that in a primary record. Check the 1964 CCE volumes yourself before relying on it. Even if the print is free, the Stooges' name and likeness and any modern transfer are separate questions."
     ],
     [
       "Can I use the Blu-ray rip on the Internet Archive?",

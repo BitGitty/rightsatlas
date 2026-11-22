@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No renewal record was located: the Stanford renewal database and the Copyright Office public catalog could not be read in this session, and no Catalog of Copyright Entries renewal volume for 1982-1984 was found on archive.org. Renewal absence is therefore unproven. The queue marks it renewal_absent_likely.",
+          "note": "No renewal record was located: the Copyright Office's public-records site could not be read in this session, and no Catalog of Copyright Entries renewal volume for 1982-1984 was found on archive.org (Stanford's renewal database covers books, not films, so it does not apply here). Renewal absence is therefore unproven. The queue marks it renewal_absent_likely.",
           "source": "U.S. Copyright Office public records",
           "url": "https://publicrecords.copyright.gov/"
         }
@@ -43,8 +43,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Bride of the Monster” (renewals ~1982, 1983, 1984)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Bride+of+the+Monster"
+        "label": "US Copyright Office public records (1978+) — search “Bride of the Monster” (renewals ~1982, 1983, 1984)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -67,7 +67,7 @@
   "faq": [
     [
       "Is Bride of the Monster safe to reuse?",
-      "Not yet confirmed. The print's status depends on whether a renewal was filed in 1982-1984. Run the Stanford and Copyright Office searches linked above, and treat the score, any restoration and any trademark as separate questions."
+      "Not yet confirmed. The print's status depends on whether a renewal was filed in 1982-1984. Run the US Copyright Office public-records search linked above, and treat the score, any restoration and any trademark as separate questions."
     ],
     [
       "Can I use the Internet Archive copy?",

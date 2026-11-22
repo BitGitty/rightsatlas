@@ -63,8 +63,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Black Cat” (renewals ~1961, 1962, 1963)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Black+Cat"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Black Cat” (renewals ~1961, 1962, 1963)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -87,7 +87,7 @@
   "faq": [
     [
       "Is The Black Cat (1934) free to use?",
-      "Not confirmed. The poster art lapsed, but the film is a separate work whose renewal status I could not establish. Check the Stanford renewal database and the full CCE volumes before reusing it."
+      "Not confirmed. The poster art lapsed, but the film is a separate work whose renewal status I could not establish. Check the full CCE renewal volumes before reusing it."
     ],
     [
       "Does the Poe credit make the film public domain?",

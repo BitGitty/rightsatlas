@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not confirmed. The Internet Archive scan of the CCE 3rd Series Motion Pictures Jan-Dec 1973 volume (Vol 27) exists. The first 100,000 characters of its text, which stop partway through the D section, showed no 'Detour' renewal. The rest of that volume, the 1972 and 1974 volumes, and the Stanford renewal database were not checked line by line. Non-renewal is therefore unproven here.",
+          "note": "Not confirmed. The Internet Archive scan of the CCE 3rd Series Motion Pictures Jan-Dec 1973 volume (Vol 27) exists. The first 100,000 characters of its text, which stop partway through the D section, showed no 'Detour' renewal. The rest of that volume and the 1972 and 1974 volumes were not checked line by line (Stanford's renewal database covers books, not films, so it would not help here). Non-renewal is therefore unproven here.",
           "url": "https://archive.org/details/catalogofc19733271213libr"
         }
       ]
@@ -60,8 +60,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “Detour” (renewals ~1972, 1973, 1974)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=Detour"
+        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Detour” (renewals ~1972, 1973, 1974)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
         "label": "Catalog of Copyright Entries 1973 Motion Pictures (archive.org)",

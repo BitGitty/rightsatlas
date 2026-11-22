@@ -57,8 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Stanford Copyright Renewal DB — search “The Amazing Colossal Man” (renewals ~1984, 1985, 1986)",
-        "url": "https://exhibits.stanford.edu/copyrightrenewals/catalog?q=The+Amazing+Colossal+Man"
+        "label": "US Copyright Office public records (1978+) — search “The Amazing Colossal Man” (renewals ~1984, 1985, 1986)",
+        "url": "https://publicrecords.copyright.gov/"
       },
       {
         "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
@@ -77,11 +77,11 @@
       "quality": "MPEG4 original, about 1.16 GB"
     }
   ],
-  "editorial": "The Amazing Colossal Man is a black-and-white science fiction feature from 1957, directed and co-written by Bert I. Gordon (screenplay with Mark Hanna) and released by American International Pictures. It premiered on August 28, 1957 at the Paulo Drive-in in Anaheim, California. An Army officer is exposed to plutonium radiation and grows to giant size. Glen Langan and Cathy Downs star, and Albert Glasser composed the music. Its sequel, War of the Colossal Beast (1958), reuses footage from it in a flashback. A creator might want it for its drive-in-era effects and its reputation as a cult title.\n\nThe rights trap is the print. The film is not a pre-1931 title. Whether it is free in the US depends on whether AIP or its successors renewed the copyright in 1985, and I did not locate a renewal record or a confirmed absence. Treat the print as undetermined until you run the Stanford, Catalog of Copyright Entries and Copyright Office searches linked here. An Internet Archive upload, including the one listed, is not evidence of public domain status. Wikipedia also says the film is an uncredited adaptation of a 1928 story, and that source's status has not been checked either.",
+  "editorial": "The Amazing Colossal Man is a black-and-white science fiction feature from 1957, directed and co-written by Bert I. Gordon (screenplay with Mark Hanna) and released by American International Pictures. It premiered on August 28, 1957 at the Paulo Drive-in in Anaheim, California. An Army officer is exposed to plutonium radiation and grows to giant size. Glen Langan and Cathy Downs star, and Albert Glasser composed the music. Its sequel, War of the Colossal Beast (1958), reuses footage from it in a flashback. A creator might want it for its drive-in-era effects and its reputation as a cult title.\n\nThe rights trap is the print. The film is not a pre-1931 title. Whether it is free in the US depends on whether AIP or its successors renewed the copyright in 1985, and I did not locate a renewal record or a confirmed absence. Treat the print as undetermined until you run the Copyright Office public-records search linked here. An Internet Archive upload, including the one listed, is not evidence of public domain status. Wikipedia also says the film is an uncredited adaptation of a 1928 story, and that source's status has not been checked either.",
   "faq": [
     [
       "Is The Amazing Colossal Man public domain in the US?",
-      "Not confirmed. It was released in 1957, so it needed a renewal in 1985 to stay protected. I could not verify either a renewal or its absence, so the print is marked undetermined. Run the linked Stanford, Catalog of Copyright Entries and Copyright Office searches before reusing it."
+      "Not confirmed. It was released in 1957, so it needed a renewal in 1985 to stay protected. I could not verify either a renewal or its absence, so the print is marked undetermined. Run the linked Copyright Office public-records search before reusing it."
     ],
     [
       "Does an Internet Archive copy mean I can reuse it?",
