@@ -218,7 +218,7 @@
   },
   "Motionpict19601969librrich0013": {
    "ok": true,
-   "film": "meet-john-doe-1941",
+   "film": "dementia-13-1963",
    "kind": "evidence"
   },
   "dementia-13-1963-horror-full-movie-francis-ford-coppola": {
@@ -444,12 +444,17 @@
   "MeetJohnDoeHD": {
    "ok": true,
    "film": "meet-john-doe-1941",
-   "kind": "watch"
+   "kind": "evidence"
   },
   "meet-john-doe-1941_202309": {
    "ok": true,
    "film": "meet-john-doe-1941",
    "kind": "watch"
+  },
+  "catalogofc19693231213libr": {
+   "ok": true,
+   "film": "meet-john-doe-1941",
+   "kind": "evidence"
   },
   "Metropolis1927EnglishVersion": {
    "ok": true,
