@@ -1,0 +1,103 @@
+{
+  "id": "the-animal-kingdom-1932",
+  "title": "The Animal Kingdom",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1959 (Vol 13 No 1-2). This is the volume where a renewal of a 1932 registration would appear. I have not searched it for 'Animal Kingdom' or 'Animal Kingdom, The', so I am not claiming a negative result. I have not found the film's original registration date or number.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1959 Motion Pictures",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1960 (Vol 14 No 1-2). This is the other volume where a renewal of a 1932 registration would appear. I have not searched it for 'Animal Kingdom' or 'Animal Kingdom, The', so I am not claiming a negative result.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1960 Motion Pictures",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the film's status. I did not confirm who wrote any underscore or whether any cue was separately registered or renewed.",
+          "source": "none",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Philip Barry's play The Animal Kingdom, which opened on Broadway on January 12, 1932, per the Internet Archive film description. I have not searched the play's copyright registration or renewal. If the play was renewed and the film is a derivative work, Stewart v. Abend reasoning could let the play's owner restrict reuse of the film. That is the main open rights question.",
+          "source": "Internet Archive item description, The Animal Kingdom (1932)",
+          "url": "https://archive.org/details/the-animal-kingdom-1932-colorized-movie-720p-hd"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive copy I found is titled '(restored, colorized)' and lists 720p. Colorization is added material and may carry its own claim. The 'restored' label is the uploader's own, and I did not confirm who did any restoration or whether it carries a claim. A faithful, uncolorized scan adds no new US copyright.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-animal-kingdom-1932-colorized-movie-720p-hd"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960
+    ],
+    "negative_result": "No negative result is claimed. The CCE Motion Pictures volumes for 1959 and 1960 are where a renewal of a 1932 registration would appear (renewal due in year 27 or 28). I have not searched either volume. The original registration date is unconfirmed; a 1961 volume would matter only if the registration turned out to be dated 1933 or later. The Copyright Office online catalog (1978 and later) is only a secondary check.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1959 (archive.org) — search “Animal Kingdom” and “Animal Kingdom, The”",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1960 (archive.org) — search “Animal Kingdom” and “Animal Kingdom, The”",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978 and later) — secondary check only",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-animal-kingdom-1932-colorized-movie-720p-hd",
+      "label": "The Animal Kingdom (1932), colorized 720p copy on the Internet Archive. Colorization may be separately claimed.",
+      "quality": "720p colorized"
+    }
+  ],
+  "editorial": "The Animal Kingdom is a 1932 film adapted from Philip Barry's play of the same name, which opened on Broadway on January 12, 1932. Its US copyright status is undetermined.\n\nIf the film was registered in 1932, a renewal would have been due in 1959 or 1960 and would appear in the Catalog of Copyright Entries motion-picture volumes for those years. I have not searched either volume, so I cannot say whether a renewal exists. I have also not found the film's original registration date. The Copyright Office online catalog (1978 and later) is only a secondary check.\n\nThe open risk is the source play. It is a separate copyright, and I have not searched its registration or renewal. If the play was renewed and the film is a derivative work, Stewart v. Abend reasoning could let the play's owner restrict reuse, so clear that before commercial reuse. The easy-to-find Internet Archive copy is colorized. Colorization is added material, so use an uncolorized print if you want only the free layer.",
+  "faq": [
+    [
+      "Was the copyright on the 1932 film The Animal Kingdom renewed?",
+      "I don't know. A renewal of a 1932 registration would be in the 1959 or 1960 Catalog of Copyright Entries motion-picture volumes. I have not searched them. I also did not find the original registration date."
+    ],
+    [
+      "Can I use the colorized Internet Archive copy in my project?",
+      "Use caution. Colorization is added material and can carry its own claim, even if the underlying black-and-white film is free. Use a plain scan of the original print. Also check the registration and renewal of Philip Barry's 1932 source play, which I have not searched."
+    ]
+  ]
+}

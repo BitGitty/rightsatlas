@@ -1,0 +1,74 @@
+{
+  "id": "the-naked-city-1948",
+  "title": "The Naked City",
+  "year": 1948,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1975 (Vol 29, Nos 1-2) lists renewal R601536 for The Naked City, renewing original registration L1575 of 24 March 1948. The renewal is dated 31 March 1975 and the claimants are Bank of America National Trust and Savings Association, Martin Gang and Gladys Glad Hellinger Gottlieb, trustees under the will of Mark J. Hellinger, and Gladys Glad Hellinger. The renewal fell inside the 28th-year window, so the US copyright was renewed.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures, 1975 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is part of the sound film's recorded track and shares the film's status. The film's renewal (R601536) was registered in 1975. I did not separately research the status of the music underlying the score.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1975",
+          "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1975,
+      1976,
+      1977
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1975 (archive.org) — renewal R601536 for The Naked City",
+        "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Naked City is Jules Dassin's 1948 crime picture, a New York police procedural shot on location. The copyright registration (L1575, 24 March 1948) names Universal Pictures. One reason a creator would want it is that it is not a studio-lot film: the Williamsburg Bridge chase and the street footage are part of why it was selected for the National Film Registry in 2007.\n\nThe rights trap is that the US copyright was renewed. Renewal R601536 was registered on 31 March 1975 by the trustees of the Mark J. Hellinger estate and Gladys Glad Hellinger, who held the renewal term. The Catalog of Copyright Entries for 1975 records this. A copy posted on the Internet Archive does not change that status. Treat the film, with its recorded score, as protected in the US until the term runs out. Anyone who wants to reuse clips should get a licence from the current rights holder, or wait for the term to expire.",
+  "faq": [
+    [
+      "Is The Naked City (1948) in the public domain in the US?",
+      "No. The 1948 registration (L1575) was renewed on 31 March 1975 as R601536, according to the 1975 Catalog of Copyright Entries. A renewed film keeps its US protection, so the print is not public domain."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy?",
+      "Not safely. Being hosted online does not change the copyright status. The renewal means the film and its recorded track are still protected, so clips need permission from the rights holder."
+    ]
+  ]
+}
