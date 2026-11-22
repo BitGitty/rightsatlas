@@ -1,6 +1,11 @@
 {
  "checked": "2026-11-22",
  "items": {
+  "catalogofcopyrig391213lib": {
+   "ok": true,
+   "film": "4-devils-1928",
+   "kind": "evidence"
+  },
   "7th-heaven-1927_202506": {
    "ok": true,
    "film": "7th-heaven-1927",
@@ -136,6 +141,11 @@
    "film": "beyond-the-rocks-1922",
    "kind": "watch"
   },
+  "Motionpict19401949librrich0010": {
+   "ok": true,
+   "film": "nanook-of-the-north-1922",
+   "kind": "evidence"
+  },
   "Beyond-Tomorrow-1940-CHRISTMAS": {
    "ok": true,
    "film": "beyond-tomorrow-1940",
@@ -185,6 +195,16 @@
    "ok": true,
    "film": "carnival-of-souls-1962",
    "kind": "watch"
+  },
+  "catalogofcopyr3161213libr": {
+   "ok": true,
+   "film": "of-human-bondage-1934",
+   "kind": "evidence"
+  },
+  "catalogofcopyr3171213libr": {
+   "ok": true,
+   "film": "the-terror-1963",
+   "kind": "evidence"
   },
   "turner_video_341": {
    "ok": true,
@@ -426,6 +446,16 @@
    "film": "manos-the-hands-of-fate-1966",
    "kind": "watch"
   },
+  "catalogofc19663201213libr": {
+   "ok": true,
+   "film": "manos-the-hands-of-fate-1966",
+   "kind": "evidence"
+  },
+  "catalogofcop196632034libr": {
+   "ok": true,
+   "film": "manos-the-hands-of-fate-1966",
+   "kind": "evidence"
+  },
   "mclintock-producers-cut-1963-4k": {
    "ok": true,
    "film": "mclintock-1963",
@@ -481,7 +511,7 @@
    "film": "of-human-bondage-1934",
    "kind": "evidence"
   },
-  "catalogofcopyr3161213libr": {
+  "catalogofcopyr3151213libr": {
    "ok": true,
    "film": "of-human-bondage-1934",
    "kind": "evidence"
@@ -581,6 +611,11 @@
    "film": "steamboat-willie-1928",
    "kind": "watch"
   },
+  "catalogofcopyrig3101213li": {
+   "ok": true,
+   "film": "the-man-who-laughs-1928",
+   "kind": "evidence"
+  },
   "street-angel_1928": {
    "ok": true,
    "film": "street-angel-1928",
@@ -616,6 +651,11 @@
    "film": "the-big-parade-1925",
    "kind": "watch"
   },
+  "catalogofcopyrig361213lib": {
+   "ok": true,
+   "film": "the-pilgrims-1924",
+   "kind": "evidence"
+  },
   "the-big-trail_1930": {
    "ok": true,
    "film": "the-big-trail-1930",
@@ -640,11 +680,6 @@
    "ok": true,
    "film": "the-cocoanuts-1929",
    "kind": "watch"
-  },
-  "catalogofcopyrig3101213li": {
-   "ok": true,
-   "film": "the-man-who-laughs-1928",
-   "kind": "evidence"
   },
   "the-covered-wagon-1923-by-james-cruze": {
    "ok": true,
@@ -821,6 +856,11 @@
    "film": "the-monster-1925",
    "kind": "watch"
   },
+  "catalogofcopyrig371213lib": {
+   "ok": true,
+   "film": "the-monster-1925",
+   "kind": "evidence"
+  },
   "the-navigator-1924": {
    "ok": true,
    "film": "the-navigator-1924",
@@ -893,12 +933,7 @@
   },
   "catalogofcopyri351213libr": {
    "ok": true,
-   "film": "the-pilgrims-1924",
-   "kind": "evidence"
-  },
-  "catalogofcopyrig361213lib": {
-   "ok": true,
-   "film": "the-pilgrims-1924",
+   "film": "the-ten-commandments-1923",
    "kind": "evidence"
   },
   "TheShadowReturns-1946": {
@@ -917,11 +952,6 @@
    "kind": "evidence"
   },
   "TheTerror": {
-   "ok": true,
-   "film": "the-terror-1963",
-   "kind": "evidence"
-  },
-  "catalogofcopyr3171213libr": {
    "ok": true,
    "film": "the-terror-1963",
    "kind": "evidence"
