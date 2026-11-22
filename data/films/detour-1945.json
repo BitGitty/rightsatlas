@@ -3,7 +3,7 @@
   "title": "Detour",
   "year": 1945,
   "country": "US",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,8 +11,18 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Not confirmed. The Internet Archive scan of the CCE 3rd Series Motion Pictures Jan-Dec 1973 volume (Vol 27) exists. The first 100,000 characters of its text, which stop partway through the D section, showed no 'Detour' renewal. The rest of that volume and the 1972 and 1974 volumes were not checked line by line (Stanford's renewal database covers books, not films, so it would not help here). Non-renewal is therefore unproven here.",
+          "note": "Searched the Catalog of Copyright Entries motion-picture volumes for 1972 (catalogofc19723261213libr), 1973 (catalogofc19733271213libr) and 1974 (catalogofcopyrig3281213li) and found no Detour renewal. The check was a read-through of the volume text by a summarizing tool, not a literal string search, so it is not conclusive. One apparent 1974 hit, R587019, turned out to be 'Dark passage'. The original 1945 registration entry was not located. Non-renewal is therefore not proven here.",
           "url": "https://archive.org/details/catalogofc19733271213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion renewal volume for 1974, read the same way, with no Detour entry found.",
+          "url": "https://archive.org/details/catalogofcopyrig3281213li"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion renewal volume for 1972, read the same way, with no Detour entry found.",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
         }
       ]
     },
@@ -21,8 +31,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia credits Leo Erdody with the original score. No separate registration or renewal for the score was checked.",
-          "url": "https://archive.org/details/detour1945HD"
+          "note": "Wikipedia credits Leo Erdody with the original score. Detour is a sound film, so the recorded track would normally share the print's status. No separate music registration or renewal was checked.",
+          "url": "https://en.wikipedia.org/wiki/Detour_(1945_film)"
         }
       ]
     },
@@ -31,7 +41,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film adapts Martin M. Goldsmith's 1939 novel 'Detour: An Extraordinary Tale', published by Macaulay. The novel's 28th-year renewal was not checked, so the source's status is unknown. Because the novel came out in 1939, its renewal window falls well before the film's.",
+          "note": "The screenplay adapts Martin M. Goldsmith's 1939 novel of the same title. Whether the novel's copyright was renewed could not be confirmed, so the source's status is unknown.",
           "url": "https://mysteryfile.com/Goldsmith/Detour.html"
         }
       ]
@@ -45,8 +55,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports an Academy Film Archive 4K restoration that premiered at the TCM Festival in April 2018. What it added, such as new titles or new audio work, was not confirmed. A faithful restoration adds no new US copyright, but any added material could be protected.",
-          "url": "https://archive.org/details/detour1945HD"
+          "note": "The Film Foundation describes a restoration by the Academy Film Archive and The Film Foundation, using a MoMA 35mm duplicate negative, a Brussels nitrate print and a Cinémathèque Française print. Roundabout Entertainment removed the French and Flemish subtitles from the Brussels print and filled missing frames. This looks like a faithful restoration with no added score or titles, so it should add no new US copyright. That is not confirmed for every release of it.",
+          "url": "https://www.film-foundation.org/detour-current"
         }
       ]
     }
@@ -60,12 +70,16 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Detour” (renewals ~1972, 1973, 1974)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "Catalog of Copyright Entries 1972 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
       },
       {
         "label": "Catalog of Copyright Entries 1973 Motion Pictures (archive.org)",
         "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1974 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
       },
       {
         "label": "US Copyright Office public records",
@@ -73,16 +87,27 @@
       }
     ]
   },
-  "watch": [],
-  "editorial": "Detour is a 1945 film noir directed by Edgar G. Ulmer for the Poverty Row studio Producers Releasing Corporation. It stars Tom Neal and Ann Savage. It premiered in Boston on November 15, 1945, and was chosen for the National Film Registry in 1992. It is adapted from Martin M. Goldsmith's 1939 novel. Reusers like it for its cheap, tight noir look, and it is widely circulated online. The Internet Archive's HD copy carries a Public Domain Mark.\n\nThe rights trap is that the film's status is a claim, not a record. The usual explanation is that the 1945 copyright was never renewed. This dossier did not confirm that from the renewal volumes. The score and the 1939 novel it is based on are separate works with their own renewal history. The Academy Film Archive's 2018 4K restoration may add protected material that a plain copy of the film would not have. Use a source copy rather than a restored release unless you have checked what was added.",
+  "watch": [
+    {
+      "url": "https://archive.org/details/detour1945HD",
+      "label": "Detour (1945) [HD], Internet Archive",
+      "quality": "HD, tagged with a Public Domain Mark"
+    },
+    {
+      "url": "https://archive.org/details/Detour",
+      "label": "Detour, Internet Archive",
+      "quality": "standard, tagged public domain by the uploader"
+    }
+  ],
+  "editorial": "Detour is a 1945 film noir directed by Edgar G. Ulmer for the Poverty Row studio Producers Releasing Corporation, with a score by Leo Erdody. It had a Boston premiere on November 15, 1945, and was selected for the National Film Registry in 1992. The film adapts Martin M. Goldsmith's 1939 novel. Reusers like it for its cheap, tight noir look, and several copies circulate on the Internet Archive.\n\nThe rights trap is that the film's public-domain status is widely repeated but not confirmed here. A read-through of the 1972, 1973 and 1974 renewal volumes found no Detour entry, but the method was not a literal search and the 1945 registration was not located. The 1939 novel is a separate work with its own renewal history, which was not checked. The Academy Film Archive and Film Foundation restoration removed subtitles from a Belgian print and filled missing frames. That appears faithful, but check what any specific restored release adds before reusing it.",
   "faq": [
     [
       "Can I upload the Internet Archive copy of Detour to my own channel?",
-      "The Internet Archive labels that copy with a Public Domain Mark, but this review did not independently confirm that no renewal exists. Check the Copyright Office and renewal records for yourself first. Do not assume the 2018 Academy restoration is free to reuse."
+      "The Internet Archive tags its copies as public domain, but this review did not prove that no renewal exists. A read-through of the 1972 to 1974 renewal volumes found nothing, which is suggestive, not conclusive. Run your own search of the Copyright Office and renewal records first. Do not assume a restored release is free to reuse."
     ],
     [
       "Does the 1939 novel affect my use of the film?",
-      "It can. The film adapts the novel, and the novel is a separate work with its own renewal history. This review did not check whether that renewal was filed."
+      "It can. The film adapts Goldsmith's novel, which is a separate work with its own renewal history. This review could not confirm whether the novel's renewal was filed."
     ]
   ]
 }
