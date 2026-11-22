@@ -305,13 +305,34 @@ answers are wrong so often.</p>
 {embed}
 </article>
 <script type="application/ld+json">{json.dumps(ld)}</script>"""
-    desc = (f'{f["title"]} ({f["year"]}) US copyright status, layer by layer, '
-            f'with primary-source evidence and free legal watch links.')
-    title = f'Is {f["title"]} ({f["year"]}) public domain? — RightsAtlas'
+    # 11-22 (Search Console: King Kong shown 1,831x, 1 click): people search "is X public domain / when". The Google
+    # line must ANSWER: yes / not yet + the date / partly / not confirmed. Brand suffix dropped (titles were cut off).
+    ft, fy, ps = f["title"], f["year"], f["layers"]["print"]["status"]
+    free_on = fy + 96 if 1923 <= fy <= 1977 else None      # 95-year term for 1923-1977 works
+    if ps in ("verified_pd", "likely_pd"):
+        title = f'Is {ft} ({fy}) public domain? Yes, the film is free in the US'
+        desc = (f'Yes: {ft} ({fy}) is public domain in the US. The music, story and restorations can still be '
+                f'protected; we checked each part, with sources.')
+    elif ps == "not_pd" and free_on and free_on > YEAR:
+        title = f'Is {ft} ({fy}) public domain? Not yet: free on 1 January {free_on}'
+        desc = (f'Not yet. {ft} ({fy}) enters the US public domain on 1 January {free_on}. What is protected now '
+                f'(film, music, story, trademark) and what you can already use, with sources.')
+    elif ps in ("not_pd", "likely_restored"):
+        title = f'Is {ft} ({fy}) public domain? No, still protected in the US'
+        desc = (f'No: {ft} ({fy}) is still under US copyright. Why, until when, and which parts you can use, '
+                f'with sources.')
+    elif ps == "partially_protected":
+        title = f'Is {ft} ({fy}) public domain? Partly: here is what is free'
+        desc = (f'Partly. Some parts of {ft} ({fy}) are free in the US and some are not. Each part checked: film, '
+                f'music, story, trademark, with sources.')
+    else:
+        title = f'Is {ft} ({fy}) public domain? Not confirmed yet: what we found'
+        desc = (f'Not confirmed yet. What we found about {ft} ({fy}) so far, the records still to check, and '
+                f'what that means if you want to use it.')
     if arch:
-        title = f'Is {f["title"]} ({f["year"]}) public domain? Yes: watch it free — RightsAtlas'
-        desc = (f'Watch {f["title"]} ({f["year"]}) free and legally. Its US film print is verified public '
-                f'domain; here is the evidence, plus the music and story layers to check before reuse.')
+        title = f'Is {ft} ({fy}) public domain? Yes: watch it free'
+        desc = (f'Yes: watch {ft} ({fy}) free and legally. Its US film print is verified public domain; here is '
+                f'the evidence, plus the music and story layers to check before reuse.')
     # 2026-11-20: share previews + film<->blog internal links (Google ranks pages that link each other)
     img = f'{HOST}{BASE}blog/img/{post["hero"]}' if post else ""
     head = f'<meta property="og:image" content="{img}">\n<meta name="twitter:image" content="{img}">' if img else ""
@@ -1218,8 +1239,13 @@ def build():
             d = OUT / extra
             d.mkdir(parents=True)
             title, _, rest = src.read_text(encoding="utf-8").partition("\n")
+            # 11-22: optional 2nd line "DESC: ..." = the Google description (it used to repeat the title)
+            desc = title.strip()
+            if rest.startswith("DESC:"):
+                first, _, rest = rest.partition("\n")
+                desc = first[5:].strip()
             (d / "index.html").write_text(
-                page(title.strip(), title.strip(), rest, nav=nav_key, path=f"{extra}/"), encoding="utf-8")
+                page(title.strip(), desc, rest, nav=nav_key, path=f"{extra}/"), encoding="utf-8")
 
     songs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(SONGS.glob("*.json"))] if SONGS.exists() else []
     if songs:

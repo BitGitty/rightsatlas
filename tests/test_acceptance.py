@@ -41,18 +41,28 @@ def t02_likely_pd_is_warn_not_build_fail():
     assert engine.validate(f) == [], "likely_pd must NOT be a validate/build error in phase 1"
 
 
+def _film_with_open_layer(ex):
+    """11-22: the fixture used to be his-girl-friday-1940, until research settled its music and the test (and every
+    deploy) broke. Pick any live film whose print export is allowed but another layer is still undetermined."""
+    for p in sorted((ROOT / "data" / "films").glob("*.json")):
+        d = json.loads(p.read_text(encoding="utf-8"))
+        if d["layers"]["print"]["status"] in ("verified_pd", "likely_pd") and \
+                any(L.get("status") == "undetermined" for k, L in d["layers"].items() if k != "print"):
+            return ex.load(d["id"])
+    raise AssertionError("no film with an undetermined non-print layer left to test with")
+
+
 def t05a_print_export_ok_with_undetermined_score():
     sys.path.insert(0, str(ROOT / "scripts"))
     import export_evidence as ex
-    f = ex.load("his-girl-friday-1940")
-    assert f["layers"]["score"]["status"] == "undetermined"
+    f = _film_with_open_layer(ex)
     p = ex.packet(f, "print")
     assert "Tier A" in p and "NOT legal advice" in p
 
 
 def t05b_full_export_refused_when_undetermined():
     import export_evidence as ex
-    f = ex.load("his-girl-friday-1940")
+    f = _film_with_open_layer(ex)
     try:
         ex.packet(f, "full")
         raise AssertionError("tier B must be refused when a layer is undetermined")
