@@ -68,9 +68,19 @@ a{color:var(--acc)}
         '<div class="card"><h2>Plays (films and songs)</h2>'+table(x.plays,[{h:"Type",k:"kind"},{h:"Times",k:"n",n:1},{h:"Page",k:"path",link:1}])+'</div>'+
         '<div class="card"><h2>Device</h2>'+table(x.devices,[{h:"Device",k:"device"},{h:"Views",k:"n",n:1}])+'</div>'+
         '<div class="card"><h2>Region (browser time zone)</h2>'+table(x.regions,[{h:"Time zone",k:"tz"},{h:"Views",k:"n",n:1}])+'</div>'+
-        '</div><div id="gsc"></div><p class="note" style="margin-top:14px">Live data, last '+x.days+' day(s). No cookies, no names, no IP addresses are stored.</p>';
-      loadGsc(d);
+        '</div><div id="posts"></div><div id="gsc"></div><p class="note" style="margin-top:14px">Live data, last '+x.days+' day(s). No cookies, no names, no IP addresses are stored.</p>';
+      loadGsc(d); loadPosts(d);
     }).catch(function(){ out.innerHTML='<p class="err">Could not load the numbers. Try again.</p>'; });
+  }
+  // blog posts: how people read them (views, real readers, seconds, how far down, % who reached the end)
+  function loadPosts(d){
+    fetch(U.replace("studio_data","studio_posts"),{method:"POST",headers:{"apikey":K,"Authorization":"Bearer "+K,"Content-Type":"application/json"},body:JSON.stringify({p_site:"rightsatlas",p_key:key,p_days:d})})
+    .then(function(r){return r.json();}).then(function(rows){
+      var el=document.getElementById("posts"); if(!el||!rows) return;
+      el.innerHTML='<div class="card" style="margin-top:14px"><h2>Blog posts: how people read them</h2>'+
+        table(rows,[{h:"Post",k:"path",link:1},{h:"Views",k:"views",n:1},{h:"Readers",k:"readers",n:1},{h:"Avg s",k:"avg_secs",n:1},{h:"Read %",k:"avg_depth",n:1},{h:"Reached end %",k:"pct_end",n:1}])+
+        '<p class="note">Read % = how far down the page people scroll on average. Reached end = scrolled 75% or more. Low numbers = the start does not hold them; rework the opening.</p></div>';
+    }).catch(function(){});
   }
   // Google Search Console (pulled daily by gsc_pull.py; Google's data is 2-3 days behind)
   function loadGsc(d){

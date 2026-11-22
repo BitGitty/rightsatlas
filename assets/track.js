@@ -32,9 +32,16 @@
       .then(function (r) { return r.json(); })
       .then(function (id) {
         if (!id || !v) return;
-        var shown = 0, since = document.visibilityState === "visible" ? Date.now() : 0, engaged = false;
+        var shown = 0, since = document.visibilityState === "visible" ? Date.now() : 0, engaged = false, depth = 0;
         function secs() { return Math.round((shown + (since ? Date.now() - since : 0)) / 1000); }
-        function send() { rpc("track_time", { p_id: id, p_visit: v, p_secs: secs(), p_engaged: engaged }).catch(function () {}); }
+        // how far down the page they read (max % scrolled), 11-22 owner: "how people read our blog posts"
+        function measure() {
+          var h = document.documentElement.scrollHeight - innerHeight;
+          var pct = h > 0 ? Math.round(100 * scrollY / h) : 100;
+          if (pct > depth) depth = Math.min(pct, 100);
+        }
+        addEventListener("scroll", measure, { passive: true }); measure();
+        function send() { rpc("track_time", { p_id: id, p_visit: v, p_secs: secs(), p_engaged: engaged, p_depth: depth }).catch(function () {}); }
         document.addEventListener("visibilitychange", function () {
           if (document.visibilityState === "hidden") { if (since) { shown += Date.now() - since; since = 0; } send(); }
           else { since = Date.now(); }
