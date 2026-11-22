@@ -126,6 +126,28 @@ def new_suggestions():
             + (" · wants a reply" if e.strip() == "t" else "") for k, f, y, p, m, e in rows]
 
 
+def research_quality():
+    """11-22 owner: "more research, without dropping the quality bar - check our research quality".
+    7-day research outcome + the accuracy % from the newest quality audit (progress-ledger/audits/*quality*)."""
+    import glob, re
+    try:
+        since = (date.today() - timedelta(days=7)).isoformat()
+        rows = [json.loads(l) for l in (ROOT / "data" / "research_runs.jsonl").read_text(encoding="utf-8").splitlines()
+                if l.strip()]
+        rows = [r for r in rows if r.get("date", "") >= since]
+        c = {k: sum(1 for r in rows if r["result"] == k) for k in ("queued", "refreshed", "blocked", "deferred")}
+        line = (f"Research 7 days: {c['queued']} new · {c['refreshed']} improved · {c['blocked']} rejected by checks · "
+                f"{c['deferred']} machine waits")
+        audits = sorted(glob.glob(r"D:\progress-ledger\audits\*quality*\QUALITY_AUDIT.md"))
+        if audits:
+            m = re.search(r"accuracy[^0-9]{0,40}(\d{1,3}(?:\.\d)?)\s*%", Path(audits[-1]).read_text(encoding="utf-8"), re.I)
+            if m:
+                line += f" · last quality audit: {m.group(1)}% correct ({Path(audits[-1]).parent.name})"
+        return line
+    except Exception:
+        return None
+
+
 def traffic():
     """2026-11-15 owner: 'how can I see / monitor Atlas traffic?' -> one line in the daily Telegram.
     Views in the last 7 days vs the 7 before, and how many came from search engines. None = could not read."""
@@ -240,6 +262,9 @@ def evaluate(f: dict):
     if f["live_status"] != 200:
         fails.append(f"newest film page not live ({f['live_status']})")
     lines.append(f"Live films: {f['films']} · waiting to publish: {f['pending']}")
+    q = research_quality()
+    if q:
+        lines.append(q)
     if f["refreshed_1d"]:
         lines.append(f"Thin pages upgraded: {', '.join(f['refreshed_1d'])}")
     if f["in_season"]:
