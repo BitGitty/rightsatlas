@@ -3,7 +3,7 @@
   "title": "The Sheik",
   "year": 1921,
   "country": "US",
-  "last_verified": "2026-07-16",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,17 +11,27 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1921; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1997."
+          "note": "Published 1921; works published before 1923 carried a flat maximum US copyright term of 75 years, so this film entered the public domain in the US no later than 1 January 1997. Release facts (Famous Players-Lasky, distributed by Paramount, Los Angeles premiere 30 October 1921, nationwide release 20 November 1921) are as stated on Wikipedia's 'The Sheik (film)' page (https://en.wikipedia.org/wiki/The_Sheik_(film)). That page is a secondary source; check the AFI Catalog or Library of Congress record to confirm independently."
         }
       ]
     },
     "score": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is silent, so the images carry no recorded soundtrack. Any music on a modern copy is a separate work: a newly composed or compiled score, and its recording, can be protected independently of the film. Check who composed and recorded the music on the specific copy you use."
+        }
+      ]
     },
     "story": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Edith Maude Hull's novel The Sheik. Wikipedia's 'The Sheik (novel)' page (https://en.wikipedia.org/wiki/The_Sheik_(novel)) gives the first publication as 1919 in the United Kingdom, and Project Gutenberg also hosts the text (https://www.gutenberg.org/ebooks/7031). A work published in 1919 had a US term of at most 75 years, which ran out by the end of 1994. The work was therefore already in the US public domain before 1 January 1996, so URAA restoration cannot apply to it."
+        }
+      ]
     },
     "trademark": {
       "status": "undetermined",
@@ -33,33 +43,20 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1948,
-      1949,
-      1950
-    ],
-    "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Sheik” (renewals ~1948, 1949, 1950)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "renewal_years": [],
+    "negative_result": "Renewal does not apply: works published before 1923 had a flat 75-year US term and needed no renewal, so no renewal search is needed.",
+    "diy_links": []
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/TheSheik",
-      "label": "Internet Archive — The Sheik (1921), full film"
-    }
-  ],
-  "editorial": "The Sheik is a 1921 American silent romantic drama directed by George Melford and produced by Famous Players-Lasky (Paramount), starring Rudolph Valentino and Agnes Ayres. Adapted from Edith Maude Hull's bestselling novel, its runaway success made Valentino an international star and a defining screen idol of the 1920s. Published in 1921, the film print's 75-year US copyright term has expired, placing the photoplay in the public domain by term expiry.",
-  "faq": []
+  "watch": [],
+  "editorial": "The Sheik is a 1921 silent romantic drama directed by George Melford for Famous Players-Lasky and distributed by Paramount, with Rudolph Valentino and Agnes Ayres. It adapts E. M. Hull's 1919 novel of the same name. It premiered in Los Angeles on 30 October 1921 and opened nationwide on 20 November 1921. For a creator, it is a core Valentino title and a ready source of footage, stills and intertitles.\n\nThe print is free by term expiry, because it was published in 1921. The novel it adapts was first published in 1919, so the story is free as well. The trap is the audio. A silent film has no original recorded track, and any score you hear on a modern copy is a separate work with its own rights. The same goes for new titles or other material added by a later release. Clear the music and any added material on the specific copy you use, or take the images from a source that adds none.",
+  "faq": [
+    [
+      "Can I use footage from The Sheik in my own video?",
+      "The 1921 film itself is in the US public domain by term expiry, so the images and original intertitles are free to use. Check the specific copy you take them from. A modern release may carry a newly composed score or added titles that belong to someone else."
+    ],
+    [
+      "Does the novel's copyright affect the film?",
+      "No. The film adapts E. M. Hull's novel, which was first published in 1919. That term has also expired in the US, so the story layer is free too."
+    ]
+  ]
 }
