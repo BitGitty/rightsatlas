@@ -3,7 +3,7 @@
   "title": "Manos: The Hands of Fate",
   "year": 1966,
   "country": "US",
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia says the film is in the public domain because Harold Warren failed to include a copyright notice. I could not reach a primary record (Copyright Office, CCE or a notice-failure document) in this session, so the layer stays undetermined until one is found.",
+          "note": "Wikipedia says the film was thought to be in the public domain, but the discovery of a copyrighted screenplay left its legal status uncertain. The print's status turns on whether the 1966 release carried a valid copyright notice. Under the pre-1978 rules, a release without a notice would generally be in the public domain, and a release with one would be protected for 95 years from publication. I found no primary source on the notice question: no film frame, Copyright Office record, Catalog of Copyright Entries (CCE) entry, or court or archive document. The notice question is unresolved, so the layer stays undetermined. The screenplay is a separate question from the film's notice.",
           "source": "Wikipedia article on the film (not primary)",
           "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
         }
@@ -22,7 +22,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia says the soundtrack was composed by Russ Huddleston and Robert Smith Jr. I found no separate copyright registration for the music. Its status presumably follows the print, but I did not confirm that.",
+          "note": "Wikipedia credits the music to Russ Huddleston and Robert Smith Jr. I did not search for a separate copyright registration for the music: not searched in the Copyright Office public records (1978 onward) or in the 1966 Catalog of Copyright Entries. Its status may follow the print, but that is unconfirmed.",
           "source": "Wikipedia article on the film (not primary)",
           "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
         }
@@ -33,7 +33,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Original screenplay by Harold P. Warren. Wikipedia says Warren discovered the script had been copyrighted and registered in the Library of Congress, and he believes that copyright also applies to the film. I did not confirm that registration, or whether it was renewed. This is a possible rights trap.",
+          "note": "Wikipedia says a copyrighted screenplay was discovered, which left the film's legal status uncertain. Renewal is automatic for 1966 works, so renewal is not the question. Unconfirmed: whether the screenplay was registered or published with a copyright notice, and who owns it. This is a possible rights trap.",
           "source": "Wikipedia article on the film (not primary)",
           "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
         }
@@ -41,14 +41,21 @@
     },
     "trademark": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says a related trademark attempt by the director's son was abandoned in 2018. I did not check USPTO records, so I cannot say whether any mark is active today.",
+          "source": "Wikipedia article on the film (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+        }
+      ]
     },
     "restorations": {
       "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia says Ben Solovey discovered the original 16mm workprint in 2011, and his Kickstarter campaign raised $48,000. Synapse Films released the restoration on Blu-ray on October 13, 2015, with an unrestored 'Grindhouse' version as a bonus feature. I did not confirm what that release adds beyond the film (new titles, score, or other material). A faithful restoration adds no new copyright, but any added material could be protected.",
+          "note": "Wikipedia says the original 16 mm workprint was discovered in 2011, and that a restored version was released on Blu-ray by Synapse Films on October 13, 2015. I did not confirm what the release adds beyond the film. A faithful restoration adds no new copyright, but any added material could be protected.",
           "source": "Wikipedia article on the film (not primary)",
           "url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
         }
@@ -56,39 +63,22 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1993,
-      1994,
-      1995
-    ],
-    "negative_result": null,
-    "diy_links": [
-      {
-        "label": "US Copyright Office public records (1978+) — search “Manos: The Hands of Fate” (renewals ~1993, 1994, 1995)",
-        "url": "https://publicrecords.copyright.gov/"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "renewal_years": [],
+    "negative_result": "No renewal search applies. Renewal is automatic for works published 1964-1977, so there is no renewal record to find. A 1966 work is protected for 95 years from publication only if the release carried a valid copyright notice. The open questions are whether the 1966 release had a notice and whether the screenplay was registered.",
+    "diy_links": []
   },
   "watch": [
     {
       "url": "https://archive.org/details/ManosTheHandsofFate_201508",
       "label": "Manos: The Hands of Fate (1966), Internet Archive",
-      "quality": "unverified print; page confirms title and year 1966"
+      "quality": "unverified print; metadata confirms title and year 1966, source of the transfer not stated"
     }
   ],
-  "editorial": "Manos: The Hands of Fate is a Texas horror film written, directed and produced by Harold P. Warren, a fertilizer salesman from El Paso. It premiered on November 15, 1966, at the Capri Theater in El Paso as a benefit for the local cerebral palsy fund. It became a cult title after a Mystery Science Theater 3000 episode aired on January 30, 1993. A creator would want it for that fame: Torgo's theme, the Master, and the film's reputation as one of the worst ever made.\n\nThe print is widely described as public domain because Warren left off a copyright notice. I could not confirm that with a primary record, so this dossier does not call it verified. The separate traps are the screenplay, which Wikipedia says was copyrighted and registered on its own, and the 2015 Synapse Blu-ray. That release came from Ben Solovey's restoration of the 16mm workprint, and its added material is unconfirmed. Use a plain archive.org copy rather than a disc rip, and check the script and score before commercial use.",
+  "editorial": "Manos: The Hands of Fate is a 1966 Texas horror film directed by Harold P. Warren. It premiered on November 15, 1966, at the Capri Theater in El Paso as a benefit for the local cerebral palsy fund. It reached a wide audience when Mystery Science Theater 3000 featured it in its fourth-season finale on January 30, 1993. A creator would want it for that cult fame.\n\nThe print is often called public domain, but I could not confirm that against a primary record, so no layer here is marked verified. The deciding fact is whether the 1966 release carried a copyright notice, and that is unresolved. Renewal is automatic for 1964-1977 works, so it is not the issue. The screenplay is a separate question: Wikipedia says a copyrighted screenplay was discovered, which left the film's legal status uncertain. I did not confirm whether it was registered or who owns it. Wikipedia also says a related trademark attempt by Warren's son was abandoned in 2018. The 2015 Synapse Blu-ray was made from a 16 mm workprint found in 2011, and I did not confirm what it adds. Use a plain archive.org copy rather than a disc rip, and check the notice, script and score before any commercial use.",
   "faq": [
     [
       "Can I reuse footage from Manos: The Hands of Fate?",
-      "The film is commonly said to be in the public domain because it was released without a copyright notice. I could not confirm that against a primary record, so check the Copyright Office and renewal records before relying on it. Use an archive.org copy, not a Blu-ray rip."
+      "It is often described as public domain, but a copyrighted screenplay was discovered and that left its legal status uncertain. Whether the 1966 release carried a copyright notice is unresolved, and I could not confirm it against a primary record. Renewal is automatic for 1966 works, so there is no renewal to search for. Check the Copyright Office records for the screenplay before relying on it, and use an archive.org copy rather than a Blu-ray rip."
     ],
     [
       "Is the Synapse restoration free to use?",

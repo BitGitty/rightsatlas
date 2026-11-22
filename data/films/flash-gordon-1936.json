@@ -3,17 +3,17 @@
   "title": "Flash Gordon",
   "year": 1936,
   "country": "US",
-  "last_verified": "2026-10-25",
+  "last_verified": "2026-11-22",
   "byline": null,
   "layers": {
     "print": {
       "status": "undetermined",
       "evidence": [
         {
-          "type": "research_note",
-          "note": "1936 Universal serial released April 6, 1936. No copyright renewal record or notice-failure document was located in this session, so the print's status is not confirmed either way.",
-          "source": "Wikipedia summary of the serial",
-          "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(serial)"
+          "type": "cce_renewal_entry",
+          "note": "UNVERIFIED. The archive.org item page for the Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1964 (Volume 18, Nos. 1-2) was fetched. Only the item's metadata and download links were read. No page or section of the volume text was read, and no 'FLASH GORDON' entry was seen. An earlier draft reported an index line 'FLASH GORDON. (R)' and named a filer, and it also quoted a chapter title, dates and an R-number. None of these could be re-read, so they are withdrawn. The filer is unconfirmed. The renewal entry, its page, its text and its registration details are all unconfirmed. This record does not establish that the serial was renewed, or that it was not. Next step: open the 1964 volume's full text, find the 'FLASH GORDON' renewal entry, and record the page and exact entry text.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1964 (archive.org, item page only)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
         }
       ]
     },
@@ -22,8 +22,8 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The soundtrack reuses music from earlier Universal films, including Bride of Frankenstein, The Invisible Man and Werewolf of London. Its status follows the print and the status of the source films' music, and neither was confirmed.",
-          "source": "Wikipedia summary of the serial",
+          "note": "Wikipedia says the serial's music was recycled from several other films: Bride of Frankenstein (1935), Bombay Mail (1934), The Black Cat (1934), Werewolf of London (1935) and The Invisible Man (1933). This Wikipedia citation supports the music-reuse claim only. It shows nothing about the copyright status of the score. That status is not established. It depends on the status of those source scores and on the serial's own status. None of these has been checked.",
+          "source": "Wikipedia, Flash Gordon (serial)",
           "url": "https://en.wikipedia.org/wiki/Flash_Gordon_(serial)"
         }
       ]
@@ -57,12 +57,8 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “Flash Gordon” (renewals ~1963, 1964, 1965)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1964 (archive.org) — Flash Gordon renewal lookup",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
       },
       {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
@@ -70,27 +66,16 @@
       }
     ]
   },
-  "watch": [
-    {
-      "url": "https://archive.org/details/flash-gordon-1936_202408",
-      "label": "Flash Gordon (1936) — all 13 chapters, user upload (2024)",
-      "quality": "unknown"
-    },
-    {
-      "url": "https://archive.org/details/flash-gordon-the-complete-serial",
-      "label": "Flash Gordon: The Complete Serial — 13 chapters, user upload (2021)",
-      "quality": "unknown"
-    }
-  ],
-  "editorial": "Flash Gordon is Universal's 13-chapter science-fiction serial, released April 6, 1936 and directed by Frederick Stephani. It stars Buster Crabbe and was made with King Features Syndicate. It adapts Alex Raymond's comic strip, which began in 1934. The Library of Congress added it to the National Film Registry in 1996. It runs about 245 minutes. A creator would want it for the Ming the Merciless sets and the cliffhanger structure. Sets and props came partly from Universal's earlier Frankenstein and The Mummy productions.\n\nThe rights trap is layered. The serial's own renewal status is unconfirmed: no renewal record or notice-failure document was found, and the Catalog of Copyright Entries motion-picture renewal volumes were not checked in this session. The story layer is separate and stays protected: the comic strip dates from 1934, and its characters and franchise are still owned and commercially exploited. Many grey-market copies exist on video and the Internet Archive, but wide circulation is not proof of public-domain status. Clear the renewal record and the strip's rights before any commercial reuse.",
+  "watch": [],
+  "editorial": "Flash Gordon is a 13-chapter science-fiction serial from Universal, released April 6, 1936 and directed by Frederick Stephani. It stars Buster Crabbe. It is based on the character created by Alex Raymond in 1934.\n\nThe rights question here is renewal, and it is not settled. The 1964 Catalog of Copyright Entries was checked only at the item-page level. No renewal entry for the serial was read, so the film's renewal is unconfirmed. The comic strip's renewal has not been checked either. The music was recycled from earlier films whose status has not been checked. Copies on the Internet Archive are not evidence of public-domain status. Verify the film, the score and the strip before any reuse.",
   "faq": [
     [
       "Is the 1936 Flash Gordon serial public domain?",
-      "Not confirmed. We found no renewal record or notice-failure document, and the Catalog of Copyright Entries renewal volumes were not checked. Even if the film print is free, the comic-strip characters are a separate matter."
+      "Unknown. The 1964 Catalog of Copyright Entries was not read at the entry level, so the film's renewal is unconfirmed. Copies on the Internet Archive do not show public-domain status."
     ],
     [
       "Can I use Flash Gordon characters or the name in a new work?",
-      "Not safely. The serial adapts Alex Raymond's 1934 strip, made with King Features Syndicate. Characters from the strip and any franchise trademarks are separate rights from the film print."
+      "Not without checking. The serial is based on Alex Raymond's character, created in 1934. Universal produced and distributed the serial. The strip's renewal status, any King Features rights and any trademarks have not been checked, and they may be separate from the film."
     ]
   ]
 }

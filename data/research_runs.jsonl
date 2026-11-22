@@ -621,3 +621,6 @@
 {"date": "2026-11-22", "id": "frankenstein-1931", "result": "refreshed", "reasons": []}
 {"date": "2026-11-22", "id": "attack-of-the-50-foot-woman-1958", "result": "refreshed", "reasons": []}
 {"date": "2026-11-22", "id": "meet-john-doe-1941", "result": "refreshed", "reasons": []}
+{"date": "2026-11-22", "id": "a-star-is-born-1937", "result": "blocked", "reasons": ["refresh has less evidence (4) than the live page (5)"]}
+{"date": "2026-11-22", "id": "flash-gordon-1936", "result": "refreshed", "reasons": []}
+{"date": "2026-11-22", "id": "manos-the-hands-of-fate-1966", "result": "refreshed", "reasons": []}
