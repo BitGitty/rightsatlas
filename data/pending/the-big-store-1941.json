@@ -1,0 +1,91 @@
+{
+  "id": "the-big-store-1941",
+  "title": "The Big Store",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "UNCONFIRMED. A Name Index line, 'THE BIG STORE. (R)', under Loew's, Inc. and Metro-Goldwyn-Mayer, Inc. appeared in the OCR text of the cited 1968 catalog volume. It gives no renewal number, no renewal date and no original registration number, and the volume's date range was not confirmed. A name-index '(R)' could point to a different entry. No renewal for the 1941 film has been confirmed. The full entry still needs to be found in the Catalog of Copyright Entries volume or at publicrecords.copyright.gov.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1968 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "If a timely renewal was filed, a 1941 film would be protected for 95 years from publication under the 1998 term extension, which runs to the end of 2036. This depends on a renewal being confirmed, which it has not been.",
+          "source": "US copyright term rules",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film's songs and any separately published sheet music have their own copyrights and renewals. These have not been checked. They need to be searched in the Catalog of Copyright Entries Music volumes. The cited motion-picture catalog does not cover music, so no music status is supported here.",
+          "source": "Catalog of Copyright Entries, Music volumes (archive.org), not yet searched",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+music"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is credited as an original story: Story by Nat Perrin, screenplay by Sid Kuller, Hal Fimberg and Ray Golden. The story's status depends on the film's renewal, which is unconfirmed. Wikipedia is used for credits only, not as a rights source.",
+          "source": "Wikipedia, The Big Store (used for credits only, not as a primary rights source)",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Store"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Big Store”, ~1968, 1969, 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Big Store is the 1941 MGM Marx Brothers comedy directed by Charles Reisner. It was released on June 20, 1941, with a story by Nat Perrin and a screenplay by Sid Kuller, Hal Fimberg and Ray Golden. A creator might want it for the department-store set pieces and for Groucho, Chico and Harpo. Its pull on clip and compilation work is real.\n\nIts rights status is not confirmed. A Name Index line in the 1968 Catalog of Copyright Entries, 'THE BIG STORE. (R)' under Loew's, Inc. and Metro-Goldwyn-Mayer, Inc., appears to show a renewal. We have not confirmed it. The renewal number, date and original registration number are unknown, and the line could point to a different entry. Until the full entry is found, treat the film as possibly protected and do not assume it is public domain. The songs and any sheet music have not been checked. Do not treat any copy you find online as a rights clearance.",
+  "faq": [
+    [
+      "Can I use clips from The Big Store in my own video?",
+      "Do not assume it is public domain. A 1968 catalog index line appears to show a renewal, but the full entry has not been confirmed. Until it is, treat the film as possibly protected. Use may need a license from the rights holder, or a defensible fair-use analysis for short, transformative clips."
+    ],
+    [
+      "Does an online copy make The Big Store free to reuse?",
+      "No. A copy posted online does not change the film's copyright status. Whatever the renewal outcome, the uploader's copy gives you no permission to reuse the film."
+    ]
+  ]
+}

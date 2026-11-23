@@ -1,0 +1,101 @@
+{
+  "id": "the-ape-man-1943",
+  "title": "The Ape Man",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "registration",
+          "note": "Original registration: 'Ape man. © Feb. 5, 1943; L 11854; Monogram pictures corp., Hollywood, Calif.' in the 1943 Catalog of Copyright Entries, Motion Pictures volume. A registration puts the film in its 28-year renewal window (1970-1971). The renewal volumes were only partly checked, so this is not a verified non-renewal.",
+          "source": "Catalog of Copyright Entries, New Series, Part 1, Group 3: Dramatic Compositions, Motion Pictures 1943 (Vol 16)",
+          "url": "https://archive.org/details/catalogofcopyrig161libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Volumes searched, all Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips: Jan-Dec 1970 (Vol 24), Jan-Dec 1971 (Vol 25), and Jan-Dec 1972 (Vol 26). Each volume's archive.org full-text file was fetched and searched for 'APE MAN'. Each file is very large, and the fetch tool returned only the first part verbatim and summarized the rest, so none of the three was read in full. No hit was found, but this is not a confirmed negative. Renewals filed in 1970-72 for a 1943 film are recorded in these printed volumes or in the Copyright Office's pre-1978 records and card catalog. The Copyright Office's online public catalog is not a reliable negative for this film. Renewal status stays open until the volumes are read in full or the pre-1978 records are checked.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1970, 1971 and 1972 (Vols 24, 25, 26)",
+          "url": "https://archive.org/details/catalogofc19703241213libr ; https://archive.org/details/catalogofc19713251213libr ; https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film, so the recorded track normally shares the film's copyright status. It follows the print: undetermined until renewal is settled. No separate publisher or score copyright was identified.",
+          "source": "RightsAtlas analysis",
+          "url": "https://archive.org/details/catalogofcopyrig161libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item description says the film is based on 'They Creep in the Dark' by Karl Brown, published in The Saturday Evening Post. The underlying story's own copyright status was not independently confirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-ape-man-1943"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971,
+      1972
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office Virtual Card Catalog (pre-1978 registration and renewal cards, 1870-1977) — search “Ape man” / Monogram",
+        "url": "https://www.copyright.gov/vcc/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1971 (archive.org) — check renewals for 'Ape Man' / Monogram by hand",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1970 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1972 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-ape-man-1943",
+      "label": "The Ape Man (1943), Internet Archive",
+      "quality": "Full-length, about 64 minutes per the Internet Archive file metadata (3841 seconds); an English .srt caption file is listed"
+    }
+  ],
+  "editorial": "The Ape Man is a 1943 Monogram horror picture with Bela Lugosi as Dr. James Brewster, a scientist who turns himself into an ape-like creature. William Beaudine directed. The Internet Archive item credits Sam Katzman as creator and lists Louise Currie, Wallace Ford, Minerva Urecal and Emil Van Horn in the cast.\n\nThe rights trap is renewal. Monogram registered the film on February 5, 1943 as L 11854, so its 28-year renewal fell in 1971. We searched the 1970-72 Catalog of Copyright Entries volumes by full text for 'Ape Man' and found no hit, but the files were only partly read, so this is not a confirmed negative. Renewals from those years are in those printed volumes and in the Copyright Office's pre-1978 records and card catalog. The online public catalog is not a reliable check for this film. Until the volumes are read in full or the pre-1978 records are checked, treat the print as unconfirmed. The score, story and any later restoration or transfer layers are not confirmed either.",
+  "faq": [
+    [
+      "Can I use clips from The Ape Man (1943) in my own video?",
+      "Not yet with confidence. The 1943 registration is confirmed, but a full check of the 1970-1972 renewal records is not done. A creator should read the 1970, 1971 and 1972 CCE volumes in full and check the Copyright Office's pre-1978 records and Virtual Card Catalog before relying on it. The Internet Archive copy is a convenient source, but it does not settle rights."
+    ],
+    [
+      "Does a clean Internet Archive copy mean it is free to reuse?",
+      "No. Hosting is not a rights finding. If the print turns out to be unrenewed, a faithful copy adds no new US copyright. Added titles, new music or colorization could still be protected."
+    ]
+  ]
+}

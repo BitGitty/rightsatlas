@@ -1,0 +1,81 @@
+{
+  "id": "the-hunchback-of-notre-dame-1939",
+  "title": "The Hunchback of Notre Dame",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Renewal entry seen in the full-text (OCR) file of the Catalog of Copyright Entries, Third Series, Vol 21, Parts 12-13, Motion Pictures and Filmstrips, 1967 volume (archive.org item catalogofc19673211213libr), in the Renewal Registrations section, page 45 as reported by the fetch. It reads: THE HUNCHBACK OF NOTRE DAME, a photoplay in twelve reels by RKO Radio Pictures. © 29Dec39; LPOB44. RKO General, Inc. (PWH); 15Mar67; R406429. The title, studio, original copyright date of 29 Dec 1939 and reel count match the RKO film. The entry shows the film was renewed on 15 Mar 1967, so its US copyright was renewed. The OCR line number was not recorded. Note that the archive.org item's own metadata may label the covered period differently (the fetch reported January-June 1967).",
+          "source": "Catalog of Copyright Entries, Third Series, Vol 21, Parts 12-13: Motion Pictures and Filmstrips, 1967",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Inferred, not independently verified. The 1967 renewal entry covers the film as a whole and does not mention the music or its composer. The score is treated as part of the renewed film, so it is presumed to share the film's renewed status. It is not shown to be a separately free element. Status is derived from the print renewal entry (R406429).",
+          "source": "Derived from the print renewal entry (R406429)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Victor Hugo's 1831 novel, which is long out of copyright. The 1939 screenplay and film adaptation are RKO's own work and were renewed, so only the underlying novel is free.",
+          "source": "Wikipedia film article (background only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1939_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1967, Motion Pictures (archive.org) - contains the renewal entry R406429",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "RKO Radio Pictures released The Hunchback of Notre Dame on 29 December 1939. William Dieterle directed it, with Charles Laughton as Quasimodo, Cedric Hardwicke as Frollo and Maureen O'Hara as Esmeralda. It is a large studio adaptation of Victor Hugo's 1831 novel. A creator might want it for Laughton's performance and for its Paris and cathedral setting.\n\nThis film is not free to reuse. RKO's copyright was renewed on 15 March 1967 under registration R406429, filed by RKO General, Inc. The sound track is presumed to share that status, as it is part of the film. Only Hugo's original novel is free, so you can make your own adaptation from the book. You cannot lift footage, dialogue or the screenplay's departures from the book without a licence from the current rightsholder.",
+  "faq": [
+    [
+      "Can I upload or reuse footage from the 1939 Hunchback of Notre Dame?",
+      "No. The film's copyright was renewed in 1967 (R406429, RKO General, Inc.), so the film is still protected. The sound track is presumed to share that status. You need a licence from the rightsholder."
+    ],
+    [
+      "Can I make my own Hunchback of Notre Dame film?",
+      "Yes, if you work from Victor Hugo's 1831 novel. Do not copy the 1939 film's screenplay, dialogue or original scenes, since that material is renewed and protected."
+    ]
+  ]
+}
