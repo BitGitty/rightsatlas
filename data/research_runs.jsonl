@@ -716,3 +716,6 @@
 {"date": "2026-11-24", "id": "utopia-1951", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-24", "id": "war-of-the-colossal-beast-1958", "result": "queued", "reasons": []}
 {"date": "2026-11-24", "id": "the-new-adventures-of-batman-and-robin-1949", "result": "blocked", "reasons": ["title/year does not match the queue row"]}
+{"date": "2026-11-24", "id": "the-red-house-1947", "result": "queued", "reasons": []}
+{"date": "2026-11-24", "id": "dementia-1955", "result": "queued", "reasons": []}
+{"date": "2026-11-24", "id": "trader-horn-1931", "result": "queued", "reasons": []}

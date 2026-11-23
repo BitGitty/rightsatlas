@@ -1,0 +1,106 @@
+{
+  "id": "dementia-1955",
+  "title": "Dementia",
+  "year": 1955,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A user review on the Internet Archive item daughter_of_horror (by 'Plan 9', dated 2009-02-03) pastes what looks like a Copyright Office record: renewal RE0000092948 dated 1981-05-18, renewing LP0000012505 dated 1953-12-01, title 'Dementia. By John Parker.', claimant Raymond Rohauer. This is an unsourced pasted summary. We did not search any Catalog of Copyright Entries volume for it (no CCE Motion Pictures 1953 volume for the LP0000012505 registration, and no CCE Renewals 1981 volume for RE0000092948), so the record is unverified. We also did not get a result from the Copyright Office public records, which is a JavaScript app. If the record is genuine, the original film was renewed and the print is not public domain. Until someone checks the record, the print is undetermined.",
+          "source": "Internet Archive item metadata, daughter_of_horror, reviews",
+          "url": "https://archive.org/details/daughter_of_horror"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to George Antheil, vocalized by Marni Nixon, plus Shorty Rogers and his band the Giants. The soundtrack was made for the film and most likely follows the film's own copyright status, but we have not checked any separate registration or renewal for the music.",
+          "source": "Wikipedia, Dementia (1955 film)",
+          "url": "https://en.wikipedia.org/wiki/Dementia_(1955_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film was based on a dream relayed to John Parker by his secretary, Barrett, and names no literary source. There is no pre-existing published work whose term could matter. The story layer therefore follows the film's own status, which is unresolved.",
+          "source": "Wikipedia, Dementia (1955 film)",
+          "url": "https://en.wikipedia.org/wiki/Dementia_(1955_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the British Film Institute issued a restored Blu-ray and DVD combination set in October 2020 featuring both the original and the re-edited Daughter of Horror versions, and that Kino Video released Dementia on Region 1 DVD on October 17, 2000. The Daughter of Horror version, which Jack H. Harris re-released in January 1957, adds narration by Ed McMahon. That added narration and any new material in a modern release can be protected, even if a faithful transfer of the underlying film adds nothing.",
+          "source": "Wikipedia, Dementia (1955 film)",
+          "url": "https://en.wikipedia.org/wiki/Dementia_(1955_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1980,
+      1981
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records: look up RE0000092948 (renewal, reported 1981-05-18) and LP0000012505 (reported 1953-12-01), and search 'Dementia' by John Parker",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1953, Vol 7 No 1-2 (archive.org): look for 'Dementia' near the reported 1 Dec 1953 registration",
+        "url": "https://archive.org/details/catalogofcopyrig371213lib"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1955, Vol 9 No 1-2 (archive.org): check for a separate 1955 re-release registration",
+        "url": "https://archive.org/details/catalogofcopyrig391213lib"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Renewals, 1981 (the volume for RE0000092948, reported 1981-05-18): we did not find its archive.org identifier, so this is a search, not a confirmed volume",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+renewals+1981"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/daughter_of_horror",
+      "label": "Daughter of Horror (1955), also known as Dementia, narrated version",
+      "quality": "quality not checked; any public-domain licence tag on the upload is not a legal finding"
+    },
+    {
+      "url": "https://archive.org/details/dementia_1955",
+      "label": "Dementia (1955), Internet Archive upload (contents not checked)",
+      "quality": "quality not checked; any public-domain licence tag on the upload is not a legal finding"
+    }
+  ],
+  "editorial": "Dementia is John Parker's wordless 1955 horror film. It follows Adrienne Barrett as the Gamin through a nightmare of street violence, a nightclub, a rich man (Bruno VeSota) and a murder. George Antheil wrote the score, and Shorty Rogers and his band the Giants appear in it. Wikipedia reports it was briefly released in 1953, banned by the New York State Film Board, and re-released in New York on December 22, 1955 with four edits. Jack H. Harris re-released it in January 1957 as Daughter of Horror, adding narration by Ed McMahon. A creator might want it for the no-dialogue structure and the surreal imagery.\n\nThe rights trap is the date. A pasted record on the Internet Archive reports registration LP0000012505 on 1 December 1953 and a renewal, RE0000092948, on 18 May 1981 with Raymond Rohauer as claimant. For a 1953 registration the renewal window is 1980-81, so a 18 May 1981 renewal would fall inside it. That is why we list renewal years 1980 and 1981. An earlier assumption of a 1982-83 window fits a 1955 publication, such as the 1955 New York re-release, and we have not searched 1982-83 separately. We could not verify the pasted record, so the print's status is undetermined. If the renewal is real, the film's copyright was extended and the Internet Archive's public-domain licence tag does not change that. Check the Copyright Office record before reusing any copy. Two other things are separate from the print: the Ed McMahon narration on the Daughter of Horror cut, and anything the 2020 BFI release added.",
+  "faq": [
+    [
+      "Is Dementia (1955) safe to reuse as public domain?",
+      "Not yet. A pasted summary on the Internet Archive reports a 1981 renewal (RE0000092948) of a 1953 registration. We could not confirm it in the Copyright Office records or in a Catalog of Copyright Entries volume. Look up that record first. If it is genuine, the film is still under copyright, whatever licence tag an uploaded copy carries."
+    ],
+    [
+      "Does the Daughter of Horror version have a different status?",
+      "It may. The 1957 Daughter of Horror cut adds narration by Ed McMahon, and that added material is a separate element from the original film. Using the Daughter of Horror version means checking the narration as well as the underlying film."
+    ]
+  ]
+}

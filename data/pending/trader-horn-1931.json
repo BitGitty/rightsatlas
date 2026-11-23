@@ -1,0 +1,81 @@
+{
+  "id": "trader-horn-1931",
+  "title": "Trader Horn",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures 1958 volume lists a renewal for TRADER HORN, a photoplay in thirteen reels by Metro-Goldwyn-Mayer Distributing Corp., originally registered 26MAR31 as L2090, renewed by Loew's, Inc. (PWH) on 27MAR58 as R212005. The renewal was filed in the 28th year, so the 1931 copyright did not lapse.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The sound film's recorded track is part of the renewed motion picture (R212005), so it shares the print's status. Wikipedia credits the score to James McKay, but I did not check a separate registration for the music.",
+          "source": "Derived from the renewal entry for the film",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the book Trader Horn by Alfred Aloysius Horn and Ethelreda Lewis (1927). The book's own term does not free the film, because the 1931 screenplay and photoplay have their own renewed copyright. I did not separately verify the book's status.",
+          "source": "Wikipedia article on the film (background only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Trader_Horn_(1931_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Trader Horn”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — Motion Pictures 1958 volume containing the Trader Horn renewal R212005",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Trader Horn is W. S. Van Dyke's 1931 MGM adventure, released in New York on February 3, 1931. Wikipedia reports that it was the first non-documentary feature shot on location in Africa, with dialogue scenes reshot at MGM's Culver City studio and animal footage shot in Tecate, Mexico. It runs about 122 minutes. A creator would want it for the real African location footage, the early sound-era jungle spectacle, and its place in MGM's studio history.\n\nIt is not free to use. MGM registered the picture on March 26, 1931 (L2090). Loew's, Inc. renewed it on March 27, 1958 as R212005, in the 1958 Catalog of Copyright Entries for motion pictures. That entry means the 1931 copyright did not lapse, so the print, the soundtrack and the screenplay are all still protected. The 1927 book it was based on does not change this. The film has its own copyright, and the renewal covers it. Treat any online upload as an unlicensed copy, not a public-domain source.",
+  "faq": [
+    [
+      "Is the 1931 Trader Horn in the public domain?",
+      "No. The 1958 Catalog of Copyright Entries shows Loew's, Inc. renewed the film's copyright on 27 March 1958 as R212005, so the 1931 copyright continues. Do not reuse the film, its footage or its soundtrack without a license from the rights holder."
+    ],
+    [
+      "Does the 1927 book being old make the film free to use?",
+      "No. The film's copyright is separate from the book's. The renewal covers the photoplay, including the screenplay and recorded sound. Clearing the book would still leave the film itself protected."
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "the-red-house-1947",
+  "title": "The Red House",
+  "year": 1947,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "CCE Motion Pictures 1974 renewal volume. The archive.org OCR text was searched for \"Red House\" and \"Lesser\" and no renewal for The Red House was found. The search method and pages checked were not recorded, and the Motion Pictures renewals section (alphabetical under R) was not read page by page. This is a negative OCR search only.",
+          "source": "Catalog of Copyright Entries, Parts 12-13, Motion Pictures, 1974",
+          "url": "https://archive.org/details/catalogofcopyrig3281213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Motion Pictures 1975 volume, the 28th-year renewal window for a 1947 film. The OCR text was searched for \"Red House\", \"Lesser\" and \"Thalia\" and no renewal for The Red House was found. The search method and pages checked were not recorded, and the renewals section was not read page by page. This is a negative OCR search only.",
+          "source": "Catalog of Copyright Entries, Parts 12-13, Motion Pictures, 1975",
+          "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "CCE Motion Pictures 1976 volume, checked as a late-filing safeguard. The OCR text was searched for \"Red House\" and no renewal was found. The search method and pages checked were not recorded. A badly garbled OCR entry could be missed. This is a negative OCR search only.",
+          "source": "Catalog of Copyright Entries, Parts 12-13, Motion Pictures, 1976",
+          "url": "https://archive.org/details/1976motionpictur3301213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score credited to Miklos Rozsa; this credit was not re-verified against the cited page. The recorded track normally shares the film's status. Separate publication or registration of the music, such as sheet music, was not searched.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/TheRedHouse"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the 1943 novel The Red House by George Agnew Chamberlain. The novel's copyright registration and renewal were not checked, so the story layer is unresolved.",
+          "source": "Wikipedia (secondary, context only)",
+          "url": "https://en.wikipedia.org/wiki/The_Red_House_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Commercial DVD or Blu-ray releases of the film may exist, and some may be described as restored. These releases, their publishers and their dates are unverified and no publisher or retailer page was checked. A faithful restoration adds no copyright to the print, but any added material would be protected.",
+          "source": "Not confirmed",
+          "url": "https://en.wikipedia.org/wiki/The_Red_House_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1974,
+      1975,
+      1976
+    ],
+    "negative_result": "OCR text of the Catalog of Copyright Entries Motion Pictures volumes for 1974, 1975 and 1976 was searched for The Red House (1947), and no renewal was found. The search method and pages checked were not recorded, and the renewals sections were not read page by page. The 1947 registration entry (claimant and date) was not located, so the claimant is unconfirmed. This is a negative OCR search only and does not prove that no renewal exists.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (renewals filed 1978 or later; not needed for a 1947 film)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1975 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1974 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-red-house-1947",
+      "label": "The Red House (1947), Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/TheRedHouse",
+      "label": "The Red House (1947), Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Red House is a 1947 Sol Lesser production released by United Artists, directed by Delmer Daves and starring Edward G. Robinson. Miklos Rozsa is credited with the score. It is a noir-flavored rural thriller that fits horror and noir programs.\n\nThe print status is not settled. The 1947 film's renewal window ran through 1975, and OCR searches of the catalog volumes for 1974, 1975 and 1976 found no renewal. That is negative evidence only: the 1947 registration was not found and the renewal pages were not read one by one. Treat the film as likely public domain, not verified. The novel by George Agnew Chamberlain was not checked, nor was any separate music publication. Any commercial Blu-ray or DVD may add new material, so check the source of any copy before reuse.",
+  "faq": [
+    [
+      "Was the copyright on The Red House renewed?",
+      "No renewal turned up in OCR text searches of the Catalog of Copyright Entries Motion Pictures volumes for 1974, 1975 and 1976, which cover the window for a 1947 film. The 1947 registration was not found and the pages were not read one by one, so verify against the page images if you need certainty."
+    ],
+    [
+      "Can I use a Blu-ray or DVD copy of The Red House?",
+      "Safer to avoid commercial discs unless you have checked them. A faithful transfer adds no film copyright, but commercial releases may include new titles, extras or other added material that is protected, and ripping a copy-protected disc can violate 17 U.S.C. 1201."
+    ]
+  ]
+}
