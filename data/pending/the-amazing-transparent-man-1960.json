@@ -1,0 +1,81 @@
+{
+  "id": "the-amazing-transparent-man-1960",
+  "title": "The Amazing Transparent Man",
+  "year": 1960,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not confirmed. The Internet Archive page shows a downloadable copy of the film exists. No renewal search was done. Renewals filed from 1978 onward appear only in the Copyright Office public records, not in any Catalog of Copyright Entries volume, and I did not search those records. Until that is done, no renewal absence is established.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/the-amazing-transparent-man-1960_202401"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film is available for free viewing and download at the Internet Archive. That describes availability only and says nothing about copyright status.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Transparent_Man"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Screenplay credited to Jack Lewis, per Wikipedia. I did not confirm any underlying source work or its publication date.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Transparent_Man"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1987,
+      1988
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Amazing Transparent Man”, ~1987, 1988)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-amazing-transparent-man-1960_202401",
+      "label": "The Amazing Transparent Man (1960), Internet Archive, directed by Edgar G. Ulmer",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Amazing Transparent Man is a 57-minute science-fiction film directed by Edgar G. Ulmer from a Jack Lewis screenplay, shot in Dallas, Texas for Miller Consolidated Pictures. Marguerite Chapman, Douglas Kennedy, James Griffith and Ivan Triesault star. An ex-Army major uses an escaped criminal to steal materials for an invisibility machine. It had a brief first release in February 1960 through MCP Film Distributing Co. It was re-released on September 8, 1960 as a double feature with Beyond the Time Barrier, according to Wikipedia.\n\nThe rights trap is that its public-domain status is unproven. Copies circulate freely on the Internet Archive, but that does not show the 1960 copyright was never renewed. No renewal search was done for this dossier. Renewals filed from 1978 onward are listed only in the Copyright Office public records, not in any Catalog of Copyright Entries volume, so that is the place to check (renewal years of interest: 1987-1988). Check it before treating the print as free. The soundtrack and any added material on a particular copy would need their own check.",
+  "faq": [
+    [
+      "Is The Amazing Transparent Man public domain?",
+      "Not established here. It is widely hosted on the Internet Archive, but I did not search for a renewal. Renewals filed from 1978 onward are in the Copyright Office public records only, so search there (about 1987-1988) before relying on the print."
+    ],
+    [
+      "Can I reuse the Internet Archive copy?",
+      "Only after you confirm there is no renewal. A given upload may also carry added titles, music or other material with its own status. Use a clean source and note which copy you took."
+    ]
+  ]
+}

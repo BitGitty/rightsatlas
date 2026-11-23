@@ -1,0 +1,87 @@
+{
+  "id": "murders-in-the-rue-morgue-1932",
+  "title": "Murders in the Rue Morgue",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips), 1959, Vol. 13 Nos. 1-2, renewal registrations: 'MURDERS IN THE RUE MORGUE, a photoplay in six reels by Universal Pictures Corp. © 27Jan32; LP2804. Universal Pictures Co., Inc. (PWH); 17Dec59; R248638.' The film was renewed in its 28th year, so US copyright continues.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1959, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film: the recorded soundtrack is part of the film and shares its renewed status (renewal R248638, 1959). It is not a separate free layer.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1959, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Based on Edgar Allan Poe's tale 'The Murders in the Rue Morgue', first published in Graham's Magazine, vol. XVIII, no. 4, April 1841. A work published in 1841 is out of copyright in the US by term. This covers only the Poe source, not the 1932 screenplay or film.",
+          "source": "Edgar Allan Poe Society, bibliographic citation for the tale",
+          "url": "https://www.eapoe.org/works/tales/morgueb.htm"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1959, Motion Pictures (archive.org): renewal entry R248638, 17Dec59",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/murders-in-the-rue-morgue-1932-bela-lugosi",
+      "label": "Murders In The Rue Morgue (1932) Bela Lugosi, Internet Archive upload (rights status of the film itself is not public domain; viewing only)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Murders in the Rue Morgue is Universal's 1932 horror film, directed by Robert Florey, produced by Carl Laemmle Jr. and starring Bela Lugosi. It runs about 61 minutes and adapts Edgar Allan Poe's detective tale. It is a natural pick for anyone cutting a horror or Lugosi compilation, and several copies sit on the Internet Archive.\n\nThe rights trap is that those uploads are not evidence of public domain status. Universal registered the film on 27 January 1932 (LP2804), and Universal Pictures Co., Inc. renewed it on 17 December 1959 (R248638). The film is still under US copyright. Only Poe's 1841 story is free to reuse, not the film's script, footage or soundtrack.",
+  "faq": [
+    [
+      "Is Murders in the Rue Morgue (1932) in the public domain in the US?",
+      "No, based on the record found. The Catalog of Copyright Entries for 1959 lists a renewal for the film, R248638, filed 17 December 1959 by Universal Pictures Co., Inc. That renewal extended US copyright. Copies on the Internet Archive do not change that."
+    ],
+    [
+      "Can I adapt Poe's story without clearing the 1932 film?",
+      "Yes for the story itself. Poe published it in 1841 and it is out of copyright. You cannot copy the 1932 film's footage, dialogue, score or its original screenplay changes without a licence."
+    ]
+  ]
+}
