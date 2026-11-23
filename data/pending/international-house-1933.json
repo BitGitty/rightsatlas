@@ -1,0 +1,65 @@
+{
+  "id": "international-house-1933",
+  "title": "International House",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The Catalog of Copyright Entries, Motion Pictures 1960 volume, lists a renewal registration for INTERNATIONAL HOUSE (Paramount, 1933) under the claimant name Emka, Ltd., marked (R) for renewal. A 1933 work renewed in 1960 was renewed in its 28th year, so the film's copyright runs its full term. The exact renewal date, renewal number and reel count were not confirmed from the page text.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1960, Vol 14 No 1-2",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1960 volume (archive.org), contains the Emka, Ltd. renewal entry",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "International House is a 1933 Paramount feature. W.C. Fields is the draw for most reusers, but the title is a poor candidate for free use.\n\nThe trap is that the copyright was renewed. The 1960 Motion Pictures volume of the Catalog of Copyright Entries lists a renewal for the film under the claimant Emka, Ltd. A 1933 work renewed in 1960 was renewed in its 28th year. The renewal means the film is still under copyright and cannot be treated as free to reuse. Reusing clips or stills generally requires permission from the rights holder, unless a fair-use or other exception applies case by case. The songs and any soundtrack recordings are separate works whose status was not checked here. Do not rely on the casual 'public domain' labels on streaming sites.",
+  "faq": [
+    [
+      "Is International House (1933) in the public domain?",
+      "No. The 1960 Catalog of Copyright Entries lists a renewal of the film's 1933 copyright under Emka, Ltd., so the film is still protected."
+    ],
+    [
+      "Can I use a clip or the soundtrack in my own video?",
+      "Not without permission. Short clips may fall under fair use, which is a case-by-case defence and not a licence. The songs and recordings are separate works that were not checked here, so clear the rights with the current owners for anything more."
+    ]
+  ]
+}

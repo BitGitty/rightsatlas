@@ -1,0 +1,81 @@
+{
+  "id": "the-devil-doll-1936",
+  "title": "The Devil-Doll",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1963 (Vol. 17, Nos. 1-2), lists a renewal for 'The Devil-Doll', a photoplay in eight reels by Metro-Goldwyn-Mayer Corp., originally registered 7 July 1936. The renewal claimant is Metro-Goldwyn-Mayer, Inc. (proprietor of work made for hire). The renewal is dated 10 June 1963 and numbered R318184. The renewal was made in 1963, within the renewal window for a 1936 work. The original registration number is not given here because sources differ on its prefix and it was not verified.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1963",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track is part of the film's own copyright. It was renewed together with the film as R318184 and has the same status as the print.",
+          "source": "Same CCE 1963 renewal entry",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the novel Burn, Witch, Burn! by A. Merritt. I did not confirm the novel's publication or renewal status from a primary record, so this layer is undetermined. It matters little in practice, because the film itself is still under renewed copyright.",
+          "source": "Wikipedia (not primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Devil-Doll"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1963 Motion Pictures volume (archive.org) — the renewal entry R318184",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Devil-Doll is Metro-Goldwyn-Mayer's 1936 horror film directed by Tod Browning. Lionel Barrymore stars, with Maureen O'Sullivan, Frank Lawton and Rafaela Ottiano. It was adapted from A. Merritt's novel Burn, Witch, Burn!. The film was registered for copyright on 7 July 1936. It has a cult following, and its shrunken-people effects make it attractive for horror compilations and video essays.\n\nThe film is not public domain in the US. Metro-Goldwyn-Mayer, Inc. renewed it in 1963 (10 June 1963, R318184), within the renewal window for a 1936 work. The 1963 Catalog of Copyright Entries prints that renewal. The renewal covers the picture and its sound track, so a clip needs a licence from the rights holder.",
+  "faq": [
+    [
+      "Is The Devil-Doll (1936) in the public domain in the US?",
+      "No. MGM registered it on 7 July 1936 and renewed it on 10 June 1963 as R318184. The renewal is listed in the Catalog of Copyright Entries for 1963, so the film is still under copyright."
+    ],
+    [
+      "Can I use clips from The Devil-Doll because copies are posted online?",
+      "No. A copy posted online does not change the copyright status. The renewed copyright covers both the picture and its recorded sound, so you would need permission from the rights holder, or you would have to rely on fair use, which depends on the facts of each use."
+    ]
+  ]
+}
