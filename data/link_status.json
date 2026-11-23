@@ -24,7 +24,7 @@
   "BucketOfBlood720p1959": {
    "ok": true,
    "film": "a-bucket-of-blood-1959",
-   "kind": "watch"
+   "kind": "evidence"
   },
   "AChristmasCarol1910": {
    "ok": true,
@@ -191,6 +191,11 @@
    "film": "camille-1921",
    "kind": "evidence"
   },
+  "catalogofcopyr3171213libr": {
+   "ok": true,
+   "film": "the-terror-1963",
+   "kind": "evidence"
+  },
   "CarnivalofSouls": {
    "ok": true,
    "film": "carnival-of-souls-1962",
@@ -199,11 +204,6 @@
   "catalogofcopyr3161213libr": {
    "ok": true,
    "film": "of-human-bondage-1934",
-   "kind": "evidence"
-  },
-  "catalogofcopyr3171213libr": {
-   "ok": true,
-   "film": "the-terror-1963",
    "kind": "evidence"
   },
   "turner_video_341": {
