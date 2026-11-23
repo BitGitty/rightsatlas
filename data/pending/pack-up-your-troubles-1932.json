@@ -1,0 +1,78 @@
+{
+  "id": "pack-up-your-troubles-1932",
+  "title": "Pack Up Your Troubles",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1959, Vol 13 No 1-2 (archive.org identifier catalogofcopyrig3131213li). Found by full-text search of the OCR for \"PACK UP YOUR TROUBLES\"; the entry is in the Renewal Registrations section of the July-Dec. half. The OCR reads: \"PACK UP YOUR TROUBLES, a photoplay in seven reels by Metro-Goldwyn-Mayer Distributing Corp. © 23Sep32; L3270. Loew's, Inc. (PWH); 24Sep59; R243002.\" That is: original claimant Metro-Goldwyn-Mayer Distributing Corp., copyrighted 23 Sep 1932 (L3270); renewal claimant Loew's, Inc., basis PWH (proprietor of work made for hire); renewal received 24 Sep 1959, renewal number R243002. The entry does not name Hal Roach Studios, the film's production company. The printed page number is not shown in the OCR.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1959 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The renewal entry covers the film as a photoplay. The recorded soundtrack is part of the film, so it is covered by that renewal. I did not research the separate status of the underlying musical compositions.",
+          "source": "RightsAtlas analysis based on the 1959 CCE renewal entry",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Pack Up Your Troubles”, ~1959, 1960, 1961)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Pack Up Your Troubles is a 1932 Laurel and Hardy feature (Stan Laurel and Oliver Hardy, with James Finlayson and Don Dillaway). It was directed by George Marshall and Raymond McCarey. Hal Roach Studios produced it and Metro-Goldwyn-Mayer distributed it. It looks like a candidate for reuse because it is old and widely circulated. The queue flagged it as a likely renewal absence, but the 1959 Catalog of Copyright Entries shows otherwise.\n\nThe trap is that the film was renewed. The catalog entry reads: \"PACK UP YOUR TROUBLES, a photoplay in seven reels by Metro-Goldwyn-Mayer Distributing Corp. © 23Sep32; L3270. Loew's, Inc. (PWH); 24Sep59; R243002.\" So Metro-Goldwyn-Mayer Distributing Corp. is the original claimant (registered 23 Sep 1932, L3270). Loew's, Inc. renewed it as proprietor of a work made for hire on 24 Sep 1959 (R243002). The entry does not mention Hal Roach Studios. The renewal means the print is still under copyright, and the recorded soundtrack is covered as part of the film. I did not research the underlying music separately. Do not treat circulating copies as free to reuse. Clear the film with the current rights holder.",
+  "faq": [
+    [
+      "Is Pack Up Your Troubles (1932) in the public domain in the US?",
+      "No. The 1959 Catalog of Copyright Entries lists a renewal by Loew's, Inc. (PWH, R243002, received 24 Sep 1959) for the 1932 photoplay originally registered by Metro-Goldwyn-Mayer Distributing Corp. (L3270). The film was made by Hal Roach Studios and distributed by MGM. The renewal means the copyright was extended, so the film is not free to reuse. Copies on video sites do not change that."
+    ],
+    [
+      "Did the renewal cover the sound track and music?",
+      "The recorded soundtrack is part of the film, so the film's renewal covers it. I did not research the separate status of the underlying musical compositions, so that question is open. Clear the music with the film itself."
+    ]
+  ]
+}

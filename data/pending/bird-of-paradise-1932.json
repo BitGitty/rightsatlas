@@ -1,0 +1,103 @@
+{
+  "id": "bird-of-paradise-1932",
+  "title": "Bird of Paradise",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Public-domain status is claimed but not confirmed by a primary source. A secondary source (Pierce, 'Forgotten Faces', Film History 19(2), 2007, as cited on Wikipedia) says the copyright was not renewed in the 28th year, i.e. 1960. I did not read the renewal sections of the Catalog of Copyright Entries Motion Pictures volumes for 1959 (catalogofcopyrig3131213li) and 1960 (catalogofcopyr3141213libr). A renewal filed in 1959-60 has to be checked in those Catalog of Copyright Entries renewal sections, or through the Copyright Office's pre-1978 records (for example a Copyright Office search request). The online Copyright Office public records do not cover renewals from that period.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1959 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion 1960 volume (Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1960); the renewal section was not read.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1960 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page archive.org/details/Bird_of_Paradise_1932 (uploaded August 2, 2008) lists the licence as 'Public Domain'. The item page archive.org/details/BirdOfParadise (uploaded July 18, 2014) shows no licence or rights statement. The first is an uploader label, not proof of status.",
+          "source": "archive.org item pages (fetched 2026-11-24)",
+          "url": "https://archive.org/details/Bird_of_Paradise_1932"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Max Steiner's score is on the film's own soundtrack, so it should follow the film's status. That depends on the unconfirmed print status. No separate publication of the score was checked.",
+          "source": "Wikipedia, Bird of Paradise (1932 film)",
+          "url": "https://en.wikipedia.org/wiki/Bird_of_Paradise_(1932_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Richard Walton Tully's 1912 play. Its publication and registration were not checked, so I am not calling the story verified.",
+          "source": "Wikipedia, Bird of Paradise (1932 film)",
+          "url": "https://en.wikipedia.org/wiki/Bird_of_Paradise_(1932_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — Motion Pictures 1959 volume (check its renewal section)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — Motion Pictures 1960 volume (check its renewal section)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Bird_of_Paradise_1932",
+      "label": "Bird of Paradise (1932), full film, 1:20:32",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/BirdOfParadise",
+      "label": "Bird of Paradise (1932), RKO Radio Pictures (publisher listed)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Bird of Paradise is an RKO Radio Pictures release of August 12, 1932, directed by King Vidor and produced by David O. Selznick and Vidor. Dolores del Río plays Luana and Joel McCrea plays Johnny Baker. It is adapted from Richard Walton Tully's 1912 play. Max Steiner wrote the score, which Wikipedia describes as almost entirely through-composed; I did not check that against a scholarly source.\n\nThe rights question is renewal. Wikipedia, citing a 2007 Film History article, says the copyright was not renewed in 1960. I did not read the renewal sections of the 1959 and 1960 Catalog of Copyright Entries motion-picture volumes, so I have not confirmed that claim against a primary record, and the print is marked undetermined. A renewal would have been filed in 1959-60, so it has to be checked in those Catalog renewal sections or in the Copyright Office's pre-1978 records; the online Copyright Office public records do not cover that period. One Internet Archive item (Bird_of_Paradise_1932) is labeled 'Public Domain' and the other (BirdOfParadise) shows no rights statement; the label is an uploader claim, not proof. The Steiner score is part of the soundtrack and should follow the film's status. I did not search for restorations or modern home-video releases, so I make no claim about whether any exist.",
+  "faq": [
+    [
+      "Is Bird of Paradise (1932) in the public domain?",
+      "Probably, but I could not confirm it. A secondary source says the copyright was not renewed in 1960. I did not read the renewal sections of the 1959 and 1960 Catalog of Copyright Entries volumes. Check those renewal sections, or the Copyright Office's pre-1978 records, before you reuse it."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "The labels on the Internet Archive copies are uploader claims, not proof. I did not check where either copy came from or what quality it is. Confirm the film's renewal status first, then choose a copy whose provenance you can document."
+    ]
+  ]
+}
