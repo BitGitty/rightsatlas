@@ -1,0 +1,80 @@
+{
+  "id": "at-war-with-the-army-1950",
+  "title": "At War with the Army",
+  "year": 1950,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "UNVERIFIED. An earlier RightsAtlas script run reported a renewal numbered RE0000043009 for this film. That record could not be retrieved or checked in this review, so its claimants, filing date and original registration number are not stated here. The English Wikipedia article on the film says the copyright lapsed because it was not renewed in the 28th year. That statement conflicts with the script's reported renewal hit. Neither claim is confirmed. No Copyright Office search and no Catalog of Copyright Entries search was done in this review. Before treating the film as either protected or public domain, check the Copyright Office public records for the renewal. Also check the Catalog of Copyright Entries, Motion Pictures, renewal volumes for 1978 and 1979. A 1950 film's renewal year 28 is 1978, or 1979 if it was first published in January 1951.",
+          "source": "Wikipedia, 'At War with the Army' (page fetched 2026-11-23); RightsAtlas script hit, unverified",
+          "url": "https://en.wikipedia.org/wiki/At_War_with_the_Army"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track shares the film's copyright status, which is unresolved (see the print layer).",
+          "source": "RightsAtlas analysis",
+          "url": "https://en.wikipedia.org/wiki/At_War_with_the_Army"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on James B. Allardice's three-act farcical play 'At War with the Army'. Wikipedia says it ran for 151 performances at the Booth Theatre from 8 March 1949 to 16 July 1949. A RightsAtlas script run reported a 1978 renewal (RE0000002762) for the play, but that record was not retrieved or checked. A 1949 play would normally need renewal in 1977, so a 1978 filing may not have been timely, and the play's registration date is not confirmed. The play's copyright status is unresolved. It is separate from the film's.",
+          "source": "Wikipedia, 'At War with the Army' (page fetched 2026-11-23); RightsAtlas script hit, unverified",
+          "url": "https://en.wikipedia.org/wiki/At_War_with_the_Army"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records: search 'At War with the Army' (reported renewal RE0000043009, unverified)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org): Motion Pictures, 1978 and 1979 renewal volumes (none searched)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "At War with the Army is a 1950 Paramount comedy directed by Hal Walker. It stars Martin and Lewis and, per Wikipedia, introduces Polly Bergen. It is based on James B. Allardice's three-act farcical play, which Wikipedia says ran for 151 performances at the Booth Theatre in 1949. Per Wikipedia, the film premiered in San Francisco on New Year's Eve 1950. A creator would want it for early Martin and Lewis routines.\n\nThe rights status is unresolved. Wikipedia says the copyright lapsed for lack of renewal. An earlier script run reported a renewal, RE0000043009, but that record has not been checked here. Until someone confirms the renewal record at the Copyright Office or in the Catalog of Copyright Entries, treat the film as not cleared for reuse. The play may carry its own separate copyright, also unconfirmed.",
+  "faq": [
+    [
+      "Is At War with the Army in the public domain?",
+      "Unconfirmed. Wikipedia says the copyright lapsed for lack of renewal in the 28th year. A script run reported a renewal (RE0000043009), but its filing date and the record itself were not verified. Check the Copyright Office public records and the Catalog of Copyright Entries before relying on either claim."
+    ],
+    [
+      "Can I use clips from online copies of the film?",
+      "Do not rely on an upload's public domain label. Some copies are sold or posted as public domain, but that label does not settle the rights. Confirm the renewal record first. The underlying play may also have its own copyright."
+    ]
+  ]
+}

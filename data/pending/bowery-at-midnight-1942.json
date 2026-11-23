@@ -1,0 +1,107 @@
+{
+  "id": "bowery-at-midnight-1942",
+  "title": "Bowery at Midnight",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal for a 1942 release would fall due in 1970. The Catalog of Copyright Entries volumes for 1969, 1970 and 1971 (Parts 12-13, Motion Pictures and Filmstrips) exist and list renewals in a separate section at the end of each volume. I could not read those sections in this session, so I cannot state that no renewal is listed. The Copyright Office public catalog was not searched either. The print stays undetermined until a hand search of these volumes and publicrecords.copyright.gov for 'Bowery at Midnight' is done.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1970",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits music to Edward J. Kay. Any music publication or cue-sheet registration was not checked, and no copyright record was checked for the score.",
+          "source": "Wikipedia, Bowery at Midnight (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Bowery_at_Midnight"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives Gerald Schnitzer as writer and states no source story or novel. No underlying work was identified, but no screenplay or story registration was checked.",
+          "source": "Wikipedia, Bowery at Midnight (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Bowery_at_Midnight"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "One Internet Archive item, 'Bowery At Midnight (1942) [Colorized, 4K, 60FPS]', is described by its uploader as AI-colorized, upscaled to 4K and frame-rate boosted to 60 FPS in 2021, using DeOldify, RIFE and FFmpeg on Google Colab. Other uploads may be labelled colorized or restored, but I did not check what they add. Whether any added material carries its own copyright claim was not determined, so use an unaltered black-and-white copy.",
+          "source": "Internet Archive item page, Bowery At Midnight (1942) [Colorized, 4K, 60FPS]",
+          "url": "https://archive.org/details/bowery-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Bowery at Midnight”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1970, Motion Pictures and Filmstrips (archive.org) — renewal section at end of volume",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1969, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1971, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Bowery_at_Midnight",
+      "label": "Bowery at Midnight (1942), Internet Archive, directed by Wallace Fox",
+      "quality": "Item metadata says black and white, 1:02:00 runtime; resolution not verified"
+    },
+    {
+      "url": "https://archive.org/details/bowery-at-midnight-1942",
+      "label": "Bowery at Midnight (1942), Internet Archive",
+      "quality": "Item metadata color field says color, so the picture may be altered; resolution and what was added not verified. Check the picture first"
+    }
+  ],
+  "editorial": "Bowery at Midnight is a Poverty Row horror picture of about an hour, directed by Wallace Fox for Banner Productions and distributed by Monogram Pictures, released October 1, 1942 according to Wikipedia. Bela Lugosi plays Professor Brenner, who runs a Bowery soup kitchen as a front for a criminal gang. Tom Neal and Wanda McKay are in the cast, with a script by Gerald Schnitzer and producers Sam Katzman and Jack Dietz. It is a Lugosi title with a lurid hook, and it is available on the Internet Archive.\n\nThe open question is the renewal. A 1942 release had to be renewed in 1970 to keep US protection. The 1969 to 1971 Catalog of Copyright Entries volumes list renewals in a separate section, and this research could not read it. Nobody should treat the print as free until someone has checked those renewal sections and the Copyright Office catalog by hand. The Internet Archive's public-domain license labels are uploader-supplied and prove nothing. At least one upload is AI-colorized and upscaled, and added work like that may carry its own claim, so a creator should work from an unaltered copy.",
+  "faq": [
+    [
+      "Is Bowery at Midnight safe to reuse?",
+      "Not yet confirmed. Public-domain status depends on there being no 1970 renewal, and that check was not completed here. Do your own search of the 1969-1971 Catalog of Copyright Entries renewal sections and publicrecords.copyright.gov first, and keep your own record of what you found."
+    ],
+    [
+      "Can I use the colorized or restored Internet Archive versions?",
+      "Avoid them unless you have to. Colorization, upscaling and other added material may carry a separate claim even if the original film is free. Use an unaltered black-and-white copy and check what the uploader added."
+    ]
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "too-late-for-tears-1949",
+  "title": "Too Late for Tears",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film fell into the public domain because its corporate holders dissolved and failed to renew the copyright. This is a secondary claim. I could not confirm it against a primary record. A text scan of the Catalog of Copyright Entries 1976 and 1977 motion-picture volumes (archive.org 1976motionpictur3301213libr and 1977motionpictur3311213libr) found no entry, but the scan was partial. I did not run a Copyright Office public-catalog search for a renewal.",
+          "source": "Wikipedia, Too Late for Tears",
+          "url": "https://en.wikipedia.org/wiki/Too_Late_for_Tears"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the print's status. That status is not yet confirmed. I did not research any separate music rights.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/too-late-for-tears-1949"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay was written by Roy Huggins, developed from a serial he wrote for The Saturday Evening Post. I did not check the renewal status of the serial or any book edition, and the underlying story could still be protected even if the film's print is free.",
+          "source": "Wikipedia, Too Late for Tears",
+          "url": "https://en.wikipedia.org/wiki/Too_Late_for_Tears"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The UCLA Film and Television Archive and the Film Noir Foundation restored the film after a 35 mm print dupe negative was located in France. The restoration also used an American 35 mm print from 1955. The original English-language opening title was reconstructed by rotoscoping and font matching from a 16 mm print. Flicker Alley released the restored film in a DVD and Blu-ray set in May 2016. A faithful restoration adds no new copyright, but the reconstructed title and any added material may be protected.",
+          "source": "Wikipedia, Too Late for Tears",
+          "url": "https://en.wikipedia.org/wiki/Too_Late_for_Tears"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1976,
+      1977
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — covers registrations and renewals from 1978 onward only; renewals filed in 1976 and 1977 appear only in the Catalog of Copyright Entries volumes (search “Too Late for Tears”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1977 Motion Pictures volume",
+        "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1976 Motion Pictures volume",
+        "url": "https://archive.org/details/1976motionpictur3301213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/too-late-for-tears-1949",
+      "label": "Too Late for Tears (1949) on the Internet Archive",
+      "quality": "unverified print; the item's description matches the 1949 film directed by Byron Haskin"
+    }
+  ],
+  "editorial": "Too Late for Tears is a 1949 film noir directed by Byron Haskin and produced by Hunt Stromberg Productions. United Artists released it. Lizabeth Scott plays Jane Palmer, a woman who keeps a suitcase of money delivered to her car by mistake. Don DeFore, Dan Duryea and Arthur Kennedy co-star. The film was re-released in August 1955 by Astor Pictures as Killer Bait. A reuser may find either title on circulating copies.\n\nThe print's status is not settled here. Wikipedia says the film fell into the public domain because its corporate holders dissolved and failed to renew the copyright. I did not confirm that against a primary renewal record. Two further traps apply. The story comes from a serial Roy Huggins wrote for The Saturday Evening Post, and I did not check that source's renewal. The UCLA and Film Noir Foundation restoration, released by Flicker Alley in May 2016, reconstructed the opening title by rotoscoping. That added material may be protected even if the underlying film is free.",
+  "faq": [
+    [
+      "Is Too Late for Tears (1949) safe to use?",
+      "Not confirmed. A secondary source says the copyright was not renewed, but I found no primary renewal-absence record. Check the Copyright Office public records (which cover 1978 onward) and the 1976 and 1977 Catalog of Copyright Entries volumes before relying on it. The Roy Huggins source serial is a separate question."
+    ],
+    [
+      "Can I use the Flicker Alley or UCLA restoration?",
+      "A faithful scan of a public-domain film adds no new US copyright. Material the restoration added, such as the reconstructed opening title, may be protected. Using a disc rip can also raise DMCA anti-circumvention issues, so prefer an unrestricted source copy."
+    ]
+  ]
+}
