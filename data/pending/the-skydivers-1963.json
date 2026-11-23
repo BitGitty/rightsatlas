@@ -1,0 +1,83 @@
+{
+  "id": "the-skydivers-1963",
+  "title": "The Skydivers",
+  "year": 1963,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "US production, released November 13, 1963 per the Wikipedia infobox, written and directed by Coleman Francis, produced by Anthony Cardoza, distributed by Crown International Pictures. Because it was published after 1930, its public-domain status depends on a missing notice or a missing renewal. I could not open the Copyright Office public records in this session, so no renewal-absence finding is made.",
+          "source": "Wikipedia article 'The Skydivers' (production facts only, not a rights source)",
+          "url": "https://en.wikipedia.org/wiki/The_Skydivers"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unsupported assumption, not a finding: the soundtrack may share the film's copyright status, but I have no source for that and ran no search for it. I did not confirm any separate music copyright. Status stays undetermined.",
+          "source": "unsupported assumption",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Coleman Francis as writer. I did not check whether the story was adapted from other material, and I did not confirm that it is original.",
+          "source": "Wikipedia article 'The Skydivers'",
+          "url": "https://en.wikipedia.org/wiki/The_Skydivers"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia article says the film was the basis for a Mystery Science Theater 3000 episode in 1994. I did not search for restorations in this session, so no restoration finding is made.",
+          "source": "Wikipedia article 'The Skydivers'",
+          "url": "https://en.wikipedia.org/wiki/The_Skydivers"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1990,
+      1991
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Skydivers”, filed 1990-1991; 1992 only as a safety margin)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Skydivers is a 1963 US feature written and directed by Coleman Francis and produced by Anthony Cardoza. Crown International Pictures distributed it. Wikipedia says it fell into obscurity and found a second life in 1994, when it was the basis for a Mystery Science Theater 3000 episode. A reuser would want it for the MST3K connection, or as an example of Francis's low-budget work.\n\nThe rights trap is that this dossier cannot confirm the film's status. A 1963 film is protected for 95 years unless it lost protection through a missing notice or a missing renewal. Renewal was due during 1991, which is year 28 after the 1963 publication. Early filings in 1990 are possible. I could not check the renewal records. Do not treat the film as free to use until someone searches the Copyright Office public records (publicrecords.copyright.gov) for renewals filed in 1990-1991. Add 1992 only as a safety margin. An MST3K version would add riffing and commentary that is separately protected, so it is not a clean copy of the film.",
+  "faq": [
+    [
+      "Is The Skydivers (1963) in the public domain?",
+      "Not confirmed. Because it was published in 1963, it is public domain only if it lacked a copyright notice or was never renewed. I did not complete the renewal search. Search the Copyright Office public records (publicrecords.copyright.gov) for renewals filed in 1990-1991 (1992 only as a safety margin) before reusing it."
+    ],
+    [
+      "Can I use clips from the MST3K episode of The Skydivers?",
+      "Do not assume they are free. The episode's riffing and commentary are separately protected. The episode also contains the film itself, and the film's status is unconfirmed. Whether a particular use is permitted depends on the facts, so get the film's status settled first and use a clean copy of the film."
+    ]
+  ]
+}

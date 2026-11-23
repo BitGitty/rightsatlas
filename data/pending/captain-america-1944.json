@@ -1,0 +1,81 @@
+{
+  "id": "captain-america-1944",
+  "title": "Captain America",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 25, Parts 12-13, No. 1, Motion Pictures and Filmstrips, January-June 1971, lists a renewal for CAPTAIN AMERICA, CHAP. 1-3, a photoplay in 7 reels by Republic Productions, originally registered 31 Dec 1943 (L12461). It was renewed by Repix, Inc., a wholly owned subsidiary of National Telefilm Associates, Inc. (PWH), on 19 Mar 1971 (R503520). Only chapters 1-3 are confirmed renewed. The serial has 15 chapters, and each chapter was registered separately. No other volume was searched: only the Jan-Jun 1971 Motion Pictures volume was checked, so renewals for chapters 4-15 are unconfirmed, and later volumes (for example 1971 Jul-Dec, 1972 and 1973) were not searched. Wikipedia separately states that the serial's copyright was renewed in 1971 by National Telefilm Associates. That is a secondary source and does not name specific chapters.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 25, Parts 12-13, No. 1 (Jan-Jun 1971), via Internet Archive",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound serial with music credited to Mort Glickman (Wikipedia supports the credit only). No source found that shows the score's own copyright status, and the renewal entry found does not name the music, so the status is undetermined.",
+          "source": "Wikipedia, Captain America (serial)",
+          "url": "https://en.wikipedia.org/wiki/Captain_America_(serial)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Loosely based on the Timely Comics (now Marvel Comics) character created by Joe Simon and Jack Kirby. The serial changes the hero into District Attorney Grant Gardner. The comic-book character's rights are separate from the serial's. No renewal or other source for the 1941 Captain America Comics material was checked, so its status is undetermined.",
+          "source": "Wikipedia, Captain America (serial)",
+          "url": "https://en.wikipedia.org/wiki/Captain_America_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972,
+      1973
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Jun 1971 (archive.org) — renewal entry for Captain America, chapters 1-3",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Captain America (Republic Pictures, released 5 February 1944) is a 15-chapter serial, about 243 minutes long, directed by Elmer Clifton and John English, with music by Mort Glickman. It is loosely based on the Timely Comics hero created by Joe Simon and Jack Kirby. The serial drops Steve Rogers and makes the hero District Attorney Grant Gardner. It is the first screen Captain America, which is why reusers look for it.\n\nTreat it as protected. The Catalog of Copyright Entries for January-June 1971 shows a renewal of chapters 1-3, filed by Repix, Inc., a wholly owned subsidiary of National Telefilm Associates, on 19 March 1971. Only that one volume was searched, so renewals for chapters 4-15, which were registered separately, are unconfirmed. Wikipedia also says the serial's copyright was renewed in 1971 by NTA, whose assets later became part of Viacom, but it does not name chapters. The print status is undetermined for the serial as a whole. We found no source on the status of the music, so the score is also undetermined. The comic-book character and the Captain America name are separate from the serial, and we have not verified their status. Get a license or legal advice before reusing any footage.",
+  "faq": [
+    [
+      "Is the 1944 Captain America serial in the public domain?",
+      "Unclear, but treat it as protected. The Catalog of Copyright Entries for January-June 1971 lists a renewal of chapters 1-3 by Repix, Inc., a subsidiary of National Telefilm Associates, and Wikipedia says the serial's copyright was renewed in 1971. We searched only that one volume, so renewals for chapters 4-15 are unconfirmed. Do not reuse any chapter without a licence."
+    ],
+    [
+      "Can I use the character name or the comic-book hero in my own project?",
+      "Not on the strength of this serial. The serial is a loose adaptation of a Timely Comics character, and the character and name have rights of their own. We have not verified their status. We list the story and trademark layers as undetermined. Clear them separately."
+    ]
+  ]
+}

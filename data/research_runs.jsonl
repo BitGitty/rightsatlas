@@ -695,3 +695,6 @@
 {"date": "2026-11-23", "id": "the-strange-love-of-martha-ivers-1946", "result": "blocked", "reasons": ["layer 'print' is likely_pd — not allowed in a candidate"]}
 {"date": "2026-11-23", "id": "jack-and-the-beanstalk-1952", "result": "queued", "reasons": []}
 {"date": "2026-11-23", "id": "earth-vs-the-spider-1958", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "the-strange-love-of-martha-ivers-1946", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "the-skydivers-1963", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "captain-america-1944", "result": "queued", "reasons": []}
