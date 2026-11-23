@@ -1,0 +1,103 @@
+{
+  "id": "the-atomic-brain-1964",
+  "title": "The Atomic Brain",
+  "year": 1964,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Archive.org items TheAtomicBrain and atomic_brain_1964 carry a Creative Commons public-domain license tag, but that is the uploader's label, not a copyright record. I could not fetch a Catalog of Copyright Entries renewal volume or a Copyright Office record, so I did not confirm that no renewal exists or whether the release carried a notice.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/metadata/TheAtomicBrain"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the composer as Gene Kauer. The recorded track normally shares the film's status, so it follows the print result. No separate music registration or renewal was checked.",
+          "source": "Wikipedia, Monstrosity (film)",
+          "url": "https://en.wikipedia.org/wiki/Monstrosity_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits an original screenplay to Sue Bradford, Dean Dillman Jr., Jack Pollexfen and Vy Russell. I found no pre-existing source work, but I did not confirm that none exists.",
+          "source": "Wikipedia, Monstrosity (film)",
+          "url": "https://en.wikipedia.org/wiki/Monstrosity_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is in the Mystery Science Theater 3000 catalog (episode 518, first aired 4 December 1993). It was released on DVD by Rhino in the MST3K Collection Vol. 3 and reissued by Shout Factory in September 2016. The MST3K host segments, riffs and added material are new protected work, separate from the underlying film.",
+          "source": "Wikipedia, Monstrosity (film)",
+          "url": "https://en.wikipedia.org/wiki/Monstrosity_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1991,
+      1992,
+      1993
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Atomic Brain” and “Monstrosity”, ~1991, 1992, 1993)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheAtomicBrain",
+      "label": "The Atomic Brain (1964) — Internet Archive",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/atomic_brain_1964",
+      "label": "Monstrosity aka The Atomic Brain — Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Atomic Brain is a low-budget science-fiction horror film. A wealthy old woman pays a scientist to transplant her mind into a younger woman's body. Wikipedia lists its official title as Monstrosity. It credits Joseph V. Mascelli as director, Dean Dillman Jr. and Jack Pollexfen as producers, and Gene Kauer as composer. It was distributed by Emerson Film Enterprises and given as September 1963 there, which differs from the queue's 1964 year. Television used the title The Atomic Brain. Mystery Science Theater 3000 featured it as episode 518, first aired 4 December 1993. That gives a creator a recognizable cult title and several free-to-view copies on the Internet Archive.\n\nThe rights question is unresolved. The Internet Archive's public-domain tag is an uploader's label. I could not fetch a renewal volume or a Copyright Office record to show that no renewal exists or that the release carried a notice. The release year is also disputed, which shifts the renewal window. Anyone who wants the print should search the Copyright Office records and the Catalog of Copyright Entries for both titles. The MST3K and Rhino/Shout Factory releases add protected riffs and host segments, so do not reuse those versions.",
+  "faq": [
+    [
+      "Is The Atomic Brain safe to reuse?",
+      "Not yet confirmed. The Internet Archive tags its copies as public domain, but I did not verify a missing renewal or notice in the Copyright Office records or the Catalog of Copyright Entries. Check both under The Atomic Brain and Monstrosity before relying on it."
+    ],
+    [
+      "Can I use the MST3K version?",
+      "No. The riffs, host segments and added material in the Mystery Science Theater 3000 episode are separate protected work, and the DVDs are Rhino and Shout Factory releases. Use a clean copy of the film itself, and only after the print's status is confirmed."
+    ]
+  ]
+}

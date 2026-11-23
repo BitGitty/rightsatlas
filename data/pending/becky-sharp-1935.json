@@ -1,0 +1,114 @@
+{
+  "id": "becky-sharp-1935",
+  "title": "Becky Sharp",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Jun 1962 (Vol 16 No 1-2). Only the opening part of the OCR text (front matter and early alphabetical entries, roughly the first 5%, up to about 'Bentley') was read. 'Becky Sharp', 'Pioneer Pictures' and 'RKO' did not appear in that part. The rest of the volume, including the motion-picture renewal section, was not searched, so no conclusion is drawn.",
+          "source": "Internet Archive, Catalog of Copyright Entries (OCR text)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1963 (Vol 17 No 1-2). Only the opening part of the OCR text (front matter and early alphabetical entries, roughly the first 4%) was read. 'Becky Sharp', 'Pioneer Pictures' and 'RKO' did not appear in that part. The rest of the volume, including the motion-picture renewal section, was not searched, so no conclusion is drawn.",
+          "source": "Internet Archive, Catalog of Copyright Entries (OCR text)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Jun 1964 (Vol 18 No 1-2). Only the opening part of the OCR text (front matter and early alphabetical entries, roughly the first 4%, up to about 'Bobb') was read. 'Becky Sharp', 'Pioneer Pictures' and 'RKO' did not appear in that part. The rest of the volume, including the motion-picture renewal section, was not searched, so no conclusion is drawn.",
+          "source": "Internet Archive, Catalog of Copyright Entries (OCR text)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. Wikipedia credits music to Roy Webb. We did not check whether the underlying music compositions were renewed, so this layer stays open.",
+          "source": "Wikipedia, Becky Sharp (film)",
+          "url": "https://en.wikipedia.org/wiki/Becky_Sharp_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film is based on Langdon Mitchell's 1899 play of the same name, which was based on Thackeray's 1848 novel Vanity Fair. We did not pull a primary record for the play's publication, so we mark this layer undetermined.",
+          "source": "Wikipedia, Becky Sharp (film)",
+          "url": "https://en.wikipedia.org/wiki/Becky_Sharp_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states that, beginning in the 1980s, the UCLA Film and Television Archive restored the film under archivist Robert Gitt, in stages: stage 1 completed in 1984, stage 2 around 1988 (Italian print elements for the last reel), stage 3 completed in 2002 (a Netherlands print improving picture and sound). We did not confirm any added material that would carry its own copyright.",
+          "source": "Wikipedia, Becky Sharp (film)",
+          "url": "https://en.wikipedia.org/wiki/Becky_Sharp_(film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": "Not established. We read only the opening part (roughly the first 4-5%, front matter and early alphabetical entries) of the OCR text of the Catalog of Copyright Entries, Motion Pictures and Filmstrips volumes for 1962, 1963 and 1964. 'Becky Sharp', 'Pioneer Pictures' and 'RKO' did not appear in that part. The motion-picture renewal sections were not searched, so absence of a renewal is unconfirmed. Use the DIY links to search each volume's OCR text.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1963, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/becky-sharp-1935-by-rouben-mamoulian",
+      "label": "Becky Sharp (1935), full feature",
+      "quality": "1080p MP4 upload"
+    }
+  ],
+  "editorial": "Becky Sharp (1935) is described by Wikipedia as the first feature film to use three-strip Technicolor throughout. Rouben Mamoulian directed it for Pioneer Pictures, and RKO Radio Pictures released it on June 13, 1935. It is based on Langdon Mitchell's 1899 play, which was based on Thackeray's 1848 novel Vanity Fair. A creator would want it as a landmark of colour cinema.\n\nThe rights question is the renewal, and it is not settled here. A US film from 1935 would have needed renewing around its 28th year, so we looked at the Catalog of Copyright Entries motion-picture volumes for 1962, 1963 and 1964. We read only the opening part of each volume's OCR text and did not search the renewal sections, so we cannot say whether a renewal exists. The Internet Archive upload's description says \"PD due to lack of copyright renewal\", but that is the uploader's claim, not our finding. The print is also only one layer. The Roy Webb score's underlying compositions were not checked separately. UCLA's restoration, done in stages from the 1980s to 2002, may differ from the unrestored copies in circulation. The provenance of the Internet Archive upload is unconfirmed: its file name suggests a Blu-ray source, but we have not verified that, or whether it is related to the UCLA restoration. Check which copy you are using and whether it adds anything beyond the 1935 film.",
+  "faq": [
+    [
+      "Is Becky Sharp (1935) free to reuse?",
+      "Not confirmed. We did not find a renewal in the part of the 1962-1964 Catalog of Copyright Entries volumes we read, but we did not search the renewal sections, so the film's status is undetermined. The score's underlying compositions, the restoration's added material and any character or title marks are separate layers we have not cleared. Search the catalog volumes yourself and check each layer before a commercial release."
+    ],
+    [
+      "Can I use the UCLA restoration?",
+      "A faithful restoration of a public-domain film adds no new US copyright. Anything the restorers added, such as new titles, new music or colour work beyond the original, could be protected. We did not confirm what UCLA's restoration adds, so compare it against an unrestored copy first."
+    ]
+  ]
+}
