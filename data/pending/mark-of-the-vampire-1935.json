@@ -1,0 +1,84 @@
+{
+  "id": "mark-of-the-vampire-1935",
+  "title": "Mark of the Vampire",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1962 (Vol 16 Nos 1-2, Parts 12-13), renewal listing: MARK OF THE VAMPIRE, a photoplay in six reels by Metro-Goldwyn-Mayer Corp., © 15Apr35, L5494. Renewed by Metro-Goldwyn-Mayer, Inc. (PWH) on 18Apr62, R293846. The 1935 date and MGM claimant match the Tod Browning film, so the print's copyright was renewed in its 28th year.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1962, archive.org",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track is part of the MGM feature, so it shares the print's renewed copyright (R293846). I did not find a separate status for the music.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1962, archive.org",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": "Renewal found, not absent: R293846, registered 18Apr62 by Metro-Goldwyn-Mayer, Inc., in the 1962 Catalog of Copyright Entries (Motion Pictures).",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Mark of the Vampire”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962, Motion Pictures (archive.org) — the renewal entry R293846",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/mark-of-the-vampire-1935_202609",
+      "label": "Mark of the Vampire (1935) — Internet Archive copy, ~60 min, 1080p. Hosted there, but not cleared as public domain.",
+      "quality": "1080p"
+    }
+  ],
+  "editorial": "Mark of the Vampire is Metro-Goldwyn-Mayer's 1935 horror feature, directed by Tod Browning. It stars Lionel Barrymore, Elizabeth Allan and Bela Lugosi as Count Mora. A creator might want it for the Browning and Lugosi pairing and for its Prague murder-and-vampire setting. Copies circulate widely online, which makes it look free to use.\n\nIt is not. MGM registered the film on 15 April 1935 (L5494) and renewed it on 18 April 1962 as a work made for hire (R293846). The renewal is listed in the 1962 Catalog of Copyright Entries. So the print is still under copyright, and an upload on Internet Archive does not change that. The recorded soundtrack belongs to the same copyrighted film. Clear any use of footage or audio with the current MGM rights holder.",
+  "faq": [
+    [
+      "Is Mark of the Vampire (1935) in the public domain in the US?",
+      "No. MGM renewed the copyright on 18 April 1962 (R293846), as listed in the 1962 Catalog of Copyright Entries. The print and its soundtrack are still protected. Internet Archive hosts copies, but that does not clear the rights."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy in my own video?",
+      "Not safely without a licence. The Internet Archive copy is the same renewed MGM film, so hosting there gives you no permission. Seek clearance from the rights holder. For a quick check, open the renewal entry cited here and confirm the title and MGM claimant."
+    ]
+  ]
+}

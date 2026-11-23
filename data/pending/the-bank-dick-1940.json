@@ -1,0 +1,66 @@
+{
+  "id": "the-bank-dick-1940",
+  "title": "The Bank Dick",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A script search suggested a 1967 renewal of this film by Universal in the Catalog of Copyright Entries. On 2026-11-23 I fetched the archive.org text of the Motion Pictures and Filmstrips volume. The fetch returned only part of the file, about 218,000 of roughly 914,000 characters. The parts read ran from the A entries through the B entries (including BANG BANG BANG, BANK HOLDUP and BARRACUDA) and on into later letters. I found no BANK DICK entry in those parts. The search of this volume is not complete. The text itself identifies the volume as January-June 1967, although the archive.org item page says Jan-Dec 1967. The 1968 volume has not been checked. The renewal, its number and date, and the original registration are all unconfirmed, and the status stays undetermined.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1967 (archive.org; text identifies it as Jan-Jun 1967)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968
+    ],
+    "negative_result": "Not confirmed either way. A renewal may exist. A 1940 film had to be renewed by the end of 1968, so the renewal window is 1967-1968. I read only part of the 1967 CCE Motion Pictures volume (about 218,000 of roughly 914,000 characters, covering A entries through the B entries and later letters) and found no BANK DICK entry in it. The search of that volume is incomplete. The 1968 volumes, the likeliest place for a renewal, have not been checked. No page or entry has been verified.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1967 Motion Pictures volume (text identifies it as Jan-Jun 1967); search it fully for a BANK DICK renewal entry, then check the 1968 volumes",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "US Copyright Office public records — covers 1978 and later records only, so it will not show a 1967-1968 renewal",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Bank Dick is a 1940 Universal comedy starring W.C. Fields. This dossier could not settle its US copyright status. A script search suggested the studio renewed the copyright in 1967. I read only part of the 1967 Catalog of Copyright Entries volume and found no entry there. The 1968 volumes have not been checked, so the renewal is unconfirmed either way.\n\nBeing online says nothing about the copyright. Until the renewal question is settled in the catalog volumes, do not treat the film as free to reuse. Clearing it means asking the likely rights holder, Universal. I did not verify the music, the story source, any trademarks or any restoration.",
+  "faq": [
+    [
+      "Is The Bank Dick in the public domain in the US?",
+      "Undetermined. A script search suggested a 1967 renewal by Universal. I read only part of the 1967 Catalog of Copyright Entries volume and found no entry, and I have not checked 1968. A free copy online does not change the copyright status either way."
+    ],
+    [
+      "Can I use clips from online copies of the film?",
+      "Treat any online copy as an unlicensed copy of a film whose status is unconfirmed. Reusing it needs permission from the rights holder, or a fair-use analysis for your own case. That analysis depends on your facts, and the copy's existence does not help it."
+    ]
+  ]
+}

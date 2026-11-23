@@ -1,0 +1,74 @@
+{
+  "id": "go-west-1940",
+  "title": "Go West",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1967 volume, lists the renewal: GO WEST, a photoplay in nine reels by Loew's, © 11Dec40, L10112, renewed by Metro-Goldwyn-Mayer, Inc. (PWH), December 1967, renewal no. R424634. The 1940 copyright was renewed in its 28th year, so the print is still under copyright.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1967, Vol 21",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The recorded soundtrack is part of the registered motion picture, so it shares the film's renewed status. No separate score copyright was researched.",
+          "source": "Derived from the renewal entry R424634",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1967 Motion Pictures volume (archive.org), contains the Go West renewal R424634",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Go West is the 1940 Marx Brothers feature that Loew's registered on 11 December 1940 as a nine-reel photoplay (L10112). A creator might want it for the Marx Brothers name, but the film is not available to reuse freely.\n\nThe rights trap is that the copyright was renewed. The 1967 Catalog of Copyright Entries lists Metro-Goldwyn-Mayer, Inc. as renewal claimant, as proprietor of a work made for hire, under R424634. Because the renewal was filed, the film remains under copyright. Copies on video sites do not change that. Clear rights with the current rights holder before using any footage.",
+  "faq": [
+    [
+      "Is Go West (1940) in the public domain in the US?",
+      "No. The 1940 copyright was renewed. The 1967 Catalog of Copyright Entries lists renewal R424634, filed by Metro-Goldwyn-Mayer, Inc. as proprietor of a work made for hire."
+    ],
+    [
+      "Can I use clips from an online copy of Go West?",
+      "Not without permission. The renewed copyright covers the film and its recorded soundtrack. An upload to a video or archive site does not remove the copyright, so license the clips from the rights holder."
+    ]
+  ]
+}
