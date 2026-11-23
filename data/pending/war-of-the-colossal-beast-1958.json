@@ -1,0 +1,67 @@
+{
+  "id": "war-of-the-colossal-beast-1958",
+  "title": "War of the Colossal Beast",
+  "year": 1958,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unconfirmed. A catalog hit suggested a 1986 renewal record, RE0000286136, but the record page at publicrecords.copyright.gov returned no readable text when fetched on 2026-11-24. The title, claimant, registration date and number are not verified. Confirm in the Copyright Office public records, or in the 1986 Catalog of Copyright Entries renewals volume for motion pictures, before treating the film as renewed.",
+          "source": "US Copyright Office Public Records (page returned no readable text)",
+          "url": "https://publicrecords.copyright.gov/detailed-record/RE0000286136"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1985,
+      1986,
+      1987
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records: search 'War of the Colossal Beast' and check any renewal record, including RE0000286136, which could not be read when fetched",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org): browse the Motion Pictures renewal-year volumes by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "War of the Colossal Beast is a 1958 US film. Its copyright status is unconfirmed. A catalog hit pointed to a possible 1986 renewal record, RE0000286136, but the record page could not be read, so the renewal, claimant and date are not verified. Until someone checks the Copyright Office record or the Catalog of Copyright Entries, treat the film as possibly in copyright. Clip or reuse it only under a license or a fair-use analysis. Uploaded ancillary items such as trailers or pressbooks do not clear the feature.",
+  "faq": [
+    [
+      "Is War of the Colossal Beast in the public domain?",
+      "Unconfirmed. A possible 1986 renewal record (RE0000286136) was suggested by a catalog hit, but its page could not be read, so it is not verified. Treat the film as possibly in copyright until the record is checked. Copies on video sites do not change that."
+    ],
+    [
+      "Can I use a trailer or pressbook from the Internet Archive?",
+      "An upload being online does not clear it. Trailers and pressbooks are separate items from the feature, and they give you no rights to the film itself. No specific archive.org item was checked for this dossier."
+    ]
+  ]
+}
