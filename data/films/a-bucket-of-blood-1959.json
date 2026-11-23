@@ -3,7 +3,7 @@
   "title": "A Bucket of Blood",
   "year": 1959,
   "country": "US",
-  "last_verified": "2026-11-08",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
@@ -11,9 +11,15 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Published in 1959, so public domain status would depend on a missing copyright notice or a missing renewal in the 1986-1988 window. I found no Catalog of Copyright Entries renewal entry and no document proving a renewal is absent. A web search for the title and Alta Vista Productions returned no renewal record, but a failed search does not prove absence. The Internet Archive items carry a Public Domain Mark 1.0 label on one upload and a CC0 licence URL on the other. Those are the uploaders' claims, not evidence.",
-          "source": "Internet Archive item metadata",
+          "note": "Published in 1959, so public domain status would depend on a missing copyright notice or a missing renewal in the 1986-1987 window. I did not check the Catalog of Copyright Entries renewal volumes or the Copyright Office public records this session, so there is no primary evidence either way. This Internet Archive item (a-bucket-of-blood-1959) shows the Public Domain Mark 1.0 licence URL, http://creativecommons.org/publicdomain/mark/1.0/. That is the uploader's claim, not evidence.",
+          "source": "Internet Archive item metadata, a-bucket-of-blood-1959",
           "url": "https://archive.org/details/a-bucket-of-blood-1959"
+        },
+        {
+          "type": "research_note",
+          "note": "This second Internet Archive item (BucketOfBlood720p1959) shows the CC0 1.0 Universal licence URL, http://creativecommons.org/publicdomain/zero/1.0/. That is also the uploader's claim, not evidence of copyright status.",
+          "source": "Internet Archive item metadata, BucketOfBlood720p1959",
+          "url": "https://archive.org/details/BucketOfBlood720p1959"
         }
       ]
     },
@@ -22,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Fred Katz is credited as composer. A sound film's recorded track normally shares the film's status, so the score likely follows the print, but the print status is itself unconfirmed. I found no separate music registration or renewal record.",
+          "note": "Wikipedia credits Fred Katz as composer. A sound film's recorded track normally shares the film's status, so the score likely follows the print, but the print status is itself unconfirmed. I did not check for a separate music registration or renewal.",
           "source": "Wikipedia, A Bucket of Blood",
           "url": "https://en.wikipedia.org/wiki/A_Bucket_of_Blood"
         }
@@ -33,7 +39,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Screenplay credited to Charles B. Griffith. I did not confirm whether it was an original work or whether a separate screenplay registration exists. The 1995 television remake and the later stage musicals are separate derivative works.",
+          "note": "Wikipedia credits the screenplay to Charles B. Griffith. I did not confirm whether it was an original work or whether a separate screenplay registration exists. The same Wikipedia article says the film was remade for television in 1995 and describes stage musical adaptations (Chicago's Annoyance Theatre in 2009, and La Mirada Theatre in 2023). Those are separate derivative works.",
           "source": "Wikipedia, A Bucket of Blood",
           "url": "https://en.wikipedia.org/wiki/A_Bucket_of_Blood"
         }
@@ -48,9 +54,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia reports an MGM Home Entertainment DVD release in 2000 with supplementary materials. I did not find a documented restoration. Any added material on a commercial disc could carry its own protection. The Internet Archive scan is described as an HD scan.",
-          "source": "Wikipedia, A Bucket of Blood",
-          "url": "https://en.wikipedia.org/wiki/A_Bucket_of_Blood"
+          "note": "I did not find a documented restoration. The a-bucket-of-blood-1959 Internet Archive item is described by its uploader as an HD 1080p scan. Any added material on a commercial release could carry its own protection.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/a-bucket-of-blood-1959"
         }
       ]
     }
@@ -58,46 +64,41 @@
   "renewal_search": {
     "renewal_years": [
       1986,
-      1987,
-      1988
+      1987
     ],
     "negative_result": null,
     "diy_links": [
       {
-        "label": "US Copyright Office public records (1978+) — search “A Bucket of Blood” (renewals ~1986, 1987, 1988)",
+        "label": "US Copyright Office public records (1978+) — search “A Bucket of Blood” (renewals ~1986, 1987)",
         "url": "https://publicrecords.copyright.gov/"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volumes for 1986 and 1987 by hand",
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
       }
     ]
   },
   "watch": [
     {
       "url": "https://archive.org/details/a-bucket-of-blood-1959",
-      "label": "A Bucket Of Blood (1959), high quality scan, about 65 min, 1280×720",
-      "quality": "720p"
+      "label": "A Bucket Of Blood (1959) High Quality Scan, American International Pictures",
+      "quality": "HD"
     },
     {
       "url": "https://archive.org/details/BucketOfBlood720p1959",
-      "label": "A Bucket of Blood (Alta Vista Productions, 1959)",
+      "label": "A Bucket of Blood (Alta Vista Productions, 1959), about 65 min",
       "quality": "720p"
     }
   ],
-  "editorial": "A Bucket of Blood is Roger Corman's 1959 black comedy about Walter Paisley, a talentless busboy at a bohemian café who becomes an acclaimed sculptor after covering his landlady's dead cat in plaster, then keeps producing sculptures by increasingly sinister means. Dick Miller plays the lead, Charles B. Griffith wrote the screenplay, Fred Katz composed the score, and American International Pictures distributed it. Internet Archive describes it as shot quickly on leftover sets that were reused for The Little Shop of Horrors.\n\nThe rights trap is that the copyright status is unconfirmed. The film was published in 1959, so a renewal was due in 1986 to 1988. I found neither a renewal record nor a record proving none exists. The Internet Archive labels and Wikipedia's public-domain listing are not primary sources. Before commercial reuse, search the Copyright Office public records and the CCE renewal volumes yourself. The 1995 TV remake and the stage musicals are separate works with their own rights, and a commercial DVD such as MGM's 2000 release may add protected material.",
+  "editorial": "A Bucket of Blood is Roger Corman's 1959 black comedy about a dim-witted busboy who finds acclaim as an artist when a plaster-covered dead cat is mistaken for a skillful statuette, then keeps producing 'sculptures' by increasingly deadly means. Dick Miller, Barboura Morris and Antony Carbone star, Charles B. Griffith wrote the screenplay, Fred Katz composed the score, Alta Vista Productions made it and American International Pictures distributed it. The uploader's description on one Internet Archive scan says it was shot in a few days on leftover sets from Diary of a High-School Bride, and that the same sets were used a few days later for The Little Shop of Horrors.\n\nThe rights trap is that the copyright status is unconfirmed. The film was published in 1959, so a renewal was due in 1986 or 1987, and I did not verify either a renewal or its absence in primary records. The Internet Archive's Public Domain Mark (one item) and CC0 label (the other item) are uploader claims. Before commercial reuse, search the Copyright Office public records and the CCE renewal volumes for 1986 and 1987 yourself. The 1995 TV remake and the stage musicals described on Wikipedia are separate works with their own rights.",
   "faq": [
     [
       "Is A Bucket of Blood in the public domain?",
-      "Unconfirmed. The Internet Archive labels its copies Public Domain Mark or CC0 and Wikipedia lists the film as public domain. I found no primary record showing a missing notice or a missing renewal. Check the Copyright Office public records and the CCE renewal volumes for 1986-1988 before relying on it."
+      "Unconfirmed. One Internet Archive item is labelled Public Domain Mark and another is labelled CC0, but those are uploader labels. I did not verify a missing notice or a missing renewal in primary records. Check the Copyright Office public records and the CCE renewal volumes for 1986-1987 before relying on it."
     ],
     [
       "Can I use the Internet Archive copy in a commercial project?",
-      "Not safely until the renewal check is done. The upload's public-domain label is the uploader's claim. The 1995 remake and the stage adaptations are separate copyrighted works and are not covered by the original film's status."
+      "Not safely until the renewal check is done. The upload's public-domain label is the uploader's claim. The 1995 TV remake and the stage adaptations are separate works and are not covered by the original film's status."
     ]
   ]
 }

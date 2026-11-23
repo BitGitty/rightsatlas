@@ -666,3 +666,6 @@
 {"date": "2026-11-23", "id": "the-black-sleep-1956", "result": "queued", "reasons": []}
 {"date": "2026-11-23", "id": "the-amazing-transparent-man-1960", "result": "deferred", "reasons": ["machine: That background agent was a stray no-op I launched by mistake. It did nothing and changed nothing.\n\nThe dossier above stands as my final answer. Its main limit is that the print layer is `undetermined"]}
 {"date": "2026-11-23", "id": "night-tide-1961", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "doa-1950", "result": "refreshed", "reasons": []}
+{"date": "2026-11-23", "id": "a-bucket-of-blood-1959", "result": "refreshed", "reasons": []}
+{"date": "2026-11-23", "id": "captain-blood-1935", "result": "refreshed", "reasons": []}

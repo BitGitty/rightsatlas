@@ -3,7 +3,7 @@
   "title": "D.O.A.",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-11-07",
+  "last_verified": "2026-11-23",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Public Domain Review says D.O.A. is in the US public domain 'due to an error related to the renewal of the copyright.' This is a secondary source. I could not open the Catalog of Copyright Entries renewal volumes or the Copyright Office public catalog to confirm that no renewal exists, so the print is not marked verified_pd.",
+          "note": "The Public Domain Review says the film is in the US public domain 'due to an error related to the renewal of the copyright.' Wikipedia says similarly that a filing error left the copyright unrenewed. Both are secondary sources. I did not open a renewal volume of the Catalog of Copyright Entries or the Copyright Office public catalog to confirm that no renewal exists, so the print is not marked verified_pd. For the registration side, the Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1950 is on archive.org as catalogofcopyri341213libr. For the renewal side, a 1950 film's renewal window ran through 1977 and 1978. The Catalog of Copyright Entries, Fourth Series, Part 8, Renewals, Jan-June 1978 is on archive.org as catalogofcopyrig18libr. I did not locate the Jul-Dec 1978 renewal volume or the 1977 renewal volumes on archive.org, so those still need to be found and searched.",
           "source": "The Public Domain Review",
           "url": "https://publicdomainreview.org/collection/d-o-a-1950"
         }
@@ -22,9 +22,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "I did not check who composed the score or whether the music was separately registered or renewed. A sound film's recorded track normally shares the film's own status, but this is unconfirmed here.",
-          "source": "The Public Domain Review",
-          "url": "https://publicdomainreview.org/collection/d-o-a-1950"
+          "note": "Wikipedia credits the music to Dimitri Tiomkin. I did not check whether the score was separately registered or renewed. A sound film's recorded track normally shares the film's own status, but that is unconfirmed here.",
+          "source": "Wikipedia, D.O.A. (1950 film)",
+          "url": "https://en.wikipedia.org/wiki/D.O.A._(1950_film)"
         }
       ]
     },
@@ -33,9 +33,9 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "I did not confirm the screenplay credits or whether the film was based on an earlier published work, so the story layer is unresolved.",
-          "source": "The Public Domain Review",
-          "url": "https://publicdomainreview.org/collection/d-o-a-1950"
+          "note": "Wikipedia credits the screenplay to Russell Rouse and Clarence Greene and mentions no earlier source work. I did not confirm the absence of an underlying published work or check the screenplay's own registration or renewal, so the story layer is unresolved.",
+          "source": "Wikipedia, D.O.A. (1950 film)",
+          "url": "https://en.wikipedia.org/wiki/D.O.A._(1950_film)"
         }
       ]
     },
@@ -51,14 +51,17 @@
   "renewal_search": {
     "renewal_years": [
       1977,
-      1978,
-      1979
+      1978
     ],
     "negative_result": null,
     "diy_links": [
       {
-        "label": "Catalog of Copyright Entries motion-picture volumes (archive.org, pre-1978) and US Copyright Office public records (1978+) — search “D.O.A.” (renewals ~1977, 1978, 1979)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        "label": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1950 (registration, archive.org)",
+        "url": "https://archive.org/details/catalogofcopyri341213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Fourth Series, Part 8, Renewals, Jan-June 1978 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig18libr"
       },
       {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
@@ -70,18 +73,18 @@
     {
       "url": "https://archive.org/details/DOA1950",
       "label": "D.O.A. (1950) on the Internet Archive",
-      "quality": "Metadata confirms the title and year. It is a community upload of an MP4 about 83 minutes long at 640x480. The source of the print is not stated."
+      "quality": "Metadata gives the title as 'D.O.A. ( 1950)' and a runtime of about 83 minutes. Files include an MP4 at 640x480 and an Ogg video at 400x300. The description field reads only 'NA', so the source of the print is not stated."
     }
   ],
-  "editorial": "D.O.A. is a 1950 film noir directed by Rudolph Maté, who had been nominated for the Academy Award for Best Cinematography five years in a row in the 1940s. A poisoned man walks into a police station to report his own murder, then spends the rest of the film finding out who did it. Creators reuse it for clips, remixes and noir-themed edits.\n\nThe Public Domain Review says the film is in the US public domain because of an error in renewing its copyright. That is a secondary claim. This dossier could not check the renewal records themselves, so the print stays undetermined until someone searches the Catalog of Copyright Entries motion-picture volumes and the US Copyright Office's public records. The rights trap is the layers beyond the picture. The music and the underlying screenplay were not checked and may carry their own registrations. Any restored or re-scored release may also add protected material. Check each of those before commercial reuse.",
+  "editorial": "D.O.A. is a 1950 film noir directed by Rudolph Maté, who had been nominated for the Academy Award for Best Cinematography five years in a row in the 1940s. A poisoned man walks into a police station to report his own murder, and the opening is a long tracking shot down the station corridor. Harry Popkin Productions and Cardinal Pictures made it, and United Artists distributed it.\n\nThe Public Domain Review says the film is in the US public domain because of an error in renewing its copyright. That is a secondary claim. This dossier did not check the renewal records themselves, so the print stays undetermined until someone searches the 1977 and 1978 renewal records of the Catalog of Copyright Entries and the Copyright Office public records. The rights trap is the layers beyond the picture. Dimitri Tiomkin's score and the Rouse and Greene screenplay were not checked and may carry their own registrations. D.O.A. has also been remade several times, and any remake or modern re-release adds its own protected material.",
   "faq": [
     [
       "Is D.O.A. (1950) free to reuse?",
-      "The Public Domain Review says its copyright lapsed through a renewal error. This dossier could not confirm that in the primary renewal records, so search the Catalog of Copyright Entries motion-picture volumes and the US Copyright Office's public records yourself before relying on it. The music, the story and any modern restoration should be checked separately."
+      "The Public Domain Review says its copyright lapsed through a renewal error. This dossier could not confirm that in the primary renewal records. Search the 1977 and 1978 renewal records of the Catalog of Copyright Entries and the US Copyright Office public records yourself before relying on it. Check the music and the story separately. Do not use the later remakes."
     ],
     [
       "Where can I watch or download a copy?",
-      "The Internet Archive has an item at https://archive.org/details/DOA1950. It is a community upload, and its metadata confirms the title and year. The source and quality of that print were not verified. A restored release may include added material, such as new titles or a new score, that is protected separately."
+      "The Internet Archive has an item at https://archive.org/details/DOA1950, about 83 minutes long. Its description field reads only 'NA', so the print's source and quality are unverified. Any version with added titles, a new score or other new material may carry protection for those additions."
     ]
   ]
 }
