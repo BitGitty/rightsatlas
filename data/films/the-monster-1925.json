@@ -17,7 +17,7 @@
         },
         {
           "type": "cce_renewal_entry",
-          "note": "The copyright was in fact renewed: Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1953 (archive.org, searched directly): 'THE MONSTER, a photoplay in seven reels by Metro-Goldwyn Pictures Corp. (c) 9Mar25, L21216. R106670, 3Feb53, Loew's Incorporated. (PWH)'. This does not change the outcome: a renewed 1925 work still tops out at the same 95-year ceiling, which expired 1 January 2021 regardless.",
+          "note": "The copyright was in fact renewed: Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1953 (archive.org): 'THE MONSTER, a photoplay in seven reels by Metro-Goldwyn Pictures Corp. (c) 9Mar25, L21216. R106670, 3Feb53, Loew's Incorporated. (PWH)'. This does not change the outcome: a renewed 1925 work still tops out at the same 95-year ceiling, which expired 1 January 2021 regardless.",
           "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1953 (archive.org)",
           "url": "https://archive.org/details/catalogofcopyrig371213lib"
         }
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording and may be protected. Wikipedia's film page says Turner Classic Movies has shown it with an alternative, uncredited musical score. Check the source of the soundtrack on any copy you use."
+          "note": "The film is silent. The images are free, but any music on a modern copy is a separate work or recording and may be protected. Wikipedia's film page says the film has been shown on the TCM network with an alternative and uncredited musical score. Check the source of the soundtrack on any copy you use."
         }
       ]
     },
@@ -55,7 +55,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "No dedicated modern restoration was confirmed. The Wikipedia film page mentions only a Turner Classic Movies presentation with an alternative, uncredited score. A faithful copy adds no new US copyright, but a new score or added titles on a restored copy would be separately protected."
+          "note": "No dedicated modern restoration was confirmed. The Wikipedia film page mentions only a TCM presentation with an alternative, uncredited score. A faithful copy adds no new US copyright, but a new score or added titles on a restored copy would be separately protected."
         }
       ]
     }
@@ -66,7 +66,7 @@
       1953,
       1954
     ],
-    "negative_result": "Not negative: the CCE 1953 motion-pictures volume shows the film WAS renewed (R106670, 3Feb53, Loew's Incorporated) — see print layer evidence. Does not affect the verdict: the 95-year ceiling for a renewed 1925 work expired 1 January 2021 regardless.",
+    "negative_result": "Not negative: the CCE 1953 motion-pictures volume shows the film WAS renewed (R106670, 3Feb53, Loew's Incorporated), see print layer evidence. Does not affect the verdict: the 95-year ceiling for a renewed 1925 work expired 1 January 2021 regardless.",
     "diy_links": []
   },
   "watch": [
@@ -76,7 +76,7 @@
       "quality": "Internet Archive silent-era print; check the copy for added music before reuse"
     }
   ],
-  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and starring Lon Chaney as Dr. Gustave Ziska. Johnny Arthur plays Johnny Goodlittle, an amateur detective, with Gertrude Olmstead and Hallam Cooley in support. It was produced by Roland West Productions and Tec-Art and distributed by Metro-Goldwyn Pictures. A creator would want it for the Chaney performance and its mix of laughs and thrills.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications expired at the end of 2020. The trap is the layers around the print. Any score on a modern copy is a separate work. The film adapts Crane Wilbur's 1922 stage play, and whether that play was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
+  "editorial": "The Monster is a 1925 American silent horror-comedy directed by Roland West and starring Lon Chaney as Dr. Gustave Ziska. Johnny Arthur plays Johnny Goodlittle, an amateur detective, with Gertrude Olmstead and Hallam Cooley in support. It was distributed by Metro-Goldwyn Pictures. A creator would want it for the Chaney performance and its mix of laughs and thrills.\n\nThe film print is in the US public domain because the 95-year term for 1925 publications expired at the end of 2020, even though the copyright was renewed in 1953 by Loew's Incorporated. The trap is the layers around the print. Any score on a modern copy is a separate work. The film adapts Crane Wilbur's 1922 stage play, and whether that play was published, and so when its term ends, was not confirmed. Check the play before you adapt the story rather than just reusing the film.",
   "faq": [
     [
       "Can I use footage from The Monster (1925) in my own video?",

@@ -675,3 +675,5 @@
 {"date": "2026-11-23", "id": "horse-feathers-1932", "result": "blocked", "reasons": ["refresh has less evidence (1) than the live page (2)"]}
 {"date": "2026-11-23", "id": "house-on-haunted-hill-1959", "result": "refreshed", "reasons": []}
 {"date": "2026-11-23", "id": "of-human-bondage-1934", "result": "blocked", "reasons": ["print verified_pd but its evidence cites a renewal that exists — whether that renewal is invalid is a human call, not a verified fact", "dead evidence link https://web.law.duke.edu/cspd/publicdomainday/2026/"]}
+{"date": "2026-11-23", "id": "of-human-bondage-1934", "result": "blocked", "reasons": ["of-human-bondage-1934: bad status 'unverified' on print"]}
+{"date": "2026-11-23", "id": "the-monster-1925", "result": "refreshed", "reasons": []}
