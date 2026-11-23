@@ -698,3 +698,6 @@
 {"date": "2026-11-23", "id": "the-strange-love-of-martha-ivers-1946", "result": "queued", "reasons": []}
 {"date": "2026-11-23", "id": "the-skydivers-1963", "result": "queued", "reasons": []}
 {"date": "2026-11-23", "id": "captain-america-1944", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "the-woman-in-the-window-1944", "result": "blocked", "reasons": ["fact-check: renewal_search.negative_result, renewal_search.diy_links[0].label, editorial: These say the Copyright Office online records cover only 1978 and later and so cannot show a 1972 renewal. The Office has digitized its pre-1978 card catalog (the Virtual Card Catalog in the Copyright Public Records System), and that covers pre-1978 registrations and renewals. I recalled this from memory and did not re-check it with a search. -> Say the 1978+ searchable database does not cover 1972, but the digitized pre-1978 card catalog at publicrecords.copyright.gov may. Also link the 1972 Catalog of Copyright Entries renewal volumes, and ask the Office for a search if needed."]}
+{"date": "2026-11-23", "id": "the-giant-spider-invasion-1975", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "waterloo-bridge-1931", "result": "queued", "reasons": []}

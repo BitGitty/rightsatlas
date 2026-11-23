@@ -1,0 +1,89 @@
+{
+  "id": "the-giant-spider-invasion-1975",
+  "title": "The Giant Spider Invasion",
+  "year": 1975,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published in 1975. The renewal-absence route in the queue row does not apply to a work first published between 1964 and 1977: under 17 U.S.C. 304(a) a work with a valid notice was renewed automatically, so a missing renewal filing in 2002-2004 would not free it. Only a missing or defective copyright notice on the released prints could. That has not been checked against a print, so the status stays undetermined.",
+          "source": "US Copyright Office, Circular 15A (duration of copyright)",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film's recorded track normally follows the film's own copyright status, so the score is undetermined for the same reason as the print. No separate music copyright research was done.",
+          "source": "RightsAtlas analysis",
+          "url": "https://www.copyright.gov/circs/circ15a.pdf"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      2002,
+      2003,
+      2004
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Giant Spider Invasion”, ~2002, 2003, 2004)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/giantspiderinvasion1975",
+      "label": "Giant Spider Invasion 1975 (Internet Archive upload; the item page gives only the description \"spider\")",
+      "quality": "unknown; the item page has no source or copyright information"
+    },
+    {
+      "url": "https://archive.org/details/the-giant-spider-invasion-1975-8mm-version-a-3-t-01",
+      "label": "The Giant Spider Invasion (1975), 8mm digest version, a shortened cut for home projectors",
+      "quality": "shortened 8mm digest, not the full feature"
+    }
+  ],
+  "editorial": "The Giant Spider Invasion is a Bill Rebane monster picture. According to Wikipedia (https://en.wikipedia.org/wiki/The_Giant_Spider_Invasion), it was filmed in Gleason, Tomahawk and Merrill, Wisconsin, in six weeks on a $300,000 budget. Wikipedia gives an October 1975 release by Group 1 International Distribution Organization, with Transcentury Pictures and Cinema Group 75 credited on the production side. Other catalogs may date the film differently. The cast includes Steve Brodie, Barbara Hale, Robert Easton, Leslie Parrish and Alan Hale Jr. It is cheap, well-known drive-in material, so it is attractive for clips, riffs and horror compilations.\n\nThe rights trap is the queue's \"renewal absence\" label, which does not fit this film. A 1975 release did not need a renewal filing, because the law renewed it automatically if the notice was valid. Missing entries in the 2002-2004 renewal records therefore prove nothing. Many copies circulate on the Internet Archive, but being hosted there is not a rights finding. Until someone checks a release print for a valid copyright notice, treat the film as protected. Clearing the print also would not clear the score or the screenplay.",
+  "faq": [
+    [
+      "Does the lack of a renewal record make The Giant Spider Invasion public domain?",
+      "No. A film first published in 1975 was renewed automatically if its notice was valid, so a missing renewal entry proves nothing. The only open question is whether the 1975 release prints carried a valid copyright notice, and that has not been verified."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "Not on the strength of the upload alone. The item pages we checked give no source and no copyright information. The 8mm item is a shortened digest cut, not the feature. Confirm the notice status of the release before reusing any footage."
+    ]
+  ]
+}

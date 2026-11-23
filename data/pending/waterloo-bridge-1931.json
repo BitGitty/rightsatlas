@@ -1,0 +1,85 @@
+{
+  "id": "waterloo-bridge-1931",
+  "title": "Waterloo Bridge",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1931, so public domain here depends on a missing renewal. The 28th-year renewal window was 1958-1959. I could not confirm that no Universal renewal exists: the 1958 Catalog of Copyright Entries volume (archive.org/details/catalogofcopyrig3121213li) was not read, and the 1959 volume (archive.org/details/catalogofcopyrig3131213li) was only partly read. The Copyright Office public records site returned no searchable results.",
+          "source": "Internet Archive, Catalog of Copyright Entries, Jan-Dec 1959",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a 1931 sound film. The recorded track would normally share the print's status, so it stays undetermined until the renewal question is settled.",
+          "source": "RightsAtlas analysis",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Robert E. Sherwood's play Waterloo Bridge, which opened on Broadway on January 6, 1930. The screenplay is credited to Benn Levy and Tom Reed. I did not confirm the play's copyright or renewal record, so the source layer is not marked free.",
+          "source": "Wikipedia, Waterloo Bridge (play) and Waterloo Bridge (1931 film), used as pointers only",
+          "url": "https://en.wikipedia.org/wiki/Waterloo_Bridge_(play)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Waterloo Bridge”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1958 (archive.org) — Motion Pictures, renewals",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1959 (archive.org) — Motion Pictures, renewals",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Waterloo Bridge (Universal, released September 4, 1931) was directed by James Whale and produced by Carl Laemmle Jr. Mae Clarke plays Myra, Douglass Montgomery (credited as Kent Douglass) plays Roy, and Bette Davis has a small part as Janet Cronin. It adapts Robert E. Sherwood's 1930 Broadway play. It is the earliest of three screen versions, which makes it a natural pick for anyone covering Whale's pre-Frankenstein-era work or the history of the story.\n\nThe open question is the print. A 1931 film is free only if its copyright was not renewed in the 1958-59 window, and I could not confirm that either way. The later MGM versions of 1940 and 1956 are separate works under separate rights. Do not assume they are free because this one might be. Check the 1958 and 1959 Catalog of Copyright Entries volumes yourself before relying on it.",
+  "faq": [
+    [
+      "Is the 1931 Waterloo Bridge free to use?",
+      "Not confirmed. A 1931 film is free in the US only if its 28-year renewal was never filed. I could not verify that no Universal renewal was filed in 1958-59, so check the Catalog of Copyright Entries volumes linked above before using it."
+    ],
+    [
+      "Does the 1940 Vivien Leigh version share the same status?",
+      "No. The 1940 MGM film and the 1956 remake are separate works with their own copyright histories. Wikipedia says rights to all three versions are now held by Warner Bros. and Turner Entertainment, so treat them as separate clearances."
+    ]
+  ]
+}
