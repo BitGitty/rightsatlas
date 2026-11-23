@@ -1,0 +1,98 @@
+{
+  "id": "night-tide-1961",
+  "title": "Night Tide",
+  "year": 1961,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No Catalog of Copyright Entries renewal volume or Copyright Office record could be fetched in this session, so non-renewal of the film itself is unproven. The queue row's heuristic suggests renewal is likely absent, but that is not a citation.",
+          "source": "RightsAtlas queue row",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits David Raksin as the film's composer (music by) and lists Jimmy Bond only as an uncredited jazz bassist in the cast, so a Jimmy Bond music renewal may not be this film's score.",
+          "source": "Wikipedia, Night Tide",
+          "url": "https://en.wikipedia.org/wiki/Night_Tide"
+        },
+        {
+          "type": "research_note",
+          "note": "The queue script found a 1989 renewal entry RE0000418480 for a musical work titled 'Night tide', music by Jimmy Bond (claimant Jimmy Bond). I could not fetch the record to confirm it is this film's score, so the match is uncertain. If it is the film's score, the composition is renewed and protected separately from the print.",
+          "source": "RightsAtlas queue row renewal_hits_already_found",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film was filmed in 1960, premiered at the Spoleto Film Festival in Italy in July 1961, features Dennis Hopper in his first starring role, took its title from lines in Poe's 'Annabel Lee', was held up from general release until 1963, and opened in the United States in Detroit on February 13, 1963 through American International Pictures.",
+          "source": "Wikipedia, Night Tide",
+          "url": "https://en.wikipedia.org/wiki/Night_Tide"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1988,
+      1989,
+      1990,
+      1991
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Night Tide”, renewal years 1988 to 1991)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/night-tide-1961",
+      "label": "Night Tide (1961) on the Internet Archive",
+      "quality": "unverified copy; Archive metadata lists Curtis Harrington as creator"
+    }
+  ],
+  "editorial": "Night Tide is Curtis Harrington's independent fantasy feature, filmed in 1960 and premiered at the Spoleto Film Festival in July 1961, with Dennis Hopper in his first starring role. Its title was inspired by lines from Edgar Allan Poe's poem 'Annabel Lee'. According to Wikipedia, it was held up from general release until 1963, when American International Pictures released it in the United States.\n\nPublication year is unsettled: the 1961 festival premiere and the 1963 general release could each count, so this dossier searches renewal years for both (1988 and 1989 for 1961; 1990 and 1991 for 1963).\n\nThe trap is the music. A 1989 Copyright Office renewal entry (RE0000418480) lists a musical work called 'Night tide' by Jimmy Bond. I could not confirm that it is this film's score, and Wikipedia credits David Raksin as the film's composer. Check the Copyright Office record for any music, and for the film itself, before reusing the soundtrack or relying on any Internet Archive copy.",
+  "faq": [
+    [
+      "Is Night Tide in the public domain?",
+      "Not established. I could not confirm from a primary record that the film's copyright went unrenewed, so treat the print as undetermined until you have searched the Copyright Office catalog and the 1988 to 1991 renewal volumes."
+    ],
+    [
+      "Can I reuse the Night Tide soundtrack?",
+      "Not safely. A 1989 renewal entry for a musical work titled 'Night tide' by Jimmy Bond exists, but I did not verify that it matches the film's score, and Wikipedia credits a different composer. Clear the music separately from the picture."
+    ]
+  ]
+}

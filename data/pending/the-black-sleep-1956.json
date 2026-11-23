@@ -1,0 +1,90 @@
+{
+  "id": "the-black-sleep-1956",
+  "title": "The Black Sleep",
+  "year": 1956,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1956 registration volume exists on archive.org (Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1956). I did not read it for this title. I could not locate the 1983-1984 renewal-year volumes. I could not run a publicrecords.copyright.gov search in this session. Renewal absence is therefore unproven. The queue's 'renewal_absent_likely' flag is a hint only, not a finding.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips 1956 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3101213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is a sound feature, so its recorded track normally shares the film's copyright status. The composer and any separate music rights were not confirmed.",
+          "source": "research note",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The source of the screenplay and its publication history were not confirmed in this session.",
+          "source": "research note",
+          "url": ""
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1983,
+      1984
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Black Sleep”, ~1983, 1984)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-black-sleep-1956-basil-rathbone-lon-chaney-jr-john-carradine-bela-lugosi",
+      "label": "The Black Sleep (1956) full feature, Internet Archive",
+      "quality": "Black-and-white, English; the Archive copy runs about 83 min (the film's standard running time is about 81-82 min)"
+    }
+  ],
+  "editorial": "The Black Sleep is a black-and-white 1956 horror film of about 82 minutes, directed by Reginald LeBorg. It has Basil Rathbone, Akim Tamiroff, Lon Chaney Jr., John Carradine and Bela Lugosi in the cast. A creator would want it for the cast alone, since several well-known horror actors appear together. A copy is listed on the Internet Archive.\n\nThe rights trap is that the print's status is not settled. A 1956 film is free only if its notice was missing or its 28th-year renewal was never filed. Here that renewal window was 1983-1984. I did not confirm either point. Until someone searches the Copyright Office records for a renewal, treat the film as possibly still protected. Do not assume a free copy online is cleared. The score and the underlying story are also unchecked.",
+  "faq": [
+    [
+      "Is The Black Sleep (1956) safe to reuse in my video?",
+      "Not yet. The print's renewal status is unconfirmed, because the Copyright Office renewal search for 1983-1984 has not been run. Search publicrecords.copyright.gov for the title before you use it. If a renewal turns up, the film is still under copyright."
+    ],
+    [
+      "Does an Internet Archive copy mean the film is free to use?",
+      "No. Hosting a film on the Internet Archive does not clear its rights. Clear the print's renewal status, the score and the story separately."
+    ]
+  ]
+}
