@@ -1,0 +1,101 @@
+{
+  "id": "maniac-1934",
+  "title": "Maniac",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film states it is in the public domain, but that is a secondary claim and not a renewal search. The 1961 and 1962 Catalog of Copyright Entries Motion Pictures volumes (the 28th-year renewal window for a 1934 release) were opened on archive.org. Only a small part of each text could be read, so no complete check for a Maniac or Dwain Esper renewal was done. Treated as unconfirmed until a full read or a Copyright Office check is done.",
+          "source": "Wikipedia, Maniac (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Maniac_(1934_film)"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1961, Vol 15. Partially read, no Maniac entry seen in the portion read.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1962, Vol 16. Partially read, no Maniac entry seen in the portion read.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the short story says 'The Black Cat' was first published in the August 19, 1843, issue of The Saturday Evening Post (then temporarily titled United States Saturday Post). A story published in 1843 is long out of copyright in the US.",
+          "source": "Wikipedia, The Black Cat (short story)",
+          "url": "https://en.wikipedia.org/wiki/The_Black_Cat_(short_story)"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia describes the film as a loose adaptation of Edgar Allan Poe's story 'The Black Cat', with references to 'Murders in the Rue Morgue'. This source supports the adaptation link only, not the publication date.",
+          "source": "Wikipedia, Maniac (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Maniac_(1934_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962
+    ],
+    "negative_result": "Not confirmed. The 1961 and 1962 Catalog of Copyright Entries Motion Pictures volumes were opened on archive.org, but only a small part of each text could be read. No Maniac or Dwain Esper renewal was seen in that part. The Copyright Office public catalog was not searched. Do not rely on this as proof of non-renewal.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search “Maniac”, 1961 and 1962; optionally 1963 for late filings)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1961 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1962 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Maniac1934",
+      "label": "Maniac (1934), Internet Archive",
+      "quality": "Internet Archive upload, creator listed as Dwain Esper, date 1934; MPEG4 (H.264) and Ogg Video files"
+    }
+  ],
+  "editorial": "Maniac is a 1934 exploitation horror film directed by Dwain Esper and released on September 11, 1934. It loosely adapts Edgar Allan Poe's 'The Black Cat' with nods to 'Murders in the Rue Morgue'. The cast includes Bill Woods, Horace B. Carpenter and Ted Edwards. The Internet Archive item description opens with the words \"Notorious film from early exploitation king Dwain Esper\". For a reuser it is a cheap, lurid and widely circulated title.\n\nThe rights trap is the print itself. Wikipedia states it is in the public domain, but that has not been confirmed by a renewal search here. I could not complete a full search of the 1961 and 1962 renewal volumes, and I did not search the Copyright Office catalog. Check both before relying on it. The Poe source is not a problem. Separately, any colourised copies or copies with rebuilt title cards were not checked, and added material like that can carry its own rights.",
+  "faq": [
+    [
+      "Can I use the Internet Archive copy of Maniac in my own video?",
+      "Not safely yet. Wikipedia calls the film public domain, but the renewal check done here was incomplete, so confirm the renewal volumes and the Copyright Office record first. Use a plain, unaltered copy so you avoid any added material."
+    ],
+    [
+      "Does the Poe source affect the rights?",
+      "No. The film is based on Poe's 1843 story 'The Black Cat', which is long out of copyright in the US. Any rights question is about the 1934 film, not its source."
+    ]
+  ]
+}

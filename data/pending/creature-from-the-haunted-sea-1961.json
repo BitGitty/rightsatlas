@@ -1,0 +1,91 @@
+{
+  "id": "creature-from-the-haunted-sea-1961",
+  "title": "Creature from the Haunted Sea",
+  "year": 1961,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal record has been located or ruled out. The 28th-year renewal window is 1988-1989, which falls after the Catalog of Copyright Entries print volumes, so only the Copyright Office public catalog can settle it. That search was not run in this session. An Internet Archive uploader labels a copy 'Public Domain Mark 1.0', but that is the uploader's claim, not a copyright record.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/creature-from-the-haunted-sea-1961-pd-with-cartoon"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded music track normally shares the print's status. It cannot be cleared until the print's renewal status is settled. Cue-level music ownership was not checked.",
+          "source": "Analysis of the film's sound track",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive description presents the story as a criminals-fleeing-Cuba-with-stolen-gold plot with a rumored sea monster. A source work was not identified, so no inherited term can be assessed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/creature-from-the-haunted-sea-1961-pd-with-cartoon"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1988,
+      1989,
+      1990
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Creature from the Haunted Sea”, ~1988, 1989, 1990)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/creature-from-the-haunted-sea-1961-pd-with-cartoon",
+      "label": "Creature from the Haunted Sea (1961) — Internet Archive, with a vintage cartoon",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Creature from the Haunted Sea is a low-budget 1961 horror-comedy directed by Roger Corman. A gang of criminals flees Cuba with stolen gold, and rumors of a sea monster spread as the crew disappears one by one. Its short running time and comic tone have kept it circulating on cheap-movie programs and online archives for decades. Creators like it for riffing, commentary and compilation work.\n\nThe rights question is not settled in this dossier. The film's renewal window was 1988-1989. Renewals from that period are not in the printed Catalog of Copyright Entries, so only a Copyright Office public-catalog search can show whether one was filed. That search has not been run here. Internet Archive copies labeled public domain reflect the uploader's judgment, not a copyright record. Check the Copyright Office record before relying on any copy.",
+  "faq": [
+    [
+      "Can I reuse Creature from the Haunted Sea?",
+      "Not yet with confidence. No renewal record was found or ruled out, and the print's status is undetermined. Search the Copyright Office public catalog for a 1988-1989 renewal first. If none exists, the print is likely free, though the film's music and any added material on a particular copy still need separate checking."
+    ],
+    [
+      "Does an Internet Archive 'Public Domain' label settle it?",
+      "No. The label is set by whoever uploaded the copy and is not a copyright record. Use it to find a watchable copy, then confirm the status yourself against the Copyright Office catalog."
+    ]
+  ]
+}

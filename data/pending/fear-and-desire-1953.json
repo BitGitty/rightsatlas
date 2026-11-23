@@ -1,0 +1,93 @@
+{
+  "id": "fear-and-desire-1953",
+  "title": "Fear and Desire",
+  "year": 1953,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film's copyright lapsed. Its cited source for that is a 1994 NPR piece, not a registration or renewal record. The Internet Archive item carries a Public Domain Mark 1.0 set by the uploader. Neither is primary proof of status. No search of the Catalog of Copyright Entries or the Copyright Office public catalog was done for this dossier, so no non-renewal or missing-notice record is confirmed. The print stays undetermined.",
+          "source": "Wikipedia, Fear and Desire",
+          "url": "https://en.wikipedia.org/wiki/Fear_and_Desire"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Gerald Fried is credited as composer. This is a sound film, so the recorded track would normally share the print's status. That status is unresolved, so the score is too.",
+          "source": "Wikipedia, Fear and Desire",
+          "url": "https://en.wikipedia.org/wiki/Fear_and_Desire"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Howard Sackler is credited as writer. No source work for the screenplay was identified, and the screenplay's copyright status was not checked.",
+          "source": "Wikipedia, Fear and Desire",
+          "url": "https://en.wikipedia.org/wiki/Fear_and_Desire"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists a George Eastman House restored print aired on TCM on December 14, 2011, and a Kino Video DVD and Blu-ray released October 23, 2012. It says the Library of Congress and Kino Lorber restored the film in 4K in 2023, and that it was released on 4K UHD Blu-ray in 2024. Wikipedia gives the original Venice cut as 70 minutes and the US theatrical cut as about 62 minutes. Other sources reportedly describe the 4K work as made from the 35mm cut negative and a fine-grain master, with a Library of Congress print as the source for the longer cut. I could not open the Kino Lorber or blu-ray.com pages, so the exact 2024 release date, the disc contents and the restoration elements are not confirmed here. A faithful scan adds no new US copyright, but anything added in these releases, such as new titles, new scores or booklet and commentary material, can be protected.",
+          "source": "Wikipedia, Fear and Desire",
+          "url": "https://en.wikipedia.org/wiki/Fear_and_Desire"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1980,
+      1981
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Fear and Desire”, 1980 and 1981)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/FearAndDesire1953",
+      "label": "Fear and Desire (1953), Internet Archive",
+      "quality": "Full-length feature, MP4/OGV/WebM; tagged Public Domain Mark 1.0 by the uploader (not proof of status)"
+    }
+  ],
+  "editorial": "Fear and Desire is Stanley Kubrick's first feature. Gerald Fried is credited with the score and Howard Sackler as writer. Joseph Burstyn released it in the US in 1953. It was first shown in a 70-minute version at the Venice Film Festival on August 18, 1952, under the title Shape of Fear. Kubrick later tried to discourage audiences from seeing it, which is why a creator might want it: it is an early work by a major director and it circulates widely online.\n\nThe rights trap is that this dossier has not proven the print's status. Wikipedia, a secondary source, says the copyright lapsed. The Internet Archive upload carries a Public Domain Mark, but an uploader's tag is not evidence of status. No search of the Catalog of Copyright Entries or the Copyright Office catalog was done for this dossier, so neither a missing notice nor a missing renewal is documented here. Status is unverified. Do not treat the Internet Archive copy as safe until you check the Catalog of Copyright Entries (Motion Pictures volumes for the 1953 registration and the 1980 and 1981 renewal years) and the Copyright Office public records for renewals filed 1978 or later. A work from 1953 had to be renewed in its 27th or 28th year, which is 1980 or 1981.\n\nSeparately, the Eastman House print (2011), the Kino Video disc (2012) and the Library of Congress and Kino Lorber 4K restoration (2023, released on 4K UHD in 2024) are modern editions. Any added score, titles or extras in them are not free to copy even if the underlying film is.",
+  "faq": [
+    [
+      "Is Fear and Desire in the public domain in the US?",
+      "Unverified. Wikipedia says its copyright lapsed, and the Internet Archive upload carries a Public Domain Mark, but neither is primary proof. No records were searched for this dossier. Before relying on it, search the Catalog of Copyright Entries (Motion Pictures, 1953 registration and 1980 and 1981 renewals) and the Copyright Office public records for renewals filed 1978 or later (links above)."
+    ],
+    [
+      "Can I use the Kino Lorber or Library of Congress restoration?",
+      "Not automatically. A faithful restoration adds no new copyright, but additions such as new titles, scores or commentary can be protected. Do not rip a copy-protected disc, because that can violate 17 U.S.C. 1201. The Internet Archive copy is not confirmed safe either, so clear the film's own status first."
+    ]
+  ]
+}
