@@ -1,0 +1,85 @@
+{
+  "id": "the-champ-1931",
+  "title": "The Champ",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The 1958 CCE motion-picture volume lists a renewal for CHAMP, a photoplay in ten reels by Metro-Goldwyn-Mayer Distributing Corp., registered 19NOV31 as L2636. Loew's, Inc. renewed it on 20NOV58 as R225168. This is the 1931 MGM film, renewed in its 28th year, so the copyright continued. The 1959 Motion Pictures volume is linked for checking, but no entry from it is relied on here.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (Vol 12, Nos 1-2)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Champ is a sound film. Its recorded track is part of the renewed 1931 photoplay and follows the film's status. No separate score registration was checked.",
+          "source": "Derived from the R225168 renewal of the photoplay",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Frances Marion won the Academy Award for Best Story for the film. The screenplay is credited to Leonard Praskins and Wanda Tuchock. The story was written for this film and is not a pre-existing public-domain source. It is covered by the film's renewed copyright, and any separate rights in the story were not independently checked.",
+          "source": "Wikipedia, The Champ (1931 film), used for credits only",
+          "url": "https://en.wikipedia.org/wiki/The_Champ_(1931_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Champ”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1958 Motion Pictures volume containing the renewal R225168",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1959 Motion Pictures volume",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Champ is MGM's 1931 boxing melodrama, directed by King Vidor. Wallace Beery plays Andy \"Champ\" Purcell, a washed-up boxer, and Jackie Cooper plays his young son Dink. Frances Marion won the Academy Award for Best Story. Beery won Best Actor in a split vote with Fredric March. The film was nominated for Best Picture and Best Director. A creator would want it for Beery and Cooper's performances and for its place in early-sound Hollywood.\n\nThe rights trap is that the film is still under copyright. Metro-Goldwyn-Mayer registered it on 19 November 1931, and Loew's, Inc. renewed it on 20 November 1958 as R225168. That renewal was filed in the 28th year, so the first term carried into a renewal term and a 1931 date does not make the film free. The queue flagged it as likely lapsed, and the catalog entry shows otherwise. The film was remade in 1953 as The Clown and in 1979 by Franco Zeffirelli. Those remakes are separate works, and none of this makes the 1931 print safe to reuse.",
+  "faq": [
+    [
+      "Is The Champ (1931) in the public domain in the US?",
+      "No. The 1958 Catalog of Copyright Entries lists a renewal for the photoplay, R225168, filed by Loew's, Inc. on 20 November 1958. The renewal kept the copyright alive past its first 28-year term, so the print, its soundtrack and its story elements should be treated as protected. Get a licence from the current rights holder before reusing clips."
+    ],
+    [
+      "Is there a separate 1959 CCE renewal for this film?",
+      "No 1959 entry is relied on here. The renewal matched to this film is the 1958 entry, a ten-reel MGM photoplay copyrighted 19 November 1931 and renewed as R225168. The 1959 Motion Pictures volume is linked in the DIY links if you want to check it yourself."
+    ]
+  ]
+}
