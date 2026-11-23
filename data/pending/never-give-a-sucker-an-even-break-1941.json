@@ -1,0 +1,94 @@
+{
+  "id": "never-give-a-sucker-an-even-break-1941",
+  "title": "Never Give a Sucker an Even Break",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal search has been completed. The Catalog of Copyright Entries, Motion Pictures 1969 volume exists at the linked archive.org page, but its renewal entries were not read for this title. The 1968 volume and the Copyright Office public catalog were also not searched. No renewal has been found, and absence is not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1969 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music credited to Charles Previn and Frank Skinner. Gloria Jean sings 'Estrellita' (M. M. Ponce), 'Voices of Spring' (Johann Strauss II, special lyrics), 'Hot Cha Cha' (Charles Previn) and 'Ochi Chernye' (traditional). The recorded track normally shares the film's status, so it stays undetermined until the print's renewal status is settled. The songs were not cleared individually.",
+          "source": "Film credits as listed on Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Never_Give_a_Sucker_an_Even_Break"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Story credit is 'Otis Criblecoblis', a pseudonym of W. C. Fields. Screenplay by John T. Neville and Prescott Chaplin. It is an original story, not an adaptation, so its term was not traced separately from the film's registration.",
+          "source": "Film credits as listed on Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Never_Give_a_Sucker_an_Even_Break"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “Never Give a Sucker an Even Break”",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1968 (archive.org) — check the renewal sections by hand",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1969 (archive.org) — check the renewal sections by hand",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1970 (archive.org) — optional, for late filings only",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/never-give-a-sucker-an-even-break-1941",
+      "label": "Never Give a Sucker an Even Break (1941) — Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Never Give a Sucker an Even Break is W. C. Fields's last starring feature, released by Universal Pictures on October 10, 1941 and directed by Edward F. Cline. Fields wrote the story under the pseudonym Otis Criblecoblis. Gloria Jean sings in it, and Margaret Dumont and Franklin Pangborn are in the cast.\n\nThe rights question is open. A film published in 1941 had to be renewed in its 28th year, by the end of 1969. No renewal search has been completed, so treat the print as unconfirmed rather than free. The Catalog of Copyright Entries volumes for 1968 and 1969 and the Copyright Office catalog still need a manual check. The songs and the score have the same open question, and Previn's 'Hot Cha Cha' could carry its own copyright.",
+  "faq": [
+    [
+      "Is Never Give a Sucker an Even Break in the public domain?",
+      "Not confirmed. A 1941 film is free only if its copyright was never renewed in time, which means a filing in 1968 or 1969. No renewal search has been completed here. Check the Catalog of Copyright Entries volumes and the Copyright Office search before you rely on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The Internet Archive hosting a copy does not settle the rights. Clear the renewal question for the film first. Check the music separately, since the songs include a Charles Previn composition."
+    ]
+  ]
+}

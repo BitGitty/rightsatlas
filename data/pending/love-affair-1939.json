@@ -1,0 +1,93 @@
+{
+  "id": "love-affair-1939",
+  "title": "Love Affair",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film's US copyright status is not established in this dossier. I could not confirm the original registration. A fetch of the OCR text of the 1939 Catalog of Copyright Entries (Motion Pictures, Vol 12) was only partly readable verbatim and came back through a summarizing tool. A summary reported an RKO Radio Pictures entry for 'Love affair' but gave details that conflict with each other. No registration number, date or page is stated here. Check the entry in the page image or the Copyright Office records.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1939, Vol 12 (OCR djvu text)",
+          "url": "https://archive.org/details/catalogofcopyrig121libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Renewal has not been searched. If the film was registered as a published work in 1939, its 28th-year renewal window would fall in 1966-1967. I did not read the 1966 or 1967 Motion Pictures renewal listings, and no result, page or listing is claimed for either year. A claim that the film is in the public domain for lack of renewal is not supported by any source I checked. It needs the renewal listings for those years, or a primary source such as David Pierce's 'Forgotten Faces' (Film History, 2007), which I did not read.",
+          "source": "Not searched: CCE Motion Pictures and Filmstrips, 1966 and 1967 renewal listings",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's film article credits the music to Roy Webb. It says that Irene Dunne chose the song 'Wishing', 'which became one of the most popular songs of 1939'. It also names 'Sing My Heart' and 'Plaisir d'Amour' as songs performed in the film. I did not check the copyright or renewal of 'Wishing', the other songs or the score. A song's composition copyright can be registered and renewed separately from the film.",
+          "source": "Wikipedia, Love Affair (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/Love_Affair_(1939_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's film article credits the screenplay to Delmer Daves and Donald Ogden Stewart, and the story to Leo McCarey and Mildred Cram. I did not check whether the story was published or registered separately, or whether any renewal exists.",
+          "source": "Wikipedia, Love Affair (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/Love_Affair_(1939_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I did not confirm any restored edition from a source I could read in full. My fetch of the Wikipedia article was truncated before its availability section. If a modern edition exists, any new titles, subtitles, score or commentary in it may carry their own copyright. Check the specific edition's credits.",
+          "source": "Wikipedia, Love Affair (1939 film) (fetch truncated)",
+          "url": "https://en.wikipedia.org/wiki/Love_Affair_(1939_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967
+    ],
+    "negative_result": "No renewal search was completed. I did not read the Motion Pictures renewal listings of the 1966 or 1967 volumes of the Catalog of Copyright Entries, so there is no negative result. Next step: search the 'Motion Pictures' renewal sections of the 1966 and 1967 volumes for 'Love Affair' (RKO Radio Pictures) and record the pages read. The 1968 volume would only be a check for a late renewal, not a renewal year. Also search the Copyright Office public records.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1939 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig121libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Love Affair is a 1939 RKO romance. Wikipedia credits the screenplay to Delmer Daves and Donald Ogden Stewart, from a story by Leo McCarey and Mildred Cram, with music by Roy Webb. Its US copyright status is undetermined. I could not confirm the original registration. I did not read the 1966 or 1967 renewal listings, so I cannot say whether the film was renewed. Do not treat the film as public domain until the registration and renewal records are checked. The song 'Wishing', the score, the story and any modern restored edition may each carry separate rights, and none of them was checked.",
+  "faq": [
+    [
+      "Was the copyright on Love Affair (1939) renewed?",
+      "Unknown. I did not complete a renewal search. The 28th-year renewal window would be 1966-1967 if the film was registered in 1939. Search the Motion Pictures renewal listings for those years, or the Copyright Office public records, before relying on any status."
+    ],
+    [
+      "Can I use the song 'Wishing' or other related works?",
+      "Do not assume so. A song's copyright is separate from the film's, and I did not check 'Wishing', the score or the story. Clear each one before using it."
+    ]
+  ]
+}

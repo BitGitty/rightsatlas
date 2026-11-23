@@ -686,3 +686,6 @@
 {"date": "2026-11-23", "id": "the-atomic-brain-1964", "result": "queued", "reasons": []}
 {"date": "2026-11-23", "id": "becky-sharp-1935", "result": "queued", "reasons": []}
 {"date": "2026-11-23", "id": "love-affair-1939", "result": "blocked", "reasons": ["layer 'print' is likely_pd — not allowed in a candidate"]}
+{"date": "2026-11-23", "id": "love-affair-1939", "result": "queued", "reasons": []}
+{"date": "2026-11-23", "id": "the-hunchback-of-notre-dame-1939", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
+{"date": "2026-11-23", "id": "never-give-a-sucker-an-even-break-1941", "result": "queued", "reasons": []}
