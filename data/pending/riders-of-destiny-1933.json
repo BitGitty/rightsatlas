@@ -1,0 +1,100 @@
+{
+  "id": "riders-of-destiny-1933",
+  "title": "Riders of Destiny",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1960, 1961 and 1962 Catalog of Copyright Entries motion-picture volumes (28th-year renewal window for a 1933 release) were opened. Full-text searches for 'Riders of Destiny' and 'Lone Star' did not reach the renewal sections, so absence of a renewal is NOT confirmed. No Copyright Office public-catalog search was completed either, so the print stays undetermined.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1960",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1961 volume, same window; renewal section not fully searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, 1961",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1962 volume, same window; renewal section not fully searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, 1962",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "An Internet Archive upload titled 'Riders Of Destiny (1933) [Colorized,4k,60fps]' describes itself as a colorised, 4K-upscaled, frame-rate-boosted version made with AI in 2021. Colorization and similar additions can carry their own protection; a faithful copy of the original images adds none.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/riders-of-destiny-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Riders of Destiny”, ~1960, 1961, 1962)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1960, Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1961, Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962, Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/RidersofDestiny_",
+      "label": "Riders of Destiny (1933), Lone Star Productions, dir. Robert N. Bradbury",
+      "quality": "SD"
+    }
+  ],
+  "editorial": "Riders of Destiny is a 1933 Lone Star Productions western directed by Robert N. Bradbury, with John Wayne as 'Singin' Sandy' Saunders, a gunman who turns out to be a Secret Service agent sent to investigate a land swindle. It is an early Wayne starring role, which is what makes it attractive to documentary makers, western compilations and Wayne-centred projects.\n\nThe rights trap is that the renewal check is not finished here. The 1960-1962 Catalog of Copyright Entries volumes were located but their renewal sections were not fully searched, and no Copyright Office catalog search was completed, so the print cannot be called free yet. Separately, an AI-colorized, upscaled 2021 version circulates on the Internet Archive. Whatever that version adds is a separate question from the 1933 images, so check which copy you are taking.",
+  "faq": [
+    [
+      "Is Riders of Destiny (1933) safe to reuse?",
+      "Not yet confirmed. The renewal volumes for 1960-1962 were not fully searched, and the Copyright Office catalog was not searched. Finish both checks before relying on the print."
+    ],
+    [
+      "Can I use the colorized 4K version?",
+      "Treat it with caution. A colorized, AI-upscaled copy adds new material that may be protected separately from the underlying 1933 film. Working from a plain black-and-white transfer avoids that question."
+    ]
+  ]
+}

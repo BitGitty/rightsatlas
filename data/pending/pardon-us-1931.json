@@ -1,0 +1,78 @@
+{
+  "id": "pardon-us-1931",
+  "title": "Pardon Us",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1958 (Vol 12 No 1-2), Renewal Registrations section (alphabetical by title), reads: PARDON US, a photoplay in six reels by Metro-Goldwyn-Mayer Distributing Corp. © 10Sep31; L2460. Loew's, Inc. (PWH); 19Sep58; R221581. The renewal was filed before the original 28-year term ended, so the 1931 copyright was extended to its full term. I did not record a page number.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1958, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Pardon Us is a sound film. I assume the recorded soundtrack is part of the registered photoplay and so shares the film's renewed status. This is an unverified inference: no search for a separate music registration was done, and the 1958 renewal entry cannot show whether one exists.",
+          "source": "Same CCE 1958 renewal entry",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Pardon Us”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Pardon Us is the 1931 Laurel & Hardy feature, registered for copyright on 10 September 1931 by Metro-Goldwyn-Mayer Distributing Corp. as a six-reel photoplay (L2460). Anyone who wants a Laurel & Hardy feature for a documentary, compilation or classroom screening will look at this one.\n\nThe rights trap is that it is not free. Loew's, Inc. renewed the copyright on 19 September 1958 (R221581), before the original term ended, so the 1931 copyright ran its full term. Copies of the film circulate online, but a copy being posted does not change that. Reusing clips needs a license or a fair-use analysis, not a public-domain assumption.",
+  "faq": [
+    [
+      "Is Pardon Us (1931) in the public domain in the US?",
+      "No. The Catalog of Copyright Entries for 1958 records a renewal by Loew's, Inc. on 19 September 1958 (R221581), so the copyright was not allowed to lapse at 28 years. Check the current term and ownership with the Copyright Office before reusing it."
+    ],
+    [
+      "Can I use a copy I find online?",
+      "A copy being posted online says nothing about its copyright status. The film was renewed, so you would need permission from the rights holder or a solid fair-use basis for any clip you reuse."
+    ]
+  ]
+}

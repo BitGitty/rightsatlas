@@ -1,0 +1,95 @@
+{
+  "id": "a-farewell-to-arms-1932",
+  "title": "A Farewell to Arms",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": "Paramount, 1932, dir. Frank Borzage",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says: \"In 1960, the film entered the public domain in the United States because the last claimant, David O. Selznick, did not renew its copyright registration in the 28th year after publication.\" I could not confirm this in a primary record, so the claimant detail is unverified. I did not find the original 1932 registration (date and number) in the CCE 1932 motion-picture volume, so the renewal window is not computed from it. The 1959-1961 renewal sections and the Copyright Office public catalog were not searched. Do not treat the print as cleared until the registration and renewal records are checked by hand.",
+          "source": "Wikipedia, A Farewell to Arms (1932 film) (secondary, unverified)",
+          "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the print's status. Print status is unresolved, so score status is too. Wikipedia lists the music credits as all uncredited: Herman Hand, W. Franke Harling, Bernhard Kaun, John Leipold, Paul Marquardt, Ralph Rainger and Milan Roder. It also says the soundtrack includes selections from Wagner and Tchaikovsky.",
+          "source": "Wikipedia, A Farewell to Arms (1932 film)",
+          "url": "https://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Ernest Hemingway's 1929 novel. Duke's Public Domain Day 2025 page lists the novel among works from 1929 that entered the US public domain on 1 January 2025. This covers the story only; it does not cover the 1932 film.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2025",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2025/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “A Farewell to Arms”, ~1959, 1960, 1961)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1959 (archive.org) — check renewal section by hand",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "CCE Motion Pictures 1960 (archive.org) — check renewal section by hand",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1961 (archive.org) — check renewal section by hand",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/a-farewell-to-arms-1932",
+      "label": "A Farewell to Arms (1932), Internet Archive (added 2023-10-23 by RetroFlixUploads; the page shows a Public Domain Mark 1.0, which is the uploader's label only; runtime and cut not stated on the page)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "A Farewell to Arms (1932) is Paramount's adaptation of Hemingway's World War I novel, directed by Frank Borzage. Helen Hayes plays the nurse Catherine Barkley, Gary Cooper plays the ambulance driver Frederic Henry, and Adolphe Menjou plays Captain Rinaldi. A creator would want it for the Borzage-directed romance and for Cooper and Hayes in a Hemingway story. The film exists in more than one cut: Wikipedia says a 1938 reissue was cut to 78 minutes and the original version was longer. The Internet Archive page does not say which cut it is or give a runtime. Its Public Domain Mark is the uploader's assertion, not evidence of public domain status.\n\nThe rights question on the film itself is still open. Wikipedia says the last claimant, David O. Selznick, did not renew in the 28th year. That is a secondary claim, and I did not confirm it in the Catalog of Copyright Entries or the Copyright Office records. Check the original 1932 registration and the renewal records first. The novel is a separate matter: it was published in 1929 and entered the US public domain on 1 January 2025. That frees the story, not the 1932 film.",
+  "faq": [
+    [
+      "Is the 1932 film of A Farewell to Arms free to reuse in the US?",
+      "Not confirmed. Wikipedia reports that the copyright was not renewed, but this dossier has no primary renewal-absence record. Check the original 1932 registration, the 1959-1961 CCE motion-picture renewal volumes and the Copyright Office catalog before relying on it."
+    ],
+    [
+      "Can I adapt Hemingway's novel itself?",
+      "In the US, yes. The novel was published in 1929 and entered the public domain on 1 January 2025, according to Duke's Public Domain Day list. This does not clear the 1932 film or other later material."
+    ]
+  ]
+}
