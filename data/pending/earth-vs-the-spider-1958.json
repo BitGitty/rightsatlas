@@ -1,0 +1,91 @@
+{
+  "id": "earth-vs-the-spider-1958",
+  "title": "Earth vs. the Spider",
+  "year": 1958,
+  "country": "US",
+  "last_verified": "2026-11-23",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1958, so public domain depends on a missing notice or a missing renewal. I could not confirm either. The Catalog of Copyright Entries renewal volumes for 1985-1987 were not found on archive.org, and the Copyright Office public records site loads but could not be searched by a fetchable URL. Renewal absence is unproven.",
+          "source": "US Copyright Office public records system",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the score to Albert Glasser. The recorded track is part of the film, so it most likely shares the print's status. I did not verify that or any separate music registration.",
+          "source": "Wikipedia, Earth vs. the Spider",
+          "url": "https://en.wikipedia.org/wiki/Earth_vs._the_Spider"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The story is original, not an adaptation. Wikipedia says Bert I. Gordon supplied the plot behind the screenplay by George Worthing Yates and Laszlo Gorog. The screenplay therefore follows the film's own copyright status.",
+          "source": "Wikipedia, Earth vs. the Spider",
+          "url": "https://en.wikipedia.org/wiki/Earth_vs._the_Spider"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1985,
+      1986,
+      1987
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Earth vs. the Spider”, ~1985, 1986, 1987)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/earth-vs.-the-spider-1958",
+      "label": "Earth vs. the Spider (1958) on the Internet Archive, tagged Public Domain Mark 1.0",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Earth vs. the Spider (also released as The Spider) is a black-and-white giant-monster picture produced and directed by Bert I. Gordon. Santa Rosa Productions made it, American International Pictures distributed it, and it opened on October 31, 1958. The screenplay is by George Worthing Yates and Laszlo Gorog, from a plot by Gordon, and Albert Glasser composed the score. Creators look for it because it is a well-known drive-in creature feature, and the Internet Archive hosts a copy under a Public Domain Mark.\n\nThe rights trap is that the print is not confirmed public domain. A 1958 film is free only if its notice was missing or its renewal was never filed. Renewal for a 1958 film would have fallen in 1986, and I could not search that record. The Internet Archive's Public Domain Mark is an uploader's label, not a rights finding. Check the Copyright Office public records for a renewal before you reuse any footage.",
+  "faq": [
+    [
+      "Is Earth vs. the Spider in the public domain?",
+      "Not confirmed. The film dates from 1958, so its status turns on whether the copyright was renewed in 1986. I could not check that record, so run the search on the Copyright Office public records site yourself. The Internet Archive's Public Domain Mark is not proof."
+    ],
+    [
+      "Can I use the Internet Archive copy in my project?",
+      "Only after you confirm there was no renewal. If a renewal turns up, the film and its score are still protected, and an archive upload does not change that. If none turns up, the print is free to use, but any new titles or music added to a particular copy may carry their own rights."
+    ]
+  ]
+}
