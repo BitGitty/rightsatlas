@@ -1,0 +1,110 @@
+{
+  "id": "the-vampire-bat-1933",
+  "title": "The Vampire Bat",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips Jan-Dec 1960 (Vol 14): a full-text check for 'Vampire Bat' and 'Majestic' found no renewal entry for this film.",
+          "source": "Catalog of Copyright Entries 1960 Motion Pictures and Filmstrips",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips Jan-Dec 1961 (Vol 15): a full-text check for 'Vampire Bat' and 'Majestic' found no renewal entry for this film. This is the 28th-year renewal window for a 1933 release. Renewals due before 1978 were filed on paper and appear only in the CCE, so no Copyright Office online search applies.",
+          "source": "Catalog of Copyright Entries 1961 Motion Pictures and Filmstrips",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips Jan-Dec 1962 (Vol 16): a full-text check for 'Vampire Bat' and 'Majestic' found no renewal entry for this film.",
+          "source": "Catalog of Copyright Entries 1962 Motion Pictures and Filmstrips",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film from Majestic Pictures. The recorded track normally shares the film's status. I did not find a separate music-rights check, so this layer is left open.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/The_Vampire_Bat_1933"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the story to Edward T. Lowe Jr. I did not confirm a prior published source, so the story layer is not cleared.",
+          "source": "Wikipedia, The Vampire Bat",
+          "url": "https://en.wikipedia.org/wiki/The_Vampire_Bat"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No modern restoration was found in the pages checked. The Internet Archive item says it is the longest, most complete version, about 62 minutes, transferred from an original film print.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/The_Vampire_Bat_1933"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": "No renewal entry for The Vampire Bat or Majestic Pictures appears in the Catalog of Copyright Entries Motion Pictures and Filmstrips volumes for 1960, 1961 and 1962 (full-text check).",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Vampire Bat”, ~1960, 1961, 1962)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Vampire_Bat_1933",
+      "label": "The Vampire Bat (1933) — Internet Archive, about 62 min, from an original film print",
+      "quality": "good"
+    }
+  ],
+  "editorial": "The Vampire Bat is a Majestic Pictures horror film directed by Frank R. Strayer and released on January 10, 1933. Lionel Atwill plays Dr. Otto von Niemann, with Fay Wray, Melvyn Douglas and Dwight Frye in the cast. Its village-murder plot and its cast make it a ready source for horror compilations, clip reels and film-history work.\n\nThe print is the free part. A 1933 film needed a renewal around 1961 to keep its copyright. A text check of the 1960, 1961 and 1962 Catalog of Copyright Entries motion-picture volumes found no renewal for this title or for Majestic Pictures. The trap is the layers around the print. I did not clear the music or the story credit (Edward T. Lowe Jr.), and I found no restoration to rule out added material. Trademark is also unchecked. Use a copy whose provenance you can document, and check any modern transfer for new titles or a new score.",
+  "faq": [
+    [
+      "Is The Vampire Bat's print free to use in the US?",
+      "The print appears to be free. No renewal for the 1933 film turned up in the 1960, 1961 or 1962 Catalog of Copyright Entries motion-picture volumes. The score, story and trademark layers were not cleared, so verify them for any commercial reuse."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The Internet Archive copy is described as transferred from an original film print, so it is a reasonable source. Avoid copies with added music, titles or colorization, because those additions can carry their own rights."
+    ]
+  ]
+}
