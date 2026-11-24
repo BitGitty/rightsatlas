@@ -1,0 +1,91 @@
+{
+  "id": "the-bohemian-girl-1936",
+  "title": "The Bohemian Girl",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1963 (Vol 17 No 1-2), Renewal Registrations, Jan-June 1963, p. 55: 'THE BOHEMIAN GIRL, a photoplay in eight reels by Metro-Goldwyn-Mayer Corp. © 12Feb36; LP6453. Hal Roach Studios (PWH); 21Jun63; R317586.' This is the 1936 film: original registration date 12 Feb 1936 matches the film's February 1936 release, and the claimant is Hal Roach Studios, the film's producer. Renewed in the 28th year, so the copyright runs the full 95-year term from publication.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1963 (Library of Congress, Copyright Office)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1936 film's recorded soundtrack is part of the renewed photoplay (R317586) and shares its status. Balfe's 1843 opera music underlying it is old, but the film's own arrangements and recording are not separately cleared by that.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1963, renewal R317586",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is an adaptation of Michael William Balfe's 1843 opera The Bohemian Girl, a source that is old and free to use. The film's own screenplay (credited to Frank Butler) and comic material for Laurel and Hardy are new matter that was renewed with the film.",
+          "source": "Wikipedia, The Bohemian Girl (1936 film) (background only, not a primary record)",
+          "url": "https://en.wikipedia.org/wiki/The_Bohemian_Girl_(1936_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Bohemian Girl”, ~1963, 1964, 1965)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-bohemian-girl-1936",
+      "label": "The Bohemian Girl (1936) — Internet Archive upload (listing is not a rights clearance)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Bohemian Girl (1936) is the Hal Roach Studios Laurel and Hardy feature, made with Metro-Goldwyn-Mayer and released in February 1936. James W. Horne and Charles Rogers directed it, from a Frank Butler script built on Michael William Balfe's 1843 opera. A creator would want it as a Laurel and Hardy comic adaptation of Balfe's opera, and the Internet Archive hosts uploads of it.\n\nThe trap is that this film is not free. The copyright was registered 12 February 1936 (LP6453) and renewed on 21 June 1963 by Hal Roach Studios (R317586), per the 1963 Catalog of Copyright Entries. The renewal means the print, soundtrack and screenplay stay protected for the full term. Only Balfe's opera, the source material, is free. Do not rely on a copy being online as proof of clearance.",
+  "faq": [
+    [
+      "Is the 1936 Laurel and Hardy Bohemian Girl in the public domain in the US?",
+      "No. The film was registered on 12 February 1936 and renewed on 21 June 1963 (R317586) by Hal Roach Studios. The renewal keeps it protected, so copies on the Internet Archive do not make it free to reuse."
+    ],
+    [
+      "Can I use Balfe's opera The Bohemian Girl without the film?",
+      "The 1843 opera is the film's source, and it is old enough to be free to use. Using the opera avoids this film's copyright only if you take nothing from the film, such as its screenplay, gags, recording or footage."
+    ]
+  ]
+}

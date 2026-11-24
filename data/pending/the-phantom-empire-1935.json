@@ -1,0 +1,100 @@
+{
+  "id": "the-phantom-empire-1935",
+  "title": "The Phantom Empire",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal for a 1935 film would have fallen due in 1962-63. No renewal entry for 'Phantom Empire' has been confirmed. The earlier check of the Catalog of Copyright Entries Motion Pictures volumes for 1963 and 1964 did not record which sections, pages or search strings were read, so it supports no negative result. No search of the Copyright Office public catalog was done, and the 1962 volume was not checked. Print status stays undetermined until the 1962, 1963 and 1964 volumes and publicrecords.copyright.gov are searched by hand.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1963 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score and any songs were not identified. The Internet Archive item metadata lists no composer, cues or songs, so no music was cleared or checked against separate publication or renewal records.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/PhantomEmpire1"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive metadata calls it a 1935 American Western serial directed by Otto Brower and B. Reeves Eason, starring Gene Autry, Frankie Darro and Betsy King Ross. No source material was confirmed, so no underlying work was cleared.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/PhantomEmpire1"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": "None established. No renewal entry has been confirmed in any source. The sections and search strings read in the 1963 and 1964 CCE volumes were not recorded, the 1962 volume and the Copyright Office public catalog were not checked. Not enough to call non-renewal.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Phantom Empire”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures, Jan-Dec 1962 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3161213libr"
+      },
+      {
+        "label": "CCE Motion Pictures, Jan-Dec 1963 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "CCE Motion Pictures, Jan-Dec 1964 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/PhantomEmpire1",
+      "label": "The Phantom Empire (1935 serial, Mascot) — Internet Archive",
+      "quality": "Serial episodes in one item (titled 'Phantom Empire 1-12'); metadata creator listed as Mascot; item shows a Public Domain Mark 1.0 label set by the uploader"
+    },
+    {
+      "url": "https://archive.org/details/The_Phantom_Empire_1935",
+      "label": "The Phantom Empire (feature version) — Internet Archive",
+      "quality": "Item description says 'This movie is based on the movie serial' and gives the alternate title Radio Ranch; item date is listed as 1940. Edit lineage beyond that is unverified; item shows a CC0 1.0 label set by the uploader"
+    }
+  ],
+  "editorial": "The Phantom Empire is a 1935 Mascot Pictures serial directed by Otto Brower and B. Reeves Eason. Gene Autry plays a cowboy singer who runs a radio show from his Radio Ranch and finds the Muranians, an advanced civilization living beneath it, with television and ray guns. Frankie Darro and Betsy King Ross co-star. Its mix of western and science fiction, and its place as an early Autry vehicle, make it attractive to anyone who wants cheap, recognisable genre footage.\n\nThe rights trap is that the print's status is not settled. A 1935 film was published after the date that makes older films free by term alone, so its status depends on the 1962-63 renewal record. No renewal entry has been confirmed either way. The earlier check of the 1963 and 1964 catalog volumes did not record what was searched, and the 1962 volume and the Copyright Office catalog were not checked. The Internet Archive serial item shows a Public Domain Mark and the feature item shows a CC0 label, but both are the uploader's labels and prove nothing about copyright. Do not rely on them. Check the renewal sources yourself before reuse. Separately, the feature item (dated 1940 and also titled Radio Ranch) is a different edit built from the serial and needs its own check. The score and songs were not identified and are not cleared.",
+  "faq": [
+    [
+      "Is The Phantom Empire safe to reuse?",
+      "Not yet confirmed. No renewal entry has been confirmed either way. The 1962, 1963 and 1964 renewal catalogs and the Copyright Office catalog still need a documented hand search before you rely on the print."
+    ],
+    [
+      "Do the Internet Archive's license labels clear the film?",
+      "No. The serial item shows a Public Domain Mark and the feature item shows CC0, but both labels are set by the uploader and are not evidence of copyright status. Rights depend on the renewal records for the 1935 film."
+    ]
+  ]
+}

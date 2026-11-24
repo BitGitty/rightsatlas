@@ -1,0 +1,81 @@
+{
+  "id": "the-dawn-patrol-1938",
+  "title": "The Dawn Patrol",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1966, lists 'THE DAWN PATROL, a photoplay in twelve reels by Warner Bros. Pictures. © 24Oct38; LP8481. United Artists Television, Inc. (PWH); 19Jan66; R378461.' The original registration and the title and date match this 1938 film, so the copyright was renewed in the 28th year.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1966 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track is part of the registered photoplay, so it shares the print's renewed status. I did not research separate music rights.",
+          "source": "Same CCE renewal entry (R378461)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I did not confirm the underlying source work or its publication date in this session, so the story layer stays undetermined. The film's own copyright was renewed regardless.",
+          "source": "Research note",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1966 Motion Pictures volume (archive.org) — the Dawn Patrol renewal R378461 is listed here",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Dawn Patrol is Warner Bros.' 1938 first-World-War flying drama, registered as LP8481 on 24 October 1938. It is a remake of an earlier film. A creator might want it for its aerial and squadron-room material. It is not available to reuse freely.\n\nThe copyright was renewed. The 1966 Catalog of Copyright Entries lists renewal R378461, filed 19 January 1966 by United Artists Television, Inc. as proprietor of a work made for hire. That is inside the 28th-year window, so the print, picture and sound, is still in its renewed term. The trap is the queue note 'renewal absence likely'. It is wrong for this title, so do not treat the film as public domain. Free copies online, such as VHS rips or trailers, do not change its status. Clear the rights with the current rightsholder or use a different film.",
+  "faq": [
+    [
+      "Is the 1938 Dawn Patrol in the public domain?",
+      "No. The 1966 Catalog of Copyright Entries lists renewal R378461 for the 1938 film (original registration LP8481), filed by United Artists Television, Inc. That renewal is why it is not free to reuse."
+    ],
+    [
+      "Does an uploaded copy or trailer on the Internet Archive make it safe to reuse?",
+      "No. A copy being online does not affect copyright. The film's renewed copyright still covers it, so you would need a license for any clip."
+    ]
+  ]
+}
