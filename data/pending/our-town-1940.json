@@ -1,0 +1,102 @@
+{
+  "id": "our-town-1940",
+  "title": "Our Town",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": "Directed by Sam Wood; produced by Sol Lesser Productions; released through United Artists",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's film article states the US copyright of the film was not renewed after its first term expired in 1968, and marks that statement 'citation needed'. No Catalog of Copyright Entries volume or Copyright Office renewal record was searched for this dossier, so the claim is an unverified secondary claim. The 1967 and 1968 motion picture volumes are on archive.org (links below) and should be checked by hand for a renewal entry before treating the print as verified_pd.",
+          "source": "Wikipedia, Our Town (1940 film)",
+          "url": "https://en.wikipedia.org/wiki/Our_Town_(1940_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the score to Aaron Copland. The score's separate copyright status was not checked: it may be covered by the film's own copyright or separately registered and owned. Check the registration and renewal records.",
+          "source": "Wikipedia, Our Town (1940 film)",
+          "url": "https://en.wikipedia.org/wiki/Our_Town_(1940_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts Thornton Wilder's 1938 play Our Town, published by Coward-McCann. A 1938 US work is still protected only if its copyright was renewed in 1965 or 1966 (or if the published text carries its own protected copyright). No renewal record was checked: neither the Catalog of Copyright Entries 1965/1966 drama renewals nor the Stanford Copyright Renewal Database was searched. Until that is done the play's status is undetermined. A film's lapsed copyright does not release the play it adapts.",
+          "source": "Wikipedia, Our Town (play)",
+          "url": "https://en.wikipedia.org/wiki/Our_Town"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No professional restoration (Criterion, Kino, etc.) was found in the sources fetched. The Internet Archive item at the link below is listed as black and white. Other user-uploaded transfers exist, and any colorized version would be a new protectable layer, so use a black-and-white transfer.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/Our_Town"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Our Town”, ~1967, 1968)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1968, Motion Pictures and Filmstrips (archive.org) — check the renewal section",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1967, Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Our_Town",
+      "label": "Our Town (1940) — Internet Archive",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/our-town_202608",
+      "label": "Our Town (1940) — Internet Archive upload with trailer",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "Our Town (1940) is Sam Wood's film of Thornton Wilder's 1938 play, produced by Sol Lesser Productions and released through United Artists on May 24, 1940. William Holden and Martha Scott star, and Aaron Copland wrote the score. Wikipedia says the film's copyright was not renewed when its first term ended in 1968, but marks that claim 'citation needed'. No renewal record or Catalog of Copyright Entries volume was searched here, so the print's status is undetermined and needs a manual check.\n\nThe trap is the source material. The film's term and the play's term are separate. Wilder's play dates from 1938. Whether it is still protected depends on a 1965-66 renewal or on copyright in the published text, and neither was checked here. A lapsed film copyright does not release the play. A creator who reuses the film's footage, dialogue or staging may be reusing the underlying play. The Copland score is a second layer, and its separate copyright status was not checked. Do not assume a remake or re-performance of the story is free until the play's renewal is checked.",
+  "faq": [
+    [
+      "Is the 1940 Our Town film free to use?",
+      "Unconfirmed. Wikipedia says the film copyright was not renewed after 1968, but marks that claim 'citation needed', and no renewal record was searched here. Even if the print is free, the story rests on Wilder's 1938 play, whose status depends on a 1965-66 renewal that was not checked. The Copland score's separate copyright status was also not checked."
+    ],
+    [
+      "Can I remake or stage Our Town because the film is free?",
+      "Do not assume so. A free film print does not release the underlying play. The 1938 play is a separate work. Check its 1965-66 renewal status before a remake, stage production or new script built on it."
+    ]
+  ]
+}

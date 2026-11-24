@@ -1,0 +1,74 @@
+{
+  "id": "you-cant-cheat-an-honest-man-1939",
+  "title": "You Can't Cheat an Honest Man",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1966 volume: 'YOU CAN'T CHEAT AN HONEST MAN, a photoplay in eight reels by Universal Pictures Co. © 24Feb39; LP8671; Universal Pictures Co., Inc. (PWH); 1Mar66; R381582.' The 1939 registration was renewed on 1 March 1966, inside the 28th-year window, so the print is still under its extended term.",
+          "source": "Catalog of Copyright Entries, Parts 12-13: Motion Pictures and Filmstrips, 1966 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The soundtrack is part of the registered and renewed Universal photoplay (LP8671, renewal R381582), so the recorded track shares the film's renewed status. I did not research the status of any separately published music.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1966 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1966 (archive.org) — the renewal entry R381582 for this film",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "You Can't Cheat an Honest Man is a Universal Pictures comedy released in 1939. Universal registered the photoplay, eight reels, on 24 February 1939 as LP8671. Because the film was made for hire, Universal was the claimant.\n\nThe trap is the renewal. The Catalog of Copyright Entries for 1966 lists a renewal for this film, number R381582, received 1 March 1966 from Universal Pictures Co., Inc. A renewal in that window extended the term, so the film's picture and its recorded soundtrack are not free to reuse. Don't treat a copy on a free-streaming site as proof the film is public domain. Clear it with the rights holder, or use only material you can show is separately free.",
+  "faq": [
+    [
+      "Is You Can't Cheat an Honest Man in the public domain in the US?",
+      "No. Universal registered it in 1939 and renewed that copyright on 1 March 1966 (R381582, Catalog of Copyright Entries 1966). The renewal extended the term, so the film and its soundtrack remain protected."
+    ],
+    [
+      "Can I use clips from an online copy?",
+      "Not without a license. An upload on a free site does not change the renewed copyright. Use the Copyright Office records and the Catalog of Copyright Entries to check, then clear the clip with the rights holder."
+    ]
+  ]
+}

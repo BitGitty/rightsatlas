@@ -729,3 +729,6 @@
 {"date": "2026-11-24", "id": "the-bohemian-girl-1936", "result": "queued", "reasons": []}
 {"date": "2026-11-24", "id": "the-dawn-patrol-1938", "result": "queued", "reasons": []}
 {"date": "2026-11-24", "id": "the-terror-of-tiny-town-1938", "result": "deferred", "reasons": ["You've hit your weekly limit · resets 8am (tz)"]}
+{"date": "2026-11-24", "id": "the-terror-of-tiny-town-1938", "result": "queued", "reasons": []}
+{"date": "2026-11-24", "id": "you-cant-cheat-an-honest-man-1939", "result": "queued", "reasons": []}
+{"date": "2026-11-24", "id": "our-town-1940", "result": "queued", "reasons": []}

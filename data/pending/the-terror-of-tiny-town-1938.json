@@ -1,0 +1,82 @@
+{
+  "id": "the-terror-of-tiny-town-1938",
+  "title": "The Terror of Tiny Town",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states: \"The film entered the public domain in 1966 after copyright was not renewed.\" It cites Bernard and Rabin, Archival Storytelling (2012), p. 119. That is a secondary claim. I did not read the Catalog of Copyright Entries, Motion Pictures and Filmstrips, renewal volumes for 1965 and 1966. Non-renewal is therefore not confirmed. The Internet Archive item carries a Creative Commons Public Domain Mark 1.0 license label. That is an uploader label, not a legal finding.",
+          "source": "Wikipedia, The Terror of Tiny Town (citing Bernard and Rabin, 2012, p. 119)",
+          "url": "https://en.wikipedia.org/wiki/The_Terror_of_Tiny_Town"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Edward Kilenyi. The recorded track normally shares the film's status, so it depends on the print's renewal status, which is unconfirmed.",
+          "source": "Wikipedia, The Terror of Tiny Town",
+          "url": "https://en.wikipedia.org/wiki/The_Terror_of_Tiny_Town"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Fred Myton for the screenplay and Clarence Marks for additional dialogue. I identified no source work. The story is not confirmed as original.",
+          "source": "Wikipedia, The Terror of Tiny Town",
+          "url": "https://en.wikipedia.org/wiki/The_Terror_of_Tiny_Town"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures and Filmstrips renewal volumes for 1965 and 1966 by hand (search “The Terror of Tiny Town”)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-terror-of-tiny-town-1938",
+      "label": "The Terror of Tiny Town (1938) on the Internet Archive",
+      "quality": "unrated"
+    }
+  ],
+  "editorial": "The Terror of Tiny Town is a 1938 Western with an all-midget cast. Per Wikipedia, Jed Buell Productions made it, Sam Newfield directed it, and Columbia Pictures released it on December 1, 1938. Wikipedia gives the running time as 62 minutes. It credits Fred Myton with the screenplay, Clarence Marks with additional dialogue, and Edward Kilenyi with the music. A creator would want it as a well-known cult curiosity from the 1930s. Wikipedia's home media section also lists many DVD releases from 2003 onward, including BFS Entertainment, Alpha Video and Film Detective, so there are many transfers to compare.\n\nThe rights trap is that public domain here rests on non-renewal, and I could not confirm that. Wikipedia says the film entered the public domain in 1966 after its copyright was not renewed, citing a 2012 book. I did not read the 1965 or 1966 renewal volumes of the Catalog of Copyright Entries, so the print is marked undetermined. The Copyright Office online public records only cover filings from 1978 on, so they cannot show a 1965 or 1966 renewal. Check the printed catalog volumes instead. Separately, any budget-label DVD transfer may add new titles, music or graphics. Those additions can carry their own protection even if the underlying film is free.",
+  "faq": [
+    [
+      "Is The Terror of Tiny Town in the public domain?",
+      "Wikipedia says it entered the public domain in 1966 after its copyright was not renewed. I did not confirm that. Search the Catalog of Copyright Entries, Motion Pictures and Filmstrips, renewal volumes for 1965 and 1966 (on archive.org) before reusing it. The Copyright Office online public records only cover filings from 1978 on, so they cannot show a renewal from those years."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The Internet Archive labels the item with a Public Domain Mark, but that is an uploader label, not a legal finding. Check the 1965 and 1966 renewal volumes first. Then check whether your chosen copy adds new titles, music or other material that could carry its own protection."
+    ]
+  ]
+}
