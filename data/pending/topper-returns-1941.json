@@ -1,0 +1,99 @@
+{
+  "id": "topper-returns-1941",
+  "title": "Topper Returns",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1968 (Vol 22 No 1-2). Only the first ~179,000 of ~890,000 characters of the archive.org full-text file could be read, and the renewal sections were not reached. 'Topper Returns' was not found in the portion read. This is not a completed search of the volume.",
+          "source": "Catalog of Copyright Entries 1968, Motion Pictures and Filmstrips (archive.org)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1969 (Vol 23 No 1-2). Only the first ~179,000 of ~916,000 characters of the archive.org full-text file could be read, and the renewal sections were not reached. 'Topper Returns' was not found in the portion read. This is not a completed search of the volume. The film's original registration date was not found, so the renewal window is not derived.",
+          "source": "Catalog of Copyright Entries 1969, Motion Pictures and Filmstrips (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The recorded soundtrack shares the film's own copyright status. I did not check the origin or renewal of any pre-existing music used in the film, so the score layer is left open.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/Topper_Returns_41"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I did not confirm the source material's publication date or renewal history, so the story layer is left open.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/Topper_Returns_41"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No UCLA Film and Television Archive or Festival of Preservation source could be fetched confirming any restoration of this film, its year or its funder, so those details are unconfirmed. A faithful restoration adds no new US copyright. A restored copy could add new titles or other material, which could be protected.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/Topper_Returns_41"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969
+    ],
+    "negative_result": "No renewal for Topper Returns was found in the portions read of the Catalog of Copyright Entries 1968 and 1969 Motion Pictures and Filmstrips volumes. Only about the first 20% of each archive.org full-text file could be read, and the renewal sections were not reached. The film's original registration date was not found, so the correct renewal year is not established. This is not a completed search.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Topper Returns”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes by hand, including the registration year and the renewal years that follow",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Topper_Returns_41",
+      "label": "Topper Returns (1941), 88 min per archive.org item metadata, Internet Archive",
+      "quality": "SD"
+    }
+  ],
+  "editorial": "Topper Returns is a 1941 American film, the third in the Topper series. The print's US status is not settled. No renewal was found in the parts of the 1968 and 1969 Catalog of Copyright Entries Motion Pictures volumes that could be read, but the renewal sections were not reached and the film's original registration date was not found. Treat the print as unconfirmed until the registration date is found and the full renewal volumes are searched by hand. Separate layers are also open: the underlying source characters, any pre-existing music in the track, and any restored copy, which could add new titles or other material.",
+  "faq": [
+    [
+      "Can I upload Topper Returns to YouTube or use clips in my own project?",
+      "Not yet confirmed. No renewal was found in the parts of the 1968 and 1969 Catalog of Copyright Entries volumes that could be read, but the renewal sections were not reached and the registration date is unknown. Search the full volumes or the Copyright Office records first. Also check the separate layers: the source characters, any pre-existing music in the track, and any additions in a restored copy."
+    ],
+    [
+      "Does a restored copy have its own copyright?",
+      "A faithful restoration adds no new US copyright in the film itself. Anything the restorers added, such as new titles, a new score or other new material, could be protected. I could not confirm any specific restoration of this film, so check what a given copy adds before copying from it."
+    ]
+  ]
+}

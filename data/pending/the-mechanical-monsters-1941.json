@@ -1,0 +1,77 @@
+{
+  "id": "the-mechanical-monsters-1941",
+  "title": "The Mechanical Monsters",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-24",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal check for a 1941 film is the Catalog of Copyright Entries (CCE) Motion Pictures and Filmstrips volumes, Renewal Registrations section. The 28th year after 1941 is 1969, with 1968 and 1970 as margins. The 1969 volume (Third Series, Vol. 23, Parts 12-13, Jan-Dec 1969) was opened on archive.org. Its contents list a separate Renewal Registrations section, beginning at page 35. A text search of this volume for 'Mechanical Monsters' was not completed: only part of the full text could be read, and no hit was seen in that part. The 1968 and 1970 volumes were not opened or searched. Non-renewal is therefore not established.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "CCE 1969 Motion Pictures and Filmstrips volume, Renewal Registrations section (archive.org) — primary check",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE 1968 Motion Pictures and Filmstrips volume (archive.org) — margin year",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE 1970 Motion Pictures and Filmstrips volume (archive.org) — margin year",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/superman_the_mechanical_monsters",
+      "label": "Superman: The Mechanical Monsters on the Internet Archive",
+      "quality": "unverified upload; item page opened and its description and credits match the 1941 cartoon, but its source and any added material were not examined"
+    }
+  ],
+  "editorial": "The Mechanical Monsters is a 1941 Superman cartoon. Dave Fleischer is listed as its director. In it a mad scientist sends robots to rob banks and loot museums, and Superman stops them.\n\nThe rights are not settled. The print's status depends on whether the film's copyright was renewed in the renewal window, which centers on 1969 (1968 and 1970 as margins). That check is not finished here: only the 1969 Catalog of Copyright Entries volume was opened, and its text was only partly searched. Separately, the film stars Superman, a character that is a separate asset from the print. Clearing the print would not clear the character. Treat any reuse as unresolved until both checks are done.",
+  "faq": [
+    [
+      "Is The Mechanical Monsters public domain?",
+      "Not established. The renewal check for a 1941 film is the Renewal Registrations section of the 1969 Catalog of Copyright Entries Motion Pictures and Filmstrips volume, with 1968 and 1970 as margins. That search has not been completed here."
+    ],
+    [
+      "Can I reuse Superman in my own project if I use this cartoon?",
+      "Do not assume so. Even if the print itself is free, the Superman character is a separate asset, and its status needs its own clearance. Using the cartoon's footage is a different question from creating new Superman material."
+    ]
+  ]
+}
