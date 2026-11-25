@@ -1,0 +1,107 @@
+{
+  "id": "the-southerner-1945",
+  "title": "The Southerner",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released May 18, 1945 by United Artists; produced by Loew-Hakim, Inc. The renewal window is 1972-1974. The Catalog of Copyright Entries Motion Pictures volumes for 1972, 1973 and 1974 exist on archive.org. Only roughly the first 180,000 characters (about 15-19%) of each volume's OCR text were searched for 'Southerner', with no hit. Most of the renewal sections were not read, and the Copyright Office public catalog was not searched. Non-renewal is therefore not established.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1973 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score by Werner Janssen. The recorded track is part of the sound film and would share the film's status if the print is public domain. The music composition itself could carry a separate renewal, and none was checked.",
+          "source": "Wikipedia: The Southerner (film), used for credits only",
+          "url": "https://en.wikipedia.org/wiki/The_Southerner_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the novel 'Hold Autumn in Your Hand' by George Sessions Perry, published 1941. The novel's copyright renewal (due 1968-1969) was not checked, so the underlying story's status is unknown. A renewed novel would leave the adaptation right with the Perry estate even if the film print were free.",
+          "source": "Wikipedia: The Southerner (film), used for credits only",
+          "url": "https://en.wikipedia.org/wiki/The_Southerner_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive hosts at least two uploads, including colorized versions, but I confirmed no named institutional restoration. Any colorization, new score or added titles on a given copy would be separately protectable, while a faithful transfer would add nothing.",
+          "source": "Internet Archive metadata",
+          "url": "https://archive.org/metadata/TheSoutherner"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973,
+      1974
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Southerner”, ~1972, 1973, 1974)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1972 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1973 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1974 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheSoutherner",
+      "label": "The Southerner (1945), Internet Archive, 92 min, sound B&W",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/the-southerner-1945_202312",
+      "label": "The Southerner (1945), Internet Archive alternate upload",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Southerner is Jean Renoir's 1945 American film about Sam Tucker, a cotton picker, played by Zachary Scott, who moves his family onto a rundown farm to grow his own crop. Loew-Hakim, Inc. produced it and United Artists released it. The screenplay is by Hugo Butler and Renoir, the score is by Werner Janssen, and the cinematography is by Lucien Andriot. Renoir's name, the rural-realist look and the cast make it a popular pick for reuse, and the Internet Archive holds several copies marked public domain.\n\nThe rights trap is that the Internet Archive's public-domain label is the uploader's claim and not a copyright record. The film's renewal window ran 1972-1974. My check of the Catalog of Copyright Entries volumes covered only the opening portion of each file and found nothing, and the Copyright Office catalog has not been searched. The source novel, George Sessions Perry's 'Hold Autumn in Your Hand' (1941), and the Janssen score could each have been renewed separately. Colorized copies on the Archive also add protectable material.",
+  "faq": [
+    [
+      "Is The Southerner (1945) free to reuse in the US?",
+      "Not confirmed. The Internet Archive labels its copies public domain, but that is the uploader's claim. I found no renewal in the part of the 1972-1974 Catalog of Copyright Entries that I searched, and I did not search the Copyright Office catalog, so no non-renewal has been shown. Check those records yourself before relying on the film."
+    ],
+    [
+      "Do the source novel and music matter for reuse?",
+      "Yes. The film adapts Perry's 1941 novel and has a Werner Janssen score. Each has its own copyright term, and I did not check whether either was renewed. A renewed novel could limit adaptation-based reuse even if the film print is free. Colorized copies also carry added material that can be protected."
+    ]
+  ]
+}
