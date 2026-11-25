@@ -1,0 +1,97 @@
+{
+  "id": "royal-wedding-1951",
+  "title": "Royal Wedding",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says MGM failed to renew the copyright in the 28th year, citing Pierce, 'Forgotten Faces', Film History 19(2), 2007. I could not confirm this in a primary record. The Catalog of Copyright Entries volumes I reached on archive.org were Motion Pictures Jan-June 1978 and Renewals Jan-June 1978. Neither was fully readable, and neither covers the 1979 renewal window (year 28 for a 1951 work). I did not find the 1979 volumes. I did not search the Copyright Office public records. Treat the non-renewal claim as unverified.",
+          "source": "Wikipedia, Royal Wedding (film)",
+          "url": "https://en.wikipedia.org/wiki/Royal_Wedding_(film)"
+        },
+        {
+          "type": "research_note",
+          "note": "The archive.org item page for this film lists a runtime of 1:31:36 and shows 'Public Domain' under Usage. The uploader is 'akb' (uploaded July 5, 2005). The page says the source 'is not of the best quality, with analog artifacts and blownout color.' The tag is the uploader's label, not a legal finding.",
+          "source": "Internet Archive, Royal Wedding",
+          "url": "https://archive.org/details/royal_wedding"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music by Burton Lane, lyrics by Alan Jay Lerner. The songs may carry their own copyright and renewal history, separate from the film's. I did not check it. The soundtrack's status should be settled after the print's renewal status is.",
+          "source": "Wikipedia, Royal Wedding (film)",
+          "url": "https://en.wikipedia.org/wiki/Royal_Wedding_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The article credits Alan Jay Lerner as writer. It names no source work, so no underlying-work term could be checked.",
+          "source": "Wikipedia, Royal Wedding (film)",
+          "url": "https://en.wikipedia.org/wiki/Royal_Wedding_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979,
+      1980
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Royal Wedding”, ~1978, 1979, 1980)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/royal_wedding",
+      "label": "Royal Wedding (1951), full film, listed on archive.org at 1:31:36. The archive page describes the source as not of the best quality, with analog artifacts and blownout color.",
+      "quality": "poor"
+    }
+  ],
+  "editorial": "Royal Wedding is a 1951 MGM musical produced by Arthur Freed and directed by Stanley Donen. Alan Jay Lerner wrote the script, and Burton Lane wrote the music. Lerner supplied the lyrics. The archive.org description says it follows a brother-and-sister dancing duo, played by Fred Astaire and Jane Powell, who travel to England around a royal wedding. A creator might want it for the Astaire and Powell numbers, or for Astaire's dancing-on-the-ceiling sequence.\n\nThe rights question is unsettled. Wikipedia says MGM did not renew the copyright, citing a 2007 article by Pierce. I could not confirm that in a primary record. I did not search the Copyright Office public records. The Catalog of Copyright Entries volumes I reached (Motion Pictures Jan-June 1978 and Renewals Jan-June 1978) were not fully readable and do not cover the 1979 renewal window. So the print is marked undetermined. The Internet Archive page lists the film as 'Public Domain', but that is the uploader's tag, not a legal finding. Do not rely on either claim until you have checked the renewal records for 1978 to 1980. The songs and any underlying story rights need their own check.",
+  "faq": [
+    [
+      "Is Royal Wedding (1951) in the public domain?",
+      "Possibly, but I could not verify it. Wikipedia says MGM did not renew the copyright, but I did not find a primary record. I did not search the Copyright Office public records. The Catalog of Copyright Entries volumes I reached (Motion Pictures Jan-June 1978 and Renewals Jan-June 1978) were not fully readable and do not cover the 1979 renewal window. Search the Copyright Office public records for renewals filed 1978 to 1980 before you reuse the film."
+    ],
+    [
+      "Does a public-domain print also free the songs?",
+      "Not necessarily. Burton Lane's music and Alan Jay Lerner's lyrics may have separate copyrights and renewal histories. Check them on their own, even if the film's renewal turns out to be absent."
+    ]
+  ]
+}

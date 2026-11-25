@@ -1,0 +1,91 @@
+{
+  "id": "the-beast-of-hollow-mountain-1956",
+  "title": "The Beast of Hollow Mountain",
+  "year": 1956,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released by United Artists in August 1956, so the renewal window fell in 1984. I could not locate the 1983-1985 Catalog of Copyright Entries motion-picture renewal volumes on archive.org, and I did not run a Copyright Office public-catalog search. No renewal absence is established, so the print cannot be called verified_pd.",
+          "source": "Wikipedia film article (background only, not a rights record)",
+          "url": "https://en.wikipedia.org/wiki/The_Beast_of_Hollow_Mountain"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The composer is credited as Raúl Lavista. The recorded track is part of the sound film and normally shares the film's copyright status, which is itself unresolved. No separate music registration or renewal was checked.",
+          "source": "Wikipedia film article (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Beast_of_Hollow_Mountain"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The story was developed from an original idea by special-effects pioneer Willis H. O'Brien, with writing credits to Robert Hill and Jack DeWitt (dialogue). It is not an adaptation of a published work. I did not check any separate registration or renewal for the story.",
+          "source": "Wikipedia film article (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Beast_of_Hollow_Mountain"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1983,
+      1984,
+      1985
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Beast of Hollow Mountain”, ~1983, 1984, 1985)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-beast-of-hollow-mountain-1956_202408",
+      "label": "The Beast of Hollow Mountain (1956), 79 min, Internet Archive",
+      "quality": "full feature, 1956 film (identifier resolved via archive.org metadata)"
+    }
+  ],
+  "editorial": "The Beast of Hollow Mountain (1956) is a US–Mexico western in which American rancher Jimmy Ryan (Guy Madison) finds a Tyrannosaurus living inside a mountain near a Mexican village. It was produced by Nassour Studios (Edward and William Nassour) with Películas Rodriguez, directed by Edward Nassour and Ismael Rodríguez, and released by United Artists in August 1956. The story grew from an original idea by Willis O'Brien, and Raúl Lavista is credited as composer. A creator would want it for the stop-motion dinosaur and the Mexican locations.\n\nThe rights trap is that nobody has confirmed the print is out of copyright. A 1956 film is public domain only if its notice was missing or its copyright was never renewed, and the renewal window ran through 1984. I could not check the catalog renewal volumes or the Copyright Office's online records, so the print stays undetermined. Internet Archive hosting is not evidence of status. Check the renewal record yourself before reusing the film commercially, and check the separate stop-motion, score and story elements.",
+  "faq": [
+    [
+      "Is The Beast of Hollow Mountain in the public domain?",
+      "Not established. It was released in 1956, so its renewal window was 1984. I did not find a renewal record or confirm that none exists, so treat the print as undetermined. Search the Copyright Office public records and the 1984 Catalog of Copyright Entries renewal volume before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "The Internet Archive lists the 1956 film, but hosting does not settle its copyright. Confirm the renewal status first. Any later edit, score or added titles on a given copy may carry its own rights."
+    ]
+  ]
+}

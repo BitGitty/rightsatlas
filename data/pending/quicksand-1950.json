@@ -1,0 +1,90 @@
+{
+  "id": "quicksand-1950",
+  "title": "Quicksand",
+  "year": 1950,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal status not confirmed. The renewal window was 1977-1978. A partial text scan of two Catalog of Copyright Entries motion-picture volumes (Jan-Dec 1977 and Jan-Jun 1978) found no 'Quicksand' entry. The fetch tool truncated both volumes, so this is not a complete search. The Jul-Dec 1978 volume was not checked. No Copyright Office public-catalog search was completed.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures Jan-Dec 1977 (partial scan)",
+          "url": "https://archive.org/details/1977motionpictur3311213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the score to Louis Gruenberg. It is a sound film, so the recorded track would normally share the film's own copyright status, which is itself undetermined. Whether the music has a separate registration or renewal was not checked.",
+          "source": "Wikipedia, Quicksand (1950 film)",
+          "url": "https://en.wikipedia.org/wiki/Quicksand_(1950_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the screenplay to Robert Smith and does not mention any source material. Whether the story is an original screenplay was not independently confirmed.",
+          "source": "Wikipedia, Quicksand (1950 film)",
+          "url": "https://en.wikipedia.org/wiki/Quicksand_(1950_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1977,
+      1978
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1977 or 1978 (search “Quicksand”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1977 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1978 Motion Pictures Jan-Jun (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig14libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Quicksand_clear",
+      "label": "Quicksand (1950), Internet Archive copy, 1h18m, black and white",
+      "quality": "Full-length copy. The metadata lists Irving Pichel as director and Samuel H. Stiefel Productions as publisher."
+    }
+  ],
+  "editorial": "Quicksand is a 1950 black-and-white crime drama directed by Irving Pichel and starring Mickey Rooney, Peter Lorre and Jeanne Cagney. It was produced by Samuel H. Stiefel Productions and released by United Artists on March 24, 1950. Rooney plays a garage mechanic who borrows $20 from the till to fund a date, and the trouble grows from there. Louis Gruenberg wrote the score and Robert Smith wrote the screenplay. Rooney and Lorre in a compact noir make it an easy pick for a clip reel or a noir compilation.\n\nThe rights trap is that the film's copyright status is unresolved. Release in 1950 put the renewal deadline in 1978. My check of the Catalog of Copyright Entries was partial. I scanned only the Jan-Dec 1977 and Jan-Jun 1978 volumes, and the text was truncated. I did not check the Jul-Dec 1978 volume. I did not search the Copyright Office public catalog. Free copies on the Internet Archive are not proof that the copyright lapsed. Before reusing the film, search the 1977-1978 renewals yourself and confirm the music is not covered by a separate renewal. Treat the film as undetermined until that is done.",
+  "faq": [
+    [
+      "Is Quicksand (1950) in the public domain?",
+      "Unconfirmed. The film came out in 1950, so it was only public domain if its copyright was not renewed in the 1977-1978 window. A partial scan of two catalog volumes (Jan-Dec 1977 and Jan-Jun 1978) found no renewal, but it was incomplete, the Jul-Dec 1978 volume was not checked, and the Copyright Office catalog was not searched. Run that search before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Only after you have confirmed the renewal status. Being hosted on the Archive does not settle copyright. If the film is public domain, a faithful copy adds no new copyright. Any added titles, new music or other additions in a particular copy could still be protected."
+    ]
+  ]
+}
