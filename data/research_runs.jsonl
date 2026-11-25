@@ -772,3 +772,6 @@
 {"date": "2026-11-25", "id": "the-sign-of-four-1932", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-25", "id": "the-new-adventures-of-tarzan-1935", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
 {"date": "2026-11-25", "id": "becky-sharp-1935", "result": "refreshed", "reasons": []}
+{"date": "2026-11-25", "id": "the-sign-of-four-1932", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-25", "id": "the-new-adventures-of-tarzan-1935", "result": "queued", "reasons": []}
+{"date": "2026-11-25", "id": "dick-tracy-1937", "result": "queued", "reasons": []}

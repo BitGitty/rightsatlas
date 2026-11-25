@@ -1,0 +1,99 @@
+{
+  "id": "dick-tracy-1937",
+  "title": "Dick Tracy",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Republic Pictures 15-chapter serial, produced by Nat Levine in 1937 according to the Internet Archive item description. For a 1937 film, public domain status would depend on a missing notice or a missing renewal in the 1964-1965 window (the renewal had to be filed in year 27 or 28 of the first term). A renewal filed in 1965 may appear in a catalog volume indexed in 1966. I could not search the Catalog of Copyright Entries renewal volumes or the Copyright Office public catalog. No renewal absence is established.",
+          "source": "Internet Archive item record for the combined serial",
+          "url": "https://archive.org/details/PhotosbyHaroldDickTracyAll15ChaptersCombined"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is a sound film, so the recorded track would normally share the print's status. I did not check whether any music was separately registered or renewed.",
+          "source": "Internet Archive item record",
+          "url": "https://archive.org/details/dicktracy1937chapter1thespiderstrikesyoutube480p"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial shares its title and character name with the Dick Tracy comic strip. Any strip rights would be a separate copyright, and nothing found here clears them. I did not check the strip's renewal or the strip owner's rights. The Internet Archive records do not address the strip's copyright status, so this layer is undetermined, not cleared.",
+          "source": "Internet Archive item record",
+          "url": "https://archive.org/details/PhotosbyHaroldDickTracyAll15ChaptersCombined"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unsearched placeholder. Dick Tracy is a long-running character and franchise name, and any active trademark would survive copyright expiry. I did not look up registrations. Check USPTO records.",
+          "source": "Queue row note: franchise, verify TM",
+          "url": null
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Dick Tracy”, ~1964, 1965)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ],
+    "note": null
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/PhotosbyHaroldDickTracyAll15ChaptersCombined",
+      "label": "Dick Tracy (1937) – all 15 chapters combined",
+      "quality": "Complete serial in one file (about 8.1 GB across formats). The uploader states that redundant credits for chapters 2–15 were edited out."
+    },
+    {
+      "url": "https://archive.org/details/dicktracy1937chapter1thespiderstrikesyoutube480p",
+      "label": "Dick Tracy (1937) – chapters 1–15 as separate files",
+      "quality": "15 separate MP4 chapters, each labeled YouTube (480p) (about 1.4 GB total)."
+    }
+  ],
+  "editorial": "Dick Tracy (1937) is a 15-chapter Republic Pictures serial, produced by Nat Levine according to the Internet Archive description. It shares its title and character with the Dick Tracy comic strip. Complete copies circulate on the Internet Archive. A creator might use it for episodic clips, period crime-serial material, or a full-length watch-along.\n\nThe rights trap is that this is a 1937 film built on a long-running franchise. For a film from this era, public domain status depends on a missing notice or a missing renewal in the 1964-1965 window. I could not confirm either, so the print stays undetermined. Even if the serial's own copyright lapsed, any underlying strip rights and the Dick Tracy character and name may be separate rights, and I did not verify their status. Check the renewal records and any active trademark before you use the title or character in new work, or on merchandise. A public domain label on an Internet Archive item is the uploader's, and it does not prove the film's status.",
+  "faq": [
+    [
+      "Is the 1937 Dick Tracy serial public domain?",
+      "Not confirmed. A 1937 film is public domain only if its notice was missing or its renewal was never filed in year 27 or 28 (1964-1965). I did not verify either. Search the Copyright Office public catalog and the Catalog of Copyright Entries for 1964-1965 yourself before relying on it. Copies and labels on the Internet Archive do not prove the film's status."
+    ],
+    [
+      "Can I use the Dick Tracy name or character if the serial print is free?",
+      "Not safely. The serial shares its name and character with the Dick Tracy comic strip, which would have its own copyright that I did not check. The name and character may also carry trademark protection, which does not expire with copyright. Even if the print is clear, you would need to clear the character and title for new works or merchandise."
+    ]
+  ]
+}

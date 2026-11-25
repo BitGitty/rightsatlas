@@ -1,0 +1,107 @@
+{
+  "id": "the-new-adventures-of-tarzan-1935",
+  "title": "The New Adventures of Tarzan",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item carries a Public Domain Mark 1.0, uploaded by RetroFlixUploads. That is an uploader's label, not a copyright record. As an unrecorded partial check, I looked for 'Tarzan' and 'Burroughs-Tarzan' in the OCR text of three Catalog of Copyright Entries volumes: Third Series, Parts 12-13, Motion Pictures and Filmstrips, for 1962 (Vol 16 No 1-2, id catalogofcopyr3161213libr), 1963 (Vol 17 No 1-2, id catalogofcopyr3171213libr) and 1964 (Vol 18 No 1-2, id catalogofc19643181213libr). The search was automated text matching. Only about the first 180K characters of each file (roughly 800-950K characters) were read directly, and the rest was checked only through a model summary. I found no match, but this is not a complete renewal search and I cannot rule out a renewal. I did not search the Copyright Office public catalog. The print stays undetermined.",
+          "source": "Internet Archive item metadata; Internet Archive Catalog of Copyright Entries volumes (partial OCR check)",
+          "url": "https://archive.org/details/the-new-adventures-of-tarzan-1935"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a 1935 sound serial. Any recorded track would normally share the print's status, so the score stays undetermined until the print is resolved. I did not identify the music credits.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-new-adventures-of-tarzan-1935"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Edgar Rice Burroughs as the original character's creator. It says Charles F. Royal and Edwin Blum wrote the screen treatment, and that the final screenplay was credited to Royal and, from Episode 6, Basil Dickey. I did not trace which Burroughs novels the serial draws on or their publication dates, so the story layer is unresolved.",
+          "source": "Wikipedia article on the serial",
+          "url": "https://en.wikipedia.org/wiki/The_New_Adventures_of_Tarzan"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive description says Tarzan goes to Guatemala to find his lost friend D'Arnot. On the way he helps Major Matling search Mayan ruins for hidden jewels and an idol containing the formula for a powerful explosive.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/the-new-adventures-of-tarzan-1935"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the serial was re-released in England after World War II in edited versions by E. J. Fancey's New Realm Pictures, Ltd. It says these truncated versions later became staples of US television, videotape and DVD, so the original editions may be considered lost to the general public. It also says the 'restored' version issued on DVD in 2019 by The Roan Group has only the abridged first episode. I did not confirm what the 2019 release adds, so I can't classify it.",
+          "source": "Wikipedia article on the serial",
+          "url": "https://en.wikipedia.org/wiki/The_New_Adventures_of_Tarzan"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The New Adventures of Tarzan”, ~1962, 1963)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962, Parts 12-13 Motion Pictures and Filmstrips, Vol 16 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1963, Parts 12-13 Motion Pictures and Filmstrips, Vol 17 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964, Parts 12-13 Motion Pictures and Filmstrips, Vol 18 (supplemental: late-listed entries) (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-new-adventures-of-tarzan-1935",
+      "label": "The New Adventures of Tarzan (1935), Internet Archive",
+      "quality": "Serial in 12 chapters; flagged Public Domain Mark by the uploader. Source and completeness not verified."
+    }
+  ],
+  "editorial": "The New Adventures of Tarzan is a 12-chapter serial dated May 21, 1935. Wikipedia credits Edgar Rice Burroughs, Ashton Dearholt and George W. Stout as producers, and Edward Kull and Wilbur F. McGaugh as directors. In the story, Tarzan travels to Guatemala to find his friend D'Arnot and gets caught up in a hunt through Mayan ruins for jewels and an idol hiding an explosives formula. Wikipedia says the serial did much better abroad, especially in England. Truncated British re-release edits by New Realm Pictures later became staples of US television and home video.\n\nThe main trap is that the Internet Archive's Public Domain Mark is not evidence of lapsed rights. My text check of the 1962–1964 Catalog of Copyright Entries motion-picture volumes found no match, but it was partial and unrecorded as a full search, so the print is unresolved. The Tarzan character and later Burroughs material may carry separate rights, and trademark claims on the name do not depend on film copyright. Clear the renewal question, the underlying novels and any marks before commercial use.",
+  "faq": [
+    [
+      "Is The New Adventures of Tarzan safe to reuse commercially?",
+      "Not yet. Whether the 1935 film was renewed is unresolved here. Check the Copyright Office public catalog and the 1962–1964 Catalog of Copyright Entries volumes, then clear the Tarzan character and trademark question separately."
+    ],
+    [
+      "Does the Internet Archive's Public Domain Mark settle it?",
+      "No. The mark is the uploader's label, not a copyright record. Per Wikipedia, the truncated re-release edits became the versions most seen on US television and home video, so a copy you reuse may differ from the 1935 original."
+    ]
+  ]
+}
