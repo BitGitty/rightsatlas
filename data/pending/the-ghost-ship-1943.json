@@ -1,0 +1,96 @@
+{
+  "id": "the-ghost-ship-1943",
+  "title": "The Ghost Ship",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film cites Hurst and Baer, Film Superlist: Motion Pictures in the U.S. Public Domain, 1940-1949 (1992), for its public-domain claim. We could not confirm this in the Catalog of Copyright Entries. We read the 1970 renewal section only from A through 'Frontier Badmen' (Universal, 11Aug43), so the G titles were never reached. We did not reach the 1971 and 1972 renewal sections. A renewal of this film is therefore not ruled out.",
+          "source": "Wikipedia, The Ghost Ship (1943 film); CCE Motion Pictures 1970 volume on archive.org",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the print's status. It stays undetermined until the print's renewal status is settled.",
+          "source": "analysis",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the screenplay to Donald Henderson Clarke and the story to Leo Mittler. It reports that Samuel R. Golding and Norbert Faulkner sued Val Lewton in February 1944, and that the court ruled against him. Wikipedia gives the case as Golding v. RKO Radio Pictures, Inc., 193 P.2d 153 (Cal. App. 1948), affd, 35 Cal. 2d 690, 221 P.2d 95 (1950). We have not read the opinions. The controlling decision is the California Supreme Court's, 35 Cal.2d 690 (1950), and the procedural history is unchecked against the opinion itself.",
+          "source": "Wikipedia, The Ghost Ship (1943 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Ghost_Ship_(1943_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a 2005 Val Lewton Horror Collection DVD set and a 2021 Warner Archive Blu-ray sharing a disc with Bedlam. We found no Warner Archive or retailer source, so both releases are reported by Wikipedia only and are unverified. We did not check either release for added material.",
+          "source": "Wikipedia, The Ghost Ship (1943 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Ghost_Ship_(1943_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971,
+      1972
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Ghost Ship”, ~1970, 1971, 1972)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1970 (archive.org) — check the RENEWAL REGISTRATIONS section under G",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1971 (archive.org) — check the RENEWAL REGISTRATIONS section under G",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1972 (archive.org) — check the RENEWAL REGISTRATIONS section under G",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Ghost Ship (RKO, released 24 December 1943) is a Val Lewton production directed by Mark Robson. Wikipedia gives its budget as $150,000.\n\nThe rights trap is the film's own history, not a copyright date. According to Wikipedia, Samuel R. Golding and Norbert Faulkner sued Lewton in 1944, and the court ruled against him. Wikipedia reports $25,000 in damages and $5,000 in fees, and says the film lost its television sale rights. We have not read the court opinions. Wikipedia's public-domain claim rests on Hurst and Baer, Film Superlist (1992). We could not confirm it. We read the 1970 Catalog of Copyright Entries renewal volume only from A to 'Frontier Badmen', and we did not reach the 1971 and 1972 volumes. Until a renewal search clears the G titles in the 1970 to 1972 renewal sections, treat the print as unverified.",
+  "faq": [
+    [
+      "Is The Ghost Ship (1943) safe to reuse?",
+      "Not yet confirmed. Wikipedia, citing Hurst and Baer (1992), points to public-domain status. We could not verify that. We read the 1970 Catalog of Copyright Entries volume only from A to 'Frontier Badmen', and we did not reach 1971 or 1972. Run the renewal search before relying on it."
+    ],
+    [
+      "Does the plagiarism lawsuit affect reuse today?",
+      "Wikipedia reports that Golding and Faulkner sued over plagiarism and won, with the California Supreme Court affirming in 1950 (35 Cal.2d 690). It also reports $25,000 in damages, $5,000 in fees and loss of the film's television sale rights. We have not read the opinion. The suit does not set the film's copyright term, but it matters for provenance."
+    ]
+  ]
+}
