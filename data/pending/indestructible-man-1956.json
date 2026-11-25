@@ -1,0 +1,99 @@
+{
+  "id": "indestructible-man-1956",
+  "title": "Indestructible Man",
+  "year": 1956,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives Allied Artists Pictures as the US distributor and a 1956 US release. Sources disagree on the exact day, so none is given here. A 1956 release means any renewal fell due in 1984. No renewal search was performed: neither the 1984 Catalog of Copyright Entries motion picture volumes nor the Copyright Office public catalog was searched. The fetched Wikipedia page does not state that the film is public domain. The Internet Archive item carries an uploader's Public Domain Mark, which is not a copyright record. No renewal absence is confirmed, so the print is not marked verified_pd.",
+          "source": "Wikipedia, Indestructible Man (secondary, release and distributor only)",
+          "url": "https://en.wikipedia.org/wiki/Indestructible_Man"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Albert Glasser, marked uncredited. This is a sound film, so the recorded track normally shares the print's status. That has not been confirmed, because the print's own status is undetermined.",
+          "source": "Wikipedia, Indestructible Man (secondary)",
+          "url": "https://en.wikipedia.org/wiki/Indestructible_Man"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writers as Vy Russell and Sue Dwiggins. The source of the story was not checked, so whether it is an original screenplay or an adaptation is unconfirmed.",
+          "source": "Wikipedia, Indestructible Man (secondary)",
+          "url": "https://en.wikipedia.org/wiki/Indestructible_Man"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item 'Indestructible Man (1956) [P&M] 480p DVD (2.9GB)' is an uploader's copy of a DVD source. Its description does not call it a restoration. No restoration was identified, and the provenance of the copies was not verified. Wikipedia says a Mystery Science Theater 3000 version was released by Rhino Home Video in its Collection Volume 11 box set, and by Shout Factory in 2019. That riffed edition is a separate derivative release.",
+          "source": "Internet Archive item page; Wikipedia, Indestructible Man (Home media)",
+          "url": "https://archive.org/details/indestructible-man-pnm"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1983,
+      1984,
+      1985
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Indestructible Man”, ~1983, 1984, 1985). Search link only; no search was performed.",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — search for the 1984 Motion Pictures and Filmstrips renewal volume and browse by hand. Search link only; not searched.",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-indestructible-man-1956",
+      "label": "The Indestructible Man (1956), full film",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/IndestructibleMan1956CrimeHorrorScienceFiction",
+      "label": "Indestructible Man (1956), full film",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Indestructible Man is a 1956 film directed by Jack Pollexfen. Per Wikipedia, C.G.K. Productions made it and Allied Artists Pictures released it in the US. Writers are credited as Vy Russell and Sue Dwiggins, and Albert Glasser composed the music, uncredited. A Mystery Science Theater 3000 version of the film also exists.\n\nThe rights trap is that the print's status is unproven. The Wikipedia article does not state that the film is public domain, and a public domain mark on an Internet Archive upload is not a copyright record. A film released in 1956 is free only if it lacked notice or its renewal was never filed, and any renewal was due in 1984. We did not search the 1984 Catalog of Copyright Entries or the Copyright Office catalog, so check the renewal yourself before relying on it. The Mystery Science Theater 3000 edition is a separate release with added commentary, so use a clean print instead.",
+  "faq": [
+    [
+      "Is Indestructible Man (1956) in the public domain?",
+      "Not confirmed here. We did not search the 1984 renewal records or the Copyright Office catalog. Run the search links yourself before commercial reuse."
+    ],
+    [
+      "Can I reuse the Mystery Science Theater 3000 version?",
+      "No assumption of freedom should be made. Per Wikipedia, that edition was released by Rhino Home Video in its Collection Volume 11 box set and by Shout Factory in 2019. The added commentary is separate material that is likely protected, so use a clean print of the film itself instead."
+    ]
+  ]
+}

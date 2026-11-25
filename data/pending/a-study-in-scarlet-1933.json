@@ -1,0 +1,102 @@
+{
+  "id": "a-study-in-scarlet-1933",
+  "title": "A Study in Scarlet",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released in the US on 14 May 1933, so it does not qualify for public domain by term alone. Its status depends on a missing notice or a missing renewal. The 28th-year renewal window is 1960-1961. A text check of the 1960 and 1961 Catalog of Copyright Entries motion-picture volumes found no 'Study in Scarlet' renewal entry. The volume text was truncated during retrieval, so this is not a complete search. No notice-failure document has been found.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1960 (partial text check)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion check of the 1961 motion-picture volume, same partial coverage and same result: no renewal entry seen.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1961 (partial text check)",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a 1933 sound film. The recorded track would normally share the film's own copyright status, which is unresolved. No separate composer or score ownership has been confirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/A_Study_In_Scarlet"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Only the title comes from Arthur Conan Doyle's 1887 novel. The screenplay by Robert Florey was an original story. The screenplay is therefore a 1933 work that follows the film's own copyright status, not the novel's.",
+          "source": "Wikipedia article on the film (background, not primary)",
+          "url": "https://en.wikipedia.org/wiki/A_Study_in_Scarlet_(1933_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": "Partial text checks of the 1960 and 1961 CCE motion-picture volumes found no 'Study in Scarlet' renewal. The text was truncated, so this is not a conclusive negative. No complete search has been done. Renewals filed before 1978 are not in the online Copyright Office catalog, so the CCE volumes must be read by hand.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1960 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1961 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/A_Study_In_Scarlet",
+      "label": "A Study in Scarlet (1933), 71 min, Internet Archive",
+      "quality": "full feature, b&w sound"
+    },
+    {
+      "url": "https://archive.org/details/AStudyInScarlet720p1933",
+      "label": "A Study in Scarlet (1933), 720p copy, Internet Archive",
+      "quality": "720p"
+    }
+  ],
+  "editorial": "A Study in Scarlet (1933) is an American pre-Code mystery. Edwin L. Marin directed it, with Reginald Owen as Sherlock Holmes and Anna May Wong as Mrs. Pyke. KBS Productions made it. It was released 14 May 1933 through Sono Art-World Wide Pictures and Fox Film Corporation. Despite the title, the story is not Doyle's novel. The screenplay by Robert Florey is original. It follows a secret society in London that collects the assets of its dead members. A creator would want it for the early sound Holmes, the Limehouse atmosphere and the Wong casting.\n\nThe trap is the 1933 copyright, which has not been resolved here. The Doyle novel is long out of copyright, but that does not cover the original screenplay or the film. Our partial check of the 1960 and 1961 renewal volumes found no renewal, but the text was truncated, so the search is not complete. Read the renewal volumes in full before treating the print as free. Do not assume the Internet Archive copies prove the film's status.",
+  "faq": [
+    [
+      "Is the 1933 A Study in Scarlet public domain?",
+      "Not confirmed. A partial check of the 1960 and 1961 renewal volumes found no renewal, but the text was truncated and no notice-failure document has been found. Treat the print as undetermined until the volumes are read in full."
+    ],
+    [
+      "Does Conan Doyle's novel make the film free to use?",
+      "No. Only the title comes from Doyle's 1887 novel. The screenplay by Robert Florey is original, so the film stands on its own 1933 copyright status."
+    ]
+  ]
+}

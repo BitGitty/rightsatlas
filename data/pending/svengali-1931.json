@@ -1,0 +1,101 @@
+{
+  "id": "svengali-1931",
+  "title": "Svengali",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1958 (Vol 12, No 1), archive.org item catalogofcopyrig3121213li. The OCR text file was fetched, but the fetch tool returned only the first ~39,000 characters of roughly 813,000. 'SVENGALI' did not appear in that portion. The rest was not read, so no renewal check of this volume is claimed. For a film released 1 May 1931, the renewal year was 1958 (year 28).",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1958, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1959 (Vol 13, No 1), archive.org item catalogofcopyrig3131213li. Only the first ~39,000 characters of the roughly 708,000-character OCR text were returned. 'SVENGALI' did not appear in that portion. The rest was not read, so no renewal check of this volume is claimed. 1959 is a late-filing margin after the 1958 renewal year. OCR text could also miss a misspelled entry.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1959, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score and recorded track were not traced. No composer or music-rights record was confirmed. The Wikipedia article on the film lists no composer or music credit. Any pre-existing music in the track needs its own check.",
+          "source": "Wikipedia article on the film, which names no composer",
+          "url": "https://en.wikipedia.org/wiki/Svengali_(1931_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film is based on George du Maurier's novel Trilby. Wikipedia says it was serialized in Harper's New Monthly Magazine from January to August 1894 and published in book form on 8 September 1894. A work published in 1894 has passed its US copyright term (year+76, 1970 at the latest), so the source novel is in the public domain in the US.",
+          "source": "Wikipedia article on the novel Trilby (publication dates); term-expiry reasoning is separate",
+          "url": "https://en.wikipedia.org/wiki/Trilby_(novel)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959
+    ],
+    "negative_result": "No renewal for 'Svengali' was found, but the search was incomplete. Only the first ~39,000 characters of the OCR text of each of the 1958 and 1959 Catalog of Copyright Entries Motion Pictures volumes were read. The 1960 volume was not searched. The Copyright Office public records site could not be searched through automated fetching, so no result from it is claimed. The renewal status is therefore unconfirmed.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Svengali”, ~1958, 1959)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1958 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1959 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/SvengaliJohnBarrymoreBKCap1931",
+      "label": "Svengali (1931), Archie Mayo, with John Barrymore and Marian Marsh",
+      "quality": "Not checked"
+    },
+    {
+      "url": "https://archive.org/details/Sveng",
+      "label": "Svengali (1931), archive.org item",
+      "quality": "Not checked"
+    }
+  ],
+  "editorial": "Svengali is Warner Bros.' 1931 adaptation of George du Maurier's 1894 novel Trilby. Archie Mayo directed it and Barney McGill shot it. John Barrymore plays the hypnotist who turns Trilby (Marian Marsh) into a singer. The cast also includes Bramwell Fletcher, Donald Crisp and Carmel Myers. It opened in New York on 1 May 1931. Wikipedia, citing the AFI Catalog, gives the shoot as 12 January to 21 February 1931. A creator might want it for Barrymore's performance.\n\nThe print's rights status is not confirmed. The renewal window for a 1931 film ran mainly in 1958, with 1959 as a late margin. Only the opening part of the OCR text of each of those two Catalog of Copyright Entries volumes was read, and it showed no renewal. That is not a full search, so check the full volumes and the Copyright Office records yourself before treating the film as free. The source novel is out of copyright by term. The score and track were not traced to a composer, so check any music before you lift the audio. Check each upload for added material, and take the picture from a plain scan.",
+  "faq": [
+    [
+      "Is the 1931 Svengali free to use in the US?",
+      "Not confirmed. The source novel Trilby (1894) is out of copyright by term. For the film, the 1958 and 1959 Catalog of Copyright Entries volumes were only partly read, and the part read showed no renewal. Search the full volumes and the Copyright Office records to finish the check. The score and recorded music were not traced, and no trademark check was done."
+    ],
+    [
+      "Can I use the Internet Archive copies as they are?",
+      "Check each upload first. The quality and any added material, such as subtitles or edits, were not checked. Use a plain scan and check the rights in any added material."
+    ]
+  ]
+}
