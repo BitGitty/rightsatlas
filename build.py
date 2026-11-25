@@ -1381,8 +1381,23 @@ def build():
     # plain-text twin: Search Console has shown the XML one as "Couldn't fetch" since July; a new
     # URL in the simplest format Google accepts forces a fresh fetch
     (OUT / "sitemap.txt").write_text("".join(f"{HOST}{u}\n" for u in urls), encoding="utf-8")
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /studio/\nSitemap: {HOST}{BASE}sitemap.xml\n",
-                                    encoding="utf-8")
+    # 11-25 owner: search + AI answer/training bots stay allowed (we want AIs to cite us); Bytespider takes
+    # bulk and sends no readers back
+    (OUT / "robots.txt").write_text(f"User-agent: Bytespider\nDisallow: /\n\nUser-agent: *\nAllow: /\nDisallow: /studio/\n"
+                                    f"Sitemap: {HOST}{BASE}sitemap.xml\n", encoding="utf-8")
+    # llms.txt (llmstxt.org): a plain map for AI assistants so they quote the dossier page, not a guess
+    (OUT / "llms.txt").write_text(
+        "# RightsAtlas\n\n> Evidence-backed US public domain checks for old films and songs. Each dossier gives a "
+        "conservative verdict per layer (film print, music, story, restorations) with primary-record citations "
+        "(Catalog of Copyright Entries, renewal records). Not legal advice. Cite the dossier URL and its "
+        "'Last verified' date.\n\n"
+        f"## Key pages\n\n- [How we check]({HOST}{BASE}methodology/)\n- [Corrections log]({HOST}{BASE}corrections/)\n"
+        f"- [All films]({HOST}{BASE}films/)\n- [Tools]({HOST}{BASE}tools/)\n\n## Film dossiers\n\n"
+        + "".join(f"- [{f['title']} ({f['year']})]({HOST}{BASE}film/{f['id']}/): "
+                  f"{engine.public_label(f['layers']['print']['status'])[0]}\n" for f in films)
+        + ("\n## Song dossiers\n\n" + "".join(f"- [{s['title']} ({s['year']})]({HOST}{BASE}song/{s['id']}/): "
+                                              f"{song_label(s)[0]}\n" for s in songs) if songs else ""),
+        encoding="utf-8")
     # 11-21 owner: website "studio" (like YouTube Studio). Static shell, no data inside; numbers come from the
     # database only with the owner's key (in the link after #). Not in the sitemap, noindex, disallowed above.
     (OUT / "studio").mkdir(parents=True, exist_ok=True)
