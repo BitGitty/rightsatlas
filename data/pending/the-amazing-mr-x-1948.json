@@ -1,0 +1,87 @@
+{
+  "id": "the-amazing-mr-x-1948",
+  "title": "The Amazing Mr. X",
+  "year": 1948,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive uploads of this film are tagged public domain. One upload's description reads 'PD due to lack of copyright renewal' and carries a Public Domain Mark. That is an uploader's claim, not a primary record. I did not search any Catalog of Copyright Entries volume for a renewal, so no volume or year was checked. A 1948 work's renewal had to be filed in its 28th year (1976), or in the 27th year (1975) at the earliest. A hand check of the 1948 registration and the 1975 and 1976 renewal listings is still needed, along with a Copyright Office public-records search.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-amazing-mr.-x-1948-by-bernard-vorhaus"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Alexander Laszlo. It is a sound-film track, so it should share the film's own status, which is unconfirmed. I did not verify any separate cue-sheet or music publication.",
+          "source": "Wikipedia film article (secondary)",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Mr._X"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the screenplay to Crane Wilbur, Muriel Roy Bolton and Ian McLellan Hunter, from an original story by Crane Wilbur. I did not check whether that story was published separately or renewed.",
+          "source": "Wikipedia film article (secondary)",
+          "url": "https://en.wikipedia.org/wiki/The_Amazing_Mr._X"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1975,
+      1976
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search “The Amazing Mr. X”, renewals ~1975-1976)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-amazing-mr.-x-1948-by-bernard-vorhaus",
+      "label": "The Amazing Mr. X (1948), dir. Bernard Vorhaus",
+      "quality": "Internet Archive upload, not checked for completeness"
+    },
+    {
+      "url": "https://archive.org/details/amazing_mr_x",
+      "label": "The Amazing Mr. X (1948)",
+      "quality": "Internet Archive upload, listed at 1:18:02, not checked for completeness"
+    }
+  ],
+  "editorial": "The Amazing Mr. X (also released as The Spiritualist) is a 1948 US thriller directed by Bernard Vorhaus. Wikipedia lists it as produced by Benjamin Stoloff (Ben Stoloff Productions) and distributed by Eagle-Lion Films, with a release date of July 29, 1948. I did not check other sources for the date. Turhan Bey plays a spiritualist who preys on a widow, played by Lynn Bari. Cathy O'Donnell, Richard Carlson and Donald Curtis co-star. Wikipedia credits the music to Alexander Laszlo and the cinematography to John Alton.\n\nInternet Archive uploaders tag the film public domain, and one says 'PD due to lack of copyright renewal'. Wikipedia also states 'The film is in the public domain', but I found no primary record behind either claim. I did not search the Catalog of Copyright Entries or the Copyright Office records. Treat the print as unconfirmed until the 1975 and 1976 renewal listings and the Copyright Office's online records have been checked by hand. The two Internet Archive copies are unchecked uploads, and I did not confirm that either is a complete, uncut print. The story and the music were not independently cleared. The underlying Crane Wilbur story is the main open risk for reusers.",
+  "faq": [
+    [
+      "Is The Amazing Mr. X (1948) public domain?",
+      "Possibly, but I could not confirm it from a primary record. Internet Archive uploaders tag it public domain, and Wikipedia says it is in the public domain. I did not search the renewal records. A 1948 film's renewal would fall in 1975-1976. Check the Catalog of Copyright Entries and the Copyright Office public records before relying on this."
+    ],
+    [
+      "Can I use the Internet Archive copies commercially?",
+      "Only after the print's status is confirmed. Check the story and score separately. Internet Archive's public-domain tag is an uploader's label, not proof of the film's copyright status. I also did not check whether the uploads are complete."
+    ]
+  ]
+}

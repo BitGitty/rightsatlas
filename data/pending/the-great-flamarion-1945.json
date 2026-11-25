@@ -1,0 +1,101 @@
+{
+  "id": "the-great-flamarion-1945",
+  "title": "The Great Flamarion",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The renewal window for a March 1945 release is 1972-1973. In the 1973 Catalog of Copyright Entries motion-picture volume I read the title index entries for F and G in full text. They show no 'Great Flamarion' or 'Flamarion' entry, and renewals are indexed there under R numbers. I did not read the whole 1973 renewal section, only its second part (R558523 to R566075). I could not read the 1972 volume's renewal section at all. The Copyright Office public catalog was not searched. Absence of a renewal is therefore not established, and the film's original notice was not checked.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures Jan-Dec 1973 (archive.org full text)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1972 motion-picture volume, listed as a volume to hand-check. Its renewal section was not read.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips Jan-Dec 1972",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Alexander László. The score was recorded for the film, so it likely shares the print's status, but no separate score registration was checked.",
+          "source": "Wikipedia, The Great Flamarion",
+          "url": "https://en.wikipedia.org/wiki/The_Great_Flamarion"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox says the film is based on the short story 'Big Shot' by Vicki Baum. The page gives no first-publication date or place. The story's own copyright and renewal status were not checked, and it could carry separate rights.",
+          "source": "Wikipedia, The Great Flamarion",
+          "url": "https://en.wikipedia.org/wiki/The_Great_Flamarion"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973,
+      1974
+    ],
+    "negative_result": "Partial only. The 1973 CCE motion-picture volume's F and G index entries and the second part of its renewal section show no Flamarion entry. The 1972 renewal section and the Copyright Office catalog were not checked.",
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures 1972 (archive.org full text; search for FLAMARION)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1973 (archive.org full text; search for FLAMARION)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1974 (archive.org full text; search for FLAMARION)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      },
+      {
+        "label": "US Copyright Office public records (search 'Great Flamarion', 'W. Lee Wilder', 'Republic')",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-great-flamarion-1945_202501",
+      "label": "The Great Flamarion (1945), 78 min, Internet Archive, marked Public Domain Mark by the uploader",
+      "quality": "full feature, 78 min"
+    }
+  ],
+  "editorial": "The Great Flamarion is a 78-minute film noir directed by Anthony Mann and released March 30, 1945. Erich von Stroheim plays a vaudeville sharpshooter who kills his unfaithful partner's husband, played by Dan Duryea, and Mary Beth Hughes plays the wife who plays him. Wikipedia credits W. Lee Wilder as producer, Republic Pictures as distributor, a screenplay by Heinz Herald, Richard Weil and Anne Wigton, and music by Alexander László. A noir with von Stroheim in a late lead role is a natural fit for clip reels, essays and archival screenings.\n\nThe rights trap is that nothing here is confirmed. A 1945 film needed renewal in 1972-73, and my check was incomplete: the 1973 Catalog of Copyright Entries index shows no Flamarion entry, but I did not read the 1972 renewal section, the whole 1973 renewal section or the Copyright Office catalog. The story is credited to Vicki Baum's 'Big Shot', and I could not confirm its publication or renewal. Internet Archive's Public Domain Mark is the uploader's label, not a copyright finding.",
+  "faq": [
+    [
+      "Is The Great Flamarion in the public domain?",
+      "Not confirmed. The 1973 CCE index I read shows no renewal under 'Flamarion', which fits a lapsed copyright. The 1972 renewal section and the Copyright Office catalog were not checked, so verify them before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The uploader marks it Public Domain Mark, but that is not a rights determination. Before reuse, finish the renewal search and check the Vicki Baum story's status and any added titles or music on that particular copy."
+    ]
+  ]
+}
