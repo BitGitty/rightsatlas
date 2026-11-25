@@ -1,0 +1,113 @@
+{
+  "id": "the-monster-walks-1932",
+  "title": "The Monster Walks",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1960 (Vol 14). For a film published in February 1932, the renewal window is the 28th year of the first term, about Feb 1959 to Feb 1960. The 1959 and 1960 CCE renewal volumes are therefore the primary searches. The 1961 volume is only a check for a late or irregular filing. The 1960 renewal sections (Jan-Jun and Jul-Dec) were searched by title only, and no MONSTER WALKS entry was seen. No page range or OCR confirmation was recorded for that search. Searches under the proprietor names (Action Pictures, Mayfair Pictures) and under variant spellings were not done. The 1959 volume was not read in full. The search is incomplete, so the second citation the gate needs for verified_pd was not completed.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1960, archive.org",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1959 and 1961 renewal volumes are listed on archive.org but their renewal sections were not fully read. The 1950-1959 cumulative volume was not checked. Wikipedia says the film's copyright has lapsed, and the article gives no source for that statement. OCR in these volumes is noisy, so a renewal under a variant spelling or a proprietor name could be missed.",
+          "source": "Catalog of Copyright Entries 1959 and 1961 volumes, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Jean de la Roche and Charles Dunworth. No registration or renewal for the music was checked, and the source is a credits listing only. Music written for a film can have its own copyright and renewal, so the score's status is unchecked.",
+          "source": "Wikipedia, The Monster Walks (credits only)",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_Walks"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writing to Robert Ellis. No source play or novel was identified, so no earlier source term was checked. Whether the story was separately registered or renewed was not checked.",
+          "source": "Wikipedia, The Monster Walks",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_Walks"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item 'The Monster Walks (1932) [Colorized, 4K, 60FPS]' was uploaded on July 20, 2022. Its description says the black-and-white film was colorised, upscaled to 4K and frame-rate boosted to 60 FPS in 2022 using AI tools (DeOldify, RIFE, ffmpeg). Colorization and upscaling are added material and can be protected. A faithful black-and-white copy adds no new US copyright.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/themonsterwalks-4k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": "The 1960 CCE renewal sections (Jan-Jun and Jul-Dec) were searched by title only, and no MONSTER WALKS entry was seen. No page range or OCR confirmation was recorded. Proprietor-name searches (Action Pictures, Mayfair Pictures) and variant-spelling searches were not done. The 1959 volume, which covers the start of the renewal window, was not read in full. The 1961 volume matters only for a late or irregular filing and was also not read in full. The search is not complete.",
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1960 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1959 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1961 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Monster_Walks",
+      "label": "The Monster Walks (1932), Internet Archive",
+      "quality": "Full feature, directed by Frank R. Strayer"
+    },
+    {
+      "url": "https://archive.org/details/monster_walks",
+      "label": "Monster Walks, The (1932), Internet Archive",
+      "quality": "Alternate upload of the same film"
+    }
+  ],
+  "editorial": "The Monster Walks is a 60-minute old-dark-house chiller released on February 7, 1932. Frank R. Strayer directed it for Action Pictures, and Mayfair Pictures distributed it. Rex Lease and Vera Reynolds star, with Mischa Auer and Martha Mattox in support. Robert Ellis is credited as writer. Ruth Earlton arrives at her inherited estate, where a hairy hand threatens her at night and an experimental ape is involved.\n\nThe rights question is the renewal. For a film published in February 1932, the renewal window was the 28th year of the first term, about Feb 1959 to Feb 1960. The 1959 and 1960 CCE renewal volumes are the primary searches, and the 1961 volume is only a check for a late filing. I searched the 1960 renewal sections by title only and saw no entry for the film. I did not search under the proprietor names or variant spellings, and I did not read the 1959 volume in full. The search is not finished, so the print is left undetermined. The music and story layers were not checked and stay undetermined. The Internet Archive also hosts a colorized, upscaled version, uploaded July 20, 2022 and described as made with AI tools. That added material may be protected even if the original black-and-white print is free.",
+  "faq": [
+    [
+      "Can I reuse The Monster Walks (1932) in my own video?",
+      "The print's status is undetermined. I searched the 1960 renewal sections by title only and saw no renewal, but I did not read the 1959 volume in full or search under proprietor names or variant spellings. Check the 1959 and 1960 CCE volumes yourself before relying on it. A plain black-and-white transfer adds no new copyright, but the colorized 4K version may add protected material."
+    ],
+    [
+      "Does the film's music have a separate copyright?",
+      "Wikipedia credits Jean de la Roche and Charles Dunworth with the music. Music written for a film can have its own copyright and renewal. I did not check for a separate registration or renewal, so the score layer stays undetermined."
+    ]
+  ]
+}

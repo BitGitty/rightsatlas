@@ -1,0 +1,101 @@
+{
+  "id": "rain-1932",
+  "title": "Rain",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released October 12, 1932 by United Artists. Wikipedia says the copyright was not renewed in the 28th year and the film entered the US public domain in 1960. That claim rests on a 2001 conference talk by David Pierce. The renewal sections of the Catalog of Copyright Entries volumes for 1959-1961 could not be read in full in this session, and no Copyright Office search was completed. Absence of a renewal is therefore unconfirmed.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1960 (renewals window not fully checked)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to Alfred Newman. It is a sound film with a recorded track, so the track most likely follows the film's own copyright status. That status is undetermined until the renewal check is done.",
+          "source": "Wikipedia, Rain (1932 film), credits",
+          "url": "https://en.wikipedia.org/wiki/Rain_(1932_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "W. Somerset Maugham's short story was first published as 'Miss Thompson' in the April 1921 issue of The Smart Set and was collected in The Trembling of a Leaf (1921); it was later retitled 'Rain'. A work published in 1921 is past the US term, so the story is in the US public domain.",
+          "source": "Wikipedia, Rain (short story), publication history",
+          "url": "https://en.wikipedia.org/wiki/Rain_(short_story)"
+        },
+        {
+          "type": "research_note",
+          "note": "The film adapts the play by John Colton and Clemence Randolph, which opened on Broadway on 7 November 1922. Its first publication date was not confirmed, so the play is probably free by term but this is unconfirmed. Maxwell Anderson's 1932 screenplay is new material and is not covered by the story's status.",
+          "source": "Wikipedia, Rain (1932 film) and Rain (short story)",
+          "url": "https://en.wikipedia.org/wiki/Rain_(1932_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Rain”, ~1959, 1960, 1961)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips Jan-Dec 1960 (archive.org) — check the renewals section for Rain",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips Jan-Dec 1959 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips Jan-Dec 1961 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/rain1932",
+      "label": "Rain (1932) on the Internet Archive, Joan Crawford and Walter Huston",
+      "quality": "unrestored copy, quality unchecked"
+    }
+  ],
+  "editorial": "Rain is the 1932 film of the Sadie Thompson story, released by United Artists on October 12, 1932. Joan Crawford, loaned out by MGM, plays Sadie opposite Walter Huston as the missionary Alfred Davidson. Maxwell Anderson wrote the screenplay and Alfred Newman is credited with the music. It adapts the Colton and Randolph play, which opened on Broadway on November 7, 1922 and came from Maugham's 1921 story 'Miss Thompson'. A reuser might want it for the Crawford and Huston performances.\n\nThe trap is that the film's own status is not nailed down. Wikipedia says the copyright lapsed in 1960 because no renewal was filed in the 28th year. The only support it gives is a conference talk. We could not read the 1959-1961 renewal sections of the Catalog of Copyright Entries in full, and we did not complete a Copyright Office search. Until someone checks those records directly, treat the print as unconfirmed. Maugham's story, published in 1921, is free by term. The play is probably free too, but we did not confirm its publication date. Anderson's screenplay is not covered by that reasoning.",
+  "faq": [
+    [
+      "Is the 1932 film Rain in the public domain?",
+      "Possibly, but it is unconfirmed here. Wikipedia says the copyright was not renewed and lapsed in 1960. We could not verify that in the Catalog of Copyright Entries renewal sections or the Copyright Office records. Run the search links on this page before relying on it."
+    ],
+    [
+      "Can I use the Maugham story or the play separately?",
+      "Maugham's story was first published in 1921 (The Smart Set, April 1921, as 'Miss Thompson'), so it is in the US public domain by term. The play opened on Broadway in November 1922 and is probably free on the same basis, but confirm its publication date. Neither covers Maxwell Anderson's 1932 screenplay or the film's recorded score."
+    ]
+  ]
+}

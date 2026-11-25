@@ -1,0 +1,101 @@
+{
+  "id": "aladdin-and-his-wonderful-lamp-1939",
+  "title": "Aladdin and His Wonderful Lamp",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": "Popeye Color Special cartoon directed by Dave Fleischer and produced by Max Fleischer, released April 7, 1939.",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says this short and the other two Popeye Color Specials are in the public domain. That is a secondary claim, not a primary record.",
+          "source": "Wikipedia article: Aladdin and His Wonderful Lamp",
+          "url": "https://en.wikipedia.org/wiki/Aladdin_and_His_Wonderful_Lamp"
+        },
+        {
+          "type": "research_note",
+          "note": "No renewal search was completed in a verifiable way. The archive.org full-text files for the Catalog of Copyright Entries, Motion Pictures, 1967 (catalogofc19673211213libr) and 1966 (catalogofc19663201213libr) were fetched, but only about the first 39,000 characters of each were read. That covered front matter and the start of the current registrations under A and part of B. The renewal sections at the end of each volume were not reached, and the 1968 volume was not read. No entry for this title was seen, but that shows nothing about whether a renewal exists. For a 1939 work the renewal window is 1966-1967; 1968 is only a late-renewal check.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1967 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Sammy Timberg (infobox: music by Sammy Timberg; text: music supervised by Sammy Timberg). This is a sound film, so the recorded track would normally share the print's status, but the print's status is not confirmed.",
+          "source": "Wikipedia article: Aladdin and His Wonderful Lamp",
+          "url": "https://en.wikipedia.org/wiki/Aladdin_and_His_Wonderful_Lamp"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says this short and the other two Popeye Color Specials are adapted from One Thousand and One Nights, a centuries-old tale collection. The source is not copyrightable in the US. The Popeye character is separate and is not covered by this finding.",
+          "source": "Wikipedia article: Aladdin and His Wonderful Lamp",
+          "url": "https://en.wikipedia.org/wiki/Aladdin_and_His_Wonderful_Lamp"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1966 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1967 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1968 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/popeye-meets-aladdin",
+      "label": "Aladdin and His Wonderful Lamp (1939), Internet Archive",
+      "quality": "Internet Archive copy; quality not assessed"
+    }
+  ],
+  "editorial": "Aladdin and His Wonderful Lamp is the last of the three Popeye Color Specials. Dave Fleischer directed it, Max Fleischer produced it, and it was released on April 7, 1939. Sammy Timberg is credited for the music and Jack Mercer voices Popeye. A creator would want it for the colour Fleischer animation and a recognisable cast in a story taken from One Thousand and One Nights.\n\nThe rights trap is that the print's status is not yet proven here. Wikipedia calls the short public domain, but no renewal search was completed: only the opening pages of the 1966 and 1967 Catalog of Copyright Entries volumes were read, and the renewal sections were not reached. The Copyright Office catalog was not searched. Do not rely on the print until you have run those searches yourself. Separately, the Aladdin tale is free, but the Popeye character and any franchise marks are a distinct question that this dossier leaves undetermined.",
+  "faq": [
+    [
+      "Is this Popeye cartoon free to reuse?",
+      "Not yet confirmed here. Wikipedia describes it as public domain, but no renewal search was completed and no Copyright Office record was checked. Run those searches before you reuse it."
+    ],
+    [
+      "Does the Aladdin story being old make the cartoon free?",
+      "It frees the underlying tale from One Thousand and One Nights. It does not settle the film's own copyright, the music track, or any rights in the Popeye character."
+    ]
+  ]
+}
