@@ -1,0 +1,83 @@
+{
+  "id": "invasion-of-the-bee-girls-1973",
+  "title": "Invasion of the Bee Girls",
+  "year": 1973,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Public-domain status is not established. For a work published in 1973, renewal was automatic, so a missing renewal or a missing registration does not change the term. Only publication without a valid copyright notice could matter. A user review on an Internet Archive upload dated 2026-11-16 says 'Valid copyright notice 1973'. That review is unverified, but a valid notice would rule out a notice-failure route to public domain. The notice on the film itself (title card or end card) has not been checked here.",
+          "source": "Internet Archive item page (user review)",
+          "url": "https://archive.org/details/bee-girls"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the screenplay to Nicholas Meyer and names no prior source work. This was not checked against a primary source.",
+          "source": "Wikipedia, Invasion of the Bee Girls",
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_the_Bee_Girls"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists a Scream Factory Blu-ray release on April 4, 2017 and a DVD release under the title 'Graveyard Tramps'. It does not say what restoration or added material they contain.",
+          "source": "Wikipedia, Invasion of the Bee Girls",
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_the_Bee_Girls"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [],
+    "negative_result": "Not applicable. Renewal was automatic for works published 1964-1977, so a renewal search would not settle anything. The question is the copyright notice on the film itself.",
+    "diy_links": [
+      {
+        "label": "Internet Archive copy: check the title card and end card for a copyright notice",
+        "url": "https://archive.org/details/bee-girls"
+      },
+      {
+        "label": "US Copyright Office public records (registration search, adds context only)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/bee-girls",
+      "label": "Invasion Of The Bee Girls (1973) on the Internet Archive (320x240 copy, about 86 minutes)",
+      "quality": "low"
+    }
+  ],
+  "editorial": "Invasion of the Bee Girls is a 1973 US science-fiction horror film directed by Denis Sanders from a script by Nicholas Meyer. Wikipedia lists Sequoia Pictures as the production company and Centaur Releasing as distributor. It was released in 1973 and also circulated as 'Graveyard Tramps'. A reuser might want it for its place in Meyer's early career.\n\nThe rights trap is that the film's public-domain status is not established. A work published in 1973 is protected for 95 years from publication. Renewal was automatic, so a missing renewal cannot put it in the public domain. The only realistic route is publication without a valid copyright notice. A user review on an Internet Archive upload says the film carries a valid 1973 notice. That review is unverified. Archive.org's 'Public Domain Mark' labels are uploader-applied and are not evidence. Do not treat any Internet Archive copy as cleared. Check the notice on the film itself (title card or end card) first. A registration search can add context but does not settle the question.",
+  "faq": [
+    [
+      "Is Invasion of the Bee Girls in the public domain?",
+      "Not established. A 1973 film's renewal was automatic, so it is protected for 95 years unless it was published without a proper copyright notice. A reviewer on an Internet Archive upload reports a valid 1973 notice. Treat it as protected."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "Do not rely on them. The 'Public Domain Mark' on those items is set by the uploader and is not a rights determination. Copies may also come from home-video sources such as DVD, and release extras or new material on those could carry separate protection."
+    ]
+  ]
+}
