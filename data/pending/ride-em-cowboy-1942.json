@@ -1,0 +1,76 @@
+{
+  "id": "ride-em-cowboy-1942",
+  "title": "Ride 'Em Cowboy",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Partial read of the OCR text of this volume (archive.org full-text file). The search string was \"RIDE 'EM COWBOY\" and the variant \"RIDE EM COWBOY\". The sections read were the start of Jan-Jun Current Registrations (section A), the Jan-Jun R section (the alphabetical neighbours RED HOT RIDING HOOD, RIDERS OF THE NORTHLAND, RIGHT TO THE HEART and RINGS ON HER FINGERS were seen, with no Ride 'Em Cowboy between them), part of the Name Index, and parts of the Jul-Dec C-E, N-P and V-Z sections, ending in the Renewal Registrations. No entry for the title was found in the portions read. The volume was not read in full, so this does not show that no renewal exists. A renewal for a 1942 film would fall in the 1969 or 1970 volumes, and the renewal listings must be checked by hand before any public-domain claim.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1970 (Vol 24 No 1-2)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — general records search (search “Ride 'Em Cowboy”). A 1969–1970 renewal would be in the printed CCE volumes below, not in these online records.",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1970 (archive.org) — check the renewal listings for Universal Pictures",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1969 (archive.org) — not searched by us; check the renewal listings for Universal Pictures",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ride-em-cowboy-1942",
+      "label": "Ride 'Em Cowboy (1942) on the Internet Archive",
+      "quality": "full film, upload (about 85 minutes, playable); uploader RetroFlixUploads tags it Public Domain Mark, which we have not verified; copyright status of the print not confirmed"
+    }
+  ],
+  "editorial": "Ride 'Em Cowboy is a 1942 Universal Pictures comedy directed by Arthur Lubin and starring Bud Abbott and Lou Costello. It follows two peanut vendors at a rodeo who hide on a westbound train and end up as cowboys on a dude ranch. It is a popular title for comedy compilations and clip work, and copies circulate on the Internet Archive.\n\nThe trap is the print itself. Its renewal window ran 1969 to 1970. We read parts of the 1970 Catalog of Copyright Entries motion-picture volume and did not find an entry for the title in those parts. We did not read the whole volume, and we did not search the 1969 volume. So we cannot say whether it was renewed, and we do not treat the film as public domain. An Internet Archive upload and its Public Domain Mark prove nothing about copyright. Check the 1969 and 1970 volumes, especially the renewal listings, before reusing any of it.",
+  "faq": [
+    [
+      "Is Ride 'Em Cowboy (1942) public domain?",
+      "Not confirmed. We read only parts of the 1970 Catalog of Copyright Entries and found no entry for the title there, but we did not read it all or search the 1969 volume. Until someone checks both renewal listings, assume the film is still protected."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Treat the upload as a viewing copy, not a rights clearance. The uploader's Public Domain Mark does not settle copyright. Verify the renewal status in the catalog volumes first, and expect the music and any added material to need separate checking."
+    ]
+  ]
+}

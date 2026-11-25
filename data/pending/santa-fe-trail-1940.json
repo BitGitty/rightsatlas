@@ -1,0 +1,91 @@
+{
+  "id": "santa-fe-trail-1940",
+  "title": "Santa Fe Trail",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film entered the public domain in 1968 because United Artists Television, then owner of the pre-1950 Warner Bros. library, did not renew the copyright. The uploader description on an Internet Archive copy says 'Public domain due to lack of copyright renewal.' I did not read the 1967 or 1968 Catalog of Copyright Entries motion-picture volumes for a renewal entry. Neither source is primary evidence, so non-renewal is unconfirmed.",
+          "source": "Internet Archive item metadata for santa-fe-trail-1940-by-michael-curtiz; Wikipedia, Santa Fe Trail (film)",
+          "url": "https://archive.org/details/santa-fe-trail-1940-by-michael-curtiz"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the film's copyright status, so the score depends on the print's renewal status. I did not research the music credits.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/Santa_Fe_Trail_movie"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the script to Robert Buckner. I found no underlying published work and did not confirm one.",
+          "source": "Wikipedia, Santa Fe Trail (film)",
+          "url": "https://en.wikipedia.org/wiki/Santa_Fe_Trail_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1967, Parts 12-13: Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1968, Parts 12-13: Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Santa_Fe_Trail_movie",
+      "label": "Santa Fe Trail (1940), full film, about 1h49m, multiple formats",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/santa-fe-trail-1940-by-michael-curtiz",
+      "label": "Santa Fe Trail (1940), 1080p file",
+      "quality": "good"
+    }
+  ],
+  "editorial": "Santa Fe Trail is a Warner Bros. western directed by Michael Curtiz. It premiered in Santa Fe, New Mexico, on December 13, 1940, and opened in New York City on December 20, 1940. Errol Flynn plays J.E.B. Stuart, Olivia de Havilland is Kit Carson Holliday, Raymond Massey plays John Brown, and Ronald Reagan plays George Armstrong Custer. Robert Buckner wrote the script. A reuser gets a star-heavy studio feature that is easy to find in full on the Internet Archive.\n\nThe open question is renewal. Wikipedia says the film entered the public domain in 1968 because United Artists Television, then owner of the pre-1950 Warner library (inherited from Associated Artists Productions), did not renew. An Internet Archive uploader makes the same claim. I did not confirm it in a primary record, so the print is marked undetermined. The film was published in December 1940, so its original term ran through 1968. A renewal would have been filed in 1967 or 1968 (the 27th or 28th year), so the 1967 and 1968 Catalog of Copyright Entries motion-picture volumes are the place to check. Search them yourself before treating the film as free.",
+  "faq": [
+    [
+      "Is Santa Fe Trail (1940) public domain?",
+      "Not confirmed. Wikipedia says it entered the public domain in 1968 because United Artists Television did not renew the copyright, and an archive.org uploader says the same. I did not verify that in a primary record. Search the 1967 and 1968 Catalog of Copyright Entries motion-picture volumes yourself before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "They are viewing copies, and each upload has its own source. One has a filename that reads like a Blu-ray rip. Whether you may reuse the film depends on the unconfirmed renewal question, not on the upload. The music and any later additions have not been cleared separately."
+    ]
+  ]
+}

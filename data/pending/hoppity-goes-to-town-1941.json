@@ -1,0 +1,103 @@
+{
+  "id": "hoppity-goes-to-town-1941",
+  "title": "Hoppity Goes to Town",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal search has been completed. The 1968, 1969 and 1970 Catalog of Copyright Entries volumes and the Copyright Office public catalog have not been searched. An earlier partial scan of the 1969 volume found no hit, but it is not recorded which sections or terms were covered, so it is not conclusive. Renewal status is undetermined.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1969 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music credits and any separate registration of the score or songs were not confirmed from a source. The cited Internet Archive page does not name the composers. The score and songs may have been registered separately from the film, so check this.",
+          "source": "Internet Archive item page, Mr. Bug Goes to Town (1941)",
+          "url": "https://archive.org/details/mr.-bug-goes-to-town-1941"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive page gives a plot synopsis: Hoppity the Grasshopper returns to Manhattan. It says nothing about the story's origin or registration. Whether the story layer is clear was not checked against any registration record.",
+          "source": "Internet Archive item page, Mr. Bug Goes to Town (1941)",
+          "url": "https://archive.org/details/mr.-bug-goes-to-town-1941"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No restoration or commercial release was identified from a source. The Internet Archive copies appear to be ordinary uploads. Whether any release adds new copyrightable material is unconfirmed.",
+          "source": "Internet Archive item page, Hoppity Goes To Town",
+          "url": "https://archive.org/details/hoppity-goes-to-town"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Hoppity Goes to Town”, ~1968, 1969, 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1968 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/mr.-bug-goes-to-town-1941",
+      "label": "Mr. Bug Goes to Town (1941), Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/hoppity-goes-to-town",
+      "label": "Hoppity Goes To Town, Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Hoppity Goes to Town is a 1941 animated feature from Fleischer Studios. Paramount Pictures was its 1941 distributor, and it was released under the title Mr. Bug Goes to Town. It follows Hoppity the grasshopper, who returns to Manhattan.\n\nThe rights picture is not settled. The film was released in 1941, so it is not public domain by term. Any claim that it is free rests on a missing renewal, which could have been filed in 1968, 1969 or 1970. No complete renewal search has been done. The 1968, 1969 and 1970 catalog volumes and the Copyright Office catalog have not been fully searched. Who filed a renewal, if anyone did, is unknown until those records are searched. Copies on the Internet Archive prove nothing about status. Check the renewal record yourself before any commercial reuse. Separate registrations for the music are a second thing to check.",
+  "faq": [
+    [
+      "Is Hoppity Goes to Town safe to reuse commercially?",
+      "Not yet. No complete renewal check has been done. The 1968, 1969 and 1970 renewal records and the Copyright Office public catalog still need to be searched. The renewal claimant, if one exists, is unknown until then. Do the searches yourself before relying on it."
+    ],
+    [
+      "Does the Internet Archive upload mean the film is free to use?",
+      "No. The Internet Archive hosts both uploads, but hosting does not decide copyright status. Treat them as viewing copies. A different copy or release could carry its own protection, which was not checked."
+    ]
+  ]
+}
