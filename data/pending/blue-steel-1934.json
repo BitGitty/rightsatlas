@@ -1,0 +1,110 @@
+{
+  "id": "blue-steel-1934",
+  "title": "Blue Steel",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Blue Steel was released on 10 May 1934, so a renewal would have been due in year 27 or 28: 1961 or 1962. An earlier partial read of the 1961 and 1962 Catalog of Copyright Entries motion-picture volumes found no renewal entry for Blue Steel, Lone Star, Monogram or Bradbury. The exact sections or pages read were not recorded, so that scan cannot be audited. Treat it as unconfirmed, not as proof of absence. Renewals filed in 1961–62 are found only in these CCE volumes, or in the Copyright Office's scanned pre-1978 records. The Copyright Office online public catalog covers 1978 onward and is not a check for them. This archive.org item is titled 'Catalog of Copyright Entries, Third Series. Parts 12-13: Motion Pictures and Filmstrips Jan-Dec 1961: Vol 15 No 1-2'.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1961 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Same unaudited partial scan, no renewal seen. This archive.org item is titled 'Catalog of Copyright Entries, Third Series. Parts 12-13: Motion Pictures and Filmstrips Jan-Dec 1962: Vol 16 No 1-2'.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1962 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia page lists no composer or music credits for the film, and no other source for the music credits was found. The status of the score is therefore unsupported. Any underlying music must be checked on its own, and any newly dubbed or added soundtrack on a modern copy is separate.",
+          "source": "Wikipedia, Blue Steel (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Blue_Steel_(1934_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Robert N. Bradbury as director and writer, and Paul Malvern as producer. No separate source credit appears on that page, so no underlying-work term is established.",
+          "source": "Wikipedia, Blue Steel (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Blue_Steel_(1934_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item 'Blue Steel (1934) [Colorized, 4K, 60FPS]' shows an added date of 2022-01-03 and was uploaded by Movie Night with Mark. Its description says the film was colorised with DeOldify, had its frame rate raised to 60 FPS with RIFE, and was upscaled to 4K with FFmpeg, all using AI on Google Colab. The uploader's statement that the film is public domain is the uploader's own claim, not a verified status. This is a derivative AI upscale, not a faithful restoration, and the colorization and added material may carry their own claims.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/blue-steel-4-k"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia is the only source for this. It says the film was released as Stolen Goods in the UK and that this version was later released in colour on home video. It also says circulating versions include a colorized edition with a re-dubbed soundtrack, including dialogue, music and sound effects.",
+          "source": "Wikipedia, Blue Steel (1934 film)",
+          "url": "https://en.wikipedia.org/wiki/Blue_Steel_(1934_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962
+    ],
+    "negative_result": "A partial scan of the 1961 and 1962 CCE motion-picture volumes found no renewal for Blue Steel, but the sections read were not recorded. Treat this as unconfirmed. The Copyright Office online public catalog covers 1978 onward and does not cover these years.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1961 Motion Pictures and Filmstrips (archive.org) — search “Blue Steel” for renewals",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962 Motion Pictures and Filmstrips (archive.org) — search “Blue Steel” for renewals",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/blue-steel-1934",
+      "label": "Blue Steel (1934), Internet Archive",
+      "quality": "not re-checked"
+    },
+    {
+      "url": "https://archive.org/details/BlueSteel",
+      "label": "Blue Steel (1934), Internet Archive",
+      "quality": "not re-checked"
+    }
+  ],
+  "editorial": "Blue Steel is a 1934 B-western directed and written by Robert N. Bradbury, with Paul Malvern as producer. John Wayne plays U.S. Marshal John Carruthers, who is chasing the 'Polka Dot Bandit'. George 'Gabby' Hayes plays Sheriff Jake Withers, and Edward Peil plays the villain Malgrove. Malgrove is a local rich man who, per Wikipedia, wants the homesteaders' land because of a vein of gold underneath it. It is an early Wayne programmer, which is why reusers look for it: it may suit Wayne-era clips, western compilations and documentary B-roll.\n\nThe print is not yet confirmed as free. The film was released on 10 May 1934, so a renewal would fall in 1961 or 1962. An earlier partial scan of the 1961 and 1962 Catalog of Copyright Entries found no renewal, but the sections read were not recorded, so it is unconfirmed. Derivative copies are a clear trap. A colorized, AI-upscaled upload is on the Internet Archive, and Wikipedia says a re-dubbed colorized edition circulates. Their added elements are separate from the 1934 film. Check the music separately, because no music credits were found.",
+  "faq": [
+    [
+      "Can I use clips from Blue Steel (1934) in my own video?",
+      "Not confirmed yet. The film's renewal window was 1961–62. An earlier partial scan of the 1961 and 1962 Catalog of Copyright Entries found no renewal, but it was not exhaustive and the sections read were not recorded. Renewals from those years are found only in the CCE volumes or the Copyright Office's scanned pre-1978 records, not in its online catalog, which starts in 1978. Search the CCE volumes for the title yourself before relying on it. Avoid colorized or re-dubbed editions, and check any music separately."
+    ],
+    [
+      "Is the colorized 4K version of Blue Steel free to reuse?",
+      "Don't assume so. The Internet Archive description says it was made with AI colorization, frame interpolation and upscaling. Those additions may carry their own claims, and the uploader's public-domain statement is not a verified status. Start from a plain black-and-white copy of the original."
+    ]
+  ]
+}
