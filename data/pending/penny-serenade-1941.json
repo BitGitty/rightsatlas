@@ -1,0 +1,113 @@
+{
+  "id": "penny-serenade-1941",
+  "title": "Penny Serenade",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1968 (Vol 22), renewal registrations section, Jan-Jun and Jul-Dec issues. The P entries were read and no renewal for Penny Serenade is listed. The only PENNY title is Penny to the Rescue (MGM), a different film. The Columbia name-index entry also lists no Penny Serenade. This volume was not read in full.",
+          "source": "Catalog of Copyright Entries 1968 Motion Pictures (archive.org)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1969 (Vol 23), renewal registrations section. The Jan-Jun renewals were read A to Z and the Jul-Dec P entries were read. No renewal for Penny Serenade is listed. Columbia's 1941 renewals filed that year (Adam Had Four Sons, Her First Beau) do not include it. This volume was not read in full.",
+          "source": "Catalog of Copyright Entries 1969 Motion Pictures (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Score is credited to W. Franke Harling. The recorded soundtrack normally shares the film's own copyright status, but we did not check separately whether the underlying music or any publisher's copyright was renewed.",
+          "source": "Wikipedia, Penny Serenade",
+          "url": "https://en.wikipedia.org/wiki/Penny_Serenade"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the 1940 McCall's story 'Penny Serenade' by Martha Cheavens; screenplay by Morrie Ryskind. A magazine story from 1940 had its own renewal window (1967-68). We did not check whether the story's copyright was renewed, so the source's status is open.",
+          "source": "Wikipedia, Penny Serenade",
+          "url": "https://en.wikipedia.org/wiki/Penny_Serenade"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports an uncut, high-quality release on Blu-ray and DVD from Olive Films (2013, US) and Alive (2017, Germany), and says earlier releases were poor and mostly missing a pivotal five-minute scene. We did not confirm what, if anything, those releases added beyond the film itself.",
+          "source": "Wikipedia, Penny Serenade",
+          "url": "https://en.wikipedia.org/wiki/Penny_Serenade"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": "No renewal for Penny Serenade found in the 1968 or 1969 CCE motion picture volumes (renewal sections read for the P entries; the volumes were not read in full). The 1970 volume was not searched.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Penny Serenade”, ~1968, 1969, 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE 1968 Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE 1969 Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE 1970 Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/penny-serenade-1941-by-george-stevens",
+      "label": "Penny Serenade (1941), 120 min, 1080p encode from a Blu-ray release",
+      "quality": "HD, full-length, but a copy of a modern disc release, so check what that release added"
+    },
+    {
+      "url": "https://archive.org/details/penny_serenade",
+      "label": "Penny Serenade (1941), 2005 upload, 119 min",
+      "quality": "Standard definition. Older copies are reported to lack a five-minute scene"
+    }
+  ],
+  "editorial": "Penny Serenade is George Stevens's 1941 Columbia melodrama. Irene Dunne and Cary Grant play a couple whose marriage is told through the records they play, with Beulah Bondi as the adoption-agency head. Morrie Ryskind wrote the screenplay from Martha Cheavens's 1940 McCall's story, and W. Franke Harling scored it. For a creator it is a complete, well-known studio feature with two major stars, usable as a whole or as clips.\n\nThe film's own copyright is the easy part. In the 1968 and 1969 Catalog of Copyright Entries renewal sections we read, no renewal for it appears, which is consistent with the 28-year term lapsing. The traps sit around the print. We did not check whether the McCall's story's copyright was renewed, and a renewed source could still reach the film. We also did not check the music rights. And the sharpest copies come from modern disc releases (Olive Films 2013, Alive 2017) whose added material is unconfirmed. Older copies are reported to be missing a pivotal five-minute scene.",
+  "faq": [
+    [
+      "Is the 1941 Penny Serenade film out of copyright?",
+      "Our search found no renewal for the film in the 1968 and 1969 Catalog of Copyright Entries renewal sections. The 1970 volume was not searched. That supports the print being public domain. The story and score layers are still undetermined, so don't treat the whole film as cleared."
+    ],
+    [
+      "Can I use a Blu-ray or DVD transfer of Penny Serenade?",
+      "The film itself is not newly protected by a faithful transfer. But a disc can carry added material such as new titles, subtitles or extras, and ripping a copy-protected disc can violate 17 U.S.C. 1201. Prefer a copy whose source you can identify, and use only the film's own content."
+    ]
+  ]
+}

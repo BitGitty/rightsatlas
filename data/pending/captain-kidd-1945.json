@@ -1,0 +1,97 @@
+{
+  "id": "captain-kidd-1945",
+  "title": "Captain Kidd",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says: \"It has entered the public domain because the producers neglected to renew the copyright in 1972.\" This is an unverified secondary claim. For a film published in 1945, a renewal could be filed in 1972 or 1973 (years 27 and 28). The film is public domain only if no renewal was filed in either year, so a missing 1972 renewal alone does not settle it. I did not confirm the claim against a primary record. My earlier text search of the Catalog of Copyright Entries (CCE 1972 and 1973 motion picture volumes) was incomplete. I can't say which volumes or parts it covered, so it does not count as a check. I did not query the Copyright Office public catalog. The status stays undetermined.",
+          "source": "Wikipedia, Captain Kidd (1945 film)",
+          "url": "https://en.wikipedia.org/wiki/Captain_Kidd_(film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Werner Janssen as composer. The recorded track is part of the film, so it most likely shares the print's status. The status of the cue music was not independently checked.",
+          "source": "Wikipedia, Captain Kidd (1945 film)",
+          "url": "https://en.wikipedia.org/wiki/Captain_Kidd_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the story to Robert N. Lee and the screenplay to Norman Reilly Raine. It does not credit the film as an adaptation of a published work. Rights in the writers' contributions were not independently checked.",
+          "source": "Wikipedia, Captain Kidd (1945 film)",
+          "url": "https://en.wikipedia.org/wiki/Captain_Kidd_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Some Internet Archive uploads of this film are colorized or remastered. The item 'captain-kidd-1945' is titled \"Captain Kidd 1945, Colorized, Charles Laughton, Randolph Scott, Barbara Britton, Pirate\". The item 'kidd-4-k' is titled \"Captain Kidd (1945) [Colorized, 4K, 60FPS]\". Its description says the film was colorised, upscaled to 4K and boosted to 60 FPS in 2021 using AI. The item 'CaptainKidd_' is listed as black & white with no mention of colorization or remastering. Whether any such added work carries its own copyright was not checked, so the status is undetermined.",
+          "source": "Internet Archive items captain-kidd-1945, kidd-4-k and CaptainKidd_",
+          "url": "https://archive.org/details/kidd-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Captain Kidd”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1972 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1973 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/CaptainKidd_",
+      "label": "Captain Kidd (1945), Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Captain Kidd is a 1945 pirate picture directed by Rowland V. Lee. It was released by United Artists on November 22, 1945. Wikipedia lists Benedict Bogeaus Productions and Captain Kidd Productions as the producers. Charles Laughton plays Kidd, a merchant captain who talks the King of England into letting him recover a lost treasure. Randolph Scott and John Carradine are in the cast.\n\nThe rights trap is that the print's status is not confirmed. A renewal had to be filed in 1972 or 1973. The film is public domain only if none was filed in either year. Wikipedia says the producers neglected to renew the copyright in 1972, but that is an unverified secondary claim. Our own text search of the 1972 and 1973 Catalog of Copyright Entries motion picture volumes was incomplete, and we did not search the Copyright Office public catalog. Check both yourself before relying on it. Some Internet Archive uploads are colorized or remastered, such as 'captain-kidd-1945' and 'kidd-4-k'. Whether those additions are protected was not checked. The 'CaptainKidd_' item is listed as black & white.",
+  "faq": [
+    [
+      "Is Captain Kidd (1945) in the public domain?",
+      "Not confirmed. Wikipedia says it is, because the producers neglected to renew the copyright in 1972. A renewal could have been filed in 1972 or 1973, and the film is public domain only if none was filed in either year. Our text search of the Catalog of Copyright Entries 1972 and 1973 motion picture volumes was incomplete, and we did not search the Copyright Office public catalog. Check both before relying on it."
+    ],
+    [
+      "Can I use the colorized versions on the Internet Archive?",
+      "Not safely. Some uploads, such as 'captain-kidd-1945' and 'kidd-4-k', are colorized, and the latter is also AI-upscaled. We did not check whether that added work has its own copyright. Even if it does not, the underlying film's status is unconfirmed. The 'CaptainKidd_' item is listed as black & white."
+    ]
+  ]
+}
