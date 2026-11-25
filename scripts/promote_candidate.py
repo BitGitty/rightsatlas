@@ -91,7 +91,10 @@ def promote(cand: dict, approver: str = "research pipeline (unattended)", dest_d
     # was "(AI-assisted, human-reviewed)" - false on the unattended path (AGF P2b, 2026-10-07)
     cand.setdefault("byline", "RightsAtlas research (AI-assisted, automated evidence and fact checks)")
     dest = dest_dir / f"{cand['id']}.json"
-    dest.write_text(json.dumps(cand, ensure_ascii=False, indent=2), encoding="utf-8")
+    # write-then-rename: a full disk (2026-11-25) left 0-byte dossiers that blocked every later run
+    tmp = dest.with_suffix(".tmp")
+    tmp.write_text(json.dumps(cand, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp.replace(dest)
     ev_count = sum(len(L.get("evidence", [])) for L in cand.get("layers", {}).values())
     with LOG.open("a", encoding="utf-8") as fh:
         fh.write(json.dumps({"id": cand["id"], "promoted_by": approver,

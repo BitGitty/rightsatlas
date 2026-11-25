@@ -64,7 +64,13 @@ def gather() -> dict:
     sys.path.insert(0, str(ROOT / "scripts"))
     import seasons
     next_class = today.year + 1
+    try:   # runs that exit 0 in 0 s because leftover files block them (11-25: 6 hours lost)
+        rlog = (ROOT / "logs" / "daily_research.log").read_text(encoding="utf-8", errors="replace").split("==== ")
+        skipped = len(rlog) > 2 and all("run skipped" in r for r in rlog[-2:])
+    except OSError:
+        skipped = False
     return {
+        "research_skipped": skipped,
         "made_2d": [r["id"] for r in runs if r["date"] >= two_days and r["result"] in ("queued", "refreshed")],
         "refreshed_1d": [r["id"] for r in runs if r["date"] >= two_days and r["result"] == "refreshed"],
         "in_season": [c["slug"] for c in seasons.in_season(today)],
@@ -243,8 +249,11 @@ def evaluate(f: dict):
     deferred = [r["id"] for r in f["runs_today"] if r["result"] == "deferred"]
     lines.append(f"Research today: {len(queued)} new" + (f" ({', '.join(queued)})" if queued else "")
                  + f", {len(refreshed)} upgraded, {len(blocked)} blocked")
-    if deferred:
-        warns.append(f"Claude usage limit paused research ({len(deferred)} title(s) deferred, retried next run)")
+    if deferred:   # say the real cause: 11-25 a full disk was reported as "usage limit"
+        why = next((r.get("reasons") or ["?"] for r in f["runs_today"] if r["result"] == "deferred"), ["?"])[0]
+        warns.append(f"research paused ({len(deferred)} title(s) deferred, retried next run): {str(why)[:100]}")
+    if f.get("research_skipped"):
+        fails.append("research blocked: the last runs were skipped (files left in data/films or data/pending)")
     for b in blocked:
         lines.append(f"  blocked {b['id']}: {(b['reasons'] or ['?'])[0][:140]}")
     dupes = sorted({i for i in f["queued_week"] if f["queued_week"].count(i) > 1})
@@ -333,8 +342,10 @@ def check() -> None:
             "next_class": 2027,
             "queued_week": ["a", "b"], "mid_rebase": False, "unpushed": 0,
             "last_release": datetime.now(timezone.utc).date().isoformat(), "last_film": "x",
-            "live_status": 200, "films": 100, "pending": 20, "ci": {"status": "completed", "conclusion": "success"}}
+            "live_status": 200, "films": 100, "pending": 20, "ci": {"status": "completed", "conclusion": "success"},
+            "blog": ("p", 200, 30)}
     assert evaluate(good)[0] == "OK", evaluate(good)
+    assert "research blocked" in " ".join(evaluate({**good, "research_skipped": True})[1])
     assert evaluate({**good, "runs_today": []})[0] == "FAIL", "no research run must FAIL"
     assert evaluate({**good, "queued_week": ["a", "a"]})[0] == "FAIL", "re-researching a title must FAIL"
     assert evaluate({**good, "mid_rebase": True})[0] == "FAIL", "stuck rebase must FAIL"

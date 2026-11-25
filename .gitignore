@@ -42,3 +42,7 @@ AGENTS.md
 .cursor/
 .github/copilot-instructions.md
 data/heartbeat.log
+
+# half-written dossier from a crashed write (promote_candidate write-then-rename)
+data/pending/*.tmp
+data/films/*.tmp
