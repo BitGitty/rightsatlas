@@ -1,0 +1,90 @@
+{
+  "id": "till-the-clouds-roll-by-1946",
+  "title": "Till the Clouds Roll By",
+  "year": 1946,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "MGM release of December 5, 1946. A check of the Catalog of Copyright Entries motion-picture volumes for 1974 (catalogofcopyrig3281213li) and 1975 (catalogofcopyrig3291213libr) did not locate a renewal entry. That check was not exhaustive and no Copyright Office record search was completed, so non-renewal is not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, 1974 and 1975 volumes (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page for the uploaded copy shows \"Usage: Public Domain Mark 1.0\" (uploader listed as Maxwell Whiteman, uploaded April 13, 2020). This is the uploader's label, not evidence of the film's copyright status.",
+          "source": "Internet Archive item page, Till the Clouds Roll By (1946)",
+          "url": "https://archive.org/details/tillthecloudsrollby_202004"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film with Jerome Kern songs and other period songs. The soundtrack normally shares the film's status, but the underlying compositions were not individually checked.",
+          "source": "research note",
+          "url": "https://archive.org/details/tillthecloudsrollby_202004"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1973,
+      1974,
+      1975
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Till the Clouds Roll By”, ~1973, 1974, 1975)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/tillthecloudsrollby_202004",
+      "label": "Till the Clouds Roll By (1946) on the Internet Archive",
+      "quality": "unverified upload; page shows a Public Domain Mark 1.0 (uploader's label); status of the print not confirmed"
+    }
+  ],
+  "editorial": "Till the Clouds Roll By is MGM's 1946 Technicolor musical built around the songs of Jerome Kern, released December 5, 1946. A creator would want it for its period musical numbers and its place in the studio's Technicolor catalog.\n\nThe rights trap is that no renewal was confirmed or ruled out. A Catalog of Copyright Entries check of the 1974 and 1975 motion-picture volumes found no entry, but that check was partial. No Copyright Office record search was completed. The Internet Archive item page shows a Public Domain Mark 1.0, but that is only the uploader's label. Studio-owned films from this period were often renewed, so treat the print as unresolved until the records are checked directly. Kern's songs are separate compositions with their own terms.",
+  "faq": [
+    [
+      "Is Till the Clouds Roll By in the public domain?",
+      "Not established. A partial check of the 1974 and 1975 Catalog of Copyright Entries volumes found no renewal, and no Copyright Office record search was completed. The Internet Archive item page shows a Public Domain Mark 1.0, but that is the uploader's label, so do not rely on it."
+    ],
+    [
+      "Can I use the songs from the film?",
+      "Not safely without checking. The songs are separate compositions with their own copyright terms, and those were not individually verified."
+    ]
+  ]
+}
