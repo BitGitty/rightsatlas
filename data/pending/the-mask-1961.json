@@ -1,0 +1,84 @@
+{
+  "id": "the-mask-1961",
+  "title": "The Mask",
+  "year": 1961,
+  "country": "CA",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives a US release date of October 27, 1961 for this Canadian production. The Catalog of Copyright Entries (CCE) was not searched, so no 1961 registration was found or checked. The notice on the print was not checked, and no renewal search was performed, so renewal status is unknown. No public-domain claim is made. Because the film is Canadian, the URAA likely applies. If the film was still protected in Canada on 1 January 1996, the URAA would probably have restored its US copyright for 95 years from 1961, even if a US notice or renewal was missing. Its Canadian status in 1996 has not been verified.",
+          "source": "Wikipedia: The Mask (1961 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Mask_(1961_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Louis Applebaum is credited as composer. The score was not checked separately for registration or renewal, so it is assumed to share the print's status until that is shown.",
+          "source": "Wikipedia: The Mask (1961 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Mask_(1961_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is credited to Franklin Delessert, Sandy Haver, Frank Taubes and Slavko Vorkapich. Wikipedia says director Julian Roffman got the idea for the plot after seeing a museum exhibit on the Aztecs. No pre-existing source work was identified.",
+          "source": "Wikipedia: The Mask (1961 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Mask_(1961_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1988,
+      1989
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Mask”, ~1988, 1989)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1961 (Vol 15, No 1-2) on archive.org",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, 1961 Jul-Dec on archive.org",
+        "url": "https://archive.org/details/CatalogOfCopyrightEntriesMotionPictures1961Jul-dec"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Mask is a 1961 Canadian horror film directed by Julian Roffman. It was released in the United States on October 27, 1961. It is a surrealist horror film produced in 3-D, and it centers on an ancient Aztec mask. Roffman said the idea came after he saw a museum exhibit on the Aztecs. Louis Applebaum composed the score. A creator would want it for the mask imagery and the 3D set pieces.\n\nThe rights status is unresolved, and the film should not be treated as free to use. This run did not search the Copyright Office renewal records or the Catalog of Copyright Entries, and it did not check the print for a copyright notice. Renewal status is therefore unknown. Because the film is Canadian, the URAA likely applies. If the film was still protected in Canada on 1 January 1996, the URAA would probably have restored its US copyright for 95 years from 1961. In that case a missing US notice or renewal would not make it public domain. Its Canadian status in 1996 has not been verified. Until these checks are done, clear the rights before reusing any footage.",
+  "faq": [
+    [
+      "Is The Mask (1961) in the public domain in the US?",
+      "Not established. The film is a 1961 Canadian production released in the US that year. No renewal search was performed, so renewal status is unknown. Even a missing renewal or notice may not make it public domain, because the URAA likely restored US copyright if the film was still protected in Canada on 1 January 1996. That Canadian status has not been verified. Search publicrecords.copyright.gov for 1988-1989 renewals and check the print's notice, but do not rely on the film being public domain."
+    ],
+    [
+      "Can I use clips from a commercial release of The Mask?",
+      "Not safely. Any clearance depends on the film's own copyright status, which is unresolved. A disc or stream may also add protected material, and ripping a copy-protected disc can violate 17 U.S.C. 1201."
+    ]
+  ]
+}
