@@ -1,0 +1,83 @@
+{
+  "id": "zombies-of-the-stratosphere-1952",
+  "title": "Zombies of the Stratosphere",
+  "year": 1952,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "UNCONFIRMED LEAD. A search script reported a 1980 renewal, RE0000067073, with a title for episodes 1-6 and Repix, Inc. as claimant. The Copyright Office record page returned only its page header with no record data when fetched on 2026-11-26. The registration number, title, date and claimant have not been read from any source.",
+          "source": "US Copyright Office public records (record page did not render)",
+          "url": "https://publicrecords.copyright.gov/detail/RE0000067073"
+        },
+        {
+          "type": "cce_renewal_entry",
+          "note": "UNCONFIRMED LEAD. A search script reported a 1980 renewal, RE0000067072, for episodes 7-12. The record page returned only its page header with no record data when fetched on 2026-11-26. Nothing was read to confirm this number, its date, its claimant, or that the two renewals together cover the whole serial.",
+          "source": "US Copyright Office public records (record page did not render)",
+          "url": "https://publicrecords.copyright.gov/detail/RE0000067072"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1979,
+      1980,
+      1981
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Zombies of the Stratosphere”, ~1979, 1980, 1981)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/zombies-of-the-stratosphere",
+      "label": "Zombies Of The Stratosphere (1952), listed as all 12 episodes, Internet Archive upload by Peach Lives. Hosting there is not a rights clearance.",
+      "quality": "VHS source (per the item's own description)"
+    }
+  ],
+  "editorial": "Zombies of the Stratosphere is a 1952 serial. The Internet Archive item describes it as 12 episodes and lists Leonard Nimoy, Judd Holdren, Aline Towne and Lane Bradford in the cast.\n\nI could not confirm the copyright status. A search script reported two 1980 renewal registrations, RE0000067073 and RE0000067072, but the Copyright Office record pages did not render when I fetched them. I have not read the registration details, so treat the renewal as unconfirmed. Check the Copyright Office public records directly before reusing any footage. Copies on the Internet Archive are not licenses. I could not confirm the story's source, any trademark, the music rights, or any restoration.",
+  "faq": [
+    [
+      "Is Zombies of the Stratosphere (1952) in the public domain?",
+      "Not established. A search script reported two 1980 renewals, RE0000067073 and RE0000067072, but I could not read the Copyright Office records to confirm them. Check the records yourself. Being online at the Internet Archive does not make a film public domain."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy?",
+      "Not safely without clearing the rights first. The renewal status is unconfirmed, and I did not trace who holds the rights. A small clip might qualify as fair use, but that depends on the specific use."
+    ]
+  ]
+}

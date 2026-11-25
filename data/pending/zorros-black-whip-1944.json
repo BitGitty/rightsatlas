@@ -1,0 +1,90 @@
+{
+  "id": "zorros-black-whip-1944",
+  "title": "Zorro's Black Whip",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Checked the Catalog of Copyright Entries motion-picture volume for 1972 (Jan-Jun renewal list, 1944-45 copyrights). No Zorro's Black Whip entry in the portions read, but part of the volume (roughly titles D to R) went unread. The Jul-Dec 1972 renewal section was absent from the file, and the 1971 renewal list was not read. This does not establish non-renewal.",
+          "source": "CCE Motion Pictures and Filmstrips, Jan-Dec 1972 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1971 CCE motion-picture volume. Only part of its Name Index was read, and no Zorro, Black Whip, Republic or Repix entries appeared there. The renewal title section was not read.",
+          "source": "CCE Motion Pictures and Filmstrips, Jan-Dec 1971 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive hosts an upload titled 'Zorro's Black Whip 1944 colorized cliffhanger serial'. Colorization is added material and can carry its own copyright. A faithful, uncolored copy adds none.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/zorro-s-black-whip-1944-colorized"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972,
+      1973
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Zorro's Black Whip”, ~1971, 1972, 1973)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/zorros-black-whip",
+      "label": "Zorro's Black Whip (all 12 chapters)",
+      "quality": "480x360 MPEG4, one file per chapter"
+    }
+  ],
+  "editorial": "Zorro's Black Whip is a 12-chapter Republic Pictures serial from 1944, directed by Spencer Gordon Bennet and Wallace Grissell. Linda Stirling plays Barbara Meredith, who masks up as the Black Whip, with George J. Lewis as Vic Gordon. It was shot in about four weeks, from 29 July to 26 August 1944, as 'The Black Whip', at a negative cost of $145,251. Republic could not use the Zorro character itself, so the Zorro name was added to the title. A creator would want it for the bullwhip heroine, the Lydecker brothers' effects and a ready-made episode structure.\n\nThe rights trap is the print's renewal status, which this research did not settle. A Republic copyright from 1944 would have come up for renewal in 1972. Parts of the 1971 and 1972 renewal catalogs went unread and the Copyright Office online records were not searched. Until someone checks them, nobody should treat the film as free to use. The Internet Archive also hosts a colorized upload, and colorization is added material that can carry its own protection.",
+  "faq": [
+    [
+      "Is Zorro's Black Whip in the public domain?",
+      "Not established. The 1944 copyright needed renewal around 1972. The 1972 catalog volume showed no entry in the parts read, but parts were unread and the 1978-and-later Copyright Office records were not searched. Run those searches before reusing it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The archive.org item has all 12 chapters. Its presence there does not clear the film. A colorized version also exists, and its color work may be separately protected, so use an uncolored copy if you reuse it."
+    ]
+  ]
+}

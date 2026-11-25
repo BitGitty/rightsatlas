@@ -1,0 +1,93 @@
+{
+  "id": "the-joe-louis-story-1953",
+  "title": "The Joe Louis Story",
+  "year": 1953,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": "Directed by Robert Gordon; produced by Stirling Silliphant; United Artists, 1953",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not confirmed. I have not searched any Catalog of Copyright Entries volume or the Copyright Office catalog for this film's renewal, so its status is unchecked. The queue's one renewal hit, RE0000111481 (1981), is catalogued by our script as 'music/other' under the title 'The Joe Louis story. By Joe Louis Barrows', with claimants Martha Louis (W), Joe Louis, Jr. & Jacquelin Louis (C). I did not view the record itself. It is probably a separate underlying work, such as a book or story, and its relation to the film is unknown. It should not be read as the film's own renewal. Whether the film's copyright was renewed in its 28th year (1981) remains unconfirmed.",
+          "source": "Queue row renewal_hits_already_found (RE0000111481, script catalog fields only; record not viewed)",
+          "url": ""
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia page for the film credits the music to George Bassman. The recorded soundtrack is part of the film, so it most likely shares the film's status. I could not check whether the score's publisher registered or renewed it separately.",
+          "source": "Wikipedia, The Joe Louis Story",
+          "url": "https://en.wikipedia.org/wiki/The_Joe_Louis_Story"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia page credits the screenplay to Robert Sylvester and does not name an underlying book or other source. That does not show there is no underlying work. Whether a separate underlying story or book exists is an open question. The 1981 record RE0000111481 ('The Joe Louis story', claimants from the Louis family) is probably a separate work, but I did not view it and its relation to the film is unknown. I also could not check whether the script was separately registered or renewed.",
+          "source": "Wikipedia, The Joe Louis Story",
+          "url": "https://en.wikipedia.org/wiki/The_Joe_Louis_Story"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive lists an upload titled 'The Joe Louis Story (1953) [ Colorized, 4K, 60FPS]' under the identifier the-joe-louis-story-4-k. Its description says the black-and-white film was colorised, upscaled to 4K and frame-rate boosted to 60 FPS in 2021 using AI. Colorization and frame-rate conversion are added material that can carry their own protection, so the plain black-and-white print is the safer source.",
+          "source": "Internet Archive metadata",
+          "url": "https://archive.org/metadata/the-joe-louis-story-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1981,
+      1982
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Joe Louis Story”; 1981 is the renewal year, and 1982 entries may list late-published 1981 renewals; also open RE0000111481)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheJoeLouisStory",
+      "label": "The Joe Louis Story (1953), Internet Archive, black & white, 88 min",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Joe Louis Story is a 1953 United Artists biopic of the heavyweight champion. Robert Gordon directed and Stirling Silliphant produced. Robert Sylvester wrote the screenplay and George Bassman composed the music. Coley Wallace plays Louis, with Hilda Simms, Paul Stewart and James Edwards in support. Wikipedia's infobox gives the production company as 'Walter P. Chrysler Jr.', which is a person's name. I could not check it against the AFI Catalog or the film's credits. The film opened in the US on September 18, 1953. An 88-minute black-and-white copy is listed on the Internet Archive.\n\nThe film is not confirmed as public domain. A film from 1953 is free only if it was published without a notice or its copyright was not renewed. The renewal year is 1981 (the 28th year). Catalog of Copyright Entries volumes or catalog entries from 1982 may list late-published 1981 renewals, so check both years' records, but 1982 is not a renewal window. I have not searched the Copyright Office renewal records or a Catalog of Copyright Entries volume for this film. The one renewal hit in our queue, RE0000111481 (1981), is titled 'The Joe Louis story' and its claimants are the Louis family. Our script catalogued it as music/other, and I did not view the record itself. It is probably a separate underlying work, and its relation to the film is unknown. Check it and the film's own record before you reuse the picture or its music. Whether the film has a separate underlying story or book is also open. A colorized 4K upload also exists on the Internet Archive, and that version adds material that may carry its own protection.",
+  "faq": [
+    [
+      "Is The Joe Louis Story (1953) public domain?",
+      "It is unconfirmed. I have not searched the Copyright Office records or a renewal-year Catalog of Copyright Entries volume for a film renewal. A 1981 renewal entry titled 'The Joe Louis story' (RE0000111481, claimants from the Louis family) turned up in our queue. I did not view the record. It is probably a separate underlying work, and its relation to the film is unknown. Search the Copyright Office records for 1981, and check 1982 entries for late-published 1981 renewals, before relying on the film."
+    ],
+    [
+      "Can I use the Internet Archive copy, including the colorized 4K version?",
+      "Only after you have confirmed the print's status. If the print is cleared, use the plain black-and-white copy. The colorized, 60 fps upload adds material that may be protected on its own."
+    ]
+  ]
+}
