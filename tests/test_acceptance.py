@@ -226,6 +226,21 @@ def t17_no_stanford_for_film_renewals():
                 assert "stanford.edu" not in str(link.get("url", "")), f"{d}/{p.name}: Stanford link for a film renewal"
 
 
+def t18_buy_line_unpaid_until_tag_and_skips_lost_films():
+    import build
+    lost = json.loads((ROOT / "data" / "films" / "4-devils-1928.json").read_text(encoding="utf-8"))
+    assert build.buy_line(lost) == "", "a lost film must not get a buy link"
+    ok = dict(lost, editorial="", layers=dict(lost["layers"], restorations={"status": "undetermined", "evidence": []}))
+    html_ = build.buy_line(ok)
+    assert "tag=" not in html_ and "Not a paid link" in html_ and "sponsored" not in html_, html_
+    build.AMAZON_TAG = "x-20"
+    try:
+        paid = build.buy_line(ok)
+        assert "tag=x-20" in paid and "sponsored" in paid and "never changes a verdict" in paid, paid
+    finally:
+        build.AMAZON_TAG = ""
+
+
 TESTS = [v for k, v in sorted(globals().items()) if k.startswith(("t0", "t1", "t_"))]
 
 

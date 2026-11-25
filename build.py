@@ -47,6 +47,24 @@ SUPABASE_KEY = "sb_publishable_E2ECaIgR-2fLWAEeDfVnMA_5_balO9b"
 # /suggest/ submits straight to Supabase (submit_suggestion RPC) for JS-enabled visitors.
 SUGGEST_URL = "https://github.com/BitGitty/rightsatlas/issues/new?template=film-suggestion.yml"
 
+# 11-25 owner: earning is a main goal, without hurting trust. Empty = plain search links, no income. Fill in only
+# once a payout account exists in a legally allowed name (owner is on an S Pass). The link never touches a verdict.
+AMAZON_TAG = ""
+
+
+def buy_line(f):
+    """Labelled 'own a restored copy' line under the watch section; skipped for lost films."""
+    blob = (f.get("editorial", "") + " ".join(ev.get("note", "") for ev in f["layers"]["restorations"]["evidence"])).lower()
+    if "largely lost" in blob or "is lost" in blob:  # ponytail: word match; a structured 'lost' flag if it misfires
+        return ""
+    q = quote(f'{f["title"]} {f["year"]} blu-ray dvd')
+    tag = f"&tag={AMAZON_TAG}" if AMAZON_TAG else ""
+    label = ("We may earn a small fee from this link. It never changes a verdict." if AMAZON_TAG
+             else "Not a paid link.")
+    return (f'<p class="buycopy">Want a restored copy to keep? <a href="https://www.amazon.com/s?k={q}&amp;i=movies-tv{tag}" '
+            f'rel="nofollow{" sponsored" if AMAZON_TAG else ""} noopener" target="_blank">Find it on Blu-ray or DVD</a>. '
+            f'<span class="packet-note">{label} Restorations can carry their own copyright (see the record above).</span></p>')
+
 # v3 sticky top nav (owner feature A). "class2027" always points at whichever
 # entering-public-domain-YYYY page is actually live (CLASS_YEAR, computed above).
 # 2026-11-20 owner redesign: 5 main tabs + "More" + an always-visible search button; phones get a ☰ menu.
@@ -317,6 +335,7 @@ answers are wrong so often.</p>
 {f'<h2>Automatic rule notes</h2><ul class="notes">{notes}</ul>' if notes else ''}
 
 {watch_section}
+{buy_line(f)}
 
 {f'<p class="readpost">Read our article: <a href="{BASE}blog/{post["slug"]}/">{e(post["title"])}</a></p>' if post else ''}
 <h2>Background</h2>
