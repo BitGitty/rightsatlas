@@ -775,3 +775,6 @@
 {"date": "2026-11-25", "id": "the-sign-of-four-1932", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
 {"date": "2026-11-25", "id": "the-new-adventures-of-tarzan-1935", "result": "queued", "reasons": []}
 {"date": "2026-11-25", "id": "dick-tracy-1937", "result": "queued", "reasons": []}
+{"date": "2026-11-25", "id": "ministry-of-fear-1944", "result": "queued", "reasons": []}
+{"date": "2026-11-25", "id": "captain-kidd-1945", "result": "blocked", "reasons": ["layer 'print' is likely_pd — not allowed in a candidate"]}
+{"date": "2026-11-25", "id": "life-with-father-1947", "result": "queued", "reasons": []}

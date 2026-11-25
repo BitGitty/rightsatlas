@@ -1,0 +1,90 @@
+{
+  "id": "ministry-of-fear-1944",
+  "title": "Ministry of Fear",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1944 US film is not verified as public domain. Renewal would fall in 1971 (year 27) or 1972 (year 28). The Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips volumes for 1971 (Vol 25 No 1-2) and 1972 (Vol 26 No 1-2) exist on the Internet Archive. No search of either volume was completed, so no non-renewal finding is claimed. Hand-check both volumes and the Copyright Office public records before treating the print as free.",
+          "source": "Internet Archive Catalog of Copyright Entries volumes",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item description says the original music was composed by Victor Young. The recorded track normally shares the film's status, so it stays undetermined until the print's renewal status is settled. Any separate music-publishing rights were not checked.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/ministry-of-fear-1944"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Graham Greene's 1943 novel Ministry of Fear (per the Internet Archive item description). A 1943 work is protected for 95 years only if its copyright was renewed (1970-1971 for a 1943 book). The Stanford Copyright Renewal Database and the 1970/1971 Catalog of Copyright Entries book volumes were not searched. The US edition (Viking, 1943) and any URAA restoration were not checked. The novel's status is an open question, and the film's status does not clear it.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/ministry-of-fear-1944"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1971 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1972 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "US Copyright Office public records (search “Ministry of Fear”)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ministry-of-fear-1944",
+      "label": "Ministry of Fear (1944), Fritz Lang, Internet Archive upload",
+      "quality": "B/W, sound"
+    }
+  ],
+  "editorial": "Ministry of Fear (1944) is Fritz Lang's American film noir with Ray Milland, Dan Duryea and Marjorie Reynolds. Victor Young wrote the score, and the story is adapted from Graham Greene's 1943 novel. A free upload is on the Internet Archive, and the film is popular with noir and Lang programmers.\n\nTwo rights questions are open, and an upload does not settle either. First, the film's own renewal: the 1944 copyright would have needed renewal in 1971 (year 27) or 1972 (year 28). No search of the 1971 or 1972 motion-picture volumes was completed, so the print is undetermined. Second, Greene's novel is a separate, earlier work (1943). Its own renewal and URAA status were not verified, so it is an open question. Settle both before commercial reuse.",
+  "faq": [
+    [
+      "Can I reuse Ministry of Fear (1944) commercially?",
+      "Not yet. The film's renewal status was not verified here, and Greene's 1943 novel is a separate, earlier copyright whose renewal and URAA status were also not verified. Check the 1971 and 1972 Catalog of Copyright Entries motion-picture volumes and the Copyright Office records first."
+    ],
+    [
+      "Does an Internet Archive copy mean the film is public domain?",
+      "No. Upload availability is not a rights finding. Verify the renewal record yourself using the links in renewal_search."
+    ]
+  ]
+}

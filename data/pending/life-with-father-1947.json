@@ -1,0 +1,102 @@
+{
+  "id": "life-with-father-1947",
+  "title": "Life with Father",
+  "year": 1947,
+  "country": "US",
+  "last_verified": "2026-11-25",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures, Jan-Dec 1975 (Vol 29). A text search of the OCR for the string 'Life with Father' returned no renewal entry. A search for 'Warner Bros' also returned no hits, and a search for 'Warner' returned none. The tool read only the first part of the roughly 915,000-character file verbatim and summarized the rest, so the search may not have covered the whole volume. This is not a page-by-page read.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures, Jan-Dec 1974 (Vol 28). A text search of the OCR for the string 'Life with Father' returned no renewal entry. Searches for 'Warner' found Warner Brothers entries but none for this title. The tool read only the first part of the roughly 915,000-character file verbatim and summarized the rest, so the search may not have covered the whole volume. The fetched content also suggests the item may cover only part of 1974. This is not a page-by-page read.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyrig3281213li"
+        },
+        {
+          "type": "research_note",
+          "note": "The Copyright Office public catalog (publicrecords.copyright.gov) was not searched. It is a script-driven search page, so renewal records there were not cross-checked. The original 1947 registration and the copyright notice on the prints were not examined. The 1976 volume is an optional extra check for late or misfiled entries and was not searched. Print status stays undetermined until a human checks these.",
+          "source": "RightsAtlas research",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film with a recorded track from the original production. Its status is expected to follow the print's, but any music cue-sheet or separately registered song rights were not checked.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/life-with-father-1947_202507"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive description of the item says the film is adapted from the 1939 play of the same name, which was inspired by the autobiography of Clarence Day. The play's copyright and renewal status were not checked. A renewed play would still be protected even if the film's own copyright lapsed.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/life-with-father-1947_202507"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1974,
+      1975
+    ],
+    "negative_result": "Text searches of the OCR of the 1974 (Vol 28) and 1975 (Vol 29) CCE Motion Pictures volumes for the string 'Life with Father' returned no renewal entry. Terms tried were 'Life with Father', 'Warner' and 'Warner Bros'. The search may not have covered the whole of either volume, because the fetch tool read only part of each file verbatim. The Copyright Office online catalog was not searched. The 1976 volume is an optional check for late or misfiled entries.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search “Life with Father”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1975 (Vol 29)",
+        "url": "https://archive.org/details/catalogofcopyrig3291213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1974 (Vol 28)",
+        "url": "https://archive.org/details/catalogofcopyrig3281213li"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/life-with-father-1947_202507",
+      "label": "Life With Father (1947) — Internet Archive upload, William Powell and Irene Dunne",
+      "quality": "Uploader copy of unknown source. The uploader marks it Public Domain Mark."
+    }
+  ],
+  "editorial": "Life with Father (1947) is a Technicolor comedy starring William Powell and Irene Dunne, with Elizabeth Taylor, Edmund Gwenn and ZaSu Pitts in the cast. The Internet Archive lists Warner Bros. as publisher. It adapts the 1939 stage play, which was inspired by Clarence Day's autobiography about his family in the 1880s.\n\nThe print may be free, but the dossier does not yet prove it. Text searches of the OCR of the 1974 and 1975 CCE renewal volumes for 'Life with Father' returned no entry. The search may not have covered the whole of either volume, because the fetch tool read only part of each file verbatim. The Copyright Office online catalog was not searched. The real trap is the source play. A separately renewed play would stay protected even if the film itself lapsed. Check the play's renewal before reuse. Internet Archive copies are uploader copies, and the uploader's Public Domain Mark is not a rights ruling.",
+  "faq": [
+    [
+      "Is Life with Father (1947) public domain?",
+      "Not confirmed. Text searches of the OCR of the 1974 and 1975 Catalog of Copyright Entries motion-picture volumes for 'Life with Father' returned no renewal entry, but the search may not have covered the whole of either volume. The Copyright Office online catalog, the notice on the prints and the source play's status were not checked, so treat the film as unverified."
+    ],
+    [
+      "Can I reuse a copy from the Internet Archive?",
+      "Do not rely on the upload's Public Domain Mark. Confirm the film's renewal status and the status of the 1939 play it adapts first. Then use a clean source copy."
+    ]
+  ]
+}
