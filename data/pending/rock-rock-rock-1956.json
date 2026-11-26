@@ -1,0 +1,89 @@
+{
+  "id": "rock-rock-rock-1956",
+  "title": "Rock, Rock, Rock!",
+  "year": 1956,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article says the film entered the US public domain in 1984 because the claimants did not renew the registration in the 28th year. I could not open a Catalog of Copyright Entries renewal volume for 1984 or a Copyright Office public-catalog record, so I did not confirm that no renewal exists. The Catalog of Copyright Entries volume for motion pictures of 1956 is cited only as the place to start the check. I did not confirm that it lists this film.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1956",
+          "url": "https://archive.org/details/catalogofcopyrig3101213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits music to Milton Subotsky, Frank Virtue and Ray Ellis. It also says the individual musical numbers may have been copyrighted separately from the film. Any such song copyrights are unchecked, so the soundtrack cannot be assumed to share the print's status.",
+          "source": "Wikipedia, Rock, Rock, Rock!",
+          "url": "https://en.wikipedia.org/wiki/Rock,_Rock,_Rock!"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1983,
+      1984,
+      1985
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Rock, Rock, Rock!”, ~1983, 1984, 1985)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/rock_rock_rock",
+      "label": "Rock, Rock, Rock (1956) — Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/rock-rock-rock-1956-by-will-price",
+      "label": "Rock Rock Rock! (1956) by Will Price — Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Rock, Rock, Rock! is a 1956 teen musical made by Vanguard Productions and released by Distributors Corporation of America on December 4, 1956. Will Price directed. Phyllis Coe and Milton Subotsky wrote it. Tuesday Weld stars as a girl trying to earn money for a dress for a school dance. Alan Freed, Chuck Berry, LaVern Baker, and Frankie Lymon and the Teenagers appear in the performance scenes. For a creator, the draw is that stage footage of those performers.\n\nWikipedia says the copyright was not renewed in the 28th year and that the film entered the US public domain in 1984. I could not confirm that against a renewal record, so the print stays undetermined here. Do not treat that as settled for the songs. Wikipedia also says the individual musical numbers may have been copyrighted separately. Check each performance's music rights before using the clips, because the film's own status would not cover them.",
+  "faq": [
+    [
+      "Is Rock, Rock, Rock! (1956) in the public domain?",
+      "Wikipedia says its copyright was not renewed and that it entered the US public domain in 1984. I could not check a renewal record, so run the Copyright Office search linked in this dossier before relying on that. Even if the print is free, the songs may carry separate music copyrights."
+    ],
+    [
+      "Can I use the Chuck Berry or Frankie Lymon performances in a new video?",
+      "Do not assume so. Wikipedia says the individual musical numbers may have been copyrighted separately. Clear each song's composition and recording rights, or confirm they expired, before using the clips."
+    ]
+  ]
+}
