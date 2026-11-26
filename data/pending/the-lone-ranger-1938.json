@@ -1,0 +1,73 @@
+{
+  "id": "the-lone-ranger-1938",
+  "title": "The Lone Ranger",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Fifteen-chapter Republic Pictures serial released February 12, 1938, directed by William Witney and John English. Its US renewal window runs 1965-1966 (renewal was due in the 27th or 28th year after publication). The 1966 CCE volumes are the key ones to check. I could not search the CCE renewal volumes or the Copyright Office catalog in this session, so no renewal or non-renewal finding is made.",
+          "source": "Wikipedia, The Lone Ranger (serial) (background only, not a primary record)",
+          "url": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(serial)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia notes a contract between Republic and George W. Trendle for a Lone Ranger serial, signed in June 1937. The copyright status of the underlying radio and character material was not checked.",
+          "source": "Wikipedia, The Lone Ranger (serial) (background only)",
+          "url": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Lone Ranger”, ~1965, 1966)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Lone Ranger is Republic Pictures' 15-chapter serial, released February 12, 1938 and directed by William Witney and John English. Its chapters run from \"Hi-Yo Silver\" to \"The Last of the Rangers\". A creator might want it for its Western serial action and its place in the history of the character.\n\nThe rights question is the character, not just the film. Republic made the serial under a June 1937 contract with George W. Trendle. The copyright status of the underlying radio and character material was not checked, so it should be treated as a separate question from the film's own status. This dossier did not confirm the film's renewal status, so no layer is cleared. Check the 1965-1966 renewal records before reusing it, starting with the 1966 CCE volumes.",
+  "faq": [
+    [
+      "Can I use clips from the 1938 serial?",
+      "Not yet. No renewal search was completed for the film, so its print status is unconfirmed. Search the CCE renewal volumes (1966 first) and the Copyright Office catalog first. The rights in the underlying Lone Ranger character material were not checked and may be separate."
+    ],
+    [
+      "Does the film's status clear the Lone Ranger character?",
+      "No. The serial was made under a June 1937 contract between Republic and George W. Trendle. The film's copyright status and the character's rights are separate questions, and the character side was not checked."
+    ]
+  ]
+}
