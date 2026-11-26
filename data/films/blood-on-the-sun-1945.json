@@ -3,7 +3,7 @@
   "title": "Blood on the Sun",
   "year": 1945,
   "country": "US",
-  "last_verified": "2026-11-25",
+  "last_verified": "2026-11-26",
   "byline": null,
   "layers": {
     "print": {
@@ -11,14 +11,14 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia's 'Copyright status and home media' section says: 'In 1973, the film entered the public domain in the United States because the owners did not renew its copyright registration in the 28th year after publication.' This is a secondhand claim and is unverified. I did not read the Catalog of Copyright Entries Motion Pictures volumes for 1972, 1973 or 1974. I did not search publicrecords.copyright.gov. No renewal record was checked.",
+          "note": "Wikipedia's 'Copyright status and home media' section says the film entered the public domain in 1973 because the owners did not renew the copyright registration in the 28th year after publication. This is a secondhand claim. My attempt to search the Catalog of Copyright Entries volumes for 1972, 1973 and 1974 was incomplete. I read only a few windows of the 1973 volume (titles A to N, plus one late section), found no entry for this film, and did not read the 1972 or 1974 volumes at all. publicrecords.copyright.gov returned no usable results when fetched, so no Copyright Office search was done. No renewal record was confirmed either way.",
           "source": "Wikipedia, Blood on the Sun",
           "url": "https://en.wikipedia.org/wiki/Blood_on_the_Sun"
         },
         {
           "type": "research_note",
-          "note": "The Internet Archive item description reads 'PD due to lack of copyright renewal.' This is an uploader's claim, not a primary record, and it is unverified.",
-          "source": "Internet Archive item description for blood-on-the-sun-1945-by-frank-lloyd",
+          "note": "The Internet Archive item description says the film is in the public domain due to absence of copyright renewal. This is an uploader's claim, not a primary record. The item was added on 2024-08-26.",
+          "source": "Internet Archive item metadata for blood-on-the-sun-1945-by-frank-lloyd",
           "url": "https://archive.org/details/blood-on-the-sun-1945-by-frank-lloyd"
         }
       ]
@@ -28,7 +28,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia's infobox credits Miklós Rózsa for the music. I did not check whether the score has a separate registration or renewal. Its status is unconfirmed.",
+          "note": "Wikipedia credits Miklós Rózsa for the music. I did not check whether the score has a separate registration or renewal. As a sound film its recorded track would normally share the print's status, but that is unconfirmed here.",
           "source": "Wikipedia, Blood on the Sun",
           "url": "https://en.wikipedia.org/wiki/Blood_on_the_Sun"
         }
@@ -39,7 +39,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "Wikipedia's infobox lists the writers as Garrett Fort and Lester Cole. It says the film is based on a fictional history behind the Tanaka Memorial document. I did not check how the screenplay and story credits are split. I did not trace any underlying published source or its copyright status, so the story layer remains unresolved.",
+          "note": "Wikipedia lists Garrett Fort and Lester Cole as writers and describes the film as based on a fictional history behind the Tanaka Memorial document. The page fetched did not name a book or story source. I did not trace any underlying published source or its copyright status.",
           "source": "Wikipedia, Blood on the Sun",
           "url": "https://en.wikipedia.org/wiki/Blood_on_the_Sun"
         }
@@ -50,8 +50,15 @@
       "evidence": []
     },
     "restorations": {
-      "status": "undetermined",
-      "evidence": []
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's home media section lists a 1993 Republic colorized version, released on DVD in 2000 (Eureka, UK) and 2003 (Artisan, US). It also lists a Kino Lorber Blu-ray released 2024-02-13, using a 2020 HD master created by Paramount Pictures from a 4K scan of surviving 35mm nitrate elements. A faithful scan adds no new US copyright, but colorization and any added material in these releases can be protected. I did not inspect either release.",
+          "source": "Wikipedia, Blood on the Sun",
+          "url": "https://en.wikipedia.org/wiki/Blood_on_the_Sun"
+        }
+      ]
     }
   },
   "renewal_search": {
@@ -83,24 +90,24 @@
   "watch": [
     {
       "url": "https://archive.org/details/blood-on-the-sun-1945-by-frank-lloyd",
-      "label": "Blood on the Sun (1945), Internet Archive, described there as PD due to lack of copyright renewal",
+      "label": "Blood on the Sun (1945), Internet Archive, about 94 minutes, 1080p file that appears to be a commercial Blu-ray rip",
       "quality": "unverified"
     },
     {
       "url": "https://archive.org/details/BloodOnTheSun1945JAMESCAGNEY",
-      "label": "Blood on the Sun (1945) James Cagney, Internet Archive, second upload",
+      "label": "Blood on the Sun (1945) James Cagney, Internet Archive, about 94 minutes, low-bitrate upload from 2019",
       "quality": "unverified"
     }
   ],
-  "editorial": "Blood on the Sun is a 1945 film directed by Frank Lloyd. James Cagney plays Nick Condon. Wikipedia says the film is based on a fictional history behind the Tanaka Memorial document. William Cagney is listed as producer and United Artists as distributor. Miklós Rózsa is credited for the music, and Garrett Fort and Lester Cole are credited as writers. I did not check how the screenplay and story credits are split between them.\n\nThe rights question is unresolved. Wikipedia and an Internet Archive uploader's description say the copyright was not renewed. Both are secondhand claims, and I have not verified them. I did not read the Catalog of Copyright Entries Motion Pictures volumes for 1972, 1973 or 1974, and I did not search the Copyright Office public records. Check those before relying on public-domain status. The Rózsa score and any source material for the story have not been checked separately. Any restoration or re-release would add its own material.",
+  "editorial": "Blood on the Sun is a 1945 anti-Japanese-imperialism thriller directed by Frank Lloyd, with James Cagney as a Tokyo newspaper reporter who exposes the Tanaka Memorial plans. William Cagney Productions made it and United Artists distributed it. Garrett Fort and Lester Cole are credited as writers and Miklós Rózsa as composer. Wikipedia gives a San Francisco premiere of May 2, 1945 and a New York release of June 28, 1945. A reuser would want it for the Cagney performance and the wartime Hollywood setting.\n\nThe rights question is unresolved. Wikipedia and an Internet Archive uploader both say the copyright was not renewed. I could not confirm that: I read only part of the 1973 renewal volume, did not read the 1972 or 1974 volumes, and the Copyright Office public records search was unusable. Check the renewal volumes before relying on the print. The Rózsa score and any source material for the story are unchecked. The film also has a colorized 1993 version and a 2024 Kino Lorber Blu-ray from a Paramount 4K scan, and colorization or added material in those releases carries its own protection.",
   "faq": [
     [
       "Is Blood on the Sun in the public domain?",
-      "Unverified. Wikipedia says the copyright was not renewed in the 28th year, and an Internet Archive uploader describes the film as public domain for lack of renewal. I did not check the 1972, 1973 or 1974 Catalog of Copyright Entries Motion Pictures volumes or the Copyright Office public records. Check them yourself before relying on this."
+      "Unverified. Wikipedia and an Internet Archive uploader say the copyright was not renewed. I could not confirm that in the Catalog of Copyright Entries or the Copyright Office records. Check the 1972 to 1974 motion picture renewal volumes yourself before relying on it."
     ],
     [
-      "Can I use the Internet Archive copies and the Rózsa score?",
-      "Both Internet Archive pages load and show this film, but I did not check the source or quality of either copy. I did not check whether the Rózsa score has its own registration or renewal. Treat the score, and any added material in a particular copy, as uncleared until you check."
+      "Can I use the Internet Archive copies, the colorized version or the Blu-ray?",
+      "Treat them as uncleared. One Internet Archive file appears to be a rip of a commercial Blu-ray and the other is a low-bitrate upload, and I did not check the source or licence of either. A colorized 1993 version and a 2024 Kino Lorber Blu-ray exist, and added material in those releases can be protected. I did not check whether the Rózsa score has its own registration or renewal."
     ]
   ]
 }
