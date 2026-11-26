@@ -186,6 +186,16 @@
    "film": "blood-and-sand-1922",
    "kind": "watch"
   },
+  "blood-on-the-sun-1945-by-frank-lloyd": {
+   "ok": true,
+   "film": "blood-on-the-sun-1945",
+   "kind": "evidence"
+  },
+  "BloodOnTheSun1945JAMESCAGNEY": {
+   "ok": true,
+   "film": "blood-on-the-sun-1945",
+   "kind": "watch"
+  },
   "blotto_1930": {
    "ok": true,
    "film": "blotto-1930",
