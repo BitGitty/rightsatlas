@@ -792,7 +792,7 @@
    "kind": "evidence"
   },
   "the-great-rupert-1950_202512": {
-   "ok": true,
+   "ok": false,
    "film": "the-great-rupert-1950",
    "kind": "watch"
   },
@@ -1027,7 +1027,14 @@
    "kind": "evidence"
   }
  },
- "repaired": [],
+ "repaired": [
+  {
+   "film": "the-great-rupert-1950",
+   "was": "the-great-rupert-1950_202512",
+   "now": "the-great-rupert_202601",
+   "kind": "watch"
+  }
+ ],
  "dropped": [],
  "unrepaired_evidence": []
 }
