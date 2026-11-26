@@ -3,7 +3,7 @@
   "title": "The Navigator",
   "year": 1924,
   "country": "US",
-  "last_verified": "2026-11-12",
+  "last_verified": "2026-11-27",
   "byline": null,
   "layers": {
     "print": {
@@ -11,7 +11,7 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Published 1924 (Internet Archive record dates it September 28, 1924). Works published in 1924 entered the US public domain on January 1, 2020; Duke CSPD's Public Domain Day 2020 page lists Buster Keaton's The Navigator among the films.",
+          "note": "Published 1924 (the Internet Archive record dates it September 28, 1924). Works published in 1924 entered the US public domain on January 1, 2020. Duke CSPD's Public Domain Day 2020 page lists Buster Keaton's The Navigator among the films.",
           "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2020",
           "url": "https://cspd.law.duke.edu/publicdomainday/2020/"
         }
@@ -31,7 +31,7 @@
       "evidence": [
         {
           "type": "research_note",
-          "note": "The Internet Archive record names no source work, and I did not confirm one. The story layer is left undetermined."
+          "note": "The Internet Archive record describes the plot but names no source work, and I did not confirm one. The story layer is left undetermined."
         }
       ]
     },
@@ -57,10 +57,6 @@
         "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
       },
       {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
         "label": "US Copyright Office public records (1978+ renewals/assignments)",
         "url": "https://publicrecords.copyright.gov/"
       }
@@ -73,7 +69,7 @@
       "quality": "Full feature, about 59 minutes, with Portuguese subtitles"
     }
   ],
-  "editorial": "The Navigator is a 1924 American silent comedy directed by Donald Crisp and Buster Keaton, with Keaton as the millionaire Rollo Treadway and Kathryn McGuire as Betsy O'Brien. Rollo boards the wrong ship and ends up adrift at sea with Betsy. Duke's Center for the Study of the Public Domain lists it among the films that entered the US public domain on January 1, 2020, so the 1924 print is free to reuse.\n\nThe rights trap is the copy, not the film. The Internet Archive copy carries Portuguese subtitles, and a modern copy may add its own music or other new material. Those additions can be protected even though the 1924 images are not. Use a clean copy and check what was added to it. The story, trademark and restoration layers are not yet researched.",
+  "editorial": "The Navigator is a 1924 American silent comedy directed by Donald Crisp and Buster Keaton. Keaton plays Rollo, a millionaire who boards a ship he thinks is his way out of a rejected proposal. The ship belongs to the father of Betsy, who has also come aboard, and the two end up stranded at sea together. The Internet Archive record notes it was the most financially successful of Keaton's feature-length films made in-house for Metro or MGM.\n\nDuke's Center for the Study of the Public Domain lists it among the 1924 works that entered the US public domain on January 1, 2020, so the 1924 print is free to reuse. The rights trap is the copy, not the film. The Internet Archive copy carries Portuguese subtitles, and any modern copy may add its own music or other new material. Those additions can be protected even though the 1924 images are not. The story, trademark and restoration layers are not yet researched, so they stay undetermined.",
   "faq": [
     [
       "Can I reuse footage from The Navigator in my own video?",

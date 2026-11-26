@@ -3,7 +3,7 @@
   "title": "The Wishing Ring",
   "year": 1914,
   "country": "US",
-  "last_verified": "2026-11-12",
+  "last_verified": "2026-11-27",
   "byline": null,
   "layers": {
     "print": {
@@ -11,9 +11,15 @@
       "evidence": [
         {
           "type": "term_expiry",
-          "note": "Released November 9, 1914 in the US by World Film Manufacturing Company (distributed as 'A Shubert Feature'). The US copyright term for works published in 1914 has expired, so the film print is public domain in the US by term expiry.",
+          "note": "Released November 9, 1914 in the US by World Film Manufacturing Company (distributed as 'A Shubert Feature'), per Silent Era. Works first published in the US before 1931 are in the public domain due to copyright expiration (Cornell chart of US copyright terms). A 1914 publication falls in that group, so the film print is public domain in the US by term expiry.",
           "source": "Silent Era Progressive Silent Film List",
           "url": "https://silentera.com/PSFL/data/W/WishingRing1914.html"
+        },
+        {
+          "type": "term_rule",
+          "note": "Cornell's chart of US copyright terms lists works first published in the US before 1931, with no conditions, as having no copyright term: public domain due to copyright expiration.",
+          "source": "Cornell University Library, Copyright Term and the Public Domain in the United States",
+          "url": "https://guides.library.cornell.edu/copyright/publicdomain"
         }
       ]
     },
@@ -39,14 +45,19 @@
     },
     "trademark": {
       "status": "undetermined",
-      "evidence": []
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I found no active trademark tied to the title or its characters. This was not searched in a trademark database, so the layer stays undetermined."
+        }
+      ]
     },
     "restorations": {
       "status": "undetermined",
       "evidence": [
         {
           "type": "research_note",
-          "note": "Silent Era says a print exists at the Library of Congress and that a 35mm restoration was made from a British reduction print. I could not identify who made that restoration or whether it added a new score or titles. If it did, those additions could be protected.",
+          "note": "Silent Era says a print exists in the Library of Congress film archive and that a 35mm blow-up negative was made from a British 16mm reduction print. I could not identify who made that negative or whether it added a new score or titles. If it did, those additions could be protected.",
           "source": "Silent Era Progressive Silent Film List",
           "url": "https://silentera.com/PSFL/data/W/WishingRing1914.html"
         }
@@ -54,26 +65,9 @@
     }
   },
   "renewal_search": {
-    "renewal_years": [
-      1941,
-      1942,
-      1943
-    ],
-    "negative_result": null,
-    "diy_links": [
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — motion-picture renewal volumes — search “The Wishing Ring” (renewals ~1941, 1942, 1943)",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
-        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
-      },
-      {
-        "label": "US Copyright Office public records (1978+ renewals/assignments)",
-        "url": "https://publicrecords.copyright.gov/"
-      }
-    ]
+    "renewal_years": [],
+    "negative_result": "Renewal is irrelevant for this film. It was published in 1914, before 1923, and works from that period needed no renewal. Its copyright term has expired. No renewal search was run because none was needed.",
+    "diy_links": []
   },
   "watch": [
     {
@@ -82,11 +76,11 @@
       "quality": "Internet Archive copy; the metadata page lists Maurice Tourneur as director and Vivian Martin, Alec B. Francis, Chester Barnett and Gyp Williams in the cast"
     }
   ],
-  "editorial": "The Wishing Ring: An Idyll of Old England is a silent comedy-drama released November 9, 1914 by World Film Manufacturing Company as a Shubert Feature. Maurice Tourneur directed it. Vivian Martin plays Sally, the parson's daughter, Alec B. Francis the Earl of Bateson and Chester Barnett his son Giles. A creator gets an early Tourneur feature that survives, with a print held at the Library of Congress.\n\nThe film print is public domain in the US because the copyright term for 1914 publications has expired. Other layers are not cleared. The film adapts Owen Davis's play, and I could not confirm that play's publication or registration history, so check it before relying on the story. Any music on a modern copy is a separate work, and a restored copy may carry added material. Use the images with your own score or one you have cleared.",
+  "editorial": "The Wishing Ring: An Idyll of Old England is a silent comedy-drama released November 9, 1914 by World Film Manufacturing Company as a Shubert Feature. Maurice Tourneur directed it. Vivian Martin plays Sally, the parson's daughter, Alec B. Francis the Earl of Bateson and Chester Barnett his son Giles. Silent Era's cast list also includes Johnny Hines as a happy boy and Gyp Williams, whom it lists as a dog. The Internet Archive metadata lists Gyp Williams in the cast without describing it. A creator gets a Tourneur feature that survives, with a print in the Library of Congress film archive.\n\nThe film print is public domain in the US. It was published in 1914, and works first published in the US before 1931 are public domain due to copyright expiration (Cornell chart of US copyright terms). No renewal search was needed. Other layers are not cleared. The film adapts Owen Davis's play, and I could not confirm that play's publication or registration history, so check it before relying on the story. Any music on a modern copy is a separate work, and a copy made from the 35mm negative or another restoration may carry added material. Use the images with your own score or one you have cleared.",
   "faq": [
     [
       "Can I reuse the 1914 film footage of The Wishing Ring in the US?",
-      "The film print is public domain in the US because the copyright term for 1914 publications has expired. Check separately for any added score, titles or other new material in the copy you use."
+      "Yes for the film print. It was published in 1914, and works first published in the US before 1931 are public domain due to copyright expiration (Cornell chart of US copyright terms). Check separately for any added score, titles or other new material in the copy you use."
     ],
     [
       "Is the story free to adapt too?",
