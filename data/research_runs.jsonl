@@ -836,3 +836,6 @@
 {"date": "2026-11-26", "id": "the-lucky-texan-1934", "result": "queued", "reasons": []}
 {"date": "2026-11-26", "id": "twentieth-century-1934", "result": "queued", "reasons": []}
 {"date": "2026-11-26", "id": "general-spanky-1936", "result": "queued", "reasons": []}
+{"date": "2026-11-26", "id": "the-shadow-strikes-1937", "result": "queued", "reasons": []}
+{"date": "2026-11-26", "id": "made-for-each-other-1939", "result": "blocked", "reasons": ["layer 'print' is likely_pd — not allowed in a candidate"]}
+{"date": "2026-11-26", "id": "second-chorus-1940", "result": "blocked", "reasons": ["second-chorus-1940: bad status 'unverified' on print"]}

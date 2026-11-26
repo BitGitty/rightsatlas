@@ -1,0 +1,91 @@
+{
+  "id": "the-shadow-strikes-1937",
+  "title": "The Shadow Strikes",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal search was performed. I did not read the 1965 Catalog of Copyright Entries motion picture volume, which is the primary volume for a 1937 film's year-28 renewal window. I also did not read the adjacent 1964 and 1966 volumes, and I did not run a Copyright Office online catalog search. I therefore cannot confirm that no renewal exists. The queue's 'renewal_absent_likely' flag is not a primary source.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1965 (not searched)",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page lists the title, a 1937 publication date, and the topics 'The Shadow' and 'mystery'. It shows no music credits or rights information. A sound film's recorded track would normally share the film's copyright status, so the score depends on the print's status. I did not confirm any music credits.",
+          "source": "Internet Archive item page, The Shadow Strikes (1937)",
+          "url": "https://archive.org/details/shadow_strikes"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's film article says the film is based on 'The Ghost of the Manor' by Walter B. Gibson. It gives no publication year or magazine for that story. I could not find a publication year, so I cannot say whether it ran in The Shadow Magazine in 1936–37, or whether it was renewed. The Shadow character and its stories were also published in other forms, so they need separate checking.",
+          "source": "Wikipedia, The Shadow Strikes (secondary source)",
+          "url": "https://en.wikipedia.org/wiki/The_Shadow_Strikes"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office online catalog — search “The Shadow Strikes” for any renewal record (renewals filed 1964–1966 are listed in the CCE volumes below)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1965, Motion Pictures (archive.org) — primary volume for the 1964–1966 renewal window",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964, Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/shadow_strikes",
+      "label": "The Shadow Strikes (1937) on the Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Shadow Strikes is a 1937 mystery feature. Wikipedia credits Lynn Shores as director, Colony Pictures as producer and Grand National Pictures as distributor. It lists Rod La Rocque as the lead, The Shadow, and Agnes Anderson (billed as Lynn Anders) as Marcia Delthiern. It says the film is based on 'The Ghost of the Manor' by Walter B. Gibson. I have not checked these credits against the AFI Catalog or the film's title card. A creator might want it as an early screen version of The Shadow, in a low-budget mystery. A copy is on the Internet Archive.\n\nThe rights trap is that a free copy online does not prove the film's copyright status. No renewal search was performed. The print stays undetermined until someone checks the 1964, 1965 and 1966 Catalog of Copyright Entries volumes (1965 is the primary one) and the Copyright Office online catalog. The source story and The Shadow character have their own copyright and trademark history, which I did not resolve. I also could not find the story's publication year. Anyone building a new Shadow work should check those separately from the film.",
+  "faq": [
+    [
+      "Can I reuse footage from The Shadow Strikes?",
+      "Not yet with confidence. The print's status depends on whether a renewal was filed in the 1964–1966 window. No renewal search has been done, so check the Catalog of Copyright Entries volumes (1965 first) and the Copyright Office online catalog first."
+    ],
+    [
+      "Does using the film let me use The Shadow character?",
+      "No. The character and the Maxwell Grant stories have their own copyright and possible trademark status, separate from the film. I did not resolve either, so clear them before making a new Shadow work."
+    ]
+  ]
+}
