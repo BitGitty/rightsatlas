@@ -1,0 +1,96 @@
+{
+  "id": "the-last-time-i-saw-paris-1954",
+  "title": "The Last Time I Saw Paris",
+  "year": 1954,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article says the film's copyright notice shows 'MCMXLIV' (1944) instead of 'MCMLIV' (1954). It says the film's renewal was missed and that the film entered the US public domain in 1972. Wikipedia cites the Copyright Registration and Renewal Information Chart (chart.copyrightdata.com/ch02.html). That page was not fetched here. No Catalog of Copyright Entries volume and no Copyright Office record was searched for a renewal of the film. This is an unverified Wikipedia claim, so print status is undetermined.",
+          "source": "Wikipedia, The Last Time I Saw Paris",
+          "url": "https://en.wikipedia.org/wiki/The_Last_Time_I_Saw_Paris"
+        },
+        {
+          "type": "research_note",
+          "note": "An earlier script run reported two renewal numbers, RE0000060283 and RE0000060284, as hits for the title. These details are unverified script output. The registration records themselves were not opened, so their dates, claimants and descriptions are not confirmed, and they have not been shown to be music registrations rather than renewals of the film.",
+          "source": "Unverified script output (not a cited record)",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is loosely based on F. Scott Fitzgerald's short story 'Babylon Revisited', first published February 21, 1931 in The Saturday Evening Post. Wikipedia says the story 'will enter the American public domain on January 1, 2027'. Its footnote gives a renewal registration, R231397, but the catalog record was not checked directly. Until that date the story remains protected, so new adaptations or text reuse of the story carry risk.",
+          "source": "Wikipedia, Babylon Revisited",
+          "url": "https://en.wikipedia.org/wiki/Babylon_Revisited"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1981,
+      1982,
+      1983
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Last Time I Saw Paris”, ~1981, 1982, 1983)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1972 (archive.org) — check for a renewal of the film if the 1944 notice date governs",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1954 (archive.org) — original registration",
+        "url": "https://archive.org/details/catalogofcopyrig381213lib"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/last_time_i_saw_paris",
+      "label": "The Last Time I Saw Paris (1954), full-length MGM feature, about 1h56m, Internet Archive",
+      "quality": "full-length feature"
+    },
+    {
+      "url": "https://archive.org/details/the-last-time-i-saw-paris-1954",
+      "label": "The Last Time I Saw Paris (1954), Internet Archive, about 1h55m MP4",
+      "quality": "full-length feature"
+    }
+  ],
+  "editorial": "The Last Time I Saw Paris is a 1954 MGM romantic drama directed by Richard Brooks, with Elizabeth Taylor, Van Johnson, Walter Pidgeon and Donna Reed. It was written by Julius J. and Philip G. Epstein and Brooks, and released November 18, 1954. It is a loose adaptation of F. Scott Fitzgerald's 'Babylon Revisited'. A creator might want it for its postwar Paris setting and its Taylor-and-Johnson leads, and Roger Moore appears in his Hollywood debut.\n\nThe film's copyright history is unusual, but it is unverified. Wikipedia says the notice carried the Roman numeral year MCMXLIV (1944) rather than 1954, and that the film's renewal was missed. We have not completed any renewal search for the film, in the Catalog of Copyright Entries or in Copyright Office records. We also have not found a primary source showing that the term runs from the notice year. Treat the film's print status as undetermined until those checks are done. The clearer rights issue is the source story. Per Wikipedia, Fitzgerald's 'Babylon Revisited' stays protected until January 1, 2027. Anything built on the story's text, as opposed to the film itself, needs care until then. Two renewal numbers from an earlier script run (RE0000060283 and RE0000060284) have not been checked against the records.",
+  "faq": [
+    [
+      "Can I use the 1954 film on a commercial video?",
+      "We can't confirm that yet. Wikipedia says the notice shows 1944 and that the film entered the public domain in 1972, but we have not verified this or searched for a renewal. Check the Catalog of Copyright Entries and the Copyright Office records yourself first. Separately, the Fitzgerald story it adapts is protected until January 1, 2027 per Wikipedia, and any music in the film needs its own check."
+    ],
+    [
+      "Do the renewal numbers RE0000060283 and RE0000060284 affect the film?",
+      "Unknown. They came from an earlier script run, and we have not opened the records to see what they cover. Look them up in the Copyright Office public records before relying on them either way."
+    ]
+  ]
+}

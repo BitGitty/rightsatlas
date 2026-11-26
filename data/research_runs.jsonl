@@ -805,3 +805,6 @@
 {"date": "2026-11-26", "id": "zorros-black-whip-1944", "result": "queued", "reasons": []}
 {"date": "2026-11-26", "id": "zombies-of-the-stratosphere-1952", "result": "queued", "reasons": []}
 {"date": "2026-11-26", "id": "the-joe-louis-story-1953", "result": "queued", "reasons": []}
+{"date": "2026-11-26", "id": "the-last-time-i-saw-paris-1954", "result": "queued", "reasons": []}
+{"date": "2026-11-26", "id": "the-last-woman-on-earth-1960", "result": "queued", "reasons": []}
+{"date": "2026-11-26", "id": "the-pleasure-garden-1925", "result": "blocked", "reasons": ["print verified_pd without a primary-source evidence entry"]}

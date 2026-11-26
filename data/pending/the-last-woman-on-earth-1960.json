@@ -1,0 +1,96 @@
+{
+  "id": "the-last-woman-on-earth-1960",
+  "title": "The Last Woman on Earth",
+  "year": 1960,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No renewal record or Catalog of Copyright Entries volume was fetched or checked in this session. Public domain status of the print is not established. The queue flags renewal absence as likely, which is a lead and not a finding.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-last-woman-on-earth"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The recorded soundtrack normally shares the film's own copyright status, so it is undetermined until the print is resolved. Music-publishing rights in the underlying score were not researched.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-last-woman-on-earth"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive description calls this an original 1960 American science fiction film produced and directed by Roger Corman. No source work was identified, and screenplay rights were not researched.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-last-woman-on-earth"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1987,
+      1988,
+      1989
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Last Woman on Earth”, ~1987, 1988, 1989)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-last-woman-on-earth",
+      "label": "Last Woman on Earth (1960), Internet Archive, with a Robert Corman introduction, about 1h11m",
+      "quality": "good"
+    },
+    {
+      "url": "https://archive.org/details/last-woman-on-earth-1960-roger-corman",
+      "label": "Last Woman on Earth (1960) Roger Corman, Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Last Woman on Earth (1960) is a low-budget American science fiction film produced and directed by Roger Corman. Three people on vacation in Puerto Rico surface from a swim to find that a temporary interruption in the world's oxygen supply has killed everyone else. It is a small-cast apocalypse story that creators can use for B-movie compilations, commentary, or sci-fi montage.\n\nThe rights question is not settled. The queue lists the film as a candidate with no renewal found, and the film would have come up for renewal around 1987 and 1988. We did not confirm that from the Catalog of Copyright Entries or the Copyright Office public catalog. The Internet Archive hosts copies, but a host listing is not a copyright finding. Search the 1978-and-later renewal records yourself before treating the print as free. The soundtrack and screenplay would also need to be cleared separately.",
+  "faq": [
+    [
+      "Is The Last Woman on Earth (1960) safe to reuse?",
+      "Not yet confirmed. The print's renewal status was not verified here. Check the Copyright Office public catalog and the Catalog of Copyright Entries renewal volumes for about 1987 to 1989 before relying on it. Streaming copies on the Internet Archive do not establish rights."
+    ],
+    [
+      "Does a free copy on the Internet Archive settle the music and script rights?",
+      "No. Hosting a film does not clear its layers. The score, screenplay and any restored or re-titled version are separate questions. Each follows the film's own copyright status or is protected on its own terms."
+    ]
+  ]
+}
