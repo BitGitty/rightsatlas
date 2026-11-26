@@ -1,0 +1,85 @@
+{
+  "id": "the-criminal-code-1931",
+  "title": "The Criminal Code",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unverified. An earlier catalog scan reported a renewal entry for 'Criminal Code' (LP1894, R211979, 28MAR58) in the Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1958. I could not confirm it. On this check I fetched the OCR text of the Internet Archive item below, which is headed 'Volume 12, Parts 12-13, Number 1, Motion Pictures and Filmstrips, January-June 1958'. The fetch read only the first part of a very large file (about 39,000 of 913,000 characters). Searches for 'CRIMINAL CODE', 'R211979' and 'LP1894' found no match in that part. I have no page number or OCR snippet showing the entry. The Copyright Office database was not checked, and no second source for R211979 was found. Until the entry is found on a catalog page or in a Copyright Office record, treat the renewal as unconfirmed and the print status as undetermined.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Jun 1958 (Internet Archive OCR, partly read)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No source shows the status of the music. Music in a 1931 sound film may have separate publisher registrations or renewals. I did not check any music registrations, and the print layer's renewal is itself unconfirmed.",
+          "source": "Research note",
+          "url": "https://archive.org/details/the.-criminal.-code.-1930"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item description says the screenplay is 'based on a 1929 play of the same name by Martin Flavin.' I did not check the play's publication or renewal history. The underlying play may have its own protection separate from the film.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the.-criminal.-code.-1930"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Criminal Code”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Criminal Code is a 1931 American pre-Code crime drama directed by Howard Hawks and starring Walter Huston and Phillips Holmes. The Internet Archive item description says the screenplay is based on a 1929 play of the same name by Martin Flavin.\n\nIts copyright status is not settled. An earlier catalog scan pointed to a 1958 renewal (R211979), but I could not find that entry on a catalog page, and no second source confirms it. Do not treat the film as public domain, and do not treat the renewal as proven either. Copies on the Internet Archive are uploads, not a finding that the film is free to use. Check the 1958 Catalog of Copyright Entries and the Copyright Office records yourself before any reuse. The play it is based on may carry a separate copyright, which I did not check.",
+  "faq": [
+    [
+      "Is The Criminal Code (1931) in the public domain?",
+      "Undetermined. An earlier catalog scan suggested a 1958 renewal (R211979), but I could not confirm it against a catalog page or a Copyright Office record. Being hosted online does not make a film public domain."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy?",
+      "Not safely until the status is confirmed. An upload is not a rights clearance. The renewal is unconfirmed, and the underlying 1929 Flavin play may add its own claim. Verify the renewal yourself or get a licence from the rights holder. Rely on fair use only after your own analysis."
+    ]
+  ]
+}

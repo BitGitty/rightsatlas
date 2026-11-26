@@ -1,0 +1,85 @@
+{
+  "id": "tell-tale-heart-1941",
+  "title": "Tell-Tale Heart",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1968 volume. The archive.org full-text OCR, read on 2026-11-26, has one TELL-TALE HEART entry, in the Renewal Registrations section. It reads: \"THE TELL-TALE HEART, a photoplay in 2 reels by Loew's. © 5Nov41; L10934. Metro-Goldwyn-Mayer, Inc. (PWH); 8Nov68; R448515.\" The OCR text does not give a page number, and none was identified. The title, claimant (MGM) and original registration year match this film. This is a text-only OCR reading, so the printed page has not been checked.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1968 (archive.org full-text OCR)",
+          "url": "https://archive.org/stream/catalogofc19683221213libr/catalogofc19683221213libr_djvu.txt"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No separate score registration was searched for. The only source checked was the 1968 Catalog of Copyright Entries Motion Pictures volume, which lists only the film renewal. A separate score copyright, if any, is not ruled out.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1968 (archive.org full-text OCR)",
+          "url": "https://archive.org/stream/catalogofc19683221213libr/catalogofc19683221213libr_djvu.txt"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Poe Society's page on the text lists 'The Tell-Tale Heart' under Manuscripts and Authorized Printings as 'January 1843 — Pioneer'. That is its first authorized printing. The story is by Edgar Allan Poe and was first published in 1843. The MGM adaptation's own new material is covered by the film's renewed copyright.",
+          "source": "Edgar Allan Poe Society of Baltimore, 'The Tell-Tale Heart' textual history page",
+          "url": "https://www.eapoe.org/works/info/pt043.htm"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Tell-Tale Heart”, ~1968, 1969, 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Tell-Tale Heart is a two-reel MGM short from 1941, directed by Jules Dassin. It adapts Poe's story, first printed in The Pioneer in January 1843. A creator would want it for the Poe horror pedigree and an early Dassin credit.\n\nThe rights trap is that this film is not free to reuse. Loew's registered it on 5 November 1941 (L10934). The 1968 Catalog of Copyright Entries, in its OCR text, lists a renewal in MGM's name dated 8 November 1968 (R448515). That falls inside the 28th-year renewal window, so the film's term is extended. The printed page itself has not been checked. Only the underlying Poe story is free. The filmed adaptation is MGM's, and a separate score copyright has not been ruled out. Many online copies are posted as if they were public domain, but that does not change the renewal record.",
+  "faq": [
+    [
+      "Is the 1941 MGM Tell-Tale Heart in the public domain?",
+      "No. The 1968 Catalog of Copyright Entries, in its OCR text, lists an MGM renewal, R448515, dated 8 November 1968, for the 1941 registration L10934. On that record the film is still under copyright. Only Poe's original 1843 story is free."
+    ],
+    [
+      "Can I make my own Tell-Tale Heart film from Poe's story?",
+      "Yes. Poe's text is long out of copyright and anyone can adapt it. Do not copy the MGM film's dialogue, staging, music or footage. Those are MGM material."
+    ]
+  ]
+}
