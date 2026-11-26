@@ -1,0 +1,95 @@
+{
+  "id": "the-magnetic-telescope-1942",
+  "title": "The Magnetic Telescope",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": "Directed by Dave Fleischer, 1942",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short was released April 24, 1942 (Wikipedia). A renewal would have fallen in the renewal window, years 27-28 after publication, which is 1969-1970. No renewal search has been completed for this title, so no search result exists yet and non-renewal is not confirmed. The 1970 volume is linked as the place to search. Its contents were not read for this dossier.",
+          "source": "Wikipedia, The Magnetic Telescope",
+          "url": "https://en.wikipedia.org/wiki/The_Magnetic_Telescope"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Sammy Timberg. The score is part of the sound film, so it shares the print's unresolved status. Any separately published music is not checked.",
+          "source": "Wikipedia, The Magnetic Telescope",
+          "url": "https://en.wikipedia.org/wiki/The_Magnetic_Telescope"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short features Superman, Lois Lane and Clark Kent (Wikipedia). The copyright and trademark status of those characters was not verified from a primary source for this dossier, for example the Action Comics #1 registration and renewal records.",
+          "source": "Wikipedia, The Magnetic Telescope",
+          "url": "https://en.wikipedia.org/wiki/The_Magnetic_Telescope"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures and Filmstrips, 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, 1970 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-magnetic-telescope-1942",
+      "label": "The Magnetic Telescope (1942), Internet Archive",
+      "quality": "Dated 1942-04-24; credits Dave Fleischer and Thomas Moore; tagged Public Domain Mark 1.0 by the uploader (not a rights determination)"
+    },
+    {
+      "url": "https://archive.org/details/magnetic_telescope",
+      "label": "Magnetic Telescope, The (1942), Internet Archive",
+      "quality": "Runtime 0:07:39; uploader's public domain license tag"
+    }
+  ],
+  "editorial": "The Magnetic Telescope is a Superman cartoon released on April 24, 1942. Dave Fleischer directed it, and Sammy Timberg is credited with the music (Wikipedia). In the story, a scientist's magnetic telescope pulls a comet toward Earth. Police jam a bar into the telescope's generator and cut its wires. The comet then goes out of control, and Superman helps send it back into space. One Internet Archive copy runs 7:39.\n\nThe film's copyright status is unresolved. A renewal would have been due in the 1969-1970 window. No renewal search has been completed, so non-renewal is unconfirmed. Archive.org's public-domain tags are uploader labels, not proof. Separately, Superman and Lois Lane appear in the short. The rights status of those characters was not verified here and may be independent of the film. Clearing the print would not clear a new work that uses the characters or marks.",
+  "faq": [
+    [
+      "Can I reuse The Magnetic Telescope footage in my own video?",
+      "Not safely yet. The print's renewal status is unconfirmed. Check the 1969-1970 CCE Motion Pictures volumes by hand before relying on it. Even if the print is free, the Superman and Lois Lane characters may be separately protected, so a new work built around them could infringe."
+    ],
+    [
+      "Does an Internet Archive public-domain tag settle it?",
+      "No. The tag is the uploader's own label. It does not show that no renewal was filed, and it says nothing about rights in the characters or trademarks."
+    ]
+  ]
+}

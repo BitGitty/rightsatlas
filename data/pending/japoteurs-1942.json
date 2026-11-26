@@ -1,0 +1,84 @@
+{
+  "id": "japoteurs-1942",
+  "title": "Japoteurs",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1942, so public domain depends on a missing renewal. The renewal window for a 1942 work is 1969–1970. The 1969 and 1970 Catalog of Copyright Entries motion-picture volumes were located on archive.org, but no search of their renewal entries was done. No renewal entry was confirmed or ruled out. The Copyright Office public records site is a JavaScript app and could not be searched here.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1969 and 1970 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Sammy Timberg as composer. The recorded score is part of the sound film and would share the print's status, which is undetermined.",
+          "source": "Wikipedia, Japoteurs",
+          "url": "https://en.wikipedia.org/wiki/Japoteurs"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Caution, not a finding: the short is based on the DC Comics character Superman, which existed before this film. The film's own copyright status does not decide the rights in the character, and this dossier did not research who holds them or their renewal status. Clear the character separately before reuse.",
+          "source": "Wikipedia, Japoteurs",
+          "url": "https://en.wikipedia.org/wiki/Japoteurs"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Japoteurs”, ~1969, 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1970 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Japoteurs is a nine-minute Superman cartoon released on September 18, 1942. Seymour Kneitel directed it, Sam Buchwald produced it, Famous Studios made it and Paramount Pictures distributed it. Sammy Timberg composed the score. It is the tenth of seventeen animated Technicolor Superman shorts based on the DC Comics character.\n\nThe print's status is not settled. It was published in 1942, so it is free only if no renewal was filed in the 1969–1970 window. No search of the renewal entries was done, so no absence of renewal is confirmed. Wikipedia notes the film is available for free viewing at the Internet Archive, but that is not a copyright record. The Superman character comes from outside this film, and this dossier did not determine who holds its rights. Treat the character as a separate clearance question and avoid using it in new work or as branding without clearing it.",
+  "faq": [
+    [
+      "Is Japoteurs free to reuse in the US?",
+      "Not confirmed. The film was published in 1942, so it is free only if no renewal was filed in the 1969–1970 window, and that check is still open. The Superman character is a separate rights question that was not researched."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Wikipedia notes the film is available at the Internet Archive, but availability is not a copyright record. Check the renewal records first. Do not use the character in new work or as branding without clearing it."
+    ]
+  ]
+}
