@@ -1,0 +1,72 @@
+{
+  "id": "the-purple-monster-strikes-1945",
+  "title": "The Purple Monster Strikes",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 27, Parts 12-13: Motion Pictures, January-December 1973. The Name Index lists 'THE PURPLE MONSTER STRIKES. (R)' under both Repix, Inc. and Republic Productions, Inc. The (R) marks a renewal registration in this 1973 volume. I could not retrieve the main-listing entries, so the registration numbers, exact dates and chapter breakdown are not confirmed here and are left out. Check them in the US Copyright Office public records.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures, Jan-Dec 1973, vol. 27 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is a sound film. The soundtrack is treated as part of the renewed motion-picture registration, so it shares the print's status. No separate music catalog was searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 27, Parts 12-13: Motion Pictures, Jan-Dec 1973",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1973
+    ],
+    "negative_result": "Renewals found, not absent: the 1973 Motion Pictures volume's Name Index lists the title with (R) under Repix, Inc. and Republic Productions, Inc.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1973 Motion Pictures (archive.org), Name Index lists the title with (R)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "US Copyright Office public records (search 'The Purple Monster Strikes')",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Purple Monster Strikes is a 1945 Republic Pictures serial. The Catalog of Copyright Entries for 1973 lists the title with a renewal mark (R) under Repix, Inc. and Republic Productions, Inc. A renewal in 1973 falls inside the 28th-year window after a 1945 registration, so the film, including its sound track, appears to be still under US copyright. I could not confirm the registration numbers or exact dates, so check them in the Copyright Office public records. Treat any copy, including copies hosted online, as licensed material, not free footage, until you have a license from the current rights holder.",
+  "faq": [
+    [
+      "Is The Purple Monster Strikes in the public domain?",
+      "Probably not. The 1973 Catalog of Copyright Entries lists the serial with a renewal mark (R) under Repix, Inc. and Republic Productions, Inc., so its US copyright appears to have been extended. Copies hosted online are not cleared for reuse."
+    ],
+    [
+      "Can I use clips from an online copy?",
+      "Not safely. A copy hosted online does not clear the film. To reuse clips, get a license from the rights holder, or rely on a fair-use analysis for your specific use."
+    ]
+  ]
+}

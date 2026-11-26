@@ -1,0 +1,95 @@
+{
+  "id": "the-big-wheel-1949",
+  "title": "The Big Wheel",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Original registration: THE BIG WHEEL, © Samuel H. Stiefel Productions, 4 Nov 1949, LP2848, listed in the Jan-Jun 1950 section of the CCE Motion Pictures volume. Under the 1909 Act, renewal had to be filed in the 28th year after the copyright date. For a 1949 registration that window was calendar 1977 (1 Jan to 31 Dec 1977). A 1976 filing would have been early and a 1978 filing late. This entry establishes the original claimant and the window. It is not a renewal search.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1950",
+          "url": "https://archive.org/details/catalogofcopyri341213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Partial renewal check only. The Jan-Jun index sections of the 1976 and 1977 CCE Motion Pictures volumes show no 'Big Wheel' renewal. The Jul-Dec 1977 issue, the 1978 volume (where 1977 filings were sometimes catalogued) and the Copyright Office public catalog were not checked, so non-renewal is not established.",
+          "source": "CCE Motion Pictures 1977 (Jan-Jun index section)",
+          "url": "https://archive.org/details/1977motionpictur3311213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track is presumed to share the film's status, which is unresolved until the renewal search is finished. Any separate publication of the music was not examined.",
+          "source": "CCE Motion Pictures 1950 registration entry",
+          "url": "https://archive.org/details/catalogofcopyri341213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No underlying work was identified for the story. It is presumed original to the film and to follow the film's own copyright status. This was not confirmed against a source work.",
+          "source": "CCE Motion Pictures 1950 registration entry",
+          "url": "https://archive.org/details/catalogofcopyri341213libr"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1977
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “The Big Wheel” for a renewal filed in 1977 (the 28th-year window)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1977 volume (archive.org) — check the Jul-Dec index for 'Big Wheel'",
+        "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1976 volume (archive.org) — early filings would not count as timely",
+        "url": "https://archive.org/details/1976motionpictur3301213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheBigWheel",
+      "label": "The Big Wheel (1949), Internet Archive feature film, 89 min, b&w",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "The Big Wheel (1949) is a Mickey Rooney drama. He plays Bill Coy, a character who follows in his father's footsteps for good and for bad. Edward Ludwig directed. The Internet Archive page credits Samuel H. Stiefel Productions, with Mort Briskin and Samuel H. Stiefel. A creator might want it for a Rooney dramatic turn outside the Andy Hardy series.\n\nThe rights trap is the renewal. The film was registered as LP2848 by Samuel H. Stiefel Productions on 4 Nov 1949. Under the 1909 Act, renewal had to be filed in the 28th year, which for a 1949 registration is calendar 1977. A 1976 filing would have been early, and a 1978 filing late and not a timely renewal. We read only the January-June sections of the 1976 and 1977 catalog volumes and found no renewal there. We did not check the July-December 1977 issue, the 1978 volume (where 1977 filings were sometimes catalogued) or the Copyright Office's online catalog. The Internet Archive copy carries a public-domain tag. That tag is not evidence of the copyright status. Do not treat the print as cleared until the renewal search is finished.",
+  "faq": [
+    [
+      "Is The Big Wheel (1949) in the public domain?",
+      "Not confirmed. The film was registered in 1949 (LP2848) and its renewal window was 1977. We found no renewal in the January-June 1976 and 1977 catalog sections. The July-December 1977 issue, the 1978 volume (where 1977 filings were sometimes catalogued) and the Copyright Office's online catalog are unchecked, so the status is undetermined."
+    ],
+    [
+      "Can I use the Internet Archive copy of The Big Wheel?",
+      "The Internet Archive item (TheBigWheel) is tagged public domain, but the uploader's tag does not settle the question. Search publicrecords.copyright.gov for a renewal filed in 1977 before reusing clips commercially. Also check the music and any added titles on the copy you use."
+    ]
+  ]
+}

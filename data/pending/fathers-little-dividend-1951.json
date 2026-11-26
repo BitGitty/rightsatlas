@@ -1,0 +1,103 @@
+{
+  "id": "fathers-little-dividend-1951",
+  "title": "Father's Little Dividend",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's copyright-status section says the film entered the US public domain in 1979 because MGM failed to renew the copyright registration. It cites David Pierce, 'Forgotten Faces: Why Some of Our Cinema Heritage Is Part of the Public Domain', Film History 19(2), 2007. We did not search any Catalog of Copyright Entries renewal volume (Motion Pictures, 1978, 1979 or 1980) and did not search publicrecords.copyright.gov. Both are not searched, so the claim stays unverified.",
+          "source": "Wikipedia, Father's Little Dividend",
+          "url": "https://en.wikipedia.org/wiki/Father%27s_Little_Dividend"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Albert Sendrey. The recorded track is part of the MGM sound film and would normally share the print's status. Any separate music registration or renewal was not checked.",
+          "source": "Wikipedia, Father's Little Dividend",
+          "url": "https://en.wikipedia.org/wiki/Father%27s_Little_Dividend"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox lists the film as based on Edward Streeter's Father of the Bride. The 1950 film page dates that novel to 1949. We did not check whether the novel's copyright was renewed, or whether the sequel's story is covered by the novel's rights.",
+          "source": "Wikipedia, Father of the Bride (1950 film)",
+          "url": "https://en.wikipedia.org/wiki/Father_of_the_Bride_(1950_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film was restored and released on Blu-ray on 29 August 2023 as part of the Warner Archive Collection. We did not read the Blu-ray listing, so what the restoration adds is unknown.",
+          "source": "Wikipedia, Father's Little Dividend",
+          "url": "https://en.wikipedia.org/wiki/Father%27s_Little_Dividend"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979,
+      1980
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Father's Little Dividend”, ~1978, 1979, 1980)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/fathers-little-dividend-1951-by-vincente-minnelli",
+      "label": "Father's Little Dividend (1951) on the Internet Archive",
+      "quality": "1080p BluRay x264, per file name"
+    },
+    {
+      "url": "https://archive.org/details/fathers-little-dividend",
+      "label": "Father's Little Dividend (1951) on the Internet Archive, alternate upload",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Father's Little Dividend is MGM's 1951 sequel to Father of the Bride. Vincente Minnelli directed, Pandro S. Berman produced, and Albert Hackett and Frances Goodrich wrote it. Spencer Tracy, Joan Bennett and Elizabeth Taylor star. It runs 82 minutes. The Hollywood premiere was 5 April 1951. A creator would want it for the Tracy and Taylor comedy and the 1950s family setting.\n\nThe print is probably free, but the evidence is thin. Wikipedia says MGM did not renew the copyright and the film entered the public domain in 1979. We did not search the renewal records, so it is not marked verified. The film also draws on Edward Streeter's 1949 novel, and the novel's rights may differ from the film's. Warner Archive released a 2023 Blu-ray restoration, so use a copy you can trace to an archive.org upload, and do not rip the disc.",
+  "faq": [
+    [
+      "Is Father's Little Dividend public domain in the US?",
+      "Probably the print is, but we have not verified it. Wikipedia says MGM did not renew the copyright and the film entered the public domain in 1979. We did not search the Catalog of Copyright Entries (Motion Pictures renewal volumes for 1978, 1979 or 1980) or publicrecords.copyright.gov. Search publicrecords.copyright.gov for renewals filed in 1978 to 1980 before you rely on it."
+    ],
+    [
+      "Can I use the Warner Archive Blu-ray restoration?",
+      "Not by ripping the disc, because circumventing copy protection can violate 17 U.S.C. 1201. A faithful restoration adds no new copyright in the film itself. Anything it adds, such as new titles or other new material, could be protected. We did not confirm what the 2023 release adds."
+    ]
+  ]
+}
