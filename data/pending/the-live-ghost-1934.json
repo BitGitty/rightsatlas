@@ -1,0 +1,74 @@
+{
+  "id": "the-live-ghost-1934",
+  "title": "The Live Ghost",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips), Jan-Dec 1962, lists 'LIVE GHOST, a photoplay in two reels' by Metro-Goldwyn-Mayer Corp., registered 11 Dec 1934 (LP5220), renewed 1 Aug 1962 by Hal Roach Studios (PWH) under R299637. The 1962 renewal falls within the 28th-year window, so the 1934 print is renewed.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score's status is inferred from the film's renewal (R299637); it was not separately researched. This holds only for music created for and owned with the film. No search for a separate or pre-existing music registration was made, in the 1962 volume or any other volume or database, so such a copyright is not ruled out.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1962 (archive.org): the renewal entry for LIVE GHOST, R299637",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "US Copyright Office public records (renewals filed 1978 or later)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Live Ghost is a two-reel photoplay that Metro-Goldwyn-Mayer Corp. registered for copyright on 11 December 1934 (LP5220).\n\nThe rights trap is the renewal. The 1962 Catalog of Copyright Entries lists a renewal for 'Live Ghost' filed 1 August 1962 by Hal Roach Studios, number R299637. That renewal falls within the 28th-year window, so the 1934 film was kept in copyright. The score's status is inferred from this renewal and was not searched separately. Do not treat this film as cleared for reuse without a licence from the current rights holder.",
+  "faq": [
+    [
+      "Is The Live Ghost (1934) in the public domain in the US?",
+      "No, on the evidence found. The 1962 Catalog of Copyright Entries shows a renewal, R299637, filed 1 August 1962 by Hal Roach Studios for the 1934 registration LP5220."
+    ],
+    [
+      "Can I use clips from The Live Ghost in my video?",
+      "Not on the strength of the film's age. Because the copyright was renewed, you need a licence from the rights holder, or a fair-use analysis for the specific use. A copy being posted online is not a clearance."
+    ]
+  ]
+}

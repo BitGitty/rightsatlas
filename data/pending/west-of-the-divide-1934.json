@@ -1,0 +1,78 @@
+{
+  "id": "west-of-the-divide-1934",
+  "title": "West of the Divide",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1961 (Vol 15 No 1-2). The archive.org full text was fetched. The renewal listings were not read verbatim, and part of the volume was only machine-summarized. We name no page or section that was read, and we give no negative finding for this volume. The original 1934 copyright registration or notice has not been located.",
+          "source": "Library of Congress, Catalog of Copyright Entries 1961",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1962 (Vol 16 No 1-2). The item exists, but only about the first 5% of the full text (current registrations, roughly A to 'Bentley') was read verbatim. The renewal registrations section (listed from page 39 in the contents) was NOT read, so no renewal search was completed for this volume. The original 1934 copyright registration or notice has not been located.",
+          "source": "Library of Congress, Catalog of Copyright Entries 1962",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962
+    ],
+    "negative_result": "Inconclusive. The renewal listings in the 1961 Catalog of Copyright Entries motion picture volume were not read verbatim, so no negative finding is given. The renewal section of the 1962 volume was not read. No renewal has been confirmed or ruled out.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1961 and 1962 (renewal years) by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records — covers 1978 and later only, so it cannot complete a 1961/1962 renewal check; useful only for post-1977 records such as recorded transfers or restoration notices",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/west-of-the-divide-1934",
+      "label": "West of the Divide (1934) on the Internet Archive (uploaded by RetroFlixUploads on 2023-12-23; the item carries a Public Domain Mark 1.0 label set by the uploader, which is not a clearance)",
+      "quality": "unrated"
+    }
+  ],
+  "editorial": "West of the Divide is a 1934 western directed by Robert N. Bradbury. The Internet Archive item (uploaded by RetroFlixUploads on December 23, 2023) lists a date of 1934-02-15. That is the uploader's metadata. We did not verify it as a release or copyright date. The Internet Archive describes the plot this way: Ted Hayden impersonates a wanted man and joins Gentry's gang, only to learn later that Gentry killed his father.\n\nWe could not confirm the film's US public domain status. We did not find the original 1934 copyright registration or notice. We did not read the 1961 renewal listings verbatim, and we did not read the 1962 renewal section. We therefore give no negative renewal finding, and the renewal search is not done. We also did not check the story source, the music cues or the trademark position, so those layers stay undetermined. Before reuse, finish the renewal search by hand in the 1961 and 1962 Catalog of Copyright Entries motion picture volumes. The Copyright Office online records start in 1978 and do not cover these renewals. Also check music and cue-sheet material and any added material in the copy you use.",
+  "faq": [
+    [
+      "Can I use clips from West of the Divide in a commercial video?",
+      "We cannot say yet. The renewal search is incomplete. We did not read the 1961 renewal listings verbatim and did not read the 1962 renewal section. We also did not find the original 1934 registration or notice. Complete the search and check the music, the story source and any added material in your copy before you rely on it. The Internet Archive's public domain label comes from the uploader and is not a clearance."
+    ],
+    [
+      "Does a performer's name or likeness restrict reuse?",
+      "This dossier does not resolve that. Copyright expiry on a film does not remove any right of publicity or trademark claim over a performer's name or image. We did not research the point, so treat it as unresolved if you use a performer's name in marketing."
+    ]
+  ]
+}

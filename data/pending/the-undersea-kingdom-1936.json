@@ -1,0 +1,108 @@
+{
+  "id": "the-undersea-kingdom-1936",
+  "title": "The Undersea Kingdom",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 17 (1963), Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1963. Only a partial read of the OCR text was done, and the exact sections and pages read were not recorded. No entry for UNDERSEA KINGDOM was found in what was read. The OCR may be garbled, so this is not a complete search. Renewals filed in 1963 are recorded in this volume.",
+          "source": "Library of Congress, Catalog of Copyright Entries, 1963 Motion Pictures",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 18 (1964), Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1964. Only a partial read was done, and the exact sections and pages read were not recorded. No UNDERSEA KINGDOM entry was found in what was read. Serial chapters may be indexed under a series title or under Republic Pictures Corp. as claimant, so a cross-reference may have been missed.",
+          "source": "Library of Congress, Catalog of Copyright Entries, 1964 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial was released by Republic Pictures. The music's copyright status was not checked separately, so the score is undetermined until the print's renewal status is settled.",
+          "source": "Wikipedia, The Undersea Kingdom",
+          "url": "https://en.wikipedia.org/wiki/The_Undersea_Kingdom"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No pre-existing source work was checked in this session, so the story layer is unconfirmed.",
+          "source": "Wikipedia, The Undersea Kingdom",
+          "url": "https://en.wikipedia.org/wiki/The_Undersea_Kingdom"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item description ends \"12-cahpter cliffhanger serial, colorized\". It does not say who made the colorization or when. If the colorization is original added authorship, it could carry its own copyright, but that has not been established. A separate Internet Archive item holds chapter 1; its description says it was captured from laserdisc and does not mention colorization.",
+          "source": "Archive.org item metadata",
+          "url": "https://archive.org/details/undersea-kingdom-1936"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964
+    ],
+    "negative_result": "Partial reads of the 1963 and 1964 Catalog of Copyright Entries motion-picture volumes (Vol. 17 and Vol. 18, Parts 12-13) found no UNDERSEA KINGDOM renewal. The exact sections and pages read were not recorded, and the OCR text was not read in full. Neither volume was searched under the series title or under Republic Pictures Corp. as claimant. The result is not conclusive. The Copyright Office online catalog was not searched; it is only a secondary check, because renewals filed in 1963-64 are recorded in the CCE volumes.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1963 Motion Pictures, Vol. 17 (archive.org) — search the series title and Republic Pictures Corp.",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964 Motion Pictures, Vol. 18 (archive.org) — search the series title and Republic Pictures Corp.",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "US Copyright Office public catalog (secondary check only, for later filings or cross-references)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/undersea-kingdom-1936",
+      "label": "Undersea Kingdom (1936), complete 12-chapter serial (colorized version)",
+      "quality": "colorized, full serial"
+    },
+    {
+      "url": "https://archive.org/details/undersea-kingdom-1936-19360530-ch.-1-beneath-the-ocean-floor",
+      "label": "Chapter 1: Beneath the Ocean Floor",
+      "quality": "single chapter"
+    }
+  ],
+  "editorial": "The Undersea Kingdom is a 12-chapter Republic Pictures serial released on 30 May 1936. Ray \"Crash\" Corrigan plays Crash Corrigan, an athlete and Navy lieutenant. Following a suspicious earthquake and a series of detected signals, Professor Norton leads an expedition in his rocket submarine to the suspected location of Atlantis (per Wikipedia).\n\nThe print's status is not settled. A partial read of the 1963 and 1964 Catalog of Copyright Entries, where renewals filed in those years are recorded, found no Undersea Kingdom entry. That read was incomplete and relied on imperfect OCR. It did not cover entries under a series title or under Republic Pictures Corp. as claimant. Finish a full search of both volumes before relying on the print. The Internet Archive's main copy is described as colorized, and any colorization may be protected separately, but this has not been established.",
+  "faq": [
+    [
+      "Is The Undersea Kingdom (1936) free to use?",
+      "Not confirmed. A partial check of the 1963 and 1964 Catalog of Copyright Entries found no renewal entry, but the check was incomplete. Finish a full search of Vol. 17 and Vol. 18 (Motion Pictures), under the series title and under Republic Pictures Corp., before reuse. The Copyright Office online catalog is only a secondary check and does not settle a 1963-64 renewal."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Check which version you have. The main Internet Archive item is described as colorized, and colorization may carry its own copyright. A separate item holds chapter 1. Use a plain black-and-white source if you want to avoid added material."
+    ]
+  ]
+}
