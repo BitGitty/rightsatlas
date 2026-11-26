@@ -1,0 +1,98 @@
+{
+  "id": "the-sadist-1963",
+  "title": "The Sadist",
+  "year": 1963,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Internet Archive item The_Sadist (creator L. Steven Snyder, 92 min) carries a Creative Commons public-domain license tag set by an uploader. That tag is not proof of non-renewal. I could not load a working Copyright Office record search or find a Catalog of Copyright Entries renewal volume in this session, so the 1990-1992 renewal window is unchecked.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/The_Sadist"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Paul Sawtell and Bert Shefter. The recorded track normally shares the film's own copyright status, so it follows the print. I did not check whether the cues were separately registered or renewed.",
+          "source": "Wikipedia, The Sadist (1963 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Sadist_(1963_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is by James Landis and is loosely based on the Charles Starkweather and Caril Ann Fugate killing spree. That is real events, not a copyrighted book or play. I did not check for any rights tied to the screenplay or the story.",
+          "source": "Wikipedia, The Sadist (1963 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Sadist_(1963_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive lists colorized and remastered editions of the film. Wikipedia says Apprehensive Films released a DVD in 2007. Colorization and other added material can carry their own protection. A faithful, unaltered transfer adds none.",
+          "source": "Internet Archive search listing; Wikipedia",
+          "url": "https://archive.org/details/the-sadist-1963-colorized-movie-576p-sd"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1990,
+      1991,
+      1992
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Sadist”, ~1990, 1991, 1992)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Sadist",
+      "label": "The Sadist (1963), full feature, 92 min",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Sadist (1963) is a low-budget thriller. James Landis wrote and directed it, L. Steven Snyder produced it, and Fairway International Pictures released it on April 25, 1963. Arch Hall Jr. plays the killer. Vilmos Zsigmond shot it, and Paul Sawtell and Bert Shefter are credited with the music. It is loosely based on the Starkweather and Fugate killing spree, and the Internet Archive's description calls it believed to be the first feature on those killers. Its tight single-location setup and the cinematography make it a useful source for horror and exploitation compilations, documentaries and clips.\n\nThe rights question is the 1991 renewal window for a 1963 film. The Internet Archive copy has a public-domain license tag, but an uploader set that tag, and it proves nothing about renewal. I could not search the Copyright Office renewal records in this session, so the print stays undetermined. Check that record yourself before relying on the film. Separately, the colorized and remastered editions and the 2007 Apprehensive Films DVD may add protected material. Use an unaltered transfer if you can.",
+  "faq": [
+    [
+      "Can I use clips of The Sadist in my own project?",
+      "Not safely yet. The film was published in 1963, so it is free only if no renewal was filed in the 1990-1992 window. I could not confirm that, so run the Copyright Office search first. If it comes back clean, use an unaltered transfer."
+    ],
+    [
+      "Are the colorized and remastered versions on the Internet Archive free to reuse?",
+      "Treat them as separate. Colorization and other added elements can be protected even when the underlying film is free. If the original proves free, work from an unaltered copy of the original, not the colorized or remastered edition."
+    ]
+  ]
+}

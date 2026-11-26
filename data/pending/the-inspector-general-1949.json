@@ -1,0 +1,98 @@
+{
+  "id": "the-inspector-general-1949",
+  "title": "The Inspector General",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Release date Dec 31, 1949 (Warner Bros., dir. Henry Koster). The renewal window is 1976-1977. I could not read the 'I' section of the Catalog of Copyright Entries motion-picture volumes for 1976 (archive.org/details/1976motionpictur3301213libr) or 1977 (archive.org/details/1977motionpictur3311213libr). The Copyright Office public catalog (publicrecords.copyright.gov) could not be queried by fetch. Non-renewal is therefore unconfirmed. Wikipedia's claim that the film lapsed into the public domain is secondary and not primary evidence.",
+          "source": "Internet Archive CCE volumes (unread for this title); publicrecords.copyright.gov",
+          "url": "https://archive.org/details/1977motionpictur3311213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Original music and lyrics are by Sylvia Fine, with musical direction and incidental score by Johnny Green. The recorded track normally shares the film's status. The separate copyright status of the songs was not checked.",
+          "source": "Wikipedia film article (secondary)",
+          "url": "https://en.wikipedia.org/wiki/The_Inspector_General_(1949_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Loosely based on Nikolai Gogol's 1836 play The Inspector General (also known as The Government Inspector), which is long out of copyright, so the Gogol source is free to use. The film's own screenplay and the new songs are separate material. Their status depends on the film's renewal status, which is unconfirmed.",
+          "source": "Wikipedia film article (secondary)",
+          "url": "https://en.wikipedia.org/wiki/The_Inspector_General_(1949_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive upload the-inspector-general_202607 is labelled 'FULL MOVIE 4K ... Remastered' and carries a Public Domain Mark. It appears to be a user upscale, and nothing shows who made it or what was changed. No institutional restoration was identified.",
+          "source": "archive.org metadata",
+          "url": "https://archive.org/details/the-inspector-general_202607"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1976,
+      1977,
+      1978
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Inspector General”, ~1976, 1977, 1978)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1977 (archive.org) — check the renewal entries under 'I'",
+        "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1976 (archive.org)",
+        "url": "https://archive.org/details/1976motionpictur3301213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-inspector-general_202607",
+      "label": "The Inspector General (1949) — Internet Archive upload, labelled 4K remaster (102 min)",
+      "quality": "unverified upscale; the Public Domain Mark is the uploader's claim"
+    }
+  ],
+  "editorial": "The Inspector General is Warner Bros.' 1949 Technicolor Danny Kaye musical comedy, directed by Henry Koster, with Walter Slezak, Barbara Bates, Elsa Lanchester and Gene Lockhart. Kaye plays Georgi, a naive, kind-hearted member of a traveling band who is mistaken for an inspector. It was released on December 31, 1949. The story is loosely based on Gogol's 1836 play, and Sylvia Fine wrote the film's original music and lyrics. A reuser would want it for the Kaye musical numbers.\n\nThe rights trap is the film's own copyright, not Gogol's. A 1949 film is free only if its copyright was never renewed, and I could not confirm that: the 1976 and 1977 Catalog of Copyright Entries volumes and the Copyright Office catalog were not searchable from here. Wikipedia says the film has lapsed into the public domain, but that is a secondary claim. Do a manual renewal check before relying on the film. The 'remastered 4K' upload on the Internet Archive has an unclear source, and its Public Domain Mark is only the uploader's label.",
+  "faq": [
+    [
+      "Is The Inspector General (1949) in the public domain?",
+      "Not confirmed. Wikipedia says it lapsed, but I could not verify non-renewal in the 1976-1977 renewal records or the Copyright Office catalog. Check those yourself before you reuse the film. Gogol's 1836 play is out of copyright."
+    ],
+    [
+      "Can I use the Internet Archive 4K upload?",
+      "Treat it with caution. The uploader labelled it a remaster and applied a Public Domain Mark, but the Mark is the uploader's own claim. It does not prove the film's copyright status, and the source and any added material are undocumented."
+    ]
+  ]
+}

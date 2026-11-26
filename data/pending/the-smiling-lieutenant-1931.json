@@ -1,0 +1,77 @@
+{
+  "id": "the-smiling-lieutenant-1931",
+  "title": "The Smiling Lieutenant",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1958 volume, renewal section. I read the entry in the archive.org full text on 2026-11-26. It lists SMILING LIEUTENANT, a photoplay in ten reels by Paramount Publix Corp. (original registration L2370, 3 Aug 1931), renewed by Emka, Ltd. (PWH) on 13 Oct 1958, renewal number R222064. The 1958 renewal was filed in the 28th year, so the first term was renewed and the print is still under copyright. With the 95-year term from 1931 publication, protection should lapse at the end of 2026, which is after today's date (2026-11-26). I found the entry by searching the full text for 'SMILING LIEUTENANT'. I did not record a page number.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1958 (archive.org full text)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Smiling Lieutenant”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-smiling-lieutenant-1931",
+      "label": "The Smiling Lieutenant (1931) — French-subtitled copy on the Internet Archive",
+      "quality": "unverified copy with burned-in French subtitles; rights status is the uploader's claim, not a clearance"
+    }
+  ],
+  "editorial": "The Smiling Lieutenant is a 1931 Paramount Publix film. Paramount Publix Corp. registered it as a ten-reel photoplay on 3 August 1931 (L2370). Creators look at it because it is an early sound-era Paramount picture, and because at least one copy is on the Internet Archive.\n\nIt is not a film where the renewal question is open for the film itself. Emka, Ltd. renewed the copyright on 13 October 1958 (R222064), so the first term carried into a second. On the 95-year term the copyright should end after 31 December 2026, and that has not yet happened as of 26 November 2026. This dossier covers the film's renewal only. The music and lyrics are separate works and have not been checked here. Until the term ends, treat uploads on the Internet Archive as unverified, and don't read an upload as proof that the film is cleared. Copies with added subtitles may also carry new material of their own.",
+  "faq": [
+    [
+      "Is The Smiling Lieutenant in the public domain today?",
+      "Not yet. The 1931 copyright was renewed in 1958 by Emka, Ltd. (R222064), so the film is still protected as of 2026-11-26. On the 95-year term, protection should lapse after 31 December 2026. Check the term again once that date has passed. The underlying music and lyrics were not checked."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "Streaming them is fine. Reusing one in your own work before the term ends is a risk, because the uploader's rights label is not a clearance. Copies with burned-in subtitles, like the French-subtitled one listed here, may also carry added material that stays protected after the film's own term ends."
+    ]
+  ]
+}
