@@ -61,11 +61,6 @@
    "film": "abraham-lincoln-1930",
    "kind": "watch"
   },
-  "abraham-lincoln-1930": {
-   "ok": false,
-   "film": "abraham-lincoln-1930",
-   "kind": "watch"
-  },
   "africa-screams-1949": {
    "ok": true,
    "film": "africa-screams-1949",
@@ -176,8 +171,8 @@
    "film": "beyond-tomorrow-1940",
    "kind": "evidence"
   },
-  "BlindHusbands1919": {
-   "ok": false,
+  "blind-husbands-1919": {
+   "ok": true,
    "film": "blind-husbands-1919",
    "kind": "watch"
   },
@@ -636,11 +631,6 @@
    "film": "street-angel-1928",
    "kind": "watch"
   },
-  "sunrise-a-song-of-two-humans-f.-w.-murnau-1927": {
-   "ok": false,
-   "film": "sunrise-1927",
-   "kind": "watch"
-  },
   "silent-new-years-eve": {
    "ok": true,
    "film": "sylvester-1923",
@@ -1027,28 +1017,8 @@
    "kind": "evidence"
   }
  },
- "repaired": [
-  {
-   "film": "blind-husbands-1919",
-   "was": "BlindHusbands1919",
-   "now": "blind-husbands-1919",
-   "kind": "watch"
-  }
- ],
- "dropped": [
-  {
-   "film": "abraham-lincoln-1930",
-   "was": "abraham-lincoln-1930"
-  },
-  {
-   "film": "sunrise-1927",
-   "was": "sunrise-a-song-of-two-humans-f.-w.-murnau-1927"
-  },
-  {
-   "film": "the-ace-of-hearts-1921",
-   "was": "Ace_of_Hearts_1921"
-  }
- ],
+ "repaired": [],
+ "dropped": [],
  "unrepaired_evidence": [
   {
    "film": "the-ace-of-hearts-1921",
