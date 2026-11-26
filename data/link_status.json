@@ -791,8 +791,8 @@
    "film": "the-golem-1920",
    "kind": "evidence"
   },
-  "the-great-rupert-1950_202512": {
-   "ok": false,
+  "the-great-rupert_202601": {
+   "ok": true,
    "film": "the-great-rupert-1950",
    "kind": "watch"
   },
@@ -1027,14 +1027,7 @@
    "kind": "evidence"
   }
  },
- "repaired": [
-  {
-   "film": "the-great-rupert-1950",
-   "was": "the-great-rupert-1950_202512",
-   "now": "the-great-rupert_202601",
-   "kind": "watch"
-  }
- ],
+ "repaired": [],
  "dropped": [],
  "unrepaired_evidence": []
 }
