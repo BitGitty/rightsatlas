@@ -1,0 +1,81 @@
+{
+  "id": "design-for-living-1933",
+  "title": "Design for Living",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips, Jan-Dec 1960), renewal listing: 'DESIGN FOR LIVING, a photoplay in ten reels by Paramount Productions. © 28Dec33; 14368. Emka, Ltd. (PWH); 29Dec60; R268586.' The 1933 registration was renewed on 29 Dec 1960, in the 28th-year window, so the US copyright was extended.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1960 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, and the recorded soundtrack goes with the film's own copyright. The film's registration was renewed in 1960, so the soundtrack is treated as renewed too. I did not separately research the underlying music.",
+          "source": "Derived from the print-layer renewal entry",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Noël Coward's 1932 play of the same name, with a screenplay by Ben Hecht. I did not verify the play's publication or renewal history, so the story layer is unresolved.",
+          "source": "Internet Archive item description for 'Design for Living, 1933'",
+          "url": "https://archive.org/details/8651541318392"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1960 (archive.org): renewal entry R268586",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Design for Living (Paramount, 1933) is Ernst Lubitsch's pre-Code comedy with Fredric March, Gary Cooper and Miriam Hopkins. It is adapted from Noël Coward's 1932 play, with a screenplay by Ben Hecht. A woman cannot choose between two men, and the three agree to live together platonically. Its pre-Code reputation makes it attractive for film-history, Lubitsch or Hecht retrospectives and for clips.\n\nIt is not free to use. The film was registered on 28 Dec 1933 and renewed on 29 Dec 1960 by Emka, Ltd. as R268586, as the Catalog of Copyright Entries for 1960 records. Copies on the Internet Archive or other sites show only that someone uploaded them. They do not make the film public domain. The Coward play underneath the film is a separate copyright, and I did not resolve its status.",
+  "faq": [
+    [
+      "Is Design for Living (1933) in the public domain in the US?",
+      "No. The 1933 registration was renewed on 29 Dec 1960 (R268586, Emka, Ltd.), so the print is still under copyright. Free copies online do not change that."
+    ],
+    [
+      "Can I use clips from it if the film was renewed?",
+      "Only with permission from the rights holder, or under fair use, which depends on how the clip is used. Renewal means there is no public-domain route. The Coward play underneath is also a separate copyright whose status I did not resolve."
+    ]
+  ]
+}

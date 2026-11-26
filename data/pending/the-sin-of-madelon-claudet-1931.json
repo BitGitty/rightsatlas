@@ -1,0 +1,87 @@
+{
+  "id": "the-sin-of-madelon-claudet-1931",
+  "title": "The Sin of Madelon Claudet",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Renewed. Catalog of Copyright Entries, Motion Pictures, July–Dec 1958 renewals volume lists 'The Sin of Madeline Claudet' (spelled 'Madeline'), 8 reels, original copyright 21 Oct 1931 (L2566), renewal claimant Loew's, Inc. (PWH), renewal received 24 Oct 1958, R223829.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1958 renewals volume (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Original registration: 'Sin (The) of Madelon Claudet', 8 reels, published 21 Oct 1931, L 2566, claimant Metro-Goldwyn-Mayer Distributing Corp., New York; from the play The Lullaby by Edward Knoblock, directed by Edgar Selwyn.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1931 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyri41libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film: the recorded soundtrack was part of the same MGM motion picture registration (L 2566) and shares the film's renewed status. Print renewed R223829 on 24 Oct 1958.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1958 renewals volume (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is adapted from the 1923 play The Lullaby by Edward Knoblock (per the 1931 registration entry and the film's Wikipedia page). The film's screenplay (Charles MacArthur) is new material covered by the renewed motion-picture copyright; the underlying 1923 play's own status was not independently verified here.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1931 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyri41libr"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "1958 CCE Motion Pictures renewals volume — entry 'The Sin of Madeline Claudet', R223829 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Sin of Madelon Claudet is MGM's 1931 melodrama, directed by Edgar Selwyn and produced by Irving Thalberg, adapted from Edward Knoblock's 1923 play The Lullaby. It was Helen Hayes's sound film debut and won her the Academy Award for Best Actress. A creator would want it for its Hayes performance and its pre-Code story of a woman's sacrifice across decades.\n\nThe trap is the renewal. MGM registered the film as L 2566 on 21 Oct 1931, and Loew's, Inc. renewed it on 24 Oct 1958 as R223829. The renewal entry spells the title 'Madeline', so a search for 'Madelon' or 'Claudet' misses it. That is likely why the queue marked renewal as absent. The film is still under copyright, and no clean print can be treated as free to reuse.",
+  "faq": [
+    [
+      "Is The Sin of Madelon Claudet in the public domain in the US?",
+      "No. The 1931 MGM film was renewed by Loew's, Inc. on 24 Oct 1958 (R223829), so its copyright runs on. The renewal lists the title as 'Madeline Claudet'."
+    ],
+    [
+      "Why did my renewal search find nothing?",
+      "The renewal entry in the 1958 Catalog of Copyright Entries spells the title 'The Sin of Madeline Claudet'. Searching 'Madelon' or 'Claudet' alone can miss it. Try variant spellings and the original registration number L 2566."
+    ]
+  ]
+}

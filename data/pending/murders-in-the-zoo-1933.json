@@ -1,0 +1,88 @@
+{
+  "id": "murders-in-the-zoo-1933",
+  "title": "Murders in the Zoo",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1960, Number 1 (January-June), lists a renewal for 'Murders in the Zoo', a photoplay in seven reels by Paramount Productions, Inc., copyrighted 30 Mar 1933. The renewal was registered 4 Apr 1960 as R254709 by Emka, Ltd. (marked PWH, proprietor of work made for hire). The filing was made in the 28th year, so the copyright was renewed on time. The volume's name index also lists 'Murders in the Zoo (R)' under Emka, Ltd. I did not record the page number, and I make no claim about the original registration number.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1960, Number 1 (Jan-Jun), vol. 14 (archive.org item covering Jan-Dec 1960)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track is part of the renewed 1933 photoplay and shares its status.",
+          "source": "Derived from the print layer renewal entry",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credited writers are Philip Wylie and Seton I. Miller. Wikipedia names no earlier source work; not independently verified. I did not check the Catalog of Copyright Entries or the AFI Catalog for a separate registration of the story.",
+          "source": "Wikipedia, Murders in the Zoo (background only)",
+          "url": "https://en.wikipedia.org/wiki/Murders_in_the_Zoo"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Blu-ray releases exist: Scream! Factory's Universal Horror Collection Volume 2 (23 July 2019) and Eureka's UK compilation Creeping Horror (2023). Both carry commentary tracks. I could not confirm what restoration work was done, so I make no claim about it.",
+          "source": "Wikipedia, Murders in the Zoo (home-video section)",
+          "url": "https://en.wikipedia.org/wiki/Murders_in_the_Zoo"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1960 Jan-Jun (archive.org): renewal R254709, 4 Apr 1960",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "US Copyright Office public records (renewals filed 1978 or later; not needed here, as the renewal was filed in 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Murders in the Zoo is a Paramount pre-Code horror picture released 31 March 1933. A. Edward Sutherland directed. Lionel Atwill plays a zoologist who is jealous of his wife and uses the zoo's animals to kill her suitors. Charlie Ruggles supplies comic relief, and Randolph Scott and Gail Patrick are in the cast. Philip Wylie and Seton I. Miller wrote it. The film is a favourite of horror fans, and a creator would want clips for pre-Code or Atwill compilations.\n\nThe film is not in the public domain in the US. It is often listed as public domain on the assumption that nobody renewed it. A renewal was registered on 4 April 1960 as R254709, by Emka, Ltd. as proprietor of a work made for hire. That falls within the 28th year after the 1933 copyright, so the film's copyright was extended. Do not rely on the many unlicensed online copies as proof of free status. Clearing use means finding the current owner of the renewed copyright. The Blu-ray releases above show the film is still being commercially licensed.",
+  "faq": [
+    [
+      "Is Murders in the Zoo (1933) in the public domain in the US?",
+      "No. Its copyright was renewed on 4 April 1960 (R254709, Emka, Ltd.), according to the Catalog of Copyright Entries. Treat it as protected and get a licence from the rights holder."
+    ],
+    [
+      "Does an online copy of the film mean I can reuse it?",
+      "No. Online copies do not change the legal status. The renewal means the film's copyright was extended, so reusing it, including clips, needs permission or a defensible fair-use analysis."
+    ]
+  ]
+}
