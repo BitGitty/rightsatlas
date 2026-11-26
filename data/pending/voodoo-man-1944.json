@@ -1,0 +1,87 @@
+{
+  "id": "voodoo-man-1944",
+  "title": "Voodoo Man",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1972 (Vol 26, Nos 1-2) lists a renewal for this film: 'VOODOO MAN, A PHOTOPLAY. IN 7 REELS BY MONOGRAM PICTURES CORP. © 15JAN44; L12466. ALLIED ARTISTS PICTURES CORP. (PWH); 13JAN72; R522042.' The renewal was filed in 1972, the 28th year after the 1944 registration, so the first term was renewed. I confirmed the volume page resolves. I took the entry text from the renewal hit our script found in this volume. I did not locate the entry myself in the volume's full text.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1972 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded music and soundtrack are part of the same registered photoplay, so they share its renewed status. I did not find a separate registration for the score.",
+          "source": "Derived from the renewal entry R522042",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "An Internet Archive item credits the writing to Robert Charles. I did not confirm whether the screenplay was original or adapted from earlier material, so I cannot say what the underlying story's term is.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/voodoo-man-1944_202509"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972,
+      1973
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1972 (archive.org): the volume holding the Voodoo Man renewal",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/voodoo-man-1944",
+      "label": "Voodoo Man (1944), Internet Archive upload. The uploader tagged it Public Domain Mark, but the 1972 renewal says otherwise.",
+      "quality": "480x360 MP4, about 62 minutes"
+    }
+  ],
+  "editorial": "Voodoo Man is a 1944 Monogram Pictures horror programmer directed by William Beaudine. Bela Lugosi plays a doctor who lures young women to his lab, with John Carradine and George Zucco in support. Sam Katzman and Jack Dietz produced it, and Robert Charles is credited as writer. Creators go to it for the Lugosi, Carradine and Zucco cast, and for a short feature of about 62 minutes that is easy to excerpt.\n\nThe rights trap is that this film is not free just because it circulates widely. Monogram registered it on 15 January 1944. Allied Artists Pictures Corp., the successor claimant, renewed it on 13 January 1972 as R522042, so the first term was extended. Many online copies are labelled public domain, including the Internet Archive upload linked here, but that label does not match the Catalog of Copyright Entries record. Treat the film as protected and get permission or a clearance opinion before commercial reuse.",
+  "faq": [
+    [
+      "Is Voodoo Man (1944) in the public domain?",
+      "Not on the record I found. The 1972 Catalog of Copyright Entries lists a renewal, R522042, filed 13 January 1972 by Allied Artists Pictures Corp. for the 1944 Monogram film. Copies labelled public domain online do not override that renewal."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy?",
+      "Treat it as unsafe without clearance. The upload carries a Public Domain Mark, but that is the uploader's label and the film has a documented renewal. Use of short excerpts may fall under fair use. That depends on your purpose and is not something this record settles."
+    ]
+  ]
+}

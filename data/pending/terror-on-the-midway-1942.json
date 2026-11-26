@@ -1,0 +1,119 @@
+{
+  "id": "terror-on-the-midway-1942",
+  "title": "Terror on the Midway",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": "Fleischer Studios / Paramount Pictures, directed by Dave Fleischer",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's Superman (1940s animated film series) article says all 17 shorts fell into the public domain because National failed to renew the copyrights. That is a secondary claim. I did not search the 1969-1971 CCE volumes' text or the Copyright Office catalog for a renewal, so there is no primary absence finding yet.",
+          "source": "Wikipedia, Superman (1940s animated film series)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+        },
+        {
+          "type": "research_note",
+          "note": "Candidate CCE volume for the 28th-year window (Motion Pictures and Filmstrips, Jan-Dec 1970). Confirmed to exist on archive.org. Its text was not searched for a renewal of this title.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Sammy Timberg and Winston Sharples. This is a sound film, so the recorded track normally shares the print's status. That status is not yet confirmed.",
+          "source": "Wikipedia, Terror on the Midway",
+          "url": "https://en.wikipedia.org/wiki/Terror_on_the_Midway"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The cartoon stars Superman, a character from DC Comics. Wikipedia says ancillary rights, including merchandising contract rights, are owned today by Warner Bros. Entertainment. The Superman character carries its own protection, separate from the short's print.",
+          "source": "Wikipedia, Superman (1940s animated film series)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Per Wikipedia, Warner Bros. Home Entertainment released a 2023 Blu-ray set of all 17 cartoons from high-definition restorations of the original 35mm elements. Warner also owns those elements. A faithful restoration adds no copyright to the images, but any added material could be protected.",
+          "source": "Wikipedia, Superman (1940s animated film series)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+        },
+        {
+          "type": "research_note",
+          "note": "An Internet Archive uploader (ai-arsenal.com) posted a 2023 '4K' version of the cartoon. This is a third-party upscale, and the uploader's terms on it are not verified.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/terror.-on.-the.-midway-4k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Terror on the Midway”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips Jan-Dec 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips Jan-Dec 1970 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips Jan-Dec 1971 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/terror-on-the-midway-1942",
+      "label": "Terror on the Midway (1942), Dave Fleischer",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/superman_terror_on_the_midway",
+      "label": "Superman: Terror on the Midway (August 28, 1942)",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Terror on the Midway is an eight-minute Superman short that Fleischer Studios made for Paramount. Dave Fleischer directed it and Max Fleischer produced it. It was released on August 28, 1942. A gorilla named Gigantic and other circus animals escape, and Superman has to stop the chaos. It is one of the 17 Fleischer and Famous Studios Superman cartoons, and the Fleischer Studios series has long been circulated in public-domain collections. A creator might want it for its 1940s animation and its clean eight-minute running time.\n\nThe film's print is probably the free layer. Wikipedia reports that National failed to renew the copyrights. I did not confirm that in the Catalog of Copyright Entries or the Copyright Office catalog, so the print stays undetermined here. The trap is the character. Superman is a DC character, and Warner Bros. owns the original 35mm elements and ancillary rights such as merchandising. A copy of the film itself is a different matter from using Superman as a character, or from using Warner's 2023 Blu-ray restoration.",
+  "faq": [
+    [
+      "Can I reuse a copy of Terror on the Midway from the Internet Archive?",
+      "Probably, as far as the print goes. Wikipedia says the Superman shorts lapsed for lack of renewal, but I have not verified that against the 1969-1971 catalog volumes or the Copyright Office. Check those first. That would not cover the Superman character, which Warner Bros. and DC still hold rights in."
+    ],
+    [
+      "Is the 2023 Warner Blu-ray free to use?",
+      "Do not rely on it. Warner made it from restored 35mm elements that it owns. A faithful restoration of an unprotected print adds no copyright, but any added material, such as new titles or audio, could be protected. Use a pre-existing copy instead, or check what the restoration added."
+    ]
+  ]
+}

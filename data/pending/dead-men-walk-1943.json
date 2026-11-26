@@ -1,0 +1,101 @@
+{
+  "id": "dead-men-walk-1943",
+  "title": "Dead Men Walk",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Original 1943 registration: 'Dead men walk. © Jan. 26, 1943; L 11811; Producers releasing corp., New York.' This fixes the 28th-year renewal window at 1970-1971. Renewal status is unconfirmed.",
+          "source": "Catalog of Copyright Entries, New Series, Part 1, Group 3: Dramatic Compositions, Motion Pictures 1943, Vol. 16 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig161libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The renewal check belongs in the 1970 (Vol. 24) and 1971 (Vol. 25) Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips volumes, which list renewals filed in those years. A text search of the 1970 volume did not surface a 'Dead men walk' renewal, but that search was automated and partial, and the 1971 volume was not searched. This is not a finding that no renewal exists. A manual search of both volumes is still needed before any public-domain claim.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1971, Vol. 25 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is part of the recorded soundtrack of a sound film. It would normally share the print's status, but the print's renewal status is unresolved, so this layer stays undetermined.",
+          "source": "RightsAtlas analysis",
+          "url": "https://archive.org/details/DeadMenWalk"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive description presents the film's plot around Dr. Lloyd Clayton and his twin brother Elwyn. It names no source work, but I did not confirm the film's origin against a second authority.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/dead-men-walk"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1970, Motion Pictures and Filmstrips (Vol. 24, Parts 12-13) — check the renewal section for “Dead Men Walk”",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1971, Motion Pictures and Filmstrips (Vol. 25, Parts 12-13) — check the renewal section for “Dead Men Walk”",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "US Copyright Office public records — secondary check for records from 1978 onward only (does not cover 1970-1971 renewals)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/DeadMenWalk",
+      "label": "Dead Men Walk (1943) — Internet Archive copy, about 63 minutes",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/dead-men-walk",
+      "label": "Dead Men Walk (1943) — second Internet Archive copy, about 64 minutes",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "Dead Men Walk is a 1943 horror feature from Producers Releasing Corporation. Sam Newfield directed and Sigmund Neufeld produced. George Zucco plays twin brothers: Dr. Lloyd Clayton, a small-town physician, and Elwyn, who is involved in satanic occult practices. According to the Internet Archive description, Lloyd secretly murdered Elwyn, and Elwyn returns as an evil supernatural being who drains the villagers of blood. Dwight Frye plays the hunchbacked assistant Zolarr, Mary Carlisle plays Gayle Clayton, and Nedrick Young plays Dr. David Bentley. The Internet Archive hosts two copies of about an hour each.\n\nThe Catalog of Copyright Entries records a registration for Producers Releasing Corp. dated January 26, 1943 (L 11811). The renewal window ran 1970-1971, and I could not confirm whether a renewal was filed. Until someone searches the renewal sections of the 1970 and 1971 catalog volumes, treat the film as unresolved rather than free to use.",
+  "faq": [
+    [
+      "Is Dead Men Walk (1943) in the public domain?",
+      "Not confirmed. Producers Releasing Corp. registered it on January 26, 1943 (L 11811), so it was eligible for renewal in 1970-1971. This dossier did not conclusively search the renewal sections of the 1970 and 1971 Catalog of Copyright Entries volumes. Search them for 'Dead Men Walk' and Producers Releasing Corp. before relying on the film."
+    ],
+    [
+      "Can I use the Internet Archive copies in my own project?",
+      "Posting on the Internet Archive does not itself clear the rights. Check the renewal question first. Even if the print is free, a later restoration or added material on a particular copy could be protected, so use the copy you actually take from."
+    ]
+  ]
+}
