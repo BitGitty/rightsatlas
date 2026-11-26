@@ -62,7 +62,7 @@
    "kind": "watch"
   },
   "abraham-lincoln-1930": {
-   "ok": true,
+   "ok": false,
    "film": "abraham-lincoln-1930",
    "kind": "watch"
   },
@@ -177,7 +177,7 @@
    "kind": "evidence"
   },
   "BlindHusbands1919": {
-   "ok": true,
+   "ok": false,
    "film": "blind-husbands-1919",
    "kind": "watch"
   },
@@ -637,7 +637,7 @@
    "kind": "watch"
   },
   "sunrise-a-song-of-two-humans-f.-w.-murnau-1927": {
-   "ok": true,
+   "ok": false,
    "film": "sunrise-1927",
    "kind": "watch"
   },
@@ -652,7 +652,7 @@
    "kind": "watch"
   },
   "Ace_of_Hearts_1921": {
-   "ok": true,
+   "ok": false,
    "film": "the-ace-of-hearts-1921",
    "kind": "evidence"
   },
@@ -1027,7 +1027,32 @@
    "kind": "evidence"
   }
  },
- "repaired": [],
- "dropped": [],
- "unrepaired_evidence": []
+ "repaired": [
+  {
+   "film": "blind-husbands-1919",
+   "was": "BlindHusbands1919",
+   "now": "blind-husbands-1919",
+   "kind": "watch"
+  }
+ ],
+ "dropped": [
+  {
+   "film": "abraham-lincoln-1930",
+   "was": "abraham-lincoln-1930"
+  },
+  {
+   "film": "sunrise-1927",
+   "was": "sunrise-a-song-of-two-humans-f.-w.-murnau-1927"
+  },
+  {
+   "film": "the-ace-of-hearts-1921",
+   "was": "Ace_of_Hearts_1921"
+  }
+ ],
+ "unrepaired_evidence": [
+  {
+   "film": "the-ace-of-hearts-1921",
+   "was": "Ace_of_Hearts_1921"
+  }
+ ]
 }
