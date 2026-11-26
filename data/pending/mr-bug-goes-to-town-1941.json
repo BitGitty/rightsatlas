@@ -1,0 +1,80 @@
+{
+  "id": "mr-bug-goes-to-town-1941",
+  "title": "Mr. Bug Goes to Town",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "UNVERIFIED. An earlier catalog scan reported a renewal for MR. BUG GOES TO TOWN (reg. 111074, registered 4 Dec 1941; claimant National Telefilm Associates, Inc.; renewal R47 2425, 5 Nov 1969). On 26 Nov 2026 I searched the OCR text of the Internet Archive item 'Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1969, Vol. 23, No. 1-2' for 'BUG GOES TO TOWN', '111074', 'R47 2425' and 'R472425'. None was found. The search was an automated scan of a large file, so it is not conclusive. No page or OCR line showing the renewal has been located. Only the 1969 volume was checked. The 1968 and 1970 volumes were not. If the film was renewed in time, US protection would run to the end of 2036. If it was not renewed, it would be in the public domain. Manually check the 1968-1970 volumes before relying on either result.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1969, Vol. 23 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item 'Hoppity Goes to Town (1941, NTA reprint of Mr. Bug Goes to Town)' shows 'Public Domain Mark 1.0' and describes itself as an NTA reprint from the 1970s. A second item, 'Hoppity Goes To Town', also shows the mark. An uploader's label is not a legal determination of status.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/hoppity-goes-to-town-nta-reprint"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded music track would share the film's own copyright status, which is itself unverified (see print layer). Leigh Harline is credited with the score, and Hoagy Carmichael and Frank Loesser with the songs. Renewal status of the underlying songs and compositions has not been determined. No CCE music renewal search was done.",
+          "source": "Wikipedia article on the film (background only, not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/Mr._Bug_Goes_to_Town"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1969 Motion Pictures volume (archive.org); renewal entry not located here, check 1968-1970 volumes",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Mr. Bug Goes to Town is Fleischer Studios' second animated feature, directed by Dave Fleischer and produced by Max Fleischer for Paramount. According to Wikipedia, it was previewed at an invitation-only press screening in New York on December 4, 1941, and released more widely in 1942. It follows Hoppity the grasshopper and the insects living in a vacant lot threatened by a construction project. Leigh Harline is credited with the score, and Hoagy Carmichael and Frank Loesser with the songs. The film's songs and Technicolor look make it attractive to reuse. It was also released as Hoppity Goes to Town.\n\nThe rights trap is that the film's US status is unconfirmed, and it may well still be protected. The Paramount photoplay was registered on 4 Dec 1941 (reg. 111074). An earlier catalog scan reported a renewal on 5 Nov 1969 by National Telefilm Associates (R47 2425), but we could not find that entry in the 1969 volume and have not confirmed it. If the renewal is real, a renewed 1941 film is protected for 95 years from publication, to the end of 2036. If there was no renewal, it would be in the public domain. Some Internet Archive copies, including an NTA reprint titled Hoppity Goes to Town, show a Public Domain Mark. That is an uploader's label, not a legal clearance. Treat any copy as licensed material until the renewal question is settled. Song and composition rights have not been checked separately.",
+  "faq": [
+    [
+      "Is Mr. Bug Goes to Town in the public domain in the US?",
+      "Unconfirmed. The film was registered in 1941. A 1969 renewal (R47 2425, claimant National Telefilm Associates) was reported by an earlier scan, but we could not find it in the 1969 catalog volume. If it was renewed, protection lasts 95 years from publication, to the end of 2036. If not, the film is in the public domain. Check the 1968-1970 catalog volumes before relying on either answer."
+    ],
+    [
+      "Can I use clips from the Internet Archive copies?",
+      "Not safely. Some Archive copies show a Public Domain Mark, but that is an uploader's label and not a legal clearance. The film's renewal status is unconfirmed, and the songs may have separate rights. For commercial reuse, clear the rights with the current owner or confirm the renewal record first."
+    ]
+  ]
+}
