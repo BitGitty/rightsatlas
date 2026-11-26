@@ -1,0 +1,100 @@
+{
+  "id": "the-ring-1927",
+  "title": "The Ring",
+  "year": 1927,
+  "country": "UK",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The Ring was first released in the UK on 1 October 1927. A work published in 1927 has a 95-year US term that ended after 2022, and Duke CSPD confirms that works from 1927 entered the US public domain on 1 January 2023.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "This is a UK-origin film, so any URAA-restored copyright would run 95 years from first publication in 1927. That term has expired, so restoration does not extend protection for the print. The Duke CSPD page confirms 1927 works entered the US public domain on 1 January 2023.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2023",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a silent film, so the images carry no original score. Any music on a modern copy, such as a score commissioned for a restoration or video release, is a separate work or recording that may still be protected. Check the specific release's credits before reusing its audio.",
+          "source": "RightsAtlas analysis",
+          "url": "https://archive.org/details/the-ring-1927-by-alfred-hitchcock"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film credits Alfred Hitchcock and Alma Reville as writers, with Eliot Stannard uncredited. I found no outside source work. The screenplay was first published as the film in 1927, so its US term has expired.",
+          "source": "Wikipedia (credits only); term per Duke CSPD",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2023/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The BFI completed a restoration of The Ring in 2012 as part of its 'Save the Hitchcock 9' project. A faithful restoration adds no new US copyright to a public-domain film. Anything added, such as a new score, new intertitles or other material, can be protected separately. Check which restoration a given copy comes from.",
+          "source": "Wikipedia, The Ring (1927 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Ring_(1927_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1954,
+      1955,
+      1956
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search The Ring)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — Motion Pictures volumes",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-ring-1927-by-alfred-hitchcock",
+      "label": "The Ring (1927) by Alfred Hitchcock — Internet Archive",
+      "quality": "unverified; I confirmed the identifier resolves and is described as The Ring (1927), but I did not check the image quality or which source print it uses"
+    }
+  ],
+  "editorial": "The Ring is a silent boxing melodrama from 1927. Alfred Hitchcock directed it for British International Pictures. Hitchcock and Alma Reville wrote it, and Eliot Stannard worked on it uncredited. Carl Brisson plays 'One-Round' Jack Sander, Lillian Hall-Davis plays Mabel, and Ian Hunter plays Bob Corby. It opened in the UK on 1 October 1927. A creator might want it for early Hitchcock footage, fairground and boxing-ring imagery, or silent-era film-history projects.\n\nThe 1927 print is free in the US because its term has run out. A UK-origin film restored under the URAA would still get only 95 years from publication, and that period has ended. The trap is the modern copy you pick. The BFI restored the film in 2012 as part of its 'Save the Hitchcock 9' project. Any music or added material on a restoration or video release can be protected separately, even though the underlying images are free. Use a copy with a known, clean audio source, or add your own music.",
+  "faq": [
+    [
+      "Can I use footage from The Ring in my own video in the US?",
+      "The 1927 images are free to use in the US. Check the specific copy you take them from, because a restoration's added score, titles or other new material, or a label's audio, can be protected separately."
+    ],
+    [
+      "Does the BFI's 2012 restoration make The Ring protected again?",
+      "No. A faithful restoration adds no new US copyright to the film's images. Only what the restoration adds, such as a new score or new titles, can be protected, so take the film from a copy and leave out or replace anything added."
+    ]
+  ]
+}

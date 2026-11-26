@@ -1,0 +1,85 @@
+{
+  "id": "the-deadly-companions-1961",
+  "title": "The Deadly Companions",
+  "year": 1961,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The queue row marks this as a notice_failure candidate, with a renewal window of 1988-1989. I could not fetch a Copyright Office record or a Catalog of Copyright Entries volume to confirm either a missing notice or a missing renewal. The Wikipedia article says the film is available at the Internet Archive, but that is not evidence of copyright status.",
+          "source": "Wikipedia, The Deadly Companions (external links section)",
+          "url": "https://en.wikipedia.org/wiki/The_Deadly_Companions"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the score to Marlin Skiles. I found no separate registration or renewal for the music. In a sound film the score would normally follow the print's status, but the print itself is unconfirmed.",
+          "source": "Wikipedia, The Deadly Companions",
+          "url": "https://en.wikipedia.org/wiki/The_Deadly_Companions"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is based on the 1960 novel Yellowleg by A. S. Fleischman, which is the name Sid Fleischman used as author. I did not check whether the novel's copyright was renewed. If it was, the underlying story could be protected even if the film print is not.",
+          "source": "Wikipedia, The Deadly Companions",
+          "url": "https://en.wikipedia.org/wiki/The_Deadly_Companions"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1988,
+      1989,
+      1990
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Deadly Companions”, ~1988, 1989, 1990)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Deadly Companions is Sam Peckinpah's first feature, a 1961 Western made by Carousel Productions. Pathé-America released it in the US and Warner Bros. handled international distribution. Wikipedia lists a Tucson premiere on June 6, 1961, and a Los Angeles opening the next day. It is adapted from A. S. Fleischman's 1960 novel Yellowleg, and Marlin Skiles is credited with the score. A reuser would want it as an early Peckinpah, and Wikipedia's external links list a copy at the Internet Archive.\n\nThe rights status is unresolved, and an upload being online does not settle it. The queue marks the print as a possible notice or renewal failure, but I could not confirm either from a primary record. The film was due for renewal around 1988-1989, so the Copyright Office's online records should be searched for it. The novel is a second thing to check: if its copyright was renewed, the story layer could stay protected even if the print is free. Until both checks are done, treat every layer as unconfirmed.",
+  "faq": [
+    [
+      "Is The Deadly Companions free to reuse because it is on the Internet Archive?",
+      "Not necessarily. Internet Archive uploads are not a rights determination. This dossier could not confirm a missing notice or a missing renewal for the 1961 print, so the print's status is still undetermined."
+    ],
+    [
+      "What should I check before reusing it?",
+      "First, search the Copyright Office public records for a renewal of the film around 1988-1989. Second, check whether the 1960 novel Yellowleg by A. S. Fleischman was renewed, because the story could stay protected even if the print is free. Third, check any restoration or new transfer for added material."
+    ]
+  ]
+}
