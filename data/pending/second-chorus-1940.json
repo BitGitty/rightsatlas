@@ -1,0 +1,101 @@
+{
+  "id": "second-chorus-1940",
+  "title": "Second Chorus",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states: 'The film's copyright expired in 1968 and it is now in the public domain.' This is a secondary source, not a primary record. Direct scans of the Catalog of Copyright Entries motion-picture volumes for 1967, 1968 and 1969, and a search of the Copyright Office card catalog for pre-1978 records, were not completed. Renewal absence is therefore not verified.",
+          "source": "Wikipedia, Second Chorus (secondary source)",
+          "url": "https://en.wikipedia.org/wiki/Second_Chorus"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page for this upload is titled 'Second Chorus (1940)' and carries the description 'Second Chorus (1940) by Henry Codman Potter. Public domain due to lack of copyright renewal.' This is an uploader's claim, not a primary record.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/second-chorus-1940-by-henry-codman-potter"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the film's music to Artie Shaw, Bernie Hanighen and Hal Borne, with lyrics by Johnny Mercer. Individual songs may carry their own copyrights and renewals, separate from the film. Their status was not checked.",
+          "source": "Wikipedia, Second Chorus (secondary source, not a primary citation)",
+          "url": "https://en.wikipedia.org/wiki/Second_Chorus"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the original story to Frank Cavett. The registration and renewal status of that story was not checked.",
+          "source": "Wikipedia, Second Chorus (secondary source, not a primary citation)",
+          "url": "https://en.wikipedia.org/wiki/Second_Chorus"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records system (covers 1978 and later only; it will not show a 1967-1969 renewal, so use the CCE volumes below and the Copyright Office pre-1978 card catalog for those years)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1968, Vol 22 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1969, Vol 23 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1967, Vol 21 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/second_chorus",
+      "label": "Second Chorus (1940), Internet Archive. Metadata lists H.C. Potter as director and a runtime of 1:23:37. Whether the full film plays was not checked.",
+      "quality": "unverified copy"
+    }
+  ],
+  "editorial": "Second Chorus is a Paramount release of December 3, 1940, produced by Boris Morros and directed by H. C. Potter. Fred Astaire plays Danny O'Neill, Burgess Meredith plays Hank Taylor, and Paulette Goddard plays Ellen Miller. Artie Shaw appears as himself. Creators may be drawn to it for the Astaire and Shaw footage. Wikipedia says the Astaire number 'Me and the Ghost Upstairs' was cut from the final film but has been included in some home video releases.\n\nThe rights trap is that the film's status depends on renewal, which this dossier did not confirm. Wikipedia and an Internet Archive uploader both say it is in the public domain, but neither is a primary record, and the renewal volumes for 1967 to 1969 were not scanned here. The music is credited to Shaw, Hanighen and Borne, with lyrics by Mercer. Those songs are separate works with their own renewal histories. Clear them before you use the music apart from the picture.",
+  "faq": [
+    [
+      "Is Second Chorus (1940) in the public domain?",
+      "That is not confirmed here. Wikipedia says its copyright expired in 1968, but the renewal volumes for 1967 to 1969 and the Copyright Office pre-1978 card catalog were not checked. Run those searches yourself, using the links above, before relying on it."
+    ],
+    [
+      "Can I use the songs from Second Chorus?",
+      "Not on the film's status alone. Wikipedia credits the music to Artie Shaw, Bernie Hanighen and Hal Borne, with lyrics by Johnny Mercer. Each composition may have its own copyright and renewal, so check each song separately."
+    ]
+  ]
+}

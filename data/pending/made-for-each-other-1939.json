@@ -1,0 +1,106 @@
+{
+  "id": "made-for-each-other-1939",
+  "title": "Made for Each Other",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film is in the public domain in the US and cites the Toronto Film Society and David Krauss at High-Def Digest (2018) for that. Wikipedia is a secondary source. I did not read any renewal entries in the Catalog of Copyright Entries, so non-renewal is not confirmed here. See the renewal search links.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Made_for_Each_Other_(1939_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's film page lists the music as by Oscar Levant (uncredited). I did not confirm who is credited as composer on screen, and I did not check the status of the underlying music. The recorded track is part of the 1939 sound film and would normally share the film's status.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Made_for_Each_Other_(1939_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credits: story by Rose Franken, screenplay by Jo Swerling (Frank Ryan uncredited). The copyright status of Franken's source material was not checked.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Made_for_Each_Other_(1939_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the Walt Disney Company owns the original film negative, citing a 2000 Millimeter Magazine article. I did not check that article or any other source for this claim. Whether any modern release adds protectable material was not checked.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Made_for_Each_Other_(1939_film)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures 1966 (archive.org) — renewal search",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1967 (archive.org) — renewal search",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1968 (archive.org) — late-filing check only",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "US Copyright Office public records — online database, mainly renewals filed 1978 or later; use only as a cross-check",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/made-for-each-other-1939",
+      "label": "Made for Each Other (1939)",
+      "quality": "Internet Archive copy, dated 1939-02-10 in its metadata"
+    },
+    {
+      "url": "https://archive.org/details/madeforeachother1939carolelombard",
+      "label": "Made For Each Other (1939) CAROLE LOMBARD, JIMMY STEWART",
+      "quality": "Internet Archive copy, quality not checked"
+    }
+  ],
+  "editorial": "Made for Each Other is a romantic comedy-drama directed by John Cromwell and produced by David O. Selznick. It was released on February 10, 1939, after a preview at Grauman's Chinese Theatre on January 31, 1939. It stars Carole Lombard and James Stewart as a married couple who face a meddling mother-in-law, money trouble, a difficult boss and a baby's serious illness. Charles Coburn and Lucile Watson play supporting roles. Rose Franken is credited with the story and Jo Swerling with the screenplay. A creator would want it for the Lombard–Stewart pairing.\n\nWikipedia says the film is in the US public domain, citing secondary sources. This dossier has not confirmed that, so the print status stays undetermined. Public-domain status would rest on a missing renewal. No named Catalog of Copyright Entries volume has been searched yet, and the 1966–1967 volumes still need to be checked by hand. Even if the print is free, the story source, the music and any newer restoration are separate questions. Wikipedia also says Disney owns the original negative. This dossier has not verified that, and owning a negative is not the same as owning a copyright in the film.",
+  "faq": [
+    [
+      "Is Made for Each Other (1939) public domain in the US?",
+      "Wikipedia says so, but this dossier has not confirmed it. The status depends on whether the 1939 copyright was renewed in 1966–1967, and no renewal entries have been checked. Search the Catalog of Copyright Entries volumes for those years before you rely on it."
+    ],
+    [
+      "Can I reuse a restored or Disney-held copy?",
+      "A faithful restoration of a public-domain film adds no new US copyright. Anything it adds, such as a new score, titles or other material, can be protected. Wikipedia says Disney owns the negative, but this dossier has not verified that, and owning a negative does not itself show a copyright. Use a copy you can confirm is unaltered."
+    ]
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "the-bulleteers-1942",
+  "title": "The Bulleteers",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1969 volume (Vol 23 No 1-2). A machine-assisted fetch returned only part of this volume, and the fetch was truncated and summarised. I cannot say which pages or sections were read, so coverage is unknown. No renewal for The Bulleteers was found in the portion fetched. This is not a complete manual check.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1969",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "1970 volume (Vol 24 No 1-2). Together with 1969, this covers the renewal window for a 1942 release, since renewal had to be filed in the 28th year of the first term. Only the part of the volume that the truncated fetch returned was read, and the pages or sections seen are unknown. No renewal was found in the portion fetched. Needs a manual page-by-page check before treating the print as verified public domain.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1970",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded soundtrack would normally share the print's status, so it depends on the print's renewal result. I did not confirm the composers or any separate music copyright.",
+          "source": "RightsAtlas analysis",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short stars Superman, a character that comes from DC's comics and is still claimed by DC. The film's own copyright status does not free the character.",
+          "source": "RightsAtlas analysis",
+          "url": ""
+        }
+      ]
+    },
+    "trademark": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Superman and his logo are, to my knowledge, actively held as marks by DC. I did not fetch a registration record to confirm this.",
+          "source": "RightsAtlas analysis",
+          "url": ""
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": "A machine-assisted scan of the 1969 and 1970 Catalog of Copyright Entries motion-picture volumes found no renewal for The Bulleteers in the portion fetched. The fetch was truncated and the pages read are unknown, so a manual check of each volume is still needed.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1969 Motion Pictures volume",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1970 Motion Pictures volume",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "US Copyright Office public records — secondary check only (e.g. later assignments); does not cover 1969-1970 renewal filings",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-bulleteers-1942",
+      "label": "The Bulleteers (1942) — Internet Archive",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/superman_bulleteers",
+      "label": "Superman - Bulleteers, The — Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Bulleteers is a 1942 animated Superman short. A creator would want it for its period animation and look.\n\nThe rights trap is the character, not the print. Even if the film's own copyright was never renewed, Superman remains DC's property as a character and trademark. Reusing the footage unchanged is a separate question from using Superman in new work. I have not confirmed the renewal check by hand, so treat the print status as open until the 1969 and 1970 renewal volumes are read page by page.",
+  "faq": [
+    [
+      "Can I upload The Bulleteers to my own channel?",
+      "Not safely yet. A machine scan of only the part of each 1969 and 1970 catalog volume that was fetched found no renewal, and the pages read are unknown. Read the 1969 and 1970 motion-picture volumes by hand to confirm. Superman trademarks may still cause platform takedowns."
+    ],
+    [
+      "Can I make new Superman stories or merchandise from it?",
+      "No. The film's status does not free the Superman character or logo. DC still claims the character and the marks."
+    ]
+  ]
+}
