@@ -1,0 +1,100 @@
+{
+  "id": "the-gorilla-1939",
+  "title": "The Gorilla",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The queue's renewal hit (CCE 1966 film volume) is for GORILLA HUNT, a Screen Gems one-reel short renewed by Columbia, not this 20th Century-Fox feature. It does not bear on this film. A full-text check of the 1966, 1967 and 1968 Catalog of Copyright Entries motion-picture volumes was truncated, so a missing renewal is not confirmed. No Copyright Office public-catalog search was completed either.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1966",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film, so the recorded track normally shares the print's status. Wikipedia credits music to David Buttolph, David Raksin, Cyril J. Mockridge and Alfred Newman, which suggests studio-staff cues. Cue-sheet and publisher status was not checked.",
+          "source": "Wikipedia, The Gorilla (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Gorilla_(1939_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the 1925 stage play The Gorilla by Ralph Spence. The play's publication and copyright history was not confirmed in this session.",
+          "source": "Wikipedia, The Gorilla (1939 film)",
+          "url": "https://en.wikipedia.org/wiki/The_Gorilla_(1939_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records: renewals filed 1978 or later (search \"The Gorilla\", ~1966, 1967, 1968)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1967 (Vol 21), browse the renewal listings by hand",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1966 (Vol 20)",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1968 (Vol 22)",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Gorilla_1939",
+      "label": "The Gorilla (1939), Internet Archive upload",
+      "quality": "user upload"
+    },
+    {
+      "url": "https://archive.org/details/the-gorilla-1939_202502",
+      "label": "The Gorilla (1939), Internet Archive upload",
+      "quality": "user upload"
+    }
+  ],
+  "editorial": "The Gorilla (1939) is a 20th Century-Fox horror-comedy directed by Allan Dwan, with a running time of about 66 minutes. The Ritz Brothers, Bela Lugosi, Lionel Atwill, Anita Louise and Patsy Kelly are in the cast. It adapts Ralph Spence's 1925 stage play.\n\nThe rights question is the film's copyright status, which we could not settle. The renewal hit our script found is for Gorilla Hunt, a different Columbia short, so it should be ignored. Our scan of the 1966-1968 Catalog of Copyright Entries volumes was truncated and no Copyright Office search was completed, so the print stays undetermined. Check the 1966-1968 volumes by hand before relying on it commercially. The music credits and the play's rights history also remain unchecked.",
+  "faq": [
+    [
+      "Is The Gorilla (1939) safe to reuse?",
+      "Not yet confirmed. The renewal hit our script found is for a different Columbia short, Gorilla Hunt. We could not complete a search of the Catalog of Copyright Entries or the Copyright Office records, so check them yourself first. Prints on the Internet Archive are uploads of unknown provenance."
+    ],
+    [
+      "Does the 1925 play affect the film?",
+      "It could. The film adapts Ralph Spence's 1925 play, and the play's copyright term and publication history need separate checking. We did not verify them. A film's status does not settle the status of its source material."
+    ]
+  ]
+}
