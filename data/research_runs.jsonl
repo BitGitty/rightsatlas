@@ -854,3 +854,6 @@
 {"date": "2026-11-27", "id": "the-deadly-companions-1961", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "the-ring-1927", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "the-triumph-of-sherlock-holmes-1935", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-27", "id": "the-triumph-of-sherlock-holmes-1935", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-27", "id": "the-lone-ranger-rides-again-1939", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "arrowsmith-1931", "result": "queued", "reasons": []}

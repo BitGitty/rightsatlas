@@ -1,0 +1,107 @@
+{
+  "id": "arrowsmith-1931",
+  "title": "Arrowsmith",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published December 1931, so public domain here depends on a missing notice or a missing renewal. I could not confirm either. No complete search of the renewal records was done. The volumes to search are the 1958, 1959 and 1960 Catalog of Copyright Entries, Parts 12-13 (Motion Pictures and Filmstrips), each covering Jan-Dec. I have not established a negative result from them. The Copyright Office public catalog was not searched. Treat renewal as unresolved.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1958 (Jan-Dec), archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "research_note",
+          "note": "Same catalog, 1959 volume (Jan-Dec). Research pointer only; not fully searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1959 (Jan-Dec), archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "research_note",
+          "note": "Same catalog, 1960 volume (Jan-Dec). Research pointer only; not fully searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1960 (Jan-Dec), archive.org",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox lists the music as by Alfred Newman. The recorded track is part of the sound film and would normally share the film's status. I did not check whether any separate music copyright was registered or renewed, so the score layer stays undetermined.",
+          "source": "Wikipedia, Arrowsmith (film) (not primary)",
+          "url": "https://en.wikipedia.org/wiki/Arrowsmith_(film)"
+        },
+        {
+          "type": "research_note",
+          "note": "Research pointer only, not a source for the Newman credit: the 1959 Catalog of Copyright Entries motion-picture volume, where any separate music registration might be found. Not searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, 1959 (Jan-Dec), archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "The film adapts Sinclair Lewis's novel Arrowsmith, published in 1925. The Duke CSPD Public Domain Day 2021 page lists Sinclair Lewis's Arrowsmith among the 1925 books and states that works from 1925 entered the US public domain on January 1, 2021. This layer covers the novel only. The screenplay is credited to Sidney Howard (adapting the novel); as part of the film it falls under the film's own copyright, which is addressed in the print layer, and I did not research it separately.",
+          "source": "Duke CSPD Public Domain Day 2021",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2021/"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Arrowsmith”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE 1958 Motion Pictures (Jan-Dec) — archive.org",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "CCE 1959 Motion Pictures (Jan-Dec) — archive.org",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "CCE 1960 Motion Pictures (Jan-Dec) — archive.org",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Arrowsmith is John Ford's 1931 adaptation of Sinclair Lewis's 1925 novel about an idealistic doctor-researcher. Samuel Goldwyn produced it, United Artists released it on December 7, 1931, and it stars Ronald Colman, Helen Hayes, Richard Bennett and Myrna Loy. It received four Academy Award nominations, including Best Picture. A creator might want it for Ford's early sound work, for Colman and Hayes, or for its plague-research story.\n\nThe rights trap is the film's own copyright. Because it came out in 1931, it is free only if the copyright was never renewed in its 28th year, and I could not confirm that. No complete search of the renewal records was done, and the Copyright Office catalog was not searched. The novel's term has expired, but that does not free the film. Do not treat the print as cleared until the 1958-1960 renewal records have been searched in full.",
+  "faq": [
+    [
+      "Is the 1931 film Arrowsmith in the public domain?",
+      "Not established. A 1931 film is free only if its copyright was never renewed. No complete search of the 1958-1960 Catalog of Copyright Entries or the Copyright Office public catalog was done. Search both before reusing it."
+    ],
+    [
+      "Does the novel's expired copyright free the movie?",
+      "No. The 1925 novel is public domain, so you can adapt the story yourself. The Goldwyn film is a separate work with its own term, and its screenplay, direction and recorded sound are covered by the film's copyright unless that lapsed."
+    ]
+  ]
+}

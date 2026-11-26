@@ -1,0 +1,71 @@
+{
+  "id": "the-lone-ranger-rides-again-1939",
+  "title": "The Lone Ranger Rides Again",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1966 volume, renewal registrations, p. 94: THE LONE RANGER RIDES AGAIN, a series of photoplays by Republic Productions, 2 reels each, claimant Republic Corp. (PWH). Chapters 1-6: registered 25 Feb 1939 as L8730, renewed 1 Jun 1966 as R389272. Chapters 7-11: registered 25 Feb 1939 as L8821, renewed 1 Jun 1966 as R389276. Chapters 12-15: registered 26 Feb 1939 as L8882, renewed 1 Jun 1966 as R389278. All 15 chapters are covered by a 1966 renewal, so the serial is still under US copyright.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1966, p. 94",
+          "url": "https://archive.org/stream/catalogofc19663201213libr/catalogofc19663201213libr_djvu.txt"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967,
+      1968
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Lone Ranger Rides Again”, ~1966, 1967, 1968)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Lone Ranger Rides Again is a 15-chapter Republic Pictures serial from 1939. The 1966 Catalog of Copyright Entries (p. 94) shows all 15 chapters registered on 25 and 26 February 1939 and renewed on 1 June 1966. The renewal numbers are R389272 for chapters 1-6, R389276 for chapters 7-11 and R389278 for chapters 12-15. That renewal is why the serial is not in the US public domain.\n\nA creator should therefore not treat circulating copies as free to reuse. Copies on video-sharing sites are not evidence of a lapsed copyright here. The Lone Ranger character and name are a separate franchise-rights question that no copyright expiry would settle, and I did not confirm who owns any active marks. I did not check the music credits, so the score's status is undetermined. To use clips, license them from the rights holder.",
+  "faq": [
+    [
+      "Is The Lone Ranger Rides Again (1939) in the public domain in the US?",
+      "No. All 15 chapters were registered in February 1939 and renewed on 1 June 1966 (R389272, R389276, R389278), per the 1966 Catalog of Copyright Entries, p. 94."
+    ],
+    [
+      "Can I use clips if the character looks old enough to be free?",
+      "No. The renewed copyright covers the serial's footage. The music credits, trademark and story rights in the Lone Ranger character are separate questions, and I did not resolve them."
+    ]
+  ]
+}
