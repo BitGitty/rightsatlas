@@ -1,0 +1,107 @@
+{
+  "id": "the-lucky-texan-1934",
+  "title": "The Lucky Texan",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1934, so public domain would depend on a missing renewal in the 28th-year window (1961-1962). I could not read the renewal sections of the Catalog of Copyright Entries volumes in full, and could not search the Copyright Office public catalog, so non-renewal is not established. A partial read of the 1962 volume was inconclusive.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film with a recorded track. I found no source naming the music or its publisher. The track would normally follow the film's own status, which is itself unconfirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/TheLuckyTexan"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Robert N. Bradbury is credited as writer, and the pages I read name no underlying source work. Not confirmed as an original screenplay.",
+          "source": "Wikipedia, The Lucky Texan",
+          "url": "https://en.wikipedia.org/wiki/The_Lucky_Texan"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film was later released on home video in a colorized version under the working title Gold Strike River. Colorization is added material that can carry its own copyright, separate from the underlying film.",
+          "source": "Wikipedia, The Lucky Texan",
+          "url": "https://en.wikipedia.org/wiki/The_Lucky_Texan"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Lucky Texan”, ~1961, 1962, 1963)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE 1961 Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "CCE 1962 Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "CCE 1963 Motion Pictures and Filmstrips (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheLuckyTexan",
+      "label": "The Lucky Texan (1934), Internet Archive",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/the-lucky-texan-1934_202505",
+      "label": "The Lucky Texan (1934), alternate upload",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "The Lucky Texan is a 55-minute Western released January 22, 1934. Robert N. Bradbury wrote and directed it, Paul Malvern produced it, and it was made by Lone Star Productions for release through Monogram. John Wayne plays Jerry Mason, who strikes gold with an old rancher played by George \"Gabby\" Hayes. Yakima Canutt and Earl Dwire are in the cast. Its working title was Gold Strike River. A creator might want it for Wayne's early B-picture work or for the Hayes partnership.\n\nThe trap is that the print's status is not settled. A 1934 film is public domain only if its copyright was never renewed in the 1961-1962 window. I could not confirm that either way, so check the Catalog of Copyright Entries renewal sections and the Copyright Office catalog before relying on it. Internet Archive uploaders tag copies as public domain, but that is their label, not a rights finding. A colorized home-video edition also exists, and the colors are separately protectable. Use a plain black-and-white copy, not the colorized one.",
+  "faq": [
+    [
+      "Is The Lucky Texan in the public domain?",
+      "Not confirmed. A 1934 film is public domain only if its copyright was never renewed. I could not complete the renewal check, so verify it in the 1961-1962 Catalog of Copyright Entries volumes and the Copyright Office catalog before reuse."
+    ],
+    [
+      "Can I use the colorized version?",
+      "Treat it as protected. Colorization is added material that can carry its own copyright even if the underlying film is free. Work from a plain black-and-white copy and check the print's renewal status first."
+    ]
+  ]
+}

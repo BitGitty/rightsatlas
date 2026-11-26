@@ -1,0 +1,80 @@
+{
+  "id": "general-spanky-1936",
+  "title": "General Spanky",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures 1963 (Vol. 17, Nos. 1-2), renewal registrations: 'GENERAL SPANKY, a photoplay in eight reels by Metro-Goldwyn-Mayer Corp. © 4Dec36; L6811. Metro-Goldwyn-Mayer, Inc. (PWH); 6Dec63; R327468.' The title, studio, 1936 registration date and eight-reel length match this film, and the renewal was filed in the 28th year. The print's US copyright was renewed and has not lapsed.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1963, Vol 17 No 1-2",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded soundtrack is part of the film's own copyright and shares the print's renewed status (R327468). I did not research any separate music publishing rights.",
+          "source": "Same CCE 1963 renewal entry",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1963 (Vol. 17 Nos. 1-2) — renewal R327468 for General Spanky",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/general-spanky",
+      "label": "General Spanky (1936) on the Internet Archive — a user upload; the film is still under copyright",
+      "quality": "MP4, about 71 minutes"
+    }
+  ],
+  "editorial": "General Spanky (1936) was Our Gang's only feature film that year, with George \"Spanky\" McFarland in the lead and Carl Switzer and Billie Thomas also in the cast. It runs about 71 minutes. It is a Metro-Goldwyn-Mayer release, registered as a photoplay in eight reels on 4 December 1936. Creators are drawn to it as a feature-length vehicle for the Our Gang child cast, and copies circulate widely online.\n\nCopies on the Internet Archive and elsewhere are not licensed. The Catalog of Copyright Entries lists a renewal for this title: R327468, filed 6 December 1963 by Metro-Goldwyn-Mayer, Inc. That filing falls in the 28th year, so the copyright was kept alive and the film is not in the US public domain. The Internet Archive upload shows only that a copy is hosted. Do not reuse the film or clips from it without a licence from the rights holder.",
+  "faq": [
+    [
+      "Is General Spanky (1936) in the public domain?",
+      "No. The Catalog of Copyright Entries for 1963 lists a renewal for it, R327468, filed 6 December 1963 by Metro-Goldwyn-Mayer, Inc. The renewal kept the 1936 copyright in force, so the film is not public domain in the US."
+    ],
+    [
+      "Can I use the Internet Archive copy of General Spanky in my own video?",
+      "Not safely. Being hosted on the Internet Archive does not clear the rights, and the print and its soundtrack are under a renewed copyright. Get a licence from the rights holder, or rely on a fair-use analysis for a specific short excerpt."
+    ]
+  ]
+}
