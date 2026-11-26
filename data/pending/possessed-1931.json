@@ -1,0 +1,85 @@
+{
+  "id": "possessed-1931",
+  "title": "Possessed",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures 1958 (Vol. 12, Parts 12-13), renewal registrations: 'POSSESSED, a photoplay in nine reels by Metro-Goldwyn-Mayer Distributing Corp. © 27Nov31; L2653. Loew's, Inc. (PWH); 1Dec58; R225482.' The 1931 registration was renewed on 1 Dec 1958, within the 28th-year window, by Loew's, Inc. as proprietor of a work made for hire.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures 1958, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track was made for the same MGM production and shares the film's status. It falls under the renewed registration R225482.",
+          "source": "Same CCE renewal entry as the print layer",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the play The Mirage by Edgar Selwyn (1920), according to the film's Wikipedia page. A play from 1920 is itself out of copyright by term, but the 1931 screenplay and film are a separate renewed work.",
+          "source": "Wikipedia, Possessed (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Possessed_(1931_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Possessed”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Possessed (1931) is a Metro-Goldwyn-Mayer drama directed by Clarence Brown. Joan Crawford plays Marian Martin and Clark Gable plays Mark Whitney. It was released on November 21, 1931, and is based on Edgar Selwyn's 1920 play The Mirage. A creator might want it for the Crawford and Gable pairing, but the film is not free to reuse.\n\nThe trap is that the copyright was renewed. The Catalog of Copyright Entries records the renewal as R225482. Loew's, Inc. filed it on 1 December 1958, as proprietor of a work made for hire, against the original registration L2653 of 27 November 1931. That renewal means the print and its sound track stay under US copyright. Only the 1920 stage source has expired by term, and that does not free the 1931 film.",
+  "faq": [
+    [
+      "Is Possessed (1931) in the public domain?",
+      "No. The Catalog of Copyright Entries lists a renewal, R225482, filed by Loew's, Inc. on 1 December 1958 for the 1931 photoplay. The print and its sound track remain under US copyright, so reuse needs a licence from the rights holder."
+    ],
+    [
+      "Does it matter that the source play is old?",
+      "Not for the film. Edgar Selwyn's 1920 play The Mirage is out of copyright by term. The 1931 screenplay and film are a separate work with their own renewed copyright, so the expired play does not free the film."
+    ]
+  ]
+}

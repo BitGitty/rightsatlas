@@ -824,3 +824,6 @@
 {"date": "2026-11-26", "id": "the-return-of-the-vampire-1944", "result": "blocked", "reasons": ["title/year does not match the queue row"]}
 {"date": "2026-11-26", "id": "cyrano-de-bergerac-1950", "result": "queued", "reasons": []}
 {"date": "2026-11-26", "id": "go-for-broke-1951", "result": "queued", "reasons": []}
+{"date": "2026-11-26", "id": "rock-rock-rock-1956", "result": "blocked", "reasons": ["fact-check: editorial: The release date is given as December 4, 1956. The Wikipedia text found in my search gives December 7, 1956. The dossier cites no source for its date. I did not open a second source to settle it. -> Use the date shown in the cited source (December 7, 1956 per Wikipedia), or attach a source that supports December 4. Otherwise write 'December 1956'."]}
+{"date": "2026-11-26", "id": "the-speckled-band-1931", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-26", "id": "possessed-1931", "result": "queued", "reasons": []}
