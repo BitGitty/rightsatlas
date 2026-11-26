@@ -1,0 +1,91 @@
+{
+  "id": "pardon-my-sarong-1942",
+  "title": "Pardon My Sarong",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures 1969 volume lists PARDON MY SARONG, a photoplay in 10 reels, by Universal Pictures Co., original registration 21Jun1942 (LP11466), renewed 25 Aug 1969 as R467481 by Universal Pictures, a division of Universal City Studios, Inc. The renewal falls in the 28th-year window and matches the 1942 Abbott and Costello film from Universal. The renewal keeps the print protected.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1969",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits music by Charles Previn and mentions the songs \"Do I Worry?\" and \"Shout Brother Shout\". The film renewal R467481 covers the photoplay entry and shows nothing about the underlying music. The score and songs may be separate compositions with their own registration and renewal, or none. Not yet searched: the 1942 music registrations and the 1969-70 music renewals. Until then the score layer is undetermined. The soundtrack as fixed in the film is covered by the film renewal.",
+          "source": "Wikipedia, Pardon My Sarong",
+          "url": "https://en.wikipedia.org/wiki/Pardon_My_Sarong"
+        }
+      ]
+    },
+    "story": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia lists the film as written by True Boardman, Nat Perrin and John Grant. It does not say whether an earlier source exists, so no separate public-domain source has been identified. The screenplay as fixed in the film is covered by the renewed film copyright. The AFI Catalog could not be fetched, so the story credit is not checked against it.",
+          "source": "Wikipedia, Pardon My Sarong",
+          "url": "https://en.wikipedia.org/wiki/Pardon_My_Sarong"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Pardon My Sarong”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/abbott-and-costello-pardon-my-sarong",
+      "label": "Pardon My Sarong (1942) on the Internet Archive. Hosting does not mean the film is free to reuse.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Pardon My Sarong is a Universal comedy released August 7, 1942, directed by Erle C. Kenton and starring Bud Abbott and Lou Costello. The cast includes Virginia Bruce, Robert Paige, Lionel Atwill and William Demarest. Per Wikipedia, the bus drivers Algy and Wellington flee a detective by driving their bus off a pier, are hired as crew on a yacht, and land on an uncharted island where they get tangled up with a mysterious archaeologist and a sacred jewel. The queue note says Hope/Lamour, but this is an Abbott and Costello picture. Wikipedia lists True Boardman, Nat Perrin and John Grant as the writers.\n\nThe rights trap is the renewal. Universal registered the film in June 1942 and renewed it on 25 August 1969 as R467481. The renewal sits in the Catalog of Copyright Entries for 1969. The film as fixed on screen remains under copyright in the US. The music (credited to Charles Previn, plus songs) has not been checked separately, so its status is undetermined. Copies on the Internet Archive and similar sites do not change the film's status. A reuser needs a license from Universal, or a narrow fair-use argument for short clips.",
+  "faq": [
+    [
+      "Is Pardon My Sarong in the public domain?",
+      "No. Universal renewed the copyright on 25 August 1969 (R467481), so the film is still protected in the US. Its presence on the Internet Archive does not affect its copyright status."
+    ],
+    [
+      "Can I use clips of it in my own video?",
+      "Only with a license from Universal, or under a fair-use argument such as commentary or criticism. Fair use depends on the facts of each case. The film renewal covers the film as released, including its soundtrack as fixed in the film. The underlying music compositions have not been searched separately."
+    ]
+  ]
+}
