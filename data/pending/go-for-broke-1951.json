@@ -1,0 +1,101 @@
+{
+  "id": "go-for-broke-1951",
+  "title": "Go for Broke!",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says it entered the US public domain in 1979 because MGM failed to renew its copyright registration in the 28th year after publication. It cites David Pierce, 'Forgotten Faces: Why Some of Our Cinema Heritage Is Part of the Public Domain', Film History 19(2), pp. 125-43, June 2007. I could not retrieve a Catalog of Copyright Entries renewal volume or a Copyright Office record to confirm the absence of a renewal, so I am not marking the print verified_pd.",
+          "source": "Wikipedia, Go for Broke! (1951 film), citing Pierce (2007)",
+          "url": "https://en.wikipedia.org/wiki/Go_for_Broke!_(1951_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox credits the music to Alberto Colombo, with no inline citation. I did not confirm this against a primary credit source. I did not check whether the music was separately registered or renewed, so the layer stays undetermined.",
+          "source": "Wikipedia, Go for Broke! (1951 film), infobox",
+          "url": "https://en.wikipedia.org/wiki/Go_for_Broke!_(1951_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's infobox credits the screenplay to Robert Pirosh, who also directed, and lists Dore Schary as producer. The article describes Van Johnson's character, Lt. Michael Grayson, as an officer who reports for duty to train the 442nd Infantry Regiment. I did not check a primary credit source such as the AFI Catalog. I did not check whether any underlying material was separately registered.",
+          "source": "Wikipedia, Go for Broke! (1951 film)",
+          "url": "https://en.wikipedia.org/wiki/Go_for_Broke!_(1951_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979,
+      1980
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Go for Broke!”, ~1978, 1979, 1980)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/go-.-for-broke-1951",
+      "label": "Go For Broke! (1951), Metro-Goldwyn-Mayer, dir. Robert Pirosh, full film on the Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/go-for-broke-1951-van-johnson-lane-nakano-george-miki",
+      "label": "Go For Broke! 1951, Van Johnson, Lane Nakano & George Miki, full film on the Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/go_for_broke_ACM",
+      "label": "Go for Broke! (1951), Internet Archive upload (go_for_broke_ACM)",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Go for Broke! is Metro-Goldwyn-Mayer's 1951 war film about the Nisei soldiers of the 442nd Infantry Regiment. According to Wikipedia, Robert Pirosh wrote and directed it, and Dore Schary produced it. Van Johnson plays Lt. Michael Grayson, a lieutenant who reports for duty to train the unit. Wikipedia says six of the Nisei soldiers were played by real 442nd veterans: Fukunaga, Hamada, Miki, Nakano, Okamoto and Oyasato. It says the film includes archive footage of General Mark Clark and President Harry Truman presenting the unit citation, and that Pirosh received an Academy Award nomination in 1951. It gives the premiere as Grauman's Egyptian Theatre in Hollywood on May 9, 1951. These details come from the Wikipedia article only, and I did not check them against a primary source. A documentary maker or teacher might want it as a period record of how Hollywood portrayed Japanese-American soldiers in 1951.\n\nThe rights question is the renewal. A 1951 film needed a renewal filing in its 28th year, which falls in 1979. Wikipedia says MGM did not file one, citing David Pierce's 2007 Film History article. I could not confirm that against a Catalog of Copyright Entries volume or a Copyright Office record, so the print layer stays undetermined here. Check the Copyright Office public records yourself before relying on the claim. Whatever the print's status, the other layers are not settled. I did not confirm the music's registration status, and I did not research how the real-life story was credited. Neither depends on the print's status. The Internet Archive uploads are not official releases, so their transfer quality and any added material are unknown.",
+  "faq": [
+    [
+      "Is Go for Broke! (1951) in the public domain?",
+      "Wikipedia says the film entered the US public domain in 1979 because MGM did not renew its copyright. That claim rests on a 2007 Film History article by David Pierce. I could not check it against a primary Copyright Office or Catalog of Copyright Entries record, so treat it as unconfirmed. Search the Copyright Office public records for a 1978–1980 renewal before reusing the film."
+    ],
+    [
+      "Can I use the Internet Archive copies in my own project?",
+      "Only after you have settled the renewal question above. Even then, the music and any added titles or restoration work are separate layers. I did not check whether these uploads add anything protectable. I did not research the music's registration or the source material. Clear each of those layers separately."
+    ]
+  ]
+}
