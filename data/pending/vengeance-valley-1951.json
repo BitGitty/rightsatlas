@@ -1,0 +1,91 @@
+{
+  "id": "vengeance-valley-1951",
+  "title": "Vengeance Valley",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unverified: no 1951 copyright registration for the film has been confirmed, and no Catalog of Copyright Entries page or entry has been seen. No renewal search has been done. If the film was registered in 1951, a renewal would have been due in its 28th year, which is 1979. Next step: search the Copyright Office public records (publicrecords.copyright.gov) for 'Vengeance Valley', and check the 1951 CCE Motion Pictures volume for the registration and the 1979 renewal records. Non-renewal is not established.",
+          "source": "none confirmed",
+          "url": null
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score's status depends on the film's status and on the music's own registration or renewal. Neither has been checked, and no source has been confirmed for the composer credit.",
+          "source": "none confirmed",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on Luke Short's novel Vengeance Valley. Sources conflict on the novel's first-publication year: the Wikipedia page for Luke Short (writer) lists 1949, and Open Library gives a first_publish_year of 1950. The original publisher was not confirmed from any source. Renewal would fall in year 28, so 1977 if first published in 1949 or 1978 if 1950. No renewal search has been done for the novel. Next step: search the 1977 and 1978 renewal records for the novel, and confirm the first-publication year from a primary source such as the CCE Books volume.",
+          "source": "Wikipedia, Luke Short (writer); Open Library search",
+          "url": "https://en.wikipedia.org/wiki/Luke_Short_(writer)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1977,
+      1978,
+      1979
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Vengeance Valley”, ~1978, 1979)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures and Books renewal-year volumes (1977, 1978, 1979) by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/VengeanceValley",
+      "label": "Vengeance Valley, Internet Archive item",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Vengeance Valley is a 1951 film based on Luke Short's novel of the same name. An Internet Archive item for it exists (archive.org/details/VengeanceValley). Its page shows a \"Public Domain\" label in the Usage field, and its metadata carries a licenseurl pointing to creativecommons.org/licenses/publicdomain/. The quality of that copy has not been checked.\n\nThe rights trap is that an Internet Archive label is not a rights finding. If the film was registered in 1951, it needed a renewal in its 28th year. No renewal search has been done, so the film's status is unconfirmed. The source novel is dated 1949 (Wikipedia, Luke Short page) or 1950 (Open Library), so its renewal year is 1977 or 1978. It may have been renewed separately, and a renewal for the novel could bind the screen story even if the film's own renewal lapsed. The score's status is also unchecked. Don't treat the print as free until these checks are done.",
+  "faq": [
+    [
+      "Is Vengeance Valley (1951) in the public domain?",
+      "Not confirmed. No renewal search has been done. Search the Copyright Office public records for the film and for Luke Short's novel before reusing it."
+    ],
+    [
+      "Does the Internet Archive's public-domain label clear it?",
+      "No. The item page shows a \"Public Domain\" label, but a label on an item page is not a rights finding. A renewal on the film, the score or the Luke Short novel could still bind a copy that carries the label."
+    ]
+  ]
+}

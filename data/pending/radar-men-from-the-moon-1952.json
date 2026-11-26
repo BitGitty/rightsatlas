@@ -1,0 +1,84 @@
+{
+  "id": "radar-men-from-the-moon-1952",
+  "title": "Radar Men from the Moon",
+  "year": 1952,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1952 film is public domain only through a missing notice or a missing renewal. The renewal would have been due in 1980. The Catalog of Copyright Entries volumes found on archive.org stop at January–June 1978 (identifier catalogofcopyrig14libr), so no 1979–1981 renewal volume could be checked. The 1978 volume's text has no entry for this title, but that volume is too early to bear on a renewal due in 1980. The Copyright Office public records site (publicrecords.copyright.gov) is a script-driven page that could not be queried in this session. No renewal absence is established.",
+          "source": "Catalog of Copyright Entries, Fourth Series, Part 4, Jan-June 1978 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig14libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The archive.org copy Radar_Men__from_the_Moon is described by its uploader as an improved copy of an earlier upload: color noise and luma noise reduced, tape tracking marks cropped, audio normalized. These are amateur clean-ups of a tape source, not a known institutional restoration.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/Radar_Men__from_the_Moon"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1979,
+      1980,
+      1981
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Radar Men from the Moon”, ~1979, 1980, 1981)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Radar_Men__from_the_Moon",
+      "label": "Radar Men from the Moon (Republic, 1952), full 12-chapter serial",
+      "quality": "SD, digitized from tape with noise reduction"
+    }
+  ],
+  "editorial": "Radar Men from the Moon is a 12-chapter Republic Pictures serial from 1952. It is the first Commando Cody serial. George Wallace plays Cody, Aline Towne plays his sidekick Joan Gilbert, and Roy Barcroft plays Retik, the Ruler of the Moon. A creator might want it for clips, a riff or a retro sci-fi project, because it is easy to find online in complete form.\n\nThe rights trap is the print itself. Republic was a major studio that could have renewed its 1952 copyrights in 1980. Our check could not rule that out. The Catalog of Copyright Entries volumes online end in 1978, and the Copyright Office search could not be queried here. Until someone searches the Copyright Office records for a renewal, treat the film as unconfirmed. The score and story layers are also unchecked.",
+  "faq": [
+    [
+      "Is Radar Men from the Moon in the public domain?",
+      "Not confirmed. The film is widely circulated, but the 1980 renewal check is unfinished. Search the Copyright Office public records for the title before you rely on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Wide availability is not a rights clearance. That copy is an amateur tape-sourced clean-up, so it adds little, but it does not settle whether the underlying 1952 film was renewed. Settle the renewal question first."
+    ]
+  ]
+}

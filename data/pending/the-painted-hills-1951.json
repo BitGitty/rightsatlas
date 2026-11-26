@@ -1,0 +1,96 @@
+{
+  "id": "the-painted-hills-1951",
+  "title": "The Painted Hills",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-26",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says the copyright lapsed after MGM neglected to file renewal applications in 1979, citing David Pierce (June 2007). I did not check this against the 1979 Catalog of Copyright Entries motion-picture renewal volume or the Copyright Office public catalog, so the print stays undetermined.",
+          "source": "Wikipedia, The Painted Hills",
+          "url": "https://en.wikipedia.org/wiki/The_Painted_Hills"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. Wikipedia credits the score to Daniele Amfitheatrof. The recorded track would normally share the film's own copyright status, so it is undetermined until the print's renewal status is confirmed. I did not check whether the score was separately registered.",
+          "source": "Wikipedia, The Painted Hills",
+          "url": "https://en.wikipedia.org/wiki/The_Painted_Hills"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says it is based on Alexander Hull's novel 'Shep of the Painted Hills', published in 1930. A work published in 1930 would be free in the US from 1 Jan 2026, but I did not find a catalog record, Catalog of Copyright Entries entry or library record showing the publication year, so the layer stays undetermined until one is found.",
+          "source": "Wikipedia, The Painted Hills",
+          "url": "https://en.wikipedia.org/wiki/The_Painted_Hills"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979,
+      1980
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Painted Hills”, ~1978, 1979, 1980)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ThePaintedHills",
+      "label": "The Painted Hills (1951) — Internet Archive",
+      "quality": "unverified copy"
+    },
+    {
+      "url": "https://archive.org/details/the-painted-hills-1951",
+      "label": "The Painted Hills (1951) — alternate upload",
+      "quality": "unverified copy"
+    }
+  ],
+  "editorial": "The Painted Hills is a Lassie feature that MGM released on April 20, 1951. Harold F. Kress directed. Pal, credited as Lassie, plays a collie named Shep who lives with the prospector Jonathan Harvey (Paul Kelly). Bruce Cowling, Gary Gray and Ann Doran are in the cast. It is based on Alexander Hull's novel 'Shep of the Painted Hills', which Wikipedia dates to 1930. A family dog story like this suits public-domain compilations, classroom use and kids' programming.\n\nThe rights question turns on a renewal. A film from the first half of 1951 needed renewing in 1979. Wikipedia, citing David Pierce's 2007 research, says MGM did not renew this film. I could not check that against the 1979 Catalog of Copyright Entries or the Copyright Office catalog, so the print stays undetermined until someone runs that search. The source novel's status is also undetermined until its publication year is confirmed in a catalog or library record. Even if the print is free, the Lassie name and character are a separate trademark and franchise issue, and any modern score, titles or restoration added to a copy are separate from the film itself.",
+  "faq": [
+    [
+      "Is The Painted Hills in the public domain?",
+      "Wikipedia says its copyright lapsed when MGM did not renew it in 1979. I could not confirm that in the renewal records, so check the Copyright Office catalog and the 1979 Catalog of Copyright Entries before relying on it. The source novel's status is also not yet confirmed."
+    ],
+    [
+      "Can I use the Lassie name on a release of this film?",
+      "Not safely. Copyright expiry does not remove trademark rights in a character or franchise name. The status of any Lassie marks was not determined here, so get clearance before using the name in titles or marketing."
+    ]
+  ]
+}
