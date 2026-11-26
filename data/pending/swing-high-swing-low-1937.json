@@ -1,0 +1,109 @@
+{
+  "id": "swing-high-swing-low-1937",
+  "title": "Swing High, Swing Low",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says its US copyright was not renewed in the 28th year, so it entered the public domain in 1965. That claim is not a primary record. I could not read the S section of the 1964 and 1965 Catalog of Copyright Entries motion-picture volumes, because the fetched text was truncated. Absence of a renewal is therefore not confirmed.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1964 (renewal window volume; not fully read)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion 1965 volume for the same 28th-year renewal window. The S section was not read, so no absence finding is made.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1965 (not fully read)",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally follows the film's own copyright status. That status is not yet confirmed. No separate music-copyright research was done.",
+          "source": "Internet Archive item metadata (Paramount Pictures, dir. Mitchell Leisen, 1937)",
+          "url": "https://archive.org/details/shsl0096766"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the 1927 Broadway play 'Burlesque' by George Manker Watters and Arthur Hopkins, according to Wikipedia. Whether the play's copyright was renewed was not checked, and a renewed play could still protect the story elements.",
+          "source": "Wikipedia, Swing High, Swing Low (film)",
+          "url": "https://en.wikipedia.org/wiki/Swing_High,_Swing_Low_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a DVD release by Synergy Entertainment on May 15, 2007. No restoration with added material was identified. Internet Archive also hosts a user-made colorized 4K/60FPS upload, whose added color work could carry its own claim.",
+          "source": "Wikipedia; Internet Archive search listing",
+          "url": "https://archive.org/details/swing-high-swing-low-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1964 (archive.org) — check the S renewals by hand",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1965 (archive.org) — check the S renewals by hand",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "US Copyright Office public records — search “Swing High, Swing Low” and “Burlesque” (1927 play)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/shsl0096766",
+      "label": "Swing High, Swing Low (1937), Internet Archive",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/swinghi_swinglo",
+      "label": "Swing High, Swing Low (1937), Internet Archive alternate upload",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "Swing High, Swing Low is a Paramount picture released March 12, 1937. Mitchell Leisen directed Carole Lombard and Fred MacMurray. Charles Butterworth, Jean Dixon, Dorothy Lamour and Harvey Stephens are also in the cast. The story follows Maggie King and the soldier Skid Johnson, who meet in Panama and become involved in a nightclub brawl. Its source is the 1927 Broadway play 'Burlesque' by George Manker Watters and Arthur Hopkins. A creator would want it for the Lombard–MacMurray pairing and for the Panama and nightclub settings. Copies are already widely circulated on the Internet Archive.\n\nThe trap is that the film's non-renewal rests only on a secondary claim. Wikipedia says the claimants did not renew in 1964–65, but I did not confirm that in the Catalog of Copyright Entries volumes. A separate trap is the underlying play. If 'Burlesque' was renewed, that could still reach the story, and nobody has checked it. Do the primary renewal check for both the film and the play before relying on this title. Also treat the Internet Archive colorized 4K upload as separate added work.",
+  "faq": [
+    [
+      "Is Swing High, Swing Low free to reuse in the US?",
+      "Not confirmed yet. Wikipedia says the 1937 copyright was not renewed in 1964–65, but I could not verify that against the Catalog of Copyright Entries. The underlying 1927 play 'Burlesque' also needs a renewal check. Verify both before commercial reuse."
+    ],
+    [
+      "Can I use the colorized 4K version on the Internet Archive?",
+      "Don't assume you can. Colorization is added material that can carry its own claim. If the black-and-white print's status is confirmed, use a plain black-and-white copy instead, not the colorized upload."
+    ]
+  ]
+}

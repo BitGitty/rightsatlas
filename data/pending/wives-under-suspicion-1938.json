@@ -1,0 +1,80 @@
+{
+  "id": "wives-under-suspicion-1938",
+  "title": "Wives Under Suspicion",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": "Universal Pictures, directed by James Whale",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says: \"In 1966, the film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication.\" The article cites David Pierce, 'Forgotten Faces: Why Some of Our Cinema Heritage Is Part of the Public Domain', Film History 19(2), 2007. No Catalog of Copyright Entries volume and no Copyright Office database was searched for this dossier, so the claim is unconfirmed in primary records and the status stays undetermined.",
+          "source": "Wikipedia, Wives Under Suspicion",
+          "url": "https://en.wikipedia.org/wiki/Wives_Under_Suspicion"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is \"based on a 1932 Ladislas Fodor play that was previously adapted into the 1933 film The Kiss Before the Mirror\" and is a remake of that film, also directed by James Whale. The US copyright and renewal status of the 1932 play was not checked (a renewal would be recorded in the Catalog of Copyright Entries for dramatic compositions, around 1959-60). The status of the 1933 Universal film, a separate copyrighted work, was also not checked (a renewal would fall around 1960-61). The story layer is undetermined.",
+          "source": "Wikipedia, Wives Under Suspicion",
+          "url": "https://en.wikipedia.org/wiki/Wives_Under_Suspicion"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the 1933 film says it was directed by James Whale, released by Universal Pictures in 1933, adapted from Fodor's stage play, and remade by Whale in 1938 as Wives Under Suspicion. It gives no copyright or renewal information.",
+          "source": "Wikipedia, The Kiss Before the Mirror",
+          "url": "https://en.wikipedia.org/wiki/The_Kiss_Before_the_Mirror"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records page — explains where to search 1945-1977 records: the Virtual Card Catalog and the printed Catalog of Copyright Entries (Motion Pictures, 1965, 1966, 1967 volumes, digitized on Archive.org). Look for “Wives Under Suspicion” there.",
+        "url": "https://www.copyright.gov/public-records/"
+      },
+      {
+        "label": "US Copyright Office public records search — covers 1898-1945 and 1978 onward only, so it will NOT show a 1965-1967 renewal; an empty result there means nothing for this film",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Wives Under Suspicion is a 1938 Universal Pictures crime film directed by James Whale. Wikipedia says it is based on a 1932 play by Ladislas Fodor, The Kiss Before the Mirror, which Whale had already adapted as a 1933 Universal film of the same name. The 1938 film is a remake of that earlier film.\n\nThe rights question is whether the film's copyright was renewed in its 28th year. Wikipedia says: \"In 1966, the film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication.\" It cites David Pierce's 2007 article in Film History. No Catalog of Copyright Entries volume or Copyright Office database was searched for this dossier, so the status stays undetermined.\n\nThere are two further open questions. The 1932 play and the 1933 film are separate works, and neither one's copyright or renewal status was checked. The 1938 film's status does not settle theirs. Check all three before using the film in a commercial project.",
+  "faq": [
+    [
+      "Is Wives Under Suspicion in the public domain?",
+      "Undetermined. Wikipedia says the film entered the US public domain in 1966 because the claimants did not renew the registration in the 28th year, citing David Pierce's 2007 article. This dossier did not search any Catalog of Copyright Entries volume or Copyright Office database to confirm it. Check the renewal records yourself before relying on it."
+    ],
+    [
+      "Do the source play and the earlier film affect reuse?",
+      "They might. The film is based on Ladislas Fodor's 1932 play The Kiss Before the Mirror and is a remake of James Whale's 1933 Universal film of the same name. The US copyright and renewal status of the play and of the 1933 film were not checked here. Verify both separately if you plan a remake or adaptation."
+    ]
+  ]
+}

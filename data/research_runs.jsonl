@@ -869,3 +869,6 @@
 {"date": "2026-11-27", "id": "swing-high-swing-low-1937", "result": "blocked", "reasons": ["swing-high-swing-low-1937: bad status 'probable_pd' on print"]}
 {"date": "2026-11-27", "id": "wives-under-suspicion-1938", "result": "blocked", "reasons": ["layer 'print' is likely_pd — not allowed in a candidate"]}
 {"date": "2026-11-27", "id": "the-gorilla-1939", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "swing-high-swing-low-1937", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "wives-under-suspicion-1938", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "pot-o-gold-1941", "result": "blocked", "reasons": ["fact-check: faq[1], editorial, renewal_search.diy_links[0]: The dossier sends the reader to publicrecords.copyright.gov to find the 1941 film's renewal. The dossier's own link label says that database covers renewals filed 1978 or later. A renewal of a 1941 film would have been filed in 1968 or 1969, so it would not appear there. Only the CCE volumes or the Copyright Office's pre-1978 records can settle it. -> Say that the online public-records database covers 1978 and later and will not show a 1968 or 1969 renewal. Name the 1968 and 1969 CCE Motion Pictures volumes as the real source. Optionally add a request to the Copyright Office for a pre-1978 record search."]}
