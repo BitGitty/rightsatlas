@@ -3,21 +3,21 @@
   "title": "Cyrano de Bergerac",
   "year": 1950,
   "country": "US",
-  "last_verified": "2026-11-26",
+  "last_verified": "2026-11-27",
   "byline": "José Ferrer won the Best Actor Oscar for Stanley Kramer's 1950 film of Rostand's play.",
   "layers": {
     "print": {
       "status": "undetermined",
       "evidence": [
         {
-          "type": "cce_entry",
-          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures Jan-Dec 1977 (Vol 31 Nos 1-2). I searched only the portion of the volume my fetch tool returned, because the tool reads only part of a long volume. I did not confirm that the whole volume was searched. In that portion I found no occurrence of 'Cyrano'. This is a partial check and covers only the 1977 part of the renewal window. I did not check the Jan-Jun 1978 volume (archive.org/details/catalogofcopyrig14libr) or the Jul-Dec 1978 Motion Pictures volume. A renewal in the 28th year could have been filed through the end of 1978. I did not search the Copyright Office public catalog, because its page is a JavaScript app that returned no records to my fetch.",
-          "source": "Catalog of Copyright Entries, 1977 Motion Pictures, archive.org",
+          "type": "research_note",
+          "note": "Partial check only. I tried to read the full text of the Catalog of Copyright Entries volume for January-June 1977 Motion Pictures (archive.org identifier 1977motionpictur3311213libr). It has a Renewal Registrations section. My fetch tool returned only the first part of the text, which ended in the index at 'Benson', before any 'C' or 'K' entries. The tool's own summary of the rest reported no 'Cyrano', but I cannot treat that as a real negative result. The July-December 1977 volume and the 1978 renewal volumes were not read. The volume at archive.org/details/catalogofcopyrig14libr is Fourth Series Part 4 (Motion Pictures and Filmstrips, January-June 1978, current registrations). Its preface says renewals are not in that part, so it would not show a renewal either way. I could not search the Copyright Office public records, because the site is a JavaScript app that returned no records to my fetch.",
+          "source": "Catalog of Copyright Entries, Jan-Jun 1977 Motion Pictures, archive.org",
           "url": "https://archive.org/details/1977motionpictur3311213libr"
         },
         {
           "type": "research_note",
-          "note": "An Internet Archive uploader describes the film as 'PD due to lack of copyright renewal'. This is an uploader's claim, not a primary record. Secondary reporting (Wikipedia) says the film lapsed into the public domain in the mid-1980s. That is unverified, and no primary source is given for it. Do not rely on either claim until the Jan-Jun 1978 and Jul-Dec 1978 catalogs and the Copyright Office records have been checked.",
+          "note": "The Internet Archive item description reads 'PD due to lack of copyright renewal.' That is the uploader's claim, not a primary record. The file name suggests the upload is a Blu-ray rip. Do not rely on the claim until the renewal volumes and the Copyright Office records have been searched.",
           "source": "Internet Archive item metadata",
           "url": "https://archive.org/details/cyrano-de-bergerac-1950-by-michael-gordon"
         }
@@ -62,44 +62,40 @@
     "negative_result": null,
     "diy_links": [
       {
-        "label": "US Copyright Office public records — renewals (search “Cyrano de Bergerac”, 1977 and 1978; also check 1979 for a possible late filing)",
+        "label": "US Copyright Office public records, renewals (search 'Cyrano de Bergerac' and claimant Stanley Kramer Productions, 1977 and 1978; also check 1979 for a possible late filing)",
         "url": "https://publicrecords.copyright.gov/"
       },
       {
-        "label": "Catalog of Copyright Entries, Jan-Jun 1978 Motion Pictures (archive.org)",
-        "url": "https://archive.org/details/catalogofcopyrig14libr"
-      },
-      {
-        "label": "Catalog of Copyright Entries, Jul-Dec 1978 Motion Pictures (archive.org search)",
-        "url": "https://archive.org/search?query=Catalog+of+Copyright+Entries+1978+Motion+Pictures+July-December"
-      },
-      {
-        "label": "Catalog of Copyright Entries, Jan-Dec 1977 Motion Pictures (archive.org)",
+        "label": "Catalog of Copyright Entries, Jan-Jun 1977 Motion Pictures, includes renewals (archive.org)",
         "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, 1978 volumes (archive.org search; renewals are in a separate part from current registrations)",
+        "url": "https://archive.org/search?query=Catalog+of+Copyright+Entries+1978+Renewals"
       }
     ]
   },
   "watch": [
     {
-      "url": "https://archive.org/details/cyrano-de-bergerac-1950-by-michael-gordon",
-      "label": "Cyrano de Bergerac (1950), full film, directed by Michael Gordon",
-      "quality": "full feature"
+      "url": "https://archive.org/details/Cyrano_DeBergerac",
+      "label": "Cyrano De Bergerac (1950), Internet Archive copy, produced by Stanley Kramer, directed by Michael Gordon",
+      "quality": "full feature, runtime 1:52:52, not checked for picture quality"
     },
     {
-      "url": "https://archive.org/details/Cyrano_DeBergerac",
-      "label": "Cyrano De Bergerac (1950), Internet Archive copy",
-      "quality": "full feature, not checked for quality"
+      "url": "https://archive.org/details/cyrano-de-bergerac-1950-by-michael-gordon",
+      "label": "Cyrano de Bergerac (1950), directed by Michael Gordon",
+      "quality": "full feature, runtime about 1h53m, appears to be a Blu-ray rip"
     }
   ],
-  "editorial": "Cyrano de Bergerac (1950) was produced by Stanley Kramer Productions and released by United Artists. Michael Gordon directed, Carl Foreman wrote the screenplay from Brian Hooker's 1923 English translation of Rostand's play, and Dimitri Tiomkin wrote the score. José Ferrer won the Academy Award for Best Actor.\n\nThe rights trap is that the print's status is not proven here. For a work published in November 1950, the renewal window ran 1977 to 1978. A renewal filed in 1979 would have been a late filing, not part of the window. I found no 'Cyrano' entry in the part of the 1977 renewal catalog that my fetch returned, so that check is partial. I did not check the Jan-Jun 1978 or Jul-Dec 1978 catalogs, and I could not search the Copyright Office records. Claims that the film is in the public domain come from an uploader and from secondary reporting, and I did not verify them. Do the DIY search on all of these before you rely on the print. Tiomkin's score, the Hooker translation and the Rostand play each have their own copyright question, which this dossier did not resolve. Treat them as separate from the print.",
+  "editorial": "Cyrano de Bergerac (1950) was produced by Stanley Kramer Productions and released by United Artists. Michael Gordon directed, Carl Foreman wrote the screenplay from Brian Hooker's 1923 English translation of Rostand's play, and Dimitri Tiomkin wrote the score. José Ferrer won the Academy Award for Best Actor for the title role.\n\nThe rights trap is that the print's status is not proven. For a film published in 1950, the renewal window ran 1977 to 1978. I could read only the opening part of the January-June 1977 renewal catalog, and it did not reach the 'C' entries. I did not search the rest of 1977 or the 1978 renewals, and I could not search the Copyright Office records. The 'PD due to lack of renewal' label on one Internet Archive upload is an uploader's claim, not a record. Tiomkin's score, the Hooker translation and the Rostand play each raise a separate copyright question that this dossier did not resolve.",
   "faq": [
     [
       "Was the 1950 Cyrano de Bergerac renewed?",
-      "Not confirmed. I found no entry in the part of the 1977 renewal catalog that I could read. I did not check the Jan-Jun 1978 or Jul-Dec 1978 catalogs, or the Copyright Office public records. Run those searches before relying on the print."
+      "Not confirmed either way. I could read only the first part of the January-June 1977 renewal catalog and did not reach the 'C' entries. The rest of 1977, the 1978 renewals and the Copyright Office records are unchecked. Run those searches before relying on the print."
     ],
     [
       "Does the score or the source play have its own rights?",
-      "Possibly. Dimitri Tiomkin's score and Brian Hooker's 1923 translation, which the screenplay uses, were not cleared in this research. A sound film's track normally shares the film's status, but check the music and translation separately."
+      "Possibly. Dimitri Tiomkin's score and Brian Hooker's 1923 translation, which the screenplay uses, were not cleared in this research. A sound film's track normally shares the film's status, but check the music and the translation separately."
     ]
   ]
 }

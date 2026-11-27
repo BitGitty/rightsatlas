@@ -887,3 +887,4 @@
 {"date": "2026-11-27", "id": "love-laughs-at-andy-hardy-1945", "result": "blocked", "reasons": ["title/year does not match the queue row"]}
 {"date": "2026-11-27", "id": "king-of-the-rocket-men-1949", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "rage-at-dawn-1955", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "cyrano-de-bergerac-1950", "result": "refreshed", "reasons": []}
