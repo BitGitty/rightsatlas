@@ -1,0 +1,86 @@
+{
+  "id": "the-monster-maker-1944",
+  "title": "The Monster Maker",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives the release as April 15, 1944 by Producers Releasing Corporation. It says nothing about copyright renewal. No renewal search has been completed: the 1971 and 1972 Catalog of Copyright Entries volumes (Motion Pictures and Filmstrips) have not been searched for this title, so no volume, year or result is recorded. Renewal status is unknown and the print's status stays undetermined.",
+          "source": "Wikipedia (not primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_Maker"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says Albert Glasser supplied the film score, his first. A sound film's recorded track normally shares the film's copyright status, so the score likely follows the print, but the print itself is unresolved.",
+          "source": "Wikipedia (not primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_Maker"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writing to Lawrence Williams, Pierre Gendron and Martin Mooney. I could not confirm from that page whether the screenplay draws on an earlier literary source.",
+          "source": "Wikipedia (not primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_Maker"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1971 (archive.org) — check the renewal listings for “The Monster Maker”",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1972 (archive.org) — check the renewal listings for “The Monster Maker”",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/The_Monster_Maker",
+      "label": "The Monster Maker (1944) on the Internet Archive",
+      "quality": "Listed runtime 1:02:26, matching the 62-minute film; uploaded by dondeeley in 2008, publisher listed as Producers Releasing Corporation; page notes no restoration or added material. Completeness not checked frame by frame."
+    }
+  ],
+  "editorial": "The Monster Maker is a 62-minute horror film from Producers Releasing Corporation, released April 15, 1944. Sam Newfield directed it and Sigmund Neufeld produced it. J. Carrol Naish plays Dr. Igor Markoff, a mad scientist who spreads acromegaly, a disease that distorts bones and facial features. Ralph Morgan, Wanda McKay, Glenn Strange, Tala Birell and Ace the Wonder Dog are in the cast. Per Wikipedia, the score is Albert Glasser's first, and he was paid US$250 for it.\n\nThe rights question is renewal. A 1944 film was due for renewal in 1971-1972. No renewal search has been completed, so the print's status is open. Look in the 1971 and 1972 Catalog of Copyright Entries volumes for Motion Pictures and Filmstrips (links above). The Copyright Office's online public records site does not cover renewals from 1971-72. For those years, use the Copyright Office's pre-1978 card catalog or request a records search. Even if the print is clear, the score, any added titles and any later transfer remain separate layers to check.",
+  "faq": [
+    [
+      "Is The Monster Maker (1944) in the public domain?",
+      "Not confirmed. It was published in 1944, so it would be free only if its copyright was never renewed in 1971-1972. No renewal search has been completed. Check the 1971 and 1972 Catalog of Copyright Entries volumes for Motion Pictures and Filmstrips. The online Copyright Office catalog does not cover 1971-72 renewals. For those years, use its pre-1978 card catalog or request a records search."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Only after the renewal check. The Internet Archive hosts a copy, but hosting does not settle copyright. Even if the print is free, a transfer with new titles, music or other added material could carry its own protection."
+    ]
+  ]
+}

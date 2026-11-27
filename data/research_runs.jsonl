@@ -878,3 +878,6 @@
 {"date": "2026-11-27", "id": "the-arctic-giant-1942", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "the-mad-monster-1942", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "the-boogie-man-will-get-you-1942", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "the-mummy-strikes-1943", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "the-phantom-1943", "result": "blocked", "reasons": ["fact-check: renewal_search.renewal_years / print.evidence / editorial / faq: The renewal window is drawn too narrowly. The 15 chapters were released weekly from 24 Dec 1943 into spring 1944, so some chapters were probably registered in 1944. Their year-28 renewal window then runs into 1972. Also, 1971 has two half-year CCE Motion Pictures volumes (Jan-Jun and Jul-Dec), and only Jan-Jun is named. -> Set renewal_years to cover 1970, 1971 and 1972. List both 1971 half-year volumes and the 1972 volumes. Say the exact window depends on each chapter's registration date."]}
+{"date": "2026-11-27", "id": "the-monster-maker-1944", "result": "queued", "reasons": []}

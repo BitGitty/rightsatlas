@@ -1,0 +1,92 @@
+{
+  "id": "the-mummy-strikes-1943",
+  "title": "The Mummy Strikes",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "UNVERIFIED. The Internet Archive item is the Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1971 (Vol 25, Nos 1-2). An earlier check of this volume for 'Mummy Strikes' found no renewal. The search term, how the search was run and the pages covered were not recorded, so this is not cited as evidence of non-renewal. The 1970 volume has not been checked, and 1970 is inside the renewal window. The Copyright Office online catalog has not been searched, so the two-source non-renewal standard is not met.",
+          "source": "Catalog of Copyright Entries 1971 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Production facts: Famous Studios short distributed by Paramount, released February 19, 1943, directed by Isadore Sparber, produced by Sam Buchwald, described as the fourteenth of seventeen animated Technicolor Superman shorts.",
+          "source": "Wikipedia, The Mummy Strikes",
+          "url": "https://en.wikipedia.org/wiki/The_Mummy_Strikes"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track is part of the film, so it should share the print's status. Wikipedia's infobox lists Winston Sharples and Sammy Timberg under 'Music by'. This has not been checked against the film's title card or a primary source. Not resolved until the print's renewal status is.",
+          "source": "Wikipedia, The Mummy Strikes",
+          "url": "https://en.wikipedia.org/wiki/The_Mummy_Strikes"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Story credit: Jay Morton. The short is one of the Famous Studios/Paramount Superman cartoons. Whether the Superman character carries rights separate from the print is not sourced here and is unconfirmed. It needs a DC/Warner Bros. copyright or trademark source.",
+          "source": "Wikipedia, The Mummy Strikes",
+          "url": "https://en.wikipedia.org/wiki/The_Mummy_Strikes"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971
+    ],
+    "negative_result": "Not established. The Catalog of Copyright Entries 1971 Motion Pictures volume was checked once for The Mummy Strikes and no renewal was located, but the method and pages covered were not recorded, so this is unverified and not evidence of non-renewal. The 1970 volume has not been checked.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the printed Motion Pictures volumes for 1970 and 1971 by hand (renewals of 1943 works)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978 and later) — only helps for later assignments or recordations, not for 1970–71 renewals",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/mummy_strikes",
+      "label": "The Mummy Strikes (1943), Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Mummy Strikes is described by Wikipedia as the fourteenth of seventeen animated Technicolor Superman shorts. Famous Studios made it for Paramount, and it was released in February 1943. Isadore Sparber directed, Jay Morton wrote the story, Sam Buchwald produced, and Winston Sharples and Sammy Timberg are listed in Wikipedia's infobox for the music. Creators look for these shorts because the animation is lavish and the set-piece scenes are easy to clip.\n\nThe open question is Superman, not only the print. For a 1943 film, a renewal would have had to be filed in 1970 or 1971. An earlier look at the 1971 volume found no renewal, but the method was not recorded, so we do not rely on it. We have not checked the 1970 volume of the printed Catalog of Copyright Entries. Even if the print is free, the Superman character may carry separate rights that could be a risk for any new work that uses him. We have not confirmed that with a source. Reusing the cartoon unchanged is a different question from making new Superman material.",
+  "faq": [
+    [
+      "Is The Mummy Strikes free to reuse?",
+      "Not confirmed yet. A renewal would have been due in 1970 or 1971. Our earlier look at the 1971 Catalog of Copyright Entries found no renewal, but we did not record the method, so it is unverified, and the 1970 volume is unchecked. The Superman character may carry separate rights from the print. We have not confirmed that."
+    ],
+    [
+      "Does the music have its own copyright?",
+      "The soundtrack was recorded as part of the film, so it should share the print's status. Wikipedia's infobox lists Winston Sharples and Sammy Timberg for the music, which we have not checked against the title card. We have not confirmed a separate music registration either way."
+    ]
+  ]
+}
