@@ -1,0 +1,102 @@
+{
+  "id": "the-ape-1940",
+  "title": "The Ape",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A 1940 release needs a missing notice or a missing renewal to be public domain. The primary renewal window is 1968, the 28th year. The 1967 and 1969 volumes are adjacent years that cover early or late filings. No renewal for The Ape has been confirmed or ruled out. The volume and page ranges searched were not recorded, and there was no verified line-by-line read of the OCR text. This is not a verified absence.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1967 (archive.org), adjacent year",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1968 motion-picture volume, the primary renewal window for a 1940 release. A complete line-by-line read of the Motion Pictures sections is still needed. No renewal is confirmed or ruled out.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1968 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the film's own copyright status, so it follows the print layer, which is unresolved. No separate score registration was checked.",
+          "source": "RightsAtlas analysis",
+          "url": "https://archive.org/details/the_ape"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is reported to be based on a stage play. The play's publication and renewal status was not checked, so the story layer is unresolved.",
+          "source": "Wikipedia article on the film (background only, not a primary citation)",
+          "url": "https://en.wikipedia.org/wiki/The_Ape_(1940_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1968 motion pictures (archive.org): primary renewal window, check line by line for “The Ape”",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1967 motion pictures (archive.org): adjacent year",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "US Copyright Office public records (secondary check only; its online records start in 1978, so 1967-1969 renewals are found in the CCE volumes)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the_ape",
+      "label": "The Ape (1940), Internet Archive, 1:02:23, black and white",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/TheApe1940",
+      "label": "The Ape (1940), Internet Archive, alternate upload, 57:28 (shorter than the other upload, so it may be a shortened print; not verified)",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "The Ape (1940) is a Monogram Pictures horror film with Boris Karloff. The Internet Archive item the_ape runs 1:02:23 in black and white. Creators want it as a Karloff vehicle that is cheap to clip, riff on or screen.\n\nThe rights trap is that the print's status is not settled. A 1940 film is free only if it lacked a copyright notice or its renewal was missed. The renewal window is 1968, with 1967 and 1969 as adjacent years, and those years are checked in the Catalog of Copyright Entries volumes. No renewal has been confirmed or ruled out, because no verified line-by-line read has been done. The source play is a second layer whose term was not checked. Treat the film as unconfirmed until both are checked.",
+  "faq": [
+    [
+      "Is The Ape (1940) public domain in the US?",
+      "Not confirmed. It is a 1940 film, so it is free only if its copyright notice was missing or it was never renewed. The renewal window is 1968, with 1967 and 1969 as adjacent years. Those years need a line-by-line check of the Catalog of Copyright Entries motion-picture volumes. The Copyright Office online catalog is only a secondary check, because it covers records from 1978 onward. Copies exist on the Internet Archive, and its item pages show a Public Domain label. That label is the uploader's, not proof of status."
+    ],
+    [
+      "Can I use the Internet Archive copies of The Ape?",
+      "The Internet Archive's public-domain label is not proof of status. Do your own renewal check first. Also check the play it was adapted from, and any added material in a particular upload. The two uploads run 1:02:23 and 57:28, so the shorter one may be an edited print."
+    ]
+  ]
+}

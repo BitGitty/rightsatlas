@@ -1,0 +1,78 @@
+{
+  "id": "the-fighting-devil-dogs-1938",
+  "title": "The Fighting Devil Dogs",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, January-December 1966 (the archive.org full text of this volume), lists in its renewal registrations THE FIGHTING DEVIL DOGS, a photoplay in 3 reels by Republic Pictures Corp., © 9Jun38, registration 18130, renewed by Republic Corp. (PWH) on 20May66 as R386884. A text search of that volume's full text for the title returned this one entry. Renewal R386884 covers one registered three-reel unit. A 12-chapter serial would not run three reels, so this is probably a single chapter, but the entry does not say which one. Registrations and renewals for the other chapters, and for the serial as a whole, were not checked. Their status is undetermined. Only the 1966 volume was searched. Other years and volumes were not.",
+          "source": "Catalog of Copyright Entries 1966 Motion Pictures and Filmstrips (archive.org)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia describes The Fighting Devil Dogs as a 12-chapter Republic Pictures serial directed by William Witney and John English, with Lee Powell, Herman Brix, Eleanor Stewart and Montagu Love in the cast, released 28 May 1938. Nothing found ties registration 18130 to a specific chapter. The match is by title and studio only.",
+          "source": "Wikipedia, The Fighting Devil Dogs",
+          "url": "https://en.wikipedia.org/wiki/The_Fighting_Devil_Dogs"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, and the score is part of the production. Its status is expected to follow that of the film's registrations. Only registration 18130 / R386884, a three-reel unit matched by title and studio, was found. The status of the other chapters is unchecked, so the score status is undetermined. No separate music registration was checked.",
+          "source": "Same CCE renewal entry",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1966 Motion Pictures volume (archive.org), containing the renewal entry R386884",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Fighting Devil Dogs is a 12-chapter Republic Pictures serial from 1938, directed by William Witney and John English and released on 28 May 1938, according to Wikipedia.\n\nThe rights trap is that a renewal was found. The Catalog of Copyright Entries for 1966 records Republic Corp. renewing registration 18130, a three-reel photoplay titled The Fighting Devil Dogs registered on 9 June 1938, on 20 May 1966 as R386884. A three-reel length points to one chapter, not the whole serial, but the entry does not say which chapter. The renewal extended the copyright of that registered three-reel unit. Whether the other chapters were registered or renewed, together or separately, was not checked. Only the 1966 volume was searched. Do not treat the serial as free to reuse because of its age or its presence on archive sites. Check the status of each chapter before any commercial use.",
+  "faq": [
+    [
+      "Is The Fighting Devil Dogs (1938) in the public domain?",
+      "Unverified. A renewal exists for a three-reel registration with this title, so at least that part is protected. The 1966 Catalog of Copyright Entries lists renewal R386884, filed by Republic Corp. on 20 May 1966 for The Fighting Devil Dogs, registered as 18130 on 9 June 1938. The entry does not say which chapter it covers. The status of the other chapters is unverified, so check each chapter before use."
+    ],
+    [
+      "Do copies on the Internet Archive mean it is free to reuse?",
+      "No. Uploads on archive sites do not change copyright status. At least one registered three-reel unit under this title has a recorded renewal, so a copy being online is not evidence that it is free to use."
+    ]
+  ]
+}

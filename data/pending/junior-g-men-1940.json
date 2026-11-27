@@ -1,0 +1,87 @@
+{
+  "id": "junior-g-men-1940",
+  "title": "Junior G-Men",
+  "year": 1940,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal 12-chapter serial released in 1940. Renewal window is 1967-1968. The 1967 CCE Motion Pictures renewal volume was located, but the renewal listings were not fully searched and no specific pages were read for a Junior G-Men entry, so absence of a renewal is NOT established.",
+          "source": "Catalog of Copyright Entries, Parts 12-13, Motion Pictures and Filmstrips, 1967",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1968 CCE Motion Pictures volume. Located but the renewal section was not fully searched.",
+          "source": "Catalog of Copyright Entries, 1968",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1967,
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — online records start in 1978, so 1967-1969 renewals will NOT appear here; use only to look for a later registration or recorded transfer. Renewals from 1967-1969 appear only in the printed CCE volumes (archive.org scans below) and the Copyright Office's pre-1978 card catalog.",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1967 (archive.org) — check the renewals section by hand",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1968 (archive.org) — check the renewals section by hand",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1969 (archive.org) — check the renewals section by hand",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/jr_g_men_ep5",
+      "label": "Junior G-Men, Chapter 5: Trapped by Traitors (Internet Archive)",
+      "quality": "single chapter of the 12-chapter serial"
+    }
+  ],
+  "editorial": "Junior G-Men is a 12-chapter Universal serial released in 1940, directed by Ford Beebe and John Rawlins. It features the Dead End Kids as a street gang who help the FBI stop a group of saboteurs. A creator would want it for the cast and the pre-war saboteur/spy-ring plot.\n\nThe open question is the copyright status of the print. The serial was published after 1930, so it is free only if its copyright lapsed, and its renewal window was 1967-1968. The CCE renewal sections have not been fully searched here, so no renewal absence is confirmed. Chapters are posted on the Internet Archive with public-domain labels, but those labels are not a rights determination. The cast and franchise names are a separate trademark question that was not researched.",
+  "faq": [
+    [
+      "Is Junior G-Men safe to reuse?",
+      "Not yet confirmed. The print's status depends on whether Universal renewed it in 1967-1968, and that search is incomplete. Check the renewal sections of the 1967-1969 CCE volumes by hand, and the Copyright Office's pre-1978 card catalog, before relying on it. The online Copyright Office records only help for a later registration or recorded transfer."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "They are labelled public domain by the uploaders, but that label does not prove the status. Treat them as viewing copies until the renewal check is done. Music, trademarks and any added material are separate questions."
+    ]
+  ]
+}
