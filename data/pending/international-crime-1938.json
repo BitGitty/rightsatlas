@@ -1,0 +1,110 @@
+{
+  "id": "international-crime-1938",
+  "title": "International Crime",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": "Directed by Charles Lamont; Grand National Pictures, 1938",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips), Jan-Dec 1965, Vol 19, archive.org OCR text. A renewal for a 1938 film would be expected in the 1965-1967 volumes. In my fetch on 2026-11-27 I searched for 'International Crime' and 'Grand National' and found no hit. That fetch returned only about 39 KB of roughly 914,000 characters, so most of the volume was not searched. This is not a confirmed negative.",
+          "source": "Catalog of Copyright Entries 1965 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Jan-Dec 1966, Vol 20, archive.org OCR text. In my fetch on 2026-11-27 I searched for 'International Crime' and 'Grand National' and found no hit. That fetch returned only about 39 KB of roughly 837,000 characters, so most of the volume was not searched. This is not a confirmed negative.",
+          "source": "Catalog of Copyright Entries 1966 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Jan-Dec 1967, Vol 21, archive.org OCR text. In my fetch on 2026-11-27 I searched for 'International Crime' and 'Grand National' and found no hit. That fetch returned only about 39 KB of roughly 914,000 characters, so most of the volume was not searched. This is not a confirmed negative. Renewals filed this early are not in the Copyright Office online catalog, which does not cover them.",
+          "source": "Catalog of Copyright Entries 1967 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, and the recorded track would normally share the film's status. I did not check cue sheets or any separate renewal of the music, so I am not certifying it.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/international_crime"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the story 'Foxhound' to Theodore A. Tinsley and the screenplay to Jack Natteford, with additional dialogue by John W. Krafft. It describes the film as featuring a loose version of The Shadow. I did not check where 'Foxhound' was published or whether it was renewed, so the story layer is unresolved.",
+          "source": "Wikipedia, International Crime (1938 film), used as a pointer only",
+          "url": "https://en.wikipedia.org/wiki/International_Crime_(1938_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I found an Internet Archive upload of the film and no restoration release. Any modern print should be checked for added titles or a new score.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/international_crime"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": "Not confirmed. In a fetch on 2026-11-27, a text search of the archive.org OCR of the Catalog of Copyright Entries Motion Pictures volumes for 1965 (Vol 19), 1966 (Vol 20) and 1967 (Vol 21) for 'International Crime' and 'Grand National' found no hit. The fetch covered only about 39 KB of each volume of roughly 840,000-914,000 characters, so most of each volume was not searched. A renewal under a different title or claimant name, or an OCR miss, could also be overlooked, so check the volumes by hand.",
+    "diy_links": [
+      {
+        "label": "CCE 1965 Motion Pictures (Vol 19), archive.org — search inside for “International Crime”",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "CCE 1966 Motion Pictures (Vol 20), archive.org — search inside for “International Crime”",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "CCE 1967 Motion Pictures (Vol 21), archive.org — search inside for “International Crime”",
+        "url": "https://archive.org/details/catalogofc19673211213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/international_crime",
+      "label": "International Crime (1938), Internet Archive upload",
+      "quality": "standard"
+    }
+  ],
+  "editorial": "According to Wikipedia, International Crime (released 22 April 1938) is a 62-minute Grand National Pictures mystery directed by Charles Lamont. Rod La Rocque plays Lamont Cranston, who operates as The Shadow, and Astrid Allwyn, Thomas E. Jackson and William Pawley play opposite him. Wikipedia credits the story 'Foxhound' to Theodore A. Tinsley and the screenplay to Jack Natteford. A creator might want it as a pulp-era Shadow feature with a newspaper setting and a spy plot.\n\nThe film's copyright status is not settled. My text search of the Catalog of Copyright Entries OCR for 1965-1967 found no renewal, but it covered only part of each volume, so it does not prove that none exists. Check the volumes by hand before treating the film as public domain. The character and the source story are separate questions. The Shadow is a long-lived franchise, and I did not check whether the 'Foxhound' story or any Shadow trademark is still held by someone. The music is also unchecked. Do not market a new work as an official Shadow property without clearing the character.",
+  "faq": [
+    [
+      "Is the 1938 International Crime film itself still under copyright?",
+      "Not confirmed either way. A text search of the archive.org OCR of the 1965, 1966 and 1967 Catalog of Copyright Entries motion-picture volumes found no renewal, but the fetch covered only part of each volume. A renewal could also be filed under another title or claimant name, or be missed by OCR. Check the volumes by hand before relying on public-domain status."
+    ],
+    [
+      "Can I make new Shadow stories or use the Shadow name with this footage?",
+      "The footage is one thing and the character is another. I did not verify the status of the source story or of any Shadow trademark. Using the film unchanged is a different matter from calling a new work 'The Shadow', and that second use needs separate clearance."
+    ]
+  ]
+}

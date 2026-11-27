@@ -1,0 +1,110 @@
+{
+  "id": "letter-of-introduction-1938",
+  "title": "Letter of Introduction",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1966 volume (Vol 20, Jan-Dec 1966). Only the Jan-Jun name index was read verbatim, and it showed no Letter of Introduction entry. The Jul-Dec L renewals were not read verbatim, so absence of a renewal in this volume is unconfirmed. Not conclusive on its own.",
+          "source": "Catalog of Copyright Entries 1966, Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1965 volume (Vol 19, Jan-Dec 1965). The L section was not read verbatim (seen only in summary), so no finding is reported from this volume. Absence of a renewal is unconfirmed.",
+          "source": "Catalog of Copyright Entries 1965, Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia states: 'In 1966, the film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication,' citing Pierce, 'Forgotten Faces', Film History 19(2), 2007. This is a secondary claim. The Copyright Office public records were not searched, so no renewal-absence search is cited. A manual search of renewals filed 1965-1966 is still needed before treating the print as verified.",
+          "source": "Wikipedia, Letter of Introduction (film)",
+          "url": "https://en.wikipedia.org/wiki/Letter_of_Introduction_(film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music credit is Frank Skinner, per Wikipedia. This is a sound film, so the recorded track normally shares the print's status. That status is not yet confirmed, so the score is undetermined too.",
+          "source": "Wikipedia, Letter of Introduction (film)",
+          "url": "https://en.wikipedia.org/wiki/Letter_of_Introduction_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credited as written by Sheridan Gibney and Leonard Spigelgass, with screenplay by Bernice Boone. No source work was identified, so no underlying-story term could be checked.",
+          "source": "Wikipedia, Letter of Introduction (film)",
+          "url": "https://en.wikipedia.org/wiki/Letter_of_Introduction_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item 'Letter Of Introduction (1938) [Colorized, 4K, 60FPS]' was fetched. Its description says the 1938 black-and-white film was colorised, upscaled to 4K, and frame-rate boosted to 60 FPS in 2021 using AI (DeOldify, RIFE, FFmpeg). Colorization and frame interpolation are added material that can carry their own protection. The uploader's statement that it is public domain and copyright free is not a rights determination.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/letter-of-introduction-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1965,
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Letter of Introduction”, ~1965, 1966, 1967)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE 1966 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19663201213libr"
+      },
+      {
+        "label": "CCE 1965 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/LetterofIntroduction",
+      "label": "Letter of Introduction (1938), Universal Pictures, dir. John M. Stahl, black and white",
+      "quality": "standard-definition feature, original black-and-white print"
+    }
+  ],
+  "editorial": "Letter of Introduction is a 1938 Universal comedy-drama directed and produced by John M. Stahl. Adolphe Menjou plays an aging stage actor angling for a Broadway comeback, and Andrea Leeds plays the estranged daughter who turns up. Ann Sheridan, George Murphy and Eve Arden are in the cast, and ventriloquist Edgar Bergen appears with Charlie McCarthy and Mortimer Snerd. It opened in the US on August 5, 1938. Music is credited to Frank Skinner and photography to Karl Freund. A creator might want it for the Bergen and McCarthy footage, or for a backstage-Broadway period feel.\n\nThe rights trap is the renewal record. The Jan-Jun 1966 Catalog of Copyright Entries index, read verbatim, showed no Letter of Introduction entry. The other sections, including the Jul-Dec 1966 and 1965 L entries, were not read verbatim, so absence of a renewal is unconfirmed. The Copyright Office public records were not searched. Wikipedia says the film lapsed into the public domain in 1966, but it is a secondary source. Confirm the absence yourself before relying on it. Also avoid the AI-colorized 4K upload on the Internet Archive. Its colorization and interpolation are added material, and the uploader's 'copyright free' label does not settle anything.",
+  "faq": [
+    [
+      "Is Letter of Introduction (1938) safe to reuse?",
+      "Not yet confirmed. Wikipedia says its registration was not renewed. The Jan-Jun 1966 Catalog of Copyright Entries index, read verbatim, showed no renewal, but the other sections were not read verbatim, so absence is unconfirmed. The Copyright Office public records were not searched. Search publicrecords.copyright.gov for a renewal before reusing it, and use the plain black-and-white print rather than the colorized 4K upload."
+    ],
+    [
+      "Does the colorized 4K version on the Internet Archive have the same status?",
+      "No. Per its description, the colorized, upscaled, 60 FPS item adds AI colorization and frame interpolation to the original film. Those additions can carry their own protection, so source the original black-and-white print instead."
+    ]
+  ]
+}
