@@ -903,3 +903,6 @@
 {"date": "2026-11-27", "id": "the-fighting-devil-dogs-1938", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "the-ape-1940", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "junior-g-men-1940", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "horror-island-1941", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "the-ghost-train-1941", "result": "blocked", "reasons": ["not_pd/restored claim without a renewal-registration citation"]}
+{"date": "2026-11-27", "id": "electric-earthquake-1942", "result": "queued", "reasons": []}

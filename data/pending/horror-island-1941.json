@@ -1,0 +1,97 @@
+{
+  "id": "horror-island-1941",
+  "title": "Horror Island",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1968 volume, lists a renewal for HORROR ISLAND, a photoplay by Universal Pictures Co. (original registration L10364, 2 Apr 1941), claimed by Universal Pictures, a division of Universal City Studios, Inc., dated 21 May 1968. The renewal was filed in 1968, the 28th year of the first copyright term (1941 counted as year 1), so it was timely and the 1941 copyright was extended.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1968 volume (archive.org)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The 1968 renewal covers the photoplay, which includes its recorded optical soundtrack. Music credits and separate music copyrights (pre-existing or separately registered music) were not checked, and the Wikipedia page fetched does not give a music credit. The status of the music itself is undetermined.",
+          "source": "Catalog of Copyright Entries, 1968 volume (renewal of the photoplay); Wikipedia, Horror Island (film)",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item description says the film was based on the short story \"Terror of the South Seas\" by Alex Gottlieb. The film's 1968 renewal covers the film only. The story's own publication, registration and renewal status was not checked, so the story layer is undetermined.",
+          "source": "Internet Archive item description, Horror Island 1941",
+          "url": "https://archive.org/details/horror-island-1941_202506"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the film as based on \"Terror of the South Seas\" by Alex Gottlieb, lists a budget of $93,000, a release date of 28 March 1941 and a running time of 60 minutes.",
+          "source": "Wikipedia, Horror Island (film)",
+          "url": "https://en.wikipedia.org/wiki/Horror_Island_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969,
+      1970
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Horror Island”, ~1968, 1969, 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/horror-island-1941_202506",
+      "label": "Horror Island (1941) on the Internet Archive. This is an upload, not a rights clearance.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Horror Island is a 1941 Universal film directed by George Waggner. It stars Dick Foran, Peggy Moran, Leo Carrillo and Fuzzy Knight. The Internet Archive describes it as a mystery and horror film that cost $93,000. It is based on the short story \"Terror of the South Seas\" by Alex Gottlieb. According to Wikipedia, the film was released on 28 March 1941 and runs 60 minutes.\n\nThe trap is that the film is not free. The 1968 Catalog of Copyright Entries lists the original registration as L10364 (2 April 1941) and a renewal dated 21 May 1968. The renewal was filed in 1968, the 28th year of the first term (1941 counted as year 1), so it was timely. It extended protection, so the film has not entered the public domain. A copy on the Internet Archive does not clear rights. The renewal covers the film. The separate status of the underlying story and any music was not checked. Do not reuse clips or the soundtrack without a license from Universal.",
+  "faq": [
+    [
+      "Is Horror Island (1941) in the public domain?",
+      "No. Universal registered it in 1941 and renewed the copyright in May 1968, according to the Catalog of Copyright Entries. The renewal kept the film protected, so the Internet Archive upload is not a clearance."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy in my own video?",
+      "Not safely. The film is under a 1968 renewal held by Universal. The recorded soundtrack is part of the renewed film, but separate music rights and the underlying story's status were not checked. You would need permission from Universal, the renewal claimant."
+    ]
+  ]
+}

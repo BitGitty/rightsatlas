@@ -1,0 +1,95 @@
+{
+  "id": "electric-earthquake-1942",
+  "title": "Electric Earthquake",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's Fleischer Studios article says the Superman cartoons are public domain because their original copyrights were not renewed. The Copyright Office public catalog was not searched for this title, so that claim is unconfirmed here. For the 1970 Catalog of Copyright Entries Motion Pictures volume (452 pages, about 914,000 characters of OCR text), only the first roughly 39,000 characters were read verbatim. That covers the front matter and the start of the 'A' entries, through about 'Arithmetic Review Series'. Electric Earthquake would be filed under 'E' and Superman under 'S', so the relevant entries were not searched. This is not a conclusive negative. The 1969 and 1971 volumes were not text-searched.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1970",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item credits music by Sammy Timberg. As a sound film, the track normally shares the film's status, so it stays undetermined until the print's renewal status is confirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/superman_electric_earthquake"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short stars Superman and Lois Lane. The Internet Archive item lists Action Comics and Superman Magazine among its publishers. The character comes from the comics, and the film's copyright status does not settle the comics' separate copyright. Wikipedia's Fleischer Studios article says ancillary rights, such as merchandising, are retained by Warner Bros. Entertainment. The comics' renewal status was not checked.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/superman_electric_earthquake"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — general search (renewals filed in 1969–1971 appear in the CCE Motion Pictures volumes below; this site only helps if a late or unusual filing exists)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1970 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1971 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/superman_electric_earthquake",
+      "label": "Superman: Electric Earthquake (1942) on the Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Electric Earthquake is a 1942 Superman cartoon. The Internet Archive lists Dave Fleischer as director and Paramount Pictures among the publishers. A mad scientist tries to blow up Manhattan, Lois Lane investigates, and Superman saves the day. The Internet Archive credits Seymour Kneitel and Isadore Sparber for the story and Sammy Timberg for the music. A creator might want it as a ready-made piece of 1940s animation.\n\nWikipedia's Fleischer Studios article says the Superman cartoons are public domain because their original copyrights were not renewed. I could not confirm that. I read only the first part of the 1970 catalog's text, which does not reach the E or S entries, and I did not search the Copyright Office records. The print is marked undetermined here. The larger trap is Superman himself. The character comes from the comics and is not covered by the cartoon's status. Wikipedia says Warner Bros. retains the ancillary and merchandising rights, so reusing the footage is a different matter from making new Superman material.",
+  "faq": [
+    [
+      "Can I reuse the Electric Earthquake footage?",
+      "Probably, but I have not confirmed it. Wikipedia says the Superman cartoons are public domain because their copyrights were not renewed. I could not check this: I read only the early part of the 1970 catalog text, and I did not search the Copyright Office records. Check the 1969, 1970 and 1971 CCE Motion Pictures volumes before relying on the footage."
+    ],
+    [
+      "Does that let me make new Superman stories or sell merchandise?",
+      "No. Any status the cartoon has applies to the film only. Superman comes from the comics, and Wikipedia says Warner Bros. retains merchandising and other ancillary rights. New Superman stories or merchandise could infringe copyright or trademark."
+    ]
+  ]
+}
