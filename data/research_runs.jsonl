@@ -894,3 +894,6 @@
 {"date": "2026-11-27", "id": "the-farmers-wife-1928", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "one-good-turn-1931", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "if-i-had-a-million-1932", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "the-death-kiss-1932", "result": "blocked", "reasons": ["title/year does not match the queue row"]}
+{"date": "2026-11-27", "id": "the-whispering-shadow-1933", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "the-lawless-frontier-1934", "result": "queued", "reasons": []}

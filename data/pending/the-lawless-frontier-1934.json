@@ -1,0 +1,92 @@
+{
+  "id": "the-lawless-frontier-1934",
+  "title": "The Lawless Frontier",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1961 (Vol 15 No 1-2). For a 1934 work, renewal had to be filed in 1961 or 1962 (year 27 or 28 after publication), so the 1961 and 1962 volumes are the relevant ones. The archive.org page confirms the volume. Only part of its OCR text (about 39,000 of about 913,000 characters, the start of the alphabet) was read directly. The rest was seen only as a tool-generated summary. The 'L' entries were not read directly. No renewal was confirmed or ruled out. Layer not fully searched.",
+          "source": "Internet Archive, CCE Third Series Parts 12-13, 1961",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1962 (Vol 16 No 1-2). Renewal year 28 for a 1934 work. Only about 179,000 of about 827,000 OCR characters were read directly, and the rest was seen only as a tool-generated summary. The summary did not report 'Lawless Frontier', but that is not a full-volume scan. Layer not fully searched.",
+          "source": "Internet Archive, CCE Third Series Parts 12-13, 1962",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not checked. Sound film, so the recorded track may share the print's status, but no music credits or music registrations were looked up.",
+          "source": "not checked",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Not checked. Robert North Bradbury is credited with the screenplay. Whether an underlying source work exists was not researched.",
+          "source": "not checked",
+          "url": null
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962
+    ],
+    "negative_result": "No renewal for 'The Lawless Frontier' was confirmed or ruled out. Only parts of the 1961 and 1962 CCE Motion Pictures volumes were read directly, and only for the exact title. The 1934 and 1935 registration volumes were not checked, so the original registration and its exact title are unconfirmed. Title variants and claimant names (Monogram, Lone Star, Paul Malvern) were not searched. The Copyright Office public catalog was not queried.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records. Search 'Lawless Frontier' and the claimants Monogram, Lone Star and Paul Malvern.",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org). Browse the 1934-1935 registration volumes and the 1961 and 1962 renewal volumes by hand.",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-lawless-frontier",
+      "label": "The Lawless Frontier on the Internet Archive (listing credits Monogram Pictures, 1934; no preview available, completeness unconfirmed)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Lawless Frontier is a John Wayne B-western released November 22, 1934, distributed by Monogram Pictures. Robert N. Bradbury directed from his own screenplay. The cast includes Sheila Terry, George \"Gabby\" Hayes, Earl Dwire, Yakima Canutt and Gordon De Main. It suits Wayne retrospectives, early-western clip reels and Hayes or Canutt compilations.\n\nThe copyright status is not settled. Renewal for a 1934 work was due in 1961 or 1962. Only parts of those two Catalog of Copyright Entries volumes were read, so a renewal was neither found nor ruled out. The 1934 registration, title variants and the Copyright Office catalog were not checked. The score and source story were not checked either. Check all of this by hand before you rely on it.",
+  "faq": [
+    [
+      "Is the print of The Lawless Frontier free to reuse in the US?",
+      "Not confirmed. A 1934 film needed a renewal in 1961 or 1962 to stay protected. Only parts of the CCE volumes for those years were read, and no renewal was confirmed or ruled out. Search the scanned volumes and the Copyright Office catalog by hand. Score, source material and any added material are tracked separately."
+    ],
+    [
+      "Can I use the Internet Archive copy as-is?",
+      "The Internet Archive item lists Monogram Pictures and 1934, but it shows no preview, and whether it is a complete print is not confirmed. Its status is unresolved, so clear it before use. Check any copy for added titles, music or edits, which could be protected."
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "the-whispering-shadow-1933",
+  "title": "The Whispering Shadow",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released January 21, 1933 by Mascot Pictures, so it is protected unless the notice or the 28th-year renewal failed. The renewal window is 1960-1962. The 1960 and 1961 Catalog of Copyright Entries motion-picture volumes were only partly text-searched (about 8% of each file was read), and the 1962 volume's text could not be fetched. The Copyright Office public-records site could not be queried by script. No renewal was found, but absence is not confirmed.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1960",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound serial. Wikipedia credits Lee Zahler, uncredited, for the music. The recorded track normally shares the film's own copyright status, so it follows the print's status, which is unresolved. A separate Zahler copyright was not checked.",
+          "source": "Wikipedia, The Whispering Shadow",
+          "url": "https://en.wikipedia.org/wiki/The_Whispering_Shadow"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia article names no published source, which suggests an original serial story. It was not checked against the film's own copyright registration.",
+          "source": "Wikipedia, The Whispering Shadow",
+          "url": "https://en.wikipedia.org/wiki/The_Whispering_Shadow"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961,
+      1962
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Whispering Shadow”, ~1960, 1961, 1962)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1960 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1961 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1962 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/whispering-shadow",
+      "label": "The Whispering Shadow (1933), all 12 chapters, Internet Archive",
+      "quality": "Full 12-chapter serial as separate MP4 files"
+    }
+  ],
+  "editorial": "The Whispering Shadow is a 12-chapter Mascot Pictures serial released January 21, 1933. Bela Lugosi plays Professor Adam Anton Strang, a wax-museum owner suspected of being a death-ray killer who directs his agents by television. Colbert Clark and Albert Herman directed. Karl Dane appears in what Wikipedia lists as his last role. A reuser would want it for the Lugosi casting, the early sci-fi gadgetry and the cliffhanger structure. The Internet Archive hosts all twelve chapters.\n\nThe rights trap is that the print's status is unresolved. A 1933 film is free only if its notice or its 1960-1962 renewal failed. We could not confirm either, and we checked only part of the catalog text. Search the Copyright Office records and the 1960-62 catalog volumes yourself before relying on it. An Internet Archive upload, even with a Creative Commons licence tag, does not settle the copyright. Check any feature-length cut or later release for added material.",
+  "faq": [
+    [
+      "Is The Whispering Shadow (1933) safe to reuse?",
+      "Not yet confirmed. It was released in 1933, so it is free only if the notice or the 1960-62 renewal failed. Our check found no renewal but was incomplete, so verify it in the Copyright Office records and the catalog volumes before commercial use."
+    ],
+    [
+      "Does the Internet Archive's Creative Commons tag make it free to use?",
+      "No. An uploader's licence tag does not decide the film's copyright. The status depends on the original 1933 copyright and its renewal."
+    ]
+  ]
+}
