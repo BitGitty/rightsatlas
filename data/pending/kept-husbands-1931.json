@@ -1,0 +1,101 @@
+{
+  "id": "kept-husbands-1931",
+  "title": "Kept Husbands",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the film entered the US public domain in 1959 because the copyright was not renewed in the 28th year. That is a secondary source. The Catalog of Copyright Entries volumes for 1958 and 1959 were not searched to completion in this session, so non-renewal is not confirmed from primary records.",
+          "source": "Wikipedia, Kept Husbands",
+          "url": "https://en.wikipedia.org/wiki/Kept_Husbands"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Max Steiner. It is a sound film, so the recorded track normally shares the film's own status, which is still undetermined. The underlying composition's status was not checked.",
+          "source": "Wikipedia, Kept Husbands",
+          "url": "https://en.wikipedia.org/wiki/Kept_Husbands"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the original story to Louis Sarecky, the film's associate producer, with the adaptation by Forrest Halsey and Alfred Jackson. No earlier published source was found, so it appears to be an original 1931 story. Its separate copyright status was not checked.",
+          "source": "Wikipedia, Kept Husbands",
+          "url": "https://en.wikipedia.org/wiki/Kept_Husbands"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive lists a user upload titled 'kept husbands 1931 [colorised, 4k, 60FPS]'. Its description says the black-and-white film was colorised, upscaled to 4K and frame-rate boosted to 60 FPS in 2021 using AI tools. Colorization and upscaling are added material and can carry their own protection. No institutional restoration was confirmed.",
+          "source": "Internet Archive item page",
+          "url": "https://archive.org/details/kept-husbands-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1959 (check the Renewal Registrations section)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1958 (check the Renewal Registrations section)",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Cumulative Series, Motion Pictures 1950-1959",
+        "url": "https://archive.org/details/Motionpict19591960librrich0008"
+      },
+      {
+        "label": "US Copyright Office public records (secondary check only; covers records from 1978 onward, search “Kept Husbands” for any later-filed record)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/kept-husbands-1931",
+      "label": "Kept Husbands (1931), Internet Archive",
+      "quality": "unverified quality"
+    }
+  ],
+  "editorial": "Kept Husbands is a Radio Pictures (RKO) comedy-drama directed by Lloyd Bacon and released on February 22, 1931. Joel McCrea plays a former All-American football star turned steel-mill supervisor who marries the mill owner's spoiled daughter, played by Dorothy Mackaill. Ned Sparks, Mary Carr and Clara Kimball Young are in the cast. Max Steiner is credited with the music.\n\nThe film was published in 1931, so its status depends on renewal, not on term. Wikipedia says the copyright was not renewed in the 28th year, but that claim is not yet backed by a primary record. Check the Renewal Registrations sections of the 1958 and 1959 Catalog of Copyright Entries before relying on it. The trap for a reuser is that an upload labelled public domain, or a colorised copy, can add material that is protected. Clear the specific copy you use.",
+  "faq": [
+    [
+      "Is Kept Husbands (1931) public domain in the US?",
+      "Probably, but not confirmed here. It was published in 1931, so term expiry does not apply. Wikipedia, a secondary source, states the copyright was not renewed. That is unverified. Check the Renewal Registrations sections of the 1958 and 1959 Catalog of Copyright Entries. Use publicrecords.copyright.gov only as a secondary check for any later-filed record."
+    ],
+    [
+      "Can I use the colorised or 4K versions on the Internet Archive?",
+      "Not safely without checking. Colorization, upscaling, new titles or added audio can be protected even if the original film is not. The Internet Archive item kept-husbands-1931 may be a better starting point, but its contents are unverified. Check the file itself before use."
+    ]
+  ]
+}
