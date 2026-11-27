@@ -78,7 +78,7 @@
   },
   "1977motionpictur3311213libr": {
    "ok": true,
-   "film": "africa-screams-1949",
+   "film": "cyrano-de-bergerac-1950",
    "kind": "evidence"
   },
   "All.Quiet.on.the.Western.Front.1930_201605": {
@@ -244,6 +244,16 @@
   "silent-civilization": {
    "ok": true,
    "film": "civilization-1915",
+   "kind": "watch"
+  },
+  "cyrano-de-bergerac-1950-by-michael-gordon": {
+   "ok": true,
+   "film": "cyrano-de-bergerac-1950",
+   "kind": "evidence"
+  },
+  "Cyrano_DeBergerac": {
+   "ok": true,
+   "film": "cyrano-de-bergerac-1950",
    "kind": "watch"
   },
   "dementia-13-1963_202312": {
