@@ -1,0 +1,97 @@
+{
+  "id": "the-tiger-woman-1944",
+  "title": "The Tiger Woman",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal status is unconfirmed and needs a manual check. The archive.org full text of the Catalog of Copyright Entries, Third Series, vol. 25, Parts 12-13, No. 1, Motion Pictures and Filmstrips, January-June 1971, was read for this review. No TIGER WOMAN entry was found in that text, and the text may be incomplete or poorly scanned. The archive.org item covers only January-June 1971. The July-December 1971 volume and the 1972 volumes (January-June and July-December) were not searched. No renewal entry for any chapter of this serial has been confirmed, and none should be assumed either way. A renewal for a 1944 work would fall in 1971 (year 27) or 1972 (year 28).",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Jun 1971, vol. 25, no. 1",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound serial, so the recorded track normally shares the print's copyright status, which depends on the unresolved renewal question above. No separate score or composer rights were researched.",
+          "source": "RightsAtlas research note",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No underlying literary source was identified, and none is cited here. This was not researched in depth.",
+          "source": "RightsAtlas research note",
+          "url": ""
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page describes the work as a '12-chapter cliffhanger serial, colorized'. That label comes from the uploader's item description. The video itself was not viewed, so the colorization is unverified. If it is real, colorization is added material that can carry its own copyright. No formal restoration release was identified.",
+          "source": "Internet Archive item page and metadata",
+          "url": "https://archive.org/details/tiger-woman-1944"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures volumes for 1971 and 1972 (archive.org) — primary source; look for TIGER WOMAN under T in every 1971 and 1972 volume",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures+1971+1972"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Jan-Jun 1971 Motion Pictures volume (archive.org) — searched without finding an entry; the other 1971 and 1972 volumes remain",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "US Copyright Office public records — optional check only (its online records start in 1978, so 1971-72 renewals will not appear there)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/tiger-woman-1944",
+      "label": "The Tiger Woman (1944), all 12 chapters (Internet Archive; described as colorized, unverified)",
+      "quality": "MPEG4 640x480, 12 chapter files, described as colorized"
+    }
+  ],
+  "editorial": "The Tiger Woman is a 12-chapter cliffhanger serial from 1944. Per the Internet Archive description, Linda Stirling plays the Tiger Woman. Greedy oil speculators try to force her and her band of warriors from their jungle home, and Allan Lane plays Allen Saunders, who works for a competing oil company and helps her. For a creator it is a ready supply of episodic serial footage with chapter endings that can be cut into clips.\n\nThe rights question is renewal, and it is unresolved. A 1944 serial would have needed renewal in 1971 or 1972 to stay protected. We searched the January-June 1971 Catalog of Copyright Entries text and found no TIGER WOMAN entry. We did not search the July-December 1971 volume or the 1972 volumes. We have not confirmed whether any chapter was renewed. Check the 1971 and 1972 Motion Pictures volumes before relying on the serial being public domain. The popular Internet Archive copy is described as colorized. We have not viewed it to check, and if it is colorized, the colorization may carry its own rights.",
+  "faq": [
+    [
+      "Can I reuse clips from The Tiger Woman (1944)?",
+      "Not safely yet. Renewal status is unconfirmed. We found no TIGER WOMAN entry in the January-June 1971 Catalog of Copyright Entries, but we did not search the other 1971 volume or the 1972 volumes. Check the 1971 and 1972 Motion Pictures volumes before using any chapter commercially."
+    ],
+    [
+      "Does the colorized Internet Archive copy change the rights?",
+      "Possibly. The archive item describes itself as colorized, but we have not checked the video. If it is colorized, that added material can be protected separately. A clean black-and-white original print would avoid that issue."
+    ]
+  ]
+}

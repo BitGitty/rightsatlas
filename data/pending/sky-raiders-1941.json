@@ -1,0 +1,86 @@
+{
+  "id": "sky-raiders-1941",
+  "title": "Sky Raiders",
+  "year": 1941,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal serial released April 8, 1941. The renewal window is 1968-1969. The Catalog of Copyright Entries volumes for 1968 (catalogofc19683221213libr) and 1969 (catalogofc19693231213libr) were identified, but their renewal entries were not read, so no renewal was confirmed or ruled out.",
+          "source": "Internet Archive, Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips 1968",
+          "url": "https://archive.org/details/catalogofc19683221213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to Charles Previn. The recorded track is part of the sound film and would normally share the film's own copyright status, which is unresolved.",
+          "source": "Wikipedia, Sky Raiders",
+          "url": "https://en.wikipedia.org/wiki/Sky_Raiders"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writers as Eliot Gibbons, Clarence Upson Young and Paul Huston and names no source material. The screen story is covered by the film's own copyright status.",
+          "source": "Wikipedia, Sky Raiders",
+          "url": "https://en.wikipedia.org/wiki/Sky_Raiders"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1968,
+      1969
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1968, Motion Pictures and Filmstrips (archive.org) — check for a Sky Raiders renewal entry",
+        "url": "https://archive.org/details/catalogofc19683221213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1969, Motion Pictures and Filmstrips (archive.org) — check for a Sky Raiders renewal entry",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/SkyRaidersChapter1Corrected",
+      "label": "Sky Raiders, Chapter 1 (Internet Archive upload)",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Sky Raiders is a Universal serial released April 8, 1941. It was directed by Ford Beebe and Ray Taylor and stars Donald Woods as Captain Bob Dayton, with Billy Halop, Robert Armstrong and Eduardo Ciannelli. Charles Previn is credited with the music. A creator might want it for the Billy Halop and Robert Armstrong casting.\n\nThe open question is the print. A 1941 film is free only if its copyright was never renewed in the 1968-1969 window. We identified the 1968 and 1969 Catalog of Copyright Entries volumes but did not read their renewal entries. We have not searched for a renewal, so we have no confirmed renewal and no confirmed absence of one. Universal's name on the film is not a trademark clearance either. Check the renewal records yourself before treating the print as free.",
+  "faq": [
+    [
+      "Is Sky Raiders (1941) in the public domain?",
+      "Not confirmed. We have not searched for a renewal. The 1968 and 1969 renewal sections have not been read, so renewal status is unknown. Until you have checked, treat the film as possibly still protected."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Hosting on archive.org does not show a film is free of copyright. The upload is a copy of Chapter 1 only. Your right to reuse it depends on the 1941 copyright's renewal status. Check that status first."
+    ]
+  ]
+}

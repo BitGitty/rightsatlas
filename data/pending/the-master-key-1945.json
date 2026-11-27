@@ -1,0 +1,74 @@
+{
+  "id": "the-master-key-1945",
+  "title": "The Master Key",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1973 volume (Vol 27 No 1-2): all 13 chapters of THE MASTER KEY (Universal Pictures Co., works made for hire) are renewed in the 28th year. Chapter 1, 'Trapped by Flames', was registered 18Apr45 as L13256 and renewed 18Dec72 as R542838. Chapters 2-13 were renewed the same day as R542839 through R542850. The print is under renewed copyright, not public domain.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures, Jan-Dec 1973",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound serial. The recorded soundtrack and any score are part of the same renewed motion-picture copyright as the picture, so the track shares the print's status.",
+          "source": "Derived from the renewal entries cited under the print layer",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973,
+      1974
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1973 (archive.org) — Master Key renewals R542838-R542850",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Master Key is a 13-chapter Universal serial released on April 24, 1945. Ray Taylor and Lewis D. Collins directed. Milburn Stone plays FBI agent Tom Brant and Jan Wiley plays reporter Janet Lowe. Dennis Moore, Addison Richards, Byron Foulger and Maris Wrixon are also in the cast, and Lash LaRue makes his screen debut. Nazi spies led by a figure called the Master Key kidnap a professor to get his machine for extracting gold from seawater. A creator might want it for its wartime spy plot and its cliffhanger set pieces, such as the burning building in chapter 1 and the runaway car in chapter 5.\n\nIt is not free to reuse. Universal registered each of the 13 chapters in 1945 (L13256 to L13367). All 13 were renewed on 18 December 1972 as R542838 to R542850, and the 1973 Catalog of Copyright Entries lists them. Copies that circulate online as 'public domain' are not covered by that label. Treat the picture and soundtrack as copyrighted, and get a licence from the rights holder before using any clip.",
+  "faq": [
+    [
+      "Is The Master Key (1945) in the public domain?",
+      "No. The Catalog of Copyright Entries for 1973 lists renewals for all 13 chapters, dated 18 December 1972 (R542838 to R542850). The copyright was kept alive, so the film is still protected."
+    ],
+    [
+      "Can I use a clip because it is posted on a free-video site?",
+      "No. A copy being posted online does not change the film's copyright status. The renewal entries cover the picture and its soundtrack, so clip use needs permission from the rights holder."
+    ]
+  ]
+}
