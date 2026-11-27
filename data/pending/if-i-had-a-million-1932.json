@@ -1,0 +1,81 @@
+{
+  "id": "if-i-had-a-million-1932",
+  "title": "If I Had a Million",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips, 1959), renewal listing: 'IF I HAD A MILLION, a photoplay in nine reels by Paramount Publix Corp. © 18Nov32; L323. Emka, Ltd. (PWH); 7Dec59; R247311.' The renewal was filed in the 28th year, so the 1932 copyright was renewed.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1959 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track is part of the film as registered and renewed, so it shares the print's status (renewed, R247311). I did not check separate music-publisher copyrights for individual songs or cues.",
+          "source": "Derived from the renewal entry for the film",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is based on the 1931 novel Windfall by Robert Hardy Andrews. I did not check whether the novel's copyright was renewed. The film's own renewal protects the film regardless of the novel's status.",
+          "source": "Wikipedia, If I Had a Million (background only, not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/If_I_Had_a_Million"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1959 (archive.org): renewal entry R247311",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "US Copyright Office public records (search 'If I Had a Million')",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "If I Had a Million is Paramount's 1932 pre-Code anthology. A dying tycoon, John Glidden (Richard Bennett), gives $1 million each to people picked at random from a telephone directory. Seven credited directors worked on it: Ernst Lubitsch, Norman Taurog, Stephen Roberts, Norman Z. McLeod, James Cruze, William A. Seiter and H. Bruce Humberstone. The cast includes Gary Cooper, Charles Laughton, George Raft, W. C. Fields, Alison Skipworth, Charles Ruggles and Mary Boland. Lubitsch's \"The Clerk\" (with Laughton) and the Fields and Skipworth \"Road Hogs\" segment are the pieces most people want to clip.\n\nThe copyright did not lapse. Paramount Publix registered the film on 18 November 1932 (L323). Emka, Ltd. renewed it on 7 December 1959 as proprietor for a work made for hire (R247311), as printed in the 1959 Catalog of Copyright Entries. The film is therefore still under US copyright, and a free copy online does not change that. Anyone planning to reuse it should license it from the current rights holder and should not treat the 1932 date as a free pass.",
+  "faq": [
+    [
+      "Is If I Had a Million in the public domain in the US?",
+      "Not on the evidence I found. The 1959 Catalog of Copyright Entries lists a renewal for the film (R247311, filed 7 December 1959 by Emka, Ltd.). That renewal kept the 1932 copyright alive, so the print is not public domain. Clearance is needed for any reuse."
+    ],
+    [
+      "Can I use clips of one segment, like Lubitsch's 'The Clerk'?",
+      "A segment belongs to the same renewed copyright as the whole film, so clipping it does not avoid the problem. Use needs a license, or a fair-use analysis for criticism, commentary or teaching. Copies posted online are not a sign that the film is free."
+    ]
+  ]
+}

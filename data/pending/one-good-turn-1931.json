@@ -1,0 +1,66 @@
+{
+  "id": "one-good-turn-1931",
+  "title": "One Good Turn",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released on 31 Oct 1931, so its renewal window is the 28th year, 31 Oct 1958 to 31 Oct 1959. Renewal would normally be filed in 1959, or in late 1958 if filed early. The Jan-Jun 1958 volume (Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1958, Vol. 12, Nos. 1-2) is too early for an Oct 1931 release, so a negative result there tells us almost nothing. Search method: a partial fetch of the archive.org OCR text for that volume (about 43% retrieved verbatim, the rest truncated), looking for the string 'ONE GOOD TURN'. The fetched text shows a name-index line 'ONE GOOD TURN. (R)' under Associated Artists Productions Corp. We did not retrieve the full renewal entry, so we cannot confirm its claimant basis, original copyright date or renewal number, and we have not confirmed which film it covers. Separately, a partial fetch of the Jan-Jun 1959 volume (Vol. 13, Nos. 1-2, about 49% retrieved verbatim) found no 'ONE GOOD TURN' entry in the portions read. We could not locate an archive.org item for the Jul-Dec 1958 volume. No volume has been fully searched, so no renewal for the 1931 Laurel & Hardy short has been found or ruled out. The renewal records still have to be checked by hand.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1958 (Jan-Jun, Vol. 12) and 1959 (Jan-Jun, Vol. 13) (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “One Good Turn” (renewal window: 1959 is the primary year, late 1958 the early-renewal tail)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Jul-Dec 1958 and 1959 Motion Pictures renewal volumes by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "One Good Turn is a 1931 two-reel Laurel & Hardy comedy. A creator might want it for the Laurel & Hardy name and for 1931 sound-era slapstick.\n\nThe rights question is the renewal, and we have not settled it. The film came out on 31 October 1931, so its renewal window runs from late 1958 to 31 October 1959. The Jan-Jun 1958 volume we checked predates that window, so it cannot settle the question. It does contain a name-index line for a 'One Good Turn' renewal under Associated Artists Productions Corp. We did not retrieve the full entry and have not confirmed which film it covers. We read only part of the Jan-Jun 1959 volume and found no entry there. We could not find the Jul-Dec 1958 volume. A missing renewal in partly read volumes does not prove the film is public domain. Do not treat the many online copies as clearance. Until the renewal records are checked by hand, treat the film as possibly still protected and get a license or a rights opinion before any use.",
+  "faq": [
+    [
+      "Is One Good Turn (1931) in the public domain in the US?",
+      "Not established. The film's renewal window runs from late 1958 to 31 October 1959. The Jan-Jun 1958 volume we checked predates that window. We read only part of the Jan-Jun 1959 volume and found no entry there. We could not locate the Jul-Dec 1958 volume. Check those volumes and the Copyright Office records by hand. Free copies online do not change the answer."
+    ],
+    [
+      "Can I use a clip from an online copy?",
+      "Not safely. The film's status is unresolved, so it may still be protected. Get a license or a rights opinion first. Whether a limited use could qualify as fair use is a separate question."
+    ]
+  ]
+}

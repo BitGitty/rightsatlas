@@ -1,0 +1,98 @@
+{
+  "id": "the-farmers-wife-1928",
+  "title": "The Farmer's Wife",
+  "year": 1928,
+  "country": "UK",
+  "last_verified": "2026-11-27",
+  "byline": "Alfred Hitchcock's 1928 British silent comedy: the picture is free in the US by term, but any score on a modern copy is not.",
+  "layers": {
+    "print": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "term_expiry",
+          "note": "Wikipedia gives the UK release date as 2 March 1928. A US work from 1928 has a 95-year term that ran out at the end of 2023, so it was in the US public domain from 1 January 2024. That holds even if the work was restored under the URAA, because restored works keep only the remainder of the 95-year term. No renewal search is needed for a work this old. The Duke page is cited only for the term rule; it does not name this film.",
+          "source": "Wikipedia, The Farmer's Wife (film), for the 1928 release date; Duke Center for the Study of the Public Domain, Public Domain Day 2024, for the term rule only",
+          "url": "https://en.wikipedia.org/wiki/The_Farmer%27s_Wife"
+        },
+        {
+          "type": "term_expiry",
+          "note": "Term rule only: works published in 1928 entered the US public domain on 1 January 2024. This page does not name the film.",
+          "source": "Duke Center for the Study of the Public Domain, Public Domain Day 2024",
+          "url": "https://web.law.duke.edu/cspd/publicdomainday/2024/"
+        },
+        {
+          "type": "uraa_analysis",
+          "note": "This is a UK-made work first published in 1928. Whether or not the URAA restored its copyright in 1996, the US term was at most 95 years from publication and ended with 2023. Restoration status therefore does not change the print's status.",
+          "source": "17 U.S.C. 104A and 304(b), applied to a 1928 publication",
+          "url": "https://www.copyright.gov/circs/circ38b.pdf"
+        }
+      ]
+    },
+    "score": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia describes the film as a silent film with English intertitles, so it had no original sound track. Whether a given copy carries a score depends on the copy. I did not inspect the Internet Archive item, so I do not know if it has music, who composed it, or what rights apply. Any music on a modern release or upload is a separate work or recording with its own rights. Check who composed and recorded the score on the specific copy you use.",
+          "source": "Wikipedia, The Farmer's Wife (film), for the silent format; the Internet Archive item was not inspected",
+          "url": "https://en.wikipedia.org/wiki/The_Farmer%27s_Wife"
+        }
+      ]
+    },
+    "story": {
+      "status": "verified_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film adapts the 1916 play The Farmer's Wife by Eden Phillpotts and Adelaide Phillpotts. A 1916 stage work is long past any US term.",
+          "source": "Wikipedia, The Farmer's Wife (film)",
+          "url": "https://en.wikipedia.org/wiki/The_Farmer%27s_Wife"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says a restoration was completed in 2012 as part of the BFI's 'Save the Hitchcock 9' project. The article does not say what that restoration added, such as a new score or new titles. A faithful restoration adds no US copyright, but any new score, titles or other added material would be protected.",
+          "source": "Wikipedia, The Farmer's Wife (film)",
+          "url": "https://en.wikipedia.org/wiki/The_Farmer%27s_Wife"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [],
+    "negative_result": "No renewal search was performed. The 95-year term has expired regardless of renewal, so a renewal search would not change the status.",
+    "diy_links": []
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-farmers-wife-1928-by-alfred-hitchcock",
+      "label": "The Farmer's Wife (1928) by Alfred Hitchcock, Internet Archive",
+      "quality": "unverified; check the print and any music before reuse"
+    },
+    {
+      "url": "https://archive.org/details/the-farmers-wife-1928",
+      "label": "The Farmer's Wife 1928, Internet Archive",
+      "quality": "unverified; check the print and any music before reuse"
+    }
+  ],
+  "editorial": "The Farmer's Wife is a 1928 British silent comedy directed by Alfred Hitchcock for British International Pictures. It was released in the UK on 2 March 1928. It adapts the 1916 play by Eden and Adelaide Phillpotts and stars Jameson Thomas as Samuel Sweetland and Lillian Hall-Davis as Araminta Dench, with Gordon Harker as Churdles Ash.\n\nThe film is a 1928 release, so its US term ran out at the end of 2023. The picture itself is free to reuse, and the 1916 play it adapts is old enough not to be a problem. What is not free is whatever sits on top of a particular copy. A modern release may carry a newly composed or recorded score, and the BFI's 2012 restoration may have added new titles or music, though I could not confirm what it added. Take the images from a copy where you know the music and titles are cleared, or add your own score.",
+  "faq": [
+    [
+      "Can I use The Farmer's Wife (1928) in my own video?",
+      "Yes for the picture. It was released in 1928 and its US term ended in 2023. Check the music: a score on a modern copy is a separate work with its own owner, so use a copy without one or add your own."
+    ],
+    [
+      "Does the BFI restoration change the rights?",
+      "A faithful restoration adds no new US copyright. The BFI finished one in 2012. I could not confirm what it added, so any new score, titles or other added material on that release may still be protected. Use a source whose additions you know."
+    ]
+  ]
+}
