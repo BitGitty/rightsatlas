@@ -1,0 +1,74 @@
+{
+  "id": "chickens-come-home-1931",
+  "title": "Chickens Come Home",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Renewal entry for CHICKENS COME HOME, a photoplay in three reels (Metro-Goldwyn-Mayer), claimant Hal Roach Studios (OCR text reads 'AL ROACH STUDIOS (PWH)'), dated 23SEP58, renewal number R221668, listed in the Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1958. The 1931 film's 28th-year window was 1958-1959, so this renewal is timely and the US copyright was extended. The entry text comes from our own catalog scan. I could not re-read the line in a second pass of the volume, so a person should confirm it on the page.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film with a synchronized track. The recorded track shares the film's status, so it follows the renewed copyright in the print.",
+          "source": "RightsAtlas analysis",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Chickens Come Home”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1958 Motion Pictures volume containing the renewal",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Chickens Come Home is a 1931 Laurel & Hardy short made by Hal Roach Studios and released through Metro-Goldwyn-Mayer. Creators look for it because it is a well-known Laurel & Hardy comedy, but the copyright history does not favour reuse.\n\nThe catalog shows a renewal for the film: R221668, dated 23 September 1958, in the Motion Pictures volume for 1958. That falls inside the 28th-year window and is the key rights fact. Treat the print and its sound track as still protected in the US until a person confirms otherwise. Do not assume that a free-to-watch copy online is cleared for reuse. A Spanish-language version, Politiquerias, circulates separately on the Internet Archive. It is a different release, and this dossier does not clear it.",
+  "faq": [
+    [
+      "Is Chickens Come Home in the US public domain?",
+      "Our catalog hit says no. The film was copyrighted in 1931 and renewed on 23 September 1958 (R221668) by Hal Roach Studios, so US copyright was extended. Confirm the entry on the volume page before relying on this."
+    ],
+    [
+      "Can I use a copy from the Internet Archive?",
+      "Hosting on the Internet Archive does not clear the rights. The renewal points to a still-protected print, so get permission from the rights holder before reusing it in a commercial or public project."
+    ]
+  ]
+}
