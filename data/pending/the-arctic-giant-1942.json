@@ -1,0 +1,120 @@
+{
+  "id": "the-arctic-giant-1942",
+  "title": "The Arctic Giant",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Our check of the Catalog of Copyright Entries Motion Pictures volumes for 1969 and 1970 was incomplete. Only partial text was readable and it found no 'Arctic Giant' or 'Superman' entry. That is not a full search of the 28th-year renewal window. The Copyright Office public catalog was not searched. The print therefore cannot be called verified public domain yet.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1969 volume (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Same partial check for the 1970 volume.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1970 volume (archive.org)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The music was credited to Sammy Timberg, with Winston Sharples and Lou Fleischer uncredited (per Wikipedia, not a primary source). The recorded track would normally share the film's own copyright status, which is undetermined until the renewal search is finished.",
+          "source": "Wikipedia, The Arctic Giant",
+          "url": "https://en.wikipedia.org/wiki/The_Arctic_Giant"
+        }
+      ]
+    },
+    "story": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the Superman character from DC Comics. Rights in the character and ancillary uses are separate from the copyright in the 1942 cartoon itself. Wikipedia's Fleischer Studios article is reported to say the cartoons are in the public domain after non-renewal but that DC Comics retains the ancillary rights. This is a secondary source, and only part of that article was readable in our latest check.",
+          "source": "Wikipedia, Fleischer Studios",
+          "url": "https://en.wikipedia.org/wiki/Fleischer_Studios"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unsupported. We found no source showing a trademark registration for SUPERMAN, and we did not check USPTO records. Trademark rights do not expire with copyright in general, but whether and by whom Superman marks are registered is not confirmed here. Check the USPTO trademark database before using Superman names or logos.",
+          "source": "Wikipedia, Fleischer Studios (does not show a registration)",
+          "url": "https://en.wikipedia.org/wiki/Fleischer_Studios"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's external links list a YouTube upload titled 'Max Fleischer's Superman - The Arctic Giant (1942 restoration)'. I could not identify who made it or what it adds.",
+          "source": "Wikipedia, The Arctic Giant",
+          "url": "https://en.wikipedia.org/wiki/The_Arctic_Giant"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Arctic Giant”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan–Dec 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan–Dec 1970 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan–Dec 1971 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-arctic-giant-1942",
+      "label": "The Arctic Giant (1942), Internet Archive",
+      "quality": "Internet Archive upload of the Fleischer Superman short"
+    },
+    {
+      "url": "https://archive.org/details/arctic_giant",
+      "label": "Arctic Giant, The (1942), Internet Archive",
+      "quality": "Alternate Internet Archive upload of the same short"
+    }
+  ],
+  "editorial": "The Arctic Giant is the fourth Fleischer Studios Superman short. Paramount released it on February 27, 1942, and Dave Fleischer directed. A frozen Tyrannosaurus rex is found, put on display in a museum, and thaws out, so Superman has to stop its rampage. The score is credited to Sammy Timberg, with Winston Sharples and Lou Fleischer uncredited. The short is widely reused as an early Superman cartoon with a dinosaur plot.\n\nThe rights trap is the character, not the print. Wikipedia reports that the Fleischer Superman cartoons lapsed into the public domain when their copyrights were not renewed. We did not confirm that for this title: our check of the Catalog of Copyright Entries volumes for 1969 and 1970 was only partial, and we did not search the Copyright Office catalog. Even if the print is free, Wikipedia reports that DC Comics retains ancillary rights in Superman. We did not verify any Superman trademark registration. Do not use Superman branding, logos or new Superman material without checking the rights first.",
+  "faq": [
+    [
+      "Can I upload The Arctic Giant to my own channel?",
+      "The print's status is not confirmed. Wikipedia says the Fleischer Superman cartoons went public domain through non-renewal, but our check of the 1969–1970 renewal catalogs was incomplete. Search the Copyright Office catalog and the 1969–1971 catalog volumes yourself before relying on it. Even if the print is free, don't use Superman logos, merchandise or new Superman stories without checking the rights."
+    ],
+    [
+      "Does a restored version change the answer?",
+      "A faithful restoration adds no new US copyright. Anything new does, such as a new score, colorization or added titles. A YouTube upload labelled '1942 restoration' exists, but I could not tell what it adds."
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "the-boogie-man-will-get-you-1942",
+  "title": "The Boogie Man Will Get You",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released October 22, 1942 by Columbia Pictures, per the Wikipedia film article. The 28th-year renewal window runs 1969-1970.",
+          "source": "Wikipedia film article",
+          "url": "https://en.wikipedia.org/wiki/The_Boogie_Man_Will_Get_You"
+        },
+        {
+          "type": "research_note",
+          "note": "1969 Catalog of Copyright Entries motion-picture volume: located but not searched to the 'B' entries. No renewal absence was confirmed, and the Copyright Office public records search could not be run.",
+          "source": "Internet Archive, Catalog of Copyright Entries Motion Pictures 1969",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1970 renewal-year volume: located but not searched to the 'B' entries.",
+          "source": "Internet Archive, Catalog of Copyright Entries Motion Pictures 1970",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track normally shares the film's own copyright status. Any separately published music rights were not checked, so this follows the print.",
+          "source": "research",
+          "url": "https://en.wikipedia.org/wiki/The_Boogie_Man_Will_Get_You"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Credited as a story by Hal Fimberg and Robert B. Hunt, adapted by Paul Gangelin, screenplay by Edwin Blum. No source work is credited. Whether the story was separately registered or renewed was not checked.",
+          "source": "Wikipedia film article (credits only)",
+          "url": "https://en.wikipedia.org/wiki/The_Boogie_Man_Will_Get_You"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Boogie Man Will Get You”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1969 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1970 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1971 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/boogie-man-will-get-you-1942",
+      "label": "Boogie Man Will Get You 1942 (Internet Archive)",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/the-boogie-man-will-get-you-1942_202611",
+      "label": "The Boogie Man Will Get You (1942) (Internet Archive, alternate upload)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Boogie Man Will Get You is a feature-length horror comedy of about 66 minutes, released by Columbia Pictures on October 22, 1942, directed by Lew Landers. Boris Karloff plays Professor Nathaniel Billings, a scientist running experiments in a New England mansion, and Peter Lorre plays Dr. Arthur Lorencz. Maxie Rosenbloom, Larry Parks and Jeff Donnell round out the cast. According to Wikipedia, it was the final film Karloff made under his contract with Columbia. A creator would want it for the Karloff and Lorre pairing and for its light, quick tone.\n\nThe rights trap is that its status as a free-to-use print is not established here. A film published in 1942 is free of copyright only if it had no notice or its renewal was missed in the 1969-1970 window. We could not confirm either point. We did not read the renewal catalogs through to the 'B' entries, and we did not run the Copyright Office records search. Treat the print as unconfirmed until someone checks both. Internet Archive uploads exist, but a copy being posted there proves nothing about its copyright status.",
+  "faq": [
+    [
+      "Is The Boogie Man Will Get You in the public domain?",
+      "Not confirmed. The film is from 1942, so it is free only if it was never renewed in the 1969-1970 window or lacked a valid notice. We could not complete that check. Search the 1969, 1970 and 1971 Catalog of Copyright Entries volumes and the Copyright Office public records before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Only after the renewal check is done. Both uploads exist and resolve, but we did not confirm their source or their quality. Whether the music or the story carries separate rights was also not checked."
+    ]
+  ]
+}

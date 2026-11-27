@@ -1,0 +1,98 @@
+{
+  "id": "the-mad-monster-1942",
+  "title": "The Mad Monster",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1969 volume. A 1942 film's 28th-year renewal window runs from about May 1969 to May 1970, so renewals fall in the 1969 and 1970 volumes. I did not record how this volume was searched (full-text OCR search or page-by-page browsing of the M pages), and I cannot confirm the whole volume was covered. No renewal entry for this film is confirmed.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1969 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, 1970 volume, the second volume covering the renewal window. The same limits apply: the search method was not recorded, full coverage of the volume is not confirmed, and no renewal entry is confirmed. The 1971 volume was not searched.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1970 Motion Pictures",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive uploader's description says the original feature is generally identified as being in the US public domain due to nonrenewal. That is the uploader's claim, not primary evidence. The 1942 original registration (CCE Motion Pictures 1942, PRC) was not checked, so publication with notice and registration are not established.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/the-mad-monster-1942-custom-edition"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits music to David Chudnow. I did not confirm who owned the score, or whether any pre-existing compositions are used in the track.",
+          "source": "Wikipedia, The Mad Monster",
+          "url": "https://en.wikipedia.org/wiki/The_Mad_Monster"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Fred Myton with the screenplay and does not say the film is based on another work. That does not show the story is original. I did not check the AFI catalog or the opening credits, so whether a pre-existing published source exists is undetermined.",
+          "source": "Wikipedia, The Mad Monster",
+          "url": "https://en.wikipedia.org/wiki/The_Mad_Monster"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": "No renewal entry for The Mad Monster is confirmed in the CCE Motion Pictures volumes for 1969 and 1970. The search method and full coverage of those volumes were not recorded. The 1971 volume was not searched, so a late-registered renewal could be missed. The 1942 original registration was not checked. A 1942 film's renewal falls before 1978, so the Copyright Office online catalog is not the primary source.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1969, 1970 and 1971 by hand, and the 1942 volume for the registration",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-mad-monster-1942-custom-edition",
+      "label": "The Mad Monster (1942) with two vintage cartoons, custom edition",
+      "quality": "Internet Archive upload. It bundles the feature with two 1935 cartoons and intermissions, so the added material may have separate rights."
+    }
+  ],
+  "editorial": "The Mad Monster is a 1942 horror picture from Producers Releasing Corporation. Sam Newfield directed and Sigmund Neufeld produced, from a screenplay credited to Fred Myton. George Zucco plays Dr. Lorenzo Cameron, a discredited scientist who uses a serum to turn his gardener, played by Glenn Strange, into a wolfman. Johnny Downs and Anne Nagel co-star, and Wikipedia gives a release date of May 15, 1942.\n\nThe film's status is unresolved. No renewal was found in the volumes named, but the search method and full coverage were not recorded. The 1971 volume was not searched, and the 1942 registration was not checked. The Internet Archive uploader says the feature is generally treated as public domain for nonrenewal, but that is not primary evidence. The upload bundles the feature with two vintage cartoons and intermissions, which carry their own rights. The David Chudnow score was not independently cleared, and any restoration, new titles or added music would be separately protected.",
+  "faq": [
+    [
+      "Can I use clips from The Mad Monster in a commercial video?",
+      "Not established. I did not confirm a renewal entry in the 1969 or 1970 CCE volumes, but I did not record how they were searched, did not search the 1971 volume, and did not check the 1942 registration. Verify these yourself before commercial use. Do not use the cartoons or intermissions bundled in some uploads, and check the soundtrack for separately licensed music."
+    ],
+    [
+      "Is the Internet Archive copy safe to reuse as is?",
+      "Not as is. The uploader describes only the original feature as public domain, and that is their claim. The upload is a custom edition that adds two vintage cartoons and intermissions, which may be protected separately. Any restoration, colorization or new score you find elsewhere may also carry its own copyright."
+    ]
+  ]
+}
