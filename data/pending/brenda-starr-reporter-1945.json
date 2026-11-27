@@ -1,0 +1,85 @@
+{
+  "id": "brenda-starr-reporter-1945",
+  "title": "Brenda Starr, Reporter",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The OCR text of the Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1972 volume (Parts 12-13), has renewal-section cross-reference lines for 'BRENDA STARR, REPORTER' for Chap. no. 1 ('HOT NEWS'), Chap. no. 6 ('MAN HUNT'), Chap. no. 7 ('HIDEOUT OF TERROR') and Chap. no. 8 ('KILLER AT LARGE'). The full main entries were not retrieved. The renewal numbers, renewal dates and claimant are therefore unconfirmed. Renewal of the other chapters is also unconfirmed. Each chapter was registered and renewed separately. The entries need to be checked against the page images.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1972 (OCR full text)",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound serial, so the recorded track normally shares the film's own copyright status. That status is still unconfirmed. I did not identify the composer or any separate music rights.",
+          "source": "Analysis",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is based on the Brenda Starr comic strip by Dale Messick. The strip's own copyright and renewal status was not checked, and the strip's rights are separate from the film's.",
+          "source": "Internet Archive item metadata (Part 1 of 13), used for background only",
+          "url": "https://archive.org/details/brenda-starr-reporter-part-1-of-13"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Brenda Starr, Reporter”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volumes by hand; only the 1972 volume was consulted",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/brenda-starr-reporter-part-1-of-13",
+      "label": "Brenda Starr, Reporter, Part 1 of 13 (Hot News), Internet Archive",
+      "quality": "Single chapter; the item description reads '1945 Columbia chapter serial. Chapter 1: Hot News'. The page says nothing about clearance."
+    }
+  ],
+  "editorial": "Brenda Starr, Reporter is a 13-chapter Columbia Pictures serial from 1945. It adapts Dale Messick's newspaper comic strip. Serial fans and comic-adaptation collectors seek it out as an early screen version of the strip. The Internet Archive item for Part 1 of 13 was confirmed. I did not confirm that the other chapters are hosted there.\n\nThe rights trap is that the film does not look like a lapsed copyright. A 1972 Catalog of Copyright Entries volume has renewal-section cross-references for this serial. They cover Chapters 1, 6, 7 and 8. This comes from an OCR text search. The full entries, renewal numbers and dates were not confirmed, and the other chapters were not checked. Each chapter was registered and renewed separately. Treat the chapters as possibly still protected until the entries are confirmed. Copies circulate freely online, but hosting on the Internet Archive does not clear anything. The comic strip underneath is a separate copyright, and I did not check it.",
+  "faq": [
+    [
+      "Is Brenda Starr, Reporter (1945) in the public domain?",
+      "Unconfirmed. A 1972 Catalog of Copyright Entries volume has renewal-section cross-references for Chapters 1, 6, 7 and 8 of the Columbia serial. The full entries were not verified, and the other chapters were not checked. Each chapter was registered and renewed separately. Treat it as possibly protected. Free copies on the Internet Archive are not a rights clearance."
+    ],
+    [
+      "Can I reuse clips from the Internet Archive copies?",
+      "Do not assume you can. Some chapters appear to have renewal entries, and the Dale Messick comic strip is a separate source work. You would need a license from the rights holder, or a legal opinion, before reusing clips commercially."
+    ]
+  ]
+}

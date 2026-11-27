@@ -1,0 +1,82 @@
+{
+  "id": "sos-coast-guard-1937",
+  "title": "S.O.S. Coast Guard",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Republic Pictures serial released August 28, 1937. A 1937 film's renewal fell due in 1964-65. I found the 1965 Catalog of Copyright Entries motion-pictures volume on archive.org but did not read its entries, so no renewal search was completed and I make no claim either way.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1965 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “S.O.S. Coast Guard”, ~1964, 1965, 1966)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/46044SOSCoastGuardChapter8",
+      "label": "S.O.S. Coast Guard (1937 Republic serial), Chapter 8",
+      "quality": "Internet Archive upload of a single chapter"
+    },
+    {
+      "url": "https://archive.org/details/46054SOSCoastGuardChapter12",
+      "label": "S.O.S. Coast Guard (1937 Republic serial), Chapter 12",
+      "quality": "Internet Archive upload of a single chapter"
+    }
+  ],
+  "editorial": "S.O.S. Coast Guard is a 12-chapter Republic Pictures serial released August 28, 1937, directed by Alan James and William Witney. Ralph Byrd plays Coast Guard Lt. Terry Kent. Bela Lugosi plays Boroff, a mad scientist who invents a disintegrator gas and plans to smuggle it to Morovania. The serial runs 224 minutes. Republic also cut a 71-minute feature version, released April 16, 1942. A creator might want it for the Lugosi villain, the chapter-play format, or period Coast Guard imagery.\n\nThe rights trap is the print itself. A 1937 release was only free to reuse if its copyright was never renewed in the 1964-65 window. I did not read the renewal listings, so I have not confirmed that. Do not treat the Internet Archive uploads as proof of status. Check the Catalog of Copyright Entries renewal volumes and the Copyright Office records before you reuse it. Separately, the 1942 feature cut is a different version and could have its own registration history.",
+  "faq": [
+    [
+      "Is S.O.S. Coast Guard (1937) free to use in the US?",
+      "Not confirmed. The film came out in 1937, so its status depends on whether Republic renewed the copyright in 1964-65. I did not complete that search. Check the Catalog of Copyright Entries and publicrecords.copyright.gov before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copies of the serial?",
+      "Only after the renewal check above. The Internet Archive hosts individual chapters of the 1937 Republic serial, but hosting a copy does not establish its copyright status. The 1942 feature version is a separate cut, so check it separately."
+    ]
+  ]
+}
