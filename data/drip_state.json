@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-26",
+  "last_release": "2026-11-27",
   "log": [
     {
       "date": "2026-08-31",
@@ -352,6 +352,10 @@
     {
       "date": "2026-11-26",
       "film": "blood-on-the-sun-1945"
+    },
+    {
+      "date": "2026-11-27",
+      "film": "cyrano-de-bergerac-1950"
     }
   ]
 }
