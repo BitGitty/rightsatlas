@@ -1,0 +1,98 @@
+{
+  "id": "lonely-wives-1931",
+  "title": "Lonely Wives",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1958 (Vol 12 No 1-2). Only the portion of this volume that could be fetched was searched, for 'Lonely Wives', 'E.B. Derr' and Pathe Exchange/Pathe Pictures renewals. The fetch was truncated by file size, so the whole volume was not read. No renewal was found in the portion searched, which does not show that none exists.",
+          "source": "Catalog of Copyright Entries 1958 motion pictures, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1959 (Vol 13 No 1-2). Only the portion of this volume that could be fetched was searched, for the title, E.B. Derr and Pathe renewals. The fetch was truncated by file size, so the whole volume was not read. No renewal was found in the portion searched, which does not show that none exists.",
+          "source": "Catalog of Copyright Entries 1959 motion pictures, archive.org",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Francis Gromon. I did not confirm his copyright or renewal status, or whether the film uses pre-existing music cues, so the score layer stays undetermined.",
+          "source": "Wikipedia, Lonely Wives (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Lonely_Wives"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is based on Tanzanwalt, a 1912 German vaudeville act by Pordes Milo, Walter Schütt and Eric Urban. It also names an English stage adaptation, Lonely Wives, by Walter DeLeon and Mark Swan, produced in Stamford, Connecticut on 11 August 1922. I did not confirm publication or renewal records for either source, so the layer stays undetermined.",
+          "source": "Wikipedia, Lonely Wives (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Lonely_Wives"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia reports a 2001 DVD release by Roan/Troma Entertainment. I did not confirm whether it added new material.",
+          "source": "Wikipedia, Lonely Wives (1931 film)",
+          "url": "https://en.wikipedia.org/wiki/Lonely_Wives"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": "Incomplete, partial search; the renewal question is still open. Only the fetchable portions of the 1958 and 1959 Catalog of Copyright Entries motion picture volumes were searched, and no renewal was found in them. The fetch was truncated, so neither volume was fully read. The 1960 volume was not checked. The Copyright Office public catalog was not searched. The film's original registration date was not confirmed (Wikipedia gives a release date of 22 February 1931), so the renewal window has not been derived from a registration entry.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Lonely Wives”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1958 motion pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1959 motion pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Lonely Wives is a 1931 pre-Code comedy made by Pathé Exchange (producer E.B. Derr) and released through RKO Radio Pictures. Russell Mack directed. Edward Everett Horton plays two roles: a straitlaced lawyer, Richard \"Dickie\" Smith, and Felix, the Great Zero, an impersonator who swaps lives with him. Esther Ralston, Laura La Plante and Patsy Ruth Miller co-star. It is a good fit for compilations of early-sound comedy or Horton retrospectives, and for pre-Code material in general.\n\nThe print's status is undetermined. It may be free, but I could not confirm it. I found no renewal in the fetchable portions of the 1958 and 1959 motion-picture catalogs, but those fetches were truncated. The 1960 volume and the Copyright Office catalog were not searched. I also did not confirm the film's original registration date, so the renewal window is not yet derived. The renewal question is still open. There are also open questions in the layers around the print. The source is a 1912 German vaudeville act, Tanzanwalt, with an English stage version from 1922. I did not clear the status of either, nor of the music (credited on Wikipedia to Francis Gromon). A reuser should also treat any 2001 DVD transfer (Roan/Troma) as a source for its extras and not assume everything on it is free.",
+  "faq": [
+    [
+      "Is the Lonely Wives print free to reuse in the US?",
+      "Undetermined. A 1931 film needed a renewal in its 28th year, but I have not confirmed its registration date or the exact window. I searched only the fetchable portions of the 1958 and 1959 Catalog of Copyright Entries motion-picture volumes and found no renewal. Those fetches were truncated. The 1960 volume and the Copyright Office catalog were not searched. Complete those checks before relying on it commercially."
+    ],
+    [
+      "Are there other rights besides the film print?",
+      "Possibly. The film was adapted from a 1912 German vaudeville act and a 1922 English stage version, and Wikipedia credits the music to Francis Gromon. I did not confirm the status of those sources or of the music. Added material in modern releases, such as new titles, scores or commentary, can carry its own copyright even where the original print is free."
+    ]
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "three-guys-named-mike-1951",
+  "title": "Three Guys Named Mike",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's Legacy section says: 'The film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication.' It cites Pierce, 'Forgotten faces: why some of our cinema heritage is part of the public domain', Film History 19(2), 2007. I checked that the Wikipedia text says this. I did not check the Pierce article or any primary record. Wikipedia gives a release date of March 1, 1951 (New York) but no copyright registration number or date, and I found none elsewhere. No Catalog of Copyright Entries renewal volume (1978, 1979 or any other year) and no Copyright Office renewal record was searched for this dossier. The 1951 registration volume (Motion Pictures and Filmstrips, Jan-Dec 1951) exists on archive.org but was not searched. Renewal absence is therefore not verified, and the status stays undetermined.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1951, Vol 5 No 1-2 (registration-year volume, not searched)",
+          "url": "https://archive.org/details/catalogofcopyri351213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Bronislau Kaper is credited as composer. The recorded track is part of the MGM film and normally shares the print's status, which is itself undetermined. Any separate soundtrack release or later re-recording is a separate matter.",
+          "source": "Wikipedia, Three Guys Named Mike (cast and credits)",
+          "url": "https://en.wikipedia.org/wiki/Three_Guys_Named_Mike"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits a story by Ruth Brooks Flippen and a screenplay by Sidney Sheldon. It also says the film's credits mention suggestions from Ethel 'Pug' Wells, an American Airlines flight attendant. Those credits come only from Wikipedia and were not checked against the film itself. The story and screenplay copyrights may have been registered and renewed separately from the film's, so the film's status cannot be assumed to cover them. This was not checked in the film's own credits or in any Catalog of Copyright Entries entry.",
+          "source": "Wikipedia, Three Guys Named Mike",
+          "url": "https://en.wikipedia.org/wiki/Three_Guys_Named_Mike"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item 'three guys named mike (1951) [Colorized,4k,60fps]' says the black-and-white film was colorised, upscaled to 4K and frame-rate boosted to 60 FPS in 2021 using AI. Colorization and other added material can carry new protection even if the underlying print is free. Use a plain black-and-white upload as the source.",
+          "source": "Internet Archive item three-guy-named-mike-4-k",
+          "url": "https://archive.org/details/three-guy-named-mike-4-k"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1978,
+      1979
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals (search “Three Guys Named Mike”; the renewal window opened in 1978, so check both 1978 and 1979 filings)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volumes (1978 and 1979) by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/ThreeGuysNamedMike1951",
+      "label": "Three Guys Named Mike (1951) on the Internet Archive",
+      "quality": "unverified transfer; the page marks it Public Domain, which is the uploader's label and not a rights finding; check that it is an uncolorized copy before reuse"
+    }
+  ],
+  "editorial": "Three Guys Named Mike is a black-and-white 1951 Metro-Goldwyn-Mayer film directed by Charles Walters, released March 1, 1951. Jane Wyman plays Marcy Lewis, and Van Johnson, Howard Keel and Barry Sullivan play the three men named Mike. Barbara Billingsley also appears, as Ann White. The screenplay is by Sidney Sheldon, from a story by Ruth Brooks Flippen. The credits also mention suggestions from Ethel 'Pug' Wells, an American Airlines flight attendant. Bronislau Kaper composed the music.\n\nThe rights trap is the renewal. A 1951 film is free only if its copyright was not renewed in the 28th year. The first term runs from first publication, not from registration. For a film published in March 1951, the renewal window opened in 1978 and closed in 1979, so a renewal filed in either 1978 or 1979 would be timely. No registration number or date was found. Wikipedia says the claimants did not renew, but I could not confirm that from a primary record. No renewal catalog volume or Copyright Office record was searched for this dossier. Do not rely on the secondary claim without doing that search yourself. The story and screenplay may carry their own registrations and renewals. The AI-colorized copies on the Internet Archive add new material on top of the original film, so use an uncolorized source.",
+  "faq": [
+    [
+      "Is Three Guys Named Mike in the public domain in the US?",
+      "It is unconfirmed. Wikipedia says the claimants did not renew the copyright in the 28th year. This dossier found no primary record either way and did not search the renewal records. Search the Copyright Office public catalog and the 1978 and 1979 Catalog of Copyright Entries renewal volumes before you rely on it."
+    ],
+    [
+      "Can I use the colorized versions on the Internet Archive?",
+      "Not safely. The colorized, 4K and 60fps AI version adds new material that can carry its own protection. If the underlying film is confirmed free, take an uncolorized copy as your source."
+    ]
+  ]
+}

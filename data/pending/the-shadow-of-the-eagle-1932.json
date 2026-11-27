@@ -1,0 +1,97 @@
+{
+  "id": "the-shadow-of-the-eagle-1932",
+  "title": "The Shadow of the Eagle",
+  "year": 1932,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia states the serial 'is now in the public domain', but that is a secondary source and is not treated here as evidence of status. No renewal search is complete. I tried the full text of two Catalog of Copyright Entries volumes: 'Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1960, Vol 14 No 1-2' (archive.org id catalogofcopyr3141213libr) and 'Motion pictures, 1950-1959' (archive.org id motionpict19591960librrich, despite the 1959-1960 look of its identifier). The fetch tool returned only about 4% of each text (about 39,000 of about 913,000 and 910,000 characters), so neither volume was read in full and no valid negative result exists. The CCE motion-picture renewals for 1959 and 1960 (the year 27/28 renewal window for a 1932 work) still need a full search. Status stays undetermined until those volumes are searched in full and named.",
+          "source": "Internet Archive, Catalog of Copyright Entries, Third Series, Parts 12-13, 1960",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial has a sound track, so the recorded score would normally share the film's copyright status, which is itself undetermined. The Internet Archive upload (listed as 'The Shadow Of The Eagle (1932)', creator Mascot Pictures Corp., uploaded by Dennis666 on 2025-07-21, B&W, sound) does not state its source, its runtime or whether it holds all 12 chapters, and it does not say whether it is the original serial or a home-video re-edit. It is cited only as an unverified copy, not as evidence for the score layer. Any added music in re-edits was not checked.",
+          "source": "Internet Archive upload (unverified copy)",
+          "url": "https://archive.org/details/the-shadow-of-the-eagle"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writing to Ford Beebe, Colbert Clark and Wyndham Gittens and does not mention any pre-existing source work. The story may be original to the serial and so share the film's status, but I did not confirm this against a primary source.",
+          "source": "Wikipedia, The Shadow of the Eagle",
+          "url": "https://en.wikipedia.org/wiki/The_Shadow_of_the_Eagle"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the serial was re-edited into a feature film version when it was released in home video form, and that the chapter screen titles were eliminated to create a more continuous flow. Whatever else that edit added could be separately protected. No faithful restoration was identified.",
+          "source": "Wikipedia, The Shadow of the Eagle",
+          "url": "https://en.wikipedia.org/wiki/The_Shadow_of_the_Eagle"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org), Motion Pictures renewal volumes for 1959 and 1960: search each in full for 'Shadow of the Eagle'",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1960, Parts 12-13 (archive.org): full text not yet fully read",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "Copyright Office online catalog: optional cross-check only (search 'The Shadow of the Eagle')",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-shadow-of-the-eagle",
+      "label": "The Shadow Of The Eagle (1932) on the Internet Archive (unverified copy)",
+      "quality": "Internet Archive upload by Dennis666, creator listed as Mascot Pictures Corp.; the page does not state the runtime, the source, or whether all 12 chapters are present; resolution not checked"
+    }
+  ],
+  "editorial": "The Shadow of the Eagle is a 1932 Mascot Pictures serial in 12 chapters, directed by Ford Beebe and B. Reeves Eason. Wikipedia gives its release date as February 1, 1932. John Wayne plays Craig McCoy, and Dorothy Gulliver, Kenneth Harlan, Walter Miller and Roy D'Arcy are also in the cast.\n\nThe rights trap is that the 'public domain' label rests on weak evidence. It comes from Wikipedia and from copies circulating online. A work from 1932 could only have been renewed in the year 27/28 window, 1959-1960, so the only renewal volumes that matter are the Catalog of Copyright Entries motion-picture renewals for 1959 and 1960. I tried the full text of two CCE volumes, but the fetch tool returned only about 4% of each, so no search of them is complete and there is no negative result. The CCE motion-picture renewals for 1959 and 1960 still need a full search. Until then, treat the print as undetermined. The Copyright Office online catalog is only an optional cross-check. Treat any feature-length home-video re-edit as carrying its own added material.",
+  "faq": [
+    [
+      "Is The Shadow of the Eagle (1932) public domain in the US?",
+      "Not confirmed here. Wikipedia calls it public domain, but that is a secondary source and is not treated as evidence. No complete renewal search has been done. The CCE motion-picture renewals for 1959 and 1960 still need a full search before you rely on it."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "Check first. The upload does not state its source, runtime or whether it holds all 12 chapters, and a copy taken from a home-video re-edit may include added material. Search the 1959 and 1960 CCE renewal volumes and use a clean source copy."
+    ]
+  ]
+}
