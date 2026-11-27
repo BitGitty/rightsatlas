@@ -1,0 +1,108 @@
+{
+  "id": "the-stolen-jools-1931",
+  "title": "The Stolen Jools",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "1931 sound short, so it is not free by term alone. Its status depends on notice and renewal. A 1931 work's renewal window is 1958 (year 27) or 1959 (year 28). Volumes checked: only the 1958 and 1959 Catalog of Copyright Entries motion-picture volumes, and only their catalog pages (titles and years confirmed). Neither volume's renewal section has been searched in full for 'The Stolen Jools', so the title search is partial and no negative result is claimed. The Copyright Office public catalog was not searched.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion volume for the 1959 renewal year (year 28); not searched in full.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1959",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The recorded track is part of the sound film and would share the print's status. The songs in the film have not been checked as separate works; no composers, dates or renewals were identified, so no protection claim is made. This is a clearance risk, not a copyright finding: per Wikipedia, the Harry Fox Agency would not license sync rights unless the film itself was shown to be licensed, so Blackhawk Films deleted the song snippets from its reprint, while Thunderbird Films issued reprints with the music intact. Wikipedia names one song, 'I Love You So Much'. Identify and check the songs separately.",
+          "source": "Wikipedia, The Stolen Jools",
+          "url": "https://en.wikipedia.org/wiki/The_Stolen_Jools"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "An original comic story: at the Screen Stars Annual Ball, Norma Shearer's jewels are stolen, and private detective Eddie Kane investigates. I found no source work. Wikipedia credits William C. McGann as director.",
+          "source": "Wikipedia, The Stolen Jools",
+          "url": "https://en.wikipedia.org/wiki/The_Stolen_Jools"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No modern restoration with added material was identified. Per Wikipedia, another print was found in the United Kingdom in the 1990s under the British release title The Slippery Pearls.",
+          "source": "Wikipedia, The Stolen Jools",
+          "url": "https://en.wikipedia.org/wiki/The_Stolen_Jools"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (not yet searched for “The Stolen Jools”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1958 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips, Jan-Dec 1959 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/THESTOLENJOOLS",
+      "label": "The Stolen Jools (1931), about 20 minutes, Internet Archive",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/TheStolenJools720p1931",
+      "label": "The Stolen Jools (1931), 720p upload, Internet Archive",
+      "quality": "hd"
+    }
+  ],
+  "editorial": "The Stolen Jools is a 1931 charity short released through Paramount on April 4, 1931. Per Wikipedia, it was distributed to raise funds for the National Vaudeville Artists Tuberculosis Sanitarium. The plot is a small whodunit: Norma Shearer's jewels vanish at the Screen Stars Annual Ball, and child performer Mitzi Green, who witnessed the robbery, solves the case. Its value to a creator is the cast. Wallace Beery, Buster Keaton, Edward G. Robinson, Joan Crawford, Fay Wray, Gary Cooper, and Laurel and Hardy all appear. Few other films gather so many 1931 Hollywood faces in one reel.\n\nThe rights trap is the music. Wikipedia reports that when Blackhawk Films reprinted the short, the Harry Fox Agency would not license sync rights unless the film itself was shown to be licensed. Blackhawk deleted the song snippets, and a Thunderbird Films print kept them. As a 1931 film, its print is not free by term alone. A 1931 work's renewal window is 1958 or 1959. I have not searched the renewal sections of those volumes in full or the Copyright Office catalog, so the print's status is unconfirmed. Check the renewal records yourself before relying on it. The songs have not been identified or checked as separate works, so clear or cut them separately.",
+  "faq": [
+    [
+      "Is The Stolen Jools in the public domain?",
+      "Not confirmed. It is a 1931 film, so it depends on whether the copyright was renewed in 1958 or 1959. I have not searched the renewal sections of those volumes in full, and I have not searched the Copyright Office catalog. Use the links above to check before you reuse it."
+    ],
+    [
+      "Can I use the song snippets in the film?",
+      "Treat them as a separate clearance risk. Their copyright status has not been checked. Per Wikipedia, Blackhawk Films cut them from its reprint after the Harry Fox Agency would not license sync rights. Use a print without the songs, or clear them."
+    ]
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "randy-rides-alone-1934",
+  "title": "Randy Rides Alone",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1962 (Vol 16): the renewal volume for the film's 28th-year window. Volume located and confirmed to exist, but this run did not read its entries, so absence of a renewal is not confirmed.",
+          "source": "Library of Congress, Copyright Office",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1961 (Vol 15): adjacent renewal volume. Located but entries not read in this run.",
+          "source": "Library of Congress, Copyright Office",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film; the recorded track normally shares the film's status, so it is undetermined until the print's renewal status is confirmed. A player-piano performance of 'Sobre las Olas' is heard in the film; that composition's own status was not checked.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/Randy_Rides_Alone"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writer as Lindsley Parsons. No underlying published source was identified, so story status is not determined.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/Randy_Rides_Alone"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Randy Rides Alone”, ~1961, 1962, 1963)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1961 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/RandyRidesAlone1934",
+      "label": "Randy Rides Alone (1934), Internet Archive, 52 min",
+      "quality": "unrated"
+    }
+  ],
+  "editorial": "Randy Rides Alone is a 1934 John Wayne western from Lone Star Productions, directed by Harry L. Fraser and released June 5, 1934. Wayne plays Randy Bowers, who is arrested for murders he did not commit. George Hayes appears as Marvin Black, and Yakima Canutt plays the henchman Spike. The Internet Archive copy runs about 52 minutes and is tagged Creative Commons Public Domain, which is the uploader's label and not a legal finding.\n\nThe rights trap is the missing renewal check. A 1934 film is free today only if its copyright was not renewed in the 28th year, so the 1961-1962 renewal volumes decide the print. This dossier did not read those volumes or search the Copyright Office catalog, so the print stays undetermined. The soundtrack follows the film's status. The player-piano tune 'Sobre las Olas' is a separate composition that was not checked.",
+  "faq": [
+    [
+      "Can I use Randy Rides Alone in my own project?",
+      "Not yet on this dossier's evidence. The print's status turns on whether a renewal was filed in the 1961-1962 window, and that was not confirmed here. Check the Catalog of Copyright Entries volumes linked above and the Copyright Office public catalog before reusing it."
+    ],
+    [
+      "Does an Internet Archive public-domain tag settle the question?",
+      "No. The tag is set by the uploader. Confirm the renewal absence yourself, then use the print. A modern copy that adds a new score, titles or other material may carry protection for those additions."
+    ]
+  ]
+}
