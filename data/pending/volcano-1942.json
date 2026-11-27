@@ -1,0 +1,114 @@
+{
+  "id": "volcano-1942",
+  "title": "Volcano",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the 17-cartoon Superman series says all entries are in the US public domain because National failed to renew their copyrights. That is a secondary claim. A partial read of the Catalog of Copyright Entries 1969-1971 motion picture renewal volumes found no Volcano or Superman renewal. The Jul-Dec 1969 renewals and the S and V sections of Jul-Dec 1970 were not read, so absence is not confirmed.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, 1970 renewals (partial read)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film with music credited to Sammy Timberg. The recorded track would normally share the print's status, which is unresolved.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/superman_volcano"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the DC Comics character Superman. The character's own copyright status was not checked here. The series article says rights to the cartoons reverted to National Comics.",
+          "source": "Wikipedia, Superman (1940s animated film series)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Superman is a DC character and franchise. The series article says Warner Bros. owns the ancillary rights and the original 35 mm master elements. Character marks survive copyright expiry.",
+          "source": "Wikipedia, Superman (1940s animated film series)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Warner Bros. Home Entertainment issued a 2023 Blu-ray set of all 17 cartoons, taken from high-definition restorations of the original 35 mm elements. A faithful restoration adds no new copyright. Added material, if any, was not verified.",
+          "source": "Wikipedia, Superman (1940s animated film series)",
+          "url": "https://en.wikipedia.org/wiki/Superman_(1940s_animated_film_series)"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Volcano”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1970 (Jan-Dec) — renewals, archive.org",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1969 (Jan-Dec) — renewals, archive.org",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1971 (Jan-Dec) — renewals, archive.org",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/superman_volcano",
+      "label": "Superman: Volcano (1942), Fleischer Studios / Paramount",
+      "quality": "480x352, about 7:44"
+    },
+    {
+      "url": "https://archive.org/details/volcano-1942_202406",
+      "label": "Volcano (1942), higher-resolution upload marked Public Domain Mark 1.0",
+      "quality": "1920x1080"
+    }
+  ],
+  "editorial": "Volcano is the eighth of 17 Technicolor Superman shorts from Fleischer Studios. Dave Fleischer directed, and Paramount released it on July 10, 1942. Sammy Timberg is credited with the music. A Superman cartoon like this is a ready-made clip for superhero history, animation studies or retro-style projects.\n\nThe trap is that the cartoon is not one clean right. Wikipedia reports that the series fell into the public domain because National never renewed, but I could not confirm that from the catalog volumes. Superman is also a live DC character and franchise, and Warner Bros. holds the original 35 mm elements and issued the 2023 Blu-ray. Use an older circulating copy, not the Warner restoration, and keep out of any use that implies a DC or Warner link.",
+  "faq": [
+    [
+      "Is the 1942 Superman cartoon Volcano free to reuse?",
+      "The film print is reported to be public domain, but I could not verify the renewal absence from primary records. Check the Copyright Office and catalog volumes yourself before relying on it. Superman as a trademark is still held by DC and Warner."
+    ],
+    [
+      "Can I use the 2023 Warner Blu-ray transfer?",
+      "A faithful restoration adds no new US copyright, but the disc is copy-protected. Ripping it can violate 17 U.S.C. 1201. Added material, if any, may be protected. An older Internet Archive copy avoids both issues."
+    ]
+  ]
+}

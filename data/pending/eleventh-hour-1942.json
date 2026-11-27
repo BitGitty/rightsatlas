@@ -1,0 +1,95 @@
+{
+  "id": "eleventh-hour-1942",
+  "title": "Eleventh Hour",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": "Famous Studios / Paramount Pictures, dir. Dan Gordon",
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released November 20, 1942 (8 minutes, Technicolor), produced by Famous Studios. Published after the 1930 term line, so public domain would depend on a missing notice or a missing renewal. I did not read the Catalog of Copyright Entries volume text or a Copyright Office record, so no renewal absence is confirmed here.",
+          "source": "Wikipedia: Eleventh Hour (1942 animated film)",
+          "url": "https://en.wikipedia.org/wiki/Eleventh_Hour_(1942_animated_film)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits 'Music by Sammy Timberg'. Winston Sharples appears there only in a category tag (Films scored by Winston Sharples), not in the credits, so he is not confirmed as credited. The sound track is part of the film, so it most likely shares the print's status. This is unconfirmed, because the print status is unconfirmed.",
+          "source": "Wikipedia: Eleventh Hour (1942 animated film)",
+          "url": "https://en.wikipedia.org/wiki/Eleventh_Hour_(1942_animated_film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short is based on the DC Comics character Superman. The character is a separate underlying work from the film's own copyright. The cited Wikipedia page does not show the character's copyright or renewal status or who holds the rights now. Treat this as an unverified legal caution: new works that use Superman may need clearance, but I have not confirmed this from a renewal record or a rights-holder source.",
+          "source": "Wikipedia: Eleventh Hour (1942 animated film)",
+          "url": "https://en.wikipedia.org/wiki/Eleventh_Hour_(1942_animated_film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Main route: Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1970 (archive.org) — check renewal entries by hand",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Main route: Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1969 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Late-filing check only: Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1971 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "Cross-check only: US Copyright Office public records (online records do not cover 1969-1971 renewals; the printed CCE volumes are the main source)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/superman.-1941.-s-01-e-12.-eleventh.-hour",
+      "label": "Superman \"Eleventh Hour\" (1942 short), user upload on the Internet Archive",
+      "quality": "unverified user upload dated 2026-10-14; no runtime or rights statement shown on the page"
+    }
+  ],
+  "editorial": "Eleventh Hour is the twelfth of seventeen Superman shorts in the Paramount cartoon series. Famous Studios made it, with Dan Gordon directing. Paramount released it on November 20, 1942. In the plot, Clark Kent and Lois Lane are held under house arrest as prisoners of war in Yokohama. Each night when the eleventh hour strikes, Superman sabotages a ship or bridge. Notices are posted warning that Lois will be executed if the sabotage continues. She is taken out for execution, and Superman rescues her. The music is credited to Sammy Timberg. It is an eight-minute Technicolor short.\n\nThe rights trap is the character. This is a 1942 film, so its print is not free by age alone. A work published in November 1942 would have its renewal window in its 27th and 28th year, so 1969-1970, with 1971 only as a late-filing check. I did not confirm from a Catalog of Copyright Entries page that no renewal was filed, so the print status stays open until someone checks. Superman is a separate underlying work, and I have not confirmed its rights status. Reusing the footage is a different question from making new Superman material.",
+  "faq": [
+    [
+      "Is Eleventh Hour (1942) safe to reuse?",
+      "Not yet confirmed. The print's status depends on whether a renewal was filed in the 1969-1970 window (1971 for a late filing). I did not check the Catalog of Copyright Entries. Check the printed CCE Motion Pictures volumes first, using the links in the dossier. Separately, Superman the character is a different work, and its status is unverified."
+    ],
+    [
+      "Which version should I use if I want to share it?",
+      "The only archive.org upload I found is an unverified user upload dated 2026-10-14. The page shows no runtime and no rights statement. It is not a verified restoration. If you need quality, find a source with clear provenance and check whether it adds protected material such as new titles or a new score."
+    ]
+  ]
+}
