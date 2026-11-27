@@ -1,0 +1,113 @@
+{
+  "id": "the-fighting-marines-1935",
+  "title": "The Fighting Marines",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "1935 Mascot Pictures serial, so public domain would depend on a missing renewal. For a 1935 work the renewal falls in year 28, which is 1962–63. The 1962 CCE motion-picture volume (Vol. 16, Parts 12-13, Jan-Dec 1962) was only partly text-searched. The full-text file was truncated, and the extent of text read was not recorded. No 'Fighting Marines' renewal turned up in the parts read. Absence is not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1962 (partial search)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1963 CCE motion-picture volume (Vol. 17, Parts 12-13, Jan-Dec 1963) was only partly text-searched. The full-text file was truncated, and the extent of text read was not recorded. No 'Fighting Marines' renewal turned up in the parts read. Absence is not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1963 (partial search)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1964 CCE motion-picture volume (Vol. 18, Parts 12-13, Jan-Dec 1964) was checked only as a late-filing margin, since 1964 is outside the year-28 window. It was only partly text-searched. The full-text file was truncated, and the extent of text read was not recorded. No 'Fighting Marines' renewal turned up in the parts read. Absence is not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1964 (partial search)",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound serial. The recorded track would normally share the print's status, which is unresolved. The score was not researched.",
+          "source": "research note",
+          "url": "https://archive.org/details/the-fighting-marines-serial"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The pages read did not name a source work for this serial.",
+          "source": "research note",
+          "url": "https://archive.org/details/the-fighting-marines-serial"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No restoration or commercial release was found in the pages read. The Internet Archive item is a community upload by 'retrowatch' (June 13, 2021) with no provenance given beyond the title.",
+          "source": "research note",
+          "url": "https://archive.org/details/the-fighting-marines-serial"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963
+    ],
+    "negative_result": "Partial text search of the 1962, 1963 and 1964 CCE motion-picture volumes found no entry for 'The Fighting Marines'. The files were truncated and the extent read was not recorded, so the search was incomplete. 1964 was checked only as a late-filing margin.",
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures 1962 (archive.org) — authoritative source for 1962 renewals",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1963 (archive.org) — authoritative source for 1963 renewals",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1964 (archive.org) — late-filing margin only",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "US Copyright Office public records — covers 1978 onward, so at most shows later-filed records; not a required step for 1960s renewals",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-fighting-marines-serial",
+      "label": "The Fighting Marines (1935) — Internet Archive community upload (12 chapter files listed)",
+      "quality": "MP4, 12 chapter files listed by the uploader's item; completeness and playback not verified"
+    }
+  ],
+  "editorial": "The Fighting Marines is a 1935 Mascot Pictures serial. Wikipedia lists a release date of November 23, 1935, directors B. Reeves Eason and Joseph Kane, and a cast led by Grant Withers as Corporal Larry Lawrence, with Ann Rutherford, Adrian Morris and Robert Warwick. It lists 12 chapters (216 minutes), including 'Human Targets' and 'Two Against the Horde'. Wikipedia also describes it as the last serial produced by Mascot Pictures. Those details come from Wikipedia. A creator might want it for a cliffhanger sequence or period Marine Corps imagery.\n\nThe rights trap is that its status is unproven. A 1935 film is protected unless its copyright was not renewed in the year-28 window, 1962–63. My partial look at the 1962–1964 Catalog of Copyright Entries volumes found no renewal, but I did not read them in full. Those volumes are the authoritative source for 1960s renewals. The Copyright Office online catalog covers 1978 onward and would at most show later-filed records. Treat the print as unresolved until a reviewer reads the 1962 and 1963 volumes in full. The serial is hosted on the Internet Archive as a community upload, but hosting is not a rights finding. Any uploader's titles, music or edits are separate matters.",
+  "faq": [
+    [
+      "Is The Fighting Marines (1935) free to reuse?",
+      "Not yet confirmed. It is a 1935 film, so it is free only if its copyright was not renewed. A partial check of the 1962–1964 catalog volumes found no renewal, but the check was incomplete. The 1962 and 1963 volumes are the ones that matter, and 1964 is only a late-filing margin."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The Internet Archive item, a 2021 community upload, lists 12 chapter files. I did not check that they are complete or play correctly. Hosting does not settle rights. Finish the renewal check first. Then look at what the uploader added, such as titles, music or edits."
+    ]
+  ]
+}

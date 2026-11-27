@@ -1,0 +1,117 @@
+{
+  "id": "the-trail-beyond-1934",
+  "title": "The Trail Beyond",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1961 (Vol 15, Nos 1-2). The archive.org OCR text was searched for 'Trail Beyond', 'Curwood', 'Wolf Hunters', 'Lone Star' and 'Monogram', and no renewal was found. Only the OCR text the fetch tool could read was searched. It may not cover the whole volume, so this is not a confirmed full-volume scan.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1961 (Jan-Dec, Vol 15)",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1961 Jul-Dec. The archive.org OCR text was searched for the same terms, and no renewal was found. Only the OCR text the fetch tool could read was searched, so coverage of the whole volume is not confirmed. The archive.org page says the volume lists current registrations and renewals for motion pictures.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1961 Jul-Dec",
+          "url": "https://archive.org/details/CatalogOfCopyrightEntriesMotionPictures1961Jul-dec"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1962 (Vol 16, Nos 1-2). The archive.org OCR text was searched for the same terms, and no renewal was found. Only the OCR text the fetch tool could read was searched, so coverage of the whole volume is not confirmed.",
+          "source": "Internet Archive, Catalog of Copyright Entries 1962",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Not promoted to verified_pd. The 1963 Catalog of Copyright Entries motion-picture volumes have not been checked, and that is the main outstanding check for a 1934 film's renewal (1961-1963). The original 1934 registration and copyright notice were not located, so first publication in 1934 with a valid notice is unverified. The Copyright Office online catalog (publicrecords.copyright.gov) covers 1978 onward. It is only a place to look for later records such as assignments or later claims, and it does not hold renewals from this period.",
+          "source": "Researcher note",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures+1963"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound film. The recorded track normally shares the film's own copyright status, so it follows the print. No separate music copyright was researched.",
+          "source": "Researcher note",
+          "url": "https://archive.org/details/TheTrailBeyond"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is based on James Oliver Curwood's novel The Wolf Hunters, which was also adapted as a silent film (1926) and a sound film (1949). The novel's publication date and renewal status were not verified here.",
+          "source": "Wikipedia, The Trail Beyond",
+          "url": "https://en.wikipedia.org/wiki/The_Trail_Beyond"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No restoration, Blu-ray or DVD release was found in the sources checked. The Internet Archive copies appear to be ordinary uploads.",
+          "source": "Researcher note",
+          "url": "https://archive.org/details/TheTrailBeyond"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": "No renewal entry for 'Trail Beyond', 'Curwood', 'Wolf Hunters', 'Lone Star' or 'Monogram' was found when the archive.org OCR text of the 1961 (Jan-Dec, and Jul-Dec) and 1962 Catalog of Copyright Entries motion-picture volumes was searched. Only the OCR text the fetch tool could read was searched, so coverage of each whole volume is not confirmed. The 1963 volumes have not been searched. The original 1934 registration and notice were not located.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the 1963 Motion Pictures volumes (and re-check 1961 and 1962) by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records — post-1977 records only (assignments, later claims); does not cover 1961-1963 renewals",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheTrailBeyond",
+      "label": "The Trail Beyond (1934), dir. Robert N. Bradbury",
+      "quality": "full feature, Internet Archive"
+    },
+    {
+      "url": "https://archive.org/details/TheTrailBeyond1934",
+      "label": "The Trail Beyond (1934), alternate upload",
+      "quality": "full feature, Internet Archive"
+    }
+  ],
+  "editorial": "The Trail Beyond is a 1934 western distributed by Monogram Pictures, directed by Robert N. Bradbury and produced by Paul Malvern. John Wayne plays Rod Drew, who goes looking for a missing miner (Noah Beery Sr.) and his daughter (Verna Hillie) and gets caught in a fight over a gold mine. Noah Beery Jr., Robert Frazer and Eddie Parker are also in the cast. The film was released on October 22, 1934.\n\nThe rights question here is renewal, and it is still open. Searches of the archive.org OCR text of the 1961 and 1962 Catalog of Copyright Entries motion-picture volumes found no renewal for this title. That OCR may not cover each whole volume, and the 1963 volumes have not been checked. The original 1934 registration and notice were also not located, so first publication with a valid notice is unverified. That is why the print is not marked verified. The Copyright Office online catalog covers 1978 onward, so it is not the place to look for a 1961-1963 renewal. The film is also an adaptation of James Oliver Curwood's novel The Wolf Hunters, so the source's own status should be checked before anyone relies on the story layer. Do not assume that a copy found on the Internet Archive settles the matter.",
+  "faq": [
+    [
+      "Can I use clips from The Trail Beyond in my own video?",
+      "Not yet. Rights status is undetermined. Searches of the 1961 and 1962 renewal volumes found no renewal, but those searches may not cover each whole volume. The 1963 volumes have not been checked, and the 1934 registration and notice were not located. Do not treat this as a finding that the copyright has lapsed. Check the 1963 volumes first, and check the Curwood source novel before you rely on the story."
+    ],
+    [
+      "Does an Internet Archive copy prove the film is free to reuse?",
+      "No. Uploads on the Internet Archive do not establish a copyright status. Treat them as places to find a copy and confirm the rights separately."
+    ]
+  ]
+}

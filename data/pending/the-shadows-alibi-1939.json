@@ -1,0 +1,67 @@
+{
+  "id": "the-shadows-alibi-1939",
+  "title": "The Shadow's Alibi",
+  "year": 1939,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Could not confirm that a 1939 film titled 'The Shadow's Alibi' exists. No production details (studio, cast, source) could be verified. The Catalog of Copyright Entries, Third Series, Parts 12-13 (Motion Pictures and Filmstrips), Jan-Dec 1967, Vol 21 No 1-2, exists on archive.org (catalogofc19673211213libr), but its contents were not read for this title, so no absence of renewal is claimed.",
+          "source": "Internet Archive metadata",
+          "url": "https://archive.org/details/catalogofc19673211213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966,
+      1967
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search “The Shadow's Alibi”; renewal years 1966–1967)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1966–1967 by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ],
+    "negative_result_note": null
+  },
+  "watch": [],
+  "editorial": "No source I could confirm confirms that a 1939 film called 'The Shadow's Alibi' exists. The title may be wrong or may belong to a different release, but that is not established.\n\nBecause the film would be from 1939, any public-domain claim would need proof of a missing notice or a missing renewal. That proof needs a confirmed identity first, then a check of the 1966–1967 renewal volumes and the Copyright Office catalog. None of that has been done, so every layer stays undetermined.",
+  "faq": [
+    [
+      "Is The Shadow's Alibi (1939) in the public domain?",
+      "Unknown. I could not confirm the film exists, so no layer is verified. A 1939 film is only public domain if its notice was missing or its renewal was never filed. Neither has been checked for this title."
+    ],
+    [
+      "How can I check whether it was renewed?",
+      "First confirm the correct title and studio. Then search the Copyright Office public records, and read the 1966–1967 volumes of the Catalog of Copyright Entries for motion pictures on archive.org. The DIY links above go to both."
+    ]
+  ]
+}
