@@ -1,0 +1,95 @@
+{
+  "id": "bluebeard-1944",
+  "title": "Bluebeard",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released in the US on November 11, 1944 by Producers Releasing Corporation. Its 28th-year renewal window is 1972, with the catalog volumes for 1971-1973 as the nearby ones. Only the opening ~39,000 characters of each volume's text could be read, and these did not reach the B entries for 1971 and 1972. A renewal search of the Copyright Office public catalog could not be run because the site needs interactive use. Renewal absence is therefore NOT established.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1972 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to Leo Erdody, with Charles Gounod. As a sound film the track would normally share the print's status, but that cannot be settled until the print's renewal status is known.",
+          "source": "Archive.org item metadata",
+          "url": "https://archive.org/details/bluebeard-1945"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film is based on the French tale Barbe bleue (Bluebeard). The screenplay is by Pierre Gendron, from an original story by Arnold Lippschitz and Werner H. Furst. The folk-tale source is old, but the screenplay and story are separate 1944 works whose copyright follows the film's. This was not independently checked against a primary record.",
+          "source": "Archive.org item metadata",
+          "url": "https://archive.org/details/bluebeard-1945"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972,
+      1973
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Bluebeard”, ~1971, 1972, 1973)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1972 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1971 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1973 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/bluebeard-1945",
+      "label": "Bluebeard (1944), Internet Archive, 72 min",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Bluebeard (1944) is a Producers Releasing Corporation horror-thriller directed by Edgar G. Ulmer. John Carradine plays Gaston Morrell, a Paris puppeteer and painter. Jean Parker and Nils Asther co-star. It was released in the US on November 11, 1944. For a reuser, it offers a Carradine lead, a period Paris setting and a Gounod-flavoured score, and it is already widely circulated online.\n\nThe rights trap is that the print's status is not confirmed. A 1944 film is public domain only if the notice was missing or the 28th-year renewal was never filed, and the renewal window here is 1972. Our check of the 1971-1973 catalog volumes was incomplete, and the Copyright Office catalog could not be searched. Until someone runs both searches, treat the film as unverified. The credited Gounod music is old, but the Erdody score and the screenplay are separate 1944 works.",
+  "faq": [
+    [
+      "Is Bluebeard (1944) public domain?",
+      "It is widely circulated as public domain, but we have not confirmed it. A 1944 film is public domain only if it was never renewed in its 28th year (1972). Our catalog check was incomplete, so search the Copyright Office public catalog for a renewal before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Only after the renewal check passes. Even then, a faithful copy adds no new US copyright, but any added titles, new music or colorization on a particular copy can be protected."
+    ]
+  ]
+}

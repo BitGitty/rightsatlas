@@ -1,0 +1,93 @@
+{
+  "id": "the-phantom-1943",
+  "title": "The Phantom",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I could not confirm a renewal for this serial. I have not read any renewal volume of the Catalog of Copyright Entries, and I have no page numbers or R-numbers. I have not confirmed the original registration date. Renewal could be filed in year 27 or 28 after registration. If registered in 1943, that means 1970 or 1971. If registered in 1944, it means 1971 or 1972. Read the motion-picture renewal entries for 1970, 1971 and 1972 (at minimum 1970 and 1971) before any status is set.",
+          "source": "Catalog of Copyright Entries, Motion Pictures renewals 1970-1972 (not yet read)",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives the serial as 15 chapters (299 min) released 24 December 1943 by Columbia Pictures. It says nothing about renewal of the serial's own copyright. It does say that in 1955 producer Sam Katzman discovered Columbia's rights to the character had expired, and that owner King Features was unwilling to renew them. I have not checked that claim against any primary record.",
+          "source": "Wikipedia: The Phantom (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_(serial)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The music is credited to Lee Zahler. I found no source on who owns the music or whether it was separately registered or renewed.",
+          "source": "Wikipedia: The Phantom (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_(serial)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on Lee Falk's comic strip, first syndicated to newspapers in 1936 by King Features Syndicate. A 1936 work stays protected for 95 years from publication only if its copyright was renewed (the renewal year would be around 1963-64). I did not check the strip's renewals, so its status is undetermined.",
+          "source": "Wikipedia: The Phantom (serial)",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971,
+      1972
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Phantom”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal volumes by hand (1970 and 1971 at minimum; 1972 if registered in 1944)",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-phantom-serial",
+      "label": "The Phantom (1943) – 15-chapter Columbia serial, Internet Archive upload by Serials R Us (May 2024). The upload's CC BY 4.0 tag is not evidence of copyright status.",
+      "quality": "15 chapters, MP4, about 2.2 GB in total"
+    }
+  ],
+  "editorial": "The Phantom is Columbia's 15-chapter serial, released 24 December 1943. It was directed by B. Reeves Eason and produced by Rudolph C. Flothow, with Tom Tyler in the title role. Lee Zahler is credited with the music. The plot is an expedition to find the Lost City of Zoloz, whose location is held on seven pieces of ivory. Chapters run from 'The Sign of the Skull' to 'Peace in the Jungle', 299 minutes in all per Wikipedia. It is easy to find online, and an Internet Archive item lists 15 MP4 chapters.\n\nThe trap is the renewal. I could not confirm whether the serial was renewed, so its status is undetermined. Check the Copyright Office records and the Catalog of Copyright Entries renewal volumes for 1970 and 1971 at minimum (1972 too if it was registered in 1944) before relying on this. Even a lapsed film copyright would leave Lee Falk's 1936 King Features strip and its character protected unless that strip's own renewal lapsed, which I did not check. Do not treat an Internet Archive upload, or its CC BY tag, as clearance. Clear the serial, the music and the character separately.",
+  "faq": [
+    [
+      "Is the 1943 Phantom serial public domain?",
+      "Unknown. I could not confirm a renewal. Check the Copyright Office records and the Catalog of Copyright Entries renewal volumes (1970 and 1971 at minimum; 1972 too if registered in 1944) before reuse."
+    ],
+    [
+      "Can I use clips if an Internet Archive copy is labelled CC BY?",
+      "No. The tag was set by the uploader and does not change the film's copyright status. The Phantom character also comes from Lee Falk's 1936 comic strip, which is a separate work and may still be protected."
+    ]
+  ]
+}
