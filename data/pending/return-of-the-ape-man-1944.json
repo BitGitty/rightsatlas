@@ -1,0 +1,74 @@
+{
+  "id": "return-of-the-ape-man-1944",
+  "title": "Return of the Ape Man",
+  "year": 1944,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1972 (Vol 26, Parts 12-13) lists: THE RETURN OF THE APE MAN, a photoplay in 6 reels by Monogram Pictures Corp., © 13May44, L12655. Renewed by Allied Artists Pictures Corp. (PWH, proprietor of copyright in a work made for hire), 5May72, R528467. This matches the 1944 Monogram film, so the 1944 copyright was renewed in its 28th year.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol 26, Motion Pictures and Filmstrips, 1972 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track was part of the film as registered and renewed, so it follows the print's status. I did not research any separate music publication rights.",
+          "source": "Catalog of Copyright Entries, Vol 26, 1972",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1971,
+      1972,
+      1973
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1972 volume (archive.org) — renewal entry R528467, 5 May 1972",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Return of the Ape Man was registered by Monogram Pictures Corp. on 13 May 1944 as a six-reel photoplay. Allied Artists Pictures Corp., the company that carried on Monogram's rights, renewed the copyright on 5 May 1972 as proprietor of a work made for hire (renewal R528467). The catalog volume for that year lists the renewal, so the film is not in the public domain under the renewal-absence route that frees many 1944 B-pictures.\n\nThe film circulates widely online in transfers of unclear provenance, and a copy being easy to find does not mean it is cleared. A renewed 1944 film is protected for 95 years from publication, so US protection runs through the end of 2039. A creator who wants to use clips or the full film needs a licence from whoever now holds the Monogram/Allied Artists library rights, or should wait for the term to expire.",
+  "faq": [
+    [
+      "Is The Return of the Ape Man (1944) in the public domain in the US?",
+      "No. The Catalog of Copyright Entries for 1972 lists a renewal by Allied Artists Pictures Corp., filed 5 May 1972 under R528467, for the 1944 Monogram film. That renewal extended the copyright, so the film is still protected."
+    ],
+    [
+      "Why do copies of it appear on the Internet Archive and YouTube?",
+      "Uploaders often assume that a low-budget 1944 film lapsed into the public domain. This film did not, because its renewal was filed. Being hosted online does not clear the rights, and I did not verify any of the online copies as licensed."
+    ]
+  ]
+}
