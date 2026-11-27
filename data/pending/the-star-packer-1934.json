@@ -1,0 +1,90 @@
+{
+  "id": "the-star-packer-1934",
+  "title": "The Star Packer",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The cited archive.org item is the Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1962 (Vol 16, No 1-2). A complete renewal check has not been done. The other renewal-year volumes were not verified here, and the 1934 original registration was not located. That is not enough to call the print public domain.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1962, identifier catalogofcopyr3161213libr (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page for the film gives a release date of 30 July 1934 (USA), director Robert N. Bradbury, production company Paul Malvern Productions and a runtime of about 54 minutes. These are the uploader's listings, not a copyright record. The release year and date are not confirmed in the copyright record.",
+          "source": "Internet Archive item page, The Star Packer",
+          "url": "https://archive.org/details/StarPacker"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the print's copyright status, so the score is undetermined until the print's status is settled.",
+          "source": "RightsAtlas analysis",
+          "url": "https://archive.org/details/StarPacker"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Star Packer”, ~1961, 1962, 1963)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/StarPacker",
+      "label": "The Star Packer (1934) on the Internet Archive",
+      "quality": "unverified-copy"
+    }
+  ],
+  "editorial": "The Star Packer is a 1934 B-western directed by Robert N. Bradbury. The Internet Archive item lists a US release date of 30 July 1934 and Paul Malvern Productions as the production company. Its description reads: a gang working for The Shadow is terrorizing the town, and John Travers decides to take on the job of sheriff and do something about it.\n\nThe rights trap is the renewal. A 1934 film's copyright had to be renewed in its 28th year, which falls in 1961-62. The renewal check is not complete. The cited 1962 Catalog of Copyright Entries volume is not enough on its own, other renewal-year volumes were not verified here, and the original registration was not located. Until a complete check is done, treat the print as unconfirmed. Names and likenesses of performers are a separate right. The Internet Archive copy is a user upload, so source and quality may vary.",
+  "faq": [
+    [
+      "Is The Star Packer public domain?",
+      "Not confirmed. No complete renewal check has been done, and the 1934 registration was not located. Complete the check of the renewal-year Catalog of Copyright Entries volumes before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Check the upload you use. User uploads vary in source and quality, so read the upload's own description. The print status is also still undetermined. Performers' names and likenesses are a separate matter."
+    ]
+  ]
+}

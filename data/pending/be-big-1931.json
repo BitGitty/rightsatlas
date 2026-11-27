@@ -1,0 +1,100 @@
+{
+  "id": "be-big-1931",
+  "title": "Be Big!",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures 1958 volume (Jan-Dec 1958). Search method: an archive.org search of the volume text for \"be big\" returned no match. The fetch tool reads only part of a long volume, so this does not show the whole volume was scanned, and OCR errors could hide an entry. Not proof of absence.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips 1958",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures 1959 volume. Search method: an archive.org search of the volume text for \"be big\" returned no match. The fetch tool reads only part of a long volume, so this does not show the whole volume was scanned, and OCR errors could hide an entry. Not proof of absence.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips 1959",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures 1960 volume. Search method: an archive.org search of the volume text for \"be big\" returned no match. The volume was not read page by page, and OCR errors could hide an entry. Not proof of absence.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips 1960",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. No source in this dossier establishes the copyright status of the recorded track separately from the film, so this layer is undetermined and unsupported by evidence.",
+          "source": "RightsAtlas research",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": "Searches of the text of the Catalog of Copyright Entries Motion Pictures volumes for 1958, 1959 and 1960 (archive.org, search for the phrase \"be big\") returned no match. The fetch tool reads only part of a long volume and the 1960 volume was not read page by page, so the volumes were not shown to be fully scanned and OCR errors could hide an entry. This is not conclusive evidence of non-renewal, and a manual check is still needed.",
+    "diy_links": [
+      {
+        "label": "CCE Motion Pictures 1958 (archive.org) - check the Hal Roach renewals by hand",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "CCE Motion Pictures 1959 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "CCE Motion Pictures 1960 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/halroachtworeeltalkies",
+      "label": "Hal Roach Two Reel Talkies (1929-1936) compilation; its file list includes a file named '046 Be Big.mp4' (unverified: file contents not checked, and its listed running time of about 28 minutes is not confirmed as the complete 1931 short)",
+      "quality": "compilation item; file metadata lists 640x480, quality unverified"
+    }
+  ],
+  "editorial": "Be Big! is a 1931 Laurel and Hardy two-reel sound comedy made at Hal Roach Studios, directed by James W. Horne. Wikipedia gives its release date as February 7, 1931. A file named '046 Be Big.mp4' is listed in an Internet Archive Hal Roach two-reel compilation, but we have not confirmed that the file is the complete film.\n\nThe rights question is renewal. Searches of the 1958, 1959 and 1960 Catalog of Copyright Entries volumes for \"be big\" found no renewal for Be Big!. Those searches did not cover the volumes page by page, and OCR can miss entries. So the print is not marked verified public domain. Check the Hal Roach renewal pages of those volumes by hand before relying on it.",
+  "faq": [
+    [
+      "Was Be Big! renewed?",
+      "We found no renewal in text searches of the 1958, 1959 or 1960 Catalog of Copyright Entries volumes. Those searches were not page-by-page and OCR may hide an entry, so a manual page check is still needed."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "A file named '046 Be Big.mp4' is listed inside a compilation item. We have not confirmed that it is the complete film, and its provenance is not documented here. If the renewal check clears, the film itself may be free to reuse. Clear any added material in a particular transfer before reuse. We found no source on the status of the score and soundtrack, so do not assume they follow the film."
+    ]
+  ]
+}

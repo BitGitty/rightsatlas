@@ -918,3 +918,6 @@
 {"date": "2026-11-27", "id": "the-underground-world-1943", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "the-monster-and-the-ape-1945", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "mr-imperium-1951", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "three-guys-named-mike-1951", "result": "blocked", "reasons": ["three-guys-named-mike-1951: bad status 'none_known' on restorations"]}
+{"date": "2026-11-27", "id": "the-star-packer-1934", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "be-big-1931", "result": "queued", "reasons": []}
