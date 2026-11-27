@@ -888,3 +888,6 @@
 {"date": "2026-11-27", "id": "king-of-the-rocket-men-1949", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "rage-at-dawn-1955", "result": "queued", "reasons": []}
 {"date": "2026-11-27", "id": "cyrano-de-bergerac-1950", "result": "refreshed", "reasons": []}
+{"date": "2026-11-27", "id": "the-farmers-wife-1928", "result": "blocked", "reasons": ["print verified_pd without a primary-source evidence entry", "dead evidence link https://en.wikipedia.org/wiki/The_Farmer%27s_Wife_(1928_film)"]}
+{"date": "2026-11-27", "id": "dick-tracy-returns-1938", "result": "queued", "reasons": []}
+{"date": "2026-11-27", "id": "behind-office-doors-1931", "result": "queued", "reasons": []}

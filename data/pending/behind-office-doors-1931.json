@@ -1,0 +1,95 @@
+{
+  "id": "behind-office-doors-1931",
+  "title": "Behind Office Doors",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia, citing David Pierce (Film History 19(2), 2007), says the film's US copyright was not renewed in its 28th year and that it entered the public domain in 1959. I could not check this against the Catalog of Copyright Entries renewal volumes or the Copyright Office public records. The renewal sections of those volumes were not searched, and the Copyright Office search app could not be queried. The print therefore stays undetermined until the renewal absence is confirmed first-hand.",
+          "source": "Wikipedia, Behind Office Doors (secondary, not primary)",
+          "url": "https://en.wikipedia.org/wiki/Behind_Office_Doors"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a 1931 sound film, so the recorded track normally shares the print's copyright status. No separate music copyright was checked. Cue-sheet and publisher status are unknown.",
+          "source": "research note",
+          "url": "https://archive.org/details/BehindOfficeDoors"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film's working title was 'Private Secretary'. It was adapted from the 1929 novel 'Private Secretary' by Alan Schultz. The novel's renewal status was not checked, so the source's copyright status is unknown.",
+          "source": "Wikipedia, Behind Office Doors (citing AFI Catalog)",
+          "url": "https://en.wikipedia.org/wiki/Behind_Office_Doors"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Behind Office Doors”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE 1958 Motion Pictures and Filmstrips (archive.org) — check the renewal section",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "CCE 1959 Motion Pictures and Filmstrips (archive.org) — check the renewal section",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "CCE 1931 Motion Pictures (archive.org) — original registration",
+        "url": "https://archive.org/details/catalogofcopyri41libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/BehindOfficeDoors",
+      "label": "Behind Office Doors (1931), RKO Radio Pictures, 82 min, black and white",
+      "quality": "Internet Archive upload from 2010, public-domain mark set by the uploader"
+    }
+  ],
+  "editorial": "Behind Office Doors is a 1931 RKO Radio Pictures drama. William LeBaron produced it and Melville W. Brown directed. Mary Astor plays Mary Linden, a private secretary. The picture ran 82 minutes and was released under the working title 'Private Secretary'. It was adapted from Alan Schultz's 1929 novel of that name, with a screenplay by Carey Wilson and adaptation and dialogue by J. Walter Ruben. Creators will find it as an early-sound office melodrama with a recognizable cast, and copies are on the Internet Archive.\n\nThe rights question is renewal. A film released in 1931 was protected for 28 years and needed a renewal filing in 1958 or 1959 to continue. Wikipedia says no renewal was filed, but I could not verify that in the Catalog of Copyright Entries renewal volumes or the Copyright Office records. Until you check those, do not treat the print as cleared. The Internet Archive's public-domain label is the uploader's claim, not a rights finding. The underlying novel's status has also not been checked.",
+  "faq": [
+    [
+      "Can I use Behind Office Doors in a video or documentary?",
+      "Not yet with confidence. Wikipedia reports that the 1931 copyright was not renewed, but I did not confirm that in the Catalog of Copyright Entries renewal volumes or the Copyright Office public records. Search those yourself first. The Internet Archive's public-domain label is only the uploader's claim."
+    ],
+    [
+      "Does the Internet Archive copy settle the rights?",
+      "No. The uploader marked it public domain, but that is not a rights determination. The novel 'Private Secretary' (1929) and any music in the soundtrack have also not been checked."
+    ]
+  ]
+}

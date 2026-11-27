@@ -1,0 +1,78 @@
+{
+  "id": "dick-tracy-returns-1938",
+  "title": "Dick Tracy Returns",
+  "year": 1938,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I could not confirm a renewal. The Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Jun 1966 (Vol 20, Nos 1-2) was fetched on 2026-11-27, and no entry for DICK TRACY or DICK TRACY RETURNS turned up in it. An earlier version of this dossier cited a renewal entry, R391799, with original registration L8315. That entry is not in the fetched text, so it has been removed. The original 1938 registrations and any renewals for any chapter are unverified.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, Jan-Jun 1966, archive.org (full text)",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item is titled \"Dick Tracy Returns 1938, Colorized, Serial, Complete,\" and its description reads \"Dick Tracy and the G-Men battle the Stark crime family. #colorized #serial #action\". It was uploaded by \"Colorizing Movies and Televison\" on 2023-07-21. The page does not state a chapter count. Colorization is added material that may carry its own protection. The quality of the copy is unverified.",
+          "source": "Internet Archive item page, fetched 2026-11-27",
+          "url": "https://archive.org/details/dick-tracy-returns-1938"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1966
+    ],
+    "negative_result": "Only the Jan-Jun 1966 Motion Pictures volume (Vol 20, Nos 1-2) was checked, and no Dick Tracy Returns entry was found there. Other 1965-1967 volumes, the Jul-Dec 1966 volume, and the 1938 registration volumes were not searched. This is not a finding that the film was never renewed.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Dick Tracy Returns”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes by hand, 1938 registrations and 1965-1967 renewals",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/dick-tracy-returns-1938",
+      "label": "Dick Tracy Returns 1938, Colorized, Serial, Complete (Internet Archive)",
+      "quality": "colorized copy; the colorization is added material; quality unverified"
+    }
+  ],
+  "editorial": "Dick Tracy Returns is a 1938 serial that follows Dick Tracy and the G-Men against the Stark crime family, per the Internet Archive description. A creator might want it for the cliffhanger-serial style.\n\nThe copyright status is open. The Jan-Jun 1966 Catalog of Copyright Entries volume has no entry for it. That does not rule out a renewal in another volume, and the 1938 registrations were not checked. The Tracy character and the comic-strip source are separate rights that were not cleared. The Internet Archive copy is a colorized upload, and the colorization is added material. Treat the film as protected until someone completes the search.",
+  "faq": [
+    [
+      "Is Dick Tracy Returns (1938) in the public domain in the US?",
+      "Unknown. The Jan-Jun 1966 Catalog of Copyright Entries volume has no renewal entry for it, but other volumes were not searched. Do not assume it is free. The Tracy character and comic-strip rights are separate and were not checked."
+    ],
+    [
+      "Can I use clips from the colorized Internet Archive copy?",
+      "Not safely. The underlying film's status is unresolved, and the colorization is added material that may carry its own protection."
+    ]
+  ]
+}
