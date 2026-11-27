@@ -1,0 +1,73 @@
+{
+  "id": "rage-at-dawn-1955",
+  "title": "Rage at Dawn",
+  "year": 1955,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive metadata record for the film lists the title, the year 1955, an 87 min runtime, director Tim Whelan, creator Nat Holt, publisher RKO Radio Pictures, and Randolph Scott in the cast. It shows nothing about notice or renewal. No renewal search was completed. Renewals filed from 1978 onward are searchable only in the US Copyright Office public records (publicrecords.copyright.gov). No printed Catalog of Copyright Entries volume exists for 1982-1983, because the printed CCE stopped after 1977. The public records database was not queried. The film's notice status was not checked. Release dates and the writer, composer and story credits are unverified.",
+          "source": "archive.org metadata record for the film upload (descriptive facts only)",
+          "url": "https://archive.org/metadata/RageatDawn"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1982,
+      1983
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Rage at Dawn”, 1982, 1983)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/RageatDawn",
+      "label": "Rage at Dawn (1955), Internet Archive, 87 min",
+      "quality": "full film"
+    },
+    {
+      "url": "https://archive.org/details/rageatdawn1955_201907",
+      "label": "Rage At Dawn 1955, Internet Archive",
+      "quality": "full film"
+    }
+  ],
+  "editorial": "Rage at Dawn is a 1955 film directed by Tim Whelan and starring Randolph Scott. The Internet Archive record names Nat Holt as creator and RKO Radio Pictures as publisher. A reuser might want it for the Randolph Scott cast and the two copies listed on the Internet Archive.\n\nThe rights trap is that the film is a 1955 release, so it is not free by term alone. Its status would depend on a missing notice or a missing renewal in the 1982-1983 renewal window. We have not confirmed either one, so the print stays undetermined. We have not verified the release dates or the writer, composer and story credits, and any underlying story could carry its own copyright. Search the Copyright Office public records for a renewal before reusing any of it.",
+  "faq": [
+    [
+      "Is Rage at Dawn in the public domain?",
+      "Not confirmed. It was released in 1955, so it would need a missing notice or a missing renewal. We did not search the Copyright Office public records, where renewals filed in 1982-1983 are found, so the print is undetermined. Search those records yourself before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copies?",
+      "Two copies are listed there. Hosting a file does not settle its copyright. Clear the renewal question first. The score and any underlying story are separate layers that also need checking."
+    ]
+  ]
+}

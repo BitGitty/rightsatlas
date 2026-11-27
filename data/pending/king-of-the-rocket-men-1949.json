@@ -1,0 +1,70 @@
+{
+  "id": "king-of-the-rocket-men-1949",
+  "title": "King of the Rocket Men",
+  "year": 1949,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Unverified lead: an earlier project catalog scan (the specific scan file is not identified here) reportedly listed renewal entries for KING OF THE ROCKET MEN under Repix, Inc. dated 8 Nov 1976 (R645401/R645402, R645406/R645407, R645411/R645412). No cited source confirms these entries or which episodes they cover. The archive.org item below is titled 'Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures, Jan-Dec 1976, Vol 30 No 1-2'. A fetch of its text read only about 39,000 of roughly 815,000 characters, and no entry for the title and no R645401 appeared in that portion. That is not a full check, so the entries are neither confirmed nor ruled out. The 1977 volume (Jan-Dec 1977) was checked the same way, with the same partial read and the same result. Until the renewal is checked in the full printed Catalog of Copyright Entries volumes, the print status is undetermined.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1976 (partial text read; title not found in the portion read)",
+          "url": "https://archive.org/details/1976motionpictur3301213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1976,
+      1977
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1976 (archive.org) — search the full text for “King of the Rocket Men” and “Repix”",
+        "url": "https://archive.org/details/1976motionpictur3301213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Third Series, Motion Pictures, Jan-Dec 1977 (archive.org) — search the full text for “King of the Rocket Men” and “Repix”",
+        "url": "https://archive.org/details/1977motionpictur3311213libr"
+      },
+      {
+        "label": "US Copyright Office — to request a search of pre-1978 records (the online public records cover 1978 and later)",
+        "url": "https://www.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "King of the Rocket Men is a 12-chapter Republic Pictures serial from 1949. That makes it attractive to anyone cutting retro sci-fi clips.\n\nThe rights status is unresolved. A renewal for a 1949 film would have been due in 1976 or 1977. An earlier project catalog scan reportedly found renewal entries under Repix, Inc. dated 8 November 1976. We have not confirmed those entries, and no source we cite shows which episodes they cover. A partial text read of the archive.org 1976 and 1977 Catalog of Copyright Entries volumes did not turn up the title in the portion read. That does not settle the question. The full volumes still need a complete search. A copy on the Internet Archive is not evidence of public domain status. Until the renewal question is settled, treat the film as possibly protected and do not assume it is free to use.",
+  "faq": [
+    [
+      "Is King of the Rocket Men in the public domain?",
+      "Unconfirmed. A renewal for a 1949 film would have been due in 1976 or 1977. An earlier project scan reportedly found 1976 renewal entries by Repix, Inc., but we have not verified them, and we do not know which episodes they would cover. Free copies online do not change the status. Search the 1976 and 1977 Catalog of Copyright Entries volumes in full, or get a licence, before you reuse more than a fair-use excerpt."
+    ],
+    [
+      "Can I use a copy from the Internet Archive?",
+      "Hosting on the Internet Archive does not clear the rights. If a renewal is confirmed, reuse needs permission from whoever holds the renewed copyright, or a defensible fair-use basis. Short clips for commentary or criticism are a separate fair-use question."
+    ]
+  ]
+}
