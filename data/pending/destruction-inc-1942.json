@@ -1,0 +1,100 @@
+{
+  "id": "destruction-inc-1942",
+  "title": "Destruction Inc.",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives the release date as 25 December 1942 (Famous Studios, Paramount). For a film published in 1942, the 28th year ends in 1970, so a renewal had to be filed in 1970. I have not searched the Jan-Jun 1970 or Jul-Dec 1970 sections of the CCE Motion Pictures volume, and I have not searched publicrecords.copyright.gov. No renewal or lapse is confirmed, so the status stays undetermined.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1970 (Internet Archive)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Copies of the film are hosted on the Internet Archive. Any public-domain tag on an upload is the uploader's claim, not a Copyright Office finding.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/destruction_inc"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia infobox lists the music as 'Music by' Winston Sharples and Sammy Timberg. This is a credit listing only, not a rights finding. As a sound film, the recorded track normally follows the film's own status, so the score is undetermined until the print's renewal status is settled.",
+          "source": "Destruction, Inc. (Wikipedia infobox, credits only)",
+          "url": "https://en.wikipedia.org/wiki/Destruction,_Inc."
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short stars Superman and Lois Lane, and Wikipedia describes the film as based on the DC Comics character Superman. I have not fetched any comic-book copyright record or any source stating who holds the character rights today, so the earlier not_pd status was unsupported and has been softened to undetermined.",
+          "source": "Destruction, Inc. (Wikipedia, lead sentence)",
+          "url": "https://en.wikipedia.org/wiki/Destruction,_Inc."
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “Destruction Inc.” (renewal due 1970)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1970 Motion Pictures (archive.org) — check the Jan-Jun and Jul-Dec renewal sections",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1942 Motion Pictures (archive.org) — original registration",
+        "url": "https://archive.org/details/catalogofcopyrig15libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/destruction-inc.-1942_202406",
+      "label": "Destruction Inc. (1942), 1080p upload, Internet Archive",
+      "quality": "1080p"
+    },
+    {
+      "url": "https://archive.org/details/destruction_inc",
+      "label": "Destruction Inc. (1942), older MPEG2/MP4 upload, Internet Archive",
+      "quality": "SD"
+    }
+  ],
+  "editorial": "Destruction Inc. is the 13th of the 17 Superman theatrical shorts, according to Wikipedia. Famous Studios made it in Technicolor, and Paramount distributed it. Wikipedia's infobox lists the release date as 25 December 1942, the director as Isadore Sparber, the story as Jay Morton, and the music as Winston Sharples and Sammy Timberg. These are credits only, not rights findings.\n\nThe rights are unsettled. I could not confirm a renewal or a lapse, because I have not searched the 1970 CCE sections or the Copyright Office records. Superman and Lois Lane come from the comics, and I have not checked a source on who holds those rights today. Any public-domain tag on an Internet Archive copy is the uploader's claim, not a legal finding.",
+  "faq": [
+    [
+      "Is Destruction Inc. in the public domain?",
+      "Not confirmed. A renewal would have been due in 1970, and I have not searched the 1970 CCE sections or the Copyright Office records. Do your own renewal search before relying on the film as free."
+    ],
+    [
+      "Can I reuse Superman in my own project because I use this cartoon?",
+      "Not safely. The character comes from the comics, and I have not confirmed who holds those rights. Even if the print is free, new work built around Superman can raise separate claims."
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "billion-dollar-limited-1942",
+  "title": "Billion Dollar Limited",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1942, so public domain depends on a missing renewal, and that is not proven. Renewal would have been filed around 1969-1971, so I looked in the Catalog of Copyright Entries motion-picture volumes for those years. I could read only the first part of the 1969 volume's text (about 40,000 of 917K characters). That part covers the front matter and the start of the alphabetical entries, which begin with 'A'. Within that part there was no 'Billion Dollar Limited' or 'Superman' entry. The 'B' entries, where this title would fall, and the renewal sections were not reached. Absence of a renewal is unconfirmed.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1969, Vol 23",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1970 volume: I read only the first 40,000 or so characters of about 1.1M. That covers the front matter and the start of the 'A' entries. No hit, but the 'B' entries and the renewal sections were not reached. Not exhaustive.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1970, Vol 24",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1971 volume: I read only the first 40,000 or so characters of about 1.3M. That covers the front matter and the start of the 'A' entries. No hit, but the 'B' entries and the renewal sections were not reached. Not exhaustive.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1971, Vol 25",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Unsupported. I found no source for the music. The Internet Archive page for the film gives only a plot description and no music or score credits. I have not confirmed who wrote the music, whether it has a separate copyright, or its renewal status.",
+          "source": "Internet Archive, Billion Dollar Limited (1942)",
+          "url": "https://archive.org/details/billion-dollar-limited-1942"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short is based on the Superman character. I did not find a source that shows the current copyright status of the Superman character, so this layer stays undetermined. The Wikipedia page for the short says nothing about copyright or public domain status. Check the character separately from the film print.",
+          "source": "Wikipedia, Billion Dollar Limited (secondary source)",
+          "url": "https://en.wikipedia.org/wiki/Billion_Dollar_Limited"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — renewals from 1969-1971 are found only in the Catalog of Copyright Entries volumes (or the Copyright Office's older card catalog and records); browse the Motion Pictures volumes for those years by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/billion-dollar-limited-1942",
+      "label": "Billion Dollar Limited (1942) at the Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Billion Dollar Limited is the third of the seventeen Fleischer Studios Superman cartoons. Dave Fleischer directed it for Paramount, and it was released on January 9, 1942. Robbers target a special train carrying a billion dollars in gold, and Superman stops them. Bud Collyer voices Clark Kent and Superman, and Joan Alexander voices Lois Lane. A creator would want it as a short piece of early 1940s superhero animation.\n\nThe rights trap is the character, not just the print. The film is based on Superman, and I did not confirm the status of the character. Treat it as a separate question from the 1942 print. The print's renewal status is also unconfirmed. I read only the first part of each 1969-1971 Catalog of Copyright Entries volume, which covers the 'A' entries. I did not reach the 'B' entries or the renewal sections. Renewals from those years are found only in the Catalog of Copyright Entries or the Copyright Office's older records. Check both the print and the character before reusing footage commercially.",
+  "faq": [
+    [
+      "Can I use Billion Dollar Limited in my own video?",
+      "Not safely yet. The print's renewal status is unconfirmed, because my search of the 1969-1971 catalog volumes covered only the first part of each, which does not reach this title. I also did not confirm the status of the Superman character. Clear both before commercial use."
+    ],
+    [
+      "Does the Internet Archive copy mean the film is free to reuse?",
+      "No. A copy at the Internet Archive shows the film is available to watch, not that the print, the character or the music is free. Rights depend on the renewal record and on the Superman character."
+    ]
+  ]
+}
