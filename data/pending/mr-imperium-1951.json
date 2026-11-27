@@ -1,0 +1,100 @@
+{
+  "id": "mr-imperium-1951",
+  "title": "Mr. Imperium",
+  "year": 1951,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Search note, not evidence of a renewal or of its absence. The archive.org item at this URL is titled 'Catalog of Copyright Entries, Fourth Series, Part 4: Motion Pictures & Filmstrips, Jan-June 1978, Vol 1 No 1'. An earlier pass looked for 'Imperium' in this 1978 volume. How much of it was read was not recorded, and no match was confirmed. A 1951 film's renewal was due in its 28th year, which is 1979, so this volume is not the main place to look. The volumes that matter are Motion Pictures, Jan-June 1979 and July-Dec 1979, plus Copyright Office records for 1979. None of these have been searched yet.",
+          "source": "Catalog of Copyright Entries, Part 4: Motion Pictures & Filmstrips, Jan-June 1978 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig14libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Wikipedia says: 'In 1979, the film entered the public domain in the United States because Metro-Goldwyn-Mayer neglected to renew the film's copyright registration in the 28th year after publication.' It is a secondary source and is not primary proof. Under the first-term rule, if no renewal was filed the copyright would have run out at the end of 1979, so the film would be free from January 1, 1980. Primary renewal-absence checks are still needed.",
+          "source": "Wikipedia, Mr. Imperium",
+          "url": "https://en.wikipedia.org/wiki/Mr._Imperium"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music by Bronislau Kaper. The recorded track is part of the sound film and normally shares the film's status. The status of any separate publication of the music was not checked.",
+          "source": "Wikipedia, Mr. Imperium",
+          "url": "https://en.wikipedia.org/wiki/Mr._Imperium"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Adapted from a play titled Mr. Imperium by Edwin H. Knopf, who co-wrote the screenplay with director Don Hartman. The play's publication and copyright status was not checked.",
+          "source": "Wikipedia, Mr. Imperium",
+          "url": "https://en.wikipedia.org/wiki/Mr._Imperium"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1979
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “Mr. Imperium” for renewals filed in 1979 (the year-28 deadline)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for Jan-June and July-Dec 1979 by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Mr.Imperium",
+      "label": "Mr. Imperium (1951) — Internet Archive",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/mr.-imperium-1951",
+      "label": "Mr. Imperium (1951) — Internet Archive, alternate upload",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Mr. Imperium is a 1951 MGM romance directed by Don Hartman, with Lana Turner as a film star and singer and Ezio Pinza as a man who turns out to be a prince. It was adapted from Edwin H. Knopf's play of the same name. Knopf co-wrote the screenplay, and Bronislau Kaper composed the score. The cast also includes Marjorie Main, Barry Sullivan, Cedric Hardwicke and a young Debbie Reynolds. It was released on March 2, 1951. A creator might want it for the Turner and Pinza pairing and for early Reynolds footage.\n\nThe rights question is the renewal. Wikipedia says MGM did not renew the registration in the 28th year. If no renewal was filed in 1979, the film's copyright would have run out at the end of 1979 (free from January 1, 1980). That is a secondary claim and our renewal search is incomplete. Our only own check was a partial look at the Jan-June 1978 catalog volume, which is not the main place a 1951 film's renewal would appear. The 1979 renewal volumes and Copyright Office records still need checking. Even if the print is free, the underlying play, Kaper's music and any modern restoration or added material are separate questions we have not settled.",
+  "faq": [
+    [
+      "Is the 1951 film Mr. Imperium in the public domain?",
+      "Wikipedia says MGM failed to renew the copyright in the 28th year. The film would be free from 1980 if no renewal was filed by the end of 1979, but this is not confirmed from primary records. Our only own check was a partial look at the Jan-June 1978 Catalog of Copyright Entries volume, which is not the main place a 1951 film's renewal would appear. Search the Copyright Office public records and the 1979 renewal volumes yourself before relying on it."
+    ],
+    [
+      "What else could still be protected besides the film print?",
+      "The Edwin H. Knopf play it is based on and Bronislau Kaper's music need their own checks. We did not verify either. A new transfer, score, titles or colorization added to a copy can carry their own protection even when the original print is free."
+    ]
+  ]
+}

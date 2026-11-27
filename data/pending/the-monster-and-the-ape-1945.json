@@ -1,0 +1,79 @@
+{
+  "id": "the-monster-and-the-ape-1945",
+  "title": "The Monster and the Ape",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures 1972 (Jan-Dec), renewal section: entry for MONSTER AND THE APE, A SERIES OF PHOTOPLAYS by Columbia Pictures Corp., CHAP. NO. 1, THE MECHANICAL TERROR, renewed by Columbia Pictures Industries, Inc., 14 June 1972, renewal number R530837. This entry covers Chapter 1 only. Only Chapter 1 is confirmed renewed. Renewal entries for Chapters 2-15 have not been checked, so the status of the serial as a whole is undetermined.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, 1972, Vol 26 No 1-2",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Lee Zahler. No separate renewal or cue-sheet record was checked for the score.",
+          "source": "Wikipedia: The Monster and the Ape",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_and_the_Ape"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writers as Royal K. Cole and Sherman L. Lowe. It does not say whether the serial is an original screenplay or an adaptation. No source-material copyright search was done.",
+          "source": "Wikipedia: The Monster and the Ape",
+          "url": "https://en.wikipedia.org/wiki/The_Monster_and_the_Ape"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972
+    ],
+    "negative_result": "Only the 1972 Motion Pictures volume was searched; it shows a renewal for Chapter 1 (R530837). The 1973 and 1974 volumes were not searched, and renewals for Chapters 2-15 are unchecked.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — 1972 Motion Pictures volume containing the renewal",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Monster and the Ape is a 15-chapter Columbia serial released on 20 April 1945. Howard Bretherton directed and Rudolph C. Flothow produced. Robert Lowery, George Macready and Ralph Morgan appear in the cast, and Ray Corrigan is credited as Thor, a trained ape (source: Wikipedia, The Monster and the Ape).\n\nThe Catalog of Copyright Entries for 1972 records a renewal by Columbia Pictures Industries, Inc. (R530837, filed 14 June 1972) for Chapter 1, 'The Mechanical Terror'. Only that Chapter 1 entry has been confirmed. Renewals for Chapters 2-15 have not been checked, so the status of the serial as a whole, and of the other chapters, is open. Free copies online are not evidence of clearance. Until each chapter is checked, do not assume any chapter is free to reuse.",
+  "faq": [
+    [
+      "Is The Monster and the Ape (1945) in the public domain?",
+      "Undetermined. The 1972 Catalog of Copyright Entries lists a renewal by Columbia Pictures Industries, Inc. (R530837, 14 June 1972) for Chapter 1, 'The Mechanical Terror'. Renewals for Chapters 2-15 have not been checked. Copies on video sites do not make any chapter free to reuse."
+    ],
+    [
+      "Can I use clips from the serial in my own video?",
+      "Only with a licence or a solid fair-use position. Short clips for commentary or criticism may qualify as fair use. Reusing whole chapters needs a clearance check for each chapter, or permission from the rights holder."
+    ]
+  ]
+}

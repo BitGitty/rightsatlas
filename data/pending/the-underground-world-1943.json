@@ -1,0 +1,93 @@
+{
+  "id": "the-underground-world-1943",
+  "title": "The Underground World",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-27",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released June 18, 1943, produced by Sam Buchwald and directed by Seymour Kneitel. No Catalog of Copyright Entries volume or Copyright Office database was searched for this dossier, so no renewal or non-renewal finding exists. The print is not marked public domain. The Internet Archive item page labels the film public domain, but I did not verify that claim.",
+          "source": "Wikipedia, The Underground World (credits and release date only)",
+          "url": "https://en.wikipedia.org/wiki/The_Underground_World"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The music is credited to Sammy Timberg. The film is a sound film, so the recorded track presumably shares the print's status. That status is unresolved, so the score's status is too.",
+          "source": "Wikipedia, The Underground World (credits only)",
+          "url": "https://en.wikipedia.org/wiki/The_Underground_World"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The short stars Superman, a character created by Jerry Siegel and Joe Shuster. The Internet Archive item description says the short is an homage to Edgar Rice Burroughs's 'At the Earth's Core'. I found no source on the character's current copyright status, and I did not check ownership or renewal records for it. The cartoon's own story may also be separate from the character. The story layer is therefore undetermined.",
+          "source": "Internet Archive item record, The Underground World (1943)",
+          "url": "https://archive.org/details/the-underground-world-1943"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No USPTO or other trademark registration was checked for SUPERMAN or the Superman logo. This layer is undetermined because no registration record has been reviewed.",
+          "source": "No trademark record consulted",
+          "url": "https://tmsearch.uspto.gov/"
+        }
+      ]
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — search “The Underground World” (renewals filed 1978 or later)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1970 and 1971 by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-underground-world-1943",
+      "label": "The Underground World (1943) on the Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Underground World is the sixteenth of seventeen Technicolor Superman cartoons made for Paramount. It was released June 18, 1943, runs about eight minutes, and was directed by Seymour Kneitel and produced by Sam Buchwald. Jay Morton wrote the story and Sammy Timberg composed the music. Jackson Beck is credited as narrator and Julian Noa as Perry White. Other cast credits are not stated here because the sources I checked disagreed. The Internet Archive item description describes the plot as an homage to Burroughs's 'At the Earth's Core'.\n\nThe rights trap is Superman himself. Even if the print of the cartoon proves free, the character is a separate asset with its own rights, and I did not verify its current status. I also did not check any trademark registration for the name or logo. No renewal search was performed for this dossier. Check the Copyright Office public catalog and the Catalog of Copyright Entries for 1970 and 1971 yourself before treating the print as public domain.",
+  "faq": [
+    [
+      "Is The Underground World (1943) free to use?",
+      "Not confirmed. No renewal search was performed. Check the Copyright Office records and the Catalog of Copyright Entries for 1970 and 1971 before relying on the print. The Superman character and name may carry separate rights, and I did not verify them."
+    ],
+    [
+      "Can I make new Superman content from this cartoon?",
+      "Not on the strength of this dossier. The cartoon's copyright and the Superman character's rights are separate questions, and I verified neither the character's status nor any trademark. Get independent legal advice before creating new Superman stories, merchandise, or branding."
+    ]
+  ]
+}
