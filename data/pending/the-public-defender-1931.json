@@ -1,0 +1,78 @@
+{
+  "id": "the-public-defender-1931",
+  "title": "The Public Defender",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1959 (Third Series, Vol. 13), lists \"PUBLIC DEFENDER\" as a renewal (R) under RKO Radio Pictures / RKO Teleradio Pictures. The OCR text of the entry reads: PUBLIC DEFENDER, a photoplay in eight reels by RKO Radio Pictures, original registration 22Jul31 LP2375, renewed 26Apr59, R234881. The 1931 original registration and the 1959 renewal fall inside the 28th-year renewal window, so the print's US copyright was renewed.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips 1959, Library of Congress Copyright Office (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track is part of the film as registered, so it shares the print's status: renewed in 1959 under R234881.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1959",
+          "url": "https://archive.org/details/catalogofcopyrig3131213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Public Defender”, ~1958, 1959, 1960)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Public Defender is a 1931 RKO Radio Pictures sound feature. The Catalog of Copyright Entries for 1959 records it as a photoplay in eight reels, registered 22 July 1931 as LP2375. The same volume records its renewal on 26 April 1959 as R234881. RKO filed that renewal in the 28th year of the term, so it is the first thing to know about this title.\n\nA creator should not treat this film as free to use. The renewal means the print and its recorded sound track stay under copyright for the extended term, and only a license from the rights holder or a successor clears them. Check the current owner before any use. Whatever source material the story drew on has not been confirmed here and is a separate question.",
+  "faq": [
+    [
+      "Is The Public Defender (1931) in the public domain in the US?",
+      "No. The 1959 Catalog of Copyright Entries lists a renewal for it, R234881, filed 26 April 1959 by RKO. The renewal extended the 1931 copyright, so the print is not free to reuse without permission."
+    ],
+    [
+      "Can I use the sound track or clips from a copy on the Internet Archive?",
+      "No. The sound track is part of the renewed film and shares its status. A copy being hosted online does not clear the rights, so get a license before using clips."
+    ]
+  ]
+}
