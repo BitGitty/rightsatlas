@@ -3,7 +3,7 @@
   "title": "Aladdin and His Wonderful Lamp",
   "year": 1939,
   "country": "US",
-  "last_verified": "2026-11-26",
+  "last_verified": "2026-11-28",
   "byline": "Popeye Color Special cartoon directed by Dave Fleischer and produced by Max Fleischer, released April 7, 1939.",
   "layers": {
     "print": {
@@ -17,7 +17,7 @@
         },
         {
           "type": "research_note",
-          "note": "No renewal search was completed in a verifiable way. The archive.org full-text files for the Catalog of Copyright Entries, Motion Pictures, 1967 (catalogofc19673211213libr) and 1966 (catalogofc19663201213libr) were fetched, but only about the first 39,000 characters of each were read. That covered front matter and the start of the current registrations under A and part of B. The renewal sections at the end of each volume were not reached, and the 1968 volume was not read. No entry for this title was seen, but that shows nothing about whether a renewal exists. For a 1939 work the renewal window is 1966-1967; 1968 is only a late-renewal check.",
+          "note": "The Catalog of Copyright Entries, Motion Pictures, 1966, 1967 and 1968 volumes were fetched and scanned through a text-extraction tool for the renewal sections. No renewal entry for this title, for Popeye, or for Max Fleischer was reported in any of them. The tool read the volumes in excerpts and did not cover every page, so this is not a complete, verifiable renewal search. The Copyright Office public catalog was not searched. Treat the result as not proven either way.",
           "source": "Catalog of Copyright Entries, Motion Pictures, 1967 (archive.org)",
           "url": "https://archive.org/details/catalogofc19673211213libr"
         }
@@ -87,11 +87,11 @@
       "quality": "Internet Archive copy; quality not assessed"
     }
   ],
-  "editorial": "Aladdin and His Wonderful Lamp is the last of the three Popeye Color Specials. Dave Fleischer directed it, Max Fleischer produced it, and it was released on April 7, 1939. Sammy Timberg is credited for the music and Jack Mercer voices Popeye. A creator would want it for the colour Fleischer animation and a recognisable cast in a story taken from One Thousand and One Nights.\n\nThe rights trap is that the print's status is not yet proven here. Wikipedia calls the short public domain, but no renewal search was completed: only the opening pages of the 1966 and 1967 Catalog of Copyright Entries volumes were read, and the renewal sections were not reached. The Copyright Office catalog was not searched. Do not rely on the print until you have run those searches yourself. Separately, the Aladdin tale is free, but the Popeye character and any franchise marks are a distinct question that this dossier leaves undetermined.",
+  "editorial": "Aladdin and His Wonderful Lamp is the last of the three Popeye Color Specials. Dave Fleischer directed it, Max Fleischer produced it, and Paramount distributed it on April 7, 1939, as a two-reel Technicolor short from Fleischer Studios. Sammy Timberg is credited for the music and Jack Mercer voices Popeye. A creator would want it for the colour Fleischer animation and a recognisable cast in a story taken from One Thousand and One Nights.\n\nThe rights trap is that the print's status is not yet proven here. Wikipedia calls the short public domain, but the renewal check is incomplete: the 1966, 1967 and 1968 Catalog of Copyright Entries volumes were only scanned in excerpts, and no renewal entry was reported, which does not prove none exists. The Copyright Office catalog was not searched. Do not rely on the print until you have run those searches yourself. Separately, the Aladdin tale is free, but the Popeye character and any franchise marks are a distinct question that this dossier leaves undetermined.",
   "faq": [
     [
       "Is this Popeye cartoon free to reuse?",
-      "Not yet confirmed here. Wikipedia describes it as public domain, but no renewal search was completed and no Copyright Office record was checked. Run those searches before you reuse it."
+      "Not yet confirmed here. Wikipedia describes it as public domain, but the renewal search of the 1966-1968 catalogs was partial and no Copyright Office record was checked. Run those searches before you reuse it."
     ],
     [
       "Does the Aladdin story being old make the cartoon free?",
