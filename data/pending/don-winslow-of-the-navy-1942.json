@@ -1,0 +1,112 @@
+{
+  "id": "don-winslow-of-the-navy-1942",
+  "title": "Don Winslow of the Navy",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A text search of the Catalog of Copyright Entries Motion Pictures volumes for 1969, 1970 and 1971 (the film's 28th-year renewal window) found no 'Winslow' entry. The search covered only parts of these large OCR files, so it is not conclusive. The Copyright Office public catalog (publicrecords.copyright.gov) was not searched, because it needs an interactive session. Print status stays undetermined until that search is done.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1970 (Vol 24)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion renewal-window volume, 1969: no 'Winslow' hit found (partial text search).",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1969 (Vol 23)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion renewal-window volume, 1971: no 'Winslow' hit found (partial text search).",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1971 (Vol 25)",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the film's copyright status. No separate music-publication or cue-sheet research was done, so the score layer is not confirmed.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/don-winslow-of-the-navy"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is based on the comic strip 'Don Winslow of the Navy' by Commander Frank V. Martinek. The strip's copyright and renewal history were not checked. A serial adaptation inherits the strip's separate term for the characters and story.",
+          "source": "Wikipedia, Don Winslow of the Navy (1942 serial) article (context only)",
+          "url": "https://en.wikipedia.org/wiki/Don_Winslow_of_the_Navy"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Don Winslow of the Navy”, ~1969, 1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1970 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1969 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1971 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/don-winslow-of-the-navy",
+      "label": "Don Winslow of the Navy (1942), Internet Archive Open Source Movies upload",
+      "quality": "unverified print quality"
+    },
+    {
+      "url": "https://archive.org/details/82794-don-winslow-of-the-navy",
+      "label": "Chapter 7 only, PeriscopeFilm upload",
+      "quality": "single chapter"
+    }
+  ],
+  "editorial": "Don Winslow of the Navy is a Universal serial released January 6, 1942, directed by Ford Beebe and Ray Taylor. Don Terry plays Cmdr. Don Winslow, with John Litel, Claire Dodd and Walter Sande in support. It is a wartime story of saboteurs and a hidden submarine base under the Pacific island of Tangita. The Wikipedia article lists 12 chapters and 237 minutes, which makes it good raw material for serial supercuts, wartime-propaganda studies and Navy-themed compilations.\n\nThe rights trap is that this is not one copyright. The film is adapted from Frank V. Martinek's comic strip, so the strip's characters and story have their own copyright history, and the name is a likely franchise mark. We found no renewal entry for 'Winslow' in the 1969–1971 catalog volumes, but that search was partial and the Copyright Office catalog has not been searched. We therefore do not claim the print is free. Finish that check before relying on the print, and clear the strip separately.",
+  "faq": [
+    [
+      "Is the 1942 Don Winslow of the Navy serial free to reuse?",
+      "Not confirmed. A partial text search of the 1969–1971 Catalog of Copyright Entries volumes found no renewal, but the Copyright Office public catalog still has to be searched. The underlying comic strip is a separate question."
+    ],
+    [
+      "Does the Internet Archive upload settle its rights?",
+      "No. The Internet Archive items are uploads, and their metadata gives no license. Chapter 7 comes from PeriscopeFilm's archive. An upload shows availability, not copyright status."
+    ]
+  ]
+}

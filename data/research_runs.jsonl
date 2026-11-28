@@ -967,3 +967,6 @@
 {"date": "2026-11-28", "id": "sagebrush-trail-1933", "result": "queued", "reasons": []}
 {"date": "2026-11-28", "id": "the-lawless-nineties-1935", "result": "blocked", "reasons": ["title/year does not match the queue row"]}
 {"date": "2026-11-28", "id": "the-mysterious-pilot-1937", "result": "queued", "reasons": []}
+{"date": "2026-11-28", "id": "don-winslow-of-the-navy-1942", "result": "queued", "reasons": []}
+{"date": "2026-11-28", "id": "the-lost-sleep-1946", "result": "blocked", "reasons": ["editorial asserts a legal conclusion but no layer has evidence", "no evidence on any layer — nothing researched to publish"]}
+{"date": "2026-11-28", "id": "texas-terror-1935", "result": "blocked", "reasons": ["fact-check: editorial: The editorial says \"I could not read the renewal sections of the 1962 and 1963 Catalog of Copyright Entries in full.\" That implies a partial read. The evidence notes say the renewal sections were not read at all. The editorial also mentions a queue flag, \"renewal absent likely\", that nothing in the dossier supports. -> Write: \"I did not read the renewal sections of the 1962 and 1963 Catalog of Copyright Entries, so no renewal search was performed for this title.\" Drop the \"renewal absent likely\" queue reference, or cite where it comes from."]}
