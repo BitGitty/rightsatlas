@@ -1,0 +1,74 @@
+{
+  "id": "westward-ho-1935",
+  "title": "Westward Ho",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1963 (Vol 17, Parts 12-13), Renewal Registrations: 'WESTWARD HO, a photoplay in seven reels by Republic Pictures Corp. © 7Aug35; L5705. Republic Corp. (PWH); R3189350.' This is the 1935 Republic film: the original registration is dated 7 Aug 1935 and the renewal was filed in the film's 28th-year window, so the copyright was renewed.",
+          "source": "Catalog of Copyright Entries 1963 Motion Pictures vol. 17, archive.org",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The soundtrack was recorded as part of the film and shares the renewed copyright of the photoplay (R3189350). I did not separately verify any underlying music clearances.",
+          "source": "Catalog of Copyright Entries 1963 Motion Pictures vol. 17",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Westward Ho”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1963 Motion Pictures volume (archive.org), Renewal Registrations — Westward Ho entry R3189350",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Westward Ho (1935) is a seven-reel Western that Republic Pictures Corp. registered for copyright on 7 August 1935 (L5705). It stars John Wayne and was made at Republic, which owned the film as a work made for hire. A creator would want it for its Wayne footage and its 1930s Western imagery.\n\nThe rights trap is that the copyright was renewed. The 1963 Catalog of Copyright Entries lists a renewal in Republic Corp.'s name, R3189350. That renewal falls in the film's 28th-year window, so the print is not in the public domain on a lapsed-renewal theory. Copies that circulate online as 'public domain' do not change that. Treat any reuse as needing a license from the current rights holder, and do not rely on a free-to-use claim from a hosting site.",
+  "faq": [
+    [
+      "Is Westward Ho (1935) public domain?",
+      "No. The Catalog of Copyright Entries for 1963 lists a renewal for the film, R3189350, filed in Republic Corp.'s name against the original 7 August 1935 registration. Because it was renewed, it is not free on a missing-renewal basis."
+    ],
+    [
+      "Can I use clips from a free online copy?",
+      "Not safely. A copy being freely available online does not affect the renewed copyright. Clearing clips means finding the current owner of Republic's rights, since the renewal was in Republic Corp.'s name."
+    ]
+  ]
+}

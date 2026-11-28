@@ -1,0 +1,83 @@
+{
+  "id": "king-of-the-congo-1952",
+  "title": "King of the Congo",
+  "year": 1952,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Columbia Pictures 15-chapter serial released May 1, 1952, per the film's Wikipedia page. This run could not confirm either a renewal or the absence of one. The 1979-1981 Catalog of Copyright Entries renewal volumes were not found by title search on archive.org, and the Copyright Office public catalog was not searched. No renewal search was completed, so the print status stays open.",
+          "source": "Wikipedia, King of the Congo",
+          "url": "https://en.wikipedia.org/wiki/King_of_the_Congo"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the music to Mischa Bakaleinikoff. No cue sheet was checked and no copyright or renewal record for the score was searched, so the score layer is open.",
+          "source": "Wikipedia, King of the Congo",
+          "url": "https://en.wikipedia.org/wiki/King_of_the_Congo"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Per Wikipedia, the serial is based on the comic book character Thun'da, created by Frank Frazetta and published by Magazine Enterprises. The comic's copyright and renewal status was not checked, so the story layer is open.",
+          "source": "Wikipedia, King of the Congo",
+          "url": "https://en.wikipedia.org/wiki/King_of_the_Congo"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1979,
+      1980,
+      1981
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “King of the Congo”, ~1979, 1980, 1981)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/KingOfTheCongoTrailer",
+      "label": "King of the Congo (1952) trailer on the Internet Archive",
+      "quality": "trailer only, not the full serial"
+    }
+  ],
+  "editorial": "King of the Congo is a 15-chapter Columbia Pictures serial released May 1, 1952. Sam Katzman produced it, Spencer Gordon Bennet and Wallace Grissell directed, and Buster Crabbe stars, with Gloria Dea, Leonard Penn and Jack Ingram in the cast. It is based on Thun'da, the comic book character created by Frank Frazetta and published by Magazine Enterprises. A creator might want it for its chapter-play pacing, chapter titles such as \"Menace of the Magnetic Rocks\" and \"Lair of the Leopard\" (chapters 9 and 10 on Wikipedia's chapter list), or as footage from what Wikipedia describes as the last Tarzan-style serial and the last serial to star Buster Crabbe.\n\nThe rights question is still open. The copyright status of the 1952 print could not be settled here: no renewal search was completed, and neither the 1979-1981 renewal records nor the Copyright Office catalog were checked. The film also rests on a separate comic-book source with its own copyright history. The only Internet Archive copy located is a 1:24 trailer, and its item page shows a Public Domain Mark 1.0 license field. That mark is not a rights finding. Check the renewal records yourself before reusing the footage.",
+  "faq": [
+    [
+      "Is King of the Congo (1952) safe to reuse?",
+      "Not yet confirmed. Copyright in the 1952 print turns on whether it was renewed in its 28th year, around 1979-1981. No renewal search was completed in this run, neither in the Copyright Office catalog nor in the renewal-year catalog volumes, so the print is marked undetermined. The Thun'da comic it is based on is a separate layer that was also not checked."
+    ],
+    [
+      "Does the Internet Archive's public-domain mark settle it?",
+      "No. The Internet Archive item found is a 1:24 trailer for the film, and its license field reads Public Domain Mark 1.0. That mark is not a rights finding. It is not a result from the Copyright Office or the Catalog of Copyright Entries, and it does not cover the full serial."
+    ]
+  ]
+}
