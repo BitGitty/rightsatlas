@@ -1,0 +1,81 @@
+{
+  "id": "branded-1931",
+  "title": "Branded",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (archive.org item catalogofcopyrig3121213li) has a Name Index line 'BRANDED (R)' under Gail Pictures International Corp. The same volume lists 1931 Columbia renewals for that claimant: The One Way Trail (R223373, original LP2551, 14Oct31), The Range Feud (R222669, original LP2507, 24Sep31) and Shot-Gun Pass (R225375, original LP2553, 13Oct31). I could not locate the full BRANDED renewal entry itself. Its page, renewal registration number, original registration number and date, filing date and claimant capacity are therefore unverified, and I have not confirmed that the index line refers to the Buck Jones Columbia film. The renewal is probable but not confirmed. If it is valid and matches this film, the term is 95 years from publication, to the end of 2026, and the film would enter the US public domain on 1 January 2027. Status is left undetermined until the entry is read. Music and underlying story may be protected separately.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1958 (Name Index)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I did not confirm what music the film uses or how it was registered. Any music in the film is most likely covered by the same renewed film copyright, but this is unverified.",
+          "source": "research note",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I did not fetch a source for the story's origin or publication date, so its status is not determined.",
+          "source": "research note",
+          "url": ""
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures Jan-Dec 1958 (archive.org), Name Index lists BRANDED (R) under Gail Pictures International Corp.",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "US Copyright Office public records, renewals filed 1978 or later",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "Branded is a 1931 American pre-Code Western from Columbia Pictures, directed by D. Ross Lederman and starring Buck Jones. Wikipedia gives a release date of 1 September 1931 (https://en.wikipedia.org/wiki/Branded_(1931_film)). I did not read an AFI Catalog entry. I have left the supporting cast out because I could not source it consistently.\n\nThe public domain status is undetermined as of 2026-11-28. The 1958 Catalog of Copyright Entries Name Index lists 'BRANDED (R)' under Gail Pictures International Corp., which probably indicates a renewal. I could not find the full entry, so the registration numbers, filing date and page are unverified. I also have not confirmed that the entry is for this film. If the renewal is valid, the 95-year term from publication runs to the end of 2026, and the film would enter the US public domain on 1 January 2027. Music, underlying story and any restoration may still need separate clearance. Do not confuse this with other films or shorts titled Branded.",
+  "faq": [
+    [
+      "Is the 1931 film Branded in the public domain?",
+      "Not determined as of 2026-11-28. The 1958 Catalog of Copyright Entries Name Index lists 'BRANDED (R)' under Gail Pictures International Corp., which probably indicates a renewal, but I could not read the full entry. If the renewal is valid and applies to this film, the film is protected for 95 years, to the end of 2026, and would become public domain on 1 January 2027. Separately protected elements such as music or the underlying story may still need clearing."
+    ],
+    [
+      "Could a different Branded renewal be the one I found?",
+      "Possibly. I could not find the full entry, so I could not match its details to this film. The index line names only the title and the claimant. Check the full entry in the 1958 volume before relying on it, and do not assume it applies to any other Branded title."
+    ]
+  ]
+}

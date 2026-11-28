@@ -1,0 +1,110 @@
+{
+  "id": "the-dawn-rider-1935",
+  "title": "The Dawn Rider",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1962 (the film's 28th-year renewal window runs 1962-1963). The OCR text was searched for the term 'DAWN RIDER' and no entry was found. Variant titles and alternate claimants were not searched, and the search may not cover the whole volume. This is not proof of non-renewal.",
+          "source": "Internet Archive, CCE 1962 Motion Pictures volume",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1963. The OCR text was searched for the term 'DAWN RIDER' and no entry was found. Variant titles and alternate claimants were not searched, and the search may not cover the whole volume. This is not proof of non-renewal.",
+          "source": "Internet Archive, CCE 1963 Motion Pictures volume",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "cce_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1964, checked as a late-filing backstop. The OCR text was searched for the term 'DAWN RIDER' and no entry was found. Variant titles and alternate claimants were not searched, and the search may not cover the whole volume. This is not proof of non-renewal.",
+          "source": "Internet Archive, CCE 1964 Motion Pictures volume",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1935 original-registration volume (CCE New Series, Dramatic Compositions and Motion Pictures 1935) was text-searched for 'DAWN RIDER' and for the guessed claimant name 'Lone Star Productions' with no hit, so the original registration entry was not located. 'Lone Star Productions' was a search guess, not a confirmed claimant, and the OCR may have gaps. Without the original registration, the claimant, registration date and title as registered are unconfirmed, so the renewal searches may have used the wrong title or claimant. The Copyright Office public records were not searched. The print status is therefore undetermined.",
+          "source": "Internet Archive, CCE 1935 volume",
+          "url": "https://archive.org/details/catalogofcopyrig81libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No cue sheet or composer credit was confirmed, and the Internet Archive item page does not mention music. Whether the soundtrack has separate rights is unknown, so this layer is left open.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/TheDawnRider"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Robert N. Bradbury wrote the screenplay. Wikipedia credits the story to Lloyd Nosler, but the underlying source and its publication or renewal status were not verified.",
+          "source": "Wikipedia (not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/The_Dawn_Rider"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": "The OCR text of the Catalog of Copyright Entries Motion Pictures volumes for 1962, 1963 and 1964 (Internet Archive) was searched for the term 'DAWN RIDER'. No renewal entry was found in the searched text. This is not proof of non-renewal: the original 1935 registration was not located, variant titles and claimants were not searched, and the OCR search may not cover each volume in full.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Dawn Rider”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheDawnRider",
+      "label": "The Dawn Rider (1935) on the Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/DawnRider35",
+      "label": "The Dawn Rider (1935), alternate upload",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "The Dawn Rider is a John Wayne B-western from 1935, directed and written by Robert N. Bradbury. Wikipedia gives a June 20, 1935 release by Monogram Pictures, and its infobox lists the production company as Lone Star Pictures. That is a film credit, not a confirmed copyright claimant. Wayne plays John Mason. Marion Burns plays Alice Gordon, and Reed Howes plays Ben McClure. Yakima Canutt and Earl Dwire are also in the cast. Creators looking for Wayne-era western footage have two Internet Archive uploads to start from.\n\nThe print status is undetermined. No renewal was found in the searched OCR text of the 1962, 1963 and 1964 Catalog of Copyright Entries motion-picture volumes, but that search has limits and is not proof of non-renewal. The original 1935 registration entry was not located, so the claimant and title as registered are unconfirmed. The Copyright Office public records were not searched. The open layers are the recorded music, which was not confirmed, and the underlying story, which Wikipedia credits to Lloyd Nosler without a verified source. Trademark and restoration status were not checked. Wayne's name and likeness are a separate matter from the film's copyright, and using them in promotion can raise right-of-publicity issues.",
+  "faq": [
+    [
+      "Can I reuse footage from The Dawn Rider?",
+      "The copyright status of the film print is not settled. No renewal was found in the searched OCR text of the 1962-1964 Catalog of Copyright Entries volumes, but the original 1935 registration was not located and the Copyright Office records were not searched. Music and story rights were not independently cleared. Do your own check before reusing the footage, soundtrack or plot."
+    ],
+    [
+      "Does John Wayne's appearance create a problem?",
+      "Copyright and publicity rights are separate. Footage of the film is one thing. Using Wayne's name or image to endorse or sell something is another, and state right-of-publicity law can apply to that."
+    ]
+  ]
+}

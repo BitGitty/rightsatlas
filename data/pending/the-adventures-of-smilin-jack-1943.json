@@ -1,0 +1,94 @@
+{
+  "id": "the-adventures-of-smilin-jack-1943",
+  "title": "The Adventures of Smilin' Jack",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Partial scan of the Catalog of Copyright Entries, Motion Pictures and Filmstrips volumes for 1970, 1971 and 1972 (1972 added only as a buffer beyond the expected 1970-71 renewal window), looking for 'Smilin' and OCR variants. Only about 19.5% of each file was read verbatim and the rest was machine-summarized, so the volumes were only partly read. The record does not say which parts or pages were covered. The lack of a hit therefore means nothing, and absence of a renewal is not established. The Copyright Office public catalog (publicrecords.copyright.gov) could not be queried in this session.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1970, 1971 and 1972 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "A sound serial. The recorded track would normally share the film's status, but no music credit or cue-sheet registration was checked, so the score is left undetermined.",
+          "source": "RightsAtlas research",
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Smilin%27_Jack"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The serial is based on Zack Mosley's comic strip Smilin' Jack, which debuted October 1, 1933. The strip's own copyright and any renewals were not checked, so the underlying story is left undetermined.",
+          "source": "Wikipedia, The Adventures of Smilin' Jack",
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Smilin%27_Jack"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Adventures of Smilin' Jack”, ~1970, 1971)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE 1970 Motion Pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE 1971 Motion Pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19713251213libr"
+      },
+      {
+        "label": "CCE 1972 Motion Pictures volume (archive.org), buffer year",
+        "url": "https://archive.org/details/catalogofc19723261213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/Adventures_of_Smilin_Jack",
+      "label": "The Adventures of Smilin' Jack (Internet Archive item, 11 files named sj1 to sj11; chapter titles not given, completeness not verified)",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Adventures of Smilin' Jack is a 1943 Universal serial with Tom Brown as Smilin' Jack Martin. It is a wartime adventure in which the hero stops a Japanese spy ring called the Black Samurai, led by a German agent, Fraulein von Teufel. It is adapted from Zack Mosley's newspaper strip, which began on October 1, 1933. A creator might want it for its serial-era aviation and spy-ring action. An Internet Archive item holds 11 files (sj1 to sj11). We have not checked whether they cover every chapter or what their quality is.\n\nThe rights are unsettled. Renewal absence is the usual route for a 1943 film, and a renewal would be expected around 1970-71. Our check of the 1970-72 Catalog of Copyright Entries volumes found no 'Smilin' entry, but the volumes were only partly read (about 19.5% verbatim), so that result means nothing. The Copyright Office catalog was not searched. Treat the print as unconfirmed until that is done. Separately, the comic strip is its own copyrighted work with its own term, and the Smilin' Jack name and character may carry trademark claims.",
+  "faq": [
+    [
+      "Can I reuse footage from the 1943 Smilin' Jack serial?",
+      "Not yet with confidence. Our partial check of the 1970-72 renewal volumes found no hit, but the volumes were only partly read, and the Copyright Office public catalog still has to be searched for 'The Adventures of Smilin' Jack'. Until that is done, do not treat the print as free."
+    ],
+    [
+      "Does the comic strip affect the serial?",
+      "Yes. The serial adapts Zack Mosley's strip, so the strip's copyright is a separate question from the film's. Characters and story elements drawn from the strip may stay protected even if the film print turns out to be free."
+    ]
+  ]
+}
