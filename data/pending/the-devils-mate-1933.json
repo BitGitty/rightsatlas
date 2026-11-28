@@ -1,0 +1,66 @@
+{
+  "id": "the-devils-mate-1933",
+  "title": "The Devil's Mate",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia gives a US release of August 20, 1933 (Monogram Pictures). Public domain would depend on a missing notice or a missing renewal in the renewal year (the 28th year of the term, calendar 1960-1961). I did not search a Catalog of Copyright Entries renewal volume, so I have no result for the renewal check. The print is left undetermined.",
+          "source": "Wikipedia, Devil's Mate",
+          "url": "https://en.wikipedia.org/wiki/Devil%27s_Mate"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1960 and 1961 by hand to check for a renewal",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records — only for post-1977 recordations such as transfers (search “The Devil's Mate”); not a renewal check for 1960-61",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Devil's Mate is a 68-minute mystery from Monogram Pictures, released August 20, 1933. Phil Rosen directed. Leonard Fields and David Silverstein wrote it. Peggy Shannon and Preston Foster are in the cast. In the plot, a murderer named Maloney is being executed and is willing to expose an underworld mob boss, but a poison dart kills him before he can tell anything. Rosen later remade it as I Killed That Man (1941).\n\nThe rights trap is the print's status, which is not yet settled. Because the film dates from 1933, it is free only if its notice was missing or its renewal was never filed in the renewal year (calendar 1960-1961). This dossier did not search for either. Check the Catalog of Copyright Entries Motion Pictures volumes for 1960 and 1961 yourself before relying on any copy. The Copyright Office online records only cover post-1977 recordations, such as transfers, so they cannot show a 1960-61 renewal. The score and the source of the story are also unchecked.",
+  "faq": [
+    [
+      "Is The Devil's Mate in the public domain?",
+      "Not confirmed. A 1933 film is free only if its notice was missing or its renewal was never filed in 1960-1961. This dossier did not search either, so check the Catalog of Copyright Entries for 1960 and 1961 before reusing it."
+    ],
+    [
+      "Can I use a copy found online?",
+      "Only after the renewal check comes back clean. Even then, any score, titles or other material that a modern release added may be protected separately."
+    ]
+  ]
+}
