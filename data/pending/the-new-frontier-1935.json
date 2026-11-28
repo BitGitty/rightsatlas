@@ -1,0 +1,67 @@
+{
+  "id": "the-new-frontier-1935",
+  "title": "The New Frontier",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol. 17, Parts 12-13, Motion Pictures and Filmstrips (January-June 1963), Renewal Registrations section, page 125. The entry reads (OCR text): 'THE NEW FRONTIER, a photoplay in six reels by Republic Pictures Corp. © [October 1935]; L5834. Republic Corp. (PWH); [day] 1963; R318954.' The renewal claimant is Republic Corp., as proprietor of a work made for hire (PWH). The original registration is L5834 and the renewal registration is R318954. The OCR renders the renewal date as '22Ju163', so we give only the year, 1963. The entry gives no director or cast. We match it to this film by title, original registration year (1935) and renewal year, not by any credits on the page.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1963 (archive.org), full text",
+          "url": "https://archive.org/stream/catalogofcopyr3171213libr/catalogofcopyr3171213libr_djvu.txt"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures 1963 (archive.org), renewal entry R318954 on page 125",
+        "url": "https://archive.org/stream/catalogofcopyr3171213libr/catalogofcopyr3171213libr_djvu.txt"
+      },
+      {
+        "label": "US Copyright Office public records",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The 1963 Catalog of Copyright Entries (Motion Pictures and Filmstrips, Jan-June 1963, page 125) lists a renewal of 'The New Frontier', a photoplay in six reels, original registration L5834, by Republic Corp. (PWH) as R318954. Our queue had flagged this film as a likely renewal absence. That flag was wrong. The renewal entry exists, so the US copyright in the 1935 film was extended and the film is not in the public domain.\n\nOne caveat is about identity. The entry gives no director or cast. We match it to the 1935 film by title, original registration year and renewal year. Several unrelated works are also called New Frontier, so a casual search can mix them up.\n\nWe did not check whether a score or cue music was registered or renewed separately, so the score layer is undetermined. Anyone planning to reuse this film should treat the print as protected. A free copy posted online does not change the renewed status.",
+  "faq": [
+    [
+      "Is The New Frontier (1935) in the public domain?",
+      "No. The 1963 Catalog of Copyright Entries (page 125) lists a renewal by Republic Corp. (R318954) of original registration L5834, so the US copyright was extended."
+    ],
+    [
+      "Can I use clips from a free-streaming copy?",
+      "Not safely. A streaming copy does not change the copyright status. The renewed film still needs permission from the rights holder. We have not checked the score separately."
+    ]
+  ]
+}

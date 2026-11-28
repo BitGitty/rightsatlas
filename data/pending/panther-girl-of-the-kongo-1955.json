@@ -1,0 +1,98 @@
+{
+  "id": "panther-girl-of-the-kongo-1955",
+  "title": "Panther Girl of the Kongo",
+  "year": 1955,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "UNCONFIRMED. Our catalog script returned a possible Copyright Office renewal hit (RE0000136452), but the record page could not be fetched on 2026-11-28 because the Copyright Office public records site does not load for automated fetching. We could not confirm the record number, claimant, renewal date or scope (including whether it covers episodes 1-12). No renewal search has been completed, and no negative result is recorded. Do not rely on this layer until the record is checked by hand.",
+          "source": "US Copyright Office public records (search entry page only; no specific record page verified)",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Provisional. If the serial was renewed, the sound track would most likely share that status, but the print renewal is unconfirmed. Any separate status for stock or library music used in a Republic serial has not been checked.",
+          "source": "Derived from the unconfirmed print renewal lead",
+          "url": "https://publicrecords.copyright.gov/"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Ronald Davidson as writer of this original Republic serial. No underlying source work was identified.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Panther_Girl_of_the_Kongo"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "An Internet Archive item, uploaded by user 'Serials R Us' in March 2025, is described as a 12-chapter colorized cliffhanger serial and carries an Attribution 4.0 International label. That label was set by the uploader and is not evidence of the film's copyright status. Colorization is added material and can carry its own protection.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/panther-girl-of-the-kongo"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1982,
+      1983,
+      1984
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records, renewals filed 1978 or later (not yet searched by us; search “Panther Girl of the Kongo” and RE0000136452)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Virtual Card Catalog (Copyright Office, 1870-1977 records)",
+        "url": "https://vcc.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org): browse the Motion Pictures renewal-year volumes by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/panther-girl-of-the-kongo",
+      "label": "Panther Girl of the Kongo (1955), Internet Archive, colorized 12-chapter version",
+      "quality": "colorized serial; the upload and its license label are not evidence of public-domain status"
+    }
+  ],
+  "editorial": "Panther Girl of the Kongo is a 12-chapter Republic Pictures serial directed by Franklin Adreon and written by Ronald Davidson. It was released on January 3, 1955. Jean Evans, a wildlife photographer on a photo safari, is the Panther Girl. The plot involves a mad scientist, Dr. Morgan, giant crayfish called Claw Monsters, and secret diamond mines.\n\nThe rights status is unresolved. A catalog search turned up a possible Copyright Office renewal record, RE0000136452, but we could not open the record page. We have not confirmed its claimant, date or scope. Until someone checks the record or a Catalog of Copyright Entries renewal volume by hand, do not assume the print is public domain. The Internet Archive copies, including the colorized upload, do not settle the question either way. Check the Copyright Office record directly before any commercial use.",
+  "faq": [
+    [
+      "Is Panther Girl of the Kongo in the public domain?",
+      "Unknown. A catalog search indicated a possible renewal record, RE0000136452, but we could not fetch or confirm it. Treat the print as possibly still protected until the record is checked. Being hosted on the Internet Archive does not clear it."
+    ],
+    [
+      "Can I use clips from the Internet Archive colorized version?",
+      "Not safely. The colorization is added material, and the underlying serial may have been renewed. The Internet Archive license label was set by the uploader. Check the Copyright Office records or get permission from any rights holder before using clips."
+    ]
+  ]
+}
