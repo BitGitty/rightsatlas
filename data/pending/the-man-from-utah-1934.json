@@ -1,0 +1,99 @@
+{
+  "id": "the-man-from-utah-1934",
+  "title": "The Man from Utah",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Released May 15, 1934 by Monogram Pictures, so public domain depends on a missing renewal. Only part of the 1961 and 1962 renewal volumes could be searched and no renewal entry turned up in the portions read. Neither the 1934 registration nor the full renewal volumes were checked, so absence is not established.",
+          "source": "Wikipedia, The Man from Utah (facts only, not a primary source)",
+          "url": "https://en.wikipedia.org/wiki/The_Man_from_Utah"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track normally shares the film's own copyright status, so this layer follows the print. No separate music credit or cue-sheet was confirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/TheManFromUtah"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The writing credit goes to Lindsley Parsons. No pre-existing source work was confirmed, so the story layer is unresolved.",
+          "source": "Wikipedia, The Man from Utah",
+          "url": "https://en.wikipedia.org/wiki/The_Man_from_Utah"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Man from Utah”, ~1961, 1962, 1963)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures 1961 Jan–Jun (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      },
+      {
+        "label": "CCE Motion Pictures 1961 Jul–Dec (archive.org)",
+        "url": "https://archive.org/details/CatalogOfCopyrightEntriesMotionPictures1961Jul-dec"
+      },
+      {
+        "label": "CCE Motion Pictures 1962 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "CCE 1934 Dramatic Compositions and Motion Pictures, registrations (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyrig71libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheManFromUtah",
+      "label": "The Man from Utah (1934), Internet Archive, 52 min, tagged Public Domain",
+      "quality": "unrated"
+    }
+  ],
+  "editorial": "The Man from Utah is a 1934 Monogram Western released May 15, 1934. It was directed by Robert N. Bradbury and produced by Paul Malvern, and it is one of the Lone Star series John Wayne made for Monogram. Wayne plays John Weston, a rider who goes undercover at a crooked rodeo. George \"Gabby\" Hayes plays a marshal, and Yakima Canutt is in the cast. It was shot at Lone Pine, California, on a reported $12,000 budget. It is a short, pre-Code B Western, which makes it easy to cut into clips and compilations.\n\nThe rights trap is the print itself. Public domain status for a 1934 film depends on nobody having renewed the copyright in its 28th year, around 1961–62. Our search covered only part of the Catalog of Copyright Entries renewal volumes, and the Copyright Office catalog was not searched. Treat the print as unconfirmed until both are checked. Public-domain labels on uploaded copies are not evidence. The score, any added titles, and any later restoration are separate questions.",
+  "faq": [
+    [
+      "Is The Man from Utah public domain in the US?",
+      "Not confirmed here. It was released in 1934, so it is public domain only if its copyright was never renewed. Our search of the 1961 and 1962 renewal volumes was partial, and the Copyright Office catalog was not searched. Run the linked searches before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "The Internet Archive item is tagged Public Domain, but that tag is the uploader's label and not a rights finding. Use it only after confirming the renewal search. A copy with added music, titles or colour carries extra material that may be protected."
+    ]
+  ]
+}

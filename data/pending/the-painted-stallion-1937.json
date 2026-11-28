@@ -1,0 +1,110 @@
+{
+  "id": "the-painted-stallion-1937",
+  "title": "The Painted Stallion",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1964 volume (28th-year window). A full-text scan for 'PAINTED STALLION' found no entry. The scan was a plain text search, not a page-by-page read, and renewals may be listed under chapter titles. I did not complete a Copyright Office public-records search, so non-renewal is not established.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, 1964",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Same scan of the Jan-Dec 1965 volume found no entry for 'PAINTED STALLION'. Same limits as the 1964 scan.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, 1965",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Same scan of the Jan-Dec 1966 volume found no entry for 'PAINTED STALLION'. Same limits as the 1964 scan.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, 1966",
+          "url": "https://archive.org/details/catalogofc19663201213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded track normally shares the print's status, so the score is undetermined until the print's renewal status is settled. No separate music copyright was checked.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/the-painted-stallionthe-painted-stallion"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits writers Morgan Cox, Ronald Davidson, Hal G. Evarts, Winston Miller and Barry Shipman and cites no source material. It looks like an original serial, but the writers' earlier work was not checked.",
+          "source": "Wikipedia, The Painted Stallion (background only, not primary)",
+          "url": "https://en.wikipedia.org/wiki/The_Painted_Stallion"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Alpha Video issued a DVD on December 27, 2005 (per Wikipedia). The edition's contents and any added material were not examined.",
+          "source": "Wikipedia, The Painted Stallion",
+          "url": "https://en.wikipedia.org/wiki/The_Painted_Stallion"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": "A full-text scan of the 1964, 1965 and 1966 Catalog of Copyright Entries Motion Pictures volumes for 'PAINTED STALLION' found no entry. The Copyright Office public records (1978 and later) were not searched, because the site needs interactive use. The scan is not a page-by-page read, so the result is provisional.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Painted Stallion”, ~1964, 1965, 1966)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-painted-stallionthe-painted-stallion",
+      "label": "The Painted Stallion (1937), complete 12-chapter serial, Internet Archive",
+      "quality": "complete serial; user upload, quality not assessed"
+    }
+  ],
+  "editorial": "The Painted Stallion is a 12-chapter Republic Pictures serial released June 5, 1937. It was directed by Alan James, Ray Taylor and William Witney. Ray \"Crash\" Corrigan stars as Clark Stuart, with Hoot Gibson, LeRoy Mason and Duncan Renaldo. Hal Taliaferro and Jack Perrin play Jim Bowie and Davy Crockett. Republic cut the serial into a 67-minute feature, released February 11, 1938. A creator would want it for the Western serial footage and the frontier-figure cameos.\n\nThe rights trap is the renewal record. As a 1937 film its first term ran 28 years, so any renewal would fall in 1964 to 1966. A text scan of the Catalog of Copyright Entries volumes for those years found no listing. That scan was not a page-by-page read, and the Copyright Office public-records search was not completed. Until both are done, treat the print as unconfirmed. Do not assume the 1938 feature cut or the 2005 Alpha Video DVD share the serial's status.",
+  "faq": [
+    [
+      "Can I use The Painted Stallion in my own project?",
+      "Not yet with confidence. A text scan of the 1964 to 1966 Catalog of Copyright Entries found no renewal. The Copyright Office public records, which cover filings from 1978 on, have not been searched. Run that search first. A repeat of the volume check by hand would also help."
+    ],
+    [
+      "Does the Internet Archive upload mean the film is free to reuse?",
+      "No. The Internet Archive item is a user upload, and hosting a film there is not a rights finding. Use it to watch the serial. Settle the renewal question before you reuse any footage."
+    ]
+  ]
+}

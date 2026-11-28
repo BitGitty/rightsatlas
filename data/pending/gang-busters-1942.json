@@ -1,0 +1,111 @@
+{
+  "id": "gang-busters-1942",
+  "title": "Gang Busters",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal serial released 1942. A renewal would have fallen due in the 1969-1970 window. The Catalog of Copyright Entries renewal sections for 1969 and 1970 could not be read in full in this session, so the absence of a renewal is NOT confirmed. The Copyright Office online public records cover 1978 onward, so they cannot confirm or rule out a 1969-1970 renewal.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1969 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1970 renewal-year volume, same limitation: the renewal section was not read in full.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1970 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Production facts (producer Ford Beebe, directors Noel M. Smith and Ray Taylor, cast, 13 chapters, 251-minute running time, re-release by Film Classics in 1949) are taken from this page. They say nothing about copyright status.",
+          "source": "Wikipedia, Gang Busters (serial)",
+          "url": "https://en.wikipedia.org/wiki/Gang_Busters_(serial)"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Based on the radio series Gang Busters, with Phillips Lord credited as a writer (Wikipedia). The radio series' own copyright status and any rights Lord or his estate held were not researched, so this layer is open.",
+          "source": "Wikipedia, Gang Busters (serial)",
+          "url": "https://en.wikipedia.org/wiki/Gang_Busters_(serial)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item for the 13-chapter serial lists \"colorized\" among its topics, so a colorized copy may add protected material. Another upload (Gang Busters 1) is VHS-sourced per its uploader. No formal restoration release was found.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/gang-busters-serial"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": "Incomplete. The 1969 and 1970 Catalog of Copyright Entries volumes were located, but the renewal sections were not read in full. A tool summary reported no Gang Busters entry, which is not verified. The Copyright Office online records cover 1978 onward and cannot confirm a 1969-1970 renewal; only the Catalog volumes, or a direct request to the Copyright Office, can. Renewal status remains open.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1969, Motion Pictures (archive.org) — check the renewal section first",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1970, Motion Pictures (archive.org) — check the renewal section first",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1960-1969 cumulative, Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/Motionpict19601969librrich0013"
+      },
+      {
+        "label": "US Copyright Office public records (covers 1978 onward only; cannot confirm a 1969-1970 renewal)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/gang-busters-serial",
+      "label": "Gang Busters (1942), all 13 chapters, Internet Archive",
+      "quality": "13 MP4 chapters; listed as colorized, so check before use"
+    },
+    {
+      "url": "https://archive.org/details/GangBusters1",
+      "label": "Gang Busters 1 (chapter 1, The League of Murdered Men), Internet Archive",
+      "quality": "Single chapter, VHS-sourced upload"
+    }
+  ],
+  "editorial": "Gang Busters is a 13-chapter Universal serial from 1942, produced by Ford Beebe and directed by Noel M. Smith and Ray Taylor. It stars Kent Taylor as Det. Lt. Bill Bannister, with Irene Hervey, Ralph Morgan as the villain Professor Mortis, and Robert Armstrong. It opens with \"The League of Murdered Men\" and was adapted from the Gang Busters radio series, with Phillips Lord credited as a writer. Film Classics re-released it in 1949 (per Wikipedia). With a running time of about four hours (251 minutes across 13 chapters), the cliffhanger material and recognisable title suit compilation, commentary or clip work.\n\nThe rights question is open, not settled. A 1942 film needed a renewal around 1969-1970 to keep its copyright. Our check of the Catalog of Copyright Entries volumes was incomplete, and the Copyright Office online records (1978 onward) cannot settle a 1969-1970 renewal, so we have not confirmed that no renewal exists. Check the Catalog renewal sections yourself before relying on the print. Separately, the radio source and the GANG BUSTERS name may carry their own rights, and online copies may be VHS-sourced or colorized, which may add protected material.",
+  "faq": [
+    [
+      "Is the 1942 Gang Busters serial free to reuse?",
+      "Not confirmed. The print's status depends on whether Universal renewed the copyright around 1969-1970. Our catalog check was incomplete. Search the 1969 and 1970 Catalog of Copyright Entries renewal sections (and the 1960-1969 cumulative) yourself. The Copyright Office online records cover only 1978 onward and cannot confirm a 1969-1970 renewal, so ask the Copyright Office directly if the catalogs leave doubt."
+    ],
+    [
+      "Does the Gang Busters name or radio source create extra risk?",
+      "Possibly. The serial was based on the Gang Busters radio series, and we did not research that source's copyright or any current trademark on the title. Check both before using the name commercially, even if the film itself is clear."
+    ]
+  ]
+}
