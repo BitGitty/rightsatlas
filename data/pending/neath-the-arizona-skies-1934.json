@@ -1,0 +1,102 @@
+{
+  "id": "neath-the-arizona-skies-1934",
+  "title": "Neath the Arizona Skies",
+  "year": 1934,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released Dec 5, 1934 by Monogram, so its public-domain status depends on a missing renewal. The 28th-year renewal window falls in 1961-1962. Text searches of the Jan-Dec 1961 and Jan-Dec 1962 motion-picture catalog volumes (partial text only, because the files were truncated) found no entry for 'Arizona Skies', 'Lone Star Productions', 'Malvern' or 'Monogram'. A full-volume check and a Copyright Office public-catalog search have not been done, so absence of a renewal is not yet proven.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1962",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Companion 1961 renewal volume, also only partially searched.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1961",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Music is credited to Billy Barber. The recorded track is part of the sound film and would normally follow the film's own status. Nothing was found on whether any music was separately registered or renewed.",
+          "source": "Wikipedia film article (credits only)",
+          "url": "https://en.wikipedia.org/wiki/%27Neath_the_Arizona_Skies"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The screenplay is credited to Burl R. Tuttle. No source novel or story was found in the credits consulted, so it appears to be an original screenplay. Whether the script was separately registered or renewed was not checked.",
+          "source": "Wikipedia film article (credits only)",
+          "url": "https://en.wikipedia.org/wiki/%27Neath_the_Arizona_Skies"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1961,
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Neath the Arizona Skies”, ~1961, 1962, 1963)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1962 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1961 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/NeaththeArizonaSkys",
+      "label": "'Neath the Arizona Skies (1934), Lone Star Productions, 52 min, B&W",
+      "quality": "standard"
+    },
+    {
+      "url": "https://archive.org/details/neathTheArizonaSkiesVideoQualityUpgrade",
+      "label": "'Neath the Arizona Skies, uploader's sharper video-quality upgrade",
+      "quality": "better"
+    }
+  ],
+  "editorial": "'Neath the Arizona Skies is a 52-minute B-western released December 5, 1934 by Monogram Pictures. It was made by Paul Malvern's Lone Star Productions and directed by Harry L. Fraser. John Wayne plays Chris Morrell, guardian of Shirley Jean Rickert's young half-Indian heiress, whose late mother left her oil-bearing land. Sheila Terry, Yakima Canutt and an uncredited George 'Gabby' Hayes round out the cast. Wayne fans and B-western compilers want it because it is a short, easy-to-cut Lone Star feature from the period when Wayne made them for Monogram.\n\nThe rights question is renewal. A 1934 release needed a renewal filing in its 28th year, around 1961-1962. Our text search of the 1961 and 1962 catalog volumes found no entry, but those files were only partly searchable and the Copyright Office public catalog has not been checked. Until a full-volume check and a catalog search both come back empty, treat the print as unconfirmed. Internet Archive copies labelled 'Public Domain' are uploader tags, not rights evidence.",
+  "faq": [
+    [
+      "Is 'Neath the Arizona Skies free to reuse?",
+      "Not yet confirmed. The print is free only if no renewal was filed around 1961-1962. Our partial search of the 1961 and 1962 catalog volumes found none, but a full check and a Copyright Office catalog search are still needed. The Internet Archive's 'Public Domain' label is not proof."
+    ],
+    [
+      "Which copy should I use?",
+      "Two Internet Archive copies were checked: NeaththeArizonaSkys and a sharper 'video quality upgrade' upload. Either way, clear the film's rights status first, then check the source quality."
+    ]
+  ]
+}

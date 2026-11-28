@@ -1,0 +1,73 @@
+{
+  "id": "the-masked-marvel-1943",
+  "title": "The Masked Marvel",
+  "year": 1943,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "cce_name_index_entry",
+          "note": "UNVERIFIED renewal. In the raw text of this volume, the Name Index lists 'THE MASKED MARVEL. (R)' under both 'Repix, Inc.' and 'Republic Productions, Inc.' (at about character 557,484 of 911,227 in the archive.org full-text file). The '(R)' marks a renewal. The full renewal entry was not seen in the raw text, so the renewal registration number, renewal date, original registration number and claimant wording are unconfirmed, and no page number is confirmed. Coverage of this check: about 96% of the full-text file (characters 0 to 875,597); the last ~35,000 characters were not read. To confirm, open the volume linked here, go to the Renewal Registrations section, and look for 'MASKED MARVEL'.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1971 (Name Index)",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "No separate registration or renewal for the music was found. The soundtrack would normally share the status of the registered photoplay, so this layer depends on the unconfirmed print-layer renewal. The score is not shown to be separately registered or renewed, and it is not shown to be public domain.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, 1971",
+          "url": "https://archive.org/details/catalogofc19713251213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1970,
+      1971
+    ],
+    "negative_result": "Not a negative result. A 1971 CCE volume (Motion Pictures and Filmstrips) lists 'THE MASKED MARVEL. (R)' in its Name Index, so a renewal appears to be recorded. The full renewal entry was not seen, so its number, date and page are unconfirmed.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures volumes for 1970 and 1971 by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (covers 1978 and later only, so not the 1970-1971 renewal window)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Masked Marvel is a 12-chapter Republic Pictures serial released on 6 November 1943. A masked hero in a business suit fights the Japanese saboteur Sakima and his espionage organization. The audience is not told who the hero is until the final reel; he is one of a group of four special investigators. Chapter 1 is titled 'The Masked Crusader'. Source for the summary and chapter title: https://en.wikipedia.org/wiki/The_Masked_Marvel\n\nThe trap is a renewal that appears to be recorded but is unverified. The Name Index of a 1971 Catalog of Copyright Entries volume lists 'THE MASKED MARVEL. (R)' under Repix, Inc. and Republic Productions, Inc. The full renewal entry was not seen, so its number, date and page are unconfirmed. The print and score layers are therefore marked undetermined, not public domain. Do not treat this serial as a public-domain source. Clearing it would need a licence from the rights holder or a legal determination from counsel. The title and character names may also carry separate franchise or trademark claims, which this dossier did not check.",
+  "faq": [
+    [
+      "Is The Masked Marvel (1943) public domain?",
+      "Not safely assumed. A 1971 Catalog of Copyright Entries name index lists a renewal for it, but the full renewal entry was not confirmed. Clearing the serial needs a licence or a legal determination from counsel."
+    ],
+    [
+      "Can I use clips from the Internet Archive copy?",
+      "Not safely without a licence. Hosting on the Internet Archive does not change copyright status. If the renewal is confirmed, it would likely cover the photoplay, including its soundtrack. Clips would need permission from the current rights holder, or a fair-use analysis for your specific use."
+    ]
+  ]
+}
