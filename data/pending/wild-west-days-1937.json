@@ -1,0 +1,87 @@
+{
+  "id": "wild-west-days-1937",
+  "title": "Wild West Days",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "The 1965 Catalog of Copyright Entries (Motion Pictures, renewal registrations) lists WILD WEST DAYS as a series of 2-reel photoplays by Universal Pictures Co., Inc. (PWH), originally registered in 1937 (LP7153, LP7196, LP7275, LP7311 and others). Several episodes are renewed in April–June 1965, for example 'The leap for life' R362848, 'The redskin's revenge' R359285 and 'Six gun law' R362851. Further episodes, including 'Rustlers and Redskins' and 'Rustlers' Roundup', appear under WILD WEST DAYS in the July–December 1965 renewals. The renewal pages are OCR-garbled, so some R numbers and episode names could not be read cleanly, and it was not checked that every one of the 13 chapters has its own renewal. The renewal hits supplied with the queue row were page running headers over other films, so they do not count as this serial's entry.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 19, Parts 12-13, Motion Pictures and Filmstrips, 1965",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. Wikipedia credits the music to Charles Previn. No source checked here shows who owned or renewed the music, so the music's status is not separately verified. It is likely protected along with the renewed film, but that is not confirmed.",
+          "source": "Wikipedia, Wild West Days",
+          "url": "https://en.wikipedia.org/wiki/Wild_West_Days"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the serial's screenplay to Wyndham Gittens, Norman S. Hall and Ray Trampe, with W. R. Burnett's novel 'Saint Johnson' as the source. The Wikipedia page gives no publication year for the novel. The novel's copyright renewal was NOT checked: the Stanford Copyright Renewal Database blocked the fetch with a CAPTCHA, and the 1958 Catalog of Copyright Entries renewals were not searched. The underlying story's status is unresolved.",
+          "source": "Wikipedia, Wild West Days",
+          "url": "https://en.wikipedia.org/wiki/Wild_West_Days"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1965, Motion Pictures (archive.org) — see 'WILD WEST DAYS' in the renewal sections of both the Jan–Jun and Jul–Dec parts",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/chapter-08-the-gold-stampede",
+      "label": "Wild West Days (user upload by enderspaint; item URL names chapter 8, but its file list shows chapters 1–13 — copy of a renewed Universal serial, not a rights clearance)",
+      "quality": "low"
+    }
+  ],
+  "editorial": "Wild West Days is a 13-chapter Universal serial released July 5, 1937. It runs about 268 minutes and stars Johnny Mack Brown (credited as John Mack Brown) as Kentucky Wade. Ford Beebe and Clifford Smith directed it, and the screenplay credits are Wyndham Gittens, Norman S. Hall and Ray Trampe, adapted from W. R. Burnett's novel 'Saint Johnson'. Chapters include 'Death Rides the Range', 'The Gold Stampede' and 'The Rustlers' Roundup'. A creator would want it for the cliffhanger structure and the horse-opera action, which suit montage, trailers and found-footage projects.\n\nThe rights trap is that the serial was not abandoned. Universal Pictures Co., Inc. renewed multiple episodes in 1965, in the 28th-year window, for example R362848, R359285 and R362851, so the film is still under US copyright. The renewals are split across the January–June and July–December 1965 catalog volumes. We did not confirm a separate renewal for every one of the 13 chapters. Copies on archive.org are user uploads, not clearances. Do not treat a free stream as permission to reuse the footage.",
+  "faq": [
+    [
+      "Is Wild West Days (1937) in the public domain?",
+      "No. Universal renewed multiple episodes of the serial in 1965 in the Catalog of Copyright Entries, so the film is still protected. The music and the underlying novel were not separately verified. Clips need a license from the rights holder, which is Universal unless it has assigned them."
+    ],
+    [
+      "Can I use the Internet Archive copy of Wild West Days?",
+      "Watching it is fine. Reusing it is not safe. The upload is by a private user with no license in its metadata, and the renewals mean the underlying film is still protected. For commercial use, clear it with Universal."
+    ]
+  ]
+}

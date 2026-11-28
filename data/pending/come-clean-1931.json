@@ -1,0 +1,80 @@
+{
+  "id": "come-clean-1931",
+  "title": "Come Clean",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1958 volume lists COME CLEAN, a photoplay in two reels, by Metro-Goldwyn-Mayer Distributing Corp., registered 1 Sep 1931 as LP2431. The renewal claimant is Hal Roach Studios (PWH), renewed 23 Sep 1958 as R221669. The 1931 registration date, title and two-reel format match the Laurel & Hardy short, so the copyright was renewed in its 28th year.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13: Motion Pictures and Filmstrips, Jan-Dec 1958 (Vol 12 No 1-2)",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Come Clean is a sound film. The recorded soundtrack was registered and renewed as part of the same photoplay, so it shares the print's renewed status. I did not research any separately registered music.",
+          "source": "Catalog of Copyright Entries, 1958 Motion Pictures volume",
+          "url": "https://archive.org/details/catalogofcopyrig3121213li"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1958 (archive.org). Renewal entry R221669 for Come Clean appears here",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "US Copyright Office public records (renewals and assignments filed 1978 or later)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/laurel-hardy-come-clean-1931-short-film-classic-comedy",
+      "label": "Laurel & Hardy Come Clean (1931) on the Internet Archive. Viewing only, not a rights clearance.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Come Clean is a two-reel Laurel & Hardy talkie. Metro-Goldwyn-Mayer distributed it and Hal Roach Studios produced it. The short was registered for copyright on 1 September 1931 as LP2431. Stan Laurel, Oliver Hardy and Mae Busch star. Short comedies with these two are in steady demand for clip reels, compilations and streaming channels.\n\nThe rights trap is that this film is not out of copyright. The 1958 Catalog of Copyright Entries records a renewal by Hal Roach Studios on 23 September 1958 under R221669, filed inside the 28th-year window. That renewal secured the full term, so the film is not public domain in the US. Copies on the Internet Archive and elsewhere are not a license. Any reuse needs clearance from whoever now holds the Hal Roach Studios rights. I did not research restorations, the underlying story or any marks.",
+  "faq": [
+    [
+      "Is Come Clean (1931) in the public domain in the US?",
+      "No. The 1958 Catalog of Copyright Entries shows Hal Roach Studios renewed the 1931 registration (LP2431) on 23 September 1958 as R221669. A renewed film keeps its full term, so you need permission from the current rights holder."
+    ],
+    [
+      "Can I reuse a copy found on the Internet Archive?",
+      "Not on that basis alone. Hosting on archive.org says nothing about the copyright status. The renewal means clips from this short still need clearance, and I did not research who holds the rights today."
+    ]
+  ]
+}
