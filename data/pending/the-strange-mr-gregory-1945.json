@@ -1,0 +1,80 @@
+{
+  "id": "the-strange-mr-gregory-1945",
+  "title": "The Strange Mr. Gregory",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1972 volume: 'THE STRANGE MR. GREGORY, a photoplay in 7 reels by Monogram Pictures Corp. (C) 14Nov45; L57. United Artists Television, Inc. (PWH)', with a November 1972 renewal registration. The renewal fell within the 28th-year window, so the 1945 copyright was renewed.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol. 26, Motion Pictures and Filmstrips, 1972 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film. The recorded soundtrack was part of the renewed photoplay registration, so it normally shares the film's status. I did not confirm who composed the music or whether any cue has separate music-publisher rights.",
+          "source": "Same CCE renewal entry",
+          "url": "https://archive.org/details/catalogofc19723261213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973,
+      1974
+    ],
+    "negative_result": false,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — Motion Pictures volumes",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/1945-the-strange-mr.-gregory-phil-rosen-vose",
+      "label": "The Strange Mr. Gregory (1945), Phil Rosen, Internet Archive copy. Hosting is not a rights clearance.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Strange Mr. Gregory is a 1945 Monogram Pictures feature, seven reels, directed by Phil Rosen. Monogram registered it for copyright on 14 November 1945. Internet Archive hosts a copy, so a creator may find it easy to locate.\n\nThe copyright was renewed, so the film is not free to reuse as a public-domain work. The 1972 Catalog of Copyright Entries lists a renewal filed in the name of United Artists Television, Inc. That puts the renewal in the 28th year, as required. A renewed 1945 work is protected for 95 years from publication, to the end of 2040. Being on a streaming site or an archive does not change that. Clear it with the current rights holder, or wait for the term to expire.",
+  "faq": [
+    [
+      "Is The Strange Mr. Gregory in the public domain?",
+      "Not on the evidence I found. The 1972 Catalog of Copyright Entries lists a renewal of the November 1945 registration, filed by United Artists Television, Inc. A renewed 1945 film is still under copyright, whatever the websites that host it say."
+    ],
+    [
+      "Can I use the Internet Archive copy in my project?",
+      "Do not assume so. Internet Archive hosting does not clear rights, and the film's copyright was renewed. Get permission from the current rights holder before commercial or public use. A short excerpt might qualify as fair use, but that is a case-by-case question."
+    ]
+  ]
+}

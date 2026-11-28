@@ -1,0 +1,91 @@
+{
+  "id": "the-royal-mounted-rides-again-1945",
+  "title": "The Royal Mounted Rides Again",
+  "year": 1945,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal Pictures 13-chapter serial released October 23, 1945. The renewal window under the 28-year term rule was 1972-1973, and those renewals appear only in the printed Catalog of Copyright Entries, Motion Pictures volumes (the 1972 and 1973 volumes on archive.org). The 1973 volume (Third Series, Parts 12-13, Motion Pictures, Jan-Dec 1973, Vol. 27 Nos. 1-2) has a full-text version. An earlier text search of it was thought to show only running page headers 'ROYAL MOUNTED RIDES AGAIN' over entries for other films. A re-read of that text on 2026-11-28 was truncated, covering only part of the renewal section. It reported a possible renewal entry for this serial under Columbia Pictures Industries, Inc., plus a matching name-index line marked (R). This has not been confirmed. The earlier negative reading is withdrawn. The 1972 volume has not been checked. Non-renewal is not established.",
+          "source": "Catalog of Copyright Entries, Motion Pictures, Jan-Dec 1973",
+          "url": "https://archive.org/details/catalogofc19733271213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The score is part of the sound track. Its status follows the print and has not been established separately.",
+          "source": "Internal analysis",
+          "url": ""
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia page for the serial states no source material. No underlying story was identified, so story status is undetermined.",
+          "source": "Wikipedia, The Royal Mounted Rides Again",
+          "url": "https://en.wikipedia.org/wiki/The_Royal_Mounted_Rides_Again"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1972,
+      1973
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1973 Motion Pictures (archive.org), full text: check the renewal section for this title, including under Columbia Pictures Industries, Inc.",
+        "url": "https://archive.org/details/catalogofc19733271213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org), find the 1972 Motion Pictures volume and check its renewal section by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the.-royal.-mounted.-rides.-again.-0",
+      "label": "The Royal Mounted Rides Again, all 13 episodes (Internet Archive)",
+      "quality": "complete serial, user upload"
+    },
+    {
+      "url": "https://archive.org/details/TheRoyalMountedRidesAgainTrailer",
+      "label": "Trailer (Internet Archive)",
+      "quality": "trailer, 1:35"
+    }
+  ],
+  "editorial": "The Royal Mounted Rides Again is a 13-chapter Universal Pictures serial released October 23, 1945. It was directed by Lewis D. Collins and Ray Taylor. A complete 13-episode copy and the trailer are on the Internet Archive.\n\nThe rights question is still open, and this dossier does not call the print public domain. A 1945 film is free only if its renewal was missed. The renewal window was 1972-1973. Those renewals appear only in the printed Catalog of Copyright Entries, Motion Pictures volumes. An earlier reading of the 1973 volume found only page-header matches. A later, truncated re-read reported a possible renewal entry under Columbia Pictures Industries, Inc. Neither reading has been confirmed. Read the 1973 renewal section in full and check the 1972 volume before relying on the print. The copy's own provenance and any added material are also unverified.",
+  "faq": [
+    [
+      "Is The Royal Mounted Rides Again in the public domain?",
+      "Not established. It is a 1945 Universal serial, so it is free only if its 28-year renewal was never filed. The renewal window was 1972-1973. Those renewals appear only in the printed Catalog of Copyright Entries, Motion Pictures volumes. The 1973 volume has a possible renewal entry for this title that has not been confirmed. The 1972 volume has not been checked. Do both before relying on it."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Treat it as unverified. The upload is a user upload, and its source, restoration status and any added music or titles are unknown. Check the renewal records first, then check the copy itself for added material."
+    ]
+  ]
+}
