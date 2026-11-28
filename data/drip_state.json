@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-27",
+  "last_release": "2026-11-28",
   "log": [
     {
       "date": "2026-08-31",
@@ -356,6 +356,10 @@
     {
       "date": "2026-11-27",
       "film": "cyrano-de-bergerac-1950"
+    },
+    {
+      "date": "2026-11-28",
+      "film": "aladdin-and-his-wonderful-lamp-1939"
     }
   ]
 }
