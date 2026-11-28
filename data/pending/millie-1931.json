@@ -1,0 +1,108 @@
+{
+  "id": "millie-1931",
+  "title": "Millie",
+  "year": 1931,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's article on the film says it entered the US public domain in 1959 because the claimants did not renew the registration in the 28th year. That is a secondary source. I did not independently search the Catalog of Copyright Entries volumes, the 1960 volume was not checked, and the Copyright Office records were not searched. The copyright claimant (the film was produced by Charles R. Rogers and distributed by RKO Radio Pictures) was not confirmed from a registration record.",
+          "source": "Wikipedia, Millie (film)",
+          "url": "https://en.wikipedia.org/wiki/Millie_(film)"
+        },
+        {
+          "type": "research_note",
+          "note": "The Internet Archive item page for the film shows a Public Domain Mark 1.0 label and a 1931-02-05 date. This is the uploader's label, not a rights determination. It does not show whether a renewal exists.",
+          "source": "Internet Archive, Millie (1931)",
+          "url": "https://archive.org/details/millie-1931"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. I did not identify any separately registered music or confirm composer credits. The score is unconfirmed.",
+          "source": "RightsAtlas research",
+          "url": null
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film is based on the 1930 novel \"Millie\" by Donald Henderson Clarke. A 1930 book needed renewal in 1957 or 1958. I did not check the novel's renewal in the Stanford Copyright Renewal Database or the Catalog of Copyright Entries book volumes, so the novel's status is unresolved.",
+          "source": "Wikipedia, Millie (film)",
+          "url": "https://en.wikipedia.org/wiki/Millie_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "I did not search for modern restorations or commercial releases. The only copy I looked at is the Internet Archive item.",
+          "source": "RightsAtlas research",
+          "url": "https://archive.org/details/millie-1931"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1958,
+      1959,
+      1960
+    ],
+    "negative_result": "No renewal was confirmed by a search I ran. A secondary source (Wikipedia) says no renewal was filed. I did not search the 1958, 1959 or 1960 Catalog of Copyright Entries motion-picture volumes myself, and I did not search the Copyright Office records.",
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1958 renewal volume (archive.org) — search the full text for MILLIE, Charles R. Rogers and RKO",
+        "url": "https://archive.org/details/catalogofcopyrig3121213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1959 renewal volume (archive.org) — same search",
+        "url": "https://archive.org/details/catalogofcopyrig3131213li"
+      },
+      {
+        "label": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, 1960 volume (find it on archive.org) — not yet checked",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures+1960"
+      },
+      {
+        "label": "US Copyright Office public records — online records may not cover 1950s renewals",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/millie-1931",
+      "label": "Millie (1931), John Francis Dillon, Internet Archive",
+      "quality": "unverified quality"
+    }
+  ],
+  "editorial": "Millie (1931) is an RKO Radio Pictures release directed by John Francis Dillon. The cast includes Helen Twelvetrees, Lilyan Tashman, Joan Blondell and Anita Louise. The Internet Archive describes it as the story of Millie Blake, who builds an independent life after a bad first marriage and hesitates over remarrying. Years later, men who once courted her turn their attention to her daughter.\n\nThe print's status is undetermined. Wikipedia says the film entered the US public domain in 1959 because no renewal was filed. I did not confirm that in the Catalog of Copyright Entries or the Copyright Office records, and the 1960 volume was not checked. The rights trap is the layers around the print. The film is based on Donald Henderson Clarke's 1930 novel \"Millie\", and I did not check that novel's renewal. I also did not confirm any separately owned music. Check those before commercial reuse. A newer transfer from a different source may add its own protectable elements.",
+  "faq": [
+    [
+      "Is the Millie (1931) film print free to reuse in the US?",
+      "Not confirmed. Wikipedia says no renewal was filed and the film entered the public domain in 1959. I did not independently search the Catalog of Copyright Entries or the Copyright Office records, and the 1960 volume was not checked. The source novel's renewal and the music are separate layers that were not confirmed."
+    ],
+    [
+      "Can I use any copy of Millie that I find online?",
+      "Use copies whose source you can trace. A faithful copy of the film adds no new US copyright, but any added score, new titles or other new material on a particular copy can be protected."
+    ]
+  ]
+}

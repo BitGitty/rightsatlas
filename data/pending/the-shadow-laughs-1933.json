@@ -1,0 +1,97 @@
+{
+  "id": "the-shadow-laughs-1933",
+  "title": "The Shadow Laughs",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Published 1933, so public domain would rest on a missing notice or a missing renewal. The 1933 print's 28th-year renewal window is 1960-1961. The Internet Archive pages for the two Catalog of Copyright Entries volumes were opened and their titles checked: Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1960 (Vol 14 No 1-2) and Jan-Dec 1961 (Vol 15 No 1-2). I did not read the entries inside them or search the Copyright Office catalog, so I make no claim that no renewal exists. Both volumes still need a hand check for the title.",
+          "source": "Internet Archive Catalog of Copyright Entries volumes, Motion Pictures and Filmstrips, 1960 and 1961 (titles checked, contents not read)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Any recorded track normally shares the film's own copyright status, which is still undetermined. No separate composer or score credit was confirmed.",
+          "source": "Internet Archive item description",
+          "url": "https://archive.org/details/TheShadowLaughs"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Wikipedia article lists no source story or source material. The film's source was not confirmed.",
+          "source": "Wikipedia article on the film",
+          "url": "https://en.wikipedia.org/wiki/The_Shadow_Laughs_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The Internet Archive copy is described as having four minutes missing, including the title card and opening credits. The item page lists no restoration.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/TheShadowLaughs"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search “The Shadow Laughs”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1960, Motion Pictures and Filmstrips, Vol 14 No 1-2 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3141213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1961, Motion Pictures and Filmstrips, Vol 15 No 1-2 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3151213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/TheShadowLaughs",
+      "label": "The Shadow Laughs (1933) on the Internet Archive",
+      "quality": "Black and white, about 63 minutes, four minutes missing including the opening credits"
+    }
+  ],
+  "editorial": "The Shadow Laughs is a 1933 American pre-Code mystery film directed by Arthur Hoerl for Trojan Pictures. Wikipedia lists Hal Skelly, Rose Hobart and Harry T. Morey as its stars, and gives a release date of March 27, 1933. The Internet Archive description calls it Cesar Romero's film debut and centers on Skelly as a newspaper reporter. A creator might want it as a low-budget pre-Code curiosity, or for the Romero debut.\n\nThe rights trap is the print itself. A film published in 1933 is only free if its renewal was never filed, and this dossier has not confirmed that either way. The Internet Archive copy is incomplete, so a reuser should also check where any other copy came from. The Internet Archive description says the film is not related to the radio series and comic book character The Shadow.",
+  "faq": [
+    [
+      "Can I reuse The Shadow Laughs (1933) freely?",
+      "Not yet. Whether the 1933 print is free depends on whether a renewal was filed in 1960 or 1961, and that is unconfirmed. Check the Copyright Office records and the 1960 and 1961 Catalog of Copyright Entries volumes first."
+    ],
+    [
+      "Is the Internet Archive copy complete?",
+      "No. Its description says four minutes are missing, including the title card and opening credits."
+    ]
+  ]
+}
