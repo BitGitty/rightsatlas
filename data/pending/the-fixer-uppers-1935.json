@@ -1,0 +1,84 @@
+{
+  "id": "the-fixer-uppers-1935",
+  "title": "The Fixer Uppers",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Motion Pictures and Filmstrips, Jan-Dec 1962, Renewal Registrations: 'THE FIXER UPPERS, a photoplay in two reels by Metro-Goldwyn-Mayer Corp. © 26Feb35; LP5371. Hal Roach Studios (PWH); 1Aug62; R299645.' The film was renewed in its 28th year, so the US copyright runs the full renewed term.",
+          "source": "Catalog of Copyright Entries, Third Series, Parts 12-13, Motion Pictures and Filmstrips, Jan-Dec 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound short. The recorded track is part of the film as registered (LP5371) and was renewed with it (R299645), so it shares the print's status. No separate music-only status was checked.",
+          "source": "Catalog of Copyright Entries, Motion Pictures 1962",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Fixer Uppers”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/bonnie-scotland-1935",
+      "label": "Laurel and Hardy (1935) collection item; includes a file named 'The Fixer Uppers (1935).mp4'. Streams a copy of a film that is still under copyright; do not reuse it without a licence.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Fixer Uppers is a two-reel Laurel & Hardy comedy from Hal Roach Studios, registered by Metro-Goldwyn-Mayer Corp. on 26 February 1935 (LP5371). Its appeal to a creator is obvious: the team's name recognition and a short that is easy to clip. The queue flagged it as a likely renewal absence, but that guess is wrong.\n\nThe 1962 Catalog of Copyright Entries lists the renewal: Hal Roach Studios, claimed as proprietor of a work made for hire, received on 1 August 1962 under R299645. Because the film was renewed on time, the copyright is still in force. Copies on the Internet Archive are uploads, not a sign that the film is free to reuse. Get a licence from the rights holder.",
+  "faq": [
+    [
+      "Is The Fixer Uppers (1935) public domain in the US?",
+      "No. The 1962 Catalog of Copyright Entries lists a renewal for it (R299645, Hal Roach Studios, received 1 August 1962), so the 1935 copyright was extended. Do not treat it as free to reuse."
+    ],
+    [
+      "Does a copy on the Internet Archive mean I can reuse it?",
+      "No. A copy being hosted there says nothing about the copyright. The renewal entry controls, so reuse needs permission from whoever holds the rights."
+    ]
+  ]
+}

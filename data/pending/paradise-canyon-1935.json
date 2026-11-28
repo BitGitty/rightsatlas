@@ -1,0 +1,100 @@
+{
+  "id": "paradise-canyon-1935",
+  "title": "Paradise Canyon",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Queue flags renewal as likely absent, but I could not confirm it. The Copyright Catalog of Copyright Entries 1962, 1963 and 1964 motion-picture volumes were fetched, but the text returned was truncated and a full-text check for 'PARADISE CANYON' was not completed. The Copyright Office public catalog was not searched. No renewal or absence is claimed.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan-Dec 1963 (Vol 17)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Sound film. The recorded track normally shares the print's status, so it stays undetermined until the print's renewal status is settled. Music credits were not confirmed.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/ParadiseCanyon"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The source of the screenplay was not confirmed. Internet Archive describes a government agent, John Wyatt, hunting a counterfeiting ring on the Mexican border after joining Doc Carter's medicine show. Whether it adapts an earlier work was not checked.",
+          "source": "Internet Archive item metadata",
+          "url": "https://archive.org/details/paradise-canyon-1935"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Paradise Canyon”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1962 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1963 (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "CCE Motion Pictures Jan-Dec 1964 (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/paradise-canyon-1935",
+      "label": "Paradise Canyon (1935) — Internet Archive",
+      "quality": "unverified"
+    },
+    {
+      "url": "https://archive.org/details/ParadiseCanyon",
+      "label": "Paradise Canyon (aka Paradise Ranch), Lone Star Productions, 52 min — Internet Archive",
+      "quality": "unverified"
+    }
+  ],
+  "editorial": "Paradise Canyon is a 1935 Lone Star Productions western directed by Carl Pierson and produced by Paul Malvern, with John Wayne as government agent John Wyatt. He goes undercover as a sharpshooter in Doc Carter's traveling medicine show, played by Earle Hodgins, to find a counterfeiting ring on the Mexican border. It runs 52 minutes and is also listed as Paradise Ranch. Creators looking for early Wayne footage or B-western material will find several copies on the Internet Archive.\n\nThe rights trap is that the film's status is not settled here. The queue marks the renewal as likely absent, but I did not complete a check of the 1962–1964 Catalog of Copyright Entries volumes or the Copyright Office public catalog. Until someone does that check, nothing here should be treated as cleared. The film's source material and the score were also not checked.",
+  "faq": [
+    [
+      "Is Paradise Canyon (1935) safe to reuse?",
+      "Not yet confirmed. The renewal window was 1962–1964, and a renewal search of the Catalog of Copyright Entries volumes and the Copyright Office catalog has to be completed first. Internet Archive hosts copies, but hosting is not a rights clearance."
+    ],
+    [
+      "Where do I check the renewal myself?",
+      "Look through the Catalog of Copyright Entries motion-picture volumes for 1962, 1963 and 1964 on archive.org, and search publicrecords.copyright.gov for 'Paradise Canyon'. The links are in the renewal_search block."
+    ]
+  ]
+}
