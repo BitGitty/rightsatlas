@@ -1,0 +1,77 @@
+{
+  "id": "the-mysterious-pilot-1937",
+  "title": "The Mysterious Pilot",
+  "year": 1937,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "not_pd",
+      "evidence": [
+        {
+          "type": "cce_renewal_entry",
+          "note": "Catalog of Copyright Entries, Third Series, Vol 19, Parts 12-13 (Motion Pictures and Filmstrips), renewal registrations section, under M. The volume header as read says 'January-June 1965, Number 1', yet the entries carry renewal dates through December 1965, so the exact part of the volume was not pinned down, and no reliable page number was confirmed. Entry: THE MYSTERIOUS PILOT, a series of photoplays by Columbia Pictures Corp. of California, claimant Columbia Pictures Corp. (PWH), series-level renewal 21Oct65, R370979. Chapter 1 'The howl of the wolf' (© 7Dec37, L7653) renewed 18Nov65, R373666. Chapters 2-9 renewed 17Dec65: ch2 'The web tangles' (© 2Jan38, LP7716) R376153; ch3 'Enemies of the air' (© 2Jan38, LP7717) R376152; ch4 'In the hands of the law' (© 3Jan38) R376154; ch5 'The crackup' (© 3Jan38, LP7694) R376159; ch6 'The dark hour' (© 5Jan38, LP7697) R376158; ch7 'Wings of destiny' (© 10Jan38, LP7719) R376157; ch8 'Battle in the sky' (© 19Jan38, LP7746) R376151; ch9 'The great flight' (© 27Jan38, LP7762) R376150. Chapters 10-14 renewed 23Dec65: ch10 'Whirlpool of death' (© 3Feb38, LP7783) R375542; ch11 'The haunted mill' (© 8Feb38, LP7795) R375541; ch12 'The lost trail' (© 14Feb38, LP7813) R375537; ch13 'The net tightens' (© 21Feb38, LP7842) R375534; ch14 'Vengeance rides the airways' (© 28Feb38, LP7854) R375533. Chapter 15 'Retribution' does not appear in the 1965 volume. Its copyright date was not confirmed. If it was copyrighted around March 1938, its renewal window would run into 1966, so its absence from this volume shows nothing. The 1966 CCE renewal volume was not searched, so chapter 15's status is unknown. The serial's chapters are separate works.",
+          "source": "Catalog of Copyright Entries, Third Series, Vol 19, Parts 12-13, Motion Pictures and Filmstrips, 1965",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1964,
+      1965,
+      1966
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “The Mysterious Pilot”, ~1964, 1965, 1966)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1965 Motion Pictures volume (archive.org) — renewal registrations section",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964 Motion Pictures volume (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/chapter-13-the-net-tightens",
+      "label": "The Mysterious Pilot (Internet Archive user upload by enderspaint, uploaded June 3, 2024). The item metadata lists 15 chapter video files, 'Chapter 01 - The Howl of the Wolf' through 'Chapter 15 - Retribution', although the identifier says chapter 13. Chapters 1-14 are renewed, so this link is for viewing only and is not a clearance.",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "The Mysterious Pilot is a 1937 Columbia Pictures serial of 15 chapters.\n\nThe usual assumption for obscure serials is that nobody renewed them, and that assumption fails here. The 1965 Catalog of Copyright Entries lists Columbia Pictures Corp. renewing chapter 1 on 18 November 1965 (R373666) and chapters 2-14 on 17 and 23 December 1965 (R375533 to R376159, listed per chapter in the evidence note), plus a series-level entry dated 21 October 1965 (R370979). So chapters 1-14 were still under copyright after their first 28-year term and should not be treated as free to reuse. Chapter 15, 'Retribution', does not appear in the 1965 volume. Its copyright date was not confirmed and the 1966 renewal volume was not searched, so its status is unknown. The serial's chapters are separate works. The Internet Archive copy is a user upload, not a license.",
+  "faq": [
+    [
+      "Is The Mysterious Pilot (1937) in the public domain?",
+      "Not on the evidence found. The 1965 Catalog of Copyright Entries shows Columbia Pictures renewing chapters 1-14 in 1965, so those chapters stayed under copyright past the first term. Chapter 15 does not appear in the 1965 volume. Its copyright date was not confirmed and the 1966 renewal volume was not searched, so its status is unknown. The chapters are separate works. Get permission or a legal opinion before reusing any chapter."
+    ],
+    [
+      "Does the Internet Archive upload mean I can reuse it?",
+      "No. The Internet Archive item is a user upload, and its metadata lists 15 chapter video files. Hosting a file there is not a rights clearance. Treat it as a viewing copy only."
+    ]
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "sagebrush-trail-1933",
+  "title": "Sagebrush Trail",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film was released December 15, 1933 by Monogram Pictures, a Lone Star Productions title. Its public-domain status therefore depends on whether a renewal was filed. For a 1933 work, the renewal had to be filed in year 27 or 28 of the copyright term, which is 1960 or 1961. I fetched the full-text file for the 1961 Catalog of Copyright Entries (CCE) Motion Pictures volume. The fetch tool returned only the first ~39,000 characters. The renewal section is far past that point, so no renewal section was actually read. The renewal status is undetermined. A full search of the renewal sections is still needed.",
+          "source": "CCE Motion Pictures volume, 1961 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3151213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1960 volume was fetched with the same limit (first ~39,000 characters only). No renewal section was actually read. It still needs a full search for 'Sagebrush Trail', 'Monogram' and 'Lone Star Productions'.",
+          "source": "CCE Motion Pictures volume, 1960 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3141213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "The 1962 volume was also fetched, but 1962 is year 29 and outside the renewal window for a 1933 work. It does not count as a check of the renewal question, and it is not required.",
+          "source": "CCE Motion Pictures volume, 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the screenplay to Lindsley Parsons and Will Beale. I found no stated source work, so the story is probably an original screenplay, but I could not confirm that.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sagebrush_Trail"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "partially_protected",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia says the film was shown as 'An Innocent Man' in the UK, and that this version was later released in a colorized version on home video. A cited home-video listing says the release also includes the original black-and-white version, described as restored and enhanced. The colorization and any enhancement are new material that can carry their own protection.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sagebrush_Trail"
+        }
+      ]
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — search by hand or full text the 1960 and 1961 Motion Pictures renewal sections for “Sagebrush Trail”",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records — covers 1978 and later only; it does not cover renewals filed in 1960–61, so it cannot settle this question",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/sagebrush-trail-1933",
+      "label": "Sagebrush Trail (1933) — Internet Archive",
+      "quality": "unknown"
+    },
+    {
+      "url": "https://archive.org/details/sagebrush-trail-1933-by-armand-schaefer",
+      "label": "Sagebrush Trail (1933) by Armand Schaefer — Internet Archive",
+      "quality": "unknown"
+    }
+  ],
+  "editorial": "Sagebrush Trail is a 1933 B-western directed by Armand Schaefer. It was the second Lone Star Productions film released by Monogram Pictures, on December 15, 1933. John Wayne plays John Brant, who is sentenced for a murder he did not commit, escapes from prison, and joins an outlaw gang. The cast also includes Nancy Shubert, Lane Chandler and Yakima Canutt. The screenplay is credited to Lindsley Parsons and Will Beale. A reuser might want it as an early John Wayne programmer. Two Internet Archive items are listed, but their quality and completeness have not been verified.\n\nThe rights trap is that the print's status is not established. A 1933 release is free only if no renewal was filed in year 27 or 28 of its copyright term, which means 1960 or 1961. Those renewals are in the printed CCE Motion Pictures volumes for 1960 and 1961, not in the Copyright Office's 1978+ online records. I could not read the renewal sections of those volumes, so no renewal section has been checked. Search those two sections by hand or by full text before relying on the print. Separately, the film exists in a colorized home-video release tied to the UK title An Innocent Man, so use a plain black-and-white copy and avoid the colorized version.",
+  "faq": [
+    [
+      "Is Sagebrush Trail (1933) in the public domain?",
+      "Not confirmed. The film was released in December 1933, so it is public domain only if no renewal was filed in 1960 or 1961. I could not read the renewal sections of the 1960 and 1961 Catalog of Copyright Entries volumes, so the question is open. The Copyright Office's 1978+ online records do not cover those years. Search the 1960 and 1961 CCE Motion Pictures renewal sections before reusing it."
+    ],
+    [
+      "Can I use the colorized An Innocent Man version?",
+      "Treat it as separate material. Wikipedia says the film was shown as An Innocent Man in the UK and later released in colorized form on home video. The colorization can carry its own copyright. If you reuse the film, start from an unaltered black-and-white copy."
+    ]
+  ]
+}
