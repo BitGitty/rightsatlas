@@ -1,0 +1,91 @@
+{
+  "id": "rainbow-valley-1935",
+  "title": "Rainbow Valley",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Renewal for a 1935 release would have fallen due in 1963. A fetch-based check of the Catalog of Copyright Entries motion-picture volumes for Jan–Jun 1962, Jan–Jun 1963 and Jan–Jun 1964 found no 'Rainbow Valley' renewal. The text was only partially readable, and the Jul–Dec 1963 volume was not checked. No Copyright Office public-records search was run. That is too little to call the print verified_pd.",
+          "source": "Catalog of Copyright Entries, Third Series, Motion Pictures and Filmstrips, Jan–Jun 1963",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track would normally follow the print's status. No music credit was confirmed on the pages fetched, and the print itself is unresolved.",
+          "source": "Wikipedia, Rainbow Valley (film)",
+          "url": "https://en.wikipedia.org/wiki/Rainbow_Valley_(film)"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits Lindsley Parsons as writer. The pages fetched did not say whether the film was adapted from a published source, so the story's term could not be checked.",
+          "source": "Wikipedia, Rainbow Valley (film)",
+          "url": "https://en.wikipedia.org/wiki/Rainbow_Valley_(film)"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963,
+      1964
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records — renewals filed 1978 or later (search “Rainbow Valley”, ~1962, 1963, 1964)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the Motion Pictures renewal-year volume by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      },
+      {
+        "label": "US Copyright Office public records (1978+ renewals/assignments)",
+        "url": "https://publicrecords.copyright.gov/"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/RainbowValley",
+      "label": "Rainbow Valley (1935) on the Internet Archive, uploaded by k-otic",
+      "quality": "unverified_transfer"
+    }
+  ],
+  "editorial": "Rainbow Valley is a 1935 John Wayne western. Robert N. Bradbury directed, Paul Malvern produced, and Lindsley Parsons wrote it. Monogram Pictures distributed it. Wayne plays John Martin, a government agent working undercover, and Gabby Hayes and Lucile Browne appear alongside him. It is one of the B-westerns Wayne made in the 1930s, and its main appeal today is Wayne's early work. The Internet Archive hosts a copy, uploaded by k-otic.\n\nThe rights question is the renewal. A film released in 1935 stayed protected only if its copyright was renewed in the 28th year, which here means 1963. A partial look at the Jan–Jun catalog volumes for 1962 to 1964 turned up no renewal. The Jul–Dec 1963 volume and the Copyright Office public catalog were not searched. Until those are checked, treat the print as unconfirmed. The music, the story source and any modern transfer are separate questions that this research has not settled.",
+  "faq": [
+    [
+      "Is Rainbow Valley (1935) in the public domain?",
+      "Not confirmed. A 1935 film needed renewal in 1963 to stay protected. A partial check of the 1962–64 Jan–Jun catalog volumes found no renewal. The Jul–Dec 1963 volume and the Copyright Office records still need checking, so don't assume it is free."
+    ],
+    [
+      "Can I use the Internet Archive copy in my project?",
+      "Only after the renewal check is finished. Even if the film turns out to be free, the layers are separate. The score, any source material and any added titles or music on a particular transfer could still be protected."
+    ]
+  ]
+}

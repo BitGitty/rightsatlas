@@ -1,0 +1,62 @@
+{
+  "id": "the-death-race-1933",
+  "title": "The Death Race",
+  "year": 1933,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "The film has not been identified. No Catalog of Copyright Entries volume has been read for this title. The 1933 motion picture registration volumes and the 1960 and 1961 renewal volumes have not been searched, so no registration or renewal record is known. The print's status is unresolved.",
+          "source": "Research note (no primary record consulted)",
+          "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1960,
+      1961
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries (archive.org) — browse the 1933 Motion Pictures registration volumes and the 1960 and 1961 renewal volumes by hand",
+        "url": "https://archive.org/search?query=catalog+of+copyright+entries+motion+pictures"
+      }
+    ]
+  },
+  "watch": [],
+  "editorial": "The Death Race is listed as a 1933 title. We could not confirm anything about it. We have not identified the production company, cast, release, or copyright registration for a film of this name. Other films with similar titles exist and must not be confused with this one.\n\nFor a 1933 film, the rights questions are whether it carried a copyright notice, whether it was registered, and whether the owner renewed in the 28th year. For a 1933 publication that is 1960 or 1961, depending on the publication date. Until the film is identified and someone checks the 1933 registration volumes and the 1960 and 1961 renewal volumes of the Catalog of Copyright Entries, the print is unresolved. Do not treat it as free to reuse.",
+  "faq": [
+    [
+      "Is The Death Race (1933) in the public domain?",
+      "Not established. The film has not been identified, so its status cannot be assessed yet. Its copyright notice, registration, and renewal all need to be checked. Look in the 1933 registration volumes and the 1960 and 1961 renewal volumes of the Catalog of Copyright Entries before reusing it."
+    ],
+    [
+      "Can I use a copy found online?",
+      "Do not assume so. A copy online does not show the film's copyright status. Even if the print turns out to be free, a score, new titles, or other material added in a later release could still be protected."
+    ]
+  ]
+}

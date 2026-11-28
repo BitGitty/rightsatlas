@@ -1,0 +1,100 @@
+{
+  "id": "junior-g-men-of-the-air-1942",
+  "title": "Junior G-Men of the Air",
+  "year": 1942,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Universal serial released May 4, 1942, so it is not public domain by term. Its renewal window ran 1969-1970. I opened the 1969 and 1970 Catalog of Copyright Entries motion-picture volumes and found no entry for the title. That text search was unreliable, because it also returned nothing for 'Universal Pictures'. No page-by-page check of the printed Motion Pictures sections was done, and I could not run the Copyright Office public-catalog search, since publicrecords.copyright.gov needs JavaScript. Non-renewal is therefore not established.",
+          "source": "CCE Motion Pictures and Filmstrips 1969 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19693231213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1970 volume, same limited check as the 1969 volume.",
+          "source": "CCE Motion Pictures and Filmstrips 1970 (archive.org)",
+          "url": "https://archive.org/details/catalogofc19703241213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "This is a sound film, so the recorded track normally shares the print's status. That status is undetermined until the renewal search is done. Wikipedia lists Milton Rosen for music. I did not check for separately registered or renewed music.",
+          "source": "Wikipedia article on the serial",
+          "url": "https://en.wikipedia.org/wiki/Junior_G-Men_of_the_Air"
+        }
+      ]
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia credits the writing to Paul Huston, Griffin Jay, George H. Plympton and Brenda Weisberg. I did not check these credits against the registration, and I did not check whether the story draws on earlier works. Story status is not checked.",
+          "source": "Wikipedia article on the serial",
+          "url": "https://en.wikipedia.org/wiki/Junior_G-Men_of_the_Air"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1969,
+      1970
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (online catalog covers renewals filed 1978 or later, so it may not list a 1969-70 renewal; use the CCE volumes below)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1969 (archive.org) - read the Motion Pictures renewal pages in full, and note the pages searched",
+        "url": "https://archive.org/details/catalogofc19693231213libr"
+      },
+      {
+        "label": "CCE Motion Pictures and Filmstrips 1970 (archive.org) - read the Motion Pictures renewal pages in full, and note the pages searched",
+        "url": "https://archive.org/details/catalogofc19703241213libr"
+      },
+      {
+        "label": "CCE 1942 Motion Pictures (original registration)",
+        "url": "https://archive.org/details/catalogofcopyrig15libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/junior-g-men-of-the-air",
+      "label": "Junior G Men Of The Air (all 12 chapters)",
+      "quality": "unverified user upload"
+    }
+  ],
+  "editorial": "Junior G-Men of the Air is a 12-chapter Universal serial released May 4, 1942. Lewis D. Collins and Ray Taylor directed. Billy Halop and Gene Reynolds play brothers Ace and Eddie Holden, and Lionel Atwill plays the villain, the Baron. The chapters run from 'Wings Aflame' to 'Civilian Courage Conquers'. Wikipedia describes it as starring the Dead End Kids and the Little Tough Guys, and says a group of young flying enthusiasts join the 'Junior G-Men' to help stop a planned attack on the United States.\n\nThe rights trap is the renewal. Universal would have had to renew the 1942 copyright in 1969 or 1970. My check of the 1969 and 1970 Catalog of Copyright Entries volumes turned up no entry, but the search method was weak and I did not read the pages in full. The Copyright Office online catalog may not cover 1969-70 renewals. A full-page check of the Motion Pictures renewal sections of the 1969 and 1970 CCE volumes is still needed, with the exact pages searched written down. Until then, do not treat the print as free. The Junior G-Men name and any Universal franchise marks are a separate issue and were not checked.",
+  "faq": [
+    [
+      "Is Junior G-Men of the Air public domain?",
+      "Not confirmed. The 1969 and 1970 catalog volumes showed no renewal in my text check, but that check was unreliable and the pages were not read in full. The Copyright Office online catalog may not cover 1969-70 renewals. Read the Motion Pictures renewal pages of the 1969 and 1970 CCE volumes in full, then decide."
+    ],
+    [
+      "Can I use the Internet Archive copy?",
+      "Treat it as an unverified upload. It holds all 12 chapters, and the uploader's source and condition are unknown. Finish the renewal search before relying on it, and clear any modern additions separately."
+    ]
+  ]
+}
