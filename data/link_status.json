@@ -81,6 +81,16 @@
    "film": "cyrano-de-bergerac-1950",
    "kind": "evidence"
   },
+  "popeye-meets-aladdin": {
+   "ok": true,
+   "film": "aladdin-and-his-wonderful-lamp-1939",
+   "kind": "watch"
+  },
+  "catalogofc19673211213libr": {
+   "ok": true,
+   "film": "the-devil-bat-1940",
+   "kind": "evidence"
+  },
   "All.Quiet.on.the.Western.Front.1930_201605": {
    "ok": true,
    "film": "all-quiet-on-the-western-front-1930",
@@ -374,11 +384,6 @@
   "his_girl_friday": {
    "ok": true,
    "film": "his-girl-friday-1940",
-   "kind": "evidence"
-  },
-  "catalogofc19673211213libr": {
-   "ok": true,
-   "film": "the-devil-bat-1940",
    "kind": "evidence"
   },
   "catalogofc19683221213libr": {
