@@ -1,0 +1,100 @@
+{
+  "id": "the-vigilantes-are-coming-1936",
+  "title": "The Vigilantes Are Coming",
+  "year": 1936,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1964. An earlier text search of this volume for 'VIGILANTE' found no renewal line. That search was not repeated or re-confirmed when this dossier was corrected. The Copyright Office public-records search was not completed, so non-renewal is not established.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofc19643181213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1963. Method: text search of the archive.org OCR file for 'VIGILANTE'. Coverage was partial: the fetch tool returned only part of this roughly 915,000-character volume, so most of it was not read. No renewal line was found in the portion returned. This is not a complete search of the volume.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "Catalog of Copyright Entries, Motion Pictures, 1965. Method: text search of the archive.org OCR file for 'VIGILANTE'. Coverage was partial: the fetch tool returned only part of this roughly 914,000-character volume, so most of it was not read. The one hit returned was an unrelated television episode title, not this serial. No renewal line for this serial was found in the portion returned. This is not a complete search of the volume.",
+          "source": "Internet Archive",
+          "url": "https://archive.org/details/catalogofc19653191213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Wikipedia's Production section cites Stedman (1971) for the serial being a reworking of Rudolph Valentino's silent film The Eagle. It cites Harmon and Glut (1973) for it also being based on Zorro and The Lone Ranger Rides Again. The rights position of those sources was not checked.",
+          "source": "Wikipedia, The Vigilantes Are Coming",
+          "url": "https://en.wikipedia.org/wiki/The_Vigilantes_Are_Coming"
+        }
+      ]
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1963,
+      1964,
+      1965
+    ],
+    "negative_result": "No renewal entry for this title was found in the searches described in the print evidence. The 1963 and 1965 searches covered only part of each volume, and the 1964 search was not re-confirmed. The Copyright Office public-records search was not performed, so the result is not conclusive.",
+    "diy_links": [
+      {
+        "label": "US Copyright Office public records (search “The Vigilantes Are Coming”)",
+        "url": "https://publicrecords.copyright.gov/"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1964 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19643181213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1963 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1965 Motion Pictures (archive.org)",
+        "url": "https://archive.org/details/catalogofc19653191213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/the-vigilantes-are-coming-movie-serial",
+      "label": "The Vigilantes Are Coming Movie Serial (Internet Archive, all 12 chapters)",
+      "quality": "unverified user upload, 2021"
+    }
+  ],
+  "editorial": "The Vigilantes Are Coming is a 12-chapter Republic Pictures serial directed by Ray Taylor and Mack V. Wright. It starred Robert Livingston as Don Loring, a masked vigilante called The Eagle, with Kay Hughes, Guinn 'Big Boy' Williams, Raymond Hatton and Fred Kohler in support. Per Wikipedia's Production section, it was filmed between 28 May and 17 June 1936 under the working title 'The Vigilantes'. Wikipedia's Release section gives 22 August 1936 as the official release date, and notes this is actually the date the sixth chapter was made available to film exchanges. Wikipedia's chapter list gives running times from about 15 to 31 minutes, and its Stunts section credits Yakima Canutt as Don Loring, doubling Robert Livingston. A creator gets a complete B-western cliffhanger, which suits clip reels and serial-themed compilations.\n\nThe rights trap is that the print's status is unconfirmed. The 1963 and 1965 Catalog of Copyright Entries searches covered only part of each volume, the 1964 search was not re-confirmed, and the Copyright Office public records were not checked. Wikipedia also says the serial reworks Valentino's The Eagle (1925), and the rights in that source were not examined. Check the Copyright Office record yourself before treating the print as free. Any score on a particular upload and any franchise or character mark would need separate clearance.",
+  "faq": [
+    [
+      "Is The Vigilantes Are Coming public domain?",
+      "Not confirmed. No renewal line was found in the searches of the 1963-1965 Catalog of Copyright Entries motion-picture volumes, but those searches were partial or not re-confirmed, and the Copyright Office public records were not searched. Do that search before relying on the print."
+    ],
+    [
+      "Does the Internet Archive copy clear me to reuse it?",
+      "No. The Internet Archive upload is a user upload, listed as uploaded in 2021. An upload shows the film is available, not that its copyright status was checked. Confirm the renewal position yourself."
+    ]
+  ]
+}

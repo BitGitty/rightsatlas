@@ -1,0 +1,78 @@
+{
+  "id": "texas-terror-1935",
+  "title": "Texas Terror",
+  "year": 1935,
+  "country": "US",
+  "last_verified": "2026-11-28",
+  "byline": null,
+  "layers": {
+    "print": {
+      "status": "undetermined",
+      "evidence": [
+        {
+          "type": "research_note",
+          "note": "Searched the text of the Catalog of Copyright Entries motion-picture volumes for 1962 and 1963 for 'TEXAS TERROR' and found no renewal. The text is very large and the automated check was not a complete page-by-page read, so the 1962 and 1963 volumes were only partly read and no absence has been shown. A 1962 or 1963 renewal would be listed only in the CCE Motion Pictures volumes, or in the Copyright Office's pre-1978 card catalog or records. The online public catalog at publicrecords.copyright.gov covers 1978 and later, so it is the wrong place to look for it. The renewal question is still open.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1963 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3171213libr"
+        },
+        {
+          "type": "research_note",
+          "note": "1962 volume checked the same way, with the same limits: only partly read, so no absence has been shown.",
+          "source": "Catalog of Copyright Entries, Motion Pictures and Filmstrips 1962 (archive.org)",
+          "url": "https://archive.org/details/catalogofcopyr3161213libr"
+        }
+      ]
+    },
+    "score": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "story": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "trademark": {
+      "status": "undetermined",
+      "evidence": []
+    },
+    "restorations": {
+      "status": "undetermined",
+      "evidence": []
+    }
+  },
+  "renewal_search": {
+    "renewal_years": [
+      1962,
+      1963
+    ],
+    "negative_result": null,
+    "diy_links": [
+      {
+        "label": "Catalog of Copyright Entries 1963, Motion Pictures (archive.org) — read page by page for “Texas Terror”; the open step",
+        "url": "https://archive.org/details/catalogofcopyr3171213libr"
+      },
+      {
+        "label": "Catalog of Copyright Entries 1962, Motion Pictures (archive.org) — read page by page for “Texas Terror”; the open step",
+        "url": "https://archive.org/details/catalogofcopyr3161213libr"
+      }
+    ]
+  },
+  "watch": [
+    {
+      "url": "https://archive.org/details/texas_terror_1935",
+      "label": "Texas Terror (1935) — Internet Archive, 51 min, sound, B&W",
+      "quality": "Internet Archive upload; the Internet Archive labels it public domain, which is not a rights determination"
+    }
+  ],
+  "editorial": "Texas Terror is a 1935 Western directed by Robert N. Bradbury. The Internet Archive item lists Lone Star Productions as publisher. It runs about 52 minutes (51:41 in the item's metadata), in black and white with sound. The Internet Archive copy was added on April 24, 2005, according to the item's metadata. A creator might want it for a plain 1930s Western look.\n\nThe rights trap is that this dossier has not settled the copyright status of the print. Our check of the 1962 and 1963 Catalog of Copyright Entries volumes for a renewal found nothing, but it was an automated text check, not a full read. Those volumes were only partly read, so no absence has been shown. The renewal check is not finished. To settle it, a reader must read the 1962 and 1963 CCE motion-picture volumes page by page, or request a Copyright Office records search. The Internet Archive's public-domain label is not evidence of status. Until then, treat all five layers as unresolved.",
+  "faq": [
+    [
+      "Is Texas Terror (1935) in the public domain?",
+      "Not established here. A check of the 1962 and 1963 Catalog of Copyright Entries volumes found no renewal, but those volumes were only partly read, so no absence has been shown. The renewal check is not finished. To settle it, read the 1962 and 1963 CCE motion-picture volumes page by page, or request a Copyright Office records search."
+    ],
+    [
+      "Can I use the Internet Archive copy in my own project?",
+      "The Internet Archive labels it public domain, but that label does not settle the copyright. The renewal check is not finished, so confirm it first by reading the 1962 and 1963 CCE motion-picture volumes or requesting a Copyright Office records search. Then check any added titles, music or other material in the particular copy you use."
+    ]
+  ]
+}
